@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Rock</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rock</Text>
+				</Title>
+				<Icon>
+					<Name>Fels</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gestein's Typ der meist als Oberste Schicht auf Bergen auftaucht. Kann zerkleinert werden um eventuell nutzvolle Materialien zu erhalten.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
