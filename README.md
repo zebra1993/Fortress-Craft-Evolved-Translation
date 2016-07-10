@@ -5,24 +5,25 @@ Alle Beiträge werde ich selber auch noch durch schauen, um ein Grundsatz an Qua
 
 Info für das Übersetzen der einzelnen Handbuch Seite:
 
+```xml
 <MaterialEntry>
 	<Name>Rock</Name> <!--Dont Change This, NICHT verändern Eintrag wird sonst nicht gefunden-->
 	<Pages>
 		<Page>
-			<Paragraphs>
+			<Paragraphs>				
 				<Title>
-					<Text>Rock</Text>
-				</Title>
-				<Icon>
-					<Name>Rock</Name> <!--Dont Change This, NICHT verändern, Icon Wird sonst nicht mehr Angezeigt -->
-					<Alignment>Center</Alignment><!--Dont Change This-->
-				</Icon>
-				<Paragraph>
-					<Text>Typ Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</Text> 
-				</Paragraph>				
-			</Paragraphs>
+					<Text>Rock</Text>				
+				</Title>				
+				<Icon>					
+					<Name>Rock</Name> <!--Dont Change This, NICHT verändern, Icon Wird sonst nicht mehr Angezeigt -->					
+					<Alignment>Center</Alignment><!--Dont Change This-->				
+				</Icon>				
+				<Paragraph>					
+					<Text>Typ Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</Text> 				
+				</Paragraph>							
+			</Paragraphs>			
 		</Page>				
-	</Pages>
+	</Pages>	
 </MaterialEntry>
-
+```
 
