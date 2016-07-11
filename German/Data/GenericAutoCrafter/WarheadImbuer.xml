@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Warhead Imbuer</FriendlyName>
+	<SpawnObject>PlasmaWarheadImbuer</SpawnObject>
+	<Value>WarheadImbuer</Value>
+			
+	<PowerUsePerSecond>830</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>4096</PowerTransferPerSecond>  <!-- 49800 -->
+	<MaxPowerStorage>2048</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>60</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>plasmamissile</Key>
+		<CraftedName>Plasma-Imbued Missile</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Basic Missile</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Imbue ist eine Standart Rakete mit 50k Energie. Sie hat den dreifachen Schaden der Standart Rakete und sieht zudem noch besser aus.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

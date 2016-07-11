@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Steel Alloy Smelter</FriendlyName>
+	<SpawnObject>MiniSmelterObj</SpawnObject>
+	<Value>SteelAlloySmelter</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>3</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>LowGradeSteelBar</Key>
+		<CraftedName>Low Grade Steel Bar</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Verhüttet automatische Nickel und Eisen zu Stahlbarren niederer Güte.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

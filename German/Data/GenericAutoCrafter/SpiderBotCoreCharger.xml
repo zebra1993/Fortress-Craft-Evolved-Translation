@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>SpiderBot Power Core Charger</FriendlyName>
+	<SpawnObject>SpiderBotPowerCoreCharger</SpawnObject>
+	<Value>SpiderBotCoreCharger</Value>
+			
+	<PowerUsePerSecond>33.2</PowerUsePerSecond>  <!-- 33.2 * 30 = 996 - CLOSE ENOUGH -->
+	<PowerTransferPerSecond>1000</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>1000</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>30</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>SpiderBot Power Core</Key>
+		<CraftedName>SpiderBot Power Core</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Lithium Coil</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gibt dem SpiderBot 1'000 Energie. Einfügen in das "SpiderBot Auflade- und Verbesserungs Station" mithilfe eines .</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>
