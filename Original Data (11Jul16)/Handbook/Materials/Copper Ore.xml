@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Copper Ore</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Copper Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found near the surface, Copper Ore can be smelted into Copper Bars using the smelter. Copper Bars are generally used in a wide range of machines with electrical components.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Copper Ore can be mined using an ore extractor.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

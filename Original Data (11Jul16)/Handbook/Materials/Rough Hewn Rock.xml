@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Rough Hewn Rock</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rough Hewn Rock</Text>
+				</Title>
+				<Icon>
+					<Name>Rough Hewn Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rock found just below the surface. Can be crushed in macerator to possibly extract useful ore.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

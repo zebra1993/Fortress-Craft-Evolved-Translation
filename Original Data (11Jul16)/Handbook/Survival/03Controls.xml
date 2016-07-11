@@ -1,0 +1,175 @@
+<Chapter>
+	<Handle>controls</Handle>
+	<Title>Controls</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Controls</Text>
+				</Title>
+				<Paragraph>
+					<Text>This help guide lists all of the controls available in FortressCraft Evolved, don't worry if you are feeling overwhelmed at first, just refer to the essential controls section to get started.</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Some controls are unavailable until you have completed the tutorial.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Essential Controls</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>W, A, S &amp; D: Movement
+					Space: Jump
+					H: This Help Guide
+					Escape: Main Menu
+					
+					X: Switch to Build Gun
+					LMB: Build Block
+					RMB: Remove Block
+					
+					M: Switch to Scanning Tool
+					LMB: Material Ping
+					RMB: Scan Block
+					</Left>
+					<Right>I: Open Inventory
+					C: Open Self Crafting
+					F: Fire Grappling Hook
+					G: Toss Glowstick
+					
+					E: Interact With Machine
+					Q: Extract From Machine
+					R: Rotate Machine
+					
+					V: Switch to Ray Gun
+					LMB: Fire
+					RMB: Charged Shot
+					</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(LMB = Left Mouse Button, RMB = Right Mouse Button)</Text>
+				</Paragraph>
+				<Header>
+					<Text>Customising Controls</Text>
+				</Header>				
+				<Paragraph>
+					<Text>Most controls can be customised from the game launcher. In-game hints will not reflect these changes.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Movement &amp; View</Text>
+				</Header>		
+				<TwoColumnParagraph>
+					<Left>W: Move Forwards
+					S: Move Backwards
+					A: Strafe Left
+					D: Strafe Right</Left>
+					<Right>Space: Jump
+					Mouse: Look Around
+					U: Ride Minecart
+					Z: Zoom</Right>
+				</TwoColumnParagraph>				
+				<Header>
+					<Text>Weapons &amp; Tools</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X: Switch to Build Gun
+					V: Switch to Ray Gun
+					B: Switch to Steadycam</Left>
+					<Right>N: Switch to Paint Gun
+					M: Switch to Scanning Tool
+					Shift + Mouse Wheel: Cycle Tools</Right>
+				</TwoColumnParagraph>					
+				<Header>
+					<Text>Inventory &amp; Hotbar</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>I: Open Inventory
+					F1-F7: Select Hotbar Tab
+					1-9 &amp; 0: Select Hotbar Slot
+					Q : Drop Highlighted item
+					</Left>
+					<Right>Shift + Drag: Split Stack
+					Control + Wheel: Cycle Tabs
+					Mouse Wheel: Cycle Slots
+					--
+					</Right>
+				</TwoColumnParagraph>					
+				<Header>
+					<Text>Suit Functions</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>C: Open Self Crafting
+					L: Toggle Head Lamp
+					J: Toggle Jetpack (needs crafting)
+					F: Fire Grappling Hook</Left>
+					<Right>G: Toss Glowstick
+					K: Toggle Holobase View
+					U: Toggle Holobase Mode
+					Space: Release Grappling Hook</Right>
+				</TwoColumnParagraph>		
+				<Header>
+					<Text>Machines</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>E: Interact with Machine
+					T: Store in Machine
+					R: Rotate Machine Clockwise
+					]: Rotate Machine Clockwise</Left>
+					<Right>Q: Extract from Machine
+					Shift-T: Store 10 Items
+					Shift-E: Hopper Vacuum Mode
+					[: Rotate Machine Anti-clockwise</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Multiplayer</Text>
+				</Header>	
+				<Paragraph>
+					<Text>Enter: Show Chat Window
+					Right Shift: Show Server Information
+					Right Shift + F1, F2 or F3: Set Network Rate</Text>
+				</Paragraph>
+				<Header>
+					<Text>Build Gun</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>LMB: Build Block
+					RMB: Remove Block
+					MMB : Pick Current Block</Left>
+					<Right>Control + LMB: Build-To-Me
+					Control + Hold RMB: Super Dig</Right>
+				</TwoColumnParagraph>				
+				<Header>
+					<Text>Scanning Tool</Text>
+				</Header>	
+				<Paragraph>
+					<Text>Left Mouse Button: Ping Surroundings
+					Right Mouse Button: Scan Block
+					Mouse Wheel: Change Ping Setting</Text>
+				</Paragraph>
+				<Header>
+					<Text>Ray Gun</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>LMB: Fire Single Shot</Left>
+					<Right>Hold RMB: Charged Shot</Right>
+				</TwoColumnParagraph>	
+				<Header>
+					<Text>Other</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Escape: Main Menu
+					Ctrl-M: Toggle music</Left>
+					<Right>Tab: Toggle ARTHER Distance</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

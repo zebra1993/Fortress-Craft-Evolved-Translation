@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Power Storage MK2</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Power Storage Block MK 2</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The power storage block MK 2 can hold a reserve of up to 1500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energy can be extracted from the power storage block by pressing the 'Extract' key (default 'Q'), and inserted using the "Interact" key (default 'E').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Capacity:
+					Maximum Power Transfer Rate:</Left>
+					<Right>1500
+					None</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

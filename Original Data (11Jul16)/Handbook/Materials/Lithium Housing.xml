@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Lithium Housing</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithium Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple lithium housing created from lithium plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

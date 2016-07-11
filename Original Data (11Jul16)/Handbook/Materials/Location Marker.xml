@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Name>Location Marker</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Location Marker</Text>
+				</Title>
+				<Icon>
+					<Name>Location Marker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Location marker can be used to store a set of coordinates and can then be inserted into any machine requiring them such as a teleporter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Usage</Text></Header>
+				<Paragraph>
+					<Text>After creating a location marker place it in your hotbar, select it, and point your build gun at the desired location. Then press the Build button (default 'LMB'). If successful your suit's heads up display will display a column of light on the targetted spot while the location marker is selected.</Text>
+				</Paragraph>
+				<Spacer/>
+					<Paragraph>
+					<Text>Please note that your suit does not support interacting with more than one location marker at a time therefore we recommend only carrying a single location marker in your inventory at one time to avoid confusion.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

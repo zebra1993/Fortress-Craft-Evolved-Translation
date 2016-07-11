@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Lift Manual Control Module</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lift Manual Control Module</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Manual Control Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Attach to the side of piston lift's base to allow you to manually control the speed of the lift using your suit's wireless connection. Use the Home and End keys to increase and decrease lift speed.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

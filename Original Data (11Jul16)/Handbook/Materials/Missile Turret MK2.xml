@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Name>Missile Turret MK2</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Missile Turret MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</Left>
+					<Right>64m
+					512m
+					50,000 (basic missile)
+					2
+					15 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

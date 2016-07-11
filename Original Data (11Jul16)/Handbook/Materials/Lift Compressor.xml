@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Lift Compressor</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lift Compressor</Text>
+				</Title>
+				<Icon>
+					<Name>Lift Compressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Attach to the base of a piston lift to improve the rate at which gas is regenerated maintaining the performance of heavily used lifts. This compressor must be externally powered. Two compressors are required on a single lift to achieve the maximum height of 256m.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Gas Recovery:
+					Power Usage:
+					Power Capacity:
+					Power Transfer Rate:</Left>
+					<Right>0.15 l/s
+					1 /s
+					150
+					5 /s</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

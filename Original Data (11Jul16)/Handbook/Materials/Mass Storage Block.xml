@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Mass Storage Block</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Block</Text>
+				</Title>
+				<Icon>
+					<Name>massstoragecrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This is the base block for automated mass storage. It cannot be accessed manually. Each block can hold a stack of 25 items. Placing mass storage blocks side by side creates a larger combined storage.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Caution!</Text>
+				</Header>
+				<Paragraph><Text>Has nothing to do with the Storage Crate!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

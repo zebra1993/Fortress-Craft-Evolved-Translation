@@ -1,0 +1,76 @@
+<Chapter>
+	<Handle>laboratory research</Handle>
+	<Title>Laboratory Research</Title>
+	<Icon>Laboratory Component</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laboratory Research</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+				</Icon>
+				<Paragraph>
+					<Text>This guide is for research projects which require the use of the laboratory. for more information on research in general please visit the research station help entry.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>				
+				<Header>
+					<Text>Constructing a Laboratory</Text>
+				</Header>
+				<Paragraph>
+					<Text>The research laboratory must first be unlocked by completing the appropriate projects at the research station. You then need to manufacture 27 laboratory components at the manufacturing plant and place them in a 3 by 3 by 3 configuration.
+					</Text>
+				</Paragraph>
+				<Header>
+					<Text>Powering the Laboratory</Text>
+				</Header>
+				<Paragraph>
+					<Text>The laboratory is designed to use as much power as you can supply it. More power means faster research! At minimum you should consider using several Pyrothermic generators, but there is no need to attempt to fully power the lab.</Text>
+				</Paragraph>				
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+			<Header>
+					<Text>Starting Projects</Text>
+				</Header>
+				<Paragraph>
+					<Text>Open the laboratory control panel by interacting with the machine (default 'E') and ensure you are in 'Experiment' mode. The selected project will be listed first followed by its requirements and any eligible projects below it. To select a new project click it and its requirements will be displayed. Click 'Start Project' to begin research.
+					</Text>
+
+				</Paragraph>
+				<Header>
+					<Text>Supplying Project Requirements</Text>
+				</Header>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Projects typically require one or more types of experimentation pods. The exact requirements will be listed with the project. These should be placed in a storage hopper attached to any side of the laboratory. If you wish to automate delivery of pods then you should consider using a separate hopper for each type to ensure availability of any pod type.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>For more information on creating experimentation pods please read the following guide.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

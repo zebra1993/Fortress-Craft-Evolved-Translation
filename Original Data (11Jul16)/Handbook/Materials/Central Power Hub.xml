@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Name>Central Power Hub</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Central Power Hub</Text>
+				</Title>
+				<Icon>
+					<Name>Central Power Hub</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Central Power Hub (CPH) is the most important machine in your base. It is too advanced to replicate and you cannot survive on this world without it so you must protect it at all costs.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Energy Production</Text>
+				</Header>			
+				<Paragraph>
+					<Text>The CPH contains a large internal battery which can store energy collected by its solar panels and from the small fossil fuel generator inside. There is only enough space for a single unit of fuel at a time so you should look to automate fuel delivery using a storage hopper or mini hopper as soon as possible.</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>The CPH will automatically push energy out to surrounding machines which need it. You can also insert or extract energy from it directly by interacting with it (default 'E'). This control panel also allows you to insert fuel into the generator.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Orbital Laser</Text>
+				</Header>
+				<Paragraph>
+					<Text>The laser beam fired from the top of the CPH can be used as a handy beacon for finding your base, however be careful not to place any blocks near it or they risk being destroyed.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Computer Systems</Text>
+				</Header>
+				<Paragraph>
+					<Text>The CPH contains most of the computer systems which coordinate your base, the control signals can be sent wirelessly, encoded in power and matter transmission beams, and along conveyor lines. The wireless connection is boosted by your suit, however if you find</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>	
+		<Page>
+			<Paragraphs>		
+					<Paragraph>
+					<Text>isolated, distant machines are shutting down when you are away consider running a basic laser power transmission line.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>	
+	</Pages>
+</MaterialEntry>
+

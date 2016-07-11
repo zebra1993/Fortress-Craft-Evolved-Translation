@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Pristine Stinger</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pristine Stinger</Text>
+				</Title>
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This stinger is exceptionally sharp but relatively fragile. It may have useful applications in the field of ore extraction.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

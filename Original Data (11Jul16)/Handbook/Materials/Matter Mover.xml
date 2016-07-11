@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Matter Mover</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Matter Mover</Text>
+				</Title>
+				<Icon>
+					<Name>Matter Mover</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Matter Movers are a high-speed, high-energy method of moving resources around your mining operation. They are simple in usage; supply with power as you would any other machine, and place them adjacent to the source Storage Hopper and facing towards the destination Storage Hopper. The cost to mattermit does not depend on distance. Line of sight to the destination hopper is required.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Transport Rate:
+					Power Required:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</Left>
+					<Right>300 items per minute
+					64 per item
+					256 /s (per face)
+					512
+					64m</Right>
+				</TwoColumnParagraph>	
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

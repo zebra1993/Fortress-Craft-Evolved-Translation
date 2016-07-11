@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>basic experimental pod</Key>
+		<CraftedKey>BasicExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>BasicPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper plates and basic PCBs are assembled into Basic Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>simplified experimental pod</Key>
+		<CraftedKey>SimplifiedExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>PrimaryPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin plates and primary PCBs are assembled into Simplified Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>intermediate experimental pod</Key>
+		<CraftedKey>IntermediateExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>HardenedPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron plates and Hardened PCBs are assembled into Intermediate Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>complex experimental pod</Key>
+		<CraftedKey>ComplexExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChargedPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium plates and Charged PCBs are assembled into Complex Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>advanced experimental pod</Key>
+		<CraftedKey>AdvancedExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ConductivePCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold plates and Conductive PCBs are assembled into Advanced Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>xl experimental pod</Key>
+		<CraftedKey>XLExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>FortifiedPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel plates and Fortified PCBs are assembled into XL Experimental Pods for use in research projects.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>ultimate experimental pod</Key>
+		<CraftedKey>UltimateExperimentalPod</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>LightweightPCB</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium plates and Lightweight PCBs are assembled into Ultimate Experimental Pods for use in research projects.</Description>
+	</CraftData>
+</ArrayOfCraftData>

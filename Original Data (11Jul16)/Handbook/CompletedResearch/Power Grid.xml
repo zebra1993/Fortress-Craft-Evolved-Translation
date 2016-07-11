@@ -1,0 +1,38 @@
+<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Power Grid</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Power Grid</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We now have a new method of generating and transporting power. This project has also designed new upgrades for ARTHER and a new machine, the Matter Mover, capable of teleporting materials from one storage hopper to another.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Pyrothermic Generator</Text></Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This machine will convert combustible resources in an attached storage hopper into power. It requires a lot of fresh air so loses efficiency with depth.</Text>
+				</Paragraph>
+				<Header><Text>Laser Energy Transmitter</Text></Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Place next to a power generator or battery to transmit power up to 64m to a battery, power comsumer or another Laser Energy Transmitter. We can use this to send power to our deeper mining operations.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

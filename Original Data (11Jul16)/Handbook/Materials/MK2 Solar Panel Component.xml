@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Name>MK2 Solar Panel Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK2 Solar Panel Component</Text>
+				</Title>
+				<Icon>
+					<Name>MK2 Solar Panel Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The MK2 Solar Panel is a power generator 3m wide, 3m long and 1m tall. Place 9 solar panel components in this layout to construct the machine. It must have direct access to sunlight above it.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>This power generation machine can only be placed on top of advanced machines such as the Research Laboratory, Refinery and MK4 &amp; MK5 Power Storage Systems.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</Left>
+					<Right>405 per second
+					162 per second
+					1500
+					Unlimited
+					n/a
+					Sunlight</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

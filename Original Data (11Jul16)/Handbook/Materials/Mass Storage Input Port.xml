@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Mass Storage Input Port</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Input Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Place this block next to a mass storage block to input items into the mass storage. The input can be fed straight from a conveyor belt to supply the items 1 by 1. Different item types can be imported by the same input port 1 at a time.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Caution!</Text>
+				</Header>
+				<Paragraph><Text>Has nothing to do with the Storage Crate!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

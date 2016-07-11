@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Titanium Plate</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Titanium Plate</Text>
+				</Title>
+				<Icon>
+					<Name>Titanium Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple titanium plate created from titanium bars in a Stamper Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

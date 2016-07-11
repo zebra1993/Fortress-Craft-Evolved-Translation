@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Purple GlowPod</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Purple GlowPod</Text>
+				</Title>
+				<Icon>
+					<Name>Purple GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This native species of flora emits a steady purple glow due to a chemical reaction just below the surface of the plant.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

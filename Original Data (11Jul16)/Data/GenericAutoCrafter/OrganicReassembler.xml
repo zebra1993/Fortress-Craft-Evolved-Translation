@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Organic Reassembler</FriendlyName>
+	<SpawnObject>OrganicReassembler</SpawnObject>
+	<Value>OrganicReassembler</Value>
+			
+	<PowerUsePerSecond>64</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>1024</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>640</MaxPowerStorage>  <!-- optional -->
+	<CraftingString>Reconstructing</CraftingString>
+	
+	<CraftTime>300</CraftTime>  <!-- optional -->
+	<OptionalIngredients>true</OptionalIngredients>
+	<Recipe>
+		<Key>recombined organic matter</Key>
+		<CraftedName>Recombined Organic Matter</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Ruined Heavy Chitin</Name>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Ruined Light Chitin</Name>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Ruined Stinger</Name>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Ruined Faceted Eye</Name>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Ruined Phosphorescent Gland</Name>
+				<Amount>10</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Recombine alien organic matter into pristine samples. Requires a total 10 of any, not 10 of all</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

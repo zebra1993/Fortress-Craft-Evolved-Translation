@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Rubble</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rubble</Text>
+				</Title>
+				<Icon>
+					<Name>Rubble</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found as by-product during manual ore mining. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

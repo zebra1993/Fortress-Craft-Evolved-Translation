@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Primary PCB</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Primary PCB</Text>
+				</Title>
+				<Icon>
+					<Name>Primary PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A tin based PCB created from tin coils in a PCB Assembling Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

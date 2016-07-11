@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Name>Blank Ore Ping</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Blank Ore Ping</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Blank Ore Ping is used in conjunction with a sample of ore to craft an ore ping filter. These filtered ore pings are designed to allow us to find more ore veins of the same type if the one previously discovered is nearing exhaustion or was too small to be of any use.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Usage</Text></Header>
+				<Paragraph>
+					<Text>1. Manufacture a suitable number of Blank Ore Pings at the manufacturing plant.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2. When a filtered ore ping is required combine the Blank Ore Ping with a sample of ore using your suit's self-crafting capabilities (default 'C').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3. Place the Ore Ping Filter into your hotbar and select it. Send off the ping by pressing the 'Build' button (default 'LMB'). This will feed it into the ore scanner and a filtered ping will be dispatched by the scanner and also displayed on the Holobase. The ore ping is consumed in the process.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

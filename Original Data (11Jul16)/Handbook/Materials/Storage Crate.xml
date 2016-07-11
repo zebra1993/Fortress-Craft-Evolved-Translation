@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Name>Storage Crate</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Storage Crate</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Read 'chest'. Placing Storage crates next to each other will create a larger combined storage. Each crate has 2 item slots.</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

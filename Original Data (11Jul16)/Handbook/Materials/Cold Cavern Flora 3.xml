@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Cold Cavern Flora 3</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cold Cavern Flora 3</Text>
+				</Title>
+				<Icon>
+					<Name>Cold Cavern Flora 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This incredible plant can survive the extreme conditions in the cold cavern.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

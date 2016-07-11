@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Pipe Coater</FriendlyName>
+	<SpawnObject>PipeExtruder_T1</SpawnObject>
+	<Value>PipeCoater</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>6</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>heat conducting pipe</Key>
+		<CraftedName>Heat Conducting Pipe</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Plastic Pellet</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Copper Pipe</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Crystal Fiber Mesh</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Wraps a crystal fiber mesh around copper piping and covers with plastic under high pressure to create a highly heat conductive pipe.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

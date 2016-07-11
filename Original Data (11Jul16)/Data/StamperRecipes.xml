@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>copper plate</Key>
+		<CraftedKey>CopperPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper bars are stamped into Copper plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>tin plate</Key>
+		<CraftedKey>TinPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin bars are stamped into Tin plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>iron plate</Key>
+		<CraftedKey>IronPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron bars are stamped into Iron plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>lithium plate</Key>
+		<CraftedKey>LithiumPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium bars are stamped into Lithium plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>gold plate</Key>
+		<CraftedKey>GoldPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold bars are stamped into Gold plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>nickel plate</Key>
+		<CraftedKey>NickelPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel bars are stamped into Nickel plates usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>titanium plate</Key>
+		<CraftedKey>TitaniumPlate</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium bars are stamped into Titanium plates usable for crafting.</Description>
+	</CraftData>
+</ArrayOfCraftData>

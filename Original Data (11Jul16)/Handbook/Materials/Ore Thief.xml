@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Name>Ore Thief</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne Ore Thief 3000 (tm)</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The newest machine to help out with your mining operation is the Ore Thief 3000! (patent pending). For a mere 9 Copper Bars, you too can avoid the drudgery and tedium of placing Ore into Storage Hoppers and instead allow us to do the hard work for you! 
+
+					With a massive 100 units of internal storage, the Ore Thief 3000 can offload to any adjacent Storage Hopper at up to 3,300 per minute! 
+
+					Simply build our brand-new Ore Thief 3000 (tm) in a 3x3 layout and supply with a mere 5 power per Ore, then just stand on it and let US do the hard work for you!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Ore Collection Speed:
+					Internal Storage:
+					Power Usage:
+					</Left>
+					<Right>Upto 3,300/minute!
+					100 units of Ore!
+					Only 5 power per Ore!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

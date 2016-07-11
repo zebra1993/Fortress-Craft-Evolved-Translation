@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Conveyor Belt Filter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Belt Filter</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources in a conveyor network. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

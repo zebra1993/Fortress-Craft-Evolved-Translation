@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Lithium Ore</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithium Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found around 120m under the surface and below, Lithium Ore can be smelted into Lithium Bars using the smelter. Lithium Bars are generally used in machines which store or transmit power.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Lithium Ore can be mined using an ore extractor.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Ruby Focusing Lens</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruby Focusing Lens</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Focusing Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Insert into a Laser Power Transmitter to improve its power transmission rate.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Transmission Rate:</Left>
+					<Right>150%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

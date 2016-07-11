@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>GlowShroom</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>GlowShroom</Text>
+				</Title>
+				<Icon>
+					<Name>GlowShroom</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A glowing fungus found on the surface of this planet. Do Not Eat!</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

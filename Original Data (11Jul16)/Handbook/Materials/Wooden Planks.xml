@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Wooden Planks</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Wooden Planks</Text>
+				</Title>
+				<Icon>
+					<Name>Wooden Planks</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default 'C') to manufacture these.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

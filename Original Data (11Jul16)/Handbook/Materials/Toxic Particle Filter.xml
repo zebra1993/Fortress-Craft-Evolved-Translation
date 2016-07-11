@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Toxic Particle Filter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Toxic Particle Filter</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Advanced filters fitter to the hazard suit allows it to remove toxic substances from the air. You only need one of these and it must be kept in your inventory to function.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

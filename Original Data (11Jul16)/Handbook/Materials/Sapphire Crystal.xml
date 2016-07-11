@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Name>Sapphire Crystal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Sapphire Crystal</Text>
+				</Title>
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A sapphire crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -225 to -300.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

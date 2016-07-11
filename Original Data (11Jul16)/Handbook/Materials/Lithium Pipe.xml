@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Lithium Pipe</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithium Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple lithium pipe created from lithium bars in a Pipe Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

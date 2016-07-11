@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>MK2 Power Booster</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Restored:</Left><Right>250</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK3</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>MK2PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK2 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

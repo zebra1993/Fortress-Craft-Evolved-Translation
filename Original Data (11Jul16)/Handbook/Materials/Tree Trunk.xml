@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tree Trunk</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tree Trunk</Text>
+				</Title>
+				<Icon>
+					<Name>Tree Trunk</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Basic ingredient for Wooden Planks. You can get them by cutting down trees. The block can be placed. No manufacturing plant required to craft Wooden Planks.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

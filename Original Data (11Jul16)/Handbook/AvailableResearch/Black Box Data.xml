@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>black box</Handle>
+	<Title>Black Box Data</Title>
+	<Icon>>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Black Box Data</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Your suit contains a black box that stored all sensor readings leading up to your crash on the planet. Researching this data could help you determine what exactly happened.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

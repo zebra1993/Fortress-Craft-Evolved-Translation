@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Gold Housing</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple gold housing created from gold plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

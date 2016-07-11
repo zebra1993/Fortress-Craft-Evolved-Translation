@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Name>Induction Charger</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Induction Charger</Text>
+				</Title>
+				<Icon>
+					<Name>Induction Charger</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Induction Charger is a small 5x5 machine that has an extremely high throughput but minimal on-board storage. It is an excellent candidate for supplying power to an area without cluttering it with many lasers or batteries, and should avoid the need for having underground buried powerlines and distribution blocks.
+
+					Usage is simple; build in a 5x1x5 square, feed power from any direction, and place the machines on top or to the sides. Be aware, as with all power-supplying machines, that facing a Laser Power Transmitter at the Charger AND touching the Charger will result in a feedback loop, and this should be avoided.
+
+					This machine, placed underneath a Research Laboratory or other large, power-hungry machine, is excellent for arranging neat, high-speed power delivery.
+					</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Internal Storage:
+					Power Input Rate : 
+					Power Output Rate : 
+					</Left>
+					<Right>1500
+					7500/face/second
+					1250/machine/second
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

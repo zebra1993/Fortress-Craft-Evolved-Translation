@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Forced Induction</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Forced Induction</Text>
+				</Title>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Basic Ore Smelters do not support Forced Induction Upgrades.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Smelting Speed:
+					Power Usage:</Left>
+					<Right>200%
+					800%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

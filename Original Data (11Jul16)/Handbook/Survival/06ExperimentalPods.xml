@@ -1,0 +1,81 @@
+<Chapter>
+	<Handle>experimental pods</Handle>
+	<Title>Experimental Pods</Title>
+	<Icon>ResearchPod_Basic</Icon>
+	<ResearchRequirements>
+		<Research>Advanced Research</Research>
+	</ResearchRequirements>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Experimental Pods</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>						
+				<Header>
+					<Text>What are Experimental Pods?</Text>
+				</Header>
+				<Paragraph>
+					<Text>Experimental pods are the resource used by the laboratory to perform experiments. Each pods is an intelligent storage device capable of containing and monitoring a variety of substances. The laboratory is responsible for the management of these, you need only supply it with the empty pods.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Creating Experimental Pods</Text>
+				</Header>
+				<Paragraph>
+					<Text>Experimental pods are unlocked at the same time as the laboratory, only the most basic of these can be crafted in the manufacturing plant. The rest require specialised machinary. Each type of pods requires a different raw material but all use the same machinary to construct them.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Each pod is constucted from metal places and printed circuit boards (PCBs) make from the same material. Please review the help entry for the specific pod you require for more information.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Creating Metal Plates</Text>
+				</Header>
+				<Icon>
+					<Name>Stamper Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Metal plates are created in a stamper plant. This is a specialised type of conveyor with the stamper machinary attached to it and can be made in the manfacturing plant. The raw material required is a metal bar.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Creating PCBs</Text>
+				</Header>
+				<Icon>
+					<Name>PCB Assembling Plant</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Creating PCBs is a multi-stage process and requires the use of three machines. First use an 'Extrusion Plant' to convert metal bars into wires. Next a 'Coiler Plant' to convert wires into coils, and finally a 'PCB Assembly Plant' to convert coils into PCBs.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Manufacturing Pods</Text>
+				</Header>
+				<Icon>
+					<Name>Research Assembler</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Finally use the research assembler to combine the plates and PCBs into an experimental pod. This is not a conveyor based machine and requires power and both input and output storage hoppers. We recommend using two input hoppers to ensure availability of both plates and PCBs. The completed pods can then be delivered to the laboratory.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>copper coil</Key>
+		<CraftedKey>CopperCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper wires are wound into Copper coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>tin coil</Key>
+		<CraftedKey>TinCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin wires are wound into Tin coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>iron coil</Key>
+		<CraftedKey>IronCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron wires are wound into Iron coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>lithium coil</Key>
+		<CraftedKey>LithiumCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium wires are wound into Lithium coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>gold coil</Key>
+		<CraftedKey>GoldCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold wires are wound into Gold coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>nickel coil</Key>
+		<CraftedKey>NickelCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel wires are wound into Nickel coils usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>titanium coil</Key>
+		<CraftedKey>TitaniumCoil</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium wires are wound into Titanium coils usable for crafting.</Description>
+	</CraftData>
+</ArrayOfCraftData>

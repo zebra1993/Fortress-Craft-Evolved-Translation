@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Base Defence</Title>
+	<Icon>>ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Base Defence</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Following on from your research into the local life forms it is clear that defensive systems must be a high priority.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>We shall have to bring FREEDOM to this planet!</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

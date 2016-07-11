@@ -1,0 +1,57 @@
+<MaterialEntry>
+	<Name>Conveyor Belt</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Belt</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Conveyor Belts are a relatively cheap and easy way of moving resources around. Your first use for them is likely to be to move material from a Storage Hopper attached to an ore or coal mine to one attached to a smelter or power generator such as the Central Power Hub or Pyrothermic Generator.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Conveyor Belts will automatically take resources from any Storage Hopper adjacent if they are facing any direction away from the hopper and move it along its forward direction placing it onto any conveyor or storage hopper in front of it, provided there is space available. You can change the direction of the conveyor line by rotating a conveyor or by placing it on a wall to move resources vertically. Storage Hoppers are only needed to interact with adjacent machines at the end of the line.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Limitations</Text>
+				</Header>
+				<Paragraph>
+					<Text>Conveyors are cheap and do not required external power, however they do have a number of disadvantages. They are vulnerable to extreme cold/toxic environments and the open design makes them particularly susceptible to attack. Alternative methods of transportation should be researched.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>		
+		<Page>
+			<Paragraphs>
+				<Header><Text>Filtering</Text></Header>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </Text>
+				</Paragraph>	
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Transport Rate (fast):
+					Maximum Transport Rate (slow):
+					Power Required:
+					Maximum Range:
+					Vulnerability</Left>
+					<Right>120 items per minute
+					60 items per minute
+					None
+					1m
+					High</Right>
+				</TwoColumnParagraph>	
+			</Paragraphs>
+		</Page>					
+	</Pages>
+</MaterialEntry>

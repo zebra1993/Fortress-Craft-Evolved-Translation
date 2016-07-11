@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Diamond Crystal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Diamond Crystal</Text>
+				</Title>
+				<Icon>
+					<Name>Diamond Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A diamond crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth 0 to -75.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tricks and Tips.</Text>
+				</Header>
+				<Paragraph><Text>These semi-open caves are best approached from the surface.</Text></Paragraph>
+				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

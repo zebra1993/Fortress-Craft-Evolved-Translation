@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Hydrojet Cutter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Hydrojet Cutter</Text>
+				</Title>
+				<Icon>
+					<Name>Hydrojet Cutter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Place this module on top of your manufacturing plant to allow the manufacture of suit upgrades.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

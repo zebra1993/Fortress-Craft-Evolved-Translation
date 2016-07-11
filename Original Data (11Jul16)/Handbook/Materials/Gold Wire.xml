@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Gold Wire</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Wire</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Wire</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple gold wire created from gold bars in an Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Basic Mining Upgrades I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Mining Upgrades I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We need to improve the rate at which we can improve the rate at which we can collect and smelt ore. This project will focus on improving the performance of ore exractors and smelters.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

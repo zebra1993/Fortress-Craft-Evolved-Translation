@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Rack Railer</FriendlyName>
+	<SpawnObject>PipeExtruder_T1</SpawnObject>
+	<Value>RackRailer</Value>
+			
+	<PowerUsePerSecond>100</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>1024</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>128</MaxPowerStorage>  					<!-- optional -->
+	<CraftingString>Assembling</CraftingString>
+	
+	<CraftTime>1</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>RackRailMachineRecipe</Key>
+		<CraftedKey>RackRail</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>4</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Creates Rack Rails.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

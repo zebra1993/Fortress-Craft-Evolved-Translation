@@ -1,0 +1,104 @@
+<MaterialEntry>
+	<Name>Cargo Lift Controller</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cargo Lift Controller</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+					Used for vertical bulk haulage. 
+					This is built in a 3x1x3 orientation. 
+					This is an ideal companion machine for Minecarts, and is the preferred method for moving large numbers of items from deep within your world.
+					 Once built, you will need to manually excavate a shaft beneath it. If preferred, use a machine to do this tedious task for you.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Target><Material>AutoExcavator</Material></Target>
+				</Icon>
+	
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Shaft configuration</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Once you have cleared your shaft to your desired depth, you will need to fit RackRails to the edges of it. Thankfully, using modern construction techniques, these don't need any support. 
+
+					Simply attach a Storage Hopper to the Cargo Lift controller and it will place them automatically. 
+
+					There is NO limit to the distance that this can be placed, but please note that there is a trade-off between distance and speed. 
+
+					400-600 metres is ideal, but they can be used at any distance at all. 
+
+					A minimum distance of around 15 metres is recommended. 
+
+					For shorter distances, try MatterMovers or Transport Conveyors.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>3D Printer</Name>
+					<Target><Material>RackRailer</Material></Target>
+				</Icon>
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Deployment</Text>
+				</Title>
+				<Paragraph>
+					<Text>Once your Cargo Lift Controller is reading a suitable distance on the rail deployment, then you are ready to fit a Cargo Lift to it.
+					Simply open the Cargo Lift Controller UI (default key is 'E') and drag the appropriate Cargo Lift into the slot.
+					You can remove and upgrade Cargo Lifts, but the Cargo Lift MUST be empty before you can do so.
+					</Text>
+				</Paragraph>
+
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Target><Material>CargoLiftBasic</Material></Target>
+				</Icon>
+			 
+				<Spacer/>
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+					<Target><Material>CargoLiftImproved</Material></Target>
+				</Icon>
+				 
+				<Spacer/>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Target><Material>CargoLiftBulk</Material></Target>
+				</Icon>
+				 
+				<Spacer/>
+
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Usage</Text>
+				</Title>
+				<Paragraph>
+					<Text>Your Cargo Lift will automatically travel up and down the shaft if given enough power, and will collect and offload resources depending on the orders given. To change the orders, simply open the Cargo Lift Controller UI (default key is 'E') and select them appropriately.
+
+					Once at the upper or lower bounds of your shaft, the Cargo Lift will attempt to Load and Unload via any attached Storage Hoppers. Simply place them touching the parked lift.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+			</Page>
+	</Pages>
+</MaterialEntry>

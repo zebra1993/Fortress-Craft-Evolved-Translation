@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Missile Fueller</FriendlyName>
+	<SpawnObject>MissileFueller</SpawnObject>
+	<Value>MissileFueller</Value>
+			
+	<PowerUsePerSecond>8</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>128</MaxPowerStorage>  <!-- optional -->
+
+	<CraftingString>Fuelling</CraftingString>
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>basic missile</Key>
+		<CraftedName>Basic Missile</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>High Energy Composite Fuel</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Empty Missile</Name>
+				<Amount>1</Amount>
+			</CraftCost>			
+		</Costs>
+		<Description>Fill a Basic Missile with High Energy Composite Fuel.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

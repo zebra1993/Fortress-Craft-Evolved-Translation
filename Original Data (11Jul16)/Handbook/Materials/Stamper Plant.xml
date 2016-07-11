@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Name>Stamper Plant</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stamper Plant</Text>
+				</Title>
+				<Icon>
+					<Name>Stamper Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The stamper plant is a regular conveyor fitted with a machine for stamping metal bars into plates.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Feed metal bars into the stamper from another conveyor, conveyor based machine, or conveyor turntable. The stamper will convert the bars into plates which can be used in additional recipies.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>The stamper is essential for the automation of laboratory research.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

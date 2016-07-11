@@ -1,0 +1,50 @@
+<MaterialEntry>
+	<Name>Improved Cargo Lift</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Improved Cargo Lift</Text>
+				</Title>
+				<Icon>
+					<Name>CargoLiftImproved</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The second available Cargo Lift is much faster and much larger than the Basic one. This is ideal for en-masse delivery of deeper materials such as Nickel, Crystal and Biomass.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity
+					Power Usage (Travelling):
+					</Left>
+					<Right>Unlimited
+					10 metres/sec
+					0.5 metres/sec/sec
+					1000
+					250 PPS
+					</Right>
+				</TwoColumnParagraph>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material></Target>
+				</Icon>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>CargoLift Controller</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>				
+	</Pages>
+</MaterialEntry>

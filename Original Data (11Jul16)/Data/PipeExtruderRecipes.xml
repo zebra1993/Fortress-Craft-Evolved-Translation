@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>copper pipe</Key>
+		<CraftedKey>CopperPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper bars are extruded into Copper pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>tin pipe</Key>
+		<CraftedKey>TinPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin bars are extruded into Tin pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>iron pipe</Key>
+		<CraftedKey>IronPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron bars are extruded into Iron pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>lithium pipe</Key>
+		<CraftedKey>LithiumPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium bars are extruded into Lithium pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>gold pipe</Key>
+		<CraftedKey>GoldPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold bars are extruded into Gold pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>nickel pipe</Key>
+		<CraftedKey>NickelPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel bars are extruded into Nickel pipes usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>titanium pipe</Key>
+		<CraftedKey>TitaniumPipe</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium bars are extruded into Titanium pipes usable for crafting.</Description>
+	</CraftData>
+</ArrayOfCraftData>

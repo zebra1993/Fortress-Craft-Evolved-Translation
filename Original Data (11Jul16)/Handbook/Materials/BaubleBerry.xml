@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>BaubleBerry</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>BaubleBerry</Text>
+				</Title>
+				<Icon>
+					<Name>BaubleBerry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A nondescript plant found on the surface and within the caverns of this planet.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

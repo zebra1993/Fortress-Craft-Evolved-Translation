@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Minecart Unload Station</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Unload Station</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Removes materials from Minecarts into attached Storage Hoppers.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Minecart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

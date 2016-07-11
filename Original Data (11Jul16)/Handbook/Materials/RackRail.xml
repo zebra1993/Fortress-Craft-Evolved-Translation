@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Rack Rail</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rack Rail</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Rack Rail</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>
+					See : Cargo Lift Controller
+				</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+					<Target><Material>Cargo Lift Controller</Material></Target>
+				</Icon>	
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

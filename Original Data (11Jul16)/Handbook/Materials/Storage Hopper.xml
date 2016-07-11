@@ -1,0 +1,62 @@
+<MaterialEntry>
+	<Name>Storage Hopper</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Storage Hopper</Text>
+				</Title>
+				<Icon>
+					<Name>StorageHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The storage hopper is one of the most important machines for automating your base. It has a storage capacity of 100 items and can process items very quickly. Cheaper alternatives with a smaller capacity and longer processing time are available and can be useful when first setting up a base.</Text>
+				</Paragraph>
+				<Header>
+					<Text>I/O Status</Text>
+				</Header>
+				<Paragraph>
+					<Text>The storage hopper can be set to one of four input/output statuses. These are: Add/Remove, Remove Only, Add Only and Locked. The status can be cycled by pressing the 'Interact' key (default 'E'). These status codes only apply to standalone machines, such as a smelter or assembly plant. They do not apply to conveyors or conveyor based assembly machines with the single exception that a locked hopper will not output onto a conveyor.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>A machine will only extract from a hopper if it is set to Add/Remove or Remove Only and will only place items back into the hopper if it is set to Add/Remove or Add Only. For machines which have both an input and output it is advisable to have two hoppers, one set to Remove Only containing the raw materials, and one set to Add Only into which the manufactured component will be placed. This will ensure the system does not become deadlocked.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Conveyors</Text>
+				</Header>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The I/O status does not apply to conveyors, this allows you to use them to insert raw materials into a machine input hopper marked as 'Remove Only' and vice versa. Any conveyor directly facing the hopper will insert materials into that hopper. The hopper will output onto any other conveyor above, below or to the side of it unless the hopper is locked.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Manually Storing Items</Text>
+				</Header>
+				<Paragraph>
+					<Text>While the hopper is intended to be used for automation it is possible to manually store items within it by pressing the 'Store' key (default 'T'). The selected item or stack in the hotbar will be stored in the hopper if there is space. You can also store 10 items only by pressing Shift+T. To store an exact amount you can split the stack in your inventory (hold Shift and drag). Each press of T will insert the last matching stack in your inventory.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Manually Extracting Items</Text>
+				</Header>
+				<Paragraph>
+					<Text>All items in a hopper can be removed by pressing the 'Extract' key (default 'Q').</Text>
+				</Paragraph>
+				<Header>
+					<Text>Toggle Vacuum Mode</Text>
+				</Header>
+				<Paragraph>
+					<Text>The vacuum mode can be toggled using a modified interact (default 'Shift+E'). When the vacuum mode is turned on the hopper will suck in any nearby objects so long as there is enough storage space remaining.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>
+

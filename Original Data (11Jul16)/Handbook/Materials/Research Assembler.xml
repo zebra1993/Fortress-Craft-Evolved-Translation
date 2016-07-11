@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>Research Assembler</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Research Assembler</Text>
+				</Title>
+				<Icon>
+					<Name>Research Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatically manufactures experimental research pods from metal plates and PCBs. This should then be connected directly to your Laboratory to provide automated research. 
+					It's recommended to automate production of these via filters for efficient production, due to their time-consuming nature.
+					</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required(Peak):
+					Power Capacity:
+					Maximum Recharge Rate:</Left>
+					<Right>15 seconds
+					128 per second
+					100
+					100 per second</Right>
+				</TwoColumnParagraph>		
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>			
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

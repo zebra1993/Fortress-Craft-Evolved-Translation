@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Steel Cutter Head</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Steel Cutter Head</Text>
+				</Title>
+				<Icon>
+					<Name>Steel Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Reduces wasted ore by improving the efficiency of ore extractor. Also allows the mining of harder materials. Cutter heads wear out over time.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Efficiency:
+					Maximum Hardness:
+					Durability:</Left>
+					<Right>20%
+					250
+					10000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

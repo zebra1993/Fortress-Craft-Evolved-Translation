@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Improved Ore Scanning</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Improved Ore Scanning</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We have encountered a problem in our search for resources to expand our base!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Our ore scanner is configured for locating unknown materials for research and classification. Its ability to find new sources of specific known materials is limited. It should be possible to use a small quantity of spare ore to act as an advanced filter allowing us to locate just the resources we require.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

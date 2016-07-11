@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Mass Storage Output Port</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage Output Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Place this block next to a mass storage block to output items from the mass storage to a conveyor belt. You need to manualy specify one single item you want extracted from the mass storage. If the specified item is available in the mass storage the robot will fetch them one by one and place the item onto the built in conveyor.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tips and Tricks!</Text>
+				</Header>
+				<Paragraph><Text>Be aware of the orientation of this block! Just like a regular conveyor it moves the item into a specific direction.</Text></Paragraph>
+				<Paragraph><Text>To assign a item to be output, Hold the desired item in your Hotbar, Look at the output port and press "E"</Text></Paragraph>
+				<Header>
+					<Text>Caution!</Text>
+				</Header>
+				<Paragraph><Text>Has nothing to do with the Storage Crate!</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

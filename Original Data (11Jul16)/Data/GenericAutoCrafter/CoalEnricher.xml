@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Organic Coal Enricher</FriendlyName>
+	<SpawnObject>CoalEnricher</SpawnObject>
+	<Value>CoalEnricher</Value>
+			
+	<PowerUsePerSecond>0.1</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>1024</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>8</MaxPowerStorage>  					<!-- optional -->
+	<WorkingAnimation>In</WorkingAnimation>					<!-- optional -->
+	<CraftingString>Enriching</CraftingString>
+	<CraftTime>30</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>coal enrichment</Key>
+		<CraftedName>Enriched Coal</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Coal Ore</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Pulverizes and re-compact coal so that it can burn twice as hot</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

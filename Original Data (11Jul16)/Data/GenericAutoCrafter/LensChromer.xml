@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Lens Chromer</FriendlyName>
+	<SpawnObject>LensChromer</SpawnObject>
+	<Value>LensChromer</Value>
+			
+	<PowerUsePerSecond>64</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>1024</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>640</MaxPowerStorage>  <!-- optional -->
+	<CraftingString>Polishing</CraftingString>
+	
+	<CraftTime>300</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>
+	<Recipe>
+		<Key>PolishedChromeLens_Key</Key>
+		<CraftedKey>PolishedChromeLens</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>UnfocusedPolishedLens</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChromiumBar</Key><!-- change to plate -->
+				<Amount>4</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Mirror-coats a high-precision unfocussed lens to provide a useful upgrade.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

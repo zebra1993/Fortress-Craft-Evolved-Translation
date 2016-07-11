@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Ultimate Experimental Pod</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultimate Experimental Pod</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Ultimate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>For more information on creating experimentation pods please read the following guide.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

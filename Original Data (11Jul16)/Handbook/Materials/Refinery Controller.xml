@@ -1,0 +1,50 @@
+<MaterialEntry>
+	<Name>Refinery Controller</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Refinery Controller</Text>
+				</Title>
+				<Icon>
+					<Name>Refinery Controller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The refinery allows you to recombine carbohydrates found on the alien planet into useful materials. To operate, it requires two parts: The Refinery Controller and a Refinery Reactor Vat. </Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Reactor Vat Component</Material>
+					</Target>
+					<Text>Refinery Reactor Vat Component</Text>
+				</Link>
+				<Paragraph>
+					<Text>The Refinery Controller is the machine that maintains the precise chemical balances required to create the desired products. In order to function, the raw product needs to be supplied to the controller, as well as enough power to function. Storage hoppers connected to the controller can receive the output product.
+
+Connecting a controller to a vat is as simple as placing the controller anywhere directly against the vat. If connected, the popup window will display this, and the controller will orient itself towards the vat and extend pipes to connect to it. 
+
+A refinery can process only one product at a time: You can cycle through the different recipes by pressing ‘e’ while having the controller selected. It can only start producing a new result until the internal storage can accommodate it; if a different product is still in there, production cannot continue.
+
+You can retrieve products from the controller by pressing ‘q’, or by connecting a storage hopper.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+		<Page>
+			<Paragraphs>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Maximum Recharge Rate:</Left>
+					<Right>10 seconds (per vat)
+					100 per second (per vat)
+					3000 (per vat)
+					100 per second (per vat)</Right>
+				</TwoColumnParagraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

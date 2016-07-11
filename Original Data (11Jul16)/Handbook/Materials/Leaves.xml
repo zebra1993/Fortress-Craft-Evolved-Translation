@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Leaves</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leaves</Text>
+				</Title>
+				<Icon>
+					<Name>Leaves</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Can be collected from trees and placed or macerated.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

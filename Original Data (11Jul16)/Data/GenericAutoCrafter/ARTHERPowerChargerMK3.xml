@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>MK3 PowerCore Charger</FriendlyName>
+	<SpawnObject>MK3PowerBoosterCharger</SpawnObject>
+	<Value>MK3PowerBoosterCharger</Value>
+			
+	<PowerUsePerSecond>500</PowerUsePerSecond>  <!-- 500 power -->
+	<PowerTransferPerSecond>1000</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>1500</MaxPowerStorage>  <!-- optional -->
+	<LoadingAnimation>In</LoadingAnimation>					<!-- optional -->
+	<WorkingAnimation>Out</WorkingAnimation>					<!-- optional -->
+	<UnloadingAnimation>Idle</UnloadingAnimation>					<!-- optional -->
+	
+	<CraftTime>5</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>PowerBoosterMK3</Key>
+		<CraftedName>MK3 Power Booster</CraftedName><!-- Iiiiiiiiiiiiiirelevant -->
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>MK2 Power Booster</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Creates a single-user power booster. This will give ARTHER 500 power, but costs 2500 power to make. Place the item into your hotbar to use it.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

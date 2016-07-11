@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>The Itano</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>The Itano</Text>
+				</Title>
+				<Icon>
+					<Name>The Itano</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</Left>
+					<Right>64m
+					512m
+					50,000 (basic missile)
+					16
+					15 seconds</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Bedrock</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bedrock</Text>
+				</Title>
+				<Icon>
+					<Name>Bedrock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>One of the general rock types. Can be crushed in macerator to possibly extract useful ore. This block can be placed.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Name>Topaz Crystal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Topaz Crystal</Text>
+				</Title>
+				<Icon>
+					<Name>Topaz Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A topaz crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -300 to -375.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Threat Scanner</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Threat Scanner</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Scanner</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The threat scanner keeps track of the hostile wildlife providing an estimate on the composition of and time until next attack.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

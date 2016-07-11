@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Gold Plate</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Plate</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple gold plate created from gold bars in a Stamper Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

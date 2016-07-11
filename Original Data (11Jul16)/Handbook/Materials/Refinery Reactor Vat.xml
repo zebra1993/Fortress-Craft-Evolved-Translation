@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Refinery Reactor Vat Component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Refinery Reactor Vat</Text>
+				</Title>
+				<Icon>
+					<Name>Metal Siding 1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The refinery allows you to recombine carbohydrates found on the alien planet into useful materials. To operate, it requires two parts: The Refinery Controller and a Refinery Reactor Vat. </Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+					</Target>
+					<Text>Refinery Controller</Text>
+				</Link>
+				<Paragraph>
+					<Text>A refinery reactor vat is a large structure built from Reactor Vat Component blocks. When placed in a solid 3 by 3 by 3 configuration, the vat will display as a large machine.
+
+The reactor vat contains the chemical processes required to recombine carbohydrates. In order to function, it must be connected to a controller. It is possible to stack vats on top of each one connected to controller, in order to allow the controller to operate on multiple vats at the same time. This will give you a linear increase in production and power cost, as well as storage of output product: Each vat can store 10 completed products before it will run out of room to process more. The bonus in using more vats on one controller is to avoid having to make multiple expensive refinery controllers.
+
+Each vat contains many electrical conduits as well as many transport pipes. Because of this, any power supplied to the vats will also be delivered to the connected controller. Maximum power storage of the refinery depends on the amount of vats connected.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

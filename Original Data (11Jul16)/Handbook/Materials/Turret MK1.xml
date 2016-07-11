@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Turret MK1</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Turret MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Pop Up Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Range:
+					Damage (per shot):
+					Power Requirement (per shot):
+					Maximum Power Capacity:
+					Reload Time:</Left>
+					<Right>16m
+					50
+					40
+					100
+					1 second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

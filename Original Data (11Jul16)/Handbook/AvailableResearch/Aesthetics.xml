@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>aesthetics</Handle>
+	<Title>Aesthetics</Title>
+	<Icon>Hello_Kitty1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Aesthetics</Text>
+				</Title>
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

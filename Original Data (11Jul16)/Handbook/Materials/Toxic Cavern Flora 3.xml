@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Toxic Cavern Flora 3</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Toxic Cavern Flora 3</Text>
+				</Title>
+				<Icon>
+					<Name>Toxic Cavern Flora 3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This plant appears to be immune to the toxic environment in this cavern.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>This plant can be burned for power.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

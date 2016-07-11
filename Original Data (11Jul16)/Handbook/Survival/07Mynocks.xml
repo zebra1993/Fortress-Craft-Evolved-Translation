@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Mynocks</Handle>
+	<Title>Mynock Infestation</Title>
+	<Icon>Local Life Forms</Icon>
+	<Hidden>true</Hidden>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mynock Infestation</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+				</Icon>
+				<Paragraph>
+					<Text>This conveyor belt has been infested by an alien lifeform. We have spotted it stealing resources from the belt but those resources do not appear to be remaining within the body of the lifeform itself. Instead they seem to be directed into a root system running through the earth. Our scanners show these roots appear to be heading towards a central core, we should investigate this as a matter of priority.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Regardless of whatever the final destination of these stolen resources may be, we want to put a stop to it! The alien structures appear to be susceptible to energy weapons. We should research their vulnerabilities further which should allow us to construct automated base defenses to take them out. Longer term we should look towards researching improved methods of resource distribution which are less vulnerable to attack. As a stop-gap we can kill them using our ray gun (V), but they'll certainly be back quickly.</Text>
+				</Paragraph>			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

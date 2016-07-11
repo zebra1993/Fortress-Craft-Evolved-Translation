@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Dirt</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Dirt</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Block type usually found just beneath the snowy surface blocks. Can be crushed in macerator to possibly extract useful ore.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

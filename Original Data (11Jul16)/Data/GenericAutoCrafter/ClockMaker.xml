@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Clock Maker</FriendlyName>
+	<SpawnObject>ClockMaker</SpawnObject>
+	<Value>ClockMaker</Value>
+			
+	<PowerUsePerSecond>1</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>128</MaxPowerStorage>  <!-- optional -->
+  	<WorkingAnimation>MakingClock</WorkingAnimation> <!-- optional -->
+	
+	<CraftTime>5</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ClockCrystal</Key>
+		<CraftedName>Crystal Clock</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Crystal Deposit</Name>
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Makes Clocks!</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

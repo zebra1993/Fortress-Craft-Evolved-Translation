@@ -1,0 +1,50 @@
+<MaterialEntry>
+	<Name>Ore Smelter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ore Smelter</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The smelter will convert raw ore into bars which can be used in the manufacturing plant and elsewhere to craft new machines and items.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Initially you will need to feed the smelter manually, this can be done by pressing the 'Interact' button (default 'E') to open the smelter control panel. You can then add ore by pressing the 'Feed ore' button, or by dragging a specific type of ore into the smelter. The control panel will indicate how much ore is required per bar while it is empty.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Once the smelter has enough ore it will begin heating up, this requires power from an attached power storage block or power generator. When it reaches the correct temperature it will begin converting ore into bars which can be collected by clicking on the output slot at the bottom of the control panel.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Automation</Text>
+				</Header>			
+				<Paragraph>
+					<Text>The smelter should be automated as soon as possible with the addition of both input and output storage hoppers. The input hopper should be set to an I/O status of 'Remove only'. The input hopper must be big enough to contain the minimum ore requirement.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>					
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Upgrades</Text>
+				</Header>			
+				<Paragraph>
+					<Text>The speed (and power requirements) of the smelter can be increase through a number of forced induction upgrades which can be researched. Once crafted these upgrades should be placed on top of the smelter.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Additional Smelters</Text>
+				</Header>			
+				<Paragraph>
+					<Text>The smelter you start with is an advanced piece of kit which is difficult to replicate. It will take a significant amount of research and some advanced materials to do so successfully. A basic smelter is also available to help relieve the bottleneck however it is slow, inefficient and cannot be upgraded.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>	
+	</Pages>
+</MaterialEntry>
+

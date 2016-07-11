@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Mesh Weaver</FriendlyName>
+	<SpawnObject>ChipEtcher</SpawnObject>
+	<Value>MeshWeaver</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>8</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>crystal fiber mesh</Key>
+		<CraftedName>Crystal Fiber Mesh</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Crystal Deposit</Name>
+				<Amount>32</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Extracts crystal fibers from a deposit and weaves it into an ultra strong fiber mesh.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

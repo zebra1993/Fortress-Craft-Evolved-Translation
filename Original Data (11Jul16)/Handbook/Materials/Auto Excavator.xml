@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Name>Auto Excavator</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Auto Excavator</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Auto Excavator is a machine for digging large vertical shafts from below, dug material will fall to the floor. It is not capable of digging out ore veins.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Dig a small tunnel down to the bottom of the intended shaft and place the auto-excavator. It will need to be supplied with power from a Laser Power Transmitter or other power source.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Shaft Size:
+					Maximum Shaft Height:
+					Power Required:
+					Power Capacity:
+					Maximum Power Recharge Rate:
+					Maximum Excavation Rate:</Left>
+					<Right>3m x 3m
+					512m
+					20 per 1m cube excavated
+					160
+					None
+					40 blocks per second</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

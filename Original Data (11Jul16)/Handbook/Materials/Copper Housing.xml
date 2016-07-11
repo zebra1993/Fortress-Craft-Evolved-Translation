@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Copper Housing</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Copper Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple copper housing created from copper plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

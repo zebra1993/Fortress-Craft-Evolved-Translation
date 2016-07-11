@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Lithium Coil</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lithium Coil</Text>
+				</Title>
+				<Icon>
+					<Name>Lithium Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple lithium coil created from lithium wires in a Coiler Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

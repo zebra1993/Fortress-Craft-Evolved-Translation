@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tin Pipe</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tin Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple tin pipe created from tin bars in a Pipe Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,29 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Base Building Automation</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Base Building Automation</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Building a huge mining operation is a job for machines, not man!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>This wide-ranging project will design machines for automated excavation and construction in addition to improving the options available for traversing your base.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>In addition to automatic excavation this project will seek to produce an explosive which can be used the clear out a large area.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

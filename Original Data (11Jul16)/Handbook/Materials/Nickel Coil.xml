@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Nickel Coil</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Coil</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Coil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple nickel coil created from nickel wires in a Coiler Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

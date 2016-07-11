@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Chromed Machine Block Assembler</FriendlyName>
+	<SpawnObject>ChromedMachineBlockAssembler</SpawnObject>
+	<Value>ChromedMachineBlockAssembler</Value>
+			
+	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ChromedMachineBlock</Key>
+		<CraftedName>Chromed Machine Block</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+			<Costs>
+			<CraftCost>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChromiumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Chrome-plate Imbued Machine Blocks.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

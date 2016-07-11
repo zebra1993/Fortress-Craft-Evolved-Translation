@@ -1,0 +1,58 @@
+<Chapter>
+	<Handle>unknown materials</Handle>
+	<Title>Unknown Materials</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Unknown Materials</Text>
+				</Title>
+				<Header>
+					<Text>What are Unknown Materials?</Text>
+				</Header>
+				<Icon>
+					<Name>Unknown</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Initially all materials on this planet are unknown. They will appear as a question mark in your inventory - to be of any use they must be identified. Once collected or scanned (using the secondary action of the scanning tool) an unknown material must be taken to the research station to be processed.
+					Until this happens, the material cannot be used for processing or building.
+					</Text>
+				</Paragraph>
+				<Header>
+					<Text>Processing Unknown Materials</Text>
+				</Header>
+				<Paragraph>
+					<Text>Select the first tab of the research station marked 'Scans'; this will list all unknown materials you have encountered, their value in research points, and how much power is required to process them. Press the 'Process' button to process the material, the required power will be deducted and the specified number of research points awarded. These can be used to unlock recipes and projects using the second and third tabs of the research station.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Progression</Text>
+				</Header>
+				<Paragraph>
+					<Text>Once new materials are scanned, they can unlock new machines, recipes and projects.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Scanning unknown materials is the best way to earn more Research Points. As we understand more about this strange, blocky planet, we are better equipped to create bigger and better machines to help you survive, and then to escape!</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Please visit the help guide entry on the research station for more information.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Research Station</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

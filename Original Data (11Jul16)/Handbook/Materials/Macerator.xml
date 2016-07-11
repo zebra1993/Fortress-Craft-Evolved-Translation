@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Name>Macerator</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Macerator</Text>
+				</Title>
+				<Icon>
+					<Name>Macerator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Energy dependent machine that can crush almost every block into oblivion. In rare occasions useful ore will be found in return!</Text>
+				</Paragraph>
+				<Header>
+					<Text>Tips and Tricks!</Text>
+				</Header>
+				<Paragraph><Text>- This machine need quite some power to work at full speed!</Text></Paragraph>
+				<Paragraph><Text>- This machine is fed from a conveyor belt and will output any reclaimed ore to a adjacent storage hopper.</Text></Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

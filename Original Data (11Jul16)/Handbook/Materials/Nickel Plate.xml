@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Nickel Plate</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Plate</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Plate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple nickel plate created from nickel bars in a Stamper Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

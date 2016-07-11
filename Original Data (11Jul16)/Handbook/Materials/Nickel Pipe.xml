@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Nickel Pipe</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple nickel pipe created from nickel bars in a Pipe Extrusion Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

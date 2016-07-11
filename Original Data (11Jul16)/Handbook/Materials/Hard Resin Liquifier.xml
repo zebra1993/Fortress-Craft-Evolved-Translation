@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Name>Laser Resin Liquifier</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laser Resin Liquifier</Text>
+				</Title>
+				<Icon>
+					<Name>Laser Resin Liquifier</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+				<Paragraph>
+					<Text>This is the second part in a 3-step method to utilise and clear the Hardened Resin that the Hiveminds excrete around them. 
+
+					The Liquifier uses a heated plasma stream to liquify and extract the soft insides of Liquified Hard Resin. 
+
+					You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin. 
+
+					To convert from Hard Resin to Ablated Hard Resin, use a Hard Resin Ablator</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+					</Target>
+					<Text>Laser Resin Ablator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+					</Target>
+					<Text>Liquid Resin Refiner</Text>
+				</Link>
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+					</Target>
+					<Text>Refined Liquid Resin</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

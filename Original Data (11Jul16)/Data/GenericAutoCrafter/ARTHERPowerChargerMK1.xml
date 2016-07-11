@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>MK1 PowerCore Charger</FriendlyName>
+	<SpawnObject>MK1PowerBoosterCharger</SpawnObject>
+	<Value>MK1PowerBoosterCharger</Value>
+			
+	<PowerUsePerSecond>100</PowerUsePerSecond>  <!-- 500 power -->
+	<PowerTransferPerSecond>1000</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>1000</MaxPowerStorage>  <!-- optional -->
+	<LoadingAnimation>In</LoadingAnimation>					<!-- optional -->
+	<WorkingAnimation>Out</WorkingAnimation>					<!-- optional -->
+	<UnloadingAnimation>Idle</UnloadingAnimation>					<!-- optional -->
+	
+	<CraftTime>5</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>PowerBoosterMK1</Key>
+		<CraftedName>MK1 Power Booster</CraftedName><!-- Iiiiiiiiiiiiiirelevant -->
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Copper Coil</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Creates a single-user power booster. This will give ARTHER 100 power, but costs 500 power to make. Place the item into your hotbar to use it.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Plasma Head Charger</FriendlyName>
+	<SpawnObject>PlasmaHeadCharger</SpawnObject>
+	<Value>PlasmaHeadCharger</Value>
+			
+	<PowerUsePerSecond>840</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>1000</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>8400</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>60</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>charged plasma head</Key>
+		<CraftedName>Plasma Cutter Head</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Steel Cutter Head</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Spend power to charge an ordinary Steel cutter head into a more powerful Plasma cutter head</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

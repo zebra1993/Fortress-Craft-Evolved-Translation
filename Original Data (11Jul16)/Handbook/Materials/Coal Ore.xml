@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Coal Ore</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Coal Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Ore</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>An energy dense material which can be burnt in the Central Power Hub and Pyrothermic Generator.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Coal can be mined using an ore extractor.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

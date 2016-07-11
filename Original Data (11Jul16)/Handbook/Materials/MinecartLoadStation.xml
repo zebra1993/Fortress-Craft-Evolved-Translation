@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Name>Minecart Load Station</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Load Station</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Removes materials from attached Storage Hoppers into docked Minecarts.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+				<Text>Minecart Depot</Text>
+			</Link>
+			</Paragraphs>
+		
+		</Page>				
+	</Pages>
+</MaterialEntry>

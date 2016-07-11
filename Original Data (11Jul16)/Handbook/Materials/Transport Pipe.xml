@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Name>Transport Pipe</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Transport Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Transport Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Transport Pipes are far more expensive than regular conveyors however they are much faster, immune to extreme cold, and far less susceptible to attack due to their enclosed nature. Like the conveyor belt they also do not require external power.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Upgrading your network to use Transport Pipes should be considered a long term project. Initially focus on the bottlenecks.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Usage</Text>
+				</Header>
+				<Paragraph>
+					<Text>Transport Pipes follow the same rules as the regular Conveyor.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Transport Rate (fast):
+					Maximum Transport Rate (slow):
+					Power Required:
+					Maximum Range:
+					Vulnerability</Left>
+					<Right>240 items per minute
+					120 items per minute
+					None
+					1m
+					Low</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>MiniHopper</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mini Hopper</Text>
+				</Title>
+				<Icon>
+					<Name>MiniHopper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The mini hopper is a cheaper version of the standard storage hopper which can store 10 items and takes 30 seconds to process each item. The mini hopper is suitable as an input hopper for the Central Power Hub, Pyrothermic Generator or other machine with a long processing time. You should look to upgrade mini hoppers if they become a bottleneck.</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>For more information on storage hoppers please refer to the standard storage hopper guide.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>StorageHopper</Material>
+					</Target>
+					<Text>Storage Hopper</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
+

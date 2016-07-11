@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Tin Ore</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tin Ore</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Found near the surface, Tin Ore can be smelted into Tin Bars using the smelter. Tin Bars are generally used in basic machines requiring a lightweight construction.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Tin Ore can be mined using an ore extractor.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

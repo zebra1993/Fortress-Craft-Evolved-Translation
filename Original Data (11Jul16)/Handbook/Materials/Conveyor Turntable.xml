@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Conveyor Turntable</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Turntable</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Turntable</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Conveyor Turntable can be used to split one conveyor line into two or three others equally distributing the items between each line. To ensure material flows correctly avoid placing turntables directly adjacent to Storage Hoppers or other turntables.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

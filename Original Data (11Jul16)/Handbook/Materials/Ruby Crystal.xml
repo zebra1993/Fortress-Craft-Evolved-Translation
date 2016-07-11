@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Name>Ruby Crystal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ruby Crystal</Text>
+				</Title>
+				<Icon>
+					<Name>Ruby Crystal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A ruby crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -150 to -225.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

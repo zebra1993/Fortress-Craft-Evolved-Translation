@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Nickel Ore Ping</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Nickel Ore Ping</Text>
+				</Title>
+				<Icon>
+					<Name>Nickel Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Nickel ore Ping is used to find additional Nickel ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

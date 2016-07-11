@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Suit Power Pack MK1</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Suit Power Pack MK1</Text>
+				</Title>
+				<Icon>
+					<Name>Suit Power Pack MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows your suit to store twice as much power. You only need one of these and it must be kept in your inventory to function.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

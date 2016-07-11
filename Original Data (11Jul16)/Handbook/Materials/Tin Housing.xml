@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Tin Housing</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tin Housing</Text>
+				</Title>
+				<Icon>
+					<Name>Tin Housing</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A simple tin housing created from tin plates.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
