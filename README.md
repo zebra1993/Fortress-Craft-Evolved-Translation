@@ -1,29 +1,12 @@
 # Fortress-Craft-Evolved-Translation
 One Project more who is trying to translate FC:E to another Language this time German :-)
-Alle Beiträge werde ich selber auch noch durch schauen, um ein Grundsatz an Qualität zu ermöglichen.
 
+Da dieses Spiel sich immer wieder verändert und bis jetzt (Meines Wissens) noch niemand eine übersetzung beendet hat, möchte ich dies umsetzen. 
+Mit zusätzlicher Hilfe ginge das ganze natürlich schneller. Wer interesse hat, kann sich bei mir melden oder einfach einen Fork erstellen und so die Dateien übersetzen. 
 
-Info für das Übersetzen der einzelnen Handbuch Seite:
+Status:
 
-```xml
-<MaterialEntry>
-	<Name>Rock</Name> <!--Dont Change This, NICHT verändern Eintrag wird sonst nicht gefunden-->
-	<Pages>
-		<Page>
-			<Paragraphs>				
-				<Title>
-					<Text>Rock</Text>				
-				</Title>				
-				<Icon>					
-					<Name>Rock</Name> <!--Dont Change This, NICHT verändern, Icon Wird sonst nicht mehr Angezeigt -->					
-					<Alignment>Center</Alignment><!--Dont Change This-->				
-				</Icon>				
-				<Paragraph>					
-					<Text>Typ Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</Text> 				
-				</Paragraph>							
-			</Paragraphs>			
-		</Page>				
-	</Pages>	
-</MaterialEntry>
-```
+Dateien sind noch BEVOR Cold Factory live gegangen ist hinzugefügt worden. Cold Factory wird erst begonnen wenn die anderen Fertig sind. (Sollte dann eigentlich recht schnell gehen)
 
+Direkt Kontakt: 
+streupfeffer@gmx.ch
