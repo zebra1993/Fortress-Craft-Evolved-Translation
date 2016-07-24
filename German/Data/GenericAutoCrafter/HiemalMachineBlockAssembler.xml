@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Imbued Machine Block Assembler</FriendlyName>
-	<SpawnObject>HydrojetCutter</SpawnObject>
-	<Value>ImbuedMachineBlockAssembler</Value>
+	<FriendlyName>Hiemal Maschinenblock Montage</FriendlyName>
+	<SpawnObject>HiemalMachineBlockAssembler</SpawnObject>
+	<Value>HiemalMachineBlockAssembler</Value>
 			
 	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
 	
-	<CraftTime>16</CraftTime>  <!-- optional -->
+	<CraftTime>15</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>ImbuedMachineBlock</Key>
-		<CraftedName>Imbued Machine Block</CraftedName>
+		<Key>HiemalMachineBlock</Key>
+		<CraftedName>Hiemal Machine Block</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>
-				<Key>AdvancedMachineBlock</Key>
+				<Key>ChromedMachineBlock</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>PowerBoosterMK5</Key>
+				<Key>MagneticMachineBlock</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Automatically create Imbued Machine Blocks from PowerBoosters and Advanced MachineBlocks.</Description>
+		<Description>Verchromt durchtränkte Maschinenblöcke.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

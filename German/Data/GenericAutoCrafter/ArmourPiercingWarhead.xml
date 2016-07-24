@@ -1,30 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Raketentreibstoffbefüller</FriendlyName>
-	<SpawnObject>MissileFueller</SpawnObject>
-	<Value>MissileFueller</Value>
+	<FriendlyName>Panzerbrechendergefechtskopf Ausrüster</FriendlyName>
+	<SpawnObject>WarheadFitter</SpawnObject>
+	<Value>ArmourPiercingWarheadFitter</Value>
 			
 	<PowerUsePerSecond>8</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>128</MaxPowerStorage>  <!-- optional -->
-
-	<CraftingString>Fuelling</CraftingString>
+	
 	<CraftTime>15</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>basic missile</Key>
-		<CraftedName>Basic Missile</CraftedName>
+		<Key>armourpiercingmissile</Key>
+		<CraftedName>Armour Piercing Missile</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Name>High Energy Composite Fuel</Name>
+				<Name>Pristine Stinger</Name>
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Name>Empty Missile</Name>
+				<Name>Plasma-Imbued Missile</Name>
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Befüllt eine standart Rackete mit Hochleistungs Treibstoff.</Description>
+		<Description>Nutzt tadellose Stachel um die Plasmadurchtränktengefechtsköpfe zu härten und schärfen. Sechsfacher Schaden!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

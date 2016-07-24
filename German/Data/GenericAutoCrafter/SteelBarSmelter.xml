@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Steel Alloy Smelter</FriendlyName>
+	<FriendlyName>Stahllegierungsschmelzofen</FriendlyName>
 	<SpawnObject>MiniSmelterObj</SpawnObject>
 	<Value>SteelAlloySmelter</Value>
 			

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Fuel Canister Crafter</FriendlyName>
+	<FriendlyName>Treibstoffkanister Produktion</FriendlyName>
 	<SpawnObject>PipeExtruder_T1</SpawnObject>
 	<Value>EmptyCanisterCrafter</Value>
 			
@@ -23,6 +23,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Elegantly crafts a simble Empty Fuel Canister. Stick it in a rocket! Send it to the moon!</Description>
+		<Description>Stellt auf elegante weise eine leere Treibstoffkartusche her. Pack sie in eine Rackete! Schick sie zum Mond!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

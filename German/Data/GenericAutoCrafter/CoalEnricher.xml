@@ -1,31 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Crystal Coal Infuser</FriendlyName>
-	<SpawnObject>CoalInfuser</SpawnObject>
-	<Value>CoalInfuser</Value>
+	<FriendlyName>Organischekohle Anreicherer</FriendlyName>
+	<SpawnObject>CoalEnricher</SpawnObject>
+	<Value>CoalEnricher</Value>
 			
 	<PowerUsePerSecond>0.1</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>1024</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>8</MaxPowerStorage>  					<!-- optional -->
 	<WorkingAnimation>In</WorkingAnimation>					<!-- optional -->
-	<CraftingString>Infusing</CraftingString>
+	<CraftingString>Enriching</CraftingString>
 	<CraftTime>30</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>coal infusement</Key>
-		<CraftedKey>InfusedCoal</CraftedKey>
+		<Key>coal enrichment</Key>
+		<CraftedName>Enriched Coal</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Name>Enriched Coal</Name>
+				<Name>Coal Ore</Name>
 				<Amount>1</Amount>
 			</CraftCost>
-			<!--
-			<CraftCost>
-				<Name>Crystal Deposit</Name>
-				<Amount>1</Amount>
-			</CraftCost>-->
 		</Costs>
-		<Description>Infuses Enriched Coal with Crystal Ore, enabling it to generate twice as much power again!</Description>
+		<Description>Pulverisiert und presst Kohle, sodass sie doppelt so heisst brennt.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

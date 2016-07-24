@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>CryoChilled Missile Assembler</FriendlyName>
+	<FriendlyName>Cryogekühlte Raketen Montage</FriendlyName>
 	<SpawnObject>FreezeMissileCrafterObj</SpawnObject>
 	<Value>FreezeMissileCrafter</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Uses Freezon Canisters to add a slowing effect to targetted mobs. Also gives 15% extra damage!</Description>
+		<Description>Nutzt Freezon Kanister um einen verlangsamungs Effekt auf das Ziel zu wirken. Gibt zu dem 15% Schanden!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>
