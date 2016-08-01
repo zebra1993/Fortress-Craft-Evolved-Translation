@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>MK1 Power Booster</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Power Booster MK1</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines. These are auto-crafted by Power Booster Chargers.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Restored:</Left><Right>100</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+					</Target>
+					<Text>ARTHER Power Booster MK2</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>MK1PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK1 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

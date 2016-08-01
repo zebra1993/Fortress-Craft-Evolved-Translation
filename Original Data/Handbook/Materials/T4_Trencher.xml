@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Name>Trencher Drill component</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Trencher Drill</Text>
+				</Title>
+				<Icon>
+					<Name>Trencher Drill component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>These massive multi-block drilling machines can be used to harvest all known materials in a very rapid fashion. To build one, you'll need to build the drillhead in a 3x3x3 layout, then the motor in a 3x3x3 fashion, touching it. The Trencher's facing is dictated by this; the motor always goes at the back. You can use this to make Trencher face any angle, including straight up!</Text>
+				</Paragraph>	
+				<Spacer/>			
+				<Paragraph>
+					<Text>Be aware that these new drills are very power-hungry, and can drop off hundreds of ore per minute. You'll need to think big when it comes to moving this stuff up to the Cold Caverns for smelting - Cargo Lifts and Minecarts are the order of the day!</Text>
+				</Paragraph>				
+				<Spacer/>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

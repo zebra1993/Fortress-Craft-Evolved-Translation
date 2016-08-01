@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Konstruktionspasten Mühle</FriendlyName>
+	<SpawnObject>ConstructionPasteGrinder</SpawnObject>
+	<Value>ConstructionPasteGrinder</Value>
+			
+	<PowerUsePerSecond>0</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>0</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>0</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>1</CraftTime>  <!-- optional -->
+	<OptionalIngredients>true</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructionPaste</Key>
+		<CraftedName>Construction Paste</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>Snow</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SoftResin</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChilledCavernStone</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ToxicCavernStone</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>DeepStone</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Bedrock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Leaves</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Dirt</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Grass</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Rock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Rubble</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Sand</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>RoughHewnRock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<!-- We also need any existing decorative blocks, as they will go around in a loop-->
+			<CraftCost>
+				<Key>SpaceGrille</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChevronSign2</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChevronSign</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ConcreteWall</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>WhiteCanvas</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ReinforcedRock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ChilledReinforcedRock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SpaceWindow</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>NeonBorder</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>CoalOre</Key><!-- ty Hitsuo -->
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Wandelt Abfall in Konstruktionspast um. Nutze dei Mühle am besten in verbindung zu einem Garbage Thief.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

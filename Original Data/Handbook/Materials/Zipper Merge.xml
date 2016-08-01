@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Zipper Merge</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Zipper Merge</Text>
+				</Title>
+				<Icon>
+					<Name>Zipper Merge</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Zipper Merge flawlessly combines two conveyor lines at a 1:1 ratio. The zipper merge should be able to output at 100 items a minute. The zipper merge is most useful for automating items that need an even amount of two items like Low-Grade Steel Alloy.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+					</Target>
+					<Text>Conveyor Belt</Text>
+				</Link>			
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

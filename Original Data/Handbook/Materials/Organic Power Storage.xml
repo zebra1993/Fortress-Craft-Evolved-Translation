@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Name>Organic Power Storage</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organic Power Storage Block</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Power Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The organic power storage block can hold a reserve of up to 8500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Energy can be extracted from the power storage block by pressing the 'Extract' key (default 'Q'), and inserted using the "Interact" key (default 'E').</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>The organic power storage block holds a lot of power relative to its cost, however it transfers power more slowly.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Capacity:
+					Maximum Power Transfer Rate:</Left>
+					<Right>8500
+					500 per second</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

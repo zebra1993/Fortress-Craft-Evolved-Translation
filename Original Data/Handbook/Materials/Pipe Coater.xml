@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Pipe Coater</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pipe Coater</Text>
+				</Title>
+				<Icon>
+					<Name>Pipe Coater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Using advanced bonding techniques, the high heat and pressure resistance of Crystal Fiber Mesh can now be applied to Copper Pipes using plastic pellets due to their unique molecular structure acting as a bonding agent. The bonding process takes 300 power at a rate of 50 pps to ensure an even coating.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+					</Target>
+					<Text>Heat Conducting Pipe</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+					</Target>
+					<Text>Geothermal Generator comp.</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

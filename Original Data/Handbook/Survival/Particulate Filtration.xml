@@ -1,0 +1,22 @@
+<Chapter>
+	<Handle>T4_Particles</Handle>
+	<Title>Particulate Filtration</Title>
+	<Icon>Particulate Filtration</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Particulate Filtration</Text>
+				</Title>
+				<Icon>
+					<Name>Particulate Filtration</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>By studying the suits particle filtration system, we are now able to filter different elements out of the air. Building these systems in the various caverns should allow us to extract, concentrate, and bottle different elements found in air. Due to the average size of these caverns and the density of the particles in the air, there should not be any noticeable long term effects from this process. These systems may lower the hostility of the environment for native flora and fauna, this effect should be negligible since there are no known predominantly hostile flora or fauna. The Cold Caverns will net us Freezon, the Toxic Caverns Chlorine, and the Magma Caverns, Sulphur.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

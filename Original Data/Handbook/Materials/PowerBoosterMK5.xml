@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Name>MK5 Power Booster</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Power Booster MK5</Text>
+				</Title>
+				<Icon>
+					<Name>MK5 Power Booster</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Spacer/>
+				<Paragraph>
+					<Text>Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Restored:</Left><Right>2500</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+					<Link>
+					<Target>
+						<Material>MK5PowerBoosterCharger</Material>
+					</Target>
+					<Text>Crafted by MK5 Power Booster Charger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

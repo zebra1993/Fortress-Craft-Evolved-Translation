@@ -1,0 +1,44 @@
+<MaterialEntry>
+	<Name>Particle Filter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Particle Filter</Text>
+				</Title>
+				<Icon>
+					<Name>Particle Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Particle Filter is an advanced version of the suit’s Particulate filtration system, using the primitive technology previously used to facilitate survival in the toxic caverns we are now able to stripe specific partials from the particulate dense air found in the various caverns. The Particle Filter is built in a 5x3x5 formation.</Text>
+				</Paragraph>
+					<Spacer/>
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+					</Target>
+					<Text>Particulate Filtration System</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+					</Target>
+					<Text>Particle Compressor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+					</Target>
+					<Text>Particle Storage</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Gas Bottler</Material>
+					</Target>
+					<Text>Gas Bottler</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

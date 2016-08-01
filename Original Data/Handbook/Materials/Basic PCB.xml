@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Basic PCB</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic PCB</Text>
+				</Title>
+				<Icon>
+					<Name>Basic PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Copper-based PCB created from Copper Coils in a PCB Assembling Plant.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

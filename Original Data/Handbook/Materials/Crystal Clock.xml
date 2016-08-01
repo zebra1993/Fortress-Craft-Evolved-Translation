@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Crystal Clock</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Crystal Clock</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crystal Clocks are a common crafting ingredient used in advanced machinery. The inclusion of Crystal Clocks in machinery allows for more precise timing than what would normally be possible. Crystal Clocks are made using 5 Crystal Deposit in a Crystal Clock Maker. Normal Crystal Clocks like most chips can be overclocked to produce more efficient Clocks for more advanced machinery.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Crystal Clock Maker</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

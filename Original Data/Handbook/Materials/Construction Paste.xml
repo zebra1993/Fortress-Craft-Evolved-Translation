@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Construction Paste</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Construction Paste</Text>
+				</Title>
+				<Icon>
+					<Name>Construction Paste</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Construction Paste is a material made by reconfiguring the suits inorganic re-assemblers. The suits inorganic re-assemblers are used to automatically patch critically damaged sections of the suit to avoid rapid decompression in the vacuum of space. By studying these systems the substance that is normally used in these repair process has been fused with microbes found in this planets stone. The new substance has been christened Construction Paste as it can be used to make various decorative and reinforced blocks. A system has been designed that should be able to mimic the suit’s inorganic re-assemblers for the express purpose of making this new substance. Carrying this paste seems to also provide the benefit of increasing available inventory space.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Construction Paste Grinder</Material>
+					</Target>
+					<Text>Construction Paste Grinder</Text>
+				</Link>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

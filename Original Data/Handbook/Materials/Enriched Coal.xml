@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Enriched Coal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Enriched Coal</Text>
+				</Title>
+				<Icon>
+					<Name>Enriched Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Enriched Coal is the product of the Organic Coal Enricher. Enriched Coal is an improvement over normal coal as it generates more power in the same amount of time.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Coal Enricher</Material>
+					</Target>
+					<Text>Organic Coal Enricher</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

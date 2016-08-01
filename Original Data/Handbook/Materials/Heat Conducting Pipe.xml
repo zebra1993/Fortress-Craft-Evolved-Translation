@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Name>Heat Conducting Pipe</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Heat Conducting Pipe</Text>
+				</Title>
+				<Icon>
+					<Name>Heat Conducting Pipe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Heat Conducting Pipes combine the fluid transmitting power of copper piping and the combined heat and pressure resistance of Crystal Fiber Mesh. Using this new type of pipe advancements have been made in Geothermal Thermoelectric Generation to the point that it is now a feasible solution to the growing power requirements of new machines.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+					</Target>
+					<Text>Pipe Coater</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+					</Target>
+					<Text>Geothermal Generator comp.</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
