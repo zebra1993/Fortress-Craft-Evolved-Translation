@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Cluster Missile Crafter</FriendlyName>
+	<FriendlyName>Schwarmraketen Produktion</FriendlyName>
 	<SpawnObject>ClusterMissileCrafter</SpawnObject>
 	<Value>ClusterMissileCrafter</Value>
 			
@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ClusterMissile</Key>
-		<CraftedName>Cluster Missile</CraftedName>
+		<CraftedName>Schwarmrakete</CraftedName>
 		<CraftedAmount>8</CraftedAmount>
 		<Costs>
 			<CraftCost>
@@ -20,6 +20,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Description>
+		<Description>Zerlegt eine einzelne durchtränkte Rackete und baut sie zu 8 schnellfeuer Racketen. Jede macht 1/4 des vorherigen Schadens, was zu einer Verdoppelung des Schadens führt.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Basic Missile Assembler</FriendlyName>
+	<FriendlyName>Grundlegende Racketen Montage</FriendlyName>
 	<SpawnObject>MissileAssembler</SpawnObject>
 	<Value>BasicMissileAssembler</Value>
 			
@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>basic missile</Key>
-		<CraftedName>Basic Missile</CraftedName>
+		<CraftedName>Grundlegende Rackete</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
@@ -28,6 +28,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Copper Pipes, Gold Wires and High-energy Composite Fuel are assembled into Basic Missiles. Handle with care!</Description>
+		<Description>Kupferrohre, Golddrähte und hochenergetischer Komposittreibstoff werden zu einer grundlegenden Rakete verbaut. Vorsicht Explosiv!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

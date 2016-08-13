@@ -12,7 +12,7 @@
 	<OptionalIngredients>true</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ConstructionPaste</Key>
-		<CraftedName>Construction Paste</CraftedName>
+		<CraftedName>Konstruktionspaste</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
@@ -109,6 +109,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Wandelt Abfall in Konstruktionspast um. Nutze dei Mühle am besten in verbindung zu einem Garbage Thief.</Description>
+		<Description>Wandelt Abfall in Konstruktionspast um. Nutze die Mühle am besten in verbindung zu einem Garbage Thief.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

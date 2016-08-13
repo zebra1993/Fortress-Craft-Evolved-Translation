@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Magnetic Machine Block Assembler</FriendlyName>
+	<FriendlyName>Magnetische Maschienenblockmontage</FriendlyName>
 	<SpawnObject>MagneticMachineBlockAssembler</SpawnObject>
 	<Value>MagneticMachineBlockAssembler</Value>
 			
@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>MagneticMachineBlock</Key>
-		<CraftedName>Magnetic Machine Block</CraftedName>
+		<CraftedName>Magnetischer Maschienenblock</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Coat and Magnetise Imbued Machine Blocks.</Description>
+		<Description>Beschichtet und magnetierisiert durchtränkte Maschienenblöcke.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>
