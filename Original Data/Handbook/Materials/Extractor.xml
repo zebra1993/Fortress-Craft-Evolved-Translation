@@ -52,5 +52,23 @@
 				</Paragraph>					
 			</Paragraphs>
 		</Page>
+			<Page>
+			<Paragraphs>
+				<Header><Text>HoloBase readout</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Packet Size:
+					Yellow:
+					Red/Blue Flash:
+					Red/Cyan Flash:
+					Red/Black Flash:
+					Red/Green Flash:</Left>
+					<Right>Working
+					Out of Power
+					Out of Storage
+					Idle
+					Drill Stuck</Right>
+				</TwoColumnParagraph>				
+			</Paragraphs>
+		</Page>
 	</Pages>
 </MaterialEntry>

@@ -261,7 +261,7 @@
 		<Name>Low Grade Steel Bar</Name>
 		<Plural>Low Grade Steel Bars</Plural>
 		<Type>ItemStack</Type>	
-		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Object>BarSteel</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>Steel Bar</Sprite>
 		<!-- Atlas optional -->
 		<Category>CraftingIngredient</Category>
@@ -420,7 +420,7 @@
 		<Type>ItemSingle</Type>	
 		<Hidden>false</Hidden>
 		<Object>Minecart_T4_Object</Object><!-- This may need to be a specific one -->
-		<Sprite>Minecart_T4</Sprite>
+		<Sprite>Bulk Minecart</Sprite>
 		<Category>Minecarts</Category><!-- What -->
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
@@ -585,7 +585,7 @@
 		<Object>DrillHead_Crystal</Object>
 		<Sprite>Crystal Cutter Head</Sprite>
 		<!-- Atlas optional -->
-		<MaxDurability>7500</MaxDurability>
+		<MaxDurability>17500</MaxDurability>
 		<Category>MachineUpgrade</Category>
 		<ResearchRequirements>
 			<Research>alloys</Research>
@@ -1926,6 +1926,39 @@
 		</ResearchRequirements>		
 	</ItemEntry>
 
+	<!-- Improved Solar, increased max battery, toxic and suit heater built in. Care Package gives you this. Might not give you the MK3 gun tho, so that's 2 slots-->
+	<ItemEntry>
+		<ItemID>1050</ItemID>
+		<Key>AllInOne</Key>
+		<Name>MK1 Suit Upgrade Module</Name>
+		<Plural>MK1 Suit Upgrade Modules</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>MK1 Suit Upgrade Module</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>T4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+
+
+	<ItemEntry>
+		<ItemID>1051</ItemID>
+		<Key>SuitPowerPackMK2</Key>
+		<Name>Suit Power Pack MK2</Name>
+		<Plural>Suit Power Packs MK2</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Suit Power Pack MK2</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>T4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
 	<!--ARTHER upgrades are in the 2??? range-->
 	<ItemEntry>
 		<ItemID>2000</ItemID>
@@ -2369,8 +2402,37 @@
 			<Research>T4_Start</Research>
 		</ResearchRequirements>		
 	</ItemEntry>
-	
-	
+
+	<ItemEntry>
+		<ItemID>3203</ItemID>
+		<Key>AlloyedMachineBlock</Key>
+		<Name>Alloyed Machine Block</Name>
+		<Plural>Alloyed Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>AlloyedMachineBlock</Object>
+		<Sprite>AlloyedMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3204</ItemID>
+		<Key>HardenedMachineBlock</Key>
+		<Name>Hardened Machine Block</Name>
+		<Plural>Hardened Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HardenedMachineBlock</Object>
+		<Sprite>HardenedMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
 	<ItemEntry>
 		<ItemID>3499</ItemID>
 		<Key>EmptyMissile</Key>
@@ -2450,6 +2512,21 @@
 		<Type>ItemStack</Type>	
 		<Object>PoisonMissileObj</Object>
 		<Sprite>Mephitic Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3505</ItemID>
+		<Key>ClusterMissile</Key>
+		<Name>Cluster Missile</Name>
+		<Plural>Cluster Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ClusterMissileObj</Object>
+		<Sprite>Cluster Missile</Sprite>
 		<!-- Atlas optional -->
 		<Category>Consumable</Category>
 		<ResearchRequirements>
@@ -2740,7 +2817,7 @@
 		<Plural>Research Parts</Plural>
 		<Type>ItemStack</Type>	
 		<Object>ResearchParts</Object>
-		<Sprite>Lightweight PCB</Sprite><!-- Todd! Fix! -->
+		<Sprite>Research Parts</Sprite><!-- Todd! Fix! -->
 		<!-- Atlas optional -->
 		<Category>CraftingIngredient</Category>
 		<DecomposeValue>5</DecomposeValue> <!-- gives 5 research points when analysed -->
@@ -2757,7 +2834,6 @@
 		<Sprite>Refined Liquid Resin</Sprite>
 		<!-- Atlas optional -->
 		<Category>CraftingIngredient</Category>
-		<DecomposeValue>10</DecomposeValue> <!-- gives 10 research points when analysed -->
 	</ItemEntry>
 	
 	<!-- Spoiled Item -->

@@ -4,14 +4,14 @@
 	<SpawnObject>PlasmaWarheadImbuer</SpawnObject>
 	<Value>WarheadImbuer</Value>
 			
-	<PowerUsePerSecond>830</PowerUsePerSecond>  <!-- optional -->
+	<PowerUsePerSecond>512</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>4096</PowerTransferPerSecond>  <!-- 49800 -->
 	<MaxPowerStorage>2048</MaxPowerStorage>  <!-- optional -->
 	
 	<CraftTime>60</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>plasmamissile</Key>
+		<Key>PlasmaImbuedMissile</Key>
 		<CraftedName>Plasma-Imbued Missile</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>

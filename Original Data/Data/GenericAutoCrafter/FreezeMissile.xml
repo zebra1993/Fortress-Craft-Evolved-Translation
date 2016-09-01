@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>CryoChilled Missile Assembler</FriendlyName>
+	<SpawnObject>FreezeMissileCrafterObj</SpawnObject>
+	<Value>FreezeMissileCrafter</Value>
+			
+	<PowerUsePerSecond>8</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>128</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>FreezeMissile</Key>
+		<CraftedName>CryoChilled Missile</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CompressedFreon</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Plasma-Imbued Missile</Name>
+				<Amount>1</Amount>
+			</CraftCost>			
+		</Costs>
+		<Description>Uses Freezon Canisters to add a slowing effect to targetted mobs. Also gives 15% extra damage!</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

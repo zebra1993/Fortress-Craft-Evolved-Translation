@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Cryo Bomb Assembler</FriendlyName>
+	<SpawnObject>CryoBombAssembler</SpawnObject>
+	<Value>CryoBombAssembler</Value>
+			
+	<PowerUsePerSecond>1500</PowerUsePerSecond>  <!-- Slightly less than a Chromed MK3 can manage -->
+	<PowerTransferPerSecond>2500</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>7500</MaxPowerStorage>  <!-- optional -->
+
+	<CraftTime>5</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>CryoBomb</Key>
+		<CraftedName>Cryo Bomb</CraftedName><!-- Iiiiiiiiiiiiiirelevant -->
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>CompressedSulphur</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Created a bomb specifically designed to be delivered by Bomber FALCORs to defeat large quantities of long-range CryoPlasm.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

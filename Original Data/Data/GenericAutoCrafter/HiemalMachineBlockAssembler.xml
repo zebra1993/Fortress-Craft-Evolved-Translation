@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Advanced Machine Block Assembler</FriendlyName>
-	<SpawnObject>AdvancedMachineBlockAssembler</SpawnObject>
-	<Value>AdvancedMachineBlockAssembler</Value>
+	<FriendlyName>Hiemal Machine Block Assembler</FriendlyName>
+	<SpawnObject>HiemalMachineBlockAssembler</SpawnObject>
+	<Value>HiemalMachineBlockAssembler</Value>
 			
 	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
 	
-	<CraftTime>8</CraftTime>  <!-- optional -->
+	<CraftTime>15</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>AdvancedMachineBlock</Key>
-		<CraftedName>Advanced Machine Block</CraftedName>
+		<Key>HiemalMachineBlock</Key>
+		<CraftedName>Hiemal Machine Block</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>
-				<Key>LowGradeSteelBar</Key>
-				<Amount>2</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>CrystalClock</Key>
-				<Amount>2</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Automatically create Advanced Machine Blocks from Steel and Crystal Clocks.</Description>
+		<Description>Chrome-plate Imbued Machine Blocks.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

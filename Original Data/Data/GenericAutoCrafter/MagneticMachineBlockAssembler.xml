@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Magnetische Maschienenblockmontage</FriendlyName>
+	<FriendlyName>Magnetic Machine Block Assembler</FriendlyName>
 	<SpawnObject>MagneticMachineBlockAssembler</SpawnObject>
 	<Value>MagneticMachineBlockAssembler</Value>
 			
-	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
 	
-	<CraftTime>15</CraftTime>  <!-- optional -->
+	<CraftTime>5</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>MagneticMachineBlock</Key>
-		<CraftedName>Magnetischer Maschienenblock</CraftedName>
+		<CraftedName>Magnetic Machine Block</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>
@@ -20,10 +20,10 @@
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>1</Amount>
+				<Key>MolybdenumBar</Key>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Beschichtet und magnetierisiert durchtränkte Maschienenblöcke.</Description>
+		<Description>Coat and Magnetise Imbued Machine Blocks.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

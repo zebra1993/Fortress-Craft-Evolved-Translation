@@ -253,6 +253,8 @@
 		<AudioWalkType>Wood</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Wood</tag>
@@ -377,6 +379,7 @@
 		<GUITexture>9</GUITexture>
 		<isSolid>true</isSolid>
 		<isTransparent>false</isTransparent>
+		<isGarbage>true</isGarbage>
 		<isHollow>true</isHollow>
 		<isGlass>false</isGlass>
 		<isPassable>false</isPassable>
@@ -521,6 +524,7 @@
 		<AudioWalkType>Gravel</AudioWalkType><!--Sounds like snow!-->
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Outdoor</tag>
@@ -546,6 +550,8 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>false</isGarbage><!-- Do not take into garbage thief, as it's 16 paste to re-create it-->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -571,6 +577,9 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>false</isGarbage><!-- Do not take into garbage thief, as it's 16 paste to re-create it-->
+		<isReinforced>true</isReinforced>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -597,6 +606,8 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>false</isGarbage><!-- Do not take into garbage thief, as it's 16 paste to re-create it-->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -878,6 +889,8 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -903,6 +916,8 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -928,6 +943,8 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -1448,6 +1465,7 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Transparent</tag>
@@ -1815,6 +1833,8 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Metal</tag>
@@ -1902,8 +1922,8 @@
 			<tag>Indoor</tag>
 		</tags>
 		<IconName>Geiger</IconName>
-		<Description>This incredibly hard organic structure appears to be shielding a soft and vulnerable core. Only Explosives will crack it open.</Description>
-		<Hardness>50000</Hardness>
+		<Description>This incredibly hard organic structure appears to be shielding a soft and vulnerable core. Only Nano-Disintegrators will be able to cut through this.</Description>
+		<Hardness>50000</Hardness><!-- Not destroyable by anything that respects hardness-->
 	</TerrainDataEntry>
 
 	<TerrainDataEntry>
@@ -1961,7 +1981,7 @@
 			<tag>SciFi</tag>
 		</tags>
 		<Hardness>50000</Hardness><!-- CAN be taken out with explosive -->
-		<IconName>My First Flowers</IconName>
+		<IconName>CryoPlasm</IconName>
 		<Description>This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We'll need specialist weaponry to deal with this!</Description>
 		<ResearchValue>32</ResearchValue>
 	</TerrainDataEntry>
@@ -1992,7 +2012,7 @@
 			<tag>SciFi</tag>
 		</tags>
 		<Hardness>500000</Hardness><!-- Can NOT be taken out with explosives -->
-		<IconName>My First Flowers</IconName>
+		<IconName>CryoPlasm</IconName>
 		<Description>This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We'll need specialist weaponry to deal with this!</Description>
 		<ResearchValue>32</ResearchValue>
 	</TerrainDataEntry>
@@ -2202,6 +2222,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Metal</tag>
@@ -2520,6 +2541,7 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Metal</tag>
@@ -2930,7 +2952,7 @@
 			<tag>Ore</tag>
 		</tags>
 		<Fuel>
-			<Energy>233</Energy>
+			<Energy>128</Energy>
 			<ParticleLifetime>2</ParticleLifetime>
 		</Fuel>
 	</TerrainDataEntry>		
@@ -3176,11 +3198,11 @@
 		<Key>EnrichedCoal</Key>
 		<Name>Enriched Coal</Name>
 		<LayerType>PrimaryTerrain</LayerType>
-		<TopTexture>107</TopTexture><!-- Todd, this could do with some glowing-green-laced coal version -->
-		<SideTexture>107</SideTexture>
-		<BottomTexture>107</BottomTexture>
-		<GUITexture>107</GUITexture>
-		<IconName>Coal Enricher</IconName>
+		<TopTexture>280</TopTexture><!-- Todd, this could do with some glowing-green-laced coal version -->
+		<SideTexture>280</SideTexture>
+		<BottomTexture>280</BottomTexture>
+		<GUITexture>280</GUITexture>
+		<IconName>Enriched Coal</IconName>
 		<isSolid>true</isSolid>
 		<isTransparent>false</isTransparent>
 		<isHollow>false</isHollow>
@@ -3199,7 +3221,7 @@
 		</tags>
 		<Hardness>20000</Hardness>
 		<Fuel>
-			<Energy>467</Energy>
+			<Energy>256</Energy>
 			<ParticleEffect>EnrichedSmoke</ParticleEffect>
 			<ParticleLifetime>2.5</ParticleLifetime>
 			<ParticleColor>
@@ -3216,11 +3238,11 @@
 		<Key>InfusedCoal</Key>
 		<Name>Infused Coal</Name>
 		<LayerType>PrimaryTerrain</LayerType>
-		<TopTexture>107</TopTexture><!-- Todd, this could do with some glowing-blue-laced coal version -->
-		<SideTexture>107</SideTexture>
-		<BottomTexture>107</BottomTexture>
-		<GUITexture>107</GUITexture>
-		<IconName>Coal Enricher</IconName>
+		<TopTexture>281</TopTexture><!-- Todd, this could do with some glowing-blue-laced coal version -->
+		<SideTexture>281</SideTexture>
+		<BottomTexture>281</BottomTexture>
+		<GUITexture>281</GUITexture>
+		<IconName>Infused Coal</IconName>
 		<isSolid>true</isSolid>
 		<isTransparent>false</isTransparent>
 		<isHollow>false</isHollow>
@@ -3238,7 +3260,7 @@
 		</tags>
 		<Hardness>20000</Hardness>
 		<Fuel>
-			<Energy>933</Energy>
+			<Energy>512</Energy>
 			<ParticleEffect>EnrichedSmoke</ParticleEffect>
 			<ParticleLifetime>2.5</ParticleLifetime>
 			<ParticleColor>
@@ -3604,6 +3626,8 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Medieval</tag>
@@ -3660,6 +3684,9 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isReinforced>true</isReinforced>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Medieval</tag>
@@ -3879,6 +3906,8 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>SciFi</tag>
@@ -4041,6 +4070,8 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -4098,6 +4129,8 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -4343,12 +4376,44 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
 			<tag>Outdoor</tag>
 		</tags>
-	</TerrainDataEntry>			
+	</TerrainDataEntry>		
+
+	<TerrainDataEntry>
+		<CubeType>652</CubeType>
+		<Key>ConstructionPaste</Key>
+		<Name>Construction Paste</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>195</TopTexture>
+		<SideTexture>195</SideTexture>
+		<BottomTexture>195</BottomTexture>
+		<GUITexture>195</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<isColorised>true</isColorised>
+		<isPaintable>true</isPaintable>
+		<hasObject>false</hasObject>
+		<hasEntity>false</hasEntity>
+		<AudioWalkType>Concrete</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Urban</tag>
+			<tag>Outdoor</tag>
+			<tag>Decoration</tag>
+		</tags>
+	</TerrainDataEntry>	
+
 	<TerrainDataEntry>
 		<CubeType>136</CubeType>
 		<Key>OldGoldOre</Key>
@@ -4543,6 +4608,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -4568,6 +4634,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -4593,6 +4660,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -4618,6 +4686,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Art</tag>
@@ -4878,6 +4947,8 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<Category>Decoration</Category>
+		<isGarbage>true</isGarbage>
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -5493,6 +5564,37 @@
 		</tags>
 		<ResearchValue>35</ResearchValue><!-- Oo -->
 </TerrainDataEntry>	
+
+<!-- do we need to store all of them as values here? -->
+	<TerrainDataEntry>
+		<CubeType>753</CubeType>
+		<Key>Critter</Key>
+		<Name>Critter</Name>
+		<DefaultValue>0</DefaultValue>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>235</TopTexture>
+		<SideTexture>235</SideTexture>
+		<BottomTexture>235</BottomTexture>
+		<GUITexture>235</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>true</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<isColorised>false</isColorised>
+		<isPaintable>false</isPaintable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<Hardness>9001</Hardness><!-- 9001 is a special hardness that can never ever be destroyed with anything no matter what -->
+		<tags>
+			<tag>Outdoor</tag>
+		</tags>
+		<ResearchValue>1</ResearchValue>
+	</TerrainDataEntry>	
+
 
 <TerrainDataEntry>
 		<CubeType>167</CubeType>
@@ -7353,9 +7455,24 @@
 				<Key>ZipperMerge</Key>
 				<Name>Zipper Merge</Name>
 				<IconName>Zipper Merge</IconName>
+				<Description>Combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
+			</ValueEntry>
+				<ValueEntry>
+				<Value>1</Value>
+				<Key>ZipperMerge3n1</Key>
+				<Name>3'n1 Zipper Merge</Name>
+				<IconName>Zipper Merge 3n1</IconName>
+				<Description>Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!</Description>
+			</ValueEntry>
+				<ValueEntry>
+				<Value>2</Value>
+				<Key>ZipperMergeFast</Key>
+				<Name>Rapid Zipper Merge</Name>
+				<IconName>Zipper Merge Fast</IconName>
 				<Description>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
 			</ValueEntry>
 		</Values>
+
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -7825,6 +7942,34 @@
 				<Name>Magnetic Block Assembler</Name>
 				<IconName>MagneticMachineBlockAssembler</IconName>
 				<Description>Magnetises Imbued Machine Blocks.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>33</Value>
+				<Key>AlloyedMachineBlockAssembler</Key>
+				<Name>Alloyed Block Assembler</Name>
+				<IconName>AlloyedMachineBlockAssembler</IconName>
+				<Description>Uses a Gold to coat Hardened Machine Blocks.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>34</Value>
+				<Key>HardenedMachineBlockAssembler</Key>
+				<Name>HardenedBlock Assembler</Name>
+				<IconName>HardenedMachineBlockAssembler</IconName>
+				<Description>Uses a mixture of Nickel and Titanium to create hardened blocks.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>35</Value>
+				<Key>ConstructionPasteGrinder</Key>
+				<Name>Construction Paste Grinder</Name>
+				<IconName>ConstructionPasteGrinder</IconName>
+				<Description>Uses 'garbage' blocks to make Construction Paste.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>36</Value>
+				<Key>ClusterMissileCrafter</Key>
+				<Name>Cluster Missile Crafter</Name>
+				<IconName>ClusterMissileCrafter</IconName>
+				<Description>Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Description>
 			</ValueEntry>
 	    </Values>
 		
@@ -8355,6 +8500,34 @@
 
 
 	<TerrainDataEntry>
+		<CubeType>696</CubeType>
+		<Key>NanoDisintegrator</Key>
+		<Name>NanoDisintegrator</Name>
+		<Description>NanoDisintegrator. Use this to perfectly excavate a 3x3x3 area of even the very hardest material. Use with care.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>true</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Metal</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+			<tag>Mining</tag>
+		</tags>
+	</TerrainDataEntry>
+
+
+	<TerrainDataEntry>
 		<CubeType>685</CubeType>
 		<Key>SlimeAttractor</Key>
 		<Name>Slime Attractor</Name>
@@ -8379,6 +8552,33 @@
 			<tag>Machinery</tag>
 		</tags>
 	</TerrainDataEntry>
+
+	<TerrainDataEntry>
+		<CubeType>754</CubeType>
+		<Key>WaypointMachine</Key>
+		<Name>Waypoint Machine</Name>
+		<Description>Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>true</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Metal</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+
 	
 	<TerrainDataEntry>
 		<CubeType>569</CubeType>
@@ -8653,12 +8853,12 @@
 			<tag>Machinery</tag>
 		</tags>
 	</TerrainDataEntry>	
-	
+	<!-- What we really need for these is something like an 'always known' field -->
 	<TerrainDataEntry>
 		<CubeType>525</CubeType>
 		<Key>AdvancedMachineBlock</Key>
 		<Name>Advanced Machine Block</Name>
-		<IconName>Iron Box</IconName>
+		<IconName>Advanced Machine Block</IconName>
 		<Description>Crafting component of tier 3 machinery. Can also be used for construction</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>15</TopTexture>
@@ -8686,7 +8886,7 @@
 		<CubeType>686</CubeType>
 		<Key>ImbuedMachineBlock</Key>
 		<Name>Imbued Machine Block</Name>
-		<IconName>Iron Box</IconName>
+		<IconName>Imbued Machine Block</IconName>
 		<Description>Crafting component of tier 4 machinery. Can also be used for construction</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>17</TopTexture>
@@ -9592,12 +9792,43 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
+		<PickReplacement>CryoInfernoPlacement</PickReplacement>
 		<tags>
 			<tag>Machinery</tag>
 			<tag>Defences</tag>
 		</tags>
 	</TerrainDataEntry>
 
+	<TerrainDataEntry>
+		<CubeType>714</CubeType>
+		<Key>T4_LaserBorer</Key>
+		<Name>LaserBorer</Name>
+		<IconName>LaserBorer</IconName>
+		<Description>Not relevant.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>272</TopTexture>
+		<SideTexture>272</SideTexture>
+		<BottomTexture>272</BottomTexture>
+		<GUITexture>272</GUITexture>
+		<Hidden>true</Hidden>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Metal</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
+		<PickReplacement>LaserBorerPlacement</PickReplacement>
+		<tags>
+			<tag>Machinery</tag>
+			<tag>Defences</tag>
+		</tags>
+	</TerrainDataEntry>
 
 	<TerrainDataEntry>
 		<CubeType>687</CubeType>
@@ -9706,6 +9937,36 @@
 		<isPassable>false</isPassable>
 		<hasObject>true</hasObject>
 		<hasEntity>true</hasEntity>
+		<AudioWalkType>Metal</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+			<tag>Mining</tag>
+		</tags>
+	</TerrainDataEntry>
+
+		<TerrainDataEntry>
+		<CubeType>697</CubeType>
+		<Key>OrganicThief</Key>
+		<Name>Ruined Organic Thief</Name>
+		<IconName>Organic Thief</IconName>
+		<Description>Not relevant.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<Hidden>true</Hidden>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
+		<PickReplacement>AutoOrganicRemoverPlacement</PickReplacement>
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
@@ -10063,28 +10324,28 @@
 				<Key>TrencherDrillPlacement</Key>
 				<Name>Trencher Drill component</Name>
 				<IconName>Trencher Drill component</IconName>
-				<Description>Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor.</Description>
+				<Description>Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor. (27 in total)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>13</Value>
 				<Key>TrencherMotorPlacement</Key>
 				<Name>Trencher Motor component</Name>
 				<IconName>Trencher Motor component</IconName>
-				<Description>Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head.</Description>
+				<Description>Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head. (27 in total)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>14</Value>
 				<Key>BlastFurnacePlacement</Key>
 				<Name>Blast Furnace component</Name>
 				<IconName>Blast Furnace component</IconName>
-				<Description>Forms a Blast Furnace. Build in a 3wx7hx3d configuration.</Description>
+				<Description>Forms a Blast Furnace. Build in a 3wx7hx3d configuration. (63 in total)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>15</Value>
 				<Key>CastingBasinPlacement</Key>
 				<Name>Casting Basin component</Name>
 				<IconName>Casting Basin component</IconName>
-				<Description>Forms a Continuous Casting Basin. Build in a 5wx3hx5d configuration.</Description>
+				<Description>Forms a Continuous Casting Basin. Build in a 5wx3hx5d configuration. (75 in total)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
@@ -10112,7 +10373,7 @@
 				<Key>CCCCC_Placement</Key>
 				<Name>Climate Control Centre</Name>
 				<IconName>Climate Control Centre</IconName>
-				<Description>Starts to heat up the Cold Caverns and make them habitable for human life. Build in a 5x7x5 configuration.</Description>
+				<Description>Starts to heat up the Cold Caverns and make them habitable for human life. Build in a 5wx7hx5d configuration. (175 in total)</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>21</Value>
@@ -10126,14 +10387,14 @@
 				<Key>MagmaBorePlacement</Key>
 				<Name>MagmaBore Component</Name>
 				<IconName>MagmaBore Component</IconName>
-				<Description>Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 32x3x32 configuration. Needs 8m of clearance.</Description>
+				<Description>Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 33wx3hx33d configuration (3276 total) Needs 8m of initial clearance.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>23</Value>
 				<Key>ParticleFilterPlacement</Key>
 				<Name>Particle Filter</Name>
 				<IconName>Particle Filter</IconName>
-				<Description>Removes useful particulates from the air. Unlikely to make a long-term permanent difference to the air quality. Build in a 5x3x5 configuration.</Description>
+				<Description>Removes useful particulates from the air. Unlikely to make a long-term permanent difference to the air quality. Build in a 5wx3hx5d configuration. (75 in total)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>24</Value>
@@ -10147,14 +10408,14 @@
 				<Key>ParticleStoragePlacement</Key>
 				<Name>Particle Storage</Name>
 				<IconName>Particle Storage</IconName>
-				<Description>Stores compressed gas, ready to be bottled. Build in a 3x7x3 configuration.</Description>
+				<Description>Stores compressed gas, ready to be bottled. Build in a 3wx7hx3d configuration.(63 in total)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>26</Value>
 				<Key>GasBottlerPlacement</Key>
 				<Name>Gas Bottler</Name>
 				<IconName>T4_Gas_Bottler</IconName>
-				<Description>Decants compressed gas into useful containers.  Build in a 3x3x9 configuration.</Description>
+				<Description>Decants compressed gas into useful containers.  Build in a 3x3x9 configuration.(81 in total)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>27</Value>
@@ -10189,7 +10450,7 @@
 				<Key>CryoInfernoPlacement</Key>
 				<Name>Cryo Inferno</Name>
 				<IconName>Cryo Inferno</IconName>
-				<Description>The final solution to the creep. Needs line of sight to an exposed Creep Spawner.</Description>
+				<Description>The ultimate solution to the creep. Needs line of sight to an exposed Creep Spawner.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>32</Value>
@@ -10219,6 +10480,20 @@
 				<IconName>Trencher Drill Mk3 component</IconName>
 				<Description>Greatly improved Trencher Drill. Builds in the same way as the Mk 1.</Description>
 			</ValueEntry>			
+			<ValueEntry>
+				<Value>36</Value>
+				<Key>AutoOrganicRemoverPlacement</Key>
+				<Name>Auto Organic Thief</Name>
+				<IconName>Auto Organic Thief</IconName>
+				<Description>Automatically removed ruined parts from your inventory.</Description>
+			</ValueEntry>			
+			<ValueEntry>
+				<Value>37</Value>
+				<Key>LaserBorerPlacement</Key>
+				<Name>Laser Borer</Name>
+				<IconName>LaserBorer</IconName>
+				<Description>HEFC-powered Laser Boring device. Rapidly creates a 3x3 hole down to the centre of the Cold Caverns. Build in a 3x3x3 shape.</Description>
+			</ValueEntry>
 
 
      	</Values>
@@ -10410,6 +10685,14 @@
 			<Stage><!-- Solar -->
 				<RangeMinimum>8</RangeMinimum>
 				<RangeMaximum>8</RangeMaximum>
+				<TopTexture>277</TopTexture>
+				<SideTexture>277</SideTexture>
+				<BottomTexture>277</BottomTexture>
+				<GUITexture>277</GUITexture>
+			</Stage>
+			<Stage><!--LaserBorder (boxes) -->
+				<RangeMinimum>37</RangeMinimum>
+				<RangeMaximum>37</RangeMaximum>
 				<TopTexture>277</TopTexture>
 				<SideTexture>277</SideTexture>
 				<BottomTexture>277</BottomTexture>
@@ -10975,7 +11258,54 @@
 			<tag>Fluid</tag>
 		</tags>
 	</TerrainDataEntry>	
-
+	<TerrainDataEntry>
+		<CubeType>300</CubeType>
+		<Key>UpArrow</Key>
+		<Name>Up Arrow</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>284</TopTexture>
+		<SideTexture>282</SideTexture>
+		<BottomTexture>284</BottomTexture>
+		<GUITexture>282</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>false</hasObject>
+		<hasEntity>false</hasEntity>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Art</tag>
+		</tags>
+	</TerrainDataEntry>
+		<TerrainDataEntry>
+		<CubeType>301</CubeType>
+		<Key>DownArrow</Key>
+		<Name>Down Arrow</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>284</TopTexture>
+		<SideTexture>283</SideTexture>
+		<BottomTexture>284</BottomTexture>
+		<GUITexture>283</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>false</hasObject>
+		<hasEntity>false</hasEntity>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Art</tag>
+		</tags>
+	</TerrainDataEntry>
 	<TerrainDataEntry>
 		<Hidden>false</Hidden>
 		<CubeType>601</CubeType>

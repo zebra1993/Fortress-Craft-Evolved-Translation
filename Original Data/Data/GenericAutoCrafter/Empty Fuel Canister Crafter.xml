@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Fuel Canister Crafter</FriendlyName>
+	<SpawnObject>PipeExtruder_T1</SpawnObject>
+	<Value>EmptyCanisterCrafter</Value>
+			
+	<PowerUsePerSecond>0</PowerUsePerSecond>  <!-- 500 power -->
+	<PowerTransferPerSecond>0</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>0</MaxPowerStorage>  <!-- optional -->
+	<LoadingAnimation>In</LoadingAnimation>					<!-- optional -->
+	<WorkingAnimation>Out</WorkingAnimation>					<!-- optional -->
+	<UnloadingAnimation>Idle</UnloadingAnimation>					<!-- optional -->
+	
+	<CraftTime>5</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>FuelCanisterKey</Key>
+		<CraftedName>Empty Fuel Canister</CraftedName><!-- Iiiiiiiiiiiiiirelevant -->
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronPipe</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Elegantly crafts a simble Empty Fuel Canister. Stick it in a rocket! Send it to the moon!</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

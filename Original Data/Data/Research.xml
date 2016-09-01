@@ -31,7 +31,7 @@
 		<Key>Anthropological Osteology</Key>
 		<Name>Anthropological Osteology</Name>
 		<IconName>Anthropological Osteology</IconName>
-		<ResearchCost>25</ResearchCost><!-- This is only for greg-level games, tbh -->
+		<ResearchCost>15</ResearchCost><!-- This is only for greg-level games, tbh -->
 		<PreDescription>With all these perfectly-preserved animal parts we're finding, maybe some use can be made of this? Yes, it's a real word. Go look it up!</PreDescription>
 		<PostDescription>We've found a number of uses for these! Let's drape their corpses all over our base!</PostDescription>
 		<ScanRequirements>
@@ -283,7 +283,7 @@
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
 		</ResearchRequirements>
-		<ResearchCost>15</ResearchCost>
+		<ResearchCost>12</ResearchCost>
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>T3 Power</Key>
@@ -603,7 +603,7 @@
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
 		<PreDescription>This research will allow us to insert and remove even more items into Mass Storage setups.</PreDescription>
-		<PostDescription>Now available : Bulk Mass-Storage inserters.</PostDescription>
+		<PostDescription>Now available : Bulk Mass-Storage inserters and Mass Storage Power controllers.</PostDescription>
 		<ResearchRequirements>
 			<Research>T4 assist machines</Research>
 			<Research>ResinHandling</Research>
@@ -628,11 +628,11 @@
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
 		<PreDescription>This ultimate tier of Mass Storage will let us utilise large amounts of power to transfer thousands of items to and from our mass storage systems.</PreDescription>
-		<PostDescription>Now available : Mass Storage IO ports and Mass Storage Power controllers. IO Ports can be used exactly like Storage Hoppers and interact with Mass Storage Crates.</PostDescription>
+		<PostDescription>Now available : Mass Storage IO ports. IO Ports can be used exactly like Storage Hoppers and interact with Mass Storage Crates.</PostDescription>
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research>
 			<Research>T4_GTPower</Research>
-
+			<Research>T4_Particles</Research>
 		</ResearchRequirements>
 		
 		<ProjectItemRequirements>
@@ -991,16 +991,16 @@
 		<PostDescription>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</PostDescription>
 	</ResearchDataEntry>
 
-	<!-- This will NOT use T4 Ore -->
+	<!-- Easy-peasy research, just to push everything that needs Chromium/Moly into a seperate research -->
+	<!-- HRGs should only use T4_start, and all trenchers use this -->
 	<ResearchDataEntry>
 		<Key>T4 ore extracting</Key><!-- Oops. Spaced -->
 		<Name>Large Scale Vein Extraction</Name>
 		<IconName>Large Scale Vein Extraction</IconName>
-		<PreDescription>The ore extractors we have been using so far do not appear to be up to the task of mining the new ores we've found down below. We'll have to develop new ways of extraction.</PreDescription>
+		<PreDescription>The ore extractors we have been using so far do not appear to be up to the task of mining the new ores we've found down below. We'll have to develop new ways of extraction. A small sample of the new ores from the Hard Rock Grinder and using up the last of the old Research Pods should see us clear!</PreDescription>
 		<PostDescription>The ore extractor we've developed is much bigger than old ones, allowing it to apply much more force on the ore material. It also appears to be much more efficient at gathering the softer ores. </PostDescription>
 
 		<ResearchRequirements>
-			<Research>mining upgrade 5</Research>
 			<Research>T4_start</Research>
 		</ResearchRequirements>
 
@@ -1018,12 +1018,16 @@
 				<Amount>512</Amount>
 			</Requirement>
 			<Requirement>
-				<Key>CrystalCutterHead</Key> <!-- something really tough -->
+				<Key>MolybdenumOre</Key> <!-- something really tough -->
+				<Amount>1</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ChromiumOre</Key> <!-- something really tough -->
 				<Amount>1</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
 
-	<ScanRequirements>
+		<ScanRequirements>
 			<Scan>MolybdenumOre</Scan>
 			<Scan>ChromiumOre</Scan>
 		</ScanRequirements>
@@ -1101,24 +1105,21 @@
 		<Key>T4_start</Key>
 		<Name>Frozen Factory Expansion</Name>
 		<IconName>Frozen Factory Expansion</IconName>
-		<PreDescription>This is not currently available. You can research this, but you'll not be able to build any of the items you research. I do not recommend doing this, unless you're reeeeeally bored. Or planning in advance...</PreDescription>
-		<PostDescription>WARNING! YOU HAVE RESEARCHED THE FROZEN FACTORY EXPANSION RESEARCH! You will now be able to see a number of T4 machines, but you will NOT be able to place them! (Patreons get access : http://www.patreon.com/fortresscraft )</PostDescription>
+		<PreDescription>With the Nova growing ever-larger, we need to see about relocating ourselves to somewhere less inhospitable. The methane-filled 'Cold Caverns' should provide us with cover, if we are able to terraform them. Researching this will give us the information we need! NOTE : ALL MACHINES UNLOCKED BY THIS RESEARCH WILL REQUIRE THE FROZEN FACTORY EXPANSION PACK TO BE INSTALLED!</PreDescription>
+		<PostDescription>We can now build a Cold Cavern Climate Control Centre! (Also known as the CCCCC or the C5!)</PostDescription>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research><!-- misspelled!-->
+			<Research>mining upgrade 5</Research>
 		</ResearchRequirements>
 		<!-- Nothing higher than Lithium -->
 		<ProjectItemRequirements>
 			<Requirement>
-				<Key>XLExperimentalPod</Key>
-				<Amount>512</Amount>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>64</Amount>
 			</Requirement>
 			<Requirement>
-				<Key>AdvancedExperimentalPod</Key>
-				<Amount>512</Amount>
-			</Requirement>
-			<Requirement>
-				<Key>UltimateExperimentalPod</Key>
-				<Amount>512</Amount>
+				<Key>OverclockedCrystalClock</Key>
+				<Amount>64</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
@@ -1126,6 +1127,7 @@
 			<Scan>MolybdenumOre</Scan>
 		</ScanRequirements>
 	</ResearchDataEntry>
+
 
 	<!-- This WILL use T4 Ore -->
 	<ResearchDataEntry>
@@ -1142,11 +1144,11 @@
 		<ProjectItemRequirements>
 			<Requirement>
 				<Key>XLExperimentalPod</Key>
-				<Amount>256</Amount>
+				<Amount>64</Amount>
 			</Requirement>
 			<Requirement>
 				<Key>AdvancedExperimentalPod</Key>
-				<Amount>256</Amount>
+				<Amount>64</Amount>
 			</Requirement>
 			<Requirement>
 				<Key>ImbuedMachineBlock</Key>
@@ -1229,7 +1231,7 @@
 		</ScanRequirements>
 	</ResearchDataEntry>
 
-
+	<!--Now needs T4 materials -->
 	<ResearchDataEntry>
 		<Key>T4_Particles</Key>
 		<Name>Particulate Filtration</Name>
@@ -1243,16 +1245,12 @@
 
 		<ProjectItemRequirements>
 			<Requirement>
-				<Key>XLExperimentalPod</Key>
-				<Amount>512</Amount>
+				<Key>ChromiumBar</Key>
+				<Amount>32</Amount>
 			</Requirement>
 			<Requirement>
-				<Key>AdvancedExperimentalPod</Key>
-				<Amount>512</Amount>
-			</Requirement>
-			<Requirement>
-				<Key>UltimateExperimentalPod</Key>
-				<Amount>512</Amount>
+				<Key>MolybdenumBar</Key>
+				<Amount>32</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
 
@@ -1262,7 +1260,7 @@
 	<ResearchDataEntry>
 		<Key>T4_MagmaBore</Key>
 		<Name>MagmaBore</Name>
-		<IconName>MagmaBore</IconName>
+		<IconName>T4_MagmaBore</IconName>
 		<PreDescription>We can't continue to fight against the CryoPlasm forever; the Magma Caves we located deep below could be used as a source of heat to permenantly render the caverns ours.</PreDescription>
 		<PostDescription>That's...  that's a big drill.</PostDescription>
 
@@ -1274,8 +1272,8 @@
 
 		<ProjectItemRequirements>
 			<Requirement>
-				<Key>ImbuedMachineBlock</Key><!--This is lame-->
-				<Amount>512</Amount>
+				<Key>HiemalMachineBlock</Key><!--This is still lame-->
+				<Amount>256</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
@@ -1288,7 +1286,7 @@
 	<ResearchDataEntry>
 		<Key>T4_8LightsInTheDark</Key><!--May need to rename key before launch. My history education was lacking. Apologies!-->
 		<Name>8 lights in the dark</Name>
-		<IconName>MagmaBore</IconName>
+		<IconName>8 lights in the dark</IconName>
 		<PreDescription>We feel that these final sets of machines will be suitable for defeating the CryoPlasm.</PreDescription>
 		<PostDescription>We now have access to the CryoPlasm Inferno. This should let us burn the spawners to a crisp. We've also perfected over-charging certain machines using the Freezon Injector; combine those with the CyroPlasm Lancers and we should see a substantial boost in performance.</PostDescription>
 
@@ -1298,8 +1296,8 @@
 
 		<ProjectItemRequirements>
 			<Requirement>
-				<Key>ImbuedMachineBlock</Key><!--This is lame-->
-				<Amount>1</Amount><!-- Todo before T4 release, fix this-->
+				<Key>HiemalMachineBlock</Key><!--This is still lame-->
+				<Amount>256</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>

@@ -28,7 +28,8 @@
 		</Costs>
 		<Description>Solid fuel containing oxydizer. Highly volatile. Usable as high intensity heat source or rocket fuel.</Description>
 	</CraftData>
-		<CraftData>
+	<CraftData>
+		<Name>Does this work?</Name>
 		<Key>RefinedLiquidResin</Key>
 		<CraftedKey>HighEnergyCompositeFuel</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>

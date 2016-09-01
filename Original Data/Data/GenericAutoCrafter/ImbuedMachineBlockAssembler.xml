@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Advanced Machine Block Assembler</FriendlyName>
-	<SpawnObject>AdvancedMachineBlockAssembler</SpawnObject>
-	<Value>AdvancedMachineBlockAssembler</Value>
+	<FriendlyName>Imbued Machine Block Assembler</FriendlyName>
+	<SpawnObject>ImbuedMachineBlockAssembler</SpawnObject>
+	<Value>ImbuedMachineBlockAssembler</Value>
 			
 	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
 	
-	<CraftTime>8</CraftTime>  <!-- optional -->
+	<CraftTime>16</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
-		<Key>AdvancedMachineBlock</Key>
-		<CraftedName>Advanced Machine Block</CraftedName>
-		<CraftedAmount>1</CraftedAmount>
+		<Key>ImbuedMachineBlock</Key>
+		<CraftedName>Imbued Machine Block</CraftedName>
+		<CraftedAmount>3</CraftedAmount>
 			<Costs>
 			<CraftCost>
-				<Key>LowGradeSteelBar</Key>
-				<Amount>2</Amount>
+				<Key>AdvancedMachineBlock</Key>
+				<Amount>3</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>CrystalClock</Key>
-				<Amount>2</Amount>
+				<Key>PowerBoosterMK5</Key>
+				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Automatically create Advanced Machine Blocks from Steel and Crystal Clocks.</Description>
+		<Description>Automatically create Imbued Machine Blocks from PowerBoosters and Advanced MachineBlocks.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Cluster Missile Crafter</FriendlyName>
+	<SpawnObject>ClusterMissileCrafter</SpawnObject>
+	<Value>ClusterMissileCrafter</Value>
+			
+	<PowerUsePerSecond>32</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>4096</PowerTransferPerSecond>  <!-- 49800 -->
+	<MaxPowerStorage>2048</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>60</CraftTime>  <!-- 1:1 with Imbuers -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ClusterMissile</Key>
+		<CraftedName>Cluster Missile</CraftedName>
+		<CraftedAmount>8</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>PlasmaImbuedMissile</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

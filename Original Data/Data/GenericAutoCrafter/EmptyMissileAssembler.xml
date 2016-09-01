@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Empty Missile Assembler</FriendlyName>
+	<SpawnObject>MissileAssembler</SpawnObject>
+	<Value>EmptyMissileAssembler</Value>
+			
+	<PowerUsePerSecond>8</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>128</MaxPowerStorage>  <!-- optional -->
+	<CraftingString>Assembling</CraftingString>
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>emptymissile</Key>
+		<CraftedName>Empty Missile</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Name>Copper Pipe</Name>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Name>Gold Wire</Name>
+				<Amount>1</Amount>
+			</CraftCost>			
+		</Costs>
+		<Description>Copper pipes and gold wires into empty missiles. Handle with care!</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

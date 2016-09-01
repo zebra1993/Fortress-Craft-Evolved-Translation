@@ -5,8 +5,10 @@ Da dieses Spiel sich immer wieder verändert und bis jetzt (Meines Wissens) noch
 Mit zusätzlicher Hilfe ginge das ganze natürlich schneller. Wer interesse hat, kann sich bei mir melden oder einfach einen Fork erstellen und so die Dateien übersetzen. 
 
 Status:
+In Progress
 
-Dateien sind noch BEVOR Cold Factory live gegangen ist hinzugefügt worden. Cold Factory wird erst begonnen wenn die anderen Fertig sind. (Sollte dann eigentlich recht schnell gehen)
+Originale sind von Contentbuild ID 1310852 (12.10/Stablebuild) (Mi 31.08.16) 
+
 
 Direkt Kontakt: 
 streupfeffer@gmx.ch

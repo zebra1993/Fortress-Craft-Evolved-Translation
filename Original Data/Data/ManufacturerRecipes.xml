@@ -57,7 +57,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key><!-- It's fine to use loads of power to give the player what is essentially a mini-reactor-->
-				<Amount>12</Amount>
+				<Amount>18</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>The solar panel collects a modest amount of energy from natural sunlight during the day powering adjacent machines.
@@ -108,7 +108,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>8</Amount>
+				<Amount>32</Amount><!-- this is a LOT more, but means the player might actually go through some sort of upgrade; last playthrough I TOTALLY skipped MK2 solars and just used Organic-->
 			</CraftCost>
 		</Costs>
 		<Description>Collects a medium amount of energy during the day and a minimal amount at night. This has the same placement restrictions as the regular version.</Description>
@@ -266,8 +266,9 @@
 		<Description>Transmits power at a medium rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.</Description>
 		<Hint>Tier 2 version transmits more power!</Hint>
 		<ResearchRequirements>
-			<Research>T2 Power</Research>
+			<Research>T3 Power</Research>
 		</ResearchRequirements>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
 	
 	<!-- self-craft upcraft version of above -->
@@ -294,9 +295,10 @@
 		<Description>Transmits power at a medium rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.</Description>
 		<Hint>Perform up-crafts of your old gear in the SelfCraft (C) menu!</Hint>
 		<ResearchRequirements>
-			<Research>T2 Power</Research>
+			<Research>T3 Power</Research><!-- T3 power requires having actually accessed T2 mats -->
 		</ResearchRequirements>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
 	
 	<CraftData>
@@ -319,15 +321,42 @@
 				<Amount>75</Amount>
 			</CraftCost>
 		</Costs>
+		<Description>THIS RECIPE WILL BE RETIRED NEXT PATCH. PREPARE TO USE ALLOYED BLOCKS INSTEAD.</Description>
+		<Hint>The largest single-block energy transmitter.</Hint>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>T4 Power</Research>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+		<ResearchCost>2</ResearchCost>
+	</CraftData>
+
+	<CraftData>
+		<Key>laser_mk3_new</Key>
+		<Category>power</Category>
+		<Tier>2</Tier>
+		<CraftedKey>LaserEnergyTransmitterMK3</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>AlloyedMachineBlock</Key><!-- 112 of each T2 type - slightly cheaper than before, but absolutely LOADS /easier/ to make-->
+				<Amount>7</Amount><!-- 6 would be 96 of each type-->
+			</CraftCost>
+		</Costs>
 		<Description>Transmits power at a high rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.</Description>
 		<Hint>The largest single-block energy transmitter.</Hint>
 		<ScanRequirements>
 			<Scan>GoldOre</Scan>
 		</ScanRequirements>
 		<ResearchRequirements>
-			<Research>T3 Power</Research>
+			<Research>T4 Power</Research>
+			<Research>alloys</Research>
 		</ResearchRequirements>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
+
 	<CraftData>
 		<Key>PSB</Key>
 		<Category>power</Category>
@@ -393,6 +422,32 @@
 			<CraftCost>
 				<Key>TitaniumBar</Key>
 				<Amount>64</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>TinPlate</Key>
+				<Amount>6</Amount>
+			</CraftCost>
+		</Costs>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>T3 Power</Research>
+		</ResearchRequirements>
+		<Description>THIS RECIPE WILL BE RETIRED NEXT PATCH. PREPARE TO USE ALLOYED BLOCKS INSTEAD.</Description>
+		<Hint>Connect to machines to power them</Hint>
+	</CraftData>
+
+	<CraftData>
+		<Key>PSB_mk3_Alt</Key>
+		<Category>power</Category>
+		<Tier>2</Tier>
+		<CraftedKey>PowerStorageMK3</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>2</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>TinPlate</Key>
@@ -550,6 +605,26 @@
 	</CraftData>
 
 	<CraftData>
+		<Key>AutoOrganicRemover</Key>
+		<Category>logistics</Category>
+		<Tier>2</Tier>
+		<CraftedKey>AutoOrganicRemoverPlacement</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>A handy method of removing unwanted organic parts from your inventory. Place in a 3x3 layout, then stand on it! Requires a small amount of power and an attached Storage Hopper.</Description>
+		<Hint>No time for lazy!</Hint>
+		<ResearchCost>4</ResearchCost>
+		<ResearchRequirements>
+			<Research>Anthropological Osteology</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
 		<Key>ItemInjector</Key>
 		<Category>logistics</Category>
 		<Tier>2</Tier>
@@ -566,6 +641,35 @@
 			</CraftCost>
 		</Costs>
 		<Description>Automatically removes items from adjacent Storage Hoppers and transmits it to player within 5 metres.</Description>
+		<Hint>No time for lazy!</Hint>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>
+		<ResearchCost>4</ResearchCost>
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>WaypointMachine</Key>
+		<Category>logistics</Category>
+		<Tier>2</Tier>
+		<CraftedKey>WaypointMachine</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>PowerBoosterMK1</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.</Description>
 		<Hint>No time for lazy!</Hint>
 		<ScanRequirements>
 			<Scan>CopperOre</Scan>
@@ -1000,7 +1104,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Use this to remind yourself exactly what you meant to do.</Description>
-		<Hint>NOT EDITABLE UNTIL WE HIT 1,000 ACTIVE USERS!</Hint>
+		<Hint>Thank you to the Patreons for donating to get this live!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	
@@ -1012,12 +1116,12 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>Rock</Key><!-- Rough Hewn Rock is overused -->
-				<Amount>10</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>A slightly stronger wall for your base.</Description>
-		<Hint>Caution : Uses up 10 Rough Hewn Rock!</Hint>
+		<Hint>Caution : Uses up 16 Paste!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
@@ -1028,8 +1132,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>WoodenPlanks</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>A slightly stronger wall for your base.</Description>
@@ -1060,8 +1164,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>IronPlate</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>8</Amount><!-- Bit more useful -->
 			</CraftCost>
 		</Costs>
 		<Description>Useful for looking into the guts of your base</Description>
@@ -1076,10 +1180,10 @@
 		<Category>defences</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ChevronSign</CraftedKey>
-		<CraftedAmount>2</CraftedAmount>
+		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1092,10 +1196,10 @@
 		<Category>defences</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ChevronSign2</CraftedKey>
-		<CraftedAmount>2</CraftedAmount>
+		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1134,30 +1238,7 @@
 		<Description>Decorative wooden blocks. This can also be crafted under the self-craft menu (C)</Description>
 		<Hint>Pretty!</Hint>
 	</CraftData>	
-	<CraftData>
-		<Hidden>true</Hidden>
-		<Key>Geiger</Key>
-		<Category>defences</Category>
-		<Tier>0</Tier>
-		<CraftedKey>SoftResin</CraftedKey>
-		<CraftedAmount>1</CraftedAmount>
-		<Costs>
-			<CraftCost>
-				<Key>RuinedHeavyChitin</Key>
-				<Amount>1</Amount>
-			</CraftCost>
-			<CraftCost>
-				<Key>RuinedLightChitin</Key>
-				<Amount>1</Amount>
-			</CraftCost>
-		</Costs>
-		<Description>Alien-esque wall decoration</Description>
-		<Hint>Uses up some of that chitin!</Hint>
-		<CanCraftAnywhere>true</CanCraftAnywhere>
-		<ResearchRequirements>
-			<Research>aesthetics</Research>
-		</ResearchRequirements>
-	</CraftData>
+
 	<CraftData>
 		<Key>white canvas</Key>
 		<Category>decoration</Category>
@@ -1166,7 +1247,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1175,6 +1256,7 @@
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
+		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
 		<Key>red canvas</Key>
@@ -1184,7 +1266,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1202,7 +1284,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1220,7 +1302,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -1437,8 +1519,16 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ForcedInductionMK5</Key><!-- Bwhahahaha -->
-				<Amount>8</Amount>
+				<Key>PowerBoosterMK5</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>256</Amount><!-- 4096 of each block, min crafting time of 64 mins -->
+			</CraftCost>
+			<CraftCost>
+				<Key>ForcedInductionMK5</Key>
+				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -1926,10 +2016,52 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>4</ResearchCost>
-		<Description>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
+		<Description>Combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
 		<Hint>Connect directly to conveyor belts. Only works if both sides are supplied with material.</Hint>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
+		</ResearchRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>zippermergefast</Key>
+		<Category>logistics</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ZipperMergeFast</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TransportPipe</Key>
+				<Amount>25</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>4</ResearchCost>
+		<Description>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio. Much faster than a standard Zipper Merge.</Description>
+		<Hint>Connect directly to conveyor belts. Only works if both sides are supplied with material.</Hint>
+		<ResearchRequirements>
+			<Research>T4 assist machines</Research>
+		</ResearchRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>zippermerge3n1</Key>
+		<Category>logistics</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ZipperMerge3n1</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>RegularConveyorBelt</Key>
+				<Amount>3</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>StamperPlant</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>4</ResearchCost>
+		<Description>Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!</Description>
+		<Hint>Connect directly to conveyor belts. Only works if both sides are supplied with material.</Hint>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
 		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
@@ -1940,16 +2072,12 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>NickelBar</Key>
+				<Key>HardenedMachineBlock</Key>
 				<Amount>3</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>CrystalDeposit</Key>
 				<Amount>5</Amount>
-			</CraftCost>
-			<CraftCost>
-				<Key>TitaniumBar</Key>
-				<Amount>2</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>TinBar</Key>
@@ -1960,8 +2088,9 @@
 		<Hint>Immune to extreme cold.</Hint>
 		<ScanRequirements>
 			<Scan>TitaniumOre</Scan>
-			<Scan>CrystalDeposit</Scan>>
+			<Scan>CrystalDeposit</Scan>
 		</ScanRequirements>
+		<Research>alloys</Research>
 		<ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
@@ -2327,7 +2456,7 @@
 			<Research>Advanced Research</Research>
 		</ResearchRequirements>
 	</CraftData>
-		<CraftData>
+	<CraftData>
 		<Key>t1_pcb_assembler</Key>
 		<Category>manufacturing</Category>
 		<Tier>0</Tier>
@@ -2349,6 +2478,86 @@
 			<Research>Advanced Research</Research>
 		</ResearchRequirements>
 	</CraftData>
+
+	<CraftData>
+		<Key>HardenedMachineBlockAssembler</Key>
+		<Category>manufacturing</Category>
+		<Tier>0</Tier>
+		<CraftedKey>HardenedMachineBlockAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Uses a mixture of Nickel and Titanium to create essential Alloyed blocks.</Description>
+		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+			<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+		<ResearchCost>4</ResearchCost>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructionPasteGrinder</Key>
+		<Category>decoration</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ConstructionPasteGrinder</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>Snow</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+
+		</Costs>
+		<Description>Converts useless garbage into Construction Paste. All aesthetic blocks use construction paste!</Description>
+		<Hint>Pretty.</Hint>
+		<ResearchRequirements>
+			<Research>aesthetics</Research>
+		</ResearchRequirements>
+
+	</CraftData>
+
+	<CraftData>
+		<Key>AlloyedMachineBlockAssembler</Key>
+		<Category>manufacturing</Category>
+		<Tier>0</Tier>
+		<CraftedKey>AlloyedMachineBlockAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold-plates Hardnened Blocks into Alloyed Blocks.</Description>
+		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+			<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+		<ResearchCost>4</ResearchCost>
+	</CraftData>
+
+
+
 	<CraftData>
 		<Key>t1_tuber</Key>
 		<Category>manufacturing</Category>
@@ -2492,6 +2701,31 @@
 	</CraftData>
 
 	<CraftData>
+		<Key>ClusterMissileCrafter</Key>
+		<Category>defences</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ClusterMissileCrafter</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>PlasmaImbuedMissile</Key>
+				<Amount>32</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Description>
+		<Hint>These missiles are ready to launch!</Hint>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>
+		<ResearchCost>2</ResearchCost>
+	</CraftData>
+
+	<CraftData>
 		<Key>poisonwarhead</Key>
 		<Category>defences</Category>
 		<Tier>4</Tier>
@@ -2499,11 +2733,11 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>TitaniumPlate</Key>
+				<Key>CompressedChlorine</Key>
 				<Amount>5</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>ChargedPCB</Key>
+				<Key>MagneticMachineBlock</Key>
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
@@ -2517,18 +2751,18 @@
 	</CraftData>
 
 	<CraftData>
-		<Key>plasmaimbuedwarhead</Key>
+		<Key>freezewarhead</Key>
 		<Category>manufacturing</Category>
 		<Tier>4</Tier>
 		<CraftedKey>FreezeMissileCrafter</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>TitaniumPlate</Key>
+				<Key>CompressedFreon</Key>
 				<Amount>5</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>ChargedPCB</Key>
+				<Key>ChromedMachineBlock</Key>
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
@@ -2760,6 +2994,71 @@
 		<Description>Doubles your suit's power capacity. Only one required and must be carried in your inventory.</Description>
 		<Hint>Suit Item! You only need 1! May only be crafted if the Hydrojet Cutter is present.</Hint>
 	</CraftData>
+
+	<CraftData>
+		<Key>powerpack2</Key>
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>SuitPowerPackMK2</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ChromiumBar</Key>
+				<Amount>512</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>MolybdenumBar</Key>
+				<Amount>512</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SuitPowerPackMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>T4_start</Research>
+		</ResearchRequirements>
+		<ResearchCost>1</ResearchCost>
+		<Description>Quadruples your suit's power capacity. Only one required and must be carried in your inventory.</Description>
+		<Hint>Suit Item! You only need 1!</Hint>
+	</CraftData>
+
+	<CraftData>
+		<Key>MK1SuitUpgradeModule</Key>
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>AllInOne</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>SuitPowerPackMK2</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SolarCellMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SuitHeaterMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>SuitHeadlightMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ToxicParticleFilter</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>T4_start</Research>
+		</ResearchRequirements>
+		<ResearchCost>1</ResearchCost>
+		<Description>Converts ALL previous suit upgrades into an super-duper All In One (tm) Suit Upgrade. Perfick.</Description>
+		<Hint>Suit Item! You only need 1!</Hint>
+	</CraftData>
+
 	<CraftData>
 		<Key>head light</Key>
 		<Category>upgrades</Category>
@@ -3313,10 +3612,11 @@
 
 	</CraftData>
 
+	<!-- Low-tier intermediary T4 block crafter-->
 	<CraftData>
 		<Key>imb_crafter</Key>
 		<Category>manufacturing</Category>
-		<Tier>2</Tier>
+		<Tier>3</Tier>
 		<CraftedKey>ImbuedMachineBlockAssembler</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
@@ -3333,35 +3633,86 @@
 			<Research>t4_start</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
+		<Description>Common component for advanced machinery. Uses 3 Advanced Machine Blocks and a single MK5 Power Booster.</Description>
+		<Hint>Can also be used for construction.</Hint>
+	</CraftData>
+
+	<!-- Mid-tier primary T4 block crafter-->
+	<CraftData>
+		<Key>mag_crafter</Key>
+		<Category>manufacturing</Category>
+		<Tier>4</Tier>
+		<CraftedKey>MagneticMachineBlockAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MolybdenumBar</Key>
+				<Amount>4</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>4</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+			<Research>T4_Particles</Research>
+		</ResearchRequirements>
+		<ResearchCost>1</ResearchCost>
 		<Description>Common component for advanced machinery.</Description>
 		<Hint>Can also be used for construction.</Hint>
 	</CraftData>
 
-	<!-- T4 equivalent of above -->
-		<!--
+	<!-- Mid-tier secondary T4 block crafter-->
 	<CraftData>
-		<Key>imbuedmachineblock</Key>
-		<Category>CraftingIngredient</Category>
-		<Tier>2</Tier>
-		<CraftedKey>ImbuedMachineBlock</CraftedKey>
+		<Key>chrome_crafter</Key>
+		<Category>manufacturing</Category>
+		<Tier>4</Tier>
+		<CraftedKey>ChromedMachineBlockAssembler</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>AdvancedMachineBlock</Key>
-				<Amount>1</Amount>
+				<Key>ChromiumBar</Key>
+				<Amount>4</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>PowerBoosterMK5</Key>
-				<Amount>1</Amount>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>4</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+			<Research>T4_Particles</Research>
+		</ResearchRequirements>
+		<ResearchCost>1</ResearchCost>
+		<Description>Common component for advanced machinery.</Description>
+		<Hint>Can also be used for construction.</Hint>
+	</CraftData>
+
+	<!-- End-tier T4 block crafter-->
+	<CraftData>
+		<Key>hiemal_crafter</Key>
+		<Category>manufacturing</Category>
+		<Tier>5</Tier>
+		<CraftedKey>HiemalMachineBlockAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>64</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>64</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
 			<Research>t4_start</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for extremely advanced machinery.</Description>
+		<Description>Common component for advanced machinery.</Description>
 		<Hint>Can also be used for construction.</Hint>
-	</CraftData>-->
+	</CraftData>
 
 	<CraftData>
 		<Key>refinery controller</Key>
@@ -4301,7 +4652,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>0</ResearchCost>
-		<Description>Empty fuel canister. Be green - recyle after use!</Description>
+		<Description>Empty fuel canister. Be green - recyle where possible!</Description>
 		<Hint>Be green - recyle after use!</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 2</Research>
@@ -4319,7 +4670,7 @@
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
-		<ResearchCost>15</ResearchCost>
+		<ResearchCost>4</ResearchCost>
 		<Description>Accurate and fast motor.</Description>
 		<Hint>Minimal torque.</Hint>
 		<ResearchRequirements>
@@ -4343,6 +4694,52 @@
 		<Hint>Not to be used for heavy-duty machines!</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>AlloyedMachineBlock</Key>
+		<Category>manufacturing</Category>
+		<Tier>0</Tier>
+		<CraftedKey>AlloyedMachineBlock</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>24</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>HardenedMachineBlock</Key>
+				<Amount>24</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.</Description>
+		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+			<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>HardenedMachineBlock</Key>
+		<Category>manufacturing</Category>
+		<Tier>0</Tier>
+		<CraftedKey>HardenedMachineBlock</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.</Description>
+		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+			<ResearchRequirements>
+			<Research>alloys</Research>
 		</ResearchRequirements>
 	</CraftData>
 	
@@ -4436,7 +4833,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>4</Amount>
+				<Amount>16</Amount>
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK3</Key>
@@ -4525,7 +4922,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>4</Amount>
+				<Amount>16</Amount>
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK3</Key>
@@ -4552,13 +4949,17 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>MassStorageIO</Key>
+				<Key>MassStorageOutputPortMK3</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>MassStorageInputPortMK3</Key>
 				<Amount>5</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
 		<ResearchRequirements>
-			<Research>T6 assist machines</Research>
+			<Research>T5 assist machines</Research>
 		</ResearchRequirements>
 		<Description>Powers Mass Storage IO Ports.</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
@@ -4670,10 +5071,6 @@
 				<Key>ServoMotor</Key>
 				<Amount>3</Amount>
 			</CraftCost>		
-			<CraftCost>
-				<Key>CopperWire</Key>
-				<Amount>8</Amount>
-			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
 		<ResearchRequirements>
@@ -4695,17 +5092,13 @@
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>LaserEnergyTransmitterMK1</Key>
+				<Key>LaserEnergyTransmitterMK2</Key>
 				<Amount>3</Amount>
 			</CraftCost>		
 			<CraftCost>
 				<Key>ServoMotor</Key>
 				<Amount>3</Amount>
 			</CraftCost>		
-			<CraftCost>
-				<Key>CopperWire</Key>
-				<Amount>8</Amount>
-			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
 		<ResearchRequirements>
@@ -4801,7 +5194,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<ResearchCost>25</ResearchCost>
+		<ResearchCost>10</ResearchCost>
 		<Description>Manufacturing Plants allow automated crafting and building. Requires V2 Build Gun to move!</Description>
 		<Hint>Requires V2 Build Gun to move!</Hint>
 		<ResearchRequirements>
@@ -4948,25 +5341,48 @@
 				<Amount>32</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>CrystalDeposit</Key>
-				<Amount>8</Amount>
+				<Key>RefinedLiquidResin</Key>
+				<Amount>128</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>CopperWire</Key>
-				<Amount>1</Amount>
+				<Key>PowerBoosterMK3</Key>
+				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchCost>1</ResearchCost>
 		<Description>Supply power to increase explosion radius. Keeps charge when picked up. For safety we recommend you avoid charging near anything important.</Description>
 		<Hint>Requires charging with power before use!</Hint>
 		<ResearchRequirements>
-			<Research>T1 assist machines</Research>
+			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
 		<ScanRequirements>
 			<Scan>CrystalDeposit</Scan>
 		</ScanRequirements>	
 	</CraftData>
-	
+
+	<CraftData>
+		<Key>nanodisintegrator</Key>
+		<Category>consumables</Category>
+		<Tier>2</Tier>
+		<CraftedKey>nanodisintegrator</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>PowerBoosterMK2</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>LightweightMachineHousing</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>1</ResearchCost>
+		<Description>A single-use machine, capable of destroying anything it's placed on. USE WITH EXTREME CARE.</Description>
+		<Hint>USE-WITH-EXTREME-CARE.</Hint>
+		<ResearchRequirements>
+			<Research>T2 assist machines</Research>
+		</ResearchRequirements>
+	</CraftData>
 	
 	<CraftData>
 		<Key>blankping</Key>
@@ -6038,6 +6454,7 @@
 		</Costs>
 		<ResearchRequirements>
 			<Research>CargoLift2</Research>
+			<Research>orbitalpower</Research><!-- Because of the MK5. This might want to move sooner in the game progression -->
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
 		<Description>1000 capacity lift with a maximum speed of 10 metres per second. Deploy in a Cargo Lift Controller.</Description>
@@ -6066,7 +6483,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>256</Amount>
+				<Amount>512</Amount><!-- You only need one!-->
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -6127,7 +6544,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Use this to transmit power to your Orbital Space station. Must be built 13 tall with a 9x9 base.</Description>
+		<Description>Use this to transmit power to your Orbital Space station. Must be built 13 tall with a 9x9 base (1053 total).</Description>
 		<Hint>This is is built in a 9x13x9 shape.</Hint>
 		<ResearchRequirements>
 			<Research>orbitalpower</Research>
@@ -6186,12 +6603,12 @@
 		<CraftedAmount>5</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>IronOre</Key>
+			<Key>ConstructionPaste</Key>
 			<Amount>1</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>A decorative metal truss</Description>
-		<Hint>Uses up Deep Stone!</Hint>
+		<Hint>Uses up Construction Paste!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ScanRequirements>
 			<Scan>IronOre</Scan>
@@ -6206,8 +6623,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>GoldOre</Key>
-			<Amount>1</Amount>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
@@ -6223,8 +6640,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>GoldOre</Key>
-			<Amount>1</Amount>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
@@ -6240,8 +6657,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>GoldOre</Key>
-			<Amount>1</Amount>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
@@ -6257,8 +6674,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>GoldOre</Key>
-			<Amount>1</Amount>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
@@ -6274,8 +6691,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-			<Key>IronOre</Key>
-			<Amount>1</Amount>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
 		<Description>Black cats optional</Description>
@@ -6309,7 +6726,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>WoodenPlanks</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>	
 		</Costs>
@@ -6328,8 +6745,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 		<CraftCost>
-				<Key>WoodenPlanks</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
 		<Description>Thank you to Tarakesh : "Awesome Games are worth every cent you pay for...  ;-)" www.patreon.com/FortressCraft</Description>
@@ -6347,12 +6764,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>RoughHewnRock</Key>
-				<Amount>1</Amount>
-			</CraftCost>	
-			<CraftCost>
-				<Key>SoftResin</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
 		<Description>Thank you to Herp21 : "Has grooves in all the right places!" www.patreon.com/FortressCraft</Description>
@@ -6370,8 +6783,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>Bedrock</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
 		<Description>Thank you to Fartex : "Not as hard as the game is good." www.patreon.com/FortressCraft</Description>
@@ -6390,8 +6803,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChilledCavernStone</Key>
-				<Amount>1</Amount>
+				<Key>ConstructionPaste</Key>
+				<Amount>16</Amount>
 			</CraftCost>	
 		</Costs>
 		<Description>Thank you to Nexus : "If (mDonation > $100) AddShinyNewBlock();//I need to take a break from coding" www.patreon.com/FortressCraft</Description>
@@ -6410,11 +6823,31 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>Rubble</Key>
+				<Key>ConstructionPaste</Key>
 				<Amount>1</Amount>
 			</CraftCost>	
 		</Costs>
 		<Description>Thank you to TadForever: "All mistakes have their uses." www.patreon.com/FortressCraft</Description>
+		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>aesthetics</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>DyedMarble</Key>
+		<Category>decoration</Category>
+		<Tier>7</Tier>
+		<CraftedKey>DyedMarble</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ConstructionPaste</Key>
+				<Amount>1</Amount>
+			</CraftCost>	
+		</Costs>
+		<Description>Thank you to MKMarq : "Luxurious materials for surviving in style!" www.patreon.com/FortressCraft</Description>
 		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
@@ -6666,7 +7099,7 @@
 				<Amount>5</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Uses large amounts of power to imbue standard Steel Cutter Heads with plamsa-based energy.</Description>
+		<Description>Uses large amounts of power to imbue standard Steel Cutter Heads with plasma-based energy.</Description>
 		<Hint>Gives a quadruple rate on the Ore Extractor, but the charge disappears after 2500 ore is returned.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
 		<ResearchRequirements>
 			<Research>Alloys</Research> <!-- Might want a secondary research after this-->
@@ -6688,15 +7121,15 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>LowGradeSteelBar</Key>
-				<Amount>27</Amount>
+				<Amount>9</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>LightweightMachineHousing</Key>
 				<Amount>9</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>TitaniumPlate</Key>
-				<Amount>27</Amount>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
 		
@@ -6759,7 +7192,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>150</Amount>
+				<Amount>64</Amount>
 			</CraftCost>
 
 		</Costs>
@@ -6795,7 +7228,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>25</Amount>
+				<Amount>32</Amount>
 			</CraftCost>
 
 		</Costs>
@@ -6839,23 +7272,19 @@
 
 	<CraftData>
 		<Key>GeothermalGeneratorPlacementMan</Key>
-		<Category>mining</Category>
+		<Category>power</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GeothermalGeneratorPlacement</CraftedKey>
 		<CraftedAmount>5</CraftedAmount>
 		
 		<Costs>
-			<CraftCost>
-				<Key>PyrothermicGenerator</Key>
-				<Amount>64</Amount>
-			</CraftCost>
 			<CraftCost><!-- This is post-casting, so the costs are WAY higher-->
-				<Key>ChromiumBar</Key>
-				<Amount>125</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>100</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>125</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>100</Amount>
 			</CraftCost>
 			<!-- Remove this and add it as a receipe for the pipe itself?-->
 			<CraftCost>
@@ -6873,7 +7302,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Geothermal Power. Place in a cold area, and feed with Heat Conductant Pipes. Build in a 5x3x5 configuration.</Description>
+		<Description>Geothermal Power. Place in a cold area, and feed with Heat Conductant Pipes. Build in a 5x3x5 configuration. (75 total)</Description>
 		<Hint>Makes a lot of power.</Hint>
 	</CraftData>	
 
@@ -6899,7 +7328,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>This turns liquid metal into bars at a high rate. Capable of dealing with Chromium and Molybdenum. Build in a 5x3x5 configuration.</Description>
+		<Description>This turns liquid metal into bars at a high rate. Capable of dealing with Chromium and Molybdenum. Build in a 5x3x5 configuration.  (75 total)</Description>
 		<Hint>Attach to 4 Blast Furnaces for maximum efficiency.</Hint>
 	</CraftData>	
 
@@ -6938,7 +7367,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>HeatConductingPipe</Key>
-				<Amount>16</Amount>
+				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>ChromiumBar</Key>
@@ -6966,7 +7395,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>HeatConductingPipe</Key>
-				<Amount>16</Amount>
+				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>ChromiumBar</Key>
@@ -7060,23 +7489,19 @@
 		<Category>mining</Category>
 		<Tier>4</Tier>
 		<CraftedKey>T4_Grinder_Placement</CraftedKey>
-		<CraftedAmount>1</CraftedAmount>
+		<CraftedAmount>3</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>TitaniumBar</Key>
-				<Amount>100</Amount>
-			</CraftCost>
-			<CraftCost>
-				<Key>GoldBar</Key>
-				<Amount>100</Amount>
-			</CraftCost>
-			<CraftCost>
-				<Key>NickelBar</Key>
-				<Amount>100</Amount>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>3</Amount><!-- 16 of each of the T2 Mats-->
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
 				<Amount>128</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
 		
@@ -7085,8 +7510,8 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>2</ResearchCost>
-		<Description>This will allow us to slowly and inefficient grind T4 ores. With these new ore, we can build new machines!</Description>
-		<Hint>Build in a 3x1x3 configuration.</Hint>
+		<Description>This will allow us to slowly and inefficient grind T4 ores. With these new ore, we can build new machines! Build in a 3x1x3 configuration.</Description>
+		<Hint>SINGLE-USE MACHINE!</Hint>
 	</CraftData>	
 
 	<CraftData>
@@ -7097,16 +7522,16 @@
 		<CraftedAmount>5</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>25</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>48</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>25</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>48</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>16</Amount>
+				<Amount>32</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7125,12 +7550,16 @@
 		<CraftedAmount>9</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>25</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>25</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>15</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>RefinedLiquidResin</Key>
+				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7149,12 +7578,12 @@
 		<CraftedAmount>9</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>25</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>15</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>25</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7173,12 +7602,12 @@
 		<CraftedAmount>9</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>25</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>15</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>25</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7197,12 +7626,12 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ChromiumBar</Key>
-				<Amount>5</Amount>
+				<Key>ChromedMachineBlock</Key>
+				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>MolybdenumBar</Key>
-				<Amount>5</Amount>
+				<Key>MagneticMachineBlock</Key>
+				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7263,8 +7692,8 @@
 		<CraftedAmount>99</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ImbuedMachineBlock</Key>
-				<Amount>99</Amount><!-- Red balloons go floating by-->
+				<Key>HiemalMachineBlock</Key>
+				<Amount>99</Amount>
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
@@ -7285,8 +7714,8 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ImbuedMachineBlock</Key>
-				<Amount>1</Amount>
+				<Key>HiemalMachineBlock</Key><!-- 504 total of each-->
+				<Amount>8</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>CompressedSulphur</Key>
@@ -7310,7 +7739,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ImbuedMachineBlock</Key>
+				<Key>MagneticMachineBlock</Key>
 				<Amount>4</Amount>
 			</CraftCost>
 			<CraftCost>
@@ -7335,7 +7764,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>ImbuedMachineBlock</Key>
+				<Key>MagneticMachineBlock</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
@@ -7349,6 +7778,31 @@
 		<ResearchCost>2</ResearchCost>
 		<Description>Attach to a Storage Hopper to inject Compressed Freezon into compatible machines.</Description>
 		<Hint>This makes Lancers approximately 28x better.</Hint>
+		<CanCraftAnywhere>false</CanCraftAnywhere>
+	</CraftData>
+
+	<CraftData>
+		<Key>LaserBorer</Key>
+		<Category>mining</Category>
+		<Tier>4</Tier>
+		<CraftedKey>LaserBorerPlacement</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>BFL9000</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>AdvancedMachineBlock</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>biomass</Research>
+		</ResearchRequirements>
+		<ResearchCost>2</ResearchCost>
+		<Description>Uses HEFC to super-charge a mining laser to create 3x3 vertical shafts extremely quickly. Feed HEFC via attached Storage Hopper. Build in a 3x3x3 shape.</Description>
+		<Hint>Warning! Dangerous! Ensure it is placed correctly before feeding fuel.</Hint>
 		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
 
@@ -7368,7 +7822,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it..</Description>
+		<Description>Crafts a machine capable of auto-crafting single-use Power Boosters. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it..</Description>
 		<Hint>Remember, Chargers put power into Boosters!</Hint>
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
@@ -7385,7 +7839,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>PowerBoosterMK1</Key>
-				<Amount>32</Amount>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it..</Description>
@@ -7405,7 +7859,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>PowerBoosterMK2</Key>
-				<Amount>32</Amount>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it..</Description>
@@ -7425,7 +7879,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>PowerBoosterMK3</Key>
-				<Amount>32</Amount>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it..</Description>
@@ -7445,7 +7899,7 @@
 		<Costs>
 			<CraftCost>
 				<Key>PowerBoosterMK4</Key>
-				<Amount>32</Amount>
+				<Amount>8</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
