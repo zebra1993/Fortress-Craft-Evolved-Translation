@@ -9,7 +9,7 @@
 	<MaxPowerStorage>8</MaxPowerStorage>  					<!-- optional -->
 	<WorkingAnimation>In</WorkingAnimation>					<!-- optional -->
 	<CraftingString>Enriching</CraftingString>
-	<CraftTime>30</CraftTime>  <!-- optional -->
+	<CraftTime>15</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>coal enrichment</Key>

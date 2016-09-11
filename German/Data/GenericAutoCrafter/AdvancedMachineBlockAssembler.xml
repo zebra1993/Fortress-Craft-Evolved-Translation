@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<FriendlyName>Verbessertermaschinenblock Montage</FriendlyName>
-	<SpawnObject>HydrojetCutter</SpawnObject>
+	<SpawnObject>AdvancedMachineBlockAssembler</SpawnObject>
 	<Value>AdvancedMachineBlockAssembler</Value>
 			
 	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
@@ -21,7 +21,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>CrystalClock</Key>
-				<Amount>4</Amount>
+				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Produziert automatisch verbesserte Maschinenblöcke aus Stahl und Kristalltaktgeber.</Description>

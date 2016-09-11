@@ -4,11 +4,11 @@
 	<SpawnObject>ChromedMachineBlockAssembler</SpawnObject>
 	<Value>ChromedMachineBlockAssembler</Value>
 			
-	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
 	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
 	
-	<CraftTime>15</CraftTime>  <!-- optional -->
+	<CraftTime>5</CraftTime>  <!-- optional -->
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ChromedMachineBlock</Key>
@@ -21,7 +21,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>ChromiumBar</Key>
-				<Amount>1</Amount>
+				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
 		<Description>Chromebeschichtet durchtränkte Maschienenblöcke.</Description>

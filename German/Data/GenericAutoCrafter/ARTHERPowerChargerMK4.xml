@@ -4,7 +4,7 @@
 	<SpawnObject>MK4PowerBoosterCharger</SpawnObject>
 	<Value>MK4PowerBoosterCharger</Value>
 			
-	<PowerUsePerSecond>1000</PowerUsePerSecond>  <!-- 500 power -->
+	<PowerUsePerSecond>800</PowerUsePerSecond>  <!-- 500 power -->
 	<PowerTransferPerSecond>1000</PowerTransferPerSecond>  <!-- optional -->
 	<MaxPowerStorage>3000</MaxPowerStorage>  <!-- optional -->
 	<LoadingAnimation>In</LoadingAnimation>					<!-- optional -->
