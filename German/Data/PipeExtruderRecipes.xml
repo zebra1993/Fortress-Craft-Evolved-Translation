@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper bars are extruded into Copper pipes usable for crafting.</Description>
+		<Description>Kupferrohre werden aus Kupferbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>tin pipe</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin bars are extruded into Tin pipes usable for crafting.</Description>
+		<Description>Zinnrohre werden aus Zinnbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>iron pipe</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron bars are extruded into Iron pipes usable for crafting.</Description>
+		<Description>Eisenrohre werden aus Eisenbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lithium pipe</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium bars are extruded into Lithium pipes usable for crafting.</Description>
+		<Description>Lithiumrohre werden aus Lithiumbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>gold pipe</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold bars are extruded into Gold pipes usable for crafting.</Description>
+		<Description>Goldrohre werden aus Goldbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>nickel pipe</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel bars are extruded into Nickel pipes usable for crafting.</Description>
+		<Description>Nickelrohre werden aus Nickelbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>titanium pipe</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium bars are extruded into Titanium pipes usable for crafting.</Description>
+		<Description>Titanrohre werden aus Titanbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 </ArrayOfCraftData>

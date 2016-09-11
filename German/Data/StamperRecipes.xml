@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper bars are stamped into Copper plates usable for crafting.</Description>
+		<Description>Kupferbarren werden zu Kupferplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>tin plate</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin bars are stamped into Tin plates usable for crafting.</Description>
+		<Description>Zinnbarren werden zu Zinnplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>iron plate</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron bars are stamped into Iron plates usable for crafting.</Description>
+		<Description>Eisenbarren werden zu Eisenplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lithium plate</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium bars are stamped into Lithium plates usable for crafting.</Description>
+		<Description>Lithiumbarren werden zu Lithiumplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>gold plate</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold bars are stamped into Gold plates usable for crafting.</Description>
+		<Description>Goldbarren werden zu Goldplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>nickel plate</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel bars are stamped into Nickel plates usable for crafting.</Description>
+		<Description>Nickelbarren werden zu Nickelplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>titanium plate</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium bars are stamped into Titanium plates usable for crafting.</Description>
+		<Description>Titanbarren werden zu Titanplatten gestanzt und können zum craften verwendet werden.</Description>
 	</CraftData>
 </ArrayOfCraftData>

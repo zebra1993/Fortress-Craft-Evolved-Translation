@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper bars are extruded into Copper wires usable for crafting.</Description>
+		<Description>Kupferkabel werden aus Kupferbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>tin wire</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin bars are extruded into Tin wires usable for crafting.</Description>
+		<Description>Zinnkabel werden aus Zinnbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>iron wire</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron bars are extruded into Iron wires usable for crafting.</Description>
+		<Description>Eisenkabel werden aus Eisenbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lithium wire</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium bars are extruded into Lithium wires usable for crafting.</Description>
+		<Description>Lithiumkabel werden aus Lithiumbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>gold wire</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold bars are extruded into Gold wires usable for crafting.</Description>
+		<Description>Goldkabel werden aus Goldbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>nickel wire</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel bars are extruded into Nickel wires usable for crafting.</Description>
+		<Description>Nickelkabel werden aus Nickelbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>titanium wire</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium bars are extruded into Titanium wires usable for crafting.</Description>
+		<Description>Titankabel werden aus Titanbarren extrudiert und können zum craften verwendet werden.</Description>
 	</CraftData>
 </ArrayOfCraftData>
