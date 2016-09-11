@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ClusterMissile</Key>
-		<CraftedName>Schwarmrakete</CraftedName>
+		<CraftedName>Cluster Missile</CraftedName>
 		<CraftedAmount>8</CraftedAmount>
 		<Costs>
 			<CraftCost>

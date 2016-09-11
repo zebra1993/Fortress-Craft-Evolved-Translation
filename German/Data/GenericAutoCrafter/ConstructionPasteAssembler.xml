@@ -12,7 +12,7 @@
 	<OptionalIngredients>true</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ConstructionPaste</Key>
-		<CraftedName>Konstruktionspaste</CraftedName>
+		<CraftedName>Construction Paste</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>

@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ChromedMachineBlock</Key>
-		<CraftedName>verchromter Maschinenblock</CraftedName>
+		<CraftedName>Chromed Machine Block</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>

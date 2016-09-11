@@ -13,7 +13,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>coal enrichment</Key>
-		<CraftedName>angereicherte Kohle</CraftedName>
+		<CraftedName>Enriched Coal</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>

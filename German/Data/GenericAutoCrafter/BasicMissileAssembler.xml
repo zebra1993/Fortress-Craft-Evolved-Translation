@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>basic missile</Key>
-		<CraftedName>Grundlegende Rackete</CraftedName>
+		<CraftedName>Basic Missile</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>

@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>ImbuedMachineBlock</Key>
-		<CraftedName>Durchtränkter Maschienenblock</CraftedName>
+		<CraftedName>Imbued Machine Block</CraftedName>
 		<CraftedAmount>3</CraftedAmount>
 			<Costs>
 			<CraftCost>
