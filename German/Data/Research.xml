@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfResearchDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ResearchDataEntry>
+		<Key>black box</Key>
+		<Name>Blackbox Daten</Name>
+		<IconName>Black Box Data</IconName>
+		<ResearchCost>1</ResearchCost>
+		<PreDescription>Deine Anzugsblackbox hat alle Daten gespeichert, welche deinen Absturz auf dieser Welt dokumentieren. Diese Daten zu analysieren könnte helfen heraus zu finden was genau geschehen ist.</PreDescription>
+		<PostDescription>Eine vollständige Analyse der Blckboxdaten wurde durchgeführt. Sie bestätigt das ein unbekanntest Objekt, vermutlich ein Asteriod in die Station eingeschlagen ist während des Andockvorgangs. Die daraus enstehende Explosion hat die Manövriertriebwerke deines Schiffs beschädigt, was zu einem Absturz auf diesen Planeten geführt hat. Keine weiteren Überlebenden scheinen ebenfalls entkommen zu sein.</PostDescription>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>Local Life Forms</Key>
+		<Name>Lokale Lebensformen</Name>
+		<IconName>Local Life Forms</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>Dieser Planet ist nicht Tot! Scanner finden Pflanzen- und Tierischelebensformen. Dieses Projekt wird untersuchen ob the Lebensformen eine Gefahr darstellen oder nicht.</PreDescription>
+		<PostDescription>Dieser Planet scheint eine Anzahl an Pflanzen- und Tiervariationen zu beherbergen. Nicht alle davon sind uns freundlich gesinnt. Scanner erkennen in der nähe einige fliegende Lebensformen welche ein Problem darstellen könnten. Konzepte für einen Gefahrendetektor sind jetzt verfügbar um ihren Vortschritt zu überwachen. Wir sollten zudem in betracht ziehen eine Basisverteidigung aufzustellen. Besorgnis erregender ist die Anzahl an grossen organischen Strukturen welche unterirdisch erkannt wurden. Diese könnten unsere Anstrengungen bremsen, eine stabile versorgung an Rescourcen bereitzustellen.</PostDescription>
+		<!--
+		<ProjectItemRequirements>
+			<Requirement>
+				<Name>Tree Trunk</Name>
+				<Amount>9</Amount>
+			</Requirement>
+			<Requirement>
+				<Name>Leaves</Name>
+				<Amount>10</Amount>
+			</Requirement>
+		</ProjectItemRequirements>-->
+	</ResearchDataEntry>
+		<ResearchDataEntry>
+		<Key>Anthropological Osteology</Key>
+		<Name>Anthropologische Osteologie</Name>
+		<IconName>Anthropological Osteology</IconName>
+		<ResearchCost>15</ResearchCost><!-- This is only for greg-level games, tbh -->
+		<PreDescription>Mit all diesen perfekt ernhaltenen Tierteilen können wir vielleicht etwas draus machen? Ja, es ist ein echtes Wort, schlag es nach!</PreDescription>
+		<PostDescription>Wir haben einige Anwendungen gefunden! Behängen wir die ganze Basis mit den Leichen!</PostDescription>
+		<ScanRequirements>
+			<Scan>Bedrock</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>Local Life Forms</Research>
+		</ResearchRequirements>
+		<!--
+		<ProjectItemRequirements>
+			<Requirement>
+				<Name>Tree Trunk</Name>
+				<Amount>9</Amount>
+			</Requirement>
+			<Requirement>
+				<Name>Leaves</Name>
+				<Amount>10</Amount>
+			</Requirement>
+		</ProjectItemRequirements>-->
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>ResinHandling</Key>
+		<Name>Resin Handling</Name>
+		<IconName>Geiger</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Wir müssen grosse Mengen an Harz analysieren um mit den Hivemind klar zukommen.</PreDescription>
+		<PostDescription>Wir sollten fähig sein mit dem gehärteten Harz, welches die Welt durchdringt, umzugehen. So wie es scheint haben die vibrationen der . It appears our mining operations' vibrations has awoken and is attracting these monsters.</PostDescription>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>SoftResin</Key>
+				<Amount>25</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Scan>SoftResin</Scan>
+			<Scan>HardenedResin</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>suit upgrades</Key>
+		<Name>Suit Upgrading</Name>
+		<IconName>SuitUpgrades</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>Your environmental suit is the most advanced piece of exploration engineering known to man. Unfortunately its utility depends upon a modular upgrade system currently beyond our manufacturing capabilities. It is time to look into how you can create your own upgrades away from the factories back home. You can use a bit of help surviving in this harsh environment.</PreDescription>
+		<PostDescription>With some minor adjustments, it should be possible to produce suit upgrades from basic machinery design, miniaturised to be wearable. The most obvious upgrades are a better solar cell and cold insulation to operate at higher efficiency on this hostile planet. You're going to need to use a Hydrojet Cutter upgrade on your Manufacturing Plant for this!</PostDescription>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>advanced research</Key>
+		<Name>Laboratories</Name>
+		<IconName>Laboratory Component</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>Our research progress is being limited by the constraints of the research station. We need to design a new laboratory to continue with more advanced projects!</PreDescription>
+		<PostDescription>We now have a design for a research laboratory and the assembly machines required to supply it with experimentation pods. View the relevant handbook entry for more information.</PostDescription>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>Base Defence</Key>
+		<Name>Base Defence</Name>
+		<IconName>ARTHER Turret</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>We're not alone. We shall have to bring FREEDOM to this planet!</PreDescription>
+		<PostDescription>We can now make machines to bring FREEDOM to the life on this planet!</PostDescription>
+		<ResearchRequirements>
+			<Research>Local Life Forms</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>SpiderBot</Key>
+		<Name>SpiderBot</Name>
+		<IconName>SpiderBot</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>Our modular Spider Combat Robot can be used for many tasks, but we're going to need a Docking and Upgrade station for it.</PreDescription>
+		<PostDescription>We can now make SpiderBot Weapon upgrades! To charge SpiderBot, we'll need to build him a base, then use the SpiderBot Power Core Chargers to power-up Lithium Coils, to feed to SpiderBot via attached Storage Hoppers.</PostDescription>
+		<ResearchRequirements>
+			<Research>Base Defence</Research>
+			<Research>T1 assist machines</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TurretMK1</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>SpiderBot Defences1</Key>
+		<Name>Basic SpiderBot Defences</Name>
+		<IconName>SpiderBot Defences 1</IconName>
+		<ResearchCost>10</ResearchCost>
+		<PreDescription>The only way to defend ourselves is going to be via mobile defences!</PreDescription>
+		<PostDescription>We can now make SpiderBot Weapon upgrades!</PostDescription>
+		<ResearchRequirements>
+			<Research>SpiderBot</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>SpiderBot Defences2</Key>
+		<Name>Intermediate SpiderBot Defences</Name>
+		<IconName>SpiderBot Defences 2</IconName>
+		<!-- Basic T2 -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>12</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<PreDescription>We're gonna need some much heavier firepower to take down the heavier mobs.</PreDescription>
+		<PostDescription>The Cannon weapon upgrade is now available!</PostDescription>
+		<ResearchRequirements>
+			<Research>SpiderBot Defences1</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>SpiderBot Defences3</Key>
+		<Name>Advanced SpiderBot Defences</Name>
+		<IconName>SpiderBot Defences 3</IconName>
+		<!-- 'Worth it' T2 -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>150</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<PreDescription>Even the cannons are of little use against the largest of the enemies. We'll need better firepower.</PreDescription>
+		<PostDescription>The Pulse Rifle upgrade is now available!</PostDescription>
+		<ResearchRequirements>
+			<Research>SpiderBot Defences2</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>Cold Research</Key>
+		<Name>Cold Research</Name>
+		<IconName>Blue GlowPod</IconName>
+		<PreDescription>The recently-discovered cavern appears to be filled with a methane gas. We're going to need to research special forms of heating in order to progress deeper.</PreDescription>
+		<PostDescription>We now have access to the suit heater technology. Crafting this will allow us to progress deeper into the planet.</PostDescription>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>
+		
+		<!-- Nothing higher than Lithium -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>10</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>5</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		
+		<ScanRequirements>
+			<Scan>ChilledCavernStone</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>Cyrogenics Research</Key><!-- Gonna have to keep this mispelled -->
+		<Name>Cryogenics Research</Name>
+		<IconName>Blue GlowPod</IconName>
+		<PreDescription>We'll need to make better use of these ruined animal parts - they're rotting too quickly to use.</PreDescription>
+		<PostDescription>We now have access to Cryogenic technology, which will let us store animal parts!</PostDescription>
+		<ResearchRequirements>
+			<Research>Cold Research</Research>
+		</ResearchRequirements>
+		
+		<!-- Nothing higher than Lithium -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>35</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		
+		<ScanRequirements>
+			<Scan>ChilledCavernStone</Scan>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+		
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>ore pings</Key>
+		<Name>Improved Ore Scanning</Name>
+		<IconName>Improved Ore Scanning</IconName>
+		<ResearchCost>1</ResearchCost>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>
+		<PreDescription>Using local materials, it should be possible to create single use items that improve your suit's built-in ore scanning capabilities</PreDescription>
+		<PostDescription>We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit's self crafting capability (C). See the handbook for more information.</PostDescription>
+	</ResearchDataEntry>	
+	<ResearchDataEntry>
+		<Key>mining upgrade 1</Key>
+		<Name>Basic Mining Upgrades I</Name>
+		<IconName>Magnetic Drill Motor</IconName>
+		<ResearchCost>5</ResearchCost>
+		<PreDescription>We need to improve the rate at which we can improve the rate at which we can collect and smelt ore. This project will focus on improving the performance of ore exractors and smelters.</PreDescription>
+		<PostDescription>We have successfully researched a number of upgrades to improve our resource collection capability including faster drill motors, ore smelter upgrades and a new basic ore smelter.</PostDescription>
+		
+		<!-- No longer requires the lab - the player simply can't get enough bars smelter to make this happen -->
+		<!--
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>10</Amount>
+			</Requirement>
+		</ProjectItemRequirements>-->
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>T1 Power</Key>
+		<Name>Power Grid</Name>
+		<IconName>Power Grid</IconName>
+		<PreDescription>We cannot survive on just the power produced by our Central Power Hub for long. As our base expands we'll need to find new ways to generate power and transfer it to distant mining operations so that we don't need to run about powering them manually.</PreDescription>
+		<PostDescription>We now have a new method of generating and transporting power. This project has also designed new upgrades for ARTHER and a new machine, the Matter Mover, capable of teleporting materials from one storage hopper to another.</PostDescription>
+		<ResearchCost>5</ResearchCost>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>T2 Power</Key>
+		<Name>Upgraded Power Grid</Name>
+		<IconName>Upgraded Power Grid</IconName>
+		<PreDescription>Our power infrastructure is coming along nicely. Our battery technology is quite limited though, this project will attempt to design a better battery which can store more power providing us a bigger buffer.</PreDescription>
+		<PostDescription>We have developed a new battery capable of carrying a much bigger charge. We also have designs for a more powerful Laser Energy Transmitter, however this requires materials with more advanced properties than those found near the surface.</PostDescription>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>
+		<ResearchCost>12</ResearchCost>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>T3 Power</Key>
+		<Name>Advanced Power Grid</Name>
+		<IconName>Advanced Power Grid</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>The advanced materials we have recently discovered should allow us to make further improvements to our power infrastructure.</PreDescription>
+		<PostDescription>We have made further improvements to our power infrastructure including a new Power Storage Block and Laser Energy Transmitter. We also have some provisional designs for a new type of Power Generator, however to complete this research we will also need to find a denser source of energy than the coal we have been relying on so far.</PostDescription>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+			<Scan>NickelOre</Scan>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>				
+		<ResearchRequirements>
+			<Research>T2 Power</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>T4 Power</Key>
+		<Name>Ultra-Power Grid</Name>
+		<IconName>Ultra-Power Grid</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>We have reached the limits of power we can store in a single 1m cube. This project will investigate the feasibility of bigger power storage devices.</PreDescription>
+		<PostDescription>We have finished designs for a massive battery capable of storing a vast amount of power.</PostDescription>
+		<ResearchRequirements>
+			<Research>T3 Power</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>75</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>75</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>T5 Power</Key>
+		<Name>Ultimate Power Grid</Name>
+		<IconName>Ultimate Power Grid</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Following on from our success with the MK4 power storage system we should be able to design the ultimate power storage device!</PreDescription>
+		<PostDescription>Success! The biggest power storage device we could ever need is now within our manufacturing capabilities. I can see no reason at all why I will ever regret saying that.</PostDescription>
+		<ResearchRequirements>
+			<Research>T4 Power</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T4_GTPower</Key>
+		<Name>Geothermal Power</Name>
+		<IconName>Ultimate Power Grid</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Running the larger Drilling machines requires us to also move to a new type of power generation.</PreDescription>
+		<PostDescription>Success! The biggest power generation device we could ever need is now within our manufacturing capabilities. There is no reason I can think of that I would ever regret making such a statement!</PostDescription>
+		<ResearchRequirements>
+			<Research>T5 Power</Research>
+			<Research>advanced research</Research>
+			<Research>T4 ore extracting</Research>
+		</ResearchRequirements>
+
+		<ScanRequirements>
+			<Scan>MolybdenumOre</Scan>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>100</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>mining upgrade 2</Key>
+		<Name>Basic Miner Upgrades II</Name>
+		<IconName>Enhanced Drill Motor</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Following on from our previous research on mining upgrades we should be able to further improve our drill motor and forced induction upgrades.</PreDescription>
+		<PostDescription>Further improvements for our ore extractors and smelters are now available.</PostDescription>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>10</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>mining upgrade 3</Key>
+		<Name>Intermediate Miner Upgrades I</Name>
+		<IconName>Ore Smelter</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>It is time to begin research on how to replicate the advanced capabilities of the Ore Smelter supplied with our Central Power Hub. The basic smelters we have been able to construct are too slow and are wasting precious resources.</PreDescription>
+		<PostDescription>We have successfully designed a new Ore Smelter. This will require some advanced materials not found near the surface.</PostDescription>
+		<ResearchRequirements>
+			<Research>mining upgrade 2</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+			<Amount>5</Amount>
+			</Requirement>
+
+		</ProjectItemRequirements>
+		
+	</ResearchDataEntry>
+		<ResearchDataEntry>
+		<Key>mining upgrade 4</Key>
+		<Name>Intermediate Miner Upgrades II</Name>
+		<IconName>Enhanced Drill Motor</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>It should be possible to further enhance the capabilities of the ore extractor. This project will also investigate alternative methods of collecting ore.</PreDescription>
+		<PostDescription>Further upgrades to the ore extractor are now available. We have also researched a new Geological Surveyor which can be used to identify locations rich in ore deposits. We should identify some prime locations while we continue research on a new Quarry system.</PostDescription>
+		<ResearchRequirements>
+			<Research>mining upgrade 3</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>35</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+			<Amount>5</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>mining upgrade 5</Key>
+		<Name>Advanced Miner Upgrades</Name>
+		<IconName>Magnetic Drill Motor</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This project will investigate further improvements to the ore extractor and smelter. In addition research will continue work on the new Quarry system.</PreDescription>
+		<PostDescription>Further improvements to the ore extractor and smelter are now available. In addition we have finally perfected the Quarry system. Use the Geological Surveyor to identify a prime location then place the quarry to begin mining operations.</PostDescription>
+		<ResearchRequirements>
+			<Research>mining upgrade 4</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>AdvancedExperimentalPod</Key>
+				<Amount>50</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>35</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+			<Amount>5</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+		
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>T1 assist machines</Key>
+		<Name>Automation</Name>
+		<IconName>Base Building Automation</IconName>
+		<ResearchCost>5</ResearchCost>
+		<PreDescription>Building a huge mining operation is a job for machines, not man. This wide-ranging project will design machines for automated excavation and construction in addition to improving the options available for traversing your base. This research should be a high priority for the essential automation of our base; doing this all by hand is simply never going to work!</PreDescription>
+		<PostDescription>We now have a wide variety of new machines available for automating our base.</PostDescription>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+	</ResearchDataEntry>
+	
+		
+	<ResearchDataEntry>
+		<Key>T2 assist machines</Key>
+		<Name>Basic Logistics</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Optimising your mining operation requires a scalpel, not a hammer. (Hammers available as a seperate upgrade, of course). This research project will focus on improvements in storage, sorting and additional base construction tools</PreDescription>
+		<PostDescription>Now available : MK1 Robot Arm, Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+			<Research>advanced research</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T3 assist machines</Key>
+		<Name>Advanced Logistics</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>More storage is likely to prove useful in our quest to conquer this planet.</PreDescription>
+		<PostDescription>Now available : Entry-level Mass Storage.</PostDescription>
+		<ResearchRequirements>
+			<Research>T2 assist machines</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T4 assist machines</Key>
+		<Name>Advanced Storage</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This research will allow us to insert and remove many more items into Mass Storage setups.</PreDescription>
+		<PostDescription>Now available : Larger Mass-Storage inserters.</PostDescription>
+		<ResearchRequirements>
+			<Research>T3 assist machines</Research>
+			<Research>ResinHandling</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>RefinedLiquidResin</Key>
+				<Amount>5</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T5 assist machines</Key>
+		<Name>Bulk Storage</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This research will allow us to insert and remove even more items into Mass Storage setups.</PreDescription>
+		<PostDescription>Now available : Bulk Mass-Storage inserters and Mass Storage Power controllers.</PostDescription>
+		<ResearchRequirements>
+			<Research>T4 assist machines</Research>
+			<Research>ResinHandling</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement><!-- Git to farmin', boy -->
+				<Key>RefinedLiquidResin</Key>
+				<Amount>150</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T6 assist machines</Key>
+		<Name>Rapid Logistics</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This ultimate tier of Mass Storage will let us utilise large amounts of power to transfer thousands of items to and from our mass storage systems.</PreDescription>
+		<PostDescription>Now available : Mass Storage IO ports. IO Ports can be used exactly like Storage Hoppers and interact with Mass Storage Crates.</PostDescription>
+		<ResearchRequirements>
+			<Research>T5 assist machines</Research>
+			<Research>T4_GTPower</Research>
+			<Research>T4_Particles</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>CompressedFreon</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>CompressedSulphur</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>CompressedChlorine</Key>
+				<Amount>25</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>CargoLift2</Key>
+		<Name>Improved Cargo Lifts</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Whilst Cargo Lifts are exceptionally useful for bulk movement of items from deep underground, we need to make them better. Researching this should give us access to Improved Cargo Lifts!</PreDescription>
+		<PostDescription>Improved Cargo Lifts now available!</PostDescription>
+		<ResearchRequirements>
+			<Research>T2 assist machines</Research>
+			<Research>minecarts1</Research>
+		</ResearchRequirements>
+			<ScanRequirements>
+			<Scan>BiomassGrowth</Scan><!-- This is unlocked at the point where the player wants to get stuff up from the biomass layers -->
+		</ScanRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>CargoLift3</Key>
+		<Name>Bulk Cargo Lifts</Name>
+		<IconName>mk1 robot arm</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>We now need access to much bigger and faster Cargo Lifts.</PreDescription>
+		<PostDescription>Bulk Cargo Lifts now available!</PostDescription>
+		<ResearchRequirements>
+			<Research>CargoLift2</Research>
+			<Research>T4 ore extracting</Research>
+		</ResearchRequirements>
+		<!-- This will require T4 pods, once they exist -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>256</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>256</Amount>
+			</Requirement>
+			
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>alloys</Key>
+		<Name>Metal Alloys</Name>
+		<IconName>Titanium Bar</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Using local metals it should be possible to create higher grade steel for improved equipment quality.</PreDescription>
+		<PostDescription>By combining Iron and Nickel, we can create a low-grade steel. Perhaps with future ores we can create even better alloys.</PostDescription>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>10</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>minecarts1</Key>
+		<Name>Rolling Stock</Name>
+		<IconName>Minecart</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Now we have access to better materials, we can create automation capable of moving large amounts of resources.</PreDescription>
+		<PostDescription>We can now research the basic components to an automated, rail-based mass-transit system!</PostDescription>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>minecarts2</Key>
+		<Name>Improved Minecarts</Name>
+		<IconName>Improved Minecarts</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>As our base expands, we need specific vehicles for specific tasks. This will allow faster or bigger Minecarts to be made!</PreDescription>
+		<PostDescription>You can now make Fast Minecarts and Large Minecarts!</PostDescription>
+		<ResearchRequirements>
+			<Research>minecarts1</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>minecarts3</Key>
+		<Name>Improved Minecart Logistics</Name>
+		<IconName>Track Corner</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>The current Minecarts are difficult to control in larger Logstics operations. Researching this will give us access to decision-making track pieces.</PreDescription>
+		<PostDescription>You can now make Buffers, Full Gates and Empty Gates!</PostDescription>
+		<ResearchRequirements>
+			<Research>minecarts1</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>128</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	
+
+	
+	<ResearchDataEntry>
+		<Key>crystal</Key>
+		<Name>Crystal Dynamics</Name>
+		<IconName>Crystal Dynamics</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>The crystals you found underground seem to have strange properties. Studying them may open new possibilities.</PreDescription>
+		<PostDescription>These crystals seem to be made of a crystalline form of quartz with extremely high electrical conductance.</PostDescription>
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>alloys</Research><!-- This is because we couldn't mine them. However! Now we have other drill heads available - perhaps this should be changed?-->
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>45</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>55</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>5</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>advancedcrystal</Key>
+		<Name>Advanced Crystal Dynamics</Name>
+		<IconName>Advanced Crystal Dynamics</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>There are more options available for the Crystalline Ores we have been using.</PreDescription>
+		<PostDescription>With the appropriate addition of energy, we should be able to create very high frequency clock crystals.</PostDescription>
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+			<Research>crystal</Research>
+		</ResearchRequirements>
+		<!-- Ideal for a second lab -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>CrystalDeposit</Key>
+				<Amount>200</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>biomass</Key>
+		<Name>Hydrocarbon Recombination</Name>
+		<IconName>Hydrocarbon Recombination</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Organic life appears to be quite abundant in the deep hostile caverns. Perhaps you can make use of them.</PreDescription>
+		<PostDescription>By integrating the local crystals into refinery schematics from the ship database you can break down and recombine the hydrocarbons found in primitive growths from the deep caverns. This should allow production of new materials for more complex machinery.</PostDescription>
+		<ScanRequirements>
+			<Scan>BiomassGrowth</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>crystal</Research>
+		</ResearchRequirements>
+		<!-- Cranked this up cuz to be quite frank this is an important step -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>25</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>35</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ComplexExperimentalPod</Key>
+				<Amount>45</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>75</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>15</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>orbitalpower</Key>
+		<Name>Orbital Power Transmission</Name>
+		<IconName>Orbital Power Transmission</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow us to transmit power into orbit. Perhaps we can beam the power back down afterwards. That's the only way to be sure.</PreDescription>
+		<PostDescription>The Orbital Power Transmitter should allow us to bounce stored energy off of a satellite, and remove the Overminds controlling these surface attacks.</PostDescription>
+		<ScanRequirements>
+			<Scan>BiomassGrowth</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>crystal</Research>
+			<Research>biomass</Research>
+		</ResearchRequirements>
+		
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicExperimentalPod</Key>
+				<Amount>125</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>IntermediateExperimentalPod</Key>
+				<Amount>125</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>SimplifiedExperimentalPod</Key>
+				<Amount>125</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>Advanced Defence</Key>
+		<Name>Advanced Defence</Name>
+		<IconName>Missile Turret MK1</IconName>
+		<PreDescription>We need to build more powerful base defenses to take down the bigger threats.</PreDescription>
+		<PostDescription>We have successfully designed a missile turret and made further improvements to the energy turret. We will need to manufacture missiles and this will require a supply of fuel.</PostDescription>
+		<ResearchRequirements>
+			<Research>Base Defence</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>75</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>AdvancedExperimentalPod</Key>
+				<Amount>75</Amount>
+			</Requirement>
+		</ProjectItemRequirements>		
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>missiledefence</Key>
+		<Name>Missile Defence</Name>
+		<IconName>MissileDefence</IconName>
+		<PreDescription>These Basic Missiles aren't cutting it. We're going to need to improve them.</PreDescription>
+		<PostDescription>Now we can craft Armour Piercing Warheads, and if we have the power, further Imbue them with Plasma Energy.</PostDescription>
+		<ResearchRequirements>
+			<Research>Advanced Defence</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>125</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>AdvancedExperimentalPod</Key>
+				<Amount>125</Amount>
+			</Requirement>
+		</ProjectItemRequirements>		
+	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>aesthetics</Key>
+		<Name>Aesthetics</Name>
+		<IconName>Hello_Kitty1</IconName>
+		<ResearchCost>5</ResearchCost>
+		<PreDescription>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</PreDescription>
+		<PostDescription>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</PostDescription>
+	</ResearchDataEntry>
+
+	<!-- Easy-peasy research, just to push everything that needs Chromium/Moly into a seperate research -->
+	<!-- HRGs should only use T4_start, and all trenchers use this -->
+	<ResearchDataEntry>
+		<Key>T4 ore extracting</Key><!-- Oops. Spaced -->
+		<Name>Large Scale Vein Extraction</Name>
+		<IconName>Large Scale Vein Extraction</IconName>
+		<PreDescription>The ore extractors we have been using so far do not appear to be up to the task of mining the new ores we've found down below. We'll have to develop new ways of extraction. A small sample of the new ores from the Hard Rock Grinder and using up the last of the old Research Pods should see us clear!</PreDescription>
+		<PostDescription>The ore extractor we've developed is much bigger than old ones, allowing it to apply much more force on the ore material. It also appears to be much more efficient at gathering the softer ores. </PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4_start</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>AdvancedExperimentalPod</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>UltimateExperimentalPod</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>MolybdenumOre</Key> <!-- something really tough -->
+				<Amount>1</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ChromiumOre</Key> <!-- something really tough -->
+				<Amount>1</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>MolybdenumOre</Scan>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<!-- This DOES use T4 Ore -->
+	<ResearchDataEntry>
+		<Key>T4_drills_2</Key><!-- Oops. Spaced -->
+		<Name>Efficient Vein Extraction</Name>
+		<IconName>Efficient Vein Extraction</IconName>
+		<PreDescription>A more efficient Drill Head will allow us to use more of the ore we collect.</PreDescription>
+		<PostDescription></PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4 ore extracting</Research>
+			<Research>T4_Particles</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ChromiumBar</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>MolybdenumBar</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>CompressedFreon</Key>
+				<Amount>512</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>CompressedFreon</Scan>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+		<!-- This DOES use T4 Ore -->
+	<ResearchDataEntry>
+		<Key>T4_drills_3</Key><!-- Oops. Spaced -->
+		<Name>Perfect Vein Extraction</Name>
+		<IconName>Perfect Vein Extraction</IconName>
+		<PreDescription>This third tier of Drill Head will allow us to extract 100% of known ores with no wastage.</PreDescription>
+		<PostDescription></PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4_MagmaBore</Research>
+			<Research>T4_drills_2</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ChromiumBar</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>MolybdenumBar</Key>
+				<Amount>512</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>CompressedFreon</Key>
+				<Amount>512</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<!-- T4 Ore -->
+	<ResearchDataEntry>
+		<Key>T4_start</Key>
+		<Name>Frozen Factory Expansion</Name>
+		<IconName>Frozen Factory Expansion</IconName>
+		<PreDescription>With the Nova growing ever-larger, we need to see about relocating ourselves to somewhere less inhospitable. The methane-filled 'Cold Caverns' should provide us with cover, if we are able to terraform them. Researching this will give us the information we need! NOTE : ALL MACHINES UNLOCKED BY THIS RESEARCH WILL REQUIRE THE FROZEN FACTORY EXPANSION PACK TO BE INSTALLED!</PreDescription>
+		<PostDescription>We can now build a Cold Cavern Climate Control Centre! (Also known as the CCCCC or the C5!)</PostDescription>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research><!-- misspelled!-->
+			<Research>mining upgrade 5</Research>
+		</ResearchRequirements>
+		<!-- Nothing higher than Lithium -->
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>OverclockedCrystalClock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Scan>ChromiumOre</Scan>
+			<Scan>MolybdenumOre</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+
+	<!-- This WILL use T4 Ore -->
+	<ResearchDataEntry>
+		<Key>T4defence1</Key>
+		<Name>Basic CryoPlasm Defence</Name>
+		<IconName>Basic CryoPlasm Defence</IconName>
+		<PreDescription>Our attempt to warm up the Cold Caverns and make them a hospitable place to live has backfired! We appear to have activated an unknown number of previously deep-frozen organic spores. These are now growing and consuming everything in their path. They're a non-newtonian liquid, so bombs are exceptionally ineffective against them! We need to research new forms of defence immediately!</PreDescription>
+		<PostDescription>We can now craft the CryoPlasm Lancer. This should allow us to hold off small amounts of CryoPlasm at short range. It's likely we'll need to go bigger soon though!</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4_start</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>XLExperimentalPod</Key>
+				<Amount>64</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>AdvancedExperimentalPod</Key>
+				<Amount>64</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T4defence2</Key>
+		<Name>Long Range CryoPlasm Defence</Name>
+		<IconName>Long Range CryoPlasm Defence</IconName>
+		<PreDescription>Our Lancers are going to get overwhelmed, and we need to defend the base from further afield. Researching this will allow us access to much larger and more destructive weaponry.</PreDescription>
+		<PostDescription>Please deploy your Dazzler Turrets appropriately and safely.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence1</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>CompressedSulphur</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+
+	<ResearchDataEntry>
+		<Key>T4defence3</Key>
+		<Name>Static CryoPlasm Defence</Name>
+		<IconName>Static CryoPlasm Defence</IconName>
+		<PreDescription>If the CryoPlasm touches our machines, they simply stop working. We need to ensure that our base is defended against surges of CryoPlasm. Researching this will give us access to static defences.</PreDescription>
+		<PostDescription>CryoMines will not detonate if you stand on them, but it is recommended you avoid the corrosive cloud.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence1</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>CompressedChlorine</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T4defence4</Key>
+		<Name>Mobile CryoPlasm Defence</Name>
+		<IconName>Mobile CryoPlasm Defence</IconName>
+		<PreDescription>We need both close and long-range defences if we are going to survive. Researching this will allow us to retrofit FALCOR drones with electrically-charged explosive devices.</PreDescription>
+		<PostDescription>For the Cold Caverns! FOR FREEDOM!</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence1</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<!--Now needs T4 materials -->
+	<ResearchDataEntry>
+		<Key>T4_Particles</Key>
+		<Name>Particulate Filtration</Name>
+		<IconName>Particulate Filtration</IconName>
+		<PreDescription>The continued use of the unusual biomes underground have indicated that the atmosphere contains useful amounts of trace particles, which can extract.</PreDescription>
+		<PostDescription>We can now craft the Particulate Filter. This will allow us to capture particles out of the air over time.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4_start</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ChromiumBar</Key>
+				<Amount>32</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>MolybdenumBar</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>T4_MagmaBore</Key>
+		<Name>MagmaBore</Name>
+		<IconName>T4_MagmaBore</IconName>
+		<PreDescription>We can't continue to fight against the CryoPlasm forever; the Magma Caves we located deep below could be used as a source of heat to permenantly render the caverns ours.</PreDescription>
+		<PostDescription>That's...  that's a big drill.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence4</Research>
+			<Research>T4defence3</Research>
+			<Research>T4defence2</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>HiemalMachineBlock</Key><!--This is still lame-->
+				<Amount>256</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Scan>FluidMagma</Scan>
+		</ScanRequirements>
+
+	</ResearchDataEntry>
+
+
+	<ResearchDataEntry>
+		<Key>T4_8LightsInTheDark</Key><!--May need to rename key before launch. My history education was lacking. Apologies!-->
+		<Name>8 lights in the dark</Name>
+		<IconName>8 lights in the dark</IconName>
+		<PreDescription>We feel that these final sets of machines will be suitable for defeating the CryoPlasm.</PreDescription>
+		<PostDescription>We now have access to the CryoPlasm Inferno. This should let us burn the spawners to a crisp. We've also perfected over-charging certain machines using the Freezon Injector; combine those with the CyroPlasm Lancers and we should see a substantial boost in performance.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4_MagmaBore</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>HiemalMachineBlock</Key><!--This is still lame-->
+				<Amount>256</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Scan>FluidMagma</Scan>
+		</ScanRequirements>
+
+	</ResearchDataEntry>
+	
+
+</ArrayOfResearchDataEntry>

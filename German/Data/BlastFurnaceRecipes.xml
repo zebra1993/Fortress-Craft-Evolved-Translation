@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>copper bar</Key>
+		<CraftedKey>CopperBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper bars are refined Copper usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>		
+	</CraftData>
+	<CraftData>
+		<Key>tin bar</Key>
+		<CraftedKey>TinBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin bars are refined Tin usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>iron bar</Key>
+		<CraftedKey>IronBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron bars are refined Iron usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>lithium bar</Key>
+		<CraftedKey>LithiumBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium bars are refined Lithium usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>gold bar</Key>
+		<CraftedKey>GoldBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold bars are refined Gold usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>nickel bar</Key>
+		<CraftedKey>NickelBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel bars are refined Nickel usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>titanium bar</Key>
+		<CraftedKey>TitaniumBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumOre</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium bars are refined Titanium usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+		<CraftData>
+		<Key>chromiumbar</Key>
+		<CraftedKey>ChromiumBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ChromiumOre</Key>
+				<Amount>128</Amount><!-- 16 ore per bar on normal, 100 on greg (I think!)-->
+			</CraftCost>
+		</Costs>
+		<Description>Chromium bars are refined Chromium usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>molybdenumbar</Key>
+		<CraftedKey>MolybdenumBar</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MolybdenumOre</Key>
+				<Amount>128</Amount><!-- Greg 200, Normal 64, Easy 32, Casual 16 -->
+			</CraftCost>
+		</Costs>
+		<Description>Molybdenum bars are refined Molybdenum usable for crafting.</Description>
+		<ScanRequirements>
+			<Scan>MolybdenumOre</Scan>
+		</ScanRequirements>
+	</CraftData>
+</ArrayOfCraftData>

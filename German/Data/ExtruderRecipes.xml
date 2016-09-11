@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>copper wire</Key>
+		<CraftedKey>CopperWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper bars are extruded into Copper wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>tin wire</Key>
+		<CraftedKey>TinWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin bars are extruded into Tin wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>iron wire</Key>
+		<CraftedKey>IronWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron bars are extruded into Iron wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>lithium wire</Key>
+		<CraftedKey>LithiumWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium bars are extruded into Lithium wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>gold wire</Key>
+		<CraftedKey>GoldWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold bars are extruded into Gold wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>nickel wire</Key>
+		<CraftedKey>NickelWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel bars are extruded into Nickel wires usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>titanium wire</Key>
+		<CraftedKey>TitaniumWire</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium bars are extruded into Titanium wires usable for crafting.</Description>
+	</CraftData>
+</ArrayOfCraftData>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>basic pcb</Key>
+		<CraftedKey>BasicPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Copper coils are converted into Basic PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>primary pcb</Key>
+		<CraftedKey>PrimaryPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Tin coils are converted into Primary PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>hardened pcb</Key>
+		<CraftedKey>HardenedPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Iron coils are converted into Hardened PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>charged pcb</Key>
+		<CraftedKey>ChargedPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Lithium coils are converted into Charged PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>conductive pcb</Key>
+		<CraftedKey>ConductivePCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GoldCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Gold coils are converted into Conductive PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>fortified pcb</Key>
+		<CraftedKey>FortifiedPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>NickelCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Nickel coils are converted into Fortified PCBs usable for crafting.</Description>
+	</CraftData>
+	<CraftData>
+		<Key>lightweight pcb</Key>
+		<CraftedKey>LightweightPCB</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TitaniumCoil</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Titanium coils are converted into Lightweight PCBs usable for crafting.</Description>
+	</CraftData>
+</ArrayOfCraftData>

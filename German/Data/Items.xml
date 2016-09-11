@@ -1,0 +1,2866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItemEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<ItemEntry>
+		<ItemID>5</ItemID>
+		<Key>IronBar</Key>
+		<Name>Iron Bar</Name>
+		<Plural>Iron Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarIron</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Iron Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+
+
+	<ItemEntry>
+		<ItemID>6</ItemID>
+		<Key>PowerBoosterMK1</Key>
+		<Name>MK1 Power Booster</Name>
+		<Plural>MK1 Power Boosters</Plural>
+		<Type>ItemSingle</Type>	<!-- DOES NOT STACK. YOU DO NOT GET TO CARRY HUNDREDS OF THESE AROUND-->
+		<Object>MK1PowerBooster</Object>
+		<Sprite>MK1 Power Booster</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ItemAction>GainPower</ItemAction>
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>7</ItemID>
+		<Key>PowerBoosterMK2</Key>
+		<Name>MK2 Power Booster</Name>
+		<Plural>MK2 Power Boosters</Plural>
+		<Type>ItemSingle</Type>	<!-- DOES NOT STACK. YOU DO NOT GET TO CARRY HUNDREDS OF THESE AROUND-->
+		<Object>MK2PowerBooster</Object>
+		<Sprite>MK2 Power Booster</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ItemAction>GainPower</ItemAction>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>8</ItemID>
+		<Key>PowerBoosterMK3</Key>
+		<Name>MK3 Power Booster</Name>
+		<Plural>MK3 Power Boosters</Plural>
+		<Type>ItemSingle</Type>	<!-- DOES NOT STACK. YOU DO NOT GET TO CARRY HUNDREDS OF THESE AROUND-->
+		<Object>MK3PowerBooster</Object>
+		<Sprite>MK3 Power Booster</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ItemAction>GainPower</ItemAction>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>9</ItemID>
+		<Key>PowerBoosterMK4</Key>
+		<Name>MK4 Power Booster</Name>
+		<Plural>MK4 Power Boosters</Plural>
+		<Type>ItemSingle</Type>	<!-- DOES NOT STACK. YOU DO NOT GET TO CARRY HUNDREDS OF THESE AROUND-->
+		<Object>MK4PowerBooster</Object>
+		<Sprite>MK4 Power Booster</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ItemAction>GainPower</ItemAction>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>10</ItemID>
+		<Key>PowerBoosterMK5</Key>
+		<Name>MK5 Power Booster</Name>
+		<Plural>MK5 Power Boosters</Plural>
+		<Type>ItemSingle</Type>	<!-- DOES NOT STACK. YOU DO NOT GET TO CARRY HUNDREDS OF THESE AROUND-->
+		<Object>MK5PowerBooster</Object>
+		<Sprite>MK5 Power Booster</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ItemAction>GainPower</ItemAction>
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>15</ItemID>
+		<Key>CopperBar</Key>
+		<Name>Copper Bar</Name>
+		<Plural>Copper Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarCopper</Object>
+		<Sprite>Copper Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>25</ItemID>
+		<Key>LithiumBar</Key>
+		<Name>Lithium Bar</Name>
+		<Plural>Lithium Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarLithium</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Lithium Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>26</ItemID>
+		<Key>ChromiumBar</Key>
+		<Name>Chromium Bar</Name>
+		<Plural>Chromium Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarChromium</Object>
+		<Sprite>Chromium Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>27</ItemID>
+		<Key>MolybdenumBar</Key>
+		<Name>Molybdenum Bar</Name>
+		<Plural>Molybdenum Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarMolybdenum</Object>
+		<Sprite>Molybdenum Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>MolybdenumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>31</ItemID>
+		<Key>PlasticPellet</Key>
+		<Name>Plastic Pellet</Name>
+		<Plural>Plastic Pellets</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Plastic Pellet</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>biomass</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>32</ItemID>
+		<Key>HighEnergyCompositeFuel</Key>
+		<Name>High Energy Composite Fuel</Name>
+		<Plural>High Energy Composite Fuel</Plural>
+		<Type>ItemStack</Type>	
+		<Object>JetFuelCanister</Object>
+		<Sprite>High Energy Composite Fuel</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>biomass</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>33</ItemID>
+		<Key>EmptyMetalTube</Key>
+		<Name>Empty Metal Tube</Name>
+		<Plural>Empty Metal Tubes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>EmptyMetalTube</Object>
+		<Sprite>Empty Metal Tube</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>34</ItemID>
+		<Key>EmptyFuelCanister</Key>
+		<Name>Empty Fuel Canister</Name>
+		<Plural>Empty Fuel Canisters</Plural>
+		<Type>ItemStack</Type>	
+		<Object>EmptyCanister</Object>
+		<Sprite>EmptyCanister</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 2</Research>
+		</ResearchRequirements>	
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>45</ItemID>
+		<Key>GoldBar</Key>
+		<Name>Gold Bar</Name>
+		<Plural>Gold Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarGold</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Gold Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>65</ItemID>
+		<Key>TinBar</Key>
+		<Name>Tin Bar</Name>
+		<Plural>Tin Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarTin</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Tin Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>75</ItemID>
+		<Key>NickelBar</Key>
+		<Name>Nickel Bar</Name>
+		<Plural>Nickel Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarNickel</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Nickel Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>85</ItemID>
+		<Key>TitaniumBar</Key>
+		<Name>Titanium Bar</Name>
+		<Plural>Titanium Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarTitanium</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Titanium Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>86</ItemID>
+		<Key>LowGradeSteelBar</Key>
+		<Name>Low Grade Steel Bar</Name>
+		<Plural>Low Grade Steel Bars</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BarSteel</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Steel Bar</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>88</ItemID>
+		<Key>SteelBallBearing</Key>
+		<Name>Steel Ball Bearing</Name>
+		<Plural>Steel Ball Bearings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Steel Ball Bearing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		 <!-- ItemSingle example -->
+		<ItemID>100</ItemID>
+		<Key>PowerCoil</Key>
+		<Name>Power Coil</Name>
+		<Type>ItemSingle</Type>	
+		<Hidden>true</Hidden>
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>PowerCoil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>101</ItemID>
+		<Key>IronGear</Key>
+		<Name>Iron Gear</Name>
+		<Plural>Iron Gears</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>IronGear</Object><!--  we display this when it's dropped -->
+		<Sprite>Iron Gear</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>102</ItemID>
+		<Key>OldCopperWire</Key><!-- this will prevent this from being used in recipes shortly. Need a solution for this -->
+		<Name>Copper Wire (Old)</Name><!-- outdated -->
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireCopper</Object><!-- we display this when it's dropped -->
+		<Sprite>Copper Wiring</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>	
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>103</ItemID>
+		<Key>ServoMotor</Key>
+		<Name>Servo Motor</Name>
+		<Plural>Servo Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>ServoMotor</Object><!--  we display this when it's dropped -->
+		<Sprite>Servo Motor</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>105</ItemID>
+		<Key>LightweightMachinePlates</Key>
+		<Name>Lightweight Machine Plates</Name>
+		<Plural>Lightweight Machine Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>MachinePlate</Object><!-- we display this when it's dropped -->
+		<Sprite>Lightweight Machine Plates</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>106</ItemID>
+		<Key>LightweightMachineHousing</Key>
+		<Name>Lightweight Machine Housing</Name>
+		<Plural>Lightweight Machine Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>MachineFrame</Object><!-- we display this when it's dropped -->
+		<Sprite>Lightweight Machine Housing</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>107</ItemID>
+		<Key>BasicMinecart</Key>
+		<Name>Basic Minecart</Name>
+		<Plural>Basic Minecarts</Plural>
+		<Type>ItemSingle</Type>	
+		<Hidden>false</Hidden>
+		<Object>Minecart_T1_Object</Object><!-- This may need to be a specific one -->
+		<Sprite>Minecart</Sprite>
+		<Category>Minecarts</Category><!-- What -->
+		<ResearchRequirements>
+			<Research>minecarts1</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>108</ItemID>
+		<Key>FastMinecart</Key>
+		<Name>Fast Minecart</Name>
+		<Plural>Fast Minecarts</Plural>
+		<Type>ItemSingle</Type>	
+		<Hidden>false</Hidden>
+		<Object>Minecart_T2_Object</Object><!-- This may need to be a specific one -->
+		<Sprite>Minecart_T2</Sprite>
+		<Category>Minecarts</Category><!-- What -->
+		<ResearchRequirements>
+			<Research>minecarts2</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>109</ItemID>
+		<Key>LargeMinecart</Key>
+		<Name>Large Minecart</Name>
+		<Plural>Large Minecarts</Plural>
+		<Type>ItemSingle</Type>	
+		<Hidden>false</Hidden>
+		<Object>Minecart_T3_Object</Object><!-- This may need to be a specific one -->
+		<Sprite>Minecart_T3</Sprite>
+		<Category>Minecarts</Category><!-- What -->
+		<ResearchRequirements>
+			<Research>minecarts2</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>110</ItemID>
+		<Key>BulkMinecart</Key>
+		<Name>Bulk Minecart</Name>
+		<Plural>Bulk Minecarts</Plural>
+		<Type>ItemSingle</Type>	
+		<Hidden>false</Hidden>
+		<Object>Minecart_T4_Object</Object><!-- This may need to be a specific one -->
+		<Sprite>Bulk Minecart</Sprite>
+		<Category>Minecarts</Category><!-- What -->
+		<ResearchRequirements>
+			<Research>minecarts2</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>111</ItemID>
+		<Key>TourCart</Key>
+		<Name>Tour Cart</Name>
+		<Plural>Tour Carts</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>Minecart_T10_Object</Object><!-- This may need to be a specific one -->
+		<Sprite>Minecart_T10</Sprite>
+		<Category>Minecarts</Category><!-- What -->
+		<ResearchRequirements>
+			<Research>minecarts2</Research>
+			<Research>t4_start</Research><!-- FF only ?-->
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>150</ItemID>
+		<Key>CopperWire</Key>
+		<Name>Copper Wire</Name>
+		<Plural>Copper Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireCopper</Object>
+		<Sprite>Copper Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>	
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>151</ItemID>
+		<Key>TinWire</Key>
+		<Name>Tin Wire</Name>
+		<Plural>Tin Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireTin</Object>
+		<Sprite>Tin Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>152</ItemID>
+		<Key>IronWire</Key>
+		<Name>Iron Wire</Name>
+		<Plural>Iron Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireIron</Object>
+		<Sprite>Iron Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>153</ItemID>
+		<Key>LithiumWire</Key>
+		<Name>Lithium Wire</Name>
+		<Plural>Lithium Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireLithium</Object>
+		<Sprite>Lithium Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>154</ItemID>
+		<Key>GoldWire</Key>
+		<Name>Gold Wire</Name>
+		<Plural>Gold Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireGold</Object>
+		<Sprite>Gold Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>155</ItemID>
+		<Key>NickelWire</Key>
+		<Name>Nickel Wire</Name>
+		<Plural>Nickel Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireNickel</Object>
+		<Sprite>Nickel Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>156</ItemID>
+		<Key>TitaniumWire</Key>
+		<Name>Titanium Wire</Name>
+		<Plural>Titanium Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>false</Hidden>
+		<Object>WireTitanium</Object>
+		<Sprite>Titanium Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>200</ItemID>
+		<Key>SteelCutterHead</Key>
+		<Name>Steel Cutter Head</Name>
+		<Type>ItemDurability</Type>	
+		<Object>DrillHead_Steel</Object>
+		<Sprite>Steel Cutter Head</Sprite>
+		<!-- Atlas optional -->
+		<MaxDurability>15000</MaxDurability>
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>201</ItemID>
+		<Key>CrystalCutterHead</Key>
+		<Name>Crystal Cutter Head</Name>
+		<Type>ItemDurability</Type>	
+		<Object>DrillHead_Crystal</Object>
+		<Sprite>Crystal Cutter Head</Sprite>
+		<!-- Atlas optional -->
+		<MaxDurability>17500</MaxDurability>
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>202</ItemID>
+		<Key>OrganicCutterHead</Key>
+		<Name>Organic Cutter Head</Name>
+		<Type>ItemDurability</Type>	
+		<Object>DrillHead_Organic</Object>
+		<Sprite>Organic Cutter Head</Sprite>
+		<!-- Atlas optional -->
+		<MaxDurability>2500</MaxDurability>
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>ResinHandling</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>203</ItemID>
+		<Key>PlasmaCutterHead</Key>
+		<Name>Plasma Cutter Head</Name>
+		<Type>ItemDurability</Type>	
+		<Object>DrillHead_Plasma</Object>
+		<Sprite>Plasma Cutter Head</Sprite>
+		<!-- Atlas optional -->
+		<MaxDurability>2000</MaxDurability><!-- 100 bars worth on Greg, cost is about 25,000 power -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<!-- Leave room here for more drill heads -->
+	
+	<ItemEntry>
+		<ItemID>250</ItemID>
+		<Key>LocationMarker</Key>
+		<Name>Location Marker</Name>
+		<Type>ItemLocation</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Location Marker</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ItemAction>MarkLocation</ItemAction>
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+		</ResearchRequirements>		
+	</ItemEntry>	
+	
+	<!--- consumables. 3xx range -->
+	
+	<ItemEntry>
+		<ItemID>300</ItemID>
+		<Key>GlowStick</Key>
+		<Name>Glow Stick</Name>
+		<Plural>Glow Sticks</Plural>
+		<Hidden>true</Hidden>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Glow Stick</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>ThrowGlowStick</ItemAction>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>301</ItemID>
+		<Key>ChargeableExplosive</Key>
+		<Name>Chargeable Explosive</Name>
+		<Plural>Chargeable Explosives</Plural>
+		<Type>ItemCharge</Type>	
+		<Object>ChargeableExplosiveDrop</Object>
+		<Sprite>Chargeable Explosive</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>BuildBlock</ItemAction>
+		<ActionParameter>Deployed Explosive</ActionParameter><!-- Name of cube to build -->
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>310</ItemID>
+		<Key>BlankOrePing</Key>
+		<Name>Blank Ore Ping</Name>
+		<Plural>Blank Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Blank Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter></ActionParameter><!-- no name here means blank -->
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>311</ItemID>
+		<Key>CoalOrePing</Key>
+		<Name>Coal Ore Ping</Name>
+		<Plural>Coal Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Coal Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Coal Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>CoalOre</Scan>
+		</ScanRequirements>			
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>312</ItemID>
+		<Key>IronOrePing</Key>
+		<Name>Iron Ore Ping</Name>
+		<Plural>Iron Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Iron Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Iron Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>313</ItemID>
+		<Key>CopperOrePing</Key>
+		<Name>Copper Ore Ping</Name>
+		<Plural>Copper Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Copper Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Copper Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>314</ItemID>
+		<Key>TinOrePing</Key>
+		<Name>Tin Ore Ping</Name>
+		<Plural>Tin Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Tin Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Tin Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>315</ItemID>
+		<Key>LithiumOrePing</Key>
+		<Name>Lithium Ore Ping</Name>
+		<Plural>Lithium Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Lithium Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Lithium Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>316</ItemID>
+		<Key>GoldOrePing</Key>
+		<Name>Gold Ore Ping</Name>
+		<Plural>Gold Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Gold Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Gold Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>317</ItemID>
+		<Key>NickelOrePing</Key>
+		<Name>Nickel Ore Ping</Name>
+		<Plural>Nickel Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Nickel Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Nickel Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	
+ 	<ItemEntry>
+		<ItemID>318</ItemID>
+		<Key>TitaniumOrePing</Key>
+		<Name>Titanium Ore Ping</Name>
+		<Plural>Titanium Ore Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Titanium Ore Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Titanium Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	
+ 	<ItemEntry>
+		<ItemID>319</ItemID>
+		<Key>CrystalDepositPing</Key>
+		<Name>Crystal Deposit Ping</Name>
+		<Plural>Crystal Deposit Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Crystal Deposit Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Crystal Deposit</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>			
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>320</ItemID>
+		<Key>BiomassGrowthPing</Key>
+		<Name>Biomass Growth Ping</Name>
+		<Plural>Biomass Growth Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Biomass Growth Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Biomass Growth</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>BiomassGrowth</Scan>
+		</ScanRequirements>			
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+ 	<ItemEntry>
+		<ItemID>321</ItemID>
+		<Key>ResinPing</Key>
+		<Name>Resin Ping</Name>
+		<Plural>Resin Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Resin Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Hardened Resin</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>HardenedResin</Scan>
+			<Scan>OrganicRock</Scan>			
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+
+
+ 	<ItemEntry>
+		<ItemID>322</ItemID>
+		<Key>ChromiumPing</Key>
+		<Name>Chromium Ping</Name>
+		<Plural>Chromium Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Chromium Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Chromium Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>ChromiumOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+
+
+ 	<ItemEntry>
+		<ItemID>323</ItemID>
+		<Key>MolybdenumPing</Key>
+		<Name>Molybdenum Ping</Name>
+		<Plural>Molybdenum Pings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Molybdenum Ping</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ItemAction>OrePing</ItemAction>
+		<ActionParameter>Molybdenum Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ScanRequirements>
+			<Scan>MolybdenumOre</Scan>
+		</ScanRequirements>		
+		<ResearchRequirements>
+			<Research>ore pings</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	
+	<!-- I'm unsure why I ever made this into an item
+	<ItemEntry>
+		<ItemID>349</ItemID>
+		<Name>Research Assembler DO NOT USE</Name>
+		<Plural>Research Assembler</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Solar Cell MK1</Sprite>
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>	-->
+	<ItemEntry>
+		<ItemID>350</ItemID>
+		<Key>BasicExperimentalPod</Key>
+		<Name>Basic Experimental Pod</Name>
+		<Plural>Basic Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Basic</Object>
+		<Sprite>ResearchPod_Basic</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>351</ItemID>
+		<Key>SimplifiedExperimentalPod</Key>
+		<Name>Simplified Experimental Pod</Name>
+		<Plural>Simplified Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Simplified</Object>
+		<Sprite>ResearchPod_Simplified</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>352</ItemID>
+		<Key>IntermediateExperimentalPod</Key>
+		<Name>Intermediate Experimental Pod</Name>
+		<Plural>Intermediate Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Intermediate</Object>
+		<Sprite>ResearchPod_Intermediate</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>353</ItemID>
+		<Key>ComplexExperimentalPod</Key>
+		<Name>Complex Experimental Pod</Name>
+		<Plural>Complex Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Complex</Object>
+		<Sprite>ResearchPod_Complex</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>354</ItemID>
+		<Key>AdvancedExperimentalPod</Key>
+		<Name>Advanced Experimental Pod</Name>
+		<Plural>Advanced Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Advanced</Object>
+		<Sprite>ResearchPod_Advanced</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>355</ItemID>
+		<Key>XLExperimentalPod</Key>
+		<Name>XL Experimental Pod</Name>
+		<Plural>XL Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_XL</Object>
+		<Sprite>ResearchPod_XL</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>356</ItemID>
+		<Key>UltimateExperimentalPod</Key>
+		<Name>Ultimate Experimental Pod</Name>
+		<Plural>Ultimate Experimental Pods</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchPod_Ultimate</Object>
+		<Sprite>ResearchPod_Ultimate</Sprite>
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<!-- These components are roughly arranged in complexity order -->
+	
+	<!--
+	<ItemEntry>
+		<ItemID>360</ItemID>
+		<Name>Copper Wire</Name>
+		<Plural>Copper Wires</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Copper Wire</Sprite>
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>	
+	-->
+	<ItemEntry>
+		<ItemID>370</ItemID>
+		<Key>CopperCoil</Key>
+		<Name>Copper Coil</Name>
+		<Plural>Copper Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilCopper</Object>
+		<Sprite>Copper Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>371</ItemID>
+		<Key>TinCoil</Key>
+		<Name>Tin Coil</Name>
+		<Plural>Tin Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilTin</Object>
+		<Sprite>Tin Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>372</ItemID>
+		<Key>IronCoil</Key>
+		<Name>Iron Coil</Name>
+		<Plural>Iron Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilIron</Object>
+		<Sprite>Iron Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>373</ItemID>
+		<Key>GoldCoil</Key>
+		<Name>Gold Coil</Name>
+		<Plural>Gold Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilGold</Object>
+		<Sprite>Gold Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>374</ItemID>
+		<Key>LithiumCoil</Key>
+		<Name>Lithium Coil</Name>
+		<Plural>Lithium Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilLithium</Object>
+		<Sprite>Lithium Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>375</ItemID>
+		<Key>NickelCoil</Key>
+		<Name>Nickel Coil</Name>
+		<Plural>Nickel Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilNickel</Object>
+		<Sprite>Nickel Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>376</ItemID>
+		<Key>TitaniumCoil</Key>
+		<Name>Titanium Coil</Name>
+		<Plural>Titanium Coils</Plural>
+		<Type>ItemStack</Type>	
+		<Object>CoilTitanium</Object>
+		<Sprite>Titanium Coil</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>380</ItemID>
+		<Key>CopperPlate</Key>
+		<Name>Copper Plate</Name>
+		<Plural>Copper Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateCopper</Object>
+		<Sprite>Copper Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>381</ItemID>
+		<Key>TinPlate</Key>
+		<Name>Tin Plate</Name>
+		<Plural>Tin Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateTin</Object>
+		<Sprite>Tin Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>382</ItemID>
+		<Key>IronPlate</Key>
+		<Name>Iron Plate</Name>
+		<Plural>Iron Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateIron</Object>
+		<Sprite>Iron Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>383</ItemID>
+		<Key>GoldPlate</Key>
+		<Name>Gold Plate</Name>
+		<Plural>Gold Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateGold</Object>
+		<Sprite>Gold Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>384</ItemID>
+		<Key>LithiumPlate</Key>
+		<Name>Lithium Plate</Name>
+		<Plural>Lithium Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateLithium</Object>
+		<Sprite>Lithium Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>385</ItemID>
+		<Key>NickelPlate</Key>
+		<Name>Nickel Plate</Name>
+		<Plural>Nickel Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateNickel</Object>
+		<Sprite>Nickel Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>386</ItemID>
+		<Key>TitaniumPlate</Key>
+		<Name>Titanium Plate</Name>
+		<Plural>Titanium Plates</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PlateTitanium</Object>
+		<Sprite>Titanium Plate</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+
+	<ItemEntry>
+	<ItemID>390</ItemID>
+		<Key>CopperHousing</Key>
+		<Name>Copper Housing</Name>
+		<Plural>Copper Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingCopper</Object>
+		<Sprite>Copper Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>391</ItemID>
+		<Key>TinHousing</Key>
+		<Name>Tin Housing</Name>
+		<Plural>Tin Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingTin</Object>
+		<Sprite>Tin Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>392</ItemID>
+		<Key>IronHousing</Key>
+		<Name>Iron Housing</Name>
+		<Plural>Iron Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingIron</Object>
+		<Sprite>Iron Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>393</ItemID>
+		<Key>LithiumHousing</Key>
+		<Name>Lithium Housing</Name>
+		<Plural>Lithium Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingLithium</Object>
+		<Sprite>Lithium Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>394</ItemID>
+		<Key>GoldHousing</Key>
+		<Name>Gold Housing</Name>
+		<Plural>Gold Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingGold</Object>
+		<Sprite>Gold Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>395</ItemID>
+		<Key>TitaniumHousing</Key>
+		<Name>Titanium Housing</Name>
+		<Plural>Titanium Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingTitanium</Object>
+		<Sprite>Titanium Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>396</ItemID>
+		<Key>NickelHousing</Key>
+		<Name>Nickel Housing</Name>
+		<Plural>Nickel Housings</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HousingNickel</Object>
+		<Sprite>Nickel Housing</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	
+	<!-- Made from Copper -->
+	<ItemEntry>
+		<ItemID>400</ItemID>
+		<Key>BasicPCB</Key>
+		<Name>Basic PCB</Name>
+		<Plural>Basic PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>BasicPCB</Object>
+		<Sprite>Basic PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	<!-- Made from Tin -->
+	<ItemEntry>
+		<ItemID>401</ItemID>
+		<Key>PrimaryPCB</Key>
+		<Name>Primary PCB</Name>
+		<Plural>Primary PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PrimaryPCB</Object>
+		<Sprite>Primary PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+		<!-- Made from Iron -->
+	<ItemEntry>
+		<ItemID>402</ItemID>
+		<Key>HardenedPCB</Key>
+		<Name>Hardened PCB</Name>
+		<Plural>Hardened PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HardenedPCB</Object>
+		<Sprite>Hardened PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<!-- Made from Gold -->
+	<ItemEntry>
+		<ItemID>403</ItemID>
+		<Key>ConductivePCB</Key>
+		<Name>Conductive PCB</Name>
+		<Plural>Conductive PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConductivePCB</Object>
+		<Sprite>Conductive PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+		<!-- Made from Lithium -->
+	<ItemEntry>
+		<ItemID>404</ItemID>
+		<Key>ChargedPCB</Key>
+		<Name>Charged PCB</Name>
+		<Plural>Charged PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ChargedPCB</Object>
+		<Sprite>Charged PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>LithiumOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<!-- Made from Nickel -->
+	<ItemEntry>
+		<ItemID>405</ItemID>
+		<Key>FortifiedPCB</Key>
+		<Name>Fortified PCB</Name>
+		<Plural>Fortified PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>FortifiedPCB</Object>
+		<Sprite>Fortified PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+		<!-- Made from Titanium -->
+	<ItemEntry>
+		<ItemID>406</ItemID>
+		<Key>LightweightPCB</Key>
+		<Name>Lightweight PCB</Name>
+		<Plural>Lightweight PCBs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>LightweightPCB</Object>
+		<Sprite>Lightweight PCB</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	
+	
+	<ItemEntry>
+		<ItemID>407</ItemID>
+		<Key>CopperPipe</Key>
+		<Name>Copper Pipe</Name>
+		<Plural>Copper Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeCopper</Object>
+		<Sprite>Copper Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CopperOre</Scan>
+		</ScanRequirements>				
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>408</ItemID>
+		<Key>TinPipe</Key>
+		<Name>Tin Pipe</Name>
+		<Plural>Tin Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeTin</Object>
+		<Sprite>Tin Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>409</ItemID>
+		<Key>IronPipe</Key>
+		<Name>Iron Pipe</Name>
+		<Plural>Iron Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeIron</Object>
+		<Sprite>Iron Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>IronOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>410</ItemID>
+		<Key>GoldPipe</Key>
+		<Name>Gold Pipe</Name>
+		<Plural>Gold Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeGold</Object>
+		<Sprite>Gold Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>GoldOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>411</ItemID>
+		<Key>LithiumPipe</Key>
+		<Name>Lithium Pipe</Name>
+		<Plural>Lithium Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeLithium</Object>
+		<Sprite>Lithium Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>412</ItemID>
+		<Key>NickelPipe</Key>
+		<Name>Nickel Pipe</Name>
+		<Plural>Nickel Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeNickel</Object>
+		<Sprite>Nickel Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>NickelOre</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>413</ItemID>
+		<Key>TitaniumPipe</Key>
+		<Name>Titanium Pipe</Name>
+		<Plural>Titanium Pipes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PipeTitanium</Object>
+		<Sprite>Titanium Pipe</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>Advanced Research</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>TitaniumOre</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+	
+	<ItemEntry>
+		<ItemID>420</ItemID>
+		<Key>CrystalFiberMesh</Key>
+		<Name>Crystal Fiber Mesh</Name>
+		<Plural>Crystal Fiber Meshes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Crystal Fiber Mesh</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>crystal</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+	</ItemEntry>	
+  
+  	<ItemEntry>
+		<ItemID>450</ItemID>
+		<Key>CrystalClock</Key>
+		<Name>Crystal Clock</Name>
+		<Plural>Crystal Clocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ClockCrystal</Object>
+		<Sprite>Crystal Clock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>crystal</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+	</ItemEntry>	
+
+	 <ItemEntry>
+		<ItemID>451</ItemID>
+		<Key>OverclockedCrystalClock</Key>
+		<Name>Overclocked Crystal</Name>
+		<Plural>Overclocked Crystal Clocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>OverclockedClockCrystal</Object>
+		<Sprite>Overclocked Crystal</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>advancedcrystal</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CrystalDeposit</Scan>
+		</ScanRequirements>
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>512</ItemID>
+		<Key>CargoLiftBasic</Key>
+		<Name>Basic Cargo Lift</Name>
+		<Plural>Basic Cargo Lifts</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Basic Cargo Lift</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>513</ItemID>
+		<Key>CargoLiftImproved</Key>
+		<Name>Improved Cargo Lift</Name>
+		<Plural>Improved Cargo Lifts</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Improved Cargo Lift</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>514</ItemID>
+		<Key>CargoLiftBulk</Key>
+		<Name>Bulk Cargo Lift</Name>
+		<Plural>Bulk Cargo Lifts</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Bulk Cargo Lift</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+	</ItemEntry>	
+	
+	<!--Suit upgrades are in the 1??? range-->
+	<ItemEntry>
+		<ItemID>1000</ItemID>
+		<Key>SolarCellMK1</Key>
+		<Name>Solar Cell MK1</Name>
+		<Plural>Solar Cell MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Solar Cell MK1</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1001</ItemID>
+		<Key>SuitCoolerMK1</Key>
+		<Name>Suit Cooler MK1</Name>
+		<Plural>Suit Cooler  MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>true</Hidden>
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Suit Cooler MK1</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1002</ItemID>
+		<Key>SuitHeaterMK1</Key>
+		<Name>Suit Heater MK1</Name>
+		<Plural>Suit Heater MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Suit Heater MK1</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Cold Research</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1003</ItemID>
+		<Key>SuitHeadlightMK1</Key>
+		<Name>Suit Headlight MK1</Name>
+		<Plural>Suit Headlights MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Suit Headlight MK1</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1004</ItemID>
+		<Key>SuitPowerPackMK1</Key>
+		<Name>Suit Power Pack MK1</Name>
+		<Plural>Suit Power Packs MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Suit Power Pack MK1</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1005</ItemID>
+		<Key>SuitBuildModuleMK1</Key>
+		<Name>Suit Build Module MK1</Name>
+		<Plural>Suit Build Modules MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>true</Hidden>
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>TitaniumBar</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1006</ItemID>
+		<Key>SuitCollectionModuleMK1</Key>
+		<Name>Suit Collection Module MK1</Name>
+		<Plural>Suit Collection Modules MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>true</Hidden>
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>TitaniumBar</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1007</ItemID>
+		<Key>SuitInsulationMK1</Key>
+		<Name>Suit Insulation MK1</Name>
+		<Plural>Suit Insulation Modules MK1</Plural>
+		<Type>ItemStack</Type>	
+		<Hidden>true</Hidden>
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>TitaniumBar</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1008</ItemID>
+		<Key>BuildGunV2</Key>
+		<Name>Build Gun V2</Name>
+		<Plural>V2 Build Guns</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Build Gun V2</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>1009</ItemID>
+		<Key>JetPack</Key>
+		<Name>Jet Pack</Name>
+		<Plural>Jet Packs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Jet Pack</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>biomass</Research>
+		</ResearchRequirements>		
+	</ItemEntry>	
+	<ItemEntry>
+		<ItemID>1010</ItemID>
+		<Key>ToxicParticleFilter</Key>
+		<Name>Toxic Particle Filter</Name>
+		<Plural>Toxic Particle Filters</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Toxic Particle Filter</Sprite>
+		<!-- Atlas optional -->
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>alloys</Research>
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>ToxicCavernStone</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>1011</ItemID>
+		<Key>BuildGunV3</Key>
+		<Name>Build Gun V3</Name>
+		<Plural>V3 Build Guns</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>Build Gun V3</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>T4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<!-- Improved Solar, increased max battery, toxic and suit heater built in. Care Package gives you this. Might not give you the MK3 gun tho, so that's 2 slots-->
+	<ItemEntry>
+		<ItemID>1050</ItemID>
+		<Key>AllInOne</Key>
+		<Name>MK1 Suit Upgrade Module</Name>
+		<Plural>MK1 Suit Upgrade Modules</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>MK1 Suit Upgrade Module</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>T4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+
+
+	<ItemEntry>
+		<ItemID>1051</ItemID>
+		<Key>SuitPowerPackMK2</Key>
+		<Name>Suit Power Pack MK2</Name>
+		<Plural>Suit Power Packs MK2</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Suit Power Pack MK2</Sprite>
+		<Category>SuitUpgrade</Category>
+		<ResearchRequirements>
+			<Research>suit upgrades</Research>
+			<Research>T4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<!--ARTHER upgrades are in the 2??? range-->
+	<ItemEntry>
+		<ItemID>2000</ItemID>
+		<Key>ARTHERPowerCore</Key>
+		<Name>ARTHER Power Core</Name>
+		<Plural>ARTHER Power Cores</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Power Core</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2001</ItemID>
+		<Key>ARTHERSolarPanel</Key>
+		<Name>ARTHER Solar Panel</Name>
+		<Plural>ARTHER Power Panel</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Solar Panel</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2002</ItemID>
+		<Key>ARTHERBatteryCore</Key>
+		<Name>ARTHER Battery Core</Name>
+		<Plural>ARTHER Battery Core</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Battery Core</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2003</ItemID>
+		<Key>ARTHERUpgradePack</Key>
+		<Name>ARTHER Upgrade Pack</Name>
+		<Plural>ARTHER Upgrade Packs</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Upgrade Pack</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2004</ItemID>
+		<Key>ARTHERDapperHat</Key>
+		<Name>ARTHER Dapper Hat</Name>
+		<Plural>ARTHER Dapper Hats</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Dapper Hat</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2005</ItemID>
+		<Key>ARTHERDapperMonocle</Key>
+		<Name>ARTHER Dapper Monocle</Name>
+		<Plural>ARTHER Dapper Monocle</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Dapper Monocle</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2006</ItemID>
+		<Key>ARTHERDapperMoustache</Key>
+		<Name>ARTHER Dapper Moustache</Name>
+		<Plural>ARTHER Dapper Moustache</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Dapper Moustache</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2007</ItemID>
+		<Key>ARTHERDapperPack</Key>
+		<Name>ARTHER Dapper Pack</Name>
+		<Plural>ARTHER Dapper Pack</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Dapper Pack</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2008</ItemID>
+		<Key>ARTHERDapperUpgradePack</Key>
+		<Name>ARTHER Dapper Upgrade Pack</Name>
+		<Plural>ARTHER Dapper Upgrade Pack</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Dapper Upgrade Pack</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<!--SpiderBot upgrades are in the 2??? range-->
+	<ItemEntry>
+		<ItemID>2500</ItemID>
+		<Key>SpiderBotBlaster</Key>
+		<Name>SpiderBot Blaster</Name>
+		<Plural>SpiderBot Blasters</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>SpiderBot Defences 3</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>SpiderBot</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2501</ItemID>
+		<Key>SpiderBotCannon</Key>
+		<Name>SpiderBot Cannon</Name>
+		<Plural>SpiderBot Cannons</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>SpiderBot Defences 2</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>SpiderBot</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2502</ItemID>
+		<Key>SpiderBotParticleRifle</Key>
+		<Name>SpiderBot Particle Rifle</Name>
+		<Plural>SpiderBot Particle Rifles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>SpiderBot Defences 1</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>SpiderBot</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2550</ItemID>
+		<Key>SpiderBotPowerCore</Key>
+		<Name>SpiderBot Power Core</Name>
+		<Plural>SpiderBot Power Cores</Plural>
+		<Type>ItemStack</Type>	
+		<Object>SpiderBotPowerCore</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>SpiderBot Power Core</Sprite><!-- Todd to change -->
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>SpiderBot</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	<!--Ore Extractor Updates are in the 3???range-->
+	<ItemEntry>
+		<ItemID>3000</ItemID>
+		<Key>BasicDrillMotor</Key>
+		<Name>Basic Drill Motor</Name>
+		<Plural>Basic Drill Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Object>DrillMotor</Object>
+		<Sprite>Basic Drill Motor</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 1</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3001</ItemID>
+		<Key>EnhancedDrillMotor</Key>
+		<Name>Enhanced Drill Motor</Name>
+		<Plural>Enhanced Drill Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Object>DrillMotor</Object>
+		<Sprite>Enhanced Drill Motor</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 2</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3002</ItemID>
+		<Key>MagneticDrillMotor</Key>
+		<Name>Magnetic Drill Motor</Name>
+		<Plural>Magnetic Drill Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Object>DrillMotor</Object>
+		<Sprite>Magnetic Drill Motor</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 3</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3003</ItemID>
+		<Key>FusionDrillMotor</Key>
+		<Name>Fusion Drill Motor</Name>
+		<Plural>Fusion Drill Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Object>DrillMotor</Object>
+		<Sprite>Fusion Drill Motor</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 4</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3004</ItemID>
+		<Key>AntimatterDrillMotor</Key>
+		<Name>Antimatter Drill Motor</Name>
+		<Plural>Antimatter Drill Motors</Plural>
+		<Type>ItemStack</Type>	
+		<Object>DrillMotor</Object>
+		<Sprite>Antimatter Drill Motor</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>mining upgrade 5</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3005</ItemID>
+		<Key>DiamondFocusingLens</Key>
+		<Name>Diamond Focusing Lens</Name>
+		<Plural>Diamond Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Diamond Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>DiamondCrystal</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3006</ItemID>
+		<Key>EmeraldFocusingLens</Key>
+		<Name>Emerald Focusing Lens</Name>
+		<Plural>Emerald Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Emerald Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>EmeraldCrystal</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3007</ItemID>
+		<Key>RubyFocusingLens</Key>
+		<Name>Ruby Focusing Lens</Name>
+		<Plural>Ruby Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Ruby Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>RubyCrystal</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3008</ItemID>
+		<Key>SapphireFocusingLens</Key>
+		<Name>Sapphire Focusing Lens</Name>
+		<Plural>Sapphire Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Sapphire Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>SapphireCrystal</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3009</ItemID>
+		<Key>TopazFocusingLens</Key>
+		<Name>Topaz Focusing Lens</Name>
+		<Plural>Topaz Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Topaz Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>TopazCrystal</Scan>
+		</ScanRequirements>			
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3010</ItemID>
+		<Key>SugaliteFocusingLens</Key>
+		<Name>Sugalite Focusing Lens</Name>
+		<Plural>Sugalite Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Sugalite Focusing Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ScanRequirements>
+			<Scan>SugaliteCrystal</Scan>
+		</ScanRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3011</ItemID>
+		<Key>CrudeOrganicLens</Key>
+		<Name>Crude Organic Lens</Name>
+		<Plural>Crude Organic Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Crude Organic Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T2 Power</Research>
+			<Research>Local Life Forms</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3012</ItemID>
+		<Key>OrganicLens</Key>
+		<Name>Organic Lens</Name>
+		<Plural>Organic Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Organic Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T2 Power</Research>
+			<Research>Local Life Forms</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3013</ItemID>
+		<Key>ExceptionalOrganicLens</Key>
+		<Name>Exceptional Organic Lens</Name>
+		<Plural>Exceptional Organic Focusing Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object>
+		<Sprite>Exceptional Organic Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T2 Power</Research>
+			<Research>Local Life Forms</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+		<ItemEntry>
+		<ItemID>3014</ItemID>
+		<Key>PolishedChromeLens</Key>
+		<Name>Polished Chrome Lens</Name>
+		<Plural>Polished Chrome Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Lens_Topaz</Object>
+		<Sprite>Polished Chrome Lens</Sprite>
+		<!-- Atlas optional -->
+		<Category>MachineUpgrade</Category>
+		<ResearchRequirements>
+			<Research>T4_GTPower</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<!--LEAVE A GAP FOR MORE LENSES PLEASE!-->
+	<!--Not a lense, just a stepping item so we can use optional recipes-->
+	<ItemEntry>
+		<ItemID>3100</ItemID>
+		<Key>UnfocusedPolishedLens</Key>
+		<Name>Unfocused Polished Lens</Name>
+		<Plural>Unfocused Polished Lenses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Lens_Diamond</Object>
+		<Sprite>UnfocusedPolishedLens</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>T4_GTPower</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3200</ItemID>
+		<Key>MagneticMachineBlock</Key>
+		<Name>Magnetic Machine Block</Name>
+		<Plural>Magnetic Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>MagneticMachineBlock</Object>
+		<Sprite>MagneticMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>T4_Start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3201</ItemID>
+		<Key>ChromedMachineBlock</Key>
+		<Name>Chromed Machine Block</Name>
+		<Plural>Chromed Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ChromedMachineBlock</Object>
+		<Sprite>ChromedMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>T4_Start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+
+	<ItemEntry>
+		<ItemID>3202</ItemID>
+		<Key>HiemalMachineBlock</Key>
+		<Name>Hiemal Machine Block</Name><!-- Hiya Mall! Adj. "Wintry"-->
+		<Plural>Hiemal Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HiemalMachineBlock</Object>
+		<Sprite>HiemalMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>T4_Start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3203</ItemID>
+		<Key>AlloyedMachineBlock</Key>
+		<Name>Alloyed Machine Block</Name>
+		<Plural>Alloyed Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>AlloyedMachineBlock</Object>
+		<Sprite>AlloyedMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3204</ItemID>
+		<Key>HardenedMachineBlock</Key>
+		<Name>Hardened Machine Block</Name>
+		<Plural>Hardened Machine Blocks</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HardenedMachineBlock</Object>
+		<Sprite>HardenedMachineBlock</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>alloys</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3499</ItemID>
+		<Key>EmptyMissile</Key>
+		<Name>Empty Missile</Name>
+		<Plural>Empty Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>EmptyMissile</Object>
+		<Sprite>Empty Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Defence</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3500</ItemID>
+		<Key>BasicMissile</Key>
+		<Name>Basic Missile</Name>
+		<Plural>Basic Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Missile_T1</Object>
+		<Sprite>Basic Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>Advanced Defence</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3501</ItemID>
+		<Key>ArmourPiercingMissile</Key>
+		<Name>Armour Piercing Missile</Name>
+		<Plural>Armour Piercing Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ArmourPiercingMissile</Object>
+		<Sprite>Armour Piercing Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3502</ItemID>
+		<Key>PlasmaImbuedMissile</Key>
+		<Name>Plasma-Imbued Missile</Name>
+		<Plural>Plasma-Imbued Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ImbuedMissile</Object>
+		<Sprite>Plasma-Imbued Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3503</ItemID>
+		<Key>FreezeMissile</Key>
+		<Name>CryoChilled Missile</Name>
+		<Plural>CryoChilled Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>FreezeMissileObj</Object>
+		<Sprite>CryoChilled Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3504</ItemID>
+		<Key>PoisonMissile</Key>
+		<Name>Mephitic Missile</Name>
+		<Plural>Mephitic Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>PoisonMissileObj</Object>
+		<Sprite>Mephitic Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>3505</ItemID>
+		<Key>ClusterMissile</Key>
+		<Name>Cluster Missile</Name>
+		<Plural>Cluster Missiles</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ClusterMissileObj</Object>
+		<Sprite>Cluster Missile</Sprite>
+		<!-- Atlas optional -->
+		<Category>Consumable</Category>
+		<ResearchRequirements>
+			<Research>missiledefence</Research>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3600</ItemID>
+		<Key>CryoBomb</Key>
+		<Name>Cryo Bomb</Name>
+		<Plural>Cryo Bomb</Plural><!-- Er, I guess -->
+		<Type>ItemStack</Type>	
+		<Object>Canister_Freezon</Object>
+		<Sprite>CryoBomb</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3700</ItemID>
+		<Key>CompressedMagma</Key>
+		<Name>Compressed Magma</Name>
+		<Plural>Compressed Magma</Plural><!-- Er, I guess -->
+		<Type>ItemStack</Type>	
+		<!--		This is just a virtual item, and currently be used or anything -->
+	<!--		<Object>Canister_Magma</Object> -->
+		<!--		<Sprite>Compressed Magma</Sprite>-->
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3750</ItemID>
+		<Key>FreonGas</Key>
+		<Name>Freezon Gas</Name>
+		<Plural>FreezonGas</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Canister_Freezon</Object><!-- This should never EVER be actually seen tho -->
+		<Sprite>FreonGas</Sprite><!-- this should never EVER be seen -->
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<!-- Compressed gases MUST be 1 more than their uncompressed counterpart-->
+	<ItemEntry>
+		<ItemID>3751</ItemID>
+		<Key>CompressedFreon</Key>
+		<Name>Compressed Freezon Canister</Name>
+		<Plural>CompressedFreezon</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Canister_Freezon</Object>
+		<Sprite>CompressedFreon</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>3752</ItemID>
+		<Key>ChlorineGas</Key>
+		<Name>Chlorine Gas</Name>
+		<Plural>ChlorineGas</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Canister_Chlorine</Object><!-- This should never EVER be actually seen tho -->
+		<Sprite>Chlorine Gas</Sprite><!-- this should never EVER be seen -->
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>//
+		</ResearchRequirements>		
+	</ItemEntry>
+	<!-- Compressed gases MUST be 1 more than their uncompressed counterpart-->
+	<ItemEntry>
+		<ItemID>3753</ItemID>
+		<Key>CompressedChlorine</Key>
+		<Name>Compressed Chlorine</Name>
+		<Plural>CompressedChlorine</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Canister_Chlorine</Object>
+		<Sprite>CompressedChlorine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+
+	<ItemEntry>
+		<ItemID>3754</ItemID>
+		<Key>SulphuricGas</Key>
+		<Name>Sulphuric Gas</Name>
+		<Plural>Sulphuric Gasses</Plural>
+		<Type>ItemStack</Type>	
+		<Object>Canister_Sulphur</Object><!-- This should never EVER be actually seen tho -->
+		<Sprite>SulphuricGas</Sprite><!-- this should never EVER be seen -->
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>//
+		</ResearchRequirements>		
+	</ItemEntry>
+	<!-- Compressed gases MUST be 1 more than their uncompressed counterpart-->
+	<ItemEntry>
+		<ItemID>3755</ItemID>
+		<Key>CompressedSulphur</Key>
+		<Name>Compressed Sulphur</Name>
+		<Plural>Compressed Sulphurs</Plural><!-- Er, I guess -->
+		<Type>ItemStack</Type>	
+		<Object>Canister_Sulphur</Object>
+		<Sprite>Compressed Sulphur</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>t4_start</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
+	
+	<!--MobDrops are in the 4??? range-->
+	<ItemEntry>
+		<ItemID>4000</ItemID>
+		<Key>PristineHeavyChitin</Key>
+		<Name>Pristine Heavy Chitin</Name>
+		<Plural>Pristine Heavy Chitin</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspHeavyChitinPristine</Object>
+		<Sprite>WaspHeavyChitinPristine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4001</ItemID>
+		<Key>RuinedHeavyChitin</Key>
+		<Name>Ruined Heavy Chitin</Name>
+		<Plural>Ruined Heavy Chitin</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspHeavyChitinRuined</Object>
+		<Sprite>WaspHeavyChitinRuined</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4002</ItemID>
+		<Key>PristineLightChitin</Key>
+		<Name>Pristine Light Chitin</Name>
+		<Plural>Pristine Light Chitin</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspLightChitinPristine</Object>
+		<Sprite>WaspLightChitinPristine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4003</ItemID>
+		<Key>RuinedLightChitin</Key>
+		<Name>Ruined Light Chitin</Name>
+		<Plural>Ruined Light Chitin</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspLightChitinRuined</Object>
+		<Sprite>WaspLightChitinRuined</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4004</ItemID>
+		<Key>PristineStinger</Key>
+		<Name>Pristine Stinger</Name>
+		<Plural>Pristine Stingers</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspStingerPristine</Object>
+		<Sprite>WaspStingerPristine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4005</ItemID>
+		<Key>RuinedStinger</Key>
+		<Name>Ruined Stinger</Name>
+		<Plural>Ruined Stingers</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspStingerRuined</Object>
+		<Sprite>WaspStingerRuined</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4006</ItemID>
+		<Key>PristineFacetedEye</Key>
+		<Name>Pristine Faceted Eye</Name>
+		<Plural>Pristine Faceted Eyes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspEyePristine</Object>
+		<Sprite>WaspEyePristine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4007</ItemID>
+		<Key>RuinedFacetedEye</Key>
+		<Name>Ruined Faceted Eye</Name>
+		<Plural>Ruined Faceted Eyes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspEyeRuined</Object>
+		<Sprite>WaspEyeRuined</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4008</ItemID>
+		<Key>PristinePhosphorescentGland</Key>
+		<Name>Pristine Phosphorescent Gland</Name>
+		<Plural>Pristine Phosphorescent Glands</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspGlandPristine</Object>
+		<Sprite>WaspGlandPristine</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4009</ItemID>
+		<Key>RuinedPhosphorescentGland</Key>
+		<Name>Ruined Phosphorescent Gland</Name>
+		<Plural>Ruined Phosphorescent Glands</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspGlandRuined</Object>
+		<Sprite>WaspGlandRuined</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	
+	<!-- Rare drop from Heavies -->
+	<ItemEntry>
+		<ItemID>4010</ItemID>
+		<Key>PerfectFacetedEye</Key>
+		<Name>Perfect Faceted Eye</Name>
+		<Plural>Perfect Faceted Eyes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspEyePristine</Object>
+		<Sprite>WaspEyePerfect</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<!-- Rare drop from Bosses -->
+	<ItemEntry>
+		<ItemID>4011</ItemID>
+		<Key>MassiveFacetedEye</Key>
+		<Name>Massive Faceted Eye</Name>
+		<Plural>Massive Faceted Eyes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>WaspEyePristine</Object>
+		<Sprite>WaspEyeMassive</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+
+	<!-- Research drop from hives -->
+	<ItemEntry>
+		<ItemID>4015</ItemID>
+		<Key>HiveBrainMatter</Key>
+		<Name>Hive Brain Matter</Name>
+		<Plural>Hive Brain Matter</Plural>
+		<Type>ItemStack</Type>	
+		<Object>AnimatedHiveBrain</Object>
+		<Sprite>Brain Matter</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<DecomposeValue>10</DecomposeValue> <!-- gives 10 research points when analysed -->
+	</ItemEntry>
+
+		<!-- Research drop from hives -->
+	<ItemEntry>
+		<ItemID>4016</ItemID>
+		<Key>DeOrbitContainerContennts</Key>
+		<Name>Research Parts</Name>
+		<Plural>Research Parts</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ResearchParts</Object>
+		<Sprite>Research Parts</Sprite><!-- Todd! Fix! -->
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<DecomposeValue>5</DecomposeValue> <!-- gives 5 research points when analysed -->
+	</ItemEntry>
+
+	<!-- Research drop from hives -->
+	<ItemEntry>
+		<ItemID>4050</ItemID>
+		<Key>RefinedLiquidResin</Key>
+		<Name>Refined Liquid Resin</Name>
+		<Plural>Refined Liquid Resin</Plural>
+		<Type>ItemStack</Type>	
+		<Object>RefinedLiquidResin</Object>
+		<Sprite>Refined Liquid Resin</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	
+	<!-- Spoiled Item -->
+	<!-- Cold Hoppers convert anything from 4000 upwards into Ruined -->
+	<ItemEntry>
+		<ItemID>4100</ItemID>
+		<Key>SpoiledOrganicRemains</Key>
+		<Name>Spoiled Organic Remains</Name>
+		<Plural>Spoiled Organic Remains</Plural>
+		<Type>ItemStack</Type>	
+		<Object>SpoiledOrganicRemains</Object>
+		<Sprite>SpoiledOrganicRemains</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>4101</ItemID>
+		<Key>RecombinedOrganicMatter</Key>
+		<Name>Recombined Organic Matter</Name>
+		<Plural>Recombined Organic Matter</Plural>
+		<Type>ItemStack</Type>	
+		<Object>RecombinedOrganicMatter</Object>
+		<Sprite>RecombinedOrganicMatter</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+	</ItemEntry>
+	<!-- MOD Items start at 10000 so DO NOT add any items to this file with item ids of 10000 or higher
+	     In the unlikely event you run out of space then leave the item id blank and update the item loading
+	     code to assign per-world item ids in the same way that it currently does for mods -->
+</ArrayOfItemEntry>

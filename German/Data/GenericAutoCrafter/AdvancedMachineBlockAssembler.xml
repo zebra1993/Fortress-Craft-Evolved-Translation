@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Advanced Machine Block Assembler</FriendlyName>
+	<FriendlyName>Verbessertermaschinenblock Montage</FriendlyName>
 	<SpawnObject>HydrojetCutter</SpawnObject>
 	<Value>AdvancedMachineBlockAssembler</Value>
 			
@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>AdvancedMachineBlock</Key>
-		<CraftedName>Advanced Machine Block</CraftedName>
+		<CraftedName>Verbesserter Maschinenblock</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 			<Costs>
 			<CraftCost>

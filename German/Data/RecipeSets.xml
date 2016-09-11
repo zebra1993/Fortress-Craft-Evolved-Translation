@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipeSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<RecipeSet>
+		<Id>Manufacturer</Id>
+		<Name>Manufacturing Plant</Name>
+		<FileName>ManufacturerRecipes.xml</FileName>
+		<Icon>Manufacturing Plant</Icon>
+		<MachineKey>ManufacturingPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>BasicMissileAssembler</Id>
+		<Name>Basic Missile Assembler</Name>
+		<FileName>BasicMissileAssemblerRecipes.xml</FileName>
+		<Icon>Basic Missile Assembler</Icon>
+		<MachineKey>BasicMissileAssembler</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>Coiler</Id>
+		<Name>Coiler Plant</Name>
+		<FileName>CoilerRecipes.xml</FileName>
+		<Icon>Coiler Plant</Icon>
+		<MachineKey>CoilerPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>Extruder</Id>
+		<Name>Extrusion Plant</Name>
+		<FileName>ExtruderRecipes.xml</FileName>
+		<Icon>Extrusion Plant</Icon>
+		<MachineKey>ExtrusionPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>PCBAssembler</Id>
+		<Name>PCB Assembling Plant</Name>
+		<FileName>PCBAssemblerRecipes.xml</FileName>
+		<Icon>PCB Assembling Plant</Icon>
+		<MachineKey>PCBAssemblingPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>PipeExtruder</Id>
+		<Name>Pipe Extrusion Plant</Name>
+		<FileName>PipeExtruderRecipes.xml</FileName>
+		<Icon>Pipe Extrusion Plant</Icon>
+		<MachineKey>PipeExtrusionPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>Refinery</Id>
+		<Name>Refinery</Name>
+		<FileName>RefineryRecipes.xml</FileName>
+		<Icon>Refinery Controller</Icon>
+		<MachineKey>RefineryController</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>ResearchAssembler</Id>
+		<Name>Research Assembler</Name>
+		<FileName>ResearchAssemblerRecipes.xml</FileName>
+		<Icon>Research Assembler</Icon>
+		<MachineKey>ResearchAssembler</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>Smelter</Id>
+		<Name>Ore Smelter</Name>
+		<FileName>SmelterRecipes.xml</FileName>
+		<Icon>Ore Smelter</Icon>
+		<MachineKey>OreSmelter</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>Stamper</Id>
+		<Name>Stamper Plant</Name>
+		<FileName>StamperRecipes.xml</FileName>
+		<Icon>Stamper Plant</Icon>
+		<MachineKey>StamperPlant</MachineKey>
+	</RecipeSet>
+	<RecipeSet>
+		<Id>BlastFurnace</Id>
+		<Name>Blast Furnace</Name>
+		<FileName>BlastFurnaceRecipes.xml</FileName>
+		<Icon>Blast Furnace</Icon>
+		<MachineKey>BlastFurnace</MachineKey>
+	</RecipeSet>
+</ArrayOfRecipeSet>
