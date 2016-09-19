@@ -9,22 +9,22 @@
 					<Text>Willkommen zu FortressCraft Evolved</Text>
 				</Title>
 				<Header>
-					<Text>Überlebensmodus</Text>
+					<Text>Ueberlebensmodus</Text>
 				</Header>
 				<Paragraph>
-					<Text>Du bist mit einem defekten Shuttle von der Orbitalstation geflohen. Es hat den Wiedereintritt nicht überstanden aber glücklicherweise hast du den Ausstieg sicher geschafft. Nun musst du auf diesem fürchterlichen Alien Planet überleben!</Text>
+					<Text>Du bist mit einem defekten Shuttle von der Orbitalstation geflohen. Es hat den Wiedereintritt nicht ueberstanden aber gluecklicherweise hast du den Ausstieg sicher geschafft. Nun musst du auf diesem fuerchterlichen Alien Planet ueberleben!</Text>
 				</Paragraph>
 				<Header>
 					<Text>Der Anfang</Text>
 				</Header>
 				<Paragraph>
-					<Text>Dein Überlebensanzug kann dich von den kalten Umweltbedingungen schützen, aber er benötigt dazu Energie. Bei der Ansturtzstelle findest du möglicherweise Dinge die für das längerfristige Dasein wichtig sind, also solltest du dich sobald wie möglich dorthin aufmachen.</Text>
+					<Text>Dein Uberlebensanzug kann dich von den kalten Umweltbedingungen schuetzen, aber er benoetigt dazu Energie. Bei der Ansturtzstelle findest du moeglicherweise Dinge die fuer das laengerfristige Dasein wichtig sind, also solltest du dich sobald wie moeglich dorthin aufmachen.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Steuerung</Text>
 				</Header>
 				<Paragraph>
-					<Text>Die Spielsteuerungen sind im in einer separaten Anleitung, weiter unten verlinkt, aufgeführt.</Text>
+					<Text>Die Spielsteuerungen sind im in einer separaten Anleitung, weiter unten verlinkt, aufgefuehrt.</Text>
 				</Paragraph>
 
 				<Link>
@@ -39,7 +39,7 @@
 					<Target>
 						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL><!-- Full screen, auto-playing URL-->
 					</Target>
-					<Text>Ziehst du Videos vor? Klicke hier für die FortressCraft Tutorials</Text>
+					<Text>Ziehst du Videos vor? Klicke hier fuer die FortressCraft Tutorials</Text>
 				</Link>
 				<Link>
 					<Target>
@@ -53,42 +53,42 @@
 			<Page>
 			<Paragraphs>
 				<Header>
-					<Text>überlebenstipps</Text>
+					<Text>Ueberlebenstipps</Text>
 				</Header>
 
 			
 
 
 				<Paragraph>
-					<Text>Für die welche keine ganze Anleitung lesen möchten, sind hier einige kurze Gameplay Tips. Die nachfolgenden Seiten gehen mehr ins Detail darüber, wie man Anfängt.</Text>
+					<Text>Fuer die welche keine ganze Anleitung lesen moechten, sind hier einige kurze Gameplay Tips. Die nachfolgenden Seiten gehen mehr ins Detail darueber, wie man Anfaengt.</Text>
 				</Paragraph>
 				<Spacer />
 				<Paragraph>
-					<Text>- Dein Anzug ist dafür ausgelegt seine Batterie tagsüber durch Sonnenlicht aufzuladen.
-- An Deinem Startort befindet sich der Zentrale Energie Verteiler (Central Power Hub (CPH)). Benutze ihn um gesammelte Ressourcen in Energie für die angrenzenden Maschinerien umzuwandeln.
-- Du kannst deine Anzugsenergie über den Zentralen Energie Verteiler aufladen, oder drücke 'Q' an einem Energie Block.						
+					<Text>- Dein Anzug ist dafuer ausgelegt seine Batterie tagsueber durch Sonnenlicht aufzuladen.
+- An Deinem Startort befindet sich der Zentrale Energie Verteiler (Central Power Hub (CPH)). Benutze ihn um gesammelte Ressourcen in Energie fuer die angrenzenden Maschinerien umzuwandeln.
+- Du kannst deine Anzugsenergie ueber den Zentralen Energie Verteiler aufladen, oder druecke 'Q' an einem Energie Block.						
 - Interagiere ('E') mit der Werkbank um zu sehen was du herstellen kannst.
-- Stelle Fackeln über das Crafting-Menü ('C') her, um dich an ihnen aufzuwärmen.
-- Benutze das Scanner Werkzeug ('M') um Blöcke zu scannen und erforche sie an die Forschungsstation um neü Rezepte zu erhalten.
-- Das Scanner Werkzeug kann zum Beipiel auch die Umgebung auf unbekannte Materialien scannen, um neü Erze zu finden.
-- Beachte die Ladeanzeige deines Anzugs, ein blaür Text zeigt an dass extreme Kälte auf dich einwirkt, ein roter Text zeigt extreme Hitze an. 
-- Die Stirnlampe benötigt Energie. Sie ist grossartig für Erkundungen aber lass sie nicht an!
-- Kohle ist zu Beginn der beste Energielieferant, aber wenn du in einer Zwickmühle bist, kannst du auch die einheimischen Pflanzen verbrennen.
-- Möglicherweise musst du sehr tief graben um die gewünschten Erze zu finden.
-- Platziere Fackeln wenn Du über eine lange Strecke baün musst, um grosse Höhlen auszuleuchten.</Text>
+- Stelle Fackeln ueber das Crafting-Menue ('C') her, um dich an ihnen aufzuwaermen.
+- Benutze das Scanner Werkzeug ('M') um Bloecke zu scannen und erforche sie an die Forschungsstation um neue Rezepte zu erhalten.
+- Das Scanner Werkzeug kann zum Beipiel auch die Umgebung auf unbekannte Materialien scannen, um neue Erze zu finden.
+- Beachte die Ladeanzeige deines Anzugs, ein blauer Text zeigt an dass extreme Kaelte auf dich einwirkt, ein roter Text zeigt extreme Hitze an. 
+- Die Stirnlampe benoetigt Strom. Sie ist grossartig fuer Erkundungen aber lass sie nicht an!
+- Kohle ist zu Beginn der beste Energielieferant, aber wenn du in einer Zwickmuehle bist, kannst du auch die einheimischen Pflanzen verbrennen.
+- Moeglicherweise musst du sehr tief graben um die gewuenschten Erze zu finden.
+- Platziere Fackeln wenn Du ueber eine lange Strecke bauen musst, um grosse Hoehlen auszuleuchten.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>Absturtzstellen Ausrüstung</Text>
+					<Text>Absturtzstellen Ausruestung</Text>
 				</Header>
 				<Icon>
 					<Name>Central Power Hub</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Der Zentrale Energie Verteiler ist dein erster Energiegenerator. Er besitzt Solarzellen und kann Brennstoffe benutzen um Energie zu erzeugen. Er kann immer bloss eine Brennstoffeinheit auf einmal aufnehmen. Deshalb ist die automatische Zulieferung wichtig. Er besitzt eine grosse interne Energiekapazität.</Text>
+					<Text>Der Zentrale Energie Verteiler ist dein erster Energiegenerator. Er besitzt Solarzellen und kann Brennstoffe benutzen um Energie zu erzeugen. Er kann immer bloss eine Brennstoffeinheit auf einmal aufnehmen. Deshalb ist die automatische Zulieferung wichtig. Er besitzt eine grosse interne Energiekapazitaet.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -101,13 +101,13 @@
 					<Name>PowerStorageBlock</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Der Energie Speicherblock kann 250 Energie aufnehmen und verteilt ihn an die anliegenden Maschienen.</Text>
+					<Text>Der Energiespeicher Block kann 250 Strom aufnehmen und verteilt ihn an die anliegenden Maschienen.</Text>
 				</Paragraph>
 					<Link>
 					<Target>
 						<Material>PowerStorageBlock</Material>
 					</Target>
-					<Text>Energie Speicherblock</Text>
+					<Text>Energiespeicher Block</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
@@ -117,7 +117,7 @@
 					<Name>Ore Smelter</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Um Barren welche für die Herstellung von Maschienen benötigt werden herzustellen, musst du Erze in einem Ofen schnelzen. Du kannst dies manüll tun oder automatisiere die Zuführung der Materialen. Der Schmelzvorgang startet erst wenn die benötigte Menge Material vorhanden ist, um einen Barren zu schmelzen.</Text>
+					<Text>Um Barren welche fuer die Herstellung von Maschienen benoetigt werden herzustellen, musst du Erze in einem Ofen schnelzen. Du kannst dies manuell tun oder automatisiere die Zufuehrung der Materialen. Der Schmelzvorgang startet erst wenn die benoetigte Menge Material vorhanden ist, um einen Barren zu schmelzen.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -133,7 +133,7 @@
 					<Name>Manufacturing Plant</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Du kannst einfache Dinge im Crafting Menü über die Taste ('C') selbst herstellen, aber für komplexere Maschinen und Komponenten benötigst du die Werkbank. Die Rezepte sind in Kategorien unterteilt, die du findest wenn du auf die farbigen Kästchen klickst. Zu diesem Zeitpunkt kann die Werkbank nur Teile aus deinem Inventar benutzen und die Hergestellten Dinge werden direkt dorthin zurück gelegt.</Text>
+					<Text>Du kannst einfache Dinge im Crafting Menue ueber die Taste ('C') selbst herstellen, aber fuer komplexere Maschinen und Komponenten benoetigst du die Werkbank. Die Rezepte sind in Kategorien unterteilt, die du findest wenn du auf die farbigen Kaestchen klickst. Zu diesem Zeitpunkt kann die Werkbank nur Teile aus deinem Inventar benutzen und die Hergestellten Dinge werden direkt dorthin zurueck gelegt.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -145,7 +145,7 @@
 					<Name>Research Station</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Wenn du beginnst, verfügt dein Scanner über keinerlei Informationen uber die Materialien die auf diesem Planeten gefunden werden können. Alle Scans die du tätigst, können an der Forschungsstation verarbeitet werden und geben Forschungspunkte. Du kannst hier auch Forschungsprojekte starten, und neü Rezepte für die Werkbank erhalten indem du Forschungspunklte dafür ausgibst. Die Forschungsstation benötigt Energie um zu funktionieren.</Text>
+					<Text>Wenn du beginnst, verfuegt dein Scanner ueber keinerlei Informationen uber die Materialien die auf diesem Planeten gefunden werden koennen. Alle Scans die du taetigst, koennen an der Forschungsstation verarbeitet werden und geben Forschungspunkte. Du kannst hier auch Forschungsprojekte starten, und neue Rezepte fuer die Werkbank erhalten indem du Forschungspunklte dafuer ausgibst. Die Forschungsstation benoetigt Strom um zu funktionieren.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -161,64 +161,64 @@
 					<Text>Suche deine ersten Erze</Text>
 				</Header>
 				<Paragraph>
-					<Text>Dein Scanner besitzt die Möglichkeit nach bekannten Erzen zu scannen, aber um dies tun zu können müssen sie bekannt sein. Der Weg neü Erze zu finden ist die Ping Funktion nach unbekannten Erzen deines Scanners zu benutzen. Wenn du dies zum ersten mal tust, wird er dir alle Blöcke um dich herum anzeigen, weil er sie noch nicht kennt.</Text>
+					<Text>Dein Scanner besitzt die Moeglichkeit nach bekannten Erzen zu scannen, aber um dies tun zu koennen muessen sie bekannt sein. Der Weg neue Erze zu finden ist die Ping Funktion nach unbekannten Erzen deines Scanners zu benutzen. Wenn du dies zum ersten mal tust, wird er dir alle Bloecke um dich herum anzeigen, weil er sie noch nicht kennt.</Text>
 				</Paragraph>
 				<Spacer />
 				<Paragraph>
-					<Text>Deine erste Aufgabe wird also das scannen deiner Umgebung und das verarbeiten dieser Scanns an der Forschungsstation sein. Sobald du all den herkömmlichen Dreck und Schnee um dich herum gescannt hast, wird der Ping nach unbekannten Erzen anfangen dir nützliches um dich herum anzuzeigen.</Text>
+					<Text>Deine erste Aufgabe wird also das scannen deiner Umgebung und das verarbeiten dieser Scanns an der Forschungsstation sein. Sobald du all den herkoemmlichen Dreck und Schnee um dich herum gescannt hast, wird der Ping nach unbekannten Erzen anfangen dir nuetzliches um dich herum anzuzeigen.</Text>
 				</Paragraph>
 				<Spacer />
 				<Paragraph>
-					<Text>Sobald du eine Erzader in deiner Nähe unter der Erde gefunden hast, kannst du diese scannen und verarbeiten um sie deinem Scanner zu lehren. Von diesem Moment an wird ein Scanner Ping nach bekannten Erzen, Erzadern dieses Typs anzeigen.</Text>
+					<Text>Sobald du eine Erzader in deiner Naehe unter der Erde gefunden hast, kannst du diese scannen und verarbeiten um sie deinem Scanner zu lehren. Von diesem Moment an wird ein Scanner Ping nach bekannten Erzen, Erzadern dieses Typs anzeigen.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Erzgewinnung</Text>
 				</Header>
 				<Paragraph>
-					<Text>Jetzt wo du deine erste Erzader gefunden hast, musst du das Erz fördern um es verwenden zu können. Du kannst es mit Rechtsklick abbaün aber das wird nur ab und zu ein Erz abwerfen und der ganze Rest ist Rubbel.</Text>
+					<Text>Jetzt wo du deine erste Erzader gefunden hast, musst du das Erz foerdern um es verwenden zu koennen. Du kannst es mit Rechtsklick abbauen aber das wird nur ab und zu ein Erz abwerfen und der ganze Rest ist Rubbel.</Text>
 				</Paragraph>
 				<Spacer />
 				<Paragraph>
-					<Text>Eine bessere Möglichkeit ist der Super Dig Modus, den du aktivierst indem du CTRL während dem abbaün gedrückt hältst. Dies baut sehr schnell viel Erz ab, aber wird deine Energiereserve sehr schnell aufbrauchen.</Text>
+					<Text>Eine bessere Moeglichkeit ist der Super Dig Modus, den du aktivierst indem du CTRL waehrend dem abbauen gedrueckt haeltst. Dies baut sehr schnell viel Erz ab, aber wird deine Energiereserve sehr schnell aufbrauchen.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>Achte darauf nicht deine gesamten Energie wahrend dem Super diggen der Erzadern zu leeren, dein Anzug benötigt ebenfalls Energie um deinen Körper warm zu halten! Versuche einen sicheren Rückweg zu deinem Energiegenerator vorzubereiten, mit Fackeln auf dem Weg um dich wieder aufzuwärmen.</Text>
+					<Text>Achte darauf nicht deine gesamten Energie wahrend dem Super diggen der Erzadern zu leeren, dein Anzug benoetigt ebenfalls Energie um deinen Koerper warm zu halten! Versuche einen sicheren Rueckweg zu deinem Stromgenerator vorzubereiten, mit Fackeln auf dem Weg um dich wieder aufzuwaermen.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>Automatisiertes Abbaün</Text>
+					<Text>Automatisiertes Abbauen</Text>
 				</Header>
 				<Icon>
 					<Name>Ore Extractor</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Ein nachhaltigerer Weg Erz abzubaün ist der Gebrauch eines Erzförderers. Du startest mit einigen, und du kannst ihn einfach auf einer Erzader platzieren und mit Energie aufladen damit er anfängt zu graben. Er besitzt einen kleinen Laderaum, und bis du ihn anderst leeren kannst musst du immer wieder mal zurück kommen um in selbst zu entladen.</Text>
+					<Text>Ein nachhaltigerer Weg Erz abzubauen ist der Gebrauch eines Erzfoerderers. Du startest mit einigen, und du kannst ihn einfach auf einer Erzader platzieren und mit Energie aufladen damit er anfaengt zu graben. Er besitzt einen kleinen Laderaum, und bis du ihn anderst leeren kannst musst du immer wieder mal zurueck kommen um in selbst zu entladen.</Text>
 				</Paragraph>
 				<Spacer />
 				<Paragraph>
-					<Text>Ein Erzförderer kann eine ganze Ader abbaün, wenn er einen einzigen Erz Block berührt. Du musst ihn also nicht bewegen bis die ganze Erzader abgebaut ist.</Text>
+					<Text>Ein Erzfoerderer kann eine ganze Ader abbauen, wenn er einen einzigen Erz Block beruehrt. Du musst ihn also nicht bewegen bis die ganze Erzader abgebaut ist.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Ore Extractor</Material>
 					</Target>
-					<Text>Erzförderer</Text>
+					<Text>Erzfoerderer</Text>
 				</Link>
 				<Spacer />
 				<Icon>
 					<Name>StorageHopper</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Lagerhopper akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für jede Automatisation von Erzabbau und Schmelzprozesse unverzichtbar.</Text>
+					<Text>Lager Hopper akzeptieren Erze und Gegenstaende von Maschinen und fuehren diese anderen Maschinen zu. Das macht sie fuer jede Automatisation von Erzabbau und Schmelzprozesse unverzichtbar.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Storage Hopper</Material>
 					</Target>
-					<Text>Lagerhopper</Text>
+					<Text>Lager Hopper</Text>
 				</Link>
 			</Paragraphs>
 			</Page>
@@ -228,13 +228,13 @@
 					<Name>Conveyor Belt</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Sobald du Ressourcen übrig hast, können dir Förderbänder dabei helfen das Erz automatisch von der Förderstelle zum Schmelzofen zu bringen. Sie sind billig, aber du wirst viele davon brauchen um deine Förderstelle mit deiner Hauptbasis zu verbinden. Sie benötigen keinen Energie um zu funktionieren.</Text>
+					<Text>Sobald du Ressourcen uebrig hast, koennen dir Foerderbaender dabei helfen das Erz automatisch von der Foerderstelle zum Schmelzofen zu bringen. Sie sind billig, aber du wirst viele davon brauchen um deine Foerderstelle mit deiner Hauptbasis zu verbinden. Sie benoetigen keinen Strom um zu funktionieren.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Conveyor Belt</Material>
 					</Target>
-					<Text>Förderband</Text>
+					<Text>Foerderband</Text>
 				</Link>
 			</Paragraphs>
 		</Page>		
