@@ -12,7 +12,7 @@
 	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
 	<Recipe>
 		<Key>charged plasma head</Key>
-		<CraftedName>Plasmaschneidkopf</CraftedName>
+		<CraftedName>Plasma Cutter Head</CraftedName>
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
