@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Organischekohle Anreicherer</FriendlyName>
+	<FriendlyName>Organischekohlen Anreicherer</FriendlyName>
 	<SpawnObject>CoalEnricher</SpawnObject>
 	<Value>CoalEnricher</Value>
 			
@@ -21,6 +21,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Pulverisiert und presst Kohle, sodass sie doppelt so heisst brennt.</Description>
+		<Description>Pulverisiert und komprimiert Kohle, damit sie doppelt so heiß brennt.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Giftraketen Montage</FriendlyName>
+	<FriendlyName>Giftraketenmontage</FriendlyName>
 	<SpawnObject>PoisonMissileCrafterObj</SpawnObject>
 	<Value>PoisonMissileCrafter</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Benutzt Chlorgaskartuschen um einen Schaden über Zeit auf das Zeil wirken zu lassen. Fügt 50% Schaden in 30s zu.</Description>
+		<Description>Benutzt Chlorgaskartuschen, um gewählten Zielen 30s lang 50% mehr Schaden zuzufügen.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

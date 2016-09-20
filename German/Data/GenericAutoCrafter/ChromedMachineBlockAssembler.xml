@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>verchromte Maschienenblock Montage</FriendlyName>
+	<FriendlyName>Montage für Verchromter Maschinenblock</FriendlyName>
 	<SpawnObject>ChromedMachineBlockAssembler</SpawnObject>
 	<Value>ChromedMachineBlockAssembler</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>8</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Chromebeschichtet durchtränkte Maschienenblöcke.</Description>
+		<Description>Beschichtet befüllte Maschinenblöcke mit Chrom.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

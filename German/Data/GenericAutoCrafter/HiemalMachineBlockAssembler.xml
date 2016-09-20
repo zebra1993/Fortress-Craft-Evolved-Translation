@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Hiemal Maschinenblock Montage</FriendlyName>
+	<FriendlyName>Montage für Hibernalen Maschinenblock</FriendlyName>
 	<SpawnObject>HiemalMachineBlockAssembler</SpawnObject>
 	<Value>HiemalMachineBlockAssembler</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Verchromt durchtränkte Maschinenblöcke.</Description>
+		<Description>Verchromt Befüllte Maschinenblöcke.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Gitterweber</FriendlyName>
+	<FriendlyName>Netzweber</FriendlyName>
 	<SpawnObject>ChipEtcher</SpawnObject>
 	<Value>MeshWeaver</Value>
 			
@@ -20,6 +20,6 @@
 				<Amount>32</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Entzieht Kristallfasern von einem Vorkommen und webt sie zu einem hochrobusten Fasergewebe.</Description>
+		<Description>Extrahiert Kristallfasern von einem Vorkommen und webt sie zu einem extrem starken Fasergewebe.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

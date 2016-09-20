@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Panzerbrechendergefechtskopf Ausrüster</FriendlyName>
+	<FriendlyName>Panzerbrechender Gefechtskopfmonteur</FriendlyName>
 	<SpawnObject>WarheadFitter</SpawnObject>
 	<Value>ArmourPiercingWarheadFitter</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Nutzt tadellose Stachel um die Plasmadurchtränktengefechtsköpfe zu härten und schärfen. Sechsfacher Schaden!</Description>
+		<Description>Nutzt Makelloser Stachel um Plasmabefüllte Gefechtsköpfe zu härten und zu schärfen. Sechsfacher Schaden!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

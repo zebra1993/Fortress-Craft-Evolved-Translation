@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Leere Racketen Montage</FriendlyName>
+	<FriendlyName>Montage für Leere Raketen</FriendlyName>
 	<SpawnObject>MissileAssembler</SpawnObject>
 	<Value>EmptyMissileAssembler</Value>
 			
@@ -25,6 +25,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Verarbeitet Kupferrohre und Golddrähte zu leeren Raketen. Vorsicht bei der Handhabung!</Description>
+		<Description>Verarbeitet Kupferrohre und Golddrähte zu leeren Raketen. Mit Vorsicht zu handhaben!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

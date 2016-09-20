@@ -6,7 +6,7 @@ EN				<->			DE
 --Ausdrücke
 Canister						Kartusche (bei einer Ladung)
 Cabister						Kanister (bei einem Behälter)
-Hopper							Hopper
+Hopper							Trichter
 Power							Energie
 Ore							Erz
 Ingot(s)/Bar(s)						Barre/ Barren
@@ -15,7 +15,7 @@ Ingot(s)/Bar(s)						Barre/ Barren
 --Maschienen
 
 Ore Smelter						Schmelzofen
-Storage Hopper						Lagerhopper
+Storage Hopper					Speichertrichter
 Extractor						Erzförderer
 Manufacturing Plant					Werkbank
 Energy Storage Block					Energie Speicherblock

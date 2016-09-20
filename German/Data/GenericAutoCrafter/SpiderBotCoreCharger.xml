@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>SpiderBot Energiekern Ladestation</FriendlyName>
+	<FriendlyName>SpiderBot Energiekernladestation</FriendlyName>
 	<SpawnObject>SpiderBotPowerCoreCharger</SpawnObject>
 	<Value>SpiderBotCoreCharger</Value>
 			
@@ -20,6 +20,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gibt dem SpiderBot 1'000 Energie. Einfügen in das "SpiderBot Auflade- und Verbesserungs Station" mithilfe eines Trichters.</Description>
+		<Description>Gibt dem SpiderBot 1000 Energie. Lässt sich mit Hilfe eines Speichertrichters in die "SpiderBot Auflade- und Verbesserungsstation" integrieren.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Zahnradschienenfräse</FriendlyName>
+	<FriendlyName>Zahnstangenfräse</FriendlyName>
 	<SpawnObject>PipeExtruder_T1</SpawnObject>
 	<Value>RackRailer</Value>
 			
@@ -21,6 +21,6 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Stellt Zahnradschienen her.</Description>
+		<Description>Stellt Zahnstangen her.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>
