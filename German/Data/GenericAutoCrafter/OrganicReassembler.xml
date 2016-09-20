@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Organischer Rekombinierer</FriendlyName>
+	<FriendlyName>Organikaufbereiter</FriendlyName>
 	<SpawnObject>OrganicReassembler</SpawnObject>
 	<Value>OrganicReassembler</Value>
 			
@@ -37,6 +37,6 @@
 				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Rekombiniert Alien organische Stoffe in  hervorragende Proben. Braucht mindestens 10 von allem aber nicht 10 von jedem.</Description>
+		<Description>Erstellt aus organischen Aliensubstanzen hervorragende Proben. Braucht insgesamt 10 Einheiten einer organischen Substanz.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

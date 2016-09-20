@@ -20,6 +20,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Zerlegt eine einzelne durchtränkte Rackete und baut sie zu 8 schnellfeuer Racketen. Jede macht 1/4 des vorherigen Schadens, was zu einer Verdoppelung des Schadens führt.</Description>
+		<Description>Zerlegt eine einzelne befüllte Rakete und baut sie zu 8 Schnellfeuerraketen um. Jede macht 1/4 des vorherigen Schadens, was zu einer Verdoppelung des Gesamtschadens führt.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

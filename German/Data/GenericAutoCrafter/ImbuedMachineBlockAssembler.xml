@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Durchtränkte Maschienenblock montage</FriendlyName>
+	<FriendlyName>Montage für Befüllten Maschinenblock</FriendlyName>
 	<SpawnObject>ImbuedMachineBlockAssembler</SpawnObject>
 	<Value>ImbuedMachineBlockAssembler</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Erzeugt automatisch durchtränke Maschienenblöcke aus Energiebooster Mk5 und fortgeschrittenen Maschinenblöcke.</Description>
+		<Description>Erzeugt automatisch Befüllte Maschinenblöcke aus Energiebooster Mk5 und Fortgeschrittenen Maschinenblöcken.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

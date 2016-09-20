@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Durchlagsgefechtskopf Verbesserung</FriendlyName>
+	<FriendlyName>Gefechtskopfbefüller</FriendlyName>
 	<SpawnObject>PlasmaWarheadImbuer</SpawnObject>
 	<Value>WarheadImbuer</Value>
 			
@@ -20,6 +20,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Imbue ist eine Standart Rakete mit 50k Energie. Sie hat den dreifachen Schaden der Standart Rakete und sieht zudem noch besser aus.</Description>
+		<Description>Füllt eine Standardrakete mit 50k Energie. Sie fügt den dreifachen Schaden einer Standardrakete zu und sieht zudem noch besser aus.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

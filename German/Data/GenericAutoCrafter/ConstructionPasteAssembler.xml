@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Konstruktionspasten Mühle</FriendlyName>
+	<FriendlyName>Bauklebstoff Produktion</FriendlyName>
 	<SpawnObject>ConstructionPasteGrinder</SpawnObject>
 	<Value>ConstructionPasteGrinder</Value>
 			
@@ -109,6 +109,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Wandelt Abfall in Konstruktionspast um. Nutze die Mühle am besten in verbindung zu einem Garbage Thief.</Description>
+		<Description>Wandelt Abfall in Bauklebstoff um. Nutze die Produktionsanlage am besten in Verbindung mit einem Mülldieb.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

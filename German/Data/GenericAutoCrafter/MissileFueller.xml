@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Raketentreibstoffbefüller</FriendlyName>
+	<FriendlyName>Raketenbefüller</FriendlyName>
 	<SpawnObject>MissileFueller</SpawnObject>
 	<Value>MissileFueller</Value>
 			
@@ -25,6 +25,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Befüllt eine standart Rackete mit Hochleistungs Treibstoff.</Description>
+		<Description>Befüllt eine Standardrakete mit Hochleistungstreibstoff.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Plasmaschneidkopf Lader</FriendlyName>
+	<FriendlyName>Plasmaschneidkopffertiger</FriendlyName>
 	<SpawnObject>PlasmaHeadCharger</SpawnObject>
 	<Value>PlasmaHeadCharger</Value>
 			
@@ -20,6 +20,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Füge Enerige hinzu, bis aus einem einfachen Stahlschneidkopf ein leistungsstärkerer Plasmaschneidkopf entsteht.</Description>
+		<Description>Fügt einem einfachen Stahlschneidkopf Energie hinzu, um einen leistungsstärkeren Plasmaschneidkopf zu erstellen.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

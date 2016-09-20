@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Gefreierbomben Montage</FriendlyName>
+	<FriendlyName>Cryobombenmontage</FriendlyName>
 	<SpawnObject>CryoBombAssembler</SpawnObject>
 	<Value>CryoBombAssembler</Value>
 			
@@ -24,6 +24,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Bombe die speziell für die Bomber des FALCORsystem wurde um CryoPlasma auf lange Distanz grossflächig zu bekämpfen.</Description>
+		<Description>Bombe die speziell für Bomber des FALCORsystems entwickelt wurde, um Langstrecken CryoPlasma großflächig zu bekämpfen.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

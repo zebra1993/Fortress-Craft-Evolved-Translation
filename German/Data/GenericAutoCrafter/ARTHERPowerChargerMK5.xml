@@ -23,6 +23,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Erzeugt einen einweg Energiebooster. Gibt ARTHER 2500 Energie, kostet aber 12500 Energie bei der Produktion. Plaziere den Gegenstand in deiner Hotbar um ihn zu nutzen.</Description>
+		<Description>Erzeugt einen einweg Energiebooster. Gibt ARTHER 2500 Energie, kostet aber 12500 Energie in der Produktion. Plaziere den Gegenstand in deiner Schnellzugriffsleiste um ihn zu nutzen.</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>

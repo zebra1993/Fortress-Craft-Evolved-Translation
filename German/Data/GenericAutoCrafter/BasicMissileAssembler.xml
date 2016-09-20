@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<FriendlyName>Grundlegende Racketen Montage</FriendlyName>
+	<FriendlyName>Standardraketen Montage</FriendlyName>
 	<SpawnObject>MissileAssembler</SpawnObject>
 	<Value>BasicMissileAssembler</Value>
 			
@@ -28,6 +28,6 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Kupferrohre, Golddrähte und hochenergetischer Komposittreibstoff werden zu einer grundlegenden Rakete verbaut. Vorsicht Explosiv!</Description>
+		<Description>Kupferrohre, Golddrähte und hochenergetischer Komposittreibstoff werden zu einer Standardrakete verbaut. Vorsicht Explosiv!</Description>
 	</Recipe>
 </GenericAutoCrafterDataEntry>
