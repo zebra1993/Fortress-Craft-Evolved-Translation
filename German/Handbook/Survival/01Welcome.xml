@@ -212,13 +212,13 @@
 					<Name>StorageHopper</Name>
 				</Icon>
 				<Paragraph>
-					<Text>Lagerhopper akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für jede Automatisation von Erzabbau und Schmelzprozesse unverzichtbar.</Text>
+					<Text>Speichertrichter akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für jede Automatisation von Erzabbau und Schmelzprozesse unverzichtbar.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Storage Hopper</Material>
 					</Target>
-					<Text>Lagerhopper</Text>
+					<Text>Speichertrichter</Text>
 				</Link>
 			</Paragraphs>
 			</Page>
