@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Kupferbarren werden zu Kupferplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Kupferbarren werden zu Kupferplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>tin plate</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Zinnbarren werden zu Zinnplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Zinnbarren werden zu Zinnplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>iron plate</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eisenbarren werden zu Eisenplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Eisenbarren werden zu Eisenplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lithium plate</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithiumbarren werden zu Lithiumplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Lithiumbarren werden zu Lithiumplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>gold plate</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Goldbarren werden zu Goldplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Goldbarren werden zu Goldplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>nickel plate</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickelbarren werden zu Nickelplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Nickelbarren werden zu Nickelplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>titanium plate</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanbarren werden zu Titanplatten gestanzt und können zum craften verwendet werden.</Description>
+		<Description>Titanbarren werden zu Titanplatten gestanzt, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 </ArrayOfCraftData>

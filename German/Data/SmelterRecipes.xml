@@ -10,7 +10,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Kupferbarren sind verfeinertes Kupfererz welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Kupferbarren bestehen aus gereinigtem Kupfererz, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>CopperOre</Scan>
 		</ScanRequirements>		
@@ -25,7 +25,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Zinnbarren sind verfeinertes Zinnerz welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Zinnbarren bestehen aus gereinigtem Zinnerz, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>TinOre</Scan>
 		</ScanRequirements>
@@ -40,7 +40,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eisenbarren sind verfeinertes Eisenerz welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Eisenbarren bestehen aus gereinigtem Eisenerz, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>IronOre</Scan>
 		</ScanRequirements>
@@ -55,7 +55,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithiumbarren sind verfeinertes Petalit welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Lithiumbarren bestehen aus gereinigtem Petalit, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>LithiumOre</Scan>
 		</ScanRequirements>
@@ -70,7 +70,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Goldbarren sind verfeinertes Golderz welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Goldbarren bestehen aus gereinigtem Golderz, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>GoldOre</Scan>
 		</ScanRequirements>
@@ -85,7 +85,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickelbarren sind verfeinertes Pentlandit welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Nickelbarren bestehen aus gereinigtem Pentlandit, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>NickelOre</Scan>
 		</ScanRequirements>
@@ -100,7 +100,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanbarren sind verfeinertes Ilmenit welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Titanbarren bestehen aus gereinigtem Ilmenit, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>TitaniumOre</Scan>
 		</ScanRequirements>
@@ -116,7 +116,7 @@
 				<Amount>64</Amount><!-- 16 ore per bar on normal, 100 on greg (I think!)-->
 			</CraftCost>
 		</Costs>
-		<Description>Chrombarren sind verfeinertes Chrmoit welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Chrombarren bestehen aus gereinigtem Chromit, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>ChromiumOre</Scan>
 		</ScanRequirements>
@@ -131,7 +131,7 @@
 				<Amount>64</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Molybdänbarren sind verfeinerter Molybdänglanz welches für Herstellungen genutzt werden kann.</Description>
+		<Description>Molybdänbarren bestehen aus gereinigtem Molybdänglanz, die zum Craften verwendet werden können.</Description>
 		<ScanRequirements>
 			<Scan>MolybdenumOre</Scan>
 		</ScanRequirements>
