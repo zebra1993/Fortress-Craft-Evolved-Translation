@@ -212,7 +212,11 @@
 					<Name>StorageHopper</Name>
 				</Icon>
 				<Paragraph>
+<<<<<<< HEAD
 					<Text>Speichertrichter akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für die Automation von Erzförderung und Schmelzprozessen unverzichtbar.</Text>
+=======
+					<Text>Speichertrichter akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für jede Automatisation von Erzabbau und Schmelzprozesse unverzichtbar.</Text>
+>>>>>>> refs/remotes/origin/master
 				</Paragraph>
 				<Link>
 					<Target>
