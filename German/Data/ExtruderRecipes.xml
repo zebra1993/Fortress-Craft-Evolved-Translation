@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Kupferkabel werden aus Kupferbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Kupferdrähte werden aus Kupferbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>tin wire</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Zinnkabel werden aus Zinnbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Zinndrähte werden aus Zinnbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>iron wire</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eisenkabel werden aus Eisenbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Eisendrähte werden aus Eisenbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lithium wire</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithiumkabel werden aus Lithiumbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Lithiumdrähte werden aus Lithiumbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>gold wire</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Goldkabel werden aus Goldbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Golddrähte werden aus Goldbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>nickel wire</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickelkabel werden aus Nickelbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Nickeldrähte werden aus Nickelbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>titanium wire</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titankabel werden aus Titanbarren extrudiert und können zum craften verwendet werden.</Description>
+		<Description>Titandrähte werden aus Titanbarren extrudiert, die zum Craften verwendet werden können.</Description>
 	</CraftData>
 </ArrayOfCraftData>
