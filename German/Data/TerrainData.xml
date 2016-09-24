@@ -1922,7 +1922,7 @@
 			<tag>Indoor</tag>
 		</tags>
 		<IconName>Geiger</IconName>
-		<Description>This incredibly hard organic structure appears to be shielding a soft and vulnerable core. Only Nano-Disintegrators will be able to cut through this.</Description>
+		<Description>Diese unglaublich harte organische Struktur scheint einen weichen und verletzlichen Kern zu umhüllen und somit zu schützen. Nur Nano-Disintegratoren werden fähigsein durch dieses Material zu kommen</Description>
 		<Hardness>50000</Hardness><!-- Not destroyable by anything that respects hardness-->
 	</TerrainDataEntry>
 
@@ -1982,7 +1982,7 @@
 		</tags>
 		<Hardness>50000</Hardness><!-- CAN be taken out with explosive -->
 		<IconName>CryoPlasm</IconName>
-		<Description>This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We'll need specialist weaponry to deal with this!</Description>
+		<Description>Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</Description>
 		<ResearchValue>32</ResearchValue>
 	</TerrainDataEntry>
 
@@ -2013,7 +2013,7 @@
 		</tags>
 		<Hardness>500000</Hardness><!-- Can NOT be taken out with explosives -->
 		<IconName>CryoPlasm</IconName>
-		<Description>This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We'll need specialist weaponry to deal with this!</Description>
+		<Description>Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden</Description>
 		<ResearchValue>32</ResearchValue>
 	</TerrainDataEntry>
 
@@ -2021,7 +2021,7 @@
 		<CubeType>702</CubeType>
 		<Key>T4CreepLancer</Key>
 		<Name>CryoPlasm Lancer</Name>
-		<Description>Short-range, fast, CryoPlasm defence</Description>
+		<Description>Schnelle kurz Distanz Cryoplasma Verteidigung</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -2048,14 +2048,14 @@
 				<Key>T4CreepLancer</Key>
 				<Name>CryoPlasm Lancer</Name>
 				<IconName>CryoPlasm Lancer</IconName>
-				<Description>Short-range, fast, CryoPlasm defence</Description>
+				<Description>Schnelle kurz Distanz Cryoplasma Verteidigung</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>T4CreepMelter</Key>
 				<Name>CryoPlasm Melter</Name>
 				<IconName>CryoPlasm Melter</IconName>
-				<Description>Melts CryoPlasm at a medium range. Useful only when paired with other types of defence.</Description>			
+				<Description>Schmiltzt CryoPlasma auf mittlere Distanz. Nur nutzvoll wenn zusammen mit anderen Verteidigungssystemen genutzt.</Description>			
 			</ValueEntry>
 		</Values>
 	</TerrainDataEntry>
@@ -2064,7 +2064,7 @@
 		<CubeType>704</CubeType>
 		<Key>T4CreepBurner</Key>
 		<Name>CryoPlasm Dazzler Turret</Name>
-		<Description>Long-range, fast, CryoPlasm defence. Can only work in straight lines. Requires 250k power to trigger.</Description>
+		<Description>Schnelle lang Distanz CryoPlasma verteidigung. Kann nur in gerader Linie wirken. Braucht 250k Energie um zu feuern.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -2152,7 +2152,7 @@
 				<Name>Partially Ablated Resin</Name>
 				<IconName>Partially Ablated Resin</IconName>
 				<ResearchValue>5</ResearchValue>
-				<Description>The tough outer coating has been ablated; we should now be able to liquidise the soft inner core.</Description>
+				<Description>Die zähe Hülle wurde abgetragen, wir sollten fähig sein den weichen Kern zu verflüssigen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
@@ -2160,7 +2160,7 @@
 				<Name>Ablated Resin</Name>
 				<IconName>Ablated Resin</IconName>
 				<ResearchValue>20</ResearchValue>
-				<Description>The tough outer coating has been ablated; we should now be able to liquidise the soft inner core.</Description>
+				<Description>Die zähe Hülle wurde abgetragen, wir sollten fähig sein den weichen Kern zu verflüssigen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
@@ -2168,7 +2168,7 @@
 				<Name>Liquified Resin</Name>
 				<IconName>Liquified Resin</IconName>
 				<ResearchValue>20</ResearchValue>
-				<Description>The resin has now been liquified, and can be collected.</Description>
+				<Description>Das Harz wurde verflüssigt und kann nun eingesammelt werden.</Description>
 			</ValueEntry>
 		</Values>
 
@@ -5157,7 +5157,7 @@
 				<Name>Diamond Crystal</Name>
 				<IconName>Diamond Crystal</IconName>
 				<ResearchValue>18</ResearchValue>
-				<Description>These low-level crystals can be polished up and used in a variety of lenses and other useful items.</Description>
+				<Description>Diese niederwertigen Kristalle können poliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
@@ -5165,7 +5165,7 @@
 				<Name>Emerald Crystal</Name>
 				<IconName>Emerald Crystal</IconName>
 				<ResearchValue>20</ResearchValue>
-				<Description>These low-level crystals can be polished up and used in a variety of lenses and other useful items.</Description>
+				<Description>Diese niederwertigen Kristalle können poliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
@@ -5173,7 +5173,7 @@
 				<Name>Ruby Crystal</Name>
 				<IconName>Ruby Crystal</IconName>
 				<ResearchValue>25</ResearchValue>
-				<Description>These low-level crystals can be polished up and used in a variety of lenses and other useful items.</Description>
+				<Description>Diese niederwertigen Kristalle können poliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
@@ -5181,7 +5181,7 @@
 				<Name>Sapphire Crystal</Name>
 				<IconName>Sapphire Crystal</IconName>
 				<ResearchValue>30</ResearchValue>
-				<Description>These medium-level crystals can be polished up and used in a variety of lenses and other useful items.</Description>
+				<Description>Diese mittelwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
@@ -5189,7 +5189,7 @@
 				<Name>Topaz Crystal</Name>
 				<IconName>Topaz Crystal</IconName>
 				<ResearchValue>35</ResearchValue>
-				<Description>These high-level crystals can be polished up and used in a variety of lenses and other useful items.</Description>
+				<Description>Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
@@ -5197,7 +5197,7 @@
 				<Name>Sugalite Crystal</Name>
 				<IconName>Sugalite Crystal</IconName>
 				<ResearchValue>40</ResearchValue><!-- More than this requires more power than the RB can hold!-->
-				<Description>These high-level crystals can be polished up and used in a variety of lenses and other useful items, and have a number of amazing properties. Go get some more!</Description>
+				<Description>Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -5349,7 +5349,7 @@
 				<Name>Orange GlowPod</Name>
 				<IconName>Orange GlowPod</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This doesn't appear to be very useful.</Description>
+				<Description>Dies scheint nicht wirklich nutzvoll zu sein.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
@@ -5357,7 +5357,7 @@
 				<Name>Blue GlowPod</Name>
 				<IconName>Blue GlowPod</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. Maybe moving slightly deeper could yield something useful?</Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. Vielleicht ein wenig tiefer könnte sich etwas nützliches verbergen?</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
@@ -5365,7 +5365,7 @@
 				<Name>Green GlowPod</Name>
 				<IconName>Green GlowPod</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to contain strong filters to deal with a toxic atmosphere. Maybe moving slightly deeper could yield something useful?</Description>
+				<Description>Diese Pflanze scheint starke Filter zu haben um mit dieser toxischen Atmospäre klar zu kommen. Vielleicht ein wenig tiefer könnte sich etwas nützliches verbergen?</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
@@ -5373,7 +5373,7 @@
 				<Name>Purple GlowPod</Name>
 				<IconName>Purple GlowPod</IconName>
 				<ResearchValue>3</ResearchValue>
-				<Description>This doesn't appear to be very useful.</Description>
+				<Description>Dies scheint nicht wirklich nutzvoll zu sein.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
@@ -5381,7 +5381,7 @@
 				<Name>GlowShroom</Name>
 				<IconName>GlowShroom</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This doesn't appear to be very useful.</Description>
+				<Description>Dies scheint nicht wirklich nutzvoll zu sein.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
@@ -5389,7 +5389,7 @@
 				<Name>BaubleBerry</Name>
 				<IconName>BaubleBerry</IconName>
 				<ResearchValue>1</ResearchValue>
-				<Description>This doesn't appear to be very useful.</Description>
+				<Description>Dies scheint nicht wirklich nutzvoll zu sein.</Description>
 			</ValueEntry>
 			
 			<ValueEntry>
@@ -5398,7 +5398,7 @@
 				<Name>Cold Cavern Flora 1</Name>
 				<IconName>Cold Cavern Flora 1</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>12</Value>
@@ -5406,7 +5406,7 @@
 				<Name>Cold Cavern Flora 2</Name>
 				<IconName>Cold Cavern Flora 2</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>13</Value>
@@ -5414,7 +5414,7 @@
 				<Name>Cold Cavern Flora 3</Name>
 				<IconName>Cold Cavern Flora 3</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>14</Value>
@@ -5422,7 +5422,7 @@
 				<Name>Cold Cavern Flora 4</Name>
 				<IconName>Cold Cavern Flora 4</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>15</Value>
@@ -5430,7 +5430,7 @@
 				<Name>Cold Cavern Flora 5</Name>
 				<IconName>Cold Cavern Flora 5</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>16</Value>
@@ -5438,7 +5438,7 @@
 				<Name>Cold Cavern Flora 6</Name>
 				<IconName>Cold Cavern Flora 6</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
@@ -5446,7 +5446,7 @@
 				<Name>Cold Cavern Flora 7</Name>
 				<IconName>Cold Cavern Flora 7</IconName>
 				<ResearchValue>2</ResearchValue>
-				<Description>This plant seems to thrive in the colder atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			
 			<ValueEntry>
@@ -5455,7 +5455,7 @@
 				<Name>Toxic Cavern Flora 1</Name>
 				<IconName>Toxic Cavern Flora 1</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 
 			<ValueEntry>
@@ -5464,7 +5464,7 @@
 				<Name>Toxic Cavern Flora 2</Name>
 				<IconName>Toxic Cavern Flora 2</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>23</Value>
@@ -5472,7 +5472,7 @@
 				<Name>Toxic Cavern Flora 3</Name>
 				<IconName>Toxic Cavern Flora 3</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>24</Value>
@@ -5480,7 +5480,7 @@
 				<Name>Toxic Cavern Flora 4</Name>
 				<IconName>Toxic Cavern Flora 4</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>25</Value>
@@ -5488,7 +5488,7 @@
 				<Name>Toxic Cavern Flora 5</Name>
 				<IconName>Toxic Cavern Flora 5</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>26</Value>
@@ -5496,7 +5496,7 @@
 				<Name>Toxic Cavern Flora 6</Name>
 				<IconName>Toxic Cavern Flora 6</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>27</Value>
@@ -5504,7 +5504,7 @@
 				<Name>Toxic Cavern Flora 7</Name>
 				<IconName>Toxic Cavern Flora 7</IconName>
 				<ResearchValue>4</ResearchValue>
-				<Description>This plant seems to thrive in the toxic atmosphere. </Description>
+				<Description>Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen. </Description>
 			</ValueEntry>
 		</Values>
 		<DefaultValue>0</DefaultValue>
@@ -5732,28 +5732,28 @@
 				<Key>EmergencySiren</Key>
 				<Name>Emergency Siren</Name>
 				<IconName>Emergency Siren</IconName>
-				<Description>Attach to a machine to monitor it..</Description>
+				<Description>An einer Maschiene anbringen um diese zu Überwachen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>OrangeWarningLight</Key>
 				<Name>Orange Warning Light</Name>
 				<IconName>Orange Warning Light</IconName>
-				<Description>Attach to a machine to monitor it.</Description>
+				<Description>An einer Maschiene anbringen um diese zu Überwachen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>RedWarningLight</Key>
 				<Name>Red Warning Light</Name>
 				<IconName>Red Warning Light</IconName>
-				<Description>Attach to a machine to monitor it.</Description>
+				<Description>An einer Maschiene anbringen um diese zu Überwachen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>WarningStrobe</Key>
 				<Name>Warning Strobe</Name>
 				<IconName>Warning Strobe</IconName>
-				<Description>Attach to a machine to monitor it.</Description>
+				<Description>An einer Maschiene anbringen um diese zu Überwachen.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -6452,7 +6452,7 @@
 		<CubeType>502</CubeType>
 		<Key>CentralPowerHub</Key>
 		<Name>Central Power Hub</Name>
-		<Description>Generates a little energy.\nCan burn resources for energy.\nCharges adjacent structures.</Description>
+		<Description>Prodiziert en bischen Energie.\nKann Rescourcen in Energie umwandeln.\nVersorgt angrenzende Strukturen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>185</TopTexture>
 		<SideTexture>185</SideTexture>
@@ -6478,7 +6478,7 @@
 		<CubeType>503</CubeType>
 		<Key>OreExtractor</Key>
 		<Name>Ore Extractor</Name>
-		<Description>Efficiently extracts ore.\nStores 25 Ore.\nExtracts 1 Ore/min.</Description>
+		<Description>Extrahiert effizient Erz.\nLagert 25 Erz.\nExtrahiert 1 Erz/min.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>191</TopTexture>
 		<SideTexture>191</SideTexture>
@@ -6510,28 +6510,28 @@
 				<Key>PowerStorageMK1</Key>
 				<Name>Power Storage Block</Name>
 				<IconName>PowerStorageBlock</IconName>
-				<Description>Stores a little energy.\nReceives energy from other sources.\nTransfers energy to other machines.</Description>
+				<Description>Speichert ein bischen Energie.\nEmpfängt Energie von anderen Quellen.\nGibt Energie an andere Maschienen ab.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>PowerStorageMK2</Key>
 				<Name>Power Storage MK2</Name>
 				<IconName>PowerStorageBlockT2</IconName>
-				<Description>Stores more energy.\nReceives energy from other sources.\nTransfers energy to other machines.</Description>
+				<Description>Speichert mehr Energie.\nEmpfängt Energie von anderen Quellen.\nGibt Energie an andere Maschienen ab.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>PowerStorageMK3</Key>
 				<Name>Power Storage MK3</Name>
 				<IconName>PowerStorageBlockT3</IconName>
-				<Description>Stores more energy.\nReceives energy from other sources.\nTransfers energy to other machines.</Description>
+				<Description>Speichert mehr Energie.\nEmpfängt Energie von anderen Quellen.\nGibt Energie an andere Maschienen ab.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>OrganicPowerStorage</Key>
 				<Name>Organic Power Storage</Name>
 				<IconName>Organic Power Storage</IconName>
-				<Description>Can only transfer energy slowly.</Description>
+				<Description>Kann Energie nur langsam transferieren.</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -6564,35 +6564,36 @@
 				<Key>StorageHopper</Key>
 				<Name>StorageHopper</Name>
 				<IconName>StorageHopper</IconName>
-				<Description>Stores 100 Items.\nAuto transfers.\nUse E to alter transfer type.</Description>
+				<Description>Lagert 100 Dinge.\nTransferiert selbständig.\nNutze E um Transferverhalten zu ändern.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>LogisticsHopper</Key>
 				<Name>LogisticsHopper</Name>
 				<IconName>LogisticsHopper</IconName>
-				<Description>Auto transfers 1 item per 10s.</Description>
+				<Description>Transfereirt autmoatisch 1 Gegenstand je 10 s.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>MiniHopper</Key>
 				<Name>MiniHopper</Name>
 				<IconName>MiniHopper</IconName>
-				<Description>Auto transfers 1 item per 30s.</Description>
+				<Description>Transfereirt autmoatisch 1 Gegenstand je 30 s.</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>3</Value>
 				<Key>CryoHopper</Key>
 				<Name>CryoHopper</Name>
 				<IconName>CryoHopper</IconName>
-				<Description>Keeps items cold. Needs Power. More efficient if placed somewhere cold.</Description>
+				<Description>Hält dinge Kalt.\nBraucht Energie Keeps items cold.\nEffizienter in kalter Umgebung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>MotorisedLogisticsHopper</Key>
 				<Name>Motorised Logistics Hopper</Name>
 				<IconName>Motorised Logistics Hopper</IconName>
-				<Description>Not implemented because the conveyor belt is the limiting factor, not the hopper. Ooops.</Description>
+				<Description>Nicht Implementiert weil das Förderband der Limitierende Faktor ist nicht der Trichter. Hoppla</Description> <!--> Wurde der vollständigkeit halber übersetzt<-->
+				<!-- Not implemented because the conveyor belt is the limiting factor, not the hopper. Ooops.--> 
 			</ValueEntry>
 		</Values>
 		
@@ -6628,7 +6629,7 @@
 				<Key>FALCORBomber</Key>
 				<Name>Bomber FALCOR</Name>
 				<IconName>FALCOR Bomber</IconName>
-				<Description>Drops crafted bombs, long range, onto dense creep.</Description>
+				<Description>Wirft auf grosse Distanz hergestellte Bomben auf dichte Creep ab.</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -6663,14 +6664,14 @@
 				<Key>FALCORMk1</Key>
 				<Name>FALCOR MK1</Name>
 				<IconName>FALCOR MK1</IconName>
-				<Description>Collects Dropped Loot from FALCOR Beacons and returns it.\nNeeds attached storage hopper.</Description>
+				<Description>Sammelt Beute von FALCOR Leuchtfeuern und bringt diese zurück.\nBraucht angrenzenden Lagerhopper.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>FALCORMk2</Key>
 				<Name>Logistics FALCOR</Name>
 				<IconName>FALCOR MK2</IconName>
-				<Description>Collects items from FALCOR Beacons attached to remote Storage Hoppers and returns it.\nNeeds attached storage hopper.</Description>
+				<Description>Sammelt Gegenstände von FALCOR Leuchtfeuern an entfernten Lagerhopper'n und brigt diese zurück.\nBraucht angeschlossenen Lagerhopper.</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -6758,28 +6759,28 @@
 				<Key>BasicLaserEnergyTransmitter</Key>
 				<Name>Basic Laser Energy Transmitter</Name>
 				<IconName>Basic Laser Energy Transmitter</IconName>
-				<Description>Transmits power slowly over distances.\nMax dist 32.\nUpgrade ASAP.</Description>
+				<Description>Überträgt Energie langsam auf Distanz.\nMax Dist 32.\nMöglichst bald ersetzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>0</Value>
 				<Key>LaserEnergyTransmitterMK1</Key>
 				<Name>Laser Energy Transmitter MK1</Name>
 				<IconName>Laser Energy Transmitter</IconName>
-				<Description>Transmits power over distances.\nMax dist 64.\nAim at batteries.</Description>
+				<Description>Überträgt Energie auf Distanz.\nMax Dist 64.\nAuf Batterien richten.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>LaserEnergyTransmitterMK2</Key>
 				<Name>Laser Energy Transmitter MK2</Name>
 				<IconName>Laser Energy Transmitter MK2</IconName>
-				<Description>Transmits even more power!</Description>
+				<Description>Überträgt noch mehr Energie!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>LaserEnergyTransmitterMK3</Key>
 				<Name>Laser Energy Transmitter MK3</Name>
 				<IconName>Laser Energy Transmitter MK3</IconName>
-				<Description>The largest single-block energy transmitter.</Description>
+				<Description>Grösster Einblock Enerige übertrager.</Description>
 			</ValueEntry>
 		</Values>
 		<DefaultValue>0</DefaultValue>			
@@ -6810,7 +6811,7 @@
 		<Key>LogicLaserEmitter</Key>
 		<Name>Logic Laser Emitter</Name>
 		<LayerType>PrimaryTerrain</LayerType>
-		<Description>Creative Laser Machine.\nUnimplemented</Description>
+		<Description>Creativ Laser Maschiene.\nNicht Implementiert</Description> <!-->DO IT DJ, YOU CAN DO IT!!<-->
 		<TopTexture>190</TopTexture>
 		<SideTexture>190</SideTexture>
 		<BottomTexture>190</BottomTexture>
@@ -7023,7 +7024,7 @@
 		<CubeType>508</CubeType>
 		<Key>BFL9000</Key>
 		<Name>BFL-9000</Name>
-		<Description>Massive Mining Laser.\nCuts 5x5 tunnel.\nMassive energy demands.</Description>
+		<Description>Massiver Minen Laser.\nSchneidet 5x5 Tunnel.\nMassiv Energie hungrig!</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>183</TopTexture>
 		<SideTexture>183</SideTexture>
@@ -7048,7 +7049,7 @@
 		<CubeType>509</CubeType>
 		<Key>PyrothermicGenerator</Key>
 		<Name>Pyrothermic Generator</Name>
-		<Description>Burns fuel for energy.\nBurns 1 fuel unit/minute.</Description>
+		<Description>Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -7073,7 +7074,7 @@
 		<CubeType>506</CubeType>
 		<Key>SolarPanel</Key>
 		<Name>Solar Panel</Name>
-		<Description>Generates energy in daylight\nCharges adjacent batteries.</Description>
+		<Description>Generiert Energie aus Tageslicht\nLädt angrenzende Batterien.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>194</TopTexture>
 		<SideTexture>194</SideTexture>
@@ -7100,14 +7101,14 @@
 				<Key>SolarPanelMk1</Key>
 				<Name>Solar Panel</Name>
 				<IconName>Solar Panel</IconName>
-				<Description>Generates energy in daylight\nCharges adjacent batteries.</Description>
+				<Description>Generiert Energie aus Tageslicht\nLädt angrenzende Batterien.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>OrganicSolarPanel</Key>
 				<Name>Organic Solar Panel</Name>
 				<IconName>Organic Solar Panel</IconName>
-				<Description>Generates a minor amount of energy during the night, from Novalight.\nCharges adjacent batteries.</Description>
+				<Description>Generiert einen kleinen Teil Energie auch bei Nacht durch Sternenlicht.\nLädt angrenzende Batterien.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -7116,7 +7117,7 @@
 		<CubeType>510</CubeType>
 		<Key>AIMoverControl</Key>
 		<Name>AI Mover Control</Name>
-		<Description>Creates a single AI robot.\nMoves ore between Hoppers.\nLow effort, low efficiency.</Description>
+		<Description>Erzeugt einen einzelnen KI Roboter.\nVerschiebt Erze zwischen Hoppern.\nGeringer Aufwand, wenig Effizienz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>193</TopTexture>
 		<SideTexture>193</SideTexture>
@@ -7141,7 +7142,7 @@
 		<CubeType>511</CubeType>
 		<Key>MatterMover</Key>
 		<Name>Matter Mover</Name>
-		<Description>Best used if you have a surplus of power.</Description>
+		<Description>Am nutzvollsten wenn Einergieüberschuss vorhanden ist.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -7164,28 +7165,28 @@
 				<Key>MatterMover</Key>
 				<Name>Basic Matter Mover</Name>
 				<IconName>Matter Mover</IconName>
-				<Description>Transmits upto 150 items/min at a range of 64m</Description>
+				<Description>Überträgt bis zu 150 Dinge/min auf 64m Entfernung</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>DualMatterMover</Key>
 				<Name>Dual Matter Mover</Name>
 				<IconName>Dual Matter Mover</IconName>
-				<Description>Tranmits upto 300 items/min at a range of 32m</Description>
+				<Description>Überträgt bis zu 300 Dinge/min auf 32m Entfernung</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>QuadMatterMover</Key>
 				<Name>Quad Matter Mover</Name>
 				<IconName>Quad Matter Mover</IconName>
-				<Description>Tranmits upto 600 items/min at a range of 16m</Description>
+				<Description>Überträgt bis zu 600 Dinge/min auf 16m Entfernung</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>MultiMatterMover</Key>
 				<Name>Multi Matter Mover</Name>
 				<IconName>Multi Matter Mover</IconName>
-				<Description>Tranmits upto 4800 items/min at a range of 4m</Description>
+				<Description>Überträgt bis zu 4800 Dinge/min auf 4m Entfernung</Description>
 			</ValueEntry>
 		</Values>
 		<tags>
@@ -7222,14 +7223,14 @@
 				<Key>StandardOreSmelter</Key>
 				<Name>Ore Smelter</Name>
 				<IconName>Ore Smelter</IconName>
-				<Description>This is your primary method for generating Ingots of resources.</Description>
+				<Description>Dies ist deine Hauptmethode Barren aus Rescourcen herzustellen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>BasicOreSmelter</Key>
 				<Name>Basic Ore Smelter</Name>
 				<IconName>Basic Ore Smelter</IconName>
-				<Description>Half the speed and efficiency of a normal Smelter. Cannot be upgraded.</Description>
+				<Description>Halb so schnell und Effizient wie der normale Schmelzofen. Kann nicht verbessert werden</Description>
 				<Hardness>100</Hardness>
 			</ValueEntry>
 		</Values>
@@ -7244,42 +7245,42 @@
 				<Key>ForcedInductionMK1</Key>
 				<Name>Forced Induction</Name>
 				<IconName>Forced Induction</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>ForcedInductionMK2</Key>
 				<Name>MK2 Forced Induction</Name>
 				<IconName>Forced InductionT2</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>ForcedInductionMK3</Key>
 				<Name>MK3 Forced Induction</Name>
 				<IconName>Forced InductionT3</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>ForcedInductionMK4</Key>
 				<Name>MK4 Forced Induction</Name>
 				<IconName>Forced InductionT4</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>ForcedInductionMK5</Key>
 				<Name>MK5 Forced Induction</Name>
 				<IconName>Forced InductionT5</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>ForcedInductionMK6</Key>
 				<Name>ARC Smelter Upgrade</Name>
 				<IconName>Forced InductionT6</IconName>
-				<Description>Increases Ore Smelting rate and power usage.\nPlace on TOP of Ore Smelters.</Description>
+				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -7315,56 +7316,56 @@
 				<Key>BasicConveyorBelt</Key>
 				<Name>Basic Conveyor Belt</Name>
 				<IconName>Basic Conveyor Belt</IconName>
-				<Description>Slowly transfers materials from Hoppers</Description>
+				<Description>Transportiert Materialien langsam vom Hopper weg.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>0</Value>
 				<Key>RegularConveyorBelt</Key>
 				<Name>Conveyor Belt</Name>
 				<IconName>Conveyor Belt</IconName>
-				<Description>Transfers materials from Hoppers</Description>
+				<Description>Transportiert Materialien vom Hopper weg</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>ConveyorBeltFilter</Key>
 				<Name>Conveyor Belt Filter</Name>
 				<IconName>Conveyor Belt Filter</IconName>
-				<Description>Removes materials based on rules</Description>
+				<Description>Entfernt Materialien regelbasierend</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>TransportPipe</Key>
 				<Name>Transport Pipe</Name>
 				<IconName>Transport Pipe</IconName>
-				<Description>Allows transfer in all directions</Description>
+				<Description>Erlaubt transport in alle Richtungen</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>TransportPipeFilter</Key>
 				<Name>Transport Pipe Filter</Name>
 				<IconName>Transport Pipe Filter</IconName>
-				<Description>Removes materials based on rules</Description>
+				<Description>Entfernt Materialien regelbasierend</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>StamperPlant</Key>
 				<Name>Stamper Plant</Name>
 				<IconName>Stamper Plant</IconName>
-				<Description>Turn Bars into Plates</Description>
+				<Description>Verarbeitet Barren zu Platten</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>ExtrusionPlant</Key>
 				<Name>Extrusion Plant</Name>
 				<IconName>Extrusion Plant</IconName>
-				<Description>Turn Bars into Wires</Description>
+				<Description>Verarbeitet Barren zu Drähten</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>6</Value>
 				<Key>CoilerPlant</Key>
 				<Name>Coiler Plant</Name>
 				<IconName>Coiler Plant</IconName>
-				<Description>Turns Wires into Coils</Description>
+				<Description>Verarbeitet Drähte zu Spulen.</Description>
 			</ValueEntry>	
 			<!--
 			<ValueEntry>
@@ -7378,7 +7379,7 @@
 			<Value>8</Value>
 				<Key>PipeExtrusionPlant</Key>
 				<Name>Pipe Extrusion Plant</Name>
-				<Description>Turns Bars into Pipes</Description>
+				<Description>Verarbeitet Barren zu Rohre</Description>
 				<IconName>Pipe Extrusion Plant</IconName>
 			</ValueEntry>
 			<ValueEntry>
@@ -7386,42 +7387,42 @@
 				<Key>PCBAssemblingPlant</Key>
 				<Name>PCB Assembling Plant</Name>
 				<IconName>PCB Assembling Plant</IconName>
-				<Description>Turns Coils into PCBs</Description>
+				<Description>Verarbeitet Spulen zu Leiterplatten</Description>
 			</ValueEntry>	
 			<ValueEntry>
 			<Value>10</Value>
 				<Key>ConveyorTurntable</Key>
 				<Name>Conveyor Turntable</Name>
 				<IconName>Conveyor Turntable</IconName>
-				<Description>Automatically distributes items</Description>
+				<Description>Verteilet Dinge automatisch</Description>
 			</ValueEntry>
 			<ValueEntry>
 			<Value>12</Value>
 				<Key>AdvancedConveyorFilter</Key>
 				<Name>Advanced Conveyor Filter</Name>
 				<IconName>Advanced Conveyor Filter</IconName>
-				<Description>Filters specific items at T2 Pipe speeds</Description>
+				<Description>Filtert spezifische Dinge mit T2 Rohr Geschwindigkeit</Description>
 			</ValueEntry>
 			<ValueEntry>
 			<Value>13</Value>
 				<Key>UpSlopedConveyor</Key>
 				<Name>Up Sloped Conveyor</Name>
 				<IconName>Up Sloped Conveyor</IconName>
-				<Description>Upward sloped, basic speed conveyor!</Description>
+				<Description>Aufwärtsgeneigtes Normalschnelles Förderband!</Description>
 			</ValueEntry>
 			<ValueEntry>
 			<Value>14</Value>
 				<Key>DownSlopedConveyor</Key>
 				<Name>Down Sloped Conveyor</Name>
 				<IconName>Down Sloped Conveyor</IconName>
-				<Description>Downward sloped, basic speed conveyor!</Description>
+				<Description>Abwärtsgeneigtes Normalschnelles Förderband!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>15</Value>
 				<Key>MotorisedConveyor</Key>
 				<Name>Motorised Conveyor</Name>
 				<IconName>Motorised Conveyor</IconName>
-				<Description>Extracts items from a hopper at upto 150 per minute!</Description>
+				<Description>Entnimmt Dinge von einem Hopper mit bis zu 150 Dinge/min!</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -7455,21 +7456,21 @@
 				<Key>ZipperMerge</Key>
 				<Name>Zipper Merge</Name>
 				<IconName>Zipper Merge</IconName>
-				<Description>Combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
+				<Description>Kombiniert 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>1</Value>
 				<Key>ZipperMerge3n1</Key>
 				<Name>3'n1 Zipper Merge</Name>
 				<IconName>Zipper Merge 3n1</IconName>
-				<Description>Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!</Description>
+				<Description>Verbindet schnell 2 Linien zu 1 mit RRR L verhalten. Macht Forschungspod Montage zum Kinderpsiel!</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>2</Value>
 				<Key>ZipperMergeFast</Key>
 				<Name>Rapid Zipper Merge</Name>
 				<IconName>Zipper Merge Fast</IconName>
-				<Description>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.</Description>
+				<Description>Kombiniert schnell 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</Description>
 			</ValueEntry>
 		</Values>
 
@@ -7507,35 +7508,35 @@
 				<Key>MinecartDepot</Key>
 				<Name>Minecart Depot</Name>
 				<IconName>Minecart Depot</IconName>
-				<Description>Places a Minecart from an attached Storage Hopper </Description>
+				<Description>Plaziert eine Lore aus einem angrenzenden Lagerhopper </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>MinecartBrake</Key>
 				<Name>Minecart Brake</Name>
 				<IconName>Extrusion Plant</IconName>
-				<Description>Reduce the Minecart's speed</Description>
+				<Description>Bremst eine Lore</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>MinecartTurboRail</Key>
 				<Name>Minecart Turbo Rail</Name>
 				<IconName>Minecart Turbo Rail</IconName>
-				<Description>Increase the Minecart's speed</Description>
+				<Description>Beschleunigt eine Lore</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>MinecartUnloadStation</Key>
 				<Name>Minecart Unload Station</Name>
 				<IconName>Minecart Unload</IconName>
-				<Description>Place resources from Cart into attached Hoppers</Description>
+				<Description>Entlädt die Lore in einen angrenzenden Lagerhopper</Description>
 			</ValueEntry>	
 			<ValueEntry>
 			<Value>4</Value>
 				<Key>MinecartLoadStation</Key>
 				<Name>Minecart Load Station</Name>
 				<IconName>Minecart Load</IconName>
-				<Description>Place resources on the Cart from attached Hoppers</Description>
+				<Description>Befüllt die Lore aus einem angrenzenden Lagerhopper</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -7569,42 +7570,42 @@
 				<Key>TrackStraight</Key>
 				<Name>Track Straight</Name>
 				<IconName>Track Straight</IconName>
-				<Description>Allows Minecarts to travel in a straight line.</Description>
+				<Description>Erlabut es Loren in gerader Linie zu fahren.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>TrackCorner</Key>
 				<Name>Track Corner</Name>
 				<IconName>Track Corner</IconName>
-				<Description>Allows Minecarts to travel around corners.</Description>
+				<Description>Erlaubt Loren um Ecken zu fahren.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>TrackSlope</Key>
 				<Name>Track Slope</Name>
 				<IconName>Track Slope</IconName>
-				<Description>Allows Minecarts to travel around up slopes.</Description>
+				<Description>Erlaubt es Loren Steigungen zu erklimmen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>MinecartBuffer</Key>
 				<Name>Minecart Buffer</Name>
 				<IconName>MinecartBuffer</IconName>
-				<Description>Turns the Minecart around</Description>
+				<Description>Dreht Loren um</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>MinecartBufferFull</Key>
 				<Name>Minecart Full Gate</Name>
 				<IconName>MinecartBufferFull</IconName>
-				<Description>Minecarts following the RED arrow will turn around unless FULL. GREEN is freely passable.</Description>
+				<Description>Loren folgen dem ROTEN solange sie nicht VOLL sind. GRÜN ist frei passierbar.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>MinecartBufferEmpty</Key>
 				<Name>Minecart Empty Gate</Name>
 				<IconName>MinecartBufferEmpty</IconName>
-				<Description>Minecarts following the RED arrow will turn around unless EMPTY. GREEN is freely passable.</Description>
+				<Description>Loren folgen dem ROTEN solange sie nicht LEER sind. GRÜN ist frei passierbar.</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -7632,7 +7633,7 @@
 		<CubeType>514</CubeType>
 		<Key>ResearchStation</Key>
 		<Name>Research Station</Name>
-		<Description>Process scans and research\ntechnologies. Requires power.</Description>
+		<Description>Verabrbeitet Scan's und Forschung\nTechnoligien. Braucht Energie.</Description>
 		<DefaultValue>0</DefaultValue>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
@@ -7666,21 +7667,21 @@
 				<Key>BasicMissileAssemblerOld</Key>
 				<Name>Basic Missile Assembler(OLD)</Name>
 				<IconName>Basic Missile Assembler</IconName>
-				<Description>Crafts Missiles from Fuel, Tubes and Wire.</Description>
+				<Description>Stellt Raketen aus Treibstoff, Röhren und Drähten her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>OrganicReassemblerOld</Key>
 				<Name>Organic Reassembler(OLD)</Name>
 				<IconName>Organic Reassembler</IconName>
-				<Description>Crafts Ruined Organic Components.</Description>
+				<Description>Stellt Ruinirte Organische Komponenten her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>CoalEnricherOld</Key>
 				<Name>Coal Enricher(OLD)</Name>
 				<IconName>Coal Enricher</IconName>
-				<Description>Slowly Enriches Coal.</Description>
+				<Description>Reichert Kohle langsam an.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -7717,245 +7718,245 @@
 				<Key>BasicMissileAssembler</Key>
 				<Name>Basic Missile Assembler</Name>
 				<IconName>Basic Missile Assembler</IconName>
-				<Description>Crafts Missiles from Fuel, Tubes and Wire.</Description>
+				<Description>Stellt Raketen aus Treibstoff, Röhren und Drähten her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>OrganicReassembler</Key>
 				<Name>Organic Reassembler</Name>
 				<IconName>Organic Reassembler</IconName>
-				<Description>Crafts Ruined Organic Components.</Description>
+				<Description>Stellt Ruinirte Organische Komponenten her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>CoalEnricher</Key>
 				<Name>Coal Enricher</Name>
 				<IconName>Coal Enricher</IconName>
-				<Description>Slowly Enriches Coal.</Description>
+				<Description>Reichert Kohle langsam an.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>PlasmaHeadCharger</Key>
 				<Name>Plasma Head Charger</Name>
 				<IconName>Compressor</IconName><!-- 	Temp -->
-				<Description>Imbues Steel Heads with energy.</Description>
-			</ValueEntry>
+				<Description>Durchtränkt Stahlschneidköpfe mit Energie.</Description>
+				</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>PipeCoater</Key>
 				<Name>Pipe Coater</Name>
 				<IconName>Pipe Coater</IconName><!-- 	Temp -->
-				<Description>Creates heat conductive pipes.</Description>
+				<Description>Erzeugt Wärmeleitenderohre.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>MeshWeaver</Key>
 				<Name>Mesh Weaver</Name>
 				<IconName>Mesh Weaver</IconName><!-- 	Temp -->
-				<Description>Weaves meshes from crystal fibers.</Description>
+				<Description>Webt Gewebe aus Kristallfasern.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>6</Value>
 				<Key>EmptyMissileAssembler</Key>
 				<Name>Empty Missile Assembler</Name>
 				<IconName>Basic Missile Assembler</IconName>
-				<Description>Crafts Empty Missiles from High Energy Composite Fuel, Copper Pipes and Gold Wire.</Description>
+				<Description>Stellt Raketen aus Treibstoff, Röhren und Drähten her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>7</Value>
 				<Key>MissileFueller</Key>
 				<Name>Missile Fueller</Name>
 				<IconName>Missile Fueller</IconName>
-				<Description>Fills Empty Missiles with High Energy Composite Fuel.</Description>
+				<Description>Befüllt leere Raketen mit Hochenergiekomposit Treibstoff.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>8</Value>
 				<Key>ArmourPiercingWarheadFitter</Key>
 				<Name>Armour Piercing Warhead Fitter</Name>
 				<IconName>Warhead Fitter</IconName>
-				<Description>Uses Pristine Stingers to fit Armour-Piercing rounds.</Description>
+				<Description>Nutzt Hervorragende Stachel um Panzerbrechendemunition herzustellen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>9</Value>
 				<Key>WarheadImbuer</Key>
 				<Name>Warhead Imbuer</Name>
 				<IconName>Warhead Imbuer</IconName>
-				<Description>Imbues Basic Missiles with Plasma-Enriched energy.</Description>
+				<Description>Durchtränkt Grundlegende Raketen mit Plasma angereicherter Energie.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>10</Value>
 				<Key>SpiderBotCoreCharger</Key>
 				<Name>SpiderBot Core Charger</Name>
 				<IconName>SpiderBot Core Charger</IconName>
-				<Description>Imbues Lithium Coils with Energy. Feed into the SpiderBot Upgrade and Recharge Dock via a Storage Hopper.</Description>
+				<Description>Durchtränkt Lithiumspulen mit Energie. Der Spiderbot Verbesserungs- und Aufladestation zuführen durch einen Lagerhopper.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>11</Value>
 				<Key>LiquidResinRefiner</Key>
 				<Name>Liquid Resin Refiner</Name>
 				<IconName>Liquid Resin Refiner</IconName>
-				<Description>Refine Liquid Resin into the spectacularly useful Refined Liquid Resin.</Description>
+				<Description>Raffiniert Verflüssiges Harz zu Spektatulär nutzvollem Raffiniertem Harz.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>12</Value>
 				<Key>RackRailer</Key>
 				<Name>Rack Railer</Name>
 				<IconName>3D Printer</IconName>
-				<Description>Crafts Rack Rails for Cargo Lifts</Description>
+				<Description>Stellt Zahnradschienen für Cargolifte her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>13</Value>
 				<Key>MK1PowerBoosterCharger</Key>
 				<Name>MK1 PowerCore Charger</Name>
 				<IconName>MK1PowerBoosterCharger</IconName>
-				<Description>Autocrafts a single-use Power Booster. This will give ARTHER 100 power. Place the crafted item into your hotbar to use it.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 100 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>14</Value>
 				<Key>MK2PowerBoosterCharger</Key>
 				<Name>MK2 PowerCore Charger</Name>
 				<IconName>MK2PowerBoosterCharger</IconName>
-				<Description>Autocrafts a single-use Power Booster. This will give ARTHER 250 power. Place the crafted item into your hotbar to use it.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 250 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>15</Value>
 				<Key>MK3PowerBoosterCharger</Key>
 				<Name>MK3 PowerCore Charger</Name>
 				<IconName>MK3PowerBoosterCharger</IconName>
-				<Description>Autocrafts a single-use Power Booster. This will give ARTHER 500 power. Place the crafted item into your hotbar to use it.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 500 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>16</Value>
 				<Key>MK4PowerBoosterCharger</Key>
 				<Name>MK4 PowerCore Charger</Name>
 				<IconName>MK4PowerBoosterCharger</IconName>
-				<Description>Autocrafts a single-use Power Booster. This will give ARTHER 1000 power. Place the crafted item into your hotbar to use it.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 1000 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
 				<Key>MK5PowerBoosterCharger</Key>
 				<Name>MK5 PowerCore Charger</Name>
 				<IconName>MK5PowerBoosterCharger</IconName>
-				<Description>Autocrafts a single-use Power Booster. This will give ARTHER 2000 power. Place the crafted item into your hotbar to use it.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 2000 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>18</Value>
 				<Key>ClockMaker</Key>
 				<Name>Crystal Clock Maker</Name>
 				<IconName>Power Grid</IconName>
-				<Description>Creates a clock made from crystal. Used to keep electronics running at a fixed rate.</Description>
+				<Description>Stellt einen Taktgeber auf Kristall her. Wird verwendet um Maschienen auf einer bestimmten Taktrate zu halten.</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>19</Value>
 				<Key>OverClocker</Key>
 				<Name>OverClocker</Name>
 				<IconName>Upgraded Power Grid</IconName>
-				<Description>Uses large amount of power to carefully overclock Crystal Clocks. Used in high-end machines.</Description>
+				<Description>Nutzt grosse Megen Energie um Tacktergeber zu übertakten. Dieser wird in Hochstehenden Maschinen genutzt.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>20</Value>
 				<Key>CoalInfuser</Key>
 				<Name>Crystal Coal Infuser</Name>
 				<IconName>Coal Infuser</IconName>
-				<Description>Infuses Enriched Coal with Crystal Ore.</Description>
+				<Description>Reichtert angereicherte Kohle zu Kristall Kohle an.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>21</Value>
 				<Key>EmptyCanisterCrafter</Key>
 				<Name>Fuel Canister Crafter</Name>
 				<IconName>Fuel Canister Crafter</IconName>
-				<Description>Uses a single Iron Pipe to make an Empty Fuel Canister.</Description>
+				<Description>Nutzt ein einzelnen Eisenrohor um einen leeren Treibstoffbehälter herzustellen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>22</Value>
 				<Key>FreezeMissileCrafter</Key>
 				<Name>CryoChilled Missile Assembler</Name>
 				<IconName>CryoChilled Missile Assembler</IconName>
-				<Description>Uses Freezon Canisters to add a slowing effect to targetted mobs. Also gives 15% extra damage!</Description>
+				<Description>Nutzt Freezonkartuschen um einen verlangsamenden Effekt auf das Ziel zu legen. Gibt zudem 15% mehr Schaden!Uses Freezon Canisters to add a slowing effect to targetted mobs.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>23</Value>
 				<Key>PoisonMissileCrafter</Key>
 				<Name>Mephitic Missile Assembler</Name>
 				<IconName>Mephitic Missile Assembler</IconName>
-				<Description>Uses Chlorine Canisters to add a damage-over-time effect to targetted mobs, adding 50% damage over 30 seconds.</Description>
+				<Description>Nutzt Chlorkarutuschen um Schaden über eine bestimmte Zeit dem Ziel zuzuführen, gibt 50% Schaden über 30s zusätzlich.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>24</Value>
 				<Key>SteelAlloySmelter</Key>
 				<Name>Steel Alloy Smelter</Name>
 				<IconName>Steel Alloy Smelter</IconName>
-				<Description>Automatically smelts Low-grade Steel Bars from Iron and Nickel.</Description>
+				<Description>Verhüttet automatisch Nickel udn Eisen zu niederwertigen Stahlbarren.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>25</Value>
 				<Key>AdvancedMachineBlockAssembler</Key>
 				<Name>Advanced Machine Block Assembler</Name>
 				<IconName>Advanced Machine Block Assembler</IconName>
-				<Description>Automatically create Advanced Machine Blocks from Steel and Crystal Clocks.</Description>
+				<Description>Stellt selbständig Verbesserte Maschienenblöcke aus Stahl und Taktgebern her.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>26</Value>
 				<Key>ImbuedMachineBlockAssembler</Key>
 				<Name>Imbued Machine Block Assembler</Name>
 				<IconName>Imbued Machine Block Assembler</IconName>
-				<Description>Automatically create Imbued Machine Blocks from PowerBoosters and Advanced MachineBlocks.</Description>
+				<Description>Stellt automatisch durchtränkte Maschienenblöcke auf Energiebooster und verbesserten Maschienenblöcken her.</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>27</Value>
 				<Key>LensPolisher</Key>
 				<Name>Lens Polisher</Name>
 				<IconName>Lens Polisher</IconName>
-				<Description>Uses precision technology to produce an unfocussed lens from any lower-tier of lens. Can then be chrome-plated to be used in Laser Power Transmitters.</Description>
+				<Description>Nutzt Präzisionstechnoligie um unfokusierte Linsen aus nieder klassigen Linsen herzustellen. Kann verchromt werden um in Laserenergieübertragern verwendet zu werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>28</Value>
 				<Key>LensChromer</Key>
 				<Name>Lens Chromer</Name>
 				<IconName>Lens Chromer</IconName>
-				<Description>Mirror-coats a high-precision unfocussed lens to provide a useful upgrade.</Description>
+				<Description>Spiegelbeschichtet hochpräzise unfokusierte linsem um ein brauchbares Upgrade darzustellen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>29</Value>
 				<Key>CryoBombAssembler</Key>
 				<Name>Cryo Bomb Assembler</Name>
 				<IconName>Cryo Bomb Assembler</IconName>
-				<Description>Created a bomb specifically designed to be delivered by Bomber FALCORs to defeat large quantities of long-range CryoPlasm.</Description>
+				<Description>Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryo-Plasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>30</Value>
 				<Key>ChromedMachineBlockAssembler</Key>
 				<Name>Chromed Block Assembler</Name>
 				<IconName>ChromedMachineBlockAssembler</IconName>
-				<Description>Chrome-plates Imbued Machine Blocks.</Description>
+				<Description>Verchromt dirchtränkte Maschienenbläcke.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>31</Value>
 				<Key>HiemalMachineBlockAssembler</Key>
 				<Name>Hiemal Block Assembler</Name>
 				<IconName>Hiemal Block Assembler</IconName>
-				<Description>Cold-infuses Chrome and Magnetic Blocks together to create this heat-proof block.</Description><!-- Tempted to use Freezon again-->
+				<Description>Kaltfusioniert Chrom und magnetische Blöcke um einen hitzeresistenten Block zu erhalten.</Description><!-- Tempted to use Freezon again-->
 			</ValueEntry>
 			<ValueEntry>
 				<Value>32</Value>
 				<Key>MagneticMachineBlockAssembler</Key>
 				<Name>Magnetic Block Assembler</Name>
 				<IconName>MagneticMachineBlockAssembler</IconName>
-				<Description>Magnetises Imbued Machine Blocks.</Description>
+				<Description>Magnetisert durchtränkte Maschienenblöcke.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>33</Value>
 				<Key>AlloyedMachineBlockAssembler</Key>
 				<Name>Alloyed Block Assembler</Name>
 				<IconName>AlloyedMachineBlockAssembler</IconName>
-				<Description>Uses a Gold to coat Hardened Machine Blocks.</Description>
+				<Description>Nutz Gold um gehärtete Maschienenblöcke zu beschichten.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>34</Value>
 				<Key>HardenedMachineBlockAssembler</Key>
 				<Name>HardenedBlock Assembler</Name>
 				<IconName>HardenedMachineBlockAssembler</IconName>
-				<Description>Uses a mixture of Nickel and Titanium to create hardened blocks.</Description>
+				<Description>Nutzt einen mischung aus Nickel und Titan um gehärtete Maschienenblöcke herzustellen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>35</Value>
@@ -7969,7 +7970,7 @@
 				<Key>ClusterMissileCrafter</Key>
 				<Name>Cluster Missile Crafter</Name>
 				<IconName>ClusterMissileCrafter</IconName>
-				<Description>Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Description>
+				<Description>Wandelt eine durchtränkte Raktet in 8 Schnellfeuer Rakete um, jede teilt zwar nut 1/4 des originalen Schadens aus, was aber im gesamten zu einer verdoppelung des Schadens führt.</Description>
 			</ValueEntry>
 	    </Values>
 		
@@ -8008,21 +8009,21 @@
 				<Key>TurretMK1</Key>
 				<Name>Turret MK1</Name>
 				<IconName>Pop Up Turret</IconName>
-				<Description>Good for infrastructure defense.</Description>
+				<Description>Gut für Infrastrukturelle verteidigung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>TurretMK2</Key>
 				<Name>Turret MK2</Name>
 				<IconName>Pop Up Turret MK2</IconName>
-				<Description>Good for base defence.</Description>
+				<Description>Optimal für Basisverteidigung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>TurretMK3</Key>
 				<Name>Turret MK3</Name>
 				<IconName>Pop Up Turret MK3</IconName>
-				<Description>Good for long range defence..</Description>
+				<Description>Gut für Grossdistanz verteidigung.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -8059,35 +8060,35 @@
 				<Key>MissileTurretMK1</Key>
 				<Name>Missile Turret MK1</Name>
 				<IconName>Missile Turret MK1</IconName>
-				<Description>Single-shot fires missiles at larger targets upto 512m away!</Description>
+				<Description>Schiesst eine Rakete auf bis zu 512m entfernte Ziele!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>MissileTurretMK2</Key>
 				<Name>Missile Turret MK2</Name>
 				<IconName>Missile Turret</IconName>
-				<Description>Dual-shot fires missiles at larger targets upto 512m away!</Description>
+				<Description>Schiesst zwei Raketen auf bis zu 512m entfernte Ziele!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>MissileTurretMK3</Key>
 				<Name>Missile Turret MK3</Name>
 				<IconName>Missile Turret</IconName>
-				<Description>Tri-shot fires missiles at larger targets upto 512m away!</Description>
+				<Description>Schiesst drei Raketen auf bis zu 512m entfernte Ziele!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>MissileTurretMK4</Key>
 				<Name>Missile Turret MK4</Name>
 				<IconName>Missile Turret</IconName>
-				<Description>Quad-shot fires missiles at larger targets upto 512m away!</Description>
+				<Description>Schiesst vier Raketen auf bis zu 512m entfernte Ziele!</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>TheItano</Key>
 				<Name>The Itano</Name>
 				<IconName>Missile Turret</IconName>
-				<Description>Multi-shot launcher. The circus is in town!</Description>
+				<Description>Mehrfach Raketenwerfer. Der Zirkus ist in der Stadt!</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -8116,7 +8117,7 @@
 		<CubeType>541</CubeType>
 		<Key>ThreatScanner</Key>
 		<Name>Threat Scanner</Name>
-		<Description>Place near your base for an early-warning system.</Description>
+		<Description>Frühwarn system, optimal in der nähe der Basis plazieren.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8144,7 +8145,7 @@
 		<CubeType>750</CubeType>
 		<Key>HardResinDetector</Key>
 		<Name>Hard Resin Detector</Name>
-		<Description>Provides an essential early-warning system for encroaching hiveminds.</Description>
+		<Description>Stellt ein wichtiges Frühwarnsystem gegen vordringende Hivemind's dar.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8170,7 +8171,7 @@
 		<CubeType>751</CubeType>
 		<Key>DeOrbitContainer</Key>
 		<Name>Crashed parts container</Name>
-		<Description>Contains technical components we can use for research.</Description>
+		<Description>Beinhaltet technische Komponenten welche für Forschung verwendet werden.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8196,7 +8197,7 @@
 		<CubeType>595</CubeType>
 		<Key>ServerMonitor</Key>
 		<Name>Server Monitor</Name>
-		<Description>Gives you read-time readouts of your server status. Not a 'game' item.</Description>
+		<Description>Gibt Echtzeit Informationen über den Server. Kein Spielgegenstand.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8224,7 +8225,7 @@
 		<CubeType>650</CubeType>
 		<Key>OrbitalStrikeController</Key>
 		<Name>Orbital Strike Controller</Name>
-		<Description>Nuke the site from orbit. It's the only way to be sure. Requires a fully-charged OET.</Description>
+		<Description>Ebne die Gegend durch Orbitalbeschuss ein. Es ist der einzige Weg sicher zugehen. Setzt einen komplett geladenen OET vorauss.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8252,7 +8253,7 @@
 		<CubeType>517</CubeType>
 		<Key>AutoExcavator</Key>
 		<Name>Auto Excavator</Name>
-		<Description>Automatically dig out large vertical shafts from below.</Description>
+		<Description>Hebt selbständig grosse Schächte von unterher aus.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8278,7 +8279,7 @@
 		<CubeType>678</CubeType>
 		<Key>LaserResinAblator</Key>
 		<Name>Laser Resin Ablator</Name>
-		<Description>Converts nearby Hardened Resin into Ablated Resin</Description>
+		<Description>Konvertiert gehärtetes Harz zu abgetragenen Harz um.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8304,7 +8305,7 @@
 		<CubeType>679</CubeType>
 		<Key>LaserResinLiquifier</Key>
 		<Name>Laser Resin Liquifier</Name>
-		<Description>Converts, collects and destroys nearby Ablated Resin.</Description>
+		<Description>Konvertiert, sammelt und zerstört nahezu abgetragenes Harz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8330,7 +8331,7 @@
 		<CubeType>684</CubeType>
 		<Key>WorkFloorExcavatorMK1_Key</Key><!-- Not used, this is a Value'd machine-->
 		<Name>Work Floor Excavator</Name>
-		<Description>Excavates a 3 metre tall workfloor, 16 metres in each direction (33m in total)</Description>
+		<Description>Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8356,14 +8357,14 @@
 				<Key>WorkFloorExcavator_MK1_Key</Key>
 				<Name>Workfloor Excavator MK1</Name>
 				<IconName>WorkFloorExcavator MK1</IconName>
-				<Description>Excavates a 3 metre tall workfloor, 16 metres in each direction (33m in total)</Description>
+				<Description>Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>WorkFloorExcavatorMK2_Key</Key>
 				<Name>Workfloor Excavator MK2</Name>
 				<IconName>WorkFloorExcavator MK2</IconName>
-				<Description>Excavates a 3 metre tall workfloor, 16 metres in each direction (33m in total). Uses twice as much power as the MK1, but can cut through ores.</Description>
+				<Description>Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus. Braucht doppelt soviel Energie wie der MK1, entfernt aber Erze ebenfalls.</Description>
 			</ValueEntry>
 		</Values>
 	</TerrainDataEntry>
@@ -8372,7 +8373,7 @@
 		<CubeType>518</CubeType>
 		<Key>Teleporter</Key>
 		<Name>Teleporter</Name>
-		<Description>Teleport player to location set by installed Location Marker. Requires lots of power!</Description>
+		<Description>Versetzt den Benutzer zur gespeicherten Position vom installierten Positionsmarker. Braucht haufenweise Energie!</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8397,7 +8398,7 @@
 		<CubeType>519</CubeType>
 		<Key>GeologicalSurveyor</Key>
 		<Name>Geological Surveyor</Name>
-		<Description>Ensures your Quarries are correctly placed.</Description>
+		<Description>Stellt sicher das deine Steinbrüche richtig Plaziert sind.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8423,7 +8424,7 @@
 		<CubeType>690</CubeType>
 		<Key>CryoMine</Key>
 		<Name>CryoMine</Name>
-		<Description>Explodes with noxious gas when touched by CryoPlasm.</Description>
+		<Description>Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8450,7 +8451,7 @@
 		<CubeType>692</CubeType>
 		<Key>FreezonInjector</Key>
 		<Name>Freezon Injector</Name>
-		<Description>Utilises Freezon Canisters to provide performance benefits to a number of machines.</Description>
+		<Description>Nutzt Freezonkartuschen um Leistungsverbesserungen für einige Maschienen bereitzusttellen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8476,7 +8477,7 @@
 		<CubeType>695</CubeType>
 		<Key>ItemInjector</Key>
 		<Name>H.E.I.S.T.</Name>
-		<Description>Hopper Emptying Inventory Storage Transporter - Automatically transmits items into the player's inventory. H.E.I.S.T. for short.</Description>
+		<Description>Hopper Emptying Inventory Storage Transporter (Hopper leerender Inventar lagerungs Transporter) - Transferiert automatisch gegenstände in das Spielerinventar. H.E.I.S.T. oder H.L.I.L.T für kurz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8503,7 +8504,7 @@
 		<CubeType>696</CubeType>
 		<Key>NanoDisintegrator</Key>
 		<Name>NanoDisintegrator</Name>
-		<Description>NanoDisintegrator. Use this to perfectly excavate a 3x3x3 area of even the very hardest material. Use with care.</Description>
+		<Description>Nano Disintegrator. Genutzt um sogar das härteste Material in einem 3x3x3 Raum auszuheben. Vorsicht beim Einsatz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8531,7 +8532,7 @@
 		<CubeType>685</CubeType>
 		<Key>SlimeAttractor</Key>
 		<Name>Slime Attractor</Name>
-		<Description>Attracts slimes.</Description>
+		<Description>Zeiht Slimes an.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8557,7 +8558,7 @@
 		<CubeType>754</CubeType>
 		<Key>WaypointMachine</Key>
 		<Name>Waypoint Machine</Name>
-		<Description>Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.</Description>
+		<Description>Wenn Plaziert und mit Energie versorgt wird ein Wegpunkt erzeugt. Kann durch plazieren eines Schildes an der Maschiene angepasst werden.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8584,7 +8585,7 @@
 		<CubeType>569</CubeType>
 		<Key>MobSpawner</Key>
 		<Name>MobSpawner</Name>
-		<Description>Great for testing defences.</Description>
+		<Description>Super geeignet um vereidigung zu testen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8610,7 +8611,7 @@
 		<CubeType>584</CubeType>
 		<Key>ThreatAgitator</Key>
 		<Name>Threat Agitator</Name>
-		<Description>Generates additional commutative threat.</Description>
+		<Description>Erzeugt zusätzliche Bedrohungsstufen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8636,7 +8637,7 @@
 		<CubeType>585</CubeType>
 		<Key>ThreatReducer</Key>
 		<Name>Threat Reducer</Name>
-		<Description>Reduces threat substantially.</Description>
+		<Description>Reduziert wesentlich die Bedrohungsstufe.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8662,7 +8663,7 @@
 		<CubeType>520</CubeType>
 		<Key>ManufacturingPlant</Key>
 		<Name>Manufacturing Plant</Name>
-		<Description>Central automated crafting machine.\nCan be upgraded by attaching modules.\nRequires power.</Description>
+		<Description>Zentrale automatische Werkbank.\nKann durch anbringen von Modulen verbessert werden.\nBraucht Energie.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8694,56 +8695,56 @@
 				<Key>3DPrinter</Key>
 				<Name>3D Printer</Name>
 				<IconName>3D Printer</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks 3D Printer recipes when\nattached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>20</Value>
 				<Key>Compressor</Key>
 				<Name>Compressor</Name>
 				<IconName>Compressor</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Compressor when\nattached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchatet die Verdichter Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>30</Value>
 				<Key>ExtruderModule</Key>
 				<Name>Extruder Module</Name>
 				<IconName>Extruder</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Extruder recipes when\nattached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>40</Value>
 				<Key>ChipEtcher</Key>
 				<Name>Chip Etcher</Name>
 				<IconName>Chip Etcher</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Chip Etcher recipes when\nattached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>50</Value>
 				<Key>HydrojetCutter</Key>
 				<Name>Hydrojet Cutter</Name>
 				<IconName>Hydrojet Cutter</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Hydrojet Cutter recipes when\nattached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet die Wasserstrahlschneider Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>60</Value>
 				<Key>RoboticWelder</Key>
 				<Name>Robotic Welder</Name>
 				<IconName>Robotic Welder</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Robotic Welder recipes when attached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet Schweissroboter Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>70</Value>
 				<Key>Incubator</Key>
 				<Name>Incubator</Name>
 				<IconName>Incubator</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Incubator recipes when attached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>80</Value>
 				<Key>AssemblyStation</Key>
 				<Name>Assembly Station</Name>
 				<IconName>Assembly Station</IconName>
-				<Description>Manufacturing Plant module.\nUnlocks Assembly Station recipes when attached to Manufacturing Plant.</Description>
+				<Description>Werkbankmodul\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</Description>
 			</ValueEntry>
 		</Values>
 		<DefaultValue>10</DefaultValue>	
@@ -8772,7 +8773,7 @@
 		<CubeType>522</CubeType>
 		<Key>RefineryController</Key>
 		<Name>Refinery Controller</Name>
-		<Description>Controls the reaction processes that allow recombining carbohydrates into other forms.</Description>
+		<Description>Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8799,7 +8800,7 @@
 		<Key>RefineryReactorVat</Key>
 		<Name>Refinery Reactor Vat</Name>
 		<IconName>Unknown</IconName>
-		<Description>The player should not ever be able to read this...</Description>
+		<Description>Der Spieler sollte nicht fähig sein dies je zu lesen...</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8829,7 +8830,7 @@
 		<Key>JetTurbineGenerator</Key>
 		<Name>Jet Turbine Generator</Name>
 		<IconName>Unknown</IconName>
-		<Description>The player should not ever be able to read this...</Description>
+		<Description>Der Spieler sollte nicht fähig sein dies je zu lesen...</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -8859,7 +8860,7 @@
 		<Key>AdvancedMachineBlock</Key>
 		<Name>Advanced Machine Block</Name>
 		<IconName>Advanced Machine Block</IconName>
-		<Description>Crafting component of tier 3 machinery. Can also be used for construction</Description>
+		<Description>Produktionskomponente welche für 3. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>15</TopTexture>
 		<SideTexture>15</SideTexture>
@@ -8887,7 +8888,7 @@
 		<Key>ImbuedMachineBlock</Key>
 		<Name>Imbued Machine Block</Name>
 		<IconName>Imbued Machine Block</IconName>
-		<Description>Crafting component of tier 4 machinery. Can also be used for construction</Description>
+		<Description>Produktionskomponente welche für 4. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>17</TopTexture>
 		<SideTexture>17</SideTexture>
@@ -8915,7 +8916,7 @@
 		<Key>StorageCrate</Key>
 		<Name>Storage Crate</Name>
 		<IconName>StorageCrate</IconName>
-		<Description>Simple storage solution.</Description>
+		<Description>Einfache Lagerlösung.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>173</TopTexture>
 		<SideTexture>173</SideTexture>
@@ -9051,7 +9052,7 @@
 		<Key>MassStorageBlock</Key>
 		<Name>Mass Storage Block</Name>
 		<IconName>Bound Metal Crate</IconName>
-		<Description>Basic Mass Storage Solution (25 Capacity)</Description>
+		<Description>Einfaches Massenlagerungs system (25 Kapazität)</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>145</SideTexture>
@@ -9078,7 +9079,7 @@
 		<Key>MassStorageInputPort</Key>
 		<Name>Mass Storage Input Port</Name>
 		<IconName>Mass Storage Input Port</IconName>
-		<Description>Use this to insert resources into Mass Storage</Description>
+		<Description>Wird genutz um Rescourcen im Hochregallager zu einzulagern.</Description>
 
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
@@ -9101,21 +9102,21 @@
 				<Key>MassStorageInputPortMK1</Key>
 				<Name>Basic Mass Storage Input Port</Name>
 				<IconName>Mass Storage Input Port</IconName>
-				<Description>Use this to insert resources into Mass Storage. Carries 5 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen im Hochregallager zu einzulagern. Lagert 5 Rescourcen gleichzeitig ein.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>MassStorageInputPortMK2</Key>
 				<Name>Mass Storage Input Port</Name>
 				<IconName>Mass Storage Input PortMK2</IconName>
-				<Description>Use this to insert resources into Mass Storage. Carries 12 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen im Hochregallager zu einzulagern. Lagert 12 Rescourcen gleichzeitig ein.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>MassStorageInputPortMK3</Key>
 				<Name>Bulk Mass Storage Input Port</Name>
 				<IconName>Mass Storage Input PortMK3</IconName>
-				<Description>Use this to insert resources into Mass Storage. Carries 25 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen im Hochregallager zu einzulagern. Lagert 25 Rescourcen gleichzeitig ein.</Description>
 			</ValueEntry>
 		</Values>
 		<tags>
@@ -9129,7 +9130,7 @@
 		<Key>MassStorageOutputPort</Key>
 		<Name>Mass Storage Output Port</Name>
 		<IconName>Mass Storage Output Port</IconName>
-		<Description>Use this to remove resources from Mass Storage</Description>
+		<Description>Wird genutz um Rescourcen aus dem Hochregallager zu entnehmen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>145</TopTexture>
 		<SideTexture>145</SideTexture>
@@ -9151,21 +9152,21 @@
 				<Key>MassStorageOutputPortMK1</Key>
 				<Name>Basic Mass Storage Output Port</Name>
 				<IconName>Mass Storage Output Port</IconName>
-				<Description>Use this to remove resources from Mass Storage. Carries 5 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 5 Rescourcen gleichzeitig.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>MassStorageOutputPortMK2</Key>
 				<Name>Mass Storage Output Port</Name>
 				<IconName>Mass Storage Output PortMK2</IconName>
-				<Description>Use this to remove resources from Mass Storage. Carries 12 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 12 Rescourcen gleichzeitig.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>MassStorageOutputPortMK3</Key>
 				<Name>Bulk Mass Storage Output Port</Name>
 				<IconName>Mass Storage Output PortMK3</IconName>
-				<Description>Use this to remove resources from Mass Storage. Carries 25 resources at a time.</Description>
+				<Description>Wird genutz um Rescourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 25 Rescourcen gleichzeitig.</Description>
 			</ValueEntry>
 		</Values>		
 		<tags>
@@ -9179,7 +9180,7 @@
 		<Key>MassStorageController</Key>
 		<Name>Mass Storage Controller</Name>
 		<IconName>Mass Storage Controller</IconName>
-		<Description>Mass Storage Controller for Powered Mass Storage</Description>
+		<Description>Hochregallagerverwaltung für angetriebene Lager</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9201,7 +9202,7 @@
 				<Key>MassStorageControllerMK1</Key>
 				<Name>Mass Storage Controller</Name>
 				<IconName>Mass Storage Controller</IconName>
-				<Description>Mass Storage Controller for Powered Mass Storage</Description>
+				<Description>Hochregallagerverwaltung für angetriebene Lager</Description>
 			</ValueEntry>
 		</Values>		
 		<tags>
@@ -9213,7 +9214,7 @@
 		<Key>Macerator</Key>
 		<Name>Macerator</Name>
 		<IconName>Macerator</IconName>
-		<Description>Search unused rocks for ore</Description>
+		<Description>Durchsucht untenutze Steine nach Erz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		
 		<TopTexture>143</TopTexture>
@@ -9242,7 +9243,7 @@
 		<Key>ARTHERChargingStation</Key>
 		<Name>ARTHER Charging Station</Name>
 		<IconName>ARTHER Charging Station</IconName>
-		<Description>Rapidly recharge ARTHER</Description>
+		<Description>Schnellladestation für die ARTHER-Drohne</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		
 		<TopTexture>143</TopTexture>
@@ -9270,7 +9271,7 @@
 		<Key>ARTHERTurret</Key>
 		<Name>ARTHER Turret</Name>
 		<IconName>ARTHER Turret</IconName>
-		<Description>Allows ARTHER to get his murder on.</Description>
+		<Description>Erlaugt der ARTHER ihren Killertrieb zu stillen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		
 		<TopTexture>143</TopTexture>
@@ -9297,7 +9298,7 @@
 		<Key>AutoBuilder</Key>
 		<Name>Auto Builder</Name>
 		<IconName>Auto Builder</IconName>
-		<Description>Automatically construct basic logistics setups</Description>
+		<Description>Baut selbständig einfache Logistikeinrichtungen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9322,7 +9323,7 @@
 		<Key>AutoUpgrader</Key>
 		<Name>Auto Upgrader</Name>
 		<IconName>Auto Upgrader</IconName>
-		<Description>Automatically upgrade the rank of conveyors</Description>
+		<Description>Verbessert automatisch die Stufe der Förderbänder.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9347,7 +9348,7 @@
 		<Key>DeployedExplosive</Key>
 		<Name>Deployed Explosive</Name>
 		<IconName>Chargeable Explosive</IconName>
-		<Description>Supply power to increase explosion radius</Description>
+		<Description>Mit Energie versorgen um Zerstörungsradius zu vergrössern.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9372,7 +9373,7 @@
 		<Key>Laboratory</Key>
 		<Name>Laboratory</Name>
 		<IconName>Laboratory Component</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9424,7 +9425,7 @@
 		<CubeType>537</CubeType>
 		<Key>BasicQuarry</Key>
 		<Name>Basic Quarry</Name>
-		<Description>Digs a 9 metre big shaft, deep into the surface of the planet.</Description>
+		<Description>Treibt einen 9 Meter weiten Schacht in die Tiefen des Planeten.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9450,7 +9451,7 @@
 		<Key>OrbitalEnergyTransmitter</Key>
 		<Name>Orbital Energy Transmitter</Name>
 		<IconName>Orbital Energy Transmitter</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9478,7 +9479,7 @@
 		<Key>T4PowerStorage</Key>
 		<Name>T4 Power Storage</Name>
 		<IconName>PowerStorageBlockT4</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9506,7 +9507,7 @@
 		<Key>T4PowerConduit</Key>
 		<Name>T4 Power Conduit</Name>
 		<IconName>PowerConduitT4</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9535,7 +9536,7 @@
 		<Key>CCCC_Block</Key>
 		<Name>Cold Cavern Climate Control Centre</Name>
 		<IconName>Climate Control Centre</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9565,7 +9566,7 @@
 		<Key>T4_Grinder_Block</Key>
 		<Name>Single-Use Hard Rock Grinder</Name>
 		<IconName>T4_Grinder</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9595,7 +9596,7 @@
 		<Key>TD_Magma_Bore_Block</Key>
 		<Name>Magma Bore</Name>
 		<IconName>T4_MagmaBore</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9625,7 +9626,7 @@
 		<Key>T4_Particle_Block</Key>
 		<Name>Airbone Particulate Extractor</Name>
 		<IconName>T4_Particle</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -9655,7 +9656,7 @@
 		<Key>T4_Compressor_Block</Key>
 		<Name>Airbone Particulate Compressor</Name>
 		<IconName>T4_Compressor</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9685,7 +9686,7 @@
 		<Key>T4_GasStorage</Key>
 		<Name>Compressed Gas Storage</Name>
 		<IconName>T4_Gas_Storage</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9715,7 +9716,7 @@
 		<Key>T4_GasBottler</Key>
 		<Name>Compressed Gas Bottler</Name>
 		<IconName>T4_Gas_Bottler</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9745,7 +9746,7 @@
 		<Key>T4_MagmaStorage</Key>
 		<Name>Compressed Magma Storage</Name>
 		<IconName>T4_Magma_Storage</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9775,7 +9776,7 @@
 		<Key>T4_CreepInferno</Key>
 		<Name>Creep Inferno</Name>
 		<IconName>CreepInferno</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9805,7 +9806,7 @@
 		<Key>T4_LaserBorer</Key>
 		<Name>LaserBorer</Name>
 		<IconName>LaserBorer</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>272</TopTexture>
 		<SideTexture>272</SideTexture>
@@ -9835,7 +9836,7 @@
 		<Key>InductionCharger</Key>
 		<Name>Induction Charger</Name>
 		<IconName>Induction Charger</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9864,7 +9865,7 @@
 		<Key>AutoOreRemover</Key>
 		<Name>Ore Thief</Name>
 		<IconName>Ore Thief</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9893,7 +9894,7 @@
 		<Key>GarbageThief</Key>
 		<Name>Garbage Thief</Name>
 		<IconName>Garbage Thief</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9923,7 +9924,7 @@
 		<Key>BarKeeper</Key>
 		<Name>Bar Keeper</Name>
 		<IconName>Bar Keeper</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9951,7 +9952,7 @@
 		<Key>OrganicThief</Key>
 		<Name>Ruined Organic Thief</Name>
 		<IconName>Organic Thief</IconName>
-		<Description>Not relevant.</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9981,7 +9982,7 @@
 		<Key>T5PowerStorage</Key>
 		<Name>T5 Power Storage</Name>
 		<IconName>T5 Power Storage</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -10009,7 +10010,7 @@
 		<Key>SolarPanelMK2</Key>
 		<Name>Solar Panel MK2</Name>
 		<IconName>Solar Panel MK2</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -10037,7 +10038,7 @@
 		<Key>SolarPanelMK2Organic</Key>
 		<Name>Organic Solar Panel MK2</Name>
 		<IconName>Organic Solar Panel MK2</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -10065,7 +10066,7 @@
 		<Key>Lift</Key>
 		<Name>Lift w/underside Piston</Name>
 		<IconName>T1 Lift</IconName>
-		<Description>Raises or lowers upto 64m at a rate of 1m/s</Description>
+		<Description>Hebt oder senkt sich mit 1m/s bis zu 64m weit.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10093,7 +10094,7 @@
 		<Key>T4Turret</Key>
 		<Name>T4 Turret</Name>
 		<IconName>T4 Turret</IconName>
-		<Description>Not relevant</Description>
+		<Description>Nicht Wichtig</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -10122,7 +10123,7 @@
 		<Key>LiftCompressor</Key>
 		<Name>Lift Compressor</Name>
 		<IconName>Lift Compressor</IconName>
-		<Description>Requires Power.\nIncreases compression rate of T1 lifts\nAttach to T1 lifts to use.</Description>
+		<Description>Braucht Energie.\nErhöht Kompressionsrate von Stufe 1 Lifte.\nZum nutzen an einen S1 Lift anschliessen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10150,7 +10151,7 @@
 		<Key>LiftManualControlModule</Key>
 		<Name>Lift Manual Control Module</Name>
 		<IconName>Lift Manual Control Module</IconName>
-		<Description>Allow manual override of Lift\nUse Home and End to control!\nAttach to T1 lifts to use.</Description>
+		<Description>Erlaubt die manuelle kontrolle des Lifts.\nNutze Home und End zum Steuern!\nZum nutzen an einen S1 Lift anschliessen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10177,7 +10178,7 @@
 		<Key>RobotArmMK1</Key>
 		<Name>MK1 Robot Arm</Name>
 		<IconName>MK1 Robot Arm</IconName>
-		<Description>Allows simple sorting of items from conveyors.</Description>
+		<Description>Erlaubt einfaches Sortieren von Gegenständen auf Förderbändern.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10205,7 +10206,7 @@
 		<Key>AdvancedRobotArmControlModule</Key>
 		<Name>Advanced Robot Arm Control Module</Name>
 		<IconName>Advanced Robot Arm Control Module</IconName>
-		<Description>Allows detailed control of the MK1 Robot Arm.</Description>
+		<Description>Erlaubt detailierte Kontrolle über den MK1 Roboterarm.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10233,154 +10234,154 @@
   		<CubeType>600</CubeType>
 		<Key>MachinePlacement</Key>
   		<Name>Machine Placement</Name>
-		<Description>Used to build various multiblock machines</Description>
+		<Description>Wird genutz um verschiedene Multiblock Maschienen zu bauen.</Description>
 		<Values>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>RefineryReactorVatPlacement</Key>
 				<Name>Refinery Reactor Vat Component</Name>
 				<IconName>Metal Siding 1</IconName>
-				<Description>Contains biochemical reactions under high pressure. Place in a 3x3x3 cube to form a Reactor Vat. Attach a Refinery Controller to operate.</Description>
+				<Description>Beinhaltet Biochemischereaktionen die unter Hochdruck stehen. In einem 3x3x3 Würfel plazieren um einen Reaktorkessel zu formen. Raffineriekontrollstation anbauen um zu nutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>JetTurbineGeneratorHousingPlacement</Key>
 				<Name>Jet Turbine Generator Housing</Name>
 				<IconName>Space Panel</IconName>
-				<Description>Burns HEC Fuel to drive a turbine generating lots of power. Build in a 4 by 3 horizontal shape, and build 3 high. Attach an intake to form the front of the machine.</Description>
+				<Description>Verbrennt HEC Treistoff um eine Turbine anzutreiben die massig Energie Liefert. Aufbau: 3x4 Grundfläche, 3 hoch. Einlass an der Vorderseite plazieren um Bau zu beenden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>JetTurbineGeneratorIntakePlacement</Key>
 				<Name>Jet Turbine Generator Intake</Name>
 				<IconName>Drain Grate</IconName>
-				<Description>The Turbine Generator intake is placed at the front of the housing in a 3 by 3 vertical shape.</Description>
+				<Description>Der Turbineneinlass ist auf der Frontseite in einem senkrechten 3x3 Aufbau anzubringen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>LaboratoryPlacement</Key>
 				<Name>Laboratory Component</Name>
 				<IconName>Laboratory Component</IconName>
-				<Description>Performs automated experiments. Place in a 3x3x3 cube to create a Laboratory.(Needs 27 in total)</Description>
+				<Description>Führt automatisch Experimente druch. In einem 3x3x3 Würfel plazieren um das Labor zu erzeugen. (27 Blöcke insgesamt benütigt)</Description>
 			</ValueEntry>		
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>OrbitalEnergyTransmitterPlacement</Key>
 				<Name>Orbital Energy Transmitter Component</Name>
 				<IconName>Orbital Energy Transmitter</IconName>
-				<Description>Use this to beam power off-planet. Place 9 wide by 13 high by 9 deep to form a valid OET.(Needs 1053 in total)</Description>
+				<Description>Wird genutzt um Energie ins All zu senden. Wird in einem 9x9 und 13 hochen Konstrukt aufgebaut um einen Orbital Energy Transmitter auf zu bauen. (Insgesamt 1053 Blöcke benötigt)</Description>
 			</ValueEntry>		
 			<ValueEntry>
 				<Value>6</Value>
 				<Key>BatteryMK4Placement</Key>
 				<Name>MK4 Battery Component</Name>
 				<IconName>MK4 Battery Component</IconName>
-				<Description>Build in a 3x3x3 configuration for larger storage solutions.(Needs 27 in total)</Description>
+				<Description>Wird ein einer 3x3x3 Konfiguration aufgebaut um einen grossen Energiespeicher zu erhalten.(27 Blöcke benötigt)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>16</Value>
 				<Key>ConduitPlacement</Key>
 				<Name>Conduit</Name>
 				<IconName>PowerConduitT4</IconName>
-				<Description>Connect T4 batteries at a distance of up to 128 metres at over 10,000 PPS. Build in a 3x3x1 configuration, attached to a T4 PSB.</Description>
+				<Description>Verbindet Stufe 4 Batterien auf einer Distanz von bis zu 128 Meter mit 10 kPPS. Wird in einem 3x3x1 Aufbau an den Stufe 4 Energiespeicher angebracht.</Description>
 				</ValueEntry>
 			<ValueEntry>
 				<Value>7</Value>
 				<Key>BatteryMK5Placement</Key>
 				<Name>MK5 Battery Component</Name>
 				<IconName>MK5 Battery Component</IconName>
-				<Description>Build in a 5wx9hx5d configuration for the largest storage solutions.(Needs 225 in total)</Description>
+				<Description>Wird in einer 5x5 Konfiguration mit 9 Höhe aufgestellt um die grösste Speicherlösung für Energie darzustellen. (Total 225 Blöcke benötigt)</Description>
 			</ValueEntry>		
 			<ValueEntry>
 				<Value>8</Value>
 				<Key>SolarPanelMK2Placement</Key>
 				<Name>MK2 Solar Panel Component</Name>
 				<IconName>MK2 Solar Panel Component</IconName>
-				<Description>Create a 3wx1hx3d Solar Panel. Can ONLY be built on top of high-tier machines.</Description>
+				<Description>Stelle das Solarpanel in einer 3x3 Grundplatte auf. Kann nur auf Hochstufigen Maschienen gebaut werden.</Description>
 			</ValueEntry>		
 			<ValueEntry>
 				<Value>9</Value>
 				<Key>T4EnergyTurretPlacement</Key>
 				<Name>T4 Energy Turret component</Name>
 				<IconName>T4 Energy Turret component</IconName>
-				<Description>Create a 3x3x3 Turret. High Damage, High Energy usage.</Description>
+				<Description>Erzeugt einen 3x3x3 Waffenturm. Grosser Schaden, viel Energieverbrauch.</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>10</Value>
 				<Key>FusionReactorPylonPlacement</Key>
 				<Name>Fusion Reactor Pylon comp.</Name>
 				<IconName>Fusion Reactor Pylon comp</IconName>
-				<Description>Create a pylon as part of a Fusion Reactor configuration. Use the Fusion Reactor Monitor for a build guide.</Description>
+				<Description>Baue einen Pfeiler als Teil der Fusonsreaktor configuration. Nutze den Reaktormonitor für eine Bauanleitung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>11</Value>
 				<Key>GeothermalGeneratorPlacement</Key>
 				<Name>Geothermal Generator comp.</Name>
 				<IconName>Geothermal Generator comp</IconName>
-				<Description>Generates heat through temperature difference. Build in a 5wx3hx5d configuration.</Description>
+				<Description>Wird genutzt um Energie aus Temparaturunterschied zu gewinnen. Wird in einer 5x5 Grundplatte mit 3 Höhe gebaut.</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>12</Value>
 				<Key>TrencherDrillPlacement</Key>
 				<Name>Trencher Drill component</Name>
 				<IconName>Trencher Drill component</IconName>
-				<Description>Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor. (27 in total)</Description>
+				<Description>Stellt den Bohrkopf von einem Trencher Bohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt. (27 Blöcke im totalen)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>13</Value>
 				<Key>TrencherMotorPlacement</Key>
 				<Name>Trencher Motor component</Name>
 				<IconName>Trencher Motor component</IconName>
-				<Description>Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head. (27 in total)</Description>
+				<Description>Stellt den Motor des Trencher Bohrers dar. Wird in einer 3y3y3 Konfiguration hinter dem Bohrkopf aufgestellt. (27 Blöcke im totalen)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>14</Value>
 				<Key>BlastFurnacePlacement</Key>
 				<Name>Blast Furnace component</Name>
 				<IconName>Blast Furnace component</IconName>
-				<Description>Forms a Blast Furnace. Build in a 3wx7hx3d configuration. (63 in total)</Description>
+				<Description>Ergibt einen Hochofen. Wird in ener 3x3 Grundplatte mit 7 Höhe aufgebaut (63 Blöcke im totalen)</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>15</Value>
 				<Key>CastingBasinPlacement</Key>
 				<Name>Casting Basin component</Name>
 				<IconName>Casting Basin component</IconName>
-				<Description>Forms a Continuous Casting Basin. Build in a 5wx3hx5d configuration. (75 in total)</Description>
+				<Description>Wird zu einem Stranggiess Backen. Wird in einer 5x5 Grundplatte mit 3 Höhe aufgebaut. (75 Blöcke im totalen)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
 				<Key>CargoLiftControllerPlacement</Key>
 				<Name>Cargo Lift Controller</Name>
 				<IconName>Cargo Lift Controller Component</IconName>
-				<Description>Deploys rack rails and allows a cargo lift to operate. Build in a 3x1x3 configuration</Description>
+				<Description>Legt Zahnschienen und ermöglicht es Lastenaufzüge zu arbeiten. Wird in einer 3x3 Platte oberhalb des Liftschachtes aufgebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>18</Value>
 				<Key>SpiderbotBasePlacement</Key>
 				<Name>Spiderbot Base Component</Name>
 				<IconName>Spiderbot Base Component</IconName>
-				<Description>Allows upgrades and recharging of SpiderBot weaponry and items. Build in a 15x1x15 configuration.</Description>
+				<Description>Ermöglicht es den Spiderbot mit Verbesserungen auszustatten und ihn mit Energie aufzuladen. Wird in einer 15x15 Grudplatte aufgebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>19</Value>
 				<Key>OrganicSolarPanelMK2Placement</Key>
 				<Name>MK2 Organic Solar Component</Name>
 				<IconName>MK2 Organic Solar Component</IconName>
-				<Description>Create a 3wx1hx3d Solar Panel. Collects a minimal amount at night.</Description>
+				<Description>Erzeugt ein 3x3 Solarpanel. Sammelt auch während der Nacht minimal Energie.</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>20</Value>
 				<Key>CCCCC_Placement</Key>
 				<Name>Climate Control Centre</Name>
 				<IconName>Climate Control Centre</IconName>
-				<Description>Starts to heat up the Cold Caverns and make them habitable for human life. Build in a 5wx7hx5d configuration. (175 in total)</Description>
+				<Description>Startet die erwärmung der Cold Cavern um sie für Menschen bewohnbar zu machen. Wir in einer 5x5 Grundplatte mit 7 Höhe aufgebaut. (175 Blöcke im totalen)</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>21</Value>
 				<Key>T4_Grinder_Placement</Key>
 				<Name>Hard Rock Grinder</Name>
 				<IconName>T4_Grinder</IconName>
-				<Description>A single-use, multiblock machine. Allows you to collect a minimal amount of Chromium or Molybdenum. Build in a 3x1x3 configuration.</Description>
+				<Description>Einweg, multiblock Maschiene. Ermöglicht es kleinen Mengen CHrom oder Molybdän zu sammeln. wird in einer 3x3 Grundplatte aufgebaut.</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>22</Value>

@@ -2,7 +2,7 @@
 <ArrayOfResearchDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<ResearchDataEntry>
 		<Key>black box</Key>
-		<Name>Blackbox Daten</Name>
+		<Name>Black Box Data</Name>
 		<IconName>Black Box Data</IconName>
 		<ResearchCost>1</ResearchCost>
 		<PreDescription>Deine Anzugsblackbox hat alle Daten gespeichert, welche deinen Absturz auf dieser Welt dokumentieren. Diese Daten zu analysieren könnte helfen heraus zu finden was genau geschehen ist.</PreDescription>
@@ -10,7 +10,7 @@
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>Local Life Forms</Key>
-		<Name>Lokale Lebensformen</Name>
+		<Name>Local Life Forms</Name>
 		<IconName>Local Life Forms</IconName>
 		<ResearchCost>10</ResearchCost>
 		<PreDescription>Dieser Planet ist nicht Tot! Scanner finden Pflanzen- und Tierischelebensformen. Dieses Projekt wird untersuchen ob the Lebensformen eine Gefahr darstellen oder nicht.</PreDescription>
@@ -29,7 +29,7 @@
 	</ResearchDataEntry>
 		<ResearchDataEntry>
 		<Key>Anthropological Osteology</Key>
-		<Name>Anthropologische Osteologie</Name>
+		<Name>Anthropological Osteology</Name>
 		<IconName>Anthropological Osteology</IconName>
 		<ResearchCost>15</ResearchCost><!-- This is only for greg-level games, tbh -->
 		<PreDescription>Mit all diesen perfekt ernhaltenen Tierteilen können wir vielleicht etwas draus machen? Ja, es ist ein echtes Wort, schlag es nach!</PreDescription>
@@ -59,7 +59,7 @@
 		<IconName>Geiger</IconName>
 		<ResearchCost>0</ResearchCost>
 		<PreDescription>Wir müssen grosse Mengen an Harz analysieren um mit den Hivemind klar zukommen.</PreDescription>
-		<PostDescription>Wir sollten fähig sein mit dem gehärteten Harz, welches die Welt durchdringt, umzugehen. So wie es scheint haben die vibrationen der . It appears our mining operations' vibrations has awoken and is attracting these monsters.</PostDescription>
+		<PostDescription>Wir sollten fähig sein mit dem gehärteten Harz, welches die Welt durchdringt, umzugehen. So wie es scheint haben die vibrationen der Abbaumaschienen diese Monster erweckt und ziehen diese zudem auch noch an.</PostDescription>
 		<ProjectItemRequirements>
 			<Requirement>
 				<Key>SoftResin</Key>
@@ -77,16 +77,16 @@
 		<Name>Suit Upgrading</Name>
 		<IconName>SuitUpgrades</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>Your environmental suit is the most advanced piece of exploration engineering known to man. Unfortunately its utility depends upon a modular upgrade system currently beyond our manufacturing capabilities. It is time to look into how you can create your own upgrades away from the factories back home. You can use a bit of help surviving in this harsh environment.</PreDescription>
-		<PostDescription>With some minor adjustments, it should be possible to produce suit upgrades from basic machinery design, miniaturised to be wearable. The most obvious upgrades are a better solar cell and cold insulation to operate at higher efficiency on this hostile planet. You're going to need to use a Hydrojet Cutter upgrade on your Manufacturing Plant for this!</PostDescription>
+		<PreDescription>Dein Schutzanzug ist das Vortgeschrittenste Stück Technologie welches die Menschheit kennt. Unglücklicherwiese basiert der Anzug auf einem Modularen verbesserungssytem weöches im Moment ausserhalb unserer Produktionsfähigkeiten liegt. Es ist an der Zeit möglichkeiten zu finden eigenen Verbesserungen herzustellen vernab der heimatlichen Produktionen. Du kannst Hilfe gebrauchen um in dieser harschen umgebung zu überleben.</PreDescription>
+		<PostDescription>Mit einigen Anpassungen sollte es möglich sein, Anzugverbesserungen mit einem einfachen Maschienenaufbau, verkleinert herzustellen um tragbar zu sein. Die offensichtlichsten Verbesserungen sind bessere Solarpanelen und Kälteisolation um die Effizienz für diesen Planeten zu erhöhen. Du wirst eine Wasserstrahschneider Verbesserung auf deiner Produktionseinheit anbringen müssen um dies zu bewerkstelligen.</PostDescription>
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>advanced research</Key>
 		<Name>Laboratories</Name>
 		<IconName>Laboratory Component</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>Our research progress is being limited by the constraints of the research station. We need to design a new laboratory to continue with more advanced projects!</PreDescription>
-		<PostDescription>We now have a design for a research laboratory and the assembly machines required to supply it with experimentation pods. View the relevant handbook entry for more information.</PostDescription>
+		<PreDescription>Unser Forschungsvortschritt ist im Moment gebremst durch die limitationen welche die Forschungsstation birgt. Wir brauchen ein neues Labor um fortgeschrittene Projekte in Angriff zu nehmen!</PreDescription>
+		<PostDescription>Wir verfügen nun über ein neues Design für ein Forschungslabor sowie die Montageanlagen der neuen Experimentmodule welche für die forschung benötigt werden. Zieh den dazugehörigen Handbucheintrag zurate für weitere Informationen.</PostDescription>
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
@@ -96,8 +96,8 @@
 		<Name>Base Defence</Name>
 		<IconName>ARTHER Turret</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>We're not alone. We shall have to bring FREEDOM to this planet!</PreDescription>
-		<PostDescription>We can now make machines to bring FREEDOM to the life on this planet!</PostDescription>
+		<PreDescription>Wir sind nicht alleine hier. Wir werden diesem Planeten die FREIHEIT bringen!</PreDescription>
+		<PostDescription>Wir können nun Maschinen bauen welche FREIHEIT für das Leben auf diesem Planeten bringen!</PostDescription>
 		<ResearchRequirements>
 			<Research>Local Life Forms</Research>
 		</ResearchRequirements>
@@ -108,8 +108,8 @@
 		<Name>SpiderBot</Name>
 		<IconName>SpiderBot</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>Our modular Spider Combat Robot can be used for many tasks, but we're going to need a Docking and Upgrade station for it.</PreDescription>
-		<PostDescription>We can now make SpiderBot Weapon upgrades! To charge SpiderBot, we'll need to build him a base, then use the SpiderBot Power Core Chargers to power-up Lithium Coils, to feed to SpiderBot via attached Storage Hoppers.</PostDescription>
+		<PreDescription>Unser modluarer Spider Kampfroboter kann für verschiedene Aufgaben verwendet werden aber wir brauchen eine Dock und Verbesserungs Platform für ihn.</PreDescription>
+		<PostDescription>Wir können SpiderBot Waffenerweiterungen herstellen! Um den SpiderBot mit Energie aufzuladen, müssen wir eine Basis bauen. In Spiderbot Energiekernlader geladene Lithiumspulen werden der Platform zugeführt indem wir sie in angrenzende Trichter lagern.</PostDescription>
 		<ResearchRequirements>
 			<Research>Base Defence</Research>
 			<Research>T1 assist machines</Research>
@@ -123,8 +123,8 @@
 		<Name>Basic SpiderBot Defences</Name>
 		<IconName>SpiderBot Defences 1</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>The only way to defend ourselves is going to be via mobile defences!</PreDescription>
-		<PostDescription>We can now make SpiderBot Weapon upgrades!</PostDescription>
+		<PreDescription>Der einzige weg uns zu verteidigen geht über Mobile verteidigungsplatformen!</PreDescription>
+		<PostDescription>Wir können nun Spiderbot Waffenverbesserungen herstellen!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot</Research>
 		</ResearchRequirements>
@@ -145,8 +145,8 @@
 			</Requirement>
 		</ProjectItemRequirements>
 
-		<PreDescription>We're gonna need some much heavier firepower to take down the heavier mobs.</PreDescription>
-		<PostDescription>The Cannon weapon upgrade is now available!</PostDescription>
+		<PreDescription>Wir brauchen schwereres Kaliber um mit grösseren Gegnern fertig zu werden.</PreDescription>
+		<PostDescription>Die Kanonen Waffenverbesserung ist nun verfügbar!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot Defences1</Research>
 			<Research>advanced research</Research>
@@ -167,8 +167,8 @@
 				<Amount>150</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
-		<PreDescription>Even the cannons are of little use against the largest of the enemies. We'll need better firepower.</PreDescription>
-		<PostDescription>The Pulse Rifle upgrade is now available!</PostDescription>
+		<PreDescription>Sogar die Kanonen reichen nicht um die grössten Gegern los zu werden. Wir brauchen mehr Feuerkraft!</PreDescription>
+		<PostDescription>Das Impuls Gewehr ist nun verfügbar!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot Defences2</Research>
 			<Research>advanced research</Research>
@@ -178,8 +178,8 @@
 		<Key>Cold Research</Key>
 		<Name>Cold Research</Name>
 		<IconName>Blue GlowPod</IconName>
-		<PreDescription>The recently-discovered cavern appears to be filled with a methane gas. We're going to need to research special forms of heating in order to progress deeper.</PreDescription>
-		<PostDescription>We now have access to the suit heater technology. Crafting this will allow us to progress deeper into the planet.</PostDescription>
+		<PreDescription>Die kürzlich entdeckten Höhlen scheinen Methangas gefüllt zu sein. Wir müssen spezielle Heizelemente erforschen um tiefer vorzustossen.</PreDescription>
+		<PostDescription>Wir haben nun zugang zur Anzugsheizer Technologie. Sie herzustellen wird uns ermöglichen tiefer in diesen Planeten einzudringen.</PostDescription>
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
@@ -205,8 +205,8 @@
 		<Key>Cyrogenics Research</Key><!-- Gonna have to keep this mispelled -->
 		<Name>Cryogenics Research</Name>
 		<IconName>Blue GlowPod</IconName>
-		<PreDescription>We'll need to make better use of these ruined animal parts - they're rotting too quickly to use.</PreDescription>
-		<PostDescription>We now have access to Cryogenic technology, which will let us store animal parts!</PostDescription>
+		<PreDescription>Wir müssen ruinierte Tierteile besser verwerten, sie verrotten einfach zuschnell um von nutzen zu sein.</PreDescription>
+		<PostDescription>Wir haben nun die Tiefkühltechnologie, welche es uns ermöglicht Tierteile zu lagern!</PostDescription>
 		<ResearchRequirements>
 			<Research>Cold Research</Research>
 		</ResearchRequirements>
@@ -242,7 +242,7 @@
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
-		<PreDescription>Using local materials, it should be possible to create single use items that improve your suit's built-in ore scanning capabilities</PreDescription>
+		<PreDescription>Indem wir lokale Materialien einsetzen, sollte es möglich sein einweg Gegenstände herzustellen um die Anzugseigene Erzscan-Fähigkeiten zu verbessern.</PreDescription>
 		<PostDescription>We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit's self crafting capability (C). See the handbook for more information.</PostDescription>
 	</ResearchDataEntry>	
 	<ResearchDataEntry>
