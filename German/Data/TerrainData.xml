@@ -8009,7 +8009,7 @@
 				<Key>TurretMK1</Key>
 				<Name>Turret MK1</Name>
 				<IconName>Pop Up Turret</IconName>
-				<Description>Gut für Infrastrukturelle verteidigung.</Description>
+				<Description>Gut für Infrastrukturelleverteidigung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
@@ -8023,7 +8023,7 @@
 				<Key>TurretMK3</Key>
 				<Name>Turret MK3</Name>
 				<IconName>Pop Up Turret MK3</IconName>
-				<Description>Gut für Grossdistanz verteidigung.</Description>
+				<Description>Gut für Grossdistanzverteidigung.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -10374,7 +10374,7 @@
 				<Key>CCCCC_Placement</Key>
 				<Name>Climate Control Centre</Name>
 				<IconName>Climate Control Centre</IconName>
-				<Description>Startet die erwärmung der Cold Cavern um sie für Menschen bewohnbar zu machen. Wir in einer 5x5 Grundplatte mit 7 Höhe aufgebaut. (175 Blöcke im totalen)</Description>
+				<Description>Startet die erwärmung der Cold Cavern um sie für Menschen bewohnbar zu machen. Wird in einer 5x5 Grundplatte mit 7 Höhe aufgebaut. (175 Blöcke im totalen)</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>21</Value>
@@ -10388,112 +10388,112 @@
 				<Key>MagmaBorePlacement</Key>
 				<Name>MagmaBore Component</Name>
 				<IconName>MagmaBore Component</IconName>
-				<Description>Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 33wx3hx33d configuration (3276 total) Needs 8m of initial clearance.</Description>
+				<Description>Bohrt mit einem enormen Bohrer in die Magamakammern um die Kalten Höhlen mit wärme zu fluten. Wird in einer 33x33 Grundplatte mit 3 Höhe aufgebaut. (3276 Blöcke im totalen) Braucht 8 Meter Freiraum um zu beginnen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>23</Value>
 				<Key>ParticleFilterPlacement</Key>
 				<Name>Particle Filter</Name>
 				<IconName>Particle Filter</IconName>
-				<Description>Removes useful particulates from the air. Unlikely to make a long-term permanent difference to the air quality. Build in a 5wx3hx5d configuration. (75 in total)</Description>
+				<Description>Entfernt nutzvolle Partikel aus der Luft. Es ist unwahrscheinlich das Langzeitschäden in der Luft messbar sein werden. Wird in einer 5x5 Grunplatte mit 3 Höhe aufgebaut. (75 Blöcke im totalen)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>24</Value>
 				<Key>ParticleCompressorPlacement</Key>
 				<Name>Particle Compressor</Name>
 				<IconName>Particle Compressor</IconName>
-				<Description>Compresses low pressure gas, ready to be stored then bottled. Build in a 3x3x3 configuration.</Description>
+				<Description>Komprimiert Gas mit niederem Druck, bereit in Flaschen abgefüllt zu werden. Wird in einem 3x3x3 Würfel aufgebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>25</Value>
 				<Key>ParticleStoragePlacement</Key>
 				<Name>Particle Storage</Name>
 				<IconName>Particle Storage</IconName>
-				<Description>Stores compressed gas, ready to be bottled. Build in a 3wx7hx3d configuration.(63 in total)</Description>
+				<Description>Speichert komprimiertes Gas welches bereit ist in Flaschen angefüllt zu werden. Wird in einer 3x3 Grundplatte mit 7 Höhe aufgebaut. (63 Blöcke im totalen)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>26</Value>
 				<Key>GasBottlerPlacement</Key>
 				<Name>Gas Bottler</Name>
 				<IconName>T4_Gas_Bottler</IconName>
-				<Description>Decants compressed gas into useful containers.  Build in a 3x3x9 configuration.(81 in total)</Description>
+				<Description>Füllt Komprimiertes Gas in Behälter ab. Wird in einer 3x9 Grundplatte mit 3 Höhe (81 Blöcke im totalen)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>27</Value>
 				<Key>InductionChargerPlacement</Key>
 				<Name>Induction Charger</Name>
 				<IconName>Induction Charger</IconName>
-				<Description>Provides power routing over a 5x5 area.</Description>
+				<Description>Stellt Energieverteilung in einer 5x5 umgebung zurverfügung.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>28</Value>
 				<Key>T4CreepBurnerPlacement</Key>
 				<Name>CryoPlasm Dazzler Turret</Name>
 				<IconName>CryoPlasmBurner</IconName>
-				<Description>Long-range, fast, CryoPlasm defence. Can only work in straight lines. Requires 250k power to trigger.</Description>
+				<Description>Schnelle Langdistanz CryoPlasma verteidigung. Arbeitet nur in geraden Linien. Braucht 250k Energie um ausgelöst zu werden.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>29</Value>
 				<Key>AutoOreRemoverPlacement</Key>
 				<Name>Ore Thief</Name>
 				<IconName>Ore Thief</IconName>
-				<Description>Automatically removes ore from your inventory whilst standing on it and places it into attached Storage Hoppers. Build in a 3x3 layout.</Description>
+				<Description>Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschliessend in angrenzende Speichertrichter befördert. Wird in einem 3x3 Grundriss gebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>30</Value>
 				<Key>MagmaStoragePlacement</Key>
 				<Name>Magma Storage</Name>
 				<IconName>Magma Storage</IconName>
-				<Description>Receives Fluid Magma from appropriate machines via Fluid Pipes..</Description>
+				<Description>Erhält flüssige Magam von den zuständigen Maschienen durch Flüssigkeitsrohre.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>31</Value>
 				<Key>CryoInfernoPlacement</Key>
 				<Name>Cryo Inferno</Name>
 				<IconName>Cryo Inferno</IconName>
-				<Description>The ultimate solution to the creep. Needs line of sight to an exposed Creep Spawner.</Description>
+				<Description>Die ultimative Waffe gegen Creep. Braucht direkte Sicht zum Creapspawner um zu arbeiten.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>32</Value>
 				<Key>AutoGarbageRemoverPlacement</Key>
 				<Name>Garbage Thief</Name>
 				<IconName>Garbage Thief</IconName>
-				<Description>Automatically removes ore from your inventory whilst standing on it and places it into attached Storage Hoppers. Build in a 3x3 layout. Imported from FreedomWorld.</Description>
+				<Description>Entmüllt automatisch den Inventar wenn man auf ihm steht. Der Müll werden anschliessend in angrenzende Speichertrichter befördert. Wird in einem 3x3 Grundriss gebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>33</Value>
 				<Key>AutoBarRemoverPlacement</Key>
 				<Name>Bar Keeper</Name>
 				<IconName>Bar Keeper</IconName>
-				<Description>Automatically removes bars from departing network players. Also functions as an Ore Thief 3000, only for smelted Bars! Build in a 3x3 layout.</Description>
+				<Description>Entfernt automatisch, das Netzwerkspiel verlassende Spielern die Barren aus dem Inventar. Funktioniert wie ein Ore Thief nur mit geschmolzenen Barren. Wird in einem 3x3 Grundriss gebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>34</Value>
 				<Key>TrencherDrillPlacementMk2</Key>
 				<Name>Trencher Drill Mk2 component</Name>
 				<IconName>Trencher Drill Mk2 component</IconName>
-				<Description>Improved Trencher Drill. Builds in the same way as the Mk 1.</Description>
+				<Description>Verbesserter Grabenbohrer. Wird gleich wie der MK1 Grabenbohrer aufgebaut.</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>35</Value>
 				<Key>TrencherDrillPlacementMk3</Key>
 				<Name>Trencher Drill Mk3 component</Name>
 				<IconName>Trencher Drill Mk3 component</IconName>
-				<Description>Greatly improved Trencher Drill. Builds in the same way as the Mk 1.</Description>
+				<Description>Massiv verbesserter Grabenbohrer. Wird gleich wie der MK1 Grabenbohrer aufgebaut.</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>36</Value>
 				<Key>AutoOrganicRemoverPlacement</Key>
 				<Name>Auto Organic Thief</Name>
 				<IconName>Auto Organic Thief</IconName>
-				<Description>Automatically removed ruined parts from your inventory.</Description>
+				<Description>Entfernt automatisch ruinierte Teile aus deinem Inventar.</Description>
 			</ValueEntry>			
 			<ValueEntry>
 				<Value>37</Value>
 				<Key>LaserBorerPlacement</Key>
 				<Name>Laser Borer</Name>
 				<IconName>LaserBorer</IconName>
-				<Description>HEFC-powered Laser Boring device. Rapidly creates a 3x3 hole down to the centre of the Cold Caverns. Build in a 3x3x3 shape.</Description>
+				<Description>HEFC-betriebene Laserbohrvorrichtung. Gräbt zügig einen 3x3 Schacht ins Zentrum der kalten Höhlen. Wird in einem 3x3x3 Würfel gebaut.</Description>
 			</ValueEntry>
 
 
@@ -11182,14 +11182,14 @@
 				<Key>CastingPipeStraight</Key>
 				<Name>Casting Pipe (Straight)</Name>
 				<IconName>Straight Casting Pipe</IconName>
-				<Description>Allows molten metal to flow from Blast Furnace to Continuous Casting Basin</Description>
+				<Description>Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>CastingPipeBend</Key>
 				<Name>Casting Pipe (Bend)</Name>
 				<IconName>Bent Casting Pipe</IconName>
-				<Description>Allows molten metal to flow from Blast Furnace to Continuous Casting Basin</Description>
+				<Description>Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</Description>
 			</ValueEntry>
 		</Values>		
 		<DefaultValue>0</DefaultValue>
@@ -11226,14 +11226,14 @@
 				<Key>GenericPipeStraight</Key>
 				<Name>Fluid Pipe (Straight)</Name>
 				<IconName>Straight Fluid Pipe</IconName>
-				<Description>Allows connection of appropriate machines. Can also carry gases.</Description>
+				<Description>Ermöglicht den Anschluss von passenden Maschienen. Kann Gase transportieren.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>GenericPipeBend</Key>
 				<Name>Fluid Pipe (Bend)</Name>
 				<IconName>Bent Fluid Pipe</IconName>
-				<Description>Allows connection of appropriate machines. Can also carry gases.</Description>
+				<Description>Ermöglicht den Anschluss von passenden Maschienen. Kann Gase transportieren.</Description>
 			</ValueEntry>
 		</Values>		
 		<DefaultValue>0</DefaultValue>
@@ -11371,7 +11371,7 @@
 		<Key>MassStorageIO</Key>
 		<Name>Mass Storage I/O Port</Name>
 		<IconName>Mass Storage IO Port</IconName>
-		<Description>High throughput IO for mass storage</Description>
+		<Description>Ein-/Ausgangsport mit grossen Durchsatz.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>143</TopTexture>
 		<SideTexture>143</SideTexture>
@@ -11393,7 +11393,7 @@
 				<Key>MassStorageIOMK1</Key>
 				<Name>Mass Storage IO Port</Name>
 				<IconName>Mass Storage IO Port</IconName>
-				<Description>High throughput IO for mass storage</Description>
+				<Description>Ein-/Ausgangsport mit grossen Durchsatz.</Description>
 			</ValueEntry>
 		</Values>		
 		<tags>
@@ -11404,7 +11404,7 @@
   		<CubeType>32511</CubeType>
 		<Key>WorkshopPlacement</Key>
   		<Name>Workshop Placement</Name>
-		<Description>Place in pairs diagonally\nCreates Detail block workshop\nSize 2x2x2 to 8x8x8</Description>
+		<Description>Wird diagonal Plaziert\n Erzeugt eine Datailblockwerkstatt\nGrösse von 2x2x2 bis 8x8x8</Description>
   		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>195</TopTexture>
   		<SideTexture>195</SideTexture>
