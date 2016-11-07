@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Bronzite Chassis Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Chassis_Assembler_T2</SpawnObject>
+	<Value>ConstructoBotChassisAssembler_T2</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	<!-- Bronzite = 1 tin + 1 copper part-->
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructoBot_Body_03</Key>
+		<CraftedName>ConstructoBot Bronzite Chassis</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ConstructoBot_Body_01</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ConstructoBot_Body_01</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The third grade of ConstructoBot Chassis, this Bronzite Chassis allows storage of 250 power.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

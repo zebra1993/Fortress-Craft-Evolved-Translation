@@ -2202,6 +2202,51 @@
 		<Hardness>150000</Hardness><!-- Even Orbital Strikes can't kill this - it needs to manually remove itself after its death sequence -->
 	</TerrainDataEntry>	
 	
+	<!-- Fucking about with this won't give access to anything, it will just allow me to hide research away so you can't research machines you can't build-->
+	<TerrainDataEntry>
+		<CubeType>999</CubeType>
+		<Key>Unused_DLC_Key</Key>
+		<Name>UnusedName</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>269</TopTexture>
+		<SideTexture>269</SideTexture>
+		<BottomTexture>269</BottomTexture>
+		<GUITexture>269</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>false</hasObject>
+		<hasEntity>false</hasEntity>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<IconName>No Icon</IconName>
+		<Hardness>50000</Hardness>
+
+		<Values>
+			<ValueEntry>
+				<Value>0</Value>
+				<Key>Adventures_Pack_DLC</Key>
+				<Name>Adventures Pack DLC</Name>
+				<IconName>Adventures_Pack_DLC</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Thank you for buying the Adventures Pack DLC!</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>1</Value>
+				<Key>CRP_DLC</Key>
+				<Name>CRP DLC</Name>
+				<IconName>CRP_DLC</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Thank you for being a Patreon supporter! http://patreon.com/FortressCraft </Description>
+			</ValueEntry>
+	 
+		</Values>
+
+	</TerrainDataEntry>	
+	
 	<TerrainDataEntry>
 		<CubeType>68</CubeType>
 		<Key>SoftResin</Key>
@@ -4743,7 +4788,33 @@
 			<tag>Lights</tag>
 			<tag>Machinery</tag>
 		</tags>
-	</TerrainDataEntry>		
+	</TerrainDataEntry>	
+	<TerrainDataEntry>
+		<CubeType>172</CubeType>
+		<Key>HalloweenCauldron</Key>
+		<Name>Halloween Cauldron</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>168</TopTexture>
+		<SideTexture>168</SideTexture>
+		<BottomTexture>168</BottomTexture>
+		<GUITexture>168</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>true</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>false</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Lights</tag>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>	
 	<TerrainDataEntry>
 		<CubeType>149</CubeType>
 		<Key>Snowman</Key>
@@ -7629,6 +7700,196 @@
 		</tags>
 	</TerrainDataEntry>
 	
+<TerrainDataEntry>
+		<CubeType>755</CubeType>
+		<Key>ConstructoBotControl</Key>
+		<Name>ConstructoBot Control</Name>
+		<Values>
+			<ValueEntry><!-- Forces all CBs along this path -->
+				<Value>0</Value>
+				<Key>ConstructoBotTrackStraight</Key>
+				<Name>ConstructoBot Direction</Name>
+				<IconName>Track Straight</IconName>
+				<Description>Forces ConstructoBots to head in this direction.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>1</Value>
+				<Key>ConstructoBotTrackCargoDecision</Key>
+				<Name>ConstructoBot Cargo Control</Name>
+				<IconName>Track Corner</IconName>
+				<Description>ConstructoBots with cargo will head in the the direction of the GREEN arrow.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>2</Value>
+				<Key>ConstructoBotTrackCargoFull</Key>
+				<Name>ConstructoBot Loaded Control</Name>
+				<IconName>Track Slope</IconName>
+				<Description>Full ConstructoBots will head in this direction.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>3</Value>
+				<Key>ConstructoBotTrackCargoEmpty</Key>
+				<Name>ConstructoBot Unloaded Control</Name>
+				<IconName>Track Slope</IconName>
+				<Description>Empty ConstructoBots will head in this direction.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>4</Value>
+				<Key>ConstructoBotLowPower</Key>
+				<Name>ConstructoBot Power Control</Name>
+				<IconName>MinecartBuffer</IconName>
+				<Description>Low-power ConstructoBots will head in this direction.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>5</Value>
+				<Key>ConstructoBotTJuncction</Key>
+				<Name>ConstructoBot T-junction</Name>
+				<IconName>MinecartBuffer</IconName>
+				<Description>ConstructoBots will alternate Left/Right on hitting this.</Description>
+			</ValueEntry>
+			<ValueEntry><!-- Temp, will need to be an entity -->
+				<Value>98</Value>
+				<Key>ConstructoBotSprayer</Key>
+				<Name>ConstructoBot Sprayer</Name>
+				<IconName>MinecartBuffer</IconName>
+				<Description>Randomise ConstructoBots paint schemes.</Description>
+			</ValueEntry>
+			<ValueEntry><!-- Temp, will need to be an entity -->
+				<Value>99</Value>
+				<Key>ConstructoBotColdProtection</Key>
+				<Name>ConstructoBot Cold Protector</Name>
+				<IconName>MinecartBuffer</IconName>
+				<Description>Applies Cold Protection to ConstructoBots.</Description>
+			</ValueEntry>
+			<ValueEntry><!-- Temp, will need to be an entity -->
+				<Value>100</Value>
+				<Key>ConstructoBotCharger</Key>
+				<Name>ConstructoBot Charger</Name>
+				<IconName>MinecartBuffer</IconName>
+				<Description>Charges a ConstructoBot.</Description>
+			</ValueEntry>
+			<!--WArningLight Reactor?
+			This is an Entity!
+			<ValueEntry>
+				<Value>4</Value>
+				<Key>ConstructoBotTrafficLight</Key>
+				<Name>ConstructoBot Traffic Light</Name>
+				<IconName>MinecartBufferFull</IconName>
+				<Description>Ensures that ConstructoBots are nicely spread out.</Description>
+			</ValueEntry>
+
+
+			<ValueEntry>
+				<Value>5</Value>
+				<Key>MinecartBufferEmpty</Key>
+				<Name>Minecart Empty Gate</Name>
+				<IconName>MinecartBufferEmpty</IconName>
+				<Description>Minecarts following the RED arrow will turn around unless EMPTY. GREEN is freely passable.</Description>
+			</ValueEntry>-->
+		</Values>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>true</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>false</hasEntity>
+		<Category>Minecarts</Category><!-- We'll need a new category -->
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+
+	<TerrainDataEntry>
+		<CubeType>757</CubeType>
+		<Key>ConstructoBotConstructor</Key>
+		<Name>ConstructoBot Constructor</Name>
+		<IconName>Track Straight</IconName>
+		<Description>Builds a ConstructoBot from input conveyors with Arm, Body and Legs.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Minecarts</Category><!-- We'll need a new category -->
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+
+	<TerrainDataEntry>
+		<CubeType>800</CubeType>
+		<Key>SLODRS</Key>
+		<Name>H.O.D.O.R.</Name>
+		<IconName>NONE_YOU_CANT_USE_THIS</IconName>
+		<Description>High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Minecarts</Category><!-- We'll need a new category -->
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<PickReplacement>SLODRSPlacement</PickReplacement>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+	<TerrainDataEntry>
+		<CubeType>801</CubeType>
+		<Key>T3FuelCompressor</Key>
+		<Name>Fuel Compressor.</Name>
+		<IconName>NONE_YOU_CANT_USE_THIS</IconName>
+		<Description>Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source.</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<PickReplacement>T3_FuelCompressorPlacement</PickReplacement>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>	
+	
 	<TerrainDataEntry>
 		<CubeType>514</CubeType>
 		<Key>ResearchStation</Key>
@@ -7972,6 +8233,50 @@
 				<IconName>ClusterMissileCrafter</IconName>
 				<Description>Wandelt eine durchtränkte Raktet in 8 Schnellfeuer Rakete um, jede teilt zwar nut 1/4 des originalen Schadens aus, was aber im gesamten zu einer verdoppelung des Schadens führt.</Description>
 			</ValueEntry>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>37</Value>
+				<Key>ConstructoBotChassisAssembler_T0</Key>
+				<Name>ConstructoBot Coppator Chassis Assembler</Name>
+				<IconName>ConstructoBotChassisAssembler_T0</IconName>
+				<Description>Constructs Tier 0 (Coppator) ConstructoBot Chassis.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>38</Value>
+				<Key>ConstructoBotChassisAssembler_T1</Key>
+				<Name>ConstructoBot Tindron Chassis Assembler</Name>
+				<IconName>ConstructoBotChassisAssembler_T1</IconName>
+				<Description>Constructs Tier 1 (Tindron) ConstructoBot Chassis.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>39</Value>
+				<Key>ConstructoBotChassisAssembler_T2</Key>
+				<Name>ConstructoBot Bronzite Chassis Assembler</Name>
+				<IconName>ConstructoBotChassisAssembler_T2</IconName>
+				<Description>Constructs Tier 2 (Bronzite) ConstructoBot Chassis.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>40</Value>
+				<Key>ConstructoBotChassisAssembler_T3</Key>
+				<Name>ConstructoBot Ironide Chassis Assembler</Name>
+				<IconName>ConstructoBotChassisAssembler_T3</IconName>
+				<Description>Constructs Tier 2 (Ironide) ConstructoBot Chassis.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>58</Value>
+				<Key>ConstructoBotLegAssembler</Key>
+				<Name>ConstructoBot Leg Assembler</Name>
+				<IconName>ConstructoBotLegAssembler</IconName>
+				<Description>Constructs Tier 0 (Coppator) ConstructoBot Legs.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>69</Value>
+				<Key>ConstructoBotArmAssembler</Key>
+				<Name>ConstructoBot Arm Assembler</Name>
+				<IconName>ConstructoBotArmAssembler</IconName>
+				<Description>Constructs Tier 0 (Coppator) ConstructoBot Arms.</Description>
+			</ValueEntry>			
+			
 	    </Values>
 		
 		<DefaultValue>0</DefaultValue>
@@ -10240,7 +10545,7 @@
 				<Value>1</Value>
 				<Key>RefineryReactorVatPlacement</Key>
 				<Name>Refinery Reactor Vat Component</Name>
-				<IconName>Metal Siding 1</IconName>
+				<IconName>Refinery Reactor Vat Component</IconName>
 				<Description>Beinhaltet Biochemischereaktionen die unter Hochdruck stehen. In einem 3x3x3 Würfel plazieren um einen Reaktorkessel zu formen. Raffineriekontrollstation anbauen um zu nutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
@@ -10495,7 +10800,20 @@
 				<IconName>LaserBorer</IconName>
 				<Description>HEFC-betriebene Laserbohrvorrichtung. Gräbt zügig einen 3x3 Schacht ins Zentrum der kalten Höhlen. Wird in einem 3x3x3 Würfel gebaut.</Description>
 			</ValueEntry>
-
+			<ValueEntry>
+				<Value>38</Value>
+				<Key>SLODRSPlacement</Key>
+				<Name>High Orbital Debris Object Reclaimer</Name>
+				<IconName>SLODRS</IconName>
+				<Description>Allows launching of a missile to knock orbital debris down to the surface.</Description>
+			</ValueEntry>
+				<ValueEntry>
+				<Value>39</Value>
+				<Key>T3_FuelCompressorPlacement</Key>
+				<Name>Fuel Compressor.</Name>
+				<IconName>FuelCompressor</IconName>
+				<Description>Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source.</Description>
+			</ValueEntry
 
      	</Values>
 		<Stages>

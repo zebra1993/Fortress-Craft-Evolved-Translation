@@ -243,15 +243,15 @@
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
 		<PreDescription>Indem wir lokale Materialien einsetzen, sollte es möglich sein einweg Gegenstände herzustellen um die Anzugseigene Erzscan-Fähigkeiten zu verbessern.</PreDescription>
-		<PostDescription>We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit's self crafting capability (C). See the handbook for more information.</PostDescription>
+		<PostDescription>Wir haben erfolgreich den Erzscanner verbessert sodass er nun Filter nutzen kann. Um dies zu tun, stelle einen leeren Erzping in der Konstruktionsanlage her. Konvertiere ihn in deinem Anzugherstellungssystem zum gebrauchen Erzping. Schau im Handbuch nach für mehr Informationen.</PostDescription>
 	</ResearchDataEntry>	
 	<ResearchDataEntry>
 		<Key>mining upgrade 1</Key>
 		<Name>Basic Mining Upgrades I</Name>
 		<IconName>Magnetic Drill Motor</IconName>
 		<ResearchCost>5</ResearchCost>
-		<PreDescription>We need to improve the rate at which we can improve the rate at which we can collect and smelt ore. This project will focus on improving the performance of ore exractors and smelters.</PreDescription>
-		<PostDescription>We have successfully researched a number of upgrades to improve our resource collection capability including faster drill motors, ore smelter upgrades and a new basic ore smelter.</PostDescription>
+		<PreDescription>Wir müssen die Rate mit welcher wir Erze extrahieren und verarbeiten verbessern. Dieses Projekt wird sich mit der Leistungssteigerung von Schmelzöfen und Erzförderern befassen</PreDescription>
+		<PostDescription>Wir haben erfolgreich eineige vebesserungen erforscht um unsere Rescourcen sammelfähigkeiten zu steigern. Darunter befinden sich schnellere Bohrkopfantriebe, Schmelzofenverbesserungen und ein neuer kleiner Schnelzofen.</PostDescription>
 		
 		<!-- No longer requires the lab - the player simply can't get enough bars smelter to make this happen -->
 		<!--
@@ -267,8 +267,8 @@
 		<Key>T1 Power</Key>
 		<Name>Power Grid</Name>
 		<IconName>Power Grid</IconName>
-		<PreDescription>We cannot survive on just the power produced by our Central Power Hub for long. As our base expands we'll need to find new ways to generate power and transfer it to distant mining operations so that we don't need to run about powering them manually.</PreDescription>
-		<PostDescription>We now have a new method of generating and transporting power. This project has also designed new upgrades for ARTHER and a new machine, the Matter Mover, capable of teleporting materials from one storage hopper to another.</PostDescription>
+		<PreDescription>Wir werden nicht ewig nur vom CPH mit genug Energie versorgt. Während sich unsere Basis vergrössert müssen wir neue, bessere Wege bei der Energieerzeugung und -verteilung finden. Wir können nicht dauernd zu entfernten Abbauorten rennen und die Energie von Hand verteilen.</PreDescription>
+		<PostDescription>Wir haben eine neue Methode Energie zu erzeugen und transportieren. Das Projekt hat ebenfalls ein neues Design für ARTHERverbesserungen und eine neue Maschiene, den Masse. This project has also designed new upgrades for ARTHER and a new machine, the Matter Mover, capable of teleporting materials from one storage hopper to another.</PostDescription>
 		<ResearchCost>5</ResearchCost>
 	</ResearchDataEntry>
 	<ResearchDataEntry>
@@ -529,7 +529,7 @@
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
 		<PreDescription>Optimising your mining operation requires a scalpel, not a hammer. (Hammers available as a seperate upgrade, of course). This research project will focus on improvements in storage, sorting and additional base construction tools</PreDescription>
-		<PostDescription>Now available : MK1 Robot Arm, Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
+		<PostDescription>Now available : Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 			<Research>advanced research</Research>
@@ -936,6 +936,107 @@
 			</Requirement>
 		</ProjectItemRequirements>
 	</ResearchDataEntry>
+		<ResearchDataEntry>
+		<Key>rocketry1</Key>
+		<Name>Basic Rocketry</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>If we can master a more potent fuel source, we should be able to create simple rockets to complete tasks for us.</PreDescription>
+		<PostDescription>We now have access to Fuel Compressors, that will make us High Octane Fuel!</PostDescription>
+		<ResearchRequirements>
+			<Research>orbitalpower</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BiomassGrowth</Key>
+				<Amount>512</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics1</Key>
+		<Name>Basic Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to basic Robotics Control modules, and Coppator robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics2</Key>
+		<Name>Simple Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Tindron robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics3</Key>
+		<Name>Intermediate Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Bronzite robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics2</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics4</Key>
+		<Name>Complex Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Ironide robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics3</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>Advanced Defence</Key>
 		<Name>Advanced Defence</Name>
@@ -1230,6 +1331,29 @@
 			<Scan>ColdCreep</Scan>
 		</ScanRequirements>
 	</ResearchDataEntry>
+	
+	<ResearchDataEntry>
+		<Key>T4defence5</Key>
+		<Name>Improved CryoPlasm Defence</Name>
+		<IconName>Static CryoPlasm Defence</IconName>
+		<PreDescription>With some work, we should be able to use Freezon gas to supercharge our existing defence network. This technology should also used to massively improve our existing Resin handling system.</PreDescription>
+		<PostDescription>For the Cold Caverns! FOR FREEDOM!</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence1</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
 
 	<!--Now needs T4 materials -->
 	<ResearchDataEntry>
@@ -1303,6 +1427,18 @@
 		<ScanRequirements>
 			<Scan>FluidMagma</Scan>
 		</ScanRequirements>
+
+	</ResearchDataEntry>
+		<ResearchDataEntry>
+		<Key>Halloween</Key>
+		<Name>Spooky Aesthetics</Name>
+		<IconName>Spooky</IconName>
+		<PreDescription>In glorious tradition, we should consider decorating our base for the forthcoming celebration.</PreDescription>
+		<PostDescription>Doot doot.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>Aesthetics</Research>
+		</ResearchRequirements>
 
 	</ResearchDataEntry>
 	

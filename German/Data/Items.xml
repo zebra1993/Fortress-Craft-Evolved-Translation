@@ -195,6 +195,21 @@
 			<Research>mining upgrade 2</Research>
 		</ResearchRequirements>	
 	</ItemEntry>
+	</ItemEntry>
+		<ItemEntry>
+		<ItemID>35</ItemID>
+		<Key>HighOctaneFuel</Key>
+		<Name>High Octane Fuel</Name>
+		<Plural>High Octane Fuel</Plural>
+		<Type>ItemStack</Type>	
+		<Object>HighOctaneCanister</Object>
+		<Sprite>HighOctanelCanister</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>rocketry1</Research>
+		</ResearchRequirements>
+	</ItemEntry>
 
 	<ItemEntry>
 		<ItemID>45</ItemID>
@@ -2068,6 +2083,79 @@
 			<Research>T1 Power</Research>
 		</ResearchRequirements>		
 	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2100</ItemID>
+		<Key>ARTHERSheet</Key>
+		<Name>ARTHER Ghost Costume</Name>
+		<Plural>ARTHER Ghost Costumes</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Ghost Costume</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>2101</ItemID>
+		<Key>ARTHERMaskSkeleton</Key>
+		<Name>ARTHER Skeleton Mask</Name>
+		<Plural>ARTHER Skeleton Mask</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Skeleton Mask</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>2102</ItemID>
+		<Key>ARTHERMaskPumpkin</Key>
+		<Name>ARTHER Pumpkin Mask</Name>
+		<Plural>ARTHER Pumpkin Mask</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Pumpkin Mask</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2103</ItemID>
+		<Key>ARTHERMaskGhost</Key>
+		<Name>ARTHER Ghost Mask</Name>
+		<Plural>ARTHER Ghost Mask</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Ghost Mask</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2104</ItemID>
+		<Key>ARTHERMaskGoblin</Key>
+		<Name>ARTHER Goblin Mask</Name>
+		<Plural>ARTHER Goblin Mask</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Goblin Mask</Sprite>
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	
 	<!--SpiderBot upgrades are in the 2??? range-->
 	<ItemEntry>
 		<ItemID>2500</ItemID>
@@ -2860,6 +2948,339 @@
 		<!-- Atlas optional -->
 		<Category>CraftingIngredient</Category>
 	</ItemEntry>
+			<!-- Robot Components -->
+
+	<!-- Tiers -->
+
+	<!-- Coppator -->
+	<!-- Tindron *plus something slightly awkward-->
+	<!-- Bronzite (Tin + copper) -->
+	<!-- Ironide (+ bronze?)-->
+
+	<!-- Goldenrod (+Iron?) -->
+	<!-- Rosteeld (Steel + Gold?)-->
+	<!-- Titaniux -->
+	<!-- Stenforcer -->
+
+	<!-- Cromize (Chromium) -->
+	<!-- Ultron(Chromium) -->
+
+	<!-- We then have another 10 body parts without a matching arm and leg -->
+
+
+	<ItemEntry>
+		<ItemID>5000</ItemID>
+		<Key>ConstructoBot_Body_01</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_01</Object>
+		<Sprite>ConstructoBot_Body_01</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5001</ItemID>
+		<Key>ConstructoBot_Body_02</Key>
+		<Name>ConstructoBot Tindron Chassis</Name>
+		<Plural>ConstructoBot Tindron Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_02</Object>
+		<Sprite>ConstructoBot_Body_02</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics2</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5002</ItemID>
+		<Key>ConstructoBot_Body_03</Key>
+		<Name>ConstructoBot Bronzite Chassis</Name>
+		<Plural>ConstructoBot Bronzite Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_03</Object>
+		<Sprite>ConstructoBot_Body_03</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics3</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5003</ItemID>
+		<Key>ConstructoBot_Body_04</Key>
+		<Name>ConstructoBot Ironide Chassis</Name>
+		<Plural>ConstructoBot Ironide Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_04</Object>
+		<Sprite>ConstructoBot_Body_04</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5004</ItemID>
+		<Key>ConstructoBot_Body_05</Key>
+		<Name>ConstructoBot Goldenrod Chassis</Name>
+		<Plural>ConstructoBot Goldenrod Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_05</Object>
+		<Sprite>ConstructoBot_Body_05</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5005</ItemID>
+		<Key>ConstructoBot_Body_06</Key>
+		<Name>ConstructoBot Rosteeld Chassis</Name>
+		<Plural>ConstructoBot Rosteeld Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_06</Object>
+		<Sprite>ConstructoBot_Body_06</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5006</ItemID>
+		<Key>ConstructoBot_Body_07</Key>
+		<Name>ConstructoBot Titaniux Chassis</Name>
+		<Plural>ConstructoBot Titaniux Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_07</Object>
+		<Sprite>ConstructoBot_Body_07</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5007</ItemID>
+		<Key>ConstructoBot_Body_08</Key>
+		<Name>ConstructoBot Stenforcer Chassis</Name>
+		<Plural>ConstructoBot Stenforcer Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_08</Object>
+		<Sprite>ConstructoBot_Body_08</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5008</ItemID>
+		<Key>ConstructoBot_Body_09</Key>
+		<Name>ConstructoBot Cromize Chassis</Name>
+		<Plural>ConstructoBot Cromize Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_09</Object>
+		<Sprite>ConstructoBot_Body_09</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5009</ItemID>
+		<Key>ConstructoBot_Body_10</Key>
+		<Name>ConstructoBot Ultron Chassis</Name>
+		<Plural>ConstructoBot Ultron Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_10</Object>
+		<Sprite>ConstructoBot_Body_10</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<!--  -->
+	<ItemEntry>
+		<ItemID>5010</ItemID>
+		<Key>ConstructoBot_Body_11</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_11</Object>
+		<Sprite>ConstructoBot_Body_11</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5011</ItemID>
+		<Key>ConstructoBot_Body_12</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_12</Object>
+		<Sprite>ConstructoBot_Body_12</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5012</ItemID>
+		<Key>ConstructoBot_Body_13</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_13</Object>
+		<Sprite>ConstructoBot_Body_13</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5013</ItemID>
+		<Key>ConstructoBot_Body_14</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_14</Object>
+		<Sprite>ConstructoBot_Body_14</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5014</ItemID>
+		<Key>ConstructoBot_Body_15</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_15</Object>
+		<Sprite>ConstructoBot_Body_15</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5015</ItemID>
+		<Key>ConstructoBot_Body_16</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_16</Object>
+		<Sprite>ConstructoBot_Body_16</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5016</ItemID>
+		<Key>ConstructoBot_Body_17</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_17</Object>
+		<Sprite>ConstructoBot_Body_17</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5017</ItemID>
+		<Key>ConstructoBot_Body_18</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_18</Object>
+		<Sprite>ConstructoBot_Body_18</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5018</ItemID>
+		<Key>ConstructoBot_Body_19</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_19</Object>
+		<Sprite>ConstructoBot_Body_19</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>5019</ItemID>
+		<Key>ConstructoBot_Body_20</Key>
+		<Name>ConstructoBot Coppator Chassis</Name>
+		<Plural>ConstructoBot Coppator Chassis</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Body_20</Object>
+		<Sprite>ConstructoBot_Body_20</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
+		</ResearchRequirements>
+	</ItemEntry>
+
+
+	<ItemEntry>
+		<ItemID>5050</ItemID>
+		<Key>ConstructoBot_Arm_01</Key>
+		<Name>ConstructoBot Coppator Arm</Name>
+		<Plural>ConstructoBot Coppator Arm</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Arm_01</Object>
+		<Sprite>ConstructoBot_Arm_01</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+
+	<ItemEntry>
+		<ItemID>5100</ItemID>
+		<Key>ConstructoBot_Leg_01</Key>
+		<Name>ConstructoBot Coppator Leg</Name>
+		<Plural>ConstructoBot Coppator Leg</Plural>
+		<Type>ItemStack</Type>	
+		<Object>ConstructoBot_Leg_01</Object>
+		<Sprite>ConstructoBot_Leg_01</Sprite>
+		<!-- Atlas optional -->
+		<Category>CraftingIngredient</Category>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</ItemEntry>
+
 	<!-- MOD Items start at 10000 so DO NOT add any items to this file with item ids of 10000 or higher
 	     In the unlikely event you run out of space then leave the item id blank and update the item loading
 	     code to assign per-world item ids in the same way that it currently does for mods -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Tindron Chassis Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Chassis_Assembler_T1</SpawnObject>
+	<Value>ConstructoBotChassisAssembler_T1</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructoBot_Body_02</Key>
+		<CraftedName>ConstructoBot Tindron Chassis</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>PrimaryPCB</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The second grade of ConstructoBot Chassis, this Tindron Chassis only allows storage of 50 power.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>
