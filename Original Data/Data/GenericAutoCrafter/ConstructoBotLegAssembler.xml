@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Leg Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Leg_Assembler</SpawnObject>
+	<Value>ConstructoBotLegAssembler</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructoBot_Leg_01</Key>
+		<CraftedName>ConstructoBot Coppator Leg</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>BasicPCB</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The lowest grade of ConstructoBot Leg, this Coppator Leg carrying of 5 items at once.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

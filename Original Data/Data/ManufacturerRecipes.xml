@@ -3633,7 +3633,7 @@
 			<Research>t4_start</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery. Uses 3 Advanced Machine Blocks and a single MK5 Power Booster.</Description>
+		<Description>Common component for advanced machinery. Uses 4 Advanced Machine Blocks and a single MK5 Power Booster.</Description>
 		<Hint>Can also be used for construction.</Hint>
 	</CraftData>
 
@@ -4043,6 +4043,123 @@
 			<Research>T1 Power</Research>
 		</ResearchRequirements>
 	</CraftData>
+
+
+	<CraftData>
+		<Key>ArtherSkeletonMask</Key>
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERMaskSkeleton</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>BaubleBerry</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Remember those baubleberries you macerated? You'll want some of those.</Description>
+		<Hint>Dooo-OOOOO-ooooot!</Hint>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ArtherPumpkinMask</Key><!-- Charter?! -->
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERMaskPumpkin</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>OrangeGlowPod</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Uses Orange Glow pods to provide a nice orange glow.</Description>
+		<Hint>Oooo-OOOOO-ooooo!</Hint>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ArtherGhostMask</Key><!-- Charter?! -->
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERMaskGhost</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ARTHERMaskSkeleton</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ARTHERMaskGoblin</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ARTHERMaskPumpkin</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Take one of each of the other masks create the ultimate ghost mask!</Description>
+		<Hint>Dootdoot.</Hint>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ArtherGoblinMask</Key><!-- Charter?! -->
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERMaskGoblin</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GreenGlowPod</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Uses Green Glow pods to provide a nice green glow.</Description>
+		<Hint>Dooo-OOOOO-ooooot!</Hint>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ARTHERSheet</Key><!-- Charter?! -->
+		<Category>upgrades</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERSheet</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>ARTHERMaskSkeleton</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ARTHERMaskGoblin</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ARTHERMaskPumpkin</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ARTHERMaskGhost</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>WHAT TERROR LURKS BENEATH THE CLOTH OF DOOM???</Description>
+		<Hint>Answer : It's ARTHER.</Hint>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
+
 	
 	<CraftData>
 		<Key>arther turret</Key>
@@ -6290,7 +6407,7 @@
 		<Hint>Press U to ride!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
-			<Research>t4_start</Research>
+			<Research>Halloween</Research>
 		</ResearchRequirements>
 	</CraftData>
 
@@ -6355,6 +6472,308 @@
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<MasterRecipe>minecarttrackcorner</MasterRecipe>
 	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotTrackStraight_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotTrackStraight</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Forces ConstructoBots to head in this direction.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>ConstructoBotTrackCargoDecision_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotTrackCargoDecision</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>ConstructoBots with cargo will head in the the direction of the GREEN arrow.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+		<CraftData>
+		<Key>ConstructoBotTrackCargoFull_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotTrackCargoFull</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Full ConstructoBots will head in this direction.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+		<CraftData>
+		<Key>ConstructoBotTrackCargoEmpty_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotTrackCargoEmpty</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Empty ConstructoBots will head in this direction.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+	<CraftData>
+		<Key>ConstructoBotTJuncction_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotTJuncction</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>ConstructoBots will alternate Left/Right on hitting this.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotSprayer_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotSprayer</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Sprays ConstructoBots a random colour (for now).</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotColdProtection_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotColdProtection</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Sprays ConstructoBots with a material that allows operation in the Cold Caverns. Requires SOMETHING_COLD.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotCharger_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotCharger</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Fully-charges ConstructoBots. Requires Power.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotChassisAssembler_T0_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotChassisAssembler_T0</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperBar</Key>
+				<Amount>64</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles Coppator ConstructoBot Chassis.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotChassisAssembler_T1_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotChassisAssembler_T1</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>64</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles Tindron ConstructoBot Chassis.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics2</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotChassisAssembler_T2_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotChassisAssembler_T2</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>TinBar</Key>
+				<Amount>32</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>CopperBar</Key>
+				<Amount>32</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles Bronzite ConstructoBot Chassis.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics3</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotChassisAssembler_T3_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotChassisAssembler_T3</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>64</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles Ironide ConstructoBot Chassis.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics4</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotLegAssembler_T0_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotLegAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles T0 Coppator ConstructoBot Legs.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotArmAssembler_T0_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotArmAssembler</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Assembles T0 Coppator ConstructoBot Arms.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>ConstructoBotConstructor_CD</Key>
+		<Category>minecarts</Category>
+		<Tier>1</Tier>
+		<CraftedKey>ConstructoBotConstructor</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronBar</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchCost>3</ResearchCost>
+		<Description>Constructs a machine that can Construct ConstructoBots.</Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+
 
 	<CraftData>
 		<Key>CargoLiftControllerPlacement</Key>
@@ -6698,8 +7117,29 @@
 		<Description>Black cats optional</Description>
 		<Hint>Requires the Dapper DLC pack!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
 	</CraftData>
-	
+		<CraftData>
+		<Key>HalloweenCauldron</Key>
+		<Category>decoration</Category>
+		<Tier>0</Tier>
+		<CraftedKey>HalloweenCauldron</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+		<CraftCost>
+			<Key>ConstructionPaste</Key>
+			<Amount>16</Amount>
+		</CraftCost>
+		</Costs>
+		<Description>Worst lighting ever.</Description>
+		<Hint>Requires the Dapper DLC pack!</Hint>
+		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Halloween</Research>
+		</ResearchRequirements>
+	</CraftData>
 	<CraftData>
 		<Key>Snowman</Key>
 		<Category>decoration</Category>
@@ -6972,7 +7412,7 @@
 	<!-- We haven't really got many, and the icon is correct, so.... -->
 	<CraftData>
 		<Key>cryohopper</Key>
-		<Category>consumables</Category>
+		<Category>logistics</Category>
 		<Tier>2</Tier> <!-- Blue -->
 		<CraftedKey>CryoHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7100,7 +7540,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Uses large amounts of power to imbue standard Steel Cutter Heads with plasma-based energy.</Description>
-		<Hint>Gives a quadruple rate on the Ore Extractor, but the charge disappears after 2500 ore is returned.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
+		<Hint>Gives a quadruple rate on the Ore Extractor, but the charge disappears after 2000 ore is returned.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
 		<ResearchRequirements>
 			<Research>Alloys</Research> <!-- Might want a secondary research after this-->
 		</ResearchRequirements>
@@ -7497,7 +7937,7 @@
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>
-				<Amount>128</Amount>
+				<Amount>96</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>ImbuedMachineBlock</Key>
@@ -7773,7 +8213,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchRequirements>
-			<Research>T4_8LightsInTheDark</Research>
+			<Research>T4defence5</Research>
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
 		<Description>Attach to a Storage Hopper to inject Compressed Freezon into compatible machines.</Description>
@@ -8046,6 +8486,44 @@
 		<Hint>Use to bore out straight tunnels</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 4</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>T3_FuelCompressor_CD</Key>
+		<Category>upgrades</Category>
+		<Tier>2</Tier>
+		<CraftedKey>T3_FuelCompressorPlacement</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>HardenedMachineBlock</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Composites Coal Ore and High Energy Composite Fuel into High Octane Fuel. Build in a 3x3x3 layout.</Description>
+		<Hint>Use to bore out straight tunnels</Hint>
+		<ResearchRequirements>
+			<Research>rocketry1</Research>
+		</ResearchRequirements>
+	</CraftData>
+
+	<CraftData>
+		<Key>HODOR_CD</Key>
+		<Category>upgrades</Category>
+		<Tier>2</Tier>
+		<CraftedKey>SLODRSPlacement</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>HardenedMachineBlock</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The High Orbital Debris Object Reclaimer (or H.O.D.O.R) can be used to knock orbital debris out of the atmosphere for our use.</Description>
+		<Hint>Ensure sky clearance. Like really. REALLY you want skyclearance. I mean it. Big baddaboom.</Hint>
+		<ResearchRequirements>
+			<Research>rocketry1</Research>
 		</ResearchRequirements>
 	</CraftData>
 

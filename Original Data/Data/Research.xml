@@ -529,7 +529,7 @@
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
 		<PreDescription>Optimising your mining operation requires a scalpel, not a hammer. (Hammers available as a seperate upgrade, of course). This research project will focus on improvements in storage, sorting and additional base construction tools</PreDescription>
-		<PostDescription>Now available : MK1 Robot Arm, Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
+		<PostDescription>Now available : Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 			<Research>advanced research</Research>
@@ -936,6 +936,109 @@
 			</Requirement>
 		</ProjectItemRequirements>
 	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>rocketry1</Key>
+		<Name>Basic Rocketry</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>If we can master a more potent fuel source, we should be able to create simple rockets to complete tasks for us.</PreDescription>
+		<PostDescription>We now have access to Fuel Compressors, that will make us High Octane Fuel!</PostDescription>
+		<ResearchRequirements>
+			<Research>orbitalpower</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BiomassGrowth</Key>
+				<Amount>512</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics1</Key>
+		<Name>Basic Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to basic Robotics Control modules, and Coppator robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>T1 assist machines</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics2</Key>
+		<Name>Simple Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Tindron robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics1</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics3</Key>
+		<Name>Intermediate Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Bronzite robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics2</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>robotics4</Key>
+		<Name>Complex Robotics</Name>
+		<IconName>LaunchPad</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>This will allow access to Ironide robotics parts.</PreDescription>
+		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<ResearchRequirements>
+			<Research>robotics3</Research>
+		</ResearchRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>BasicPCB</Key>
+				<Amount>32</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+		<ScanRequirements>
+			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+	</ResearchDataEntry>
+
 	<ResearchDataEntry>
 		<Key>Advanced Defence</Key>
 		<Name>Advanced Defence</Name>
@@ -1231,6 +1334,29 @@
 		</ScanRequirements>
 	</ResearchDataEntry>
 
+	<ResearchDataEntry>
+		<Key>T4defence5</Key>
+		<Name>Improved CryoPlasm Defence</Name>
+		<IconName>Static CryoPlasm Defence</IconName>
+		<PreDescription>With some work, we should be able to use Freezon gas to supercharge our existing defence network. This technology should also used to massively improve our existing Resin handling system.</PreDescription>
+		<PostDescription>For the Cold Caverns! FOR FREEDOM!</PostDescription>
+
+		<ResearchRequirements>
+			<Research>T4defence1</Research>
+		</ResearchRequirements>
+
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>ImbuedMachineBlock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+		</ProjectItemRequirements>
+
+		<ScanRequirements>
+			<Scan>ColdCreep</Scan>
+		</ScanRequirements>
+	</ResearchDataEntry>
+
 	<!--Now needs T4 materials -->
 	<ResearchDataEntry>
 		<Key>T4_Particles</Key>
@@ -1303,6 +1429,19 @@
 		<ScanRequirements>
 			<Scan>FluidMagma</Scan>
 		</ScanRequirements>
+
+	</ResearchDataEntry>
+
+	<ResearchDataEntry>
+		<Key>Halloween</Key>
+		<Name>Spooky Aesthetics</Name>
+		<IconName>Spooky</IconName>
+		<PreDescription>In glorious tradition, we should consider decorating our base for the forthcoming celebration.</PreDescription>
+		<PostDescription>Doot doot.</PostDescription>
+
+		<ResearchRequirements>
+			<Research>Aesthetics</Research>
+		</ResearchRequirements>
 
 	</ResearchDataEntry>
 	

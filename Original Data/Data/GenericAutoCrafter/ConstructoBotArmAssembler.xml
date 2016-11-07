@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Arm Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Arm_Assembler</SpawnObject>
+	<Value>ConstructoBotArmAssembler</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructoBot_Arm_01</Key>
+		<CraftedName>ConstructoBot Coppator Arm</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>BasicPCB</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The lowest grade of ConstructoBot Arm, this Coppator Arm takes 15 seconds to interact with machines.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

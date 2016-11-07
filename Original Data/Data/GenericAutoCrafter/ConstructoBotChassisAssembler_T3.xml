@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Ironide Chassis Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Chassis_Assembler_T3</SpawnObject>
+	<Value>ConstructoBotChassisAssembler_T3</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>ConstructoBot_Body_02</Key>
+		<CraftedName>ConstructoBot Ironide Chassis</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>HardenedPCB</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>The fourth grade of ConstructoBot Chassis, this Ironide Chassis allows storage of 500 power.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>
