@@ -268,14 +268,14 @@
 		<Name>Power Grid</Name>
 		<IconName>Power Grid</IconName>
 		<PreDescription>Wir werden nicht ewig nur vom CPH mit genug Energie versorgt. Während sich unsere Basis vergrössert müssen wir neue, bessere Wege bei der Energieerzeugung und -verteilung finden. Wir können nicht dauernd zu entfernten Abbauorten rennen und die Energie von Hand verteilen.</PreDescription>
-		<PostDescription>Wir haben eine neue Methode Energie zu erzeugen und transportieren. Das Projekt hat ebenfalls ein neues Design für ARTHERverbesserungen und eine neue Maschiene, den Masse. This project has also designed new upgrades for ARTHER and a new machine, the Matter Mover, capable of teleporting materials from one storage hopper to another.</PostDescription>
+		<PostDescription>Wir haben eine neue Methode Energie zu erzeugen und transportieren. Das Projekt hat ebenfalls ein neues Design für ARTHERverbesserungen und eine neue Maschiene, den Massebeweger, welcher fähig ist Materialien von einem Speichertrichter zum anderen Trichter zu teleportieren.</PostDescription>
 		<ResearchCost>5</ResearchCost>
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>T2 Power</Key>
 		<Name>Upgraded Power Grid</Name>
 		<IconName>Upgraded Power Grid</IconName>
-		<PreDescription>Our power infrastructure is coming along nicely. Our battery technology is quite limited though, this project will attempt to design a better battery which can store more power providing us a bigger buffer.</PreDescription>
+		<PreDescription>Unsere Energieinfrastruktur entwickelt sich prächtig. Unsere Batterien sind jedoch ziehmlich limitiert. Dieses Projekt wird sich mit einer Batterie befassen welche mehr Speichern kann, um une mit einem grösseren Puffer zu versorgen.</PreDescription>
 		<PostDescription>We have developed a new battery capable of carrying a much bigger charge. We also have designs for a more powerful Laser Energy Transmitter, however this requires materials with more advanced properties than those found near the surface.</PostDescription>
 		<ScanRequirements>
 			<Scan>LithiumOre</Scan>

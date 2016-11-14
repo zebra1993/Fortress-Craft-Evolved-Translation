@@ -10805,14 +10805,14 @@
 				<Key>SLODRSPlacement</Key>
 				<Name>High Orbital Debris Object Reclaimer</Name>
 				<IconName>SLODRS</IconName>
-				<Description>Allows launching of a missile to knock orbital debris down to the surface.</Description>
+				<Description>Ermöglicht es Raketengestützt Trümmer aus dem Orbit zur Oberfläche zu bringen.</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>39</Value>
 				<Key>T3_FuelCompressorPlacement</Key>
 				<Name>Fuel Compressor.</Name>
 				<IconName>FuelCompressor</IconName>
-				<Description>Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source.</Description>
+				<Description>Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff.</Description>
 			</ValueEntry
 
      	</Values>
