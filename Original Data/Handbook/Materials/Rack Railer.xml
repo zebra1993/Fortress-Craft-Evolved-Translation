@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Rack Railer</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rack Railer</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Rack Railer is a machine capable of molding a pair of iron bars into a usable rail for the cargo lift system.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+					</Target>
+					<Text>Rack Rail</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Required power:</Left>
+					<Right>100pps</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Refer to Cargo Lift Controller for more information.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material></Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

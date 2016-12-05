@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Rack Rail</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Rack Rail</Text>
+				</Title>
+				<Spacer/>
+				<Icon>
+					<Name>Rack Rail</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rails used by cargo lifts to transport materials.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Rack Railer</Material>
+					</Target>
+					<Text>Rack Railer</Text>
+				</Link>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Refer to Cargo Lift Controller for more information.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material></Target>
+					<Text>Cargo Lift Controller</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

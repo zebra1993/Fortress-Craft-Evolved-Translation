@@ -1,0 +1,59 @@
+<MaterialEntry>
+	<Name>Slime Attractor</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Slime Attractor</Text>
+				</Title>
+				<Icon>
+					<Name>Slime Attractor </Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>	The Slime Attractor is the first step to defeating the menaces that roam this hostile environment. Using the rotting remains of their comrades the attraction of slimes is now possible. </Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>	Though turret technology cannot detect this specific menace the frequent deaths of slimes at the hands of gravity shows that slimes are not invincible to more natural means of destruction.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Spoiled Organic Remains</Material>
+					</Target>
+					<Text>Spoiled Organic Remains</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Requires power:
+					Requirments:</Left>
+					<Right>No
+					Spoiled Organic Remains</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Troubleshooting </Text>
+				</Title>
+				<Spacer/>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>* Slimes will occasionally get stuck due to poor pathing to the trap, or a bad spawn location. A well-running trap should have Slimes dying on a regular basis. If that's not the case, walk around and look for trouble spots where slimes collect in groups.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>* Like players, Slimes can travel up 1m block heights automatically. Therefore, look for hills and valleys that Slimes may be stuck behind because there isn't a smooth transition in heights. If you find any try to smooth it out for them. If it's a large mountain, often a simple tunnel can provide an adequate path. Additionally, Slimes can get stuck in 1m tall spaces. Like players, they need 2m tall spaces to move, so either fill in the 1m tall gaps (kill the slime with your gun first) or dig out a 2m space.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>* Try building your Slime Attractor far from your base. Underground floors that have been excavated as well as well as terrain damage from SpiderBot can all create unexpected terrain complications for Slimes. </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

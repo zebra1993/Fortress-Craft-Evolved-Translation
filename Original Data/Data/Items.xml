@@ -632,6 +632,7 @@
 		<Category>MachineUpgrade</Category>
 		<ResearchRequirements>
 			<Research>alloys</Research>
+			<Research>mining upgrade 5</Research>
 		</ResearchRequirements>		
 	</ItemEntry>
 	
@@ -2977,7 +2978,7 @@
 		<Object>ConstructoBot_Body_01</Object>
 		<Sprite>ConstructoBot_Body_01</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
 		</ResearchRequirements>
@@ -2991,7 +2992,7 @@
 		<Object>ConstructoBot_Body_02</Object>
 		<Sprite>ConstructoBot_Body_02</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics2</Research>
 		</ResearchRequirements>
@@ -3005,7 +3006,7 @@
 		<Object>ConstructoBot_Body_03</Object>
 		<Sprite>ConstructoBot_Body_03</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics3</Research>
 		</ResearchRequirements>
@@ -3019,7 +3020,7 @@
 		<Object>ConstructoBot_Body_04</Object>
 		<Sprite>ConstructoBot_Body_04</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research>
 		</ResearchRequirements>
@@ -3033,7 +3034,7 @@
 		<Object>ConstructoBot_Body_05</Object>
 		<Sprite>ConstructoBot_Body_05</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3047,7 +3048,7 @@
 		<Object>ConstructoBot_Body_06</Object>
 		<Sprite>ConstructoBot_Body_06</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3061,7 +3062,7 @@
 		<Object>ConstructoBot_Body_07</Object>
 		<Sprite>ConstructoBot_Body_07</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3075,7 +3076,7 @@
 		<Object>ConstructoBot_Body_08</Object>
 		<Sprite>ConstructoBot_Body_08</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3089,7 +3090,7 @@
 		<Object>ConstructoBot_Body_09</Object>
 		<Sprite>ConstructoBot_Body_09</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3103,7 +3104,7 @@
 		<Object>ConstructoBot_Body_10</Object>
 		<Sprite>ConstructoBot_Body_10</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3118,7 +3119,7 @@
 		<Object>ConstructoBot_Body_11</Object>
 		<Sprite>ConstructoBot_Body_11</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3132,7 +3133,7 @@
 		<Object>ConstructoBot_Body_12</Object>
 		<Sprite>ConstructoBot_Body_12</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3146,7 +3147,7 @@
 		<Object>ConstructoBot_Body_13</Object>
 		<Sprite>ConstructoBot_Body_13</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3160,7 +3161,7 @@
 		<Object>ConstructoBot_Body_14</Object>
 		<Sprite>ConstructoBot_Body_14</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3174,7 +3175,7 @@
 		<Object>ConstructoBot_Body_15</Object>
 		<Sprite>ConstructoBot_Body_15</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3188,7 +3189,7 @@
 		<Object>ConstructoBot_Body_16</Object>
 		<Sprite>ConstructoBot_Body_16</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3202,7 +3203,7 @@
 		<Object>ConstructoBot_Body_17</Object>
 		<Sprite>ConstructoBot_Body_17</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3216,7 +3217,7 @@
 		<Object>ConstructoBot_Body_18</Object>
 		<Sprite>ConstructoBot_Body_18</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3230,7 +3231,7 @@
 		<Object>ConstructoBot_Body_19</Object>
 		<Sprite>ConstructoBot_Body_19</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3244,7 +3245,7 @@
 		<Object>ConstructoBot_Body_20</Object>
 		<Sprite>ConstructoBot_Body_20</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics4</Research><!-- Todo, lock to the right tier when implemented -->
 		</ResearchRequirements>
@@ -3260,7 +3261,7 @@
 		<Object>ConstructoBot_Arm_01</Object>
 		<Sprite>ConstructoBot_Arm_01</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
 		</ResearchRequirements>
@@ -3275,7 +3276,7 @@
 		<Object>ConstructoBot_Leg_01</Object>
 		<Sprite>ConstructoBot_Leg_01</Sprite>
 		<!-- Atlas optional -->
-		<Category>CraftingIngredient</Category>
+		<Category>Robotics</Category>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
 		</ResearchRequirements>

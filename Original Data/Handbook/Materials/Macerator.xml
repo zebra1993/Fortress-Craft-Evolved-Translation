@@ -11,13 +11,19 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Energy dependent machine that can crush almost every block into oblivion. In rare occasions useful ore will be found in return!</Text>
+					<Text>The Macerator Is capable of atomizing some of the most resilient materials known to man. Sometimes the atomization process returns a mineral rich compound primarily consisting of one of the elements that the imputed item contains. The outputted item is indistinguishable from normal ore and can be treated as such.</Text>
 				</Paragraph>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Requires power:</Left>
+					<Right>yes</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Spacer/>
 				<Header>
 					<Text>Tips and Tricks!</Text>
 				</Header>
-				<Paragraph><Text>- This machine need quite some power to work at full speed!</Text></Paragraph>
-				<Paragraph><Text>- This machine is fed from a conveyor belt and will output any reclaimed ore to a adjacent storage hopper.</Text></Paragraph>
+				<Paragraph><Text>- This machine is fed from a conveyor belt, and will output any reclaimed ore to a adjacent storage hopper.</Text></Paragraph>
 			</Paragraphs>
 		</Page>				
 	</Pages>

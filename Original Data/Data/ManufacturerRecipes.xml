@@ -2,7 +2,7 @@
 <ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<CraftData>
 		<Key>solar</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>1</Tier>
 		<CraftedKey>SolarPanelMk1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -38,7 +38,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>organic solar</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>2</Tier>
 		<CraftedKey>OrganicSolarPanel</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -73,7 +73,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>solar2</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>5</Tier>
 		<CraftedKey>SolarPanelMK2Placement</CraftedKey>
 		<CraftedAmount>3</CraftedAmount>
@@ -97,7 +97,7 @@
 
 	<CraftData>
 		<Key>solar2organic</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>6</Tier>
 		<CraftedKey>OrganicSolarPanelMK2Placement</CraftedKey>
 		<CraftedAmount>3</CraftedAmount>
@@ -122,7 +122,7 @@
 
 	<CraftData>
 		<Key>PTG</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>0</Tier>
 		<CraftedKey>PyrothermicGenerator</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -173,7 +173,7 @@
 
 	<CraftData>
 		<Key>laser_t0</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>BasicLaserEnergyTransmitter</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -192,7 +192,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>laser</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -219,7 +219,7 @@
 	<!-- self-craft upcraft version of above -->
 	<CraftData>
 		<Key>LaserEnergyTransmitterUpgrade</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -249,7 +249,7 @@
 	
 	<CraftData>
 		<Key>laser mk2</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>1</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -274,7 +274,7 @@
 	<!-- self-craft upcraft version of above -->
 	<CraftData>
 		<Key>LaserEnergyTransmitterMk2Upgrade</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>1</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -303,7 +303,7 @@
 	
 	<CraftData>
 		<Key>laser mk3</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>2</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -335,7 +335,7 @@
 
 	<CraftData>
 		<Key>laser_mk3_new</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>2</Tier>
 		<CraftedKey>LaserEnergyTransmitterMK3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -704,7 +704,7 @@
 
 	<CraftData>
 		<Key>T4_Conduit</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>4</Tier>
 		<CraftedKey>ConduitPlacement</CraftedKey>
 		<CraftedAmount>3</CraftedAmount>
@@ -842,7 +842,7 @@
 	
 	<CraftData>
 		<Key>hoppermini</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MiniHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -861,7 +861,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>hopperlog</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>LogisticsHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -880,7 +880,7 @@
 	</CraftData>
 		<CraftData>
 		<Key>HopperMiniFromLogistics</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MiniHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -897,7 +897,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>HopperLogisticsFromMini</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>LogisticsHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -915,7 +915,7 @@
 	
 	<CraftData>
 		<Key>hopper</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>StorageHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -935,7 +935,7 @@
 	<!-- Upcraft of above -->
 	<CraftData>
 		<Key>HopperFromLogistics</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>StorageHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1315,7 +1315,7 @@
 	
 	<CraftData>
 		<Key>ore smelter</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>2</Tier>
 		<CraftedKey>StandardOreSmelter</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1342,7 +1342,7 @@
 	
 	<CraftData>
 		<Key>basic ore smelter</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>1</Tier>
 		<CraftedKey>BasicOreSmelter</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1369,7 +1369,7 @@
 	
 	<CraftData>
 		<Key>forced induction</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ForcedInductionMK1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1391,7 +1391,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>forced induction2</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>2</Tier>
 		<CraftedKey>ForcedInductionMK2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1425,7 +1425,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>forced induction3</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>3</Tier>
 		<CraftedKey>ForcedInductionMK3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1460,7 +1460,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>forced induction4</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>4</Tier>
 		<CraftedKey>ForcedInductionMK4</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1492,7 +1492,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>forced induction5</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>5</Tier>
 		<CraftedKey>ForcedInductionMK5</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -1513,7 +1513,7 @@
 
 	<CraftData>
 		<Key>forced induction6</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>6</Tier>
 		<CraftedKey>ForcedInductionMK6</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -2173,7 +2173,7 @@
 				<Amount>4</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Beams resources from an attached Storage Hopper to another up to 32m away, 2 at a time. Peak Performance : 300/min</Description>
+		<Description>Beams resources from an attached Storage Hopper to another up to 32m away, 2 at a time. Peak Performance : 150/min</Description>
 		<Hint>Rapid Transfer, high Energy cost</Hint>
 		<ResearchRequirements>
 			<Research>T3 Power</Research><!-- maybe higher tier-->
@@ -2815,7 +2815,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>OrganicLens</Key>
+				<Key>CrudeOrganicLens</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -2843,7 +2843,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>OrganicLens</Key>
+				<Key>CrudeOrganicLens</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -2871,7 +2871,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 			<CraftCost>
-				<Key>OrganicLens</Key>
+				<Key>CrudeOrganicLens</Key>
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
@@ -2929,7 +2929,7 @@
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Increases the efficiency of your suit's solar panels. Only one required and must be carried in inventory. Requires Hydrojet Cutter to manufacture.</Description>
 		<Hint>Suit Item! You only need 1! May only be crafted if the Hydrojet Cutter is present.</Hint>
 	</CraftData>
@@ -2958,7 +2958,7 @@
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Increases suit heating power protecting you from extreme cold. Only one required and must be carried in your inventory.</Description>
 		<Hint>Suit Item! You only need 1.</Hint>
 	</CraftData>
@@ -2990,7 +2990,7 @@
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Doubles your suit's power capacity. Only one required and must be carried in your inventory.</Description>
 		<Hint>Suit Item! You only need 1! May only be crafted if the Hydrojet Cutter is present.</Hint>
 	</CraftData>
@@ -3083,7 +3083,7 @@
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Reduces the power drain of your suit's headlamp. Only one required and must be carried in your inventory.</Description>
 		<Hint>Suit Item! You only need 1</Hint>
 	</CraftData>
@@ -3112,7 +3112,7 @@
 			<Research>alloys</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Can dig through more materials than your starting build gun. Can dismantle Ore Smelters and Manufacturing Plants.</Description>
 		<Hint>Suit Item! You only need 1!</Hint>
 	</CraftData>
@@ -3180,7 +3180,7 @@
 		<ScanRequirements>
 			<Scan>ToxicCavernStone</Scan>
 		</ScanRequirements>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Crafting this allows your suit to filter out dangerous and hallucinogenic toxins from the atmosphere.</Description>
 		<Hint>Use this to progress past the poison-spore filled caves</Hint>
 	</CraftData>
@@ -3209,7 +3209,7 @@
 			<Research>biomass</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Allows the use of jet thrust to fly over short ranges. Uses large amounts of power. Activate with 'J'.</Description>
 		<Hint>Suit Item! You only need 1!</Hint>
 	</CraftData>	
@@ -3354,7 +3354,7 @@
 	
 	<CraftData>
 		<Key>wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>StorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3371,7 +3371,7 @@
 		
 	<CraftData>
 		<Key>red wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>RedStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3394,7 +3394,7 @@
 	
 	<CraftData>
 		<Key>green wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>GreenStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3417,7 +3417,7 @@
 	
 	<CraftData>
 		<Key>Blue wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>BlueStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3440,7 +3440,7 @@
 	
 	<CraftData>
 		<Key>Purple wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>PurpleStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3467,7 +3467,7 @@
 	
 	<CraftData>
 		<Key>Yellow wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>YellowStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3494,7 +3494,7 @@
 	
 	<CraftData>
 		<Key>Black wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>BlackStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3513,7 +3513,7 @@
 	
 	<CraftData>
 		<Key>White wooden storage crate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>0</Tier>
 		<CraftedKey>WhiteStorageCrate</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3569,7 +3569,7 @@
 
 	<CraftData>
 		<Key>SteelAlloySmelter</Key>
-		<Category>manufacturing</Category>
+		<Category>Smelting</Category>
 		<Tier>2</Tier>
 		<CraftedKey>SteelAlloySmelter</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3770,7 +3770,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>jet turbine housing</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>2</Tier>
 		<CraftedKey>JetTurbineGeneratorHousingPlacement</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3798,7 +3798,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>jet turbine intake</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>2</Tier>
 		<CraftedKey>JetTurbineGeneratorIntakePlacement</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3824,7 +3824,7 @@
 	
 	<CraftData>
 		<Key>arther core</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERPowerCore</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3841,7 +3841,7 @@
 	
 	<CraftData>
 		<Key>arther battery</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERBatteryCore</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3855,7 +3855,7 @@
 				<Amount>32</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Allows ARTHER to hold 8x more charge which he can transfer to you when you run low. Only one required and must be carried in your inventory.</Description>
 		<Hint>Allows ARTHER to collect more power</Hint>
 		
@@ -3866,7 +3866,7 @@
 
 	<CraftData>
 		<Key>arther solar</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERSolarPanel</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3884,13 +3884,13 @@
 				<Amount>24</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Improves the rate at which ARTHER regenerates power from sunlight. Only one required and must be carried in your inventory.</Description>
 		<Hint>Allows ARTHER to collect power faster</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>arther upgrade pack</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERUpgradePack</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3911,14 +3911,14 @@
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
 		</ResearchRequirements>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Gives the effect of the Solar Panel, Core and Battery. Use this to save inventory space.</Description>
 		<Hint>Use this to save room in your inventory.</Hint>
 	</CraftData>
 
 	<CraftData>
 		<Key>arther dapper moustache</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERDapperMoustache</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3928,14 +3928,14 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Insert 'moustache ride' joke here. Only works if you have the Dapper Indie Supporter DLC.</Description>
 		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
 	</CraftData>
 	
 	<CraftData>
 		<Key>arther dapper hat</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERDapperHat</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3945,14 +3945,14 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Keep ARTHER looking Dapper AND dry! Only works if you have the Dapper Indie Supporter DLC.</Description>
 		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
 	</CraftData>
 	
 	<CraftData>
 		<Key>arther dapper monocle</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERDapperMonocle</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3962,14 +3962,14 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Improves ARTHER vision! Only works if you have the Dapper Indie Supporter DLC.</Description>
 		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
 	</CraftData>
 	
 	<CraftData>
 		<Key>arther dapper pack</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERDapperPack</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -3987,14 +3987,14 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Fully Dapper! Use this to save room in your inventory.</Description>
 		<Hint>Use this to save room in your inventory.</Hint>
 	</CraftData>
 	
 	<CraftData>
 		<Key>arther dapper upgrade pack</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERDapperUpgradePack</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4011,14 +4011,14 @@
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
 		</ResearchRequirements>		
-		<RequiredModule>HydrojetCutter</RequiredModule>
+		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
 		<Description>Fully Upgraded - Fully Dapper! Use this to save room in your inventory.</Description>
 		<Hint>Use this to save room in your inventory.</Hint>
 	</CraftData>
 		
 	<CraftData>
 		<Key>arther charter</Key><!-- Charter?! -->
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERChargingStation</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4047,7 +4047,7 @@
 
 	<CraftData>
 		<Key>ArtherSkeletonMask</Key>
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERMaskSkeleton</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4066,7 +4066,7 @@
 
 	<CraftData>
 		<Key>ArtherPumpkinMask</Key><!-- Charter?! -->
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERMaskPumpkin</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4085,7 +4085,7 @@
 
 	<CraftData>
 		<Key>ArtherGhostMask</Key><!-- Charter?! -->
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERMaskGhost</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4112,7 +4112,7 @@
 
 	<CraftData>
 		<Key>ArtherGoblinMask</Key><!-- Charter?! -->
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERMaskGoblin</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4131,7 +4131,7 @@
 
 	<CraftData>
 		<Key>ARTHERSheet</Key><!-- Charter?! -->
-		<Category>upgrades</Category>
+		<Category>ArtherUpgrade</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ARTHERSheet</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4547,7 +4547,7 @@
 	
 	<CraftData>
 		<Key>diamond lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>DiamondFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4566,7 +4566,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>emerald lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>EmeraldFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4585,7 +4585,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>ruby lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>RubyFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4604,7 +4604,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>sapphire lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>SapphireFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4623,7 +4623,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>topaz lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>TopazFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4642,7 +4642,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>sugalite lense</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>SugaliteFocusingLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4663,7 +4663,7 @@
 	
 	<CraftData>
 		<Key>organic lense 1</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>CrudeOrganicLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4686,7 +4686,7 @@
 	
 	<CraftData>
 		<Key>organic lense 2</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>OrganicLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4709,7 +4709,7 @@
 	
 	<CraftData>
 		<Key>organic lense3</Key>
-		<Category>power</Category>
+		<Category>powertransmission</Category>
 		<Tier>0</Tier>
 		<CraftedKey>ExceptionalOrganicLens</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4862,7 +4862,7 @@
 	
 	<CraftData>
 		<Key>massstoragecrate</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageBlock</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4881,7 +4881,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinput</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageInputPortMK1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4912,7 +4912,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK2</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageInputPortMK2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4939,7 +4939,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK3</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageInputPortMK3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -4970,7 +4970,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutput</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageOutputPortMK1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -5001,7 +5001,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK2</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageOutputPortMK2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -5028,7 +5028,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK3</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageOutputPortMK3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -5060,7 +5060,7 @@
 
 	<CraftData>
 		<Key>MassStorageController</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageController</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -5084,7 +5084,7 @@
 
 	<CraftData>
 		<Key>MassStorageIO</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>1</Tier>
 		<CraftedKey>MassStorageIO</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6475,7 +6475,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotTrackStraight_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotTrackStraight</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6494,7 +6494,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>ConstructoBotTrackCargoDecision_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotTrackCargoDecision</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6513,7 +6513,7 @@
 	</CraftData>
 		<CraftData>
 		<Key>ConstructoBotTrackCargoFull_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotTrackCargoFull</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6532,7 +6532,7 @@
 	</CraftData>
 		<CraftData>
 		<Key>ConstructoBotTrackCargoEmpty_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotTrackCargoEmpty</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6551,7 +6551,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>ConstructoBotTJuncction_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotTJuncction</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6571,7 +6571,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotSprayer_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotSprayer</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6591,7 +6591,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotColdProtection_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotColdProtection</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6611,7 +6611,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotCharger_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotCharger</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6631,7 +6631,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotChassisAssembler_T0_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotChassisAssembler_T0</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6651,7 +6651,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotChassisAssembler_T1_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotChassisAssembler_T1</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6671,7 +6671,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotChassisAssembler_T2_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotChassisAssembler_T2</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6695,7 +6695,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotChassisAssembler_T3_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotChassisAssembler_T3</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6715,7 +6715,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotLegAssembler_T0_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotLegAssembler</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6735,7 +6735,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotArmAssembler_T0_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotArmAssembler</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6755,7 +6755,7 @@
 
 	<CraftData>
 		<Key>ConstructoBotConstructor_CD</Key>
-		<Category>minecarts</Category>
+		<Category>Robotics</Category>
 		<Tier>1</Tier>
 		<CraftedKey>ConstructoBotConstructor</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6773,11 +6773,9 @@
 		</ResearchRequirements>
 	</CraftData>
 
-
-
 	<CraftData>
 		<Key>CargoLiftControllerPlacement</Key>
-		<Category>logistics</Category>
+		<Category>logistics</Category><!-- advanced logistics? bulk logistics -->
 		<Tier>1</Tier>
 		<CraftedKey>CargoLiftControllerPlacement</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -6815,7 +6813,7 @@
 				<Amount>4</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Crafts Rack Rails from Iron Bars.</Description>
+		<Description>Crafts Rack Rails from Iron Bars, used in the automation of Cargo Lift rails.</Description>
 		<Hint>Cargo Lifts are awesome..</Hint>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
@@ -7412,7 +7410,7 @@
 	<!-- We haven't really got many, and the icon is correct, so.... -->
 	<CraftData>
 		<Key>cryohopper</Key>
-		<Category>logistics</Category>
+		<Category>storage</Category>
 		<Tier>2</Tier> <!-- Blue -->
 		<CraftedKey>CryoHopper</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7459,7 +7457,7 @@
 	
 	<CraftData>
 		<Key>coalenricher</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>2</Tier>
 		<CraftedKey>CoalEnricher</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7492,7 +7490,7 @@
 
 	<CraftData>
 		<Key>coalinfuser</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>2</Tier>
 		<CraftedKey>CoalInfuser</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7549,7 +7547,7 @@
 
 	<CraftData>
 		<Key>CCCCC_Placement_Craft</Key>
-		<Category>mining</Category>
+		<Category>upgrades</Category><!-- "Progression" -->
 		<Tier>4</Tier>
 		<CraftedKey>CCCCC_Placement</CraftedKey>
 		<CraftedAmount>5</CraftedAmount><!-- 175 -->
@@ -7712,7 +7710,7 @@
 
 	<CraftData>
 		<Key>GeothermalGeneratorPlacementMan</Key>
-		<Category>power</Category>
+		<Category>powergeneration</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GeothermalGeneratorPlacement</CraftedKey>
 		<CraftedAmount>5</CraftedAmount>
@@ -7748,7 +7746,7 @@
 
 	<CraftData>
 		<Key>CCBPlacement</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>4</Tier>
 		<CraftedKey>CastingBasinPlacement</CraftedKey>
 		<CraftedAmount>5</CraftedAmount><!-- 75 in total -->
@@ -7774,7 +7772,7 @@
 
 	<CraftData>
 		<Key>BlastFurnacePlacement</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>4</Tier>
 		<CraftedKey>BlastFurnacePlacement</CraftedKey>
 		<CraftedAmount>9</CraftedAmount><!-- 7 clicks to make -->
@@ -7800,7 +7798,7 @@
 
 	<CraftData>
 		<Key>CastingPipeStraight</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>4</Tier>
 		<CraftedKey>CastingPipeStraight</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7828,7 +7826,7 @@
 
 	<CraftData>
 		<Key>CastingPipeBend</Key>
-		<Category>mining</Category>
+		<Category>smelting</Category>
 		<Tier>4</Tier>
 		<CraftedKey>CastingPipeBend</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -7956,7 +7954,7 @@
 
 	<CraftData>
 		<Key>particlefiltercomponent</Key>
-		<Category>mining</Category>
+		<Category>particulates</Category>
 		<Tier>4</Tier>
 		<CraftedKey>ParticleFilterPlacement</CraftedKey>
 		<CraftedAmount>5</CraftedAmount>
@@ -7984,7 +7982,7 @@
 
 	<CraftData>
 		<Key>particlecompressorcomponent</Key>
-		<Category>mining</Category>
+		<Category>particulates</Category>
 		<Tier>4</Tier>
 		<CraftedKey>ParticleCompressorPlacement</CraftedKey>
 		<CraftedAmount>9</CraftedAmount>
@@ -8012,7 +8010,7 @@
 
 	<CraftData>
 		<Key>ParticleStoragePlacementcomponent</Key>
-		<Category>mining</Category>
+		<Category>particulates</Category>
 		<Tier>4</Tier>
 		<CraftedKey>ParticleStoragePlacement</CraftedKey>
 		<CraftedAmount>9</CraftedAmount>
@@ -8036,7 +8034,7 @@
 
 	<CraftData>
 		<Key>GasBottlerPlacementcomponent</Key>
-		<Category>mining</Category>
+		<Category>particulates</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GasBottlerPlacement</CraftedKey>
 		<CraftedAmount>9</CraftedAmount>
@@ -8060,7 +8058,7 @@
 
 	<CraftData>
 		<Key>GenericPipeStraightkey</Key>
-		<Category>mining</Category>
+		<Category>logistics</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GenericPipeStraight</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8084,7 +8082,7 @@
 
 	<CraftData>
 		<Key>GenericPipeStraightkeySC</Key>
-		<Category>mining</Category>
+		<Category>logistics</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GenericPipeStraight</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8104,7 +8102,7 @@
 	</CraftData>
 	<CraftData>
 		<Key>GenericPipeBendkey</Key>
-		<Category>mining</Category>
+		<Category>logistics</Category>
 		<Tier>4</Tier>
 		<CraftedKey>GenericPipeBend</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8198,7 +8196,7 @@
 
 	<CraftData>
 		<Key>FreezonInjector</Key>
-		<Category>power</Category>
+		<Category>upgrades</Category><!-- Progression -->
 		<Tier>4</Tier>
 		<CraftedKey>FreezonInjector</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8217,7 +8215,7 @@
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
 		<Description>Attach to a Storage Hopper to inject Compressed Freezon into compatible machines.</Description>
-		<Hint>This makes Lancers approximately 28x better.</Hint>
+		<Hint>Look in the handbook for a list of compatible machines and the effects.</Hint>
 		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
 
@@ -8241,7 +8239,7 @@
 			<Research>biomass</Research>
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
-		<Description>Uses HEFC to super-charge a mining laser to create 3x3 vertical shafts extremely quickly. Feed HEFC via attached Storage Hopper. Build in a 3x3x3 shape.</Description>
+		<Description>Uses HEFC to super-charge a BFL mining laser to create 3x3 vertical shafts extremely quickly. Feed HEFC via attached Storage Hopper. Build in a 3x3x3 shape.</Description>
 		<Hint>Warning! Dangerous! Ensure it is placed correctly before feeding fuel.</Hint>
 		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
@@ -8412,7 +8410,7 @@
 
 	  <CraftData>
 		<Key>LensPolisher</Key>
-		<Category>manufacturing</Category>
+		<Category>powertransmission</Category>
 		<Tier>2</Tier>
 		<CraftedKey>LensPolisher</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8436,7 +8434,7 @@
 	</CraftData>
 	  <CraftData>
 		<Key>LensChromer</Key>
-		<Category>manufacturing</Category>
+		<Category>powertransmission</Category>
 		<Tier>2</Tier>
 		<CraftedKey>LensChromer</CraftedKey>
 		<CraftedAmount>1</CraftedAmount>
@@ -8520,7 +8518,7 @@
 				<Amount>5</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>The High Orbital Debris Object Reclaimer (or H.O.D.O.R) can be used to knock orbital debris out of the atmosphere for our use.</Description>
+		<Description>The High Orbital Debris Object Reclaimer (or H.O.D.O.R) can be used to knock orbital debris out of the atmosphere for our use. Build in a 3x1x3 configuration.</Description>
 		<Hint>Ensure sky clearance. Like really. REALLY you want skyclearance. I mean it. Big baddaboom.</Hint>
 		<ResearchRequirements>
 			<Research>rocketry1</Research>

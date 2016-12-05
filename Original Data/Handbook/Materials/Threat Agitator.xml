@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Name>Threat Agitator</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Threat Agitator</Text>
+				</Title>
+				<Icon>
+					<Name>Threat Agitator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Using similar technology as the Threat Reducer, each Threat Agitator adds 10% of the base threat and attracts 5 more insectoids. The 10% incress in threat does not stack exponentaliy. The Threat Agitatior uses four times the power of the Threat Calmer for a total of twenty power units per second. </Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+					</Target>
+					<Text>Threat Scanner</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Requires power:</Left>
+					<Right>Yes</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

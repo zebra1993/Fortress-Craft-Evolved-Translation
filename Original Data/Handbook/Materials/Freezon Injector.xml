@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Freezon Injector</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Freezon Injector</Text>
+				</Title>
+				<Icon>
+					<Name>Freezon Injector</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Freezon Injectors use Freezon Canisters to give large benefits to compatible machines.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Effects</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Geothermal Plants
+					Lancers
+					Resin Ablator
+					Resin Liquifier
+					</Left>
+					<Right>10x Power generation
+					28x Clearance rate
+					4x Rate Boost
+					4x Rate Boost</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

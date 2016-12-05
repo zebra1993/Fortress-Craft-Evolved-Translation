@@ -11,8 +11,27 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The threat scanner keeps track of the hostile wildlife providing an estimate on the composition of and time until next attack.</Text>
+					<Text>The Threat Scanner has two modes, a scanning mode, and an engaging mode. When in scanning mode the scanner will display the amount of threat the base produces and an estimated time till the next attack starts. The engaging mode will activate when under attack, when activated the threat scanner will display the composition of the attacking force and the approximate time till the next wave of hostiles spawn. Threat can be modified by using the Threat Reducer or Threat Agitator.</Text>
 				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+					</Target>
+					<Text>Threat Reducer</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+					</Target>
+					<Text>Threat Agitator</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Requires power:</Left>
+					<Right>Yes</Right>
+				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>				
 	</Pages>
