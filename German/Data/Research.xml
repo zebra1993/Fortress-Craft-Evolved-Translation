@@ -276,7 +276,7 @@
 		<Name>Upgraded Power Grid</Name>
 		<IconName>Upgraded Power Grid</IconName>
 		<PreDescription>Unsere Energieinfrastruktur entwickelt sich prächtig. Unsere Batterien sind jedoch ziehmlich limitiert. Dieses Projekt wird sich mit einer Batterie befassen welche mehr Speichern kann, um une mit einem grösseren Puffer zu versorgen.</PreDescription>
-		<PostDescription>We have developed a new battery capable of carrying a much bigger charge. We also have designs for a more powerful Laser Energy Transmitter, however this requires materials with more advanced properties than those found near the surface.</PostDescription>
+		<PostDescription>Wir haben eine neue Batterie entwickelt welche nun eine umeiniges grössere Ladung aufnehmen kann. Wir haben ebenfalls einen Leistungsfähigeren Laserenergietransmitter zu Papier gebracht. Unglücklicherwiese setzt der Mau Materialien voraus welche nicht an nahe der Oberfläche zu finden sind.</PostDescription>
 		<ScanRequirements>
 			<Scan>LithiumOre</Scan>
 		</ScanRequirements>		
@@ -290,8 +290,8 @@
 		<Name>Advanced Power Grid</Name>
 		<IconName>Advanced Power Grid</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>The advanced materials we have recently discovered should allow us to make further improvements to our power infrastructure.</PreDescription>
-		<PostDescription>We have made further improvements to our power infrastructure including a new Power Storage Block and Laser Energy Transmitter. We also have some provisional designs for a new type of Power Generator, however to complete this research we will also need to find a denser source of energy than the coal we have been relying on so far.</PostDescription>
+		<PreDescription>Die vortgeschritteneren Materialien, welche wir kürzlich entdeckt haben, sollten es uns erlauben weitere Verbesserungen an unserer Energieverteilung zu erlangen.</PreDescription>
+		<PostDescription>Wir haben weiter Verbesserungen für unser Energienetz erlangt. Darunter ein neuer Energiespeicher und einen Laserenergieübertrager. Wir habne zudem einige vorläufige Entwürfe für einen neuen Energiegenerator. Um diese Forschung jedoch zu beenden, brauchen wir eine Rescource mit einer höheren Energiedichte als Kohle, aus welcher wir bis jetzt unsere Energie bezogen haben.</PostDescription>
 		<ScanRequirements>
 			<Scan>GoldOre</Scan>
 			<Scan>NickelOre</Scan>
@@ -323,8 +323,8 @@
 		<Name>Ultra-Power Grid</Name>
 		<IconName>Ultra-Power Grid</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>We have reached the limits of power we can store in a single 1m cube. This project will investigate the feasibility of bigger power storage devices.</PreDescription>
-		<PostDescription>We have finished designs for a massive battery capable of storing a vast amount of power.</PostDescription>
+		<PreDescription>Wir haben die Limite erreicht was die Energiespeicherung in einem 1m Würfel angeht. Dieses Projekt ist eine machbarkeitsstudie was grössere Energiespeicher angeht.</PreDescription>
+		<PostDescription>Wir haben die Entwürfe für eine massige Batterie, welche fähig ist grosse Mengen Energie zu speichern.</PostDescription>
 		<ResearchRequirements>
 			<Research>T3 Power</Research>
 			<Research>advanced research</Research>
@@ -349,8 +349,8 @@
 		<Name>Ultimate Power Grid</Name>
 		<IconName>Ultimate Power Grid</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Following on from our success with the MK4 power storage system we should be able to design the ultimate power storage device!</PreDescription>
-		<PostDescription>Success! The biggest power storage device we could ever need is now within our manufacturing capabilities. I can see no reason at all why I will ever regret saying that.</PostDescription>
+		<PreDescription>Unseren Erfolgen mit dem MK4 Energiespeichersystem sollten wir nun in der Lage sein die Ultimative Speicherlösung zu entwickeln!</PreDescription>
+		<PostDescription>Erfolg! Die grösste Energiespeichermöglichkeit, welche wir je brauchen werden ist jetzt innnerhalb unsere Produktionsmöglichkeiten. Ich seh keinen Grund warum ich diese Aussage je bedauern sollte.</PostDescription>
 		<ResearchRequirements>
 			<Research>T4 Power</Research>
 			<Research>advanced research</Research>
@@ -376,8 +376,8 @@
 		<Name>Geothermal Power</Name>
 		<IconName>Ultimate Power Grid</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Running the larger Drilling machines requires us to also move to a new type of power generation.</PreDescription>
-		<PostDescription>Success! The biggest power generation device we could ever need is now within our manufacturing capabilities. There is no reason I can think of that I would ever regret making such a statement!</PostDescription>
+		<PreDescription>Um die grössren Bohrmaschinen zu betreiben sind wir gezwungen auf andere Energiegeneratoren umzusteigen.</PreDescription>
+		<PostDescription>Erfolg! Der grösste Generator den wir je brauchen ist jetzt innerhalb unserer Produktionsmöglichkeiten. Ich kann mir keinen Grund vorstellen diese Aussage je bedauern zu müssen.</PostDescription>
 		<ResearchRequirements>
 			<Research>T5 Power</Research>
 			<Research>advanced research</Research>
@@ -410,8 +410,8 @@
 		<Name>Basic Miner Upgrades II</Name>
 		<IconName>Enhanced Drill Motor</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Following on from our previous research on mining upgrades we should be able to further improve our drill motor and forced induction upgrades.</PreDescription>
-		<PostDescription>Further improvements for our ore extractors and smelters are now available.</PostDescription>
+		<PreDescription>Gestützt auf die vorherigen Forschungen sollten wir fähig sein weitere Verbesserungen in Bohrantrieben und Induktionsanlagen zu erziehlen.</PreDescription>
+		<PostDescription>Weitere Verbesserungen für Erzförderer und Schnelzöfen sind jetzt verfügbar.</PostDescription>
 		<ResearchRequirements>
 			<Research>mining upgrade 1</Research>
 			<Research>advanced research</Research>
@@ -430,8 +430,8 @@
 		<Name>Intermediate Miner Upgrades I</Name>
 		<IconName>Ore Smelter</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>It is time to begin research on how to replicate the advanced capabilities of the Ore Smelter supplied with our Central Power Hub. The basic smelters we have been able to construct are too slow and are wasting precious resources.</PreDescription>
-		<PostDescription>We have successfully designed a new Ore Smelter. This will require some advanced materials not found near the surface.</PostDescription>
+		<PreDescription>Es ist an der Zeit unsere Forschung auf das duplizieren der Erweiterten möglichkeiten des, mit dem Zentralenenergievertieler gelieferten, Erzschmelzofens zu richten. Die einfachen Schmelzöfen, welche wir bauen können sind zu langsam und verschwenden unsere wertvollen Rescourcen.</PreDescription>
+		<PostDescription>Wir haben erfolgreich neue Erzschmlezöfen entwickelt. Sie werden eineige fortschrittliche Materialien benötigen, welche nicht nahe an der Oberfläche zu finden sind.</PostDescription>
 		<ResearchRequirements>
 			<Research>mining upgrade 2</Research>
 		</ResearchRequirements>
@@ -454,8 +454,8 @@
 		<Name>Intermediate Miner Upgrades II</Name>
 		<IconName>Enhanced Drill Motor</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>It should be possible to further enhance the capabilities of the ore extractor. This project will also investigate alternative methods of collecting ore.</PreDescription>
-		<PostDescription>Further upgrades to the ore extractor are now available. We have also researched a new Geological Surveyor which can be used to identify locations rich in ore deposits. We should identify some prime locations while we continue research on a new Quarry system.</PostDescription>
+		<PreDescription>Es sollte möglichsein die Fähigkeiten des Erzförderers zu verbessern. Dieses Projekt wird sich ebenfalls mit einer Alternative zur Erzförderung befassen.</PreDescription>
+		<PostDescription>Weitere Verbesserungen für den Erzförderer sind jetzt verfügbar. Wir haben ebenfalls einen Geologie-Landvermesser entwickelt um Erzreiche Ablagerungen zu identifizieren. Wir sollten einige Wertvolle Positionen suchen während die Forschung für ein Steinbruchsystem weitergeht.</PostDescription>
 		<ResearchRequirements>
 			<Research>mining upgrade 3</Research>
 		</ResearchRequirements>
@@ -481,8 +481,8 @@
 		<Name>Advanced Miner Upgrades</Name>
 		<IconName>Magnetic Drill Motor</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This project will investigate further improvements to the ore extractor and smelter. In addition research will continue work on the new Quarry system.</PreDescription>
-		<PostDescription>Further improvements to the ore extractor and smelter are now available. In addition we have finally perfected the Quarry system. Use the Geological Surveyor to identify a prime location then place the quarry to begin mining operations.</PostDescription>
+		<PreDescription>Dieses Projekt wird sich mit weiteren verbesserungen an Erzförderern und Schmelzöfen befassen. Zudem wird die Arbeit an einem Steinbruchsystem weitergeführt.</PreDescription>
+		<PostDescription>Weitere Verbesserungen von Erzförderern und Schmelzöfen sind jetzt verfügbar. Zudem haben wir das Steinbruchsystem perfektioniert. Nutzen den Geologie-Landvermesser um optimale Positionen für einen Steinbruch zu finden und dort eine Abbauoperation zu beginnen.</PostDescription>
 		<ResearchRequirements>
 			<Research>mining upgrade 4</Research>
 		</ResearchRequirements>
@@ -514,8 +514,8 @@
 		<Name>Automation</Name>
 		<IconName>Base Building Automation</IconName>
 		<ResearchCost>5</ResearchCost>
-		<PreDescription>Building a huge mining operation is a job for machines, not man. This wide-ranging project will design machines for automated excavation and construction in addition to improving the options available for traversing your base. This research should be a high priority for the essential automation of our base; doing this all by hand is simply never going to work!</PreDescription>
-		<PostDescription>We now have a wide variety of new machines available for automating our base.</PostDescription>
+		<PreDescription>Grosse Abbauoperationen zu bauen ist eine Aufgabe für Maschienen nicht für Menschen. Dieses breitgefächerte Projekt wird sichmit der Entwicklung von Maschienen zum Automatiserten Aushub und Aufbau, zudem mit der verbesserung der möglichkeiten welche wir für das bewegen in der Basis haben, beschäftigen. Diese Forschung sollte einer hohen Wichtigkeit beigemessen werden da es um den grundsatz der autmation in der Basis geht. Alles von Hand zu machen, ist auf dauer absolut untragbar!</PreDescription>
+		<PostDescription>Wir haben nun eine grosse Varietät an Mascheinen zu unserer verfügung um die Basis zu automatisieren.</PostDescription>
 		<ResearchRequirements>
 			<Research>mining upgrade 1</Research>
 			<Research>advanced research</Research>
@@ -528,8 +528,8 @@
 		<Name>Basic Logistics</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Optimising your mining operation requires a scalpel, not a hammer. (Hammers available as a seperate upgrade, of course). This research project will focus on improvements in storage, sorting and additional base construction tools</PreDescription>
-		<PostDescription>Now available : Advanced Conveyor machines, FALCOR automated loot collection system, Dual Matter Movers and Cargo Lifts.</PostDescription>
+		<PreDescription>Um unsere Abbauoperatione zu verbessern wird ein Skalpell benötigt und nicht ein Hammer (Hammer sind natürlich in einer separaten verbesserung enthalten). Dieses projekt wird sich mit verbesserungen für Lagerung, sortierung und mehr Basisbau Werkzeugen beschäftigen.</PreDescription>
+		<PostDescription>Jetzt verfügbar: verbesserte Förderbandmaschienen, FALCOR automatisiertes Beutesammelsystem, Dual Massebeweger und Warenlifte.</PostDescription>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 			<Research>advanced research</Research>
@@ -553,8 +553,8 @@
 		<Name>Advanced Logistics</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>More storage is likely to prove useful in our quest to conquer this planet.</PreDescription>
-		<PostDescription>Now available : Entry-level Mass Storage.</PostDescription>
+		<PreDescription>Mehr Lagerplatz könnte nutzvoll werden im unterfangen diesen Planeten unser zu machen.</PreDescription>
+		<PostDescription>Jetzt verfügbar: Einfaches Massenlager.</PostDescription>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
@@ -577,8 +577,8 @@
 		<Name>Advanced Storage</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This research will allow us to insert and remove many more items into Mass Storage setups.</PreDescription>
-		<PostDescription>Now available : Larger Mass-Storage inserters.</PostDescription>
+		<PreDescription>Diese Forschung wird es uns erlauben mehr Gegenstände in und aus einen Massenlager zu bewegen.</PreDescription>
+		<PostDescription>Jetzt verfügbar: Grössere Massenlagerzugänge.</PostDescription>
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 			<Research>ResinHandling</Research>
@@ -602,8 +602,8 @@
 		<Name>Bulk Storage</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This research will allow us to insert and remove even more items into Mass Storage setups.</PreDescription>
-		<PostDescription>Now available : Bulk Mass-Storage inserters and Mass Storage Power controllers.</PostDescription>
+		<PreDescription>Diese Forschung wird es uns erlauben noch mehr Gegenstände in und aus einen Massenlager zu bewegen.</PreDescription>
+		<PostDescription>Jetzt verfügbar: Schüttgutmassenlager einfüller und Massenlager-Energiekontroller.</PostDescription>
 		<ResearchRequirements>
 			<Research>T4 assist machines</Research>
 			<Research>ResinHandling</Research>
@@ -627,8 +627,8 @@
 		<Name>Rapid Logistics</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This ultimate tier of Mass Storage will let us utilise large amounts of power to transfer thousands of items to and from our mass storage systems.</PreDescription>
-		<PostDescription>Now available : Mass Storage IO ports. IO Ports can be used exactly like Storage Hoppers and interact with Mass Storage Crates.</PostDescription>
+		<PreDescription>Die ultimative Stufe des Masselagers. Sie wird uns erlauben grosse mengen an Energie zu nutzen um tausende Gegenstände von und zu unserem Massenlagersystem zu transportieren.</PreDescription>
+		<PostDescription>Jetzt verfügbar: Masselager IO-Anschluss. IO-Anschlüsse funktionieren gleich wie Lagertrichter und interagieren mit Masselagereinheiten.</PostDescription>
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research>
 			<Research>T4_GTPower</Research>
@@ -656,8 +656,8 @@
 		<Name>Improved Cargo Lifts</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Whilst Cargo Lifts are exceptionally useful for bulk movement of items from deep underground, we need to make them better. Researching this should give us access to Improved Cargo Lifts!</PreDescription>
-		<PostDescription>Improved Cargo Lifts now available!</PostDescription>
+		<PreDescription>Während Warenlifte perfkt sind für Schüttguttransporte aus den tiefen, müssen wir sie trotzdem verbessern. Diese Forschugn sollte zugang zu verbesserten Liften gewähren!</PreDescription>
+		<PostDescription>Verbesserte Warenlifte sind jetzt verfügbar!</PostDescription>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 			<Research>minecarts1</Research>
@@ -683,8 +683,8 @@
 		<Name>Bulk Cargo Lifts</Name>
 		<IconName>mk1 robot arm</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>We now need access to much bigger and faster Cargo Lifts.</PreDescription>
-		<PostDescription>Bulk Cargo Lifts now available!</PostDescription>
+		<PreDescription>Wir brauchen zugang zu massiv grösseren und schnelleren Warenliften.</PreDescription>
+		<PostDescription>Schüttgut Warenlifte sidn jetzt verfügbar!</PostDescription>
 		<ResearchRequirements>
 			<Research>CargoLift2</Research>
 			<Research>T4 ore extracting</Research>
@@ -708,8 +708,8 @@
 		<Name>Metal Alloys</Name>
 		<IconName>Titanium Bar</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Using local metals it should be possible to create higher grade steel for improved equipment quality.</PreDescription>
-		<PostDescription>By combining Iron and Nickel, we can create a low-grade steel. Perhaps with future ores we can create even better alloys.</PostDescription>
+		<PreDescription>Durch die Nutzung von lokalen metallen sollte es möglichsein höherwertigen Stahl herzustellen um bessere Ausrüstungsqualität zu erhalten.</PreDescription>
+		<PostDescription>Druch das kombinieren von Eisen und Nickel können wir minderwertigen Stahl herstellen. Vieleicht können wir in der Zukunft sogar noch bessere Legierungen herstellen.</PostDescription>
 		<ScanRequirements>
 			<Scan>IronOre</Scan>
 			<Scan>NickelOre</Scan>
@@ -736,8 +736,8 @@
 		<Name>Rolling Stock</Name>
 		<IconName>Minecart</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Now we have access to better materials, we can create automation capable of moving large amounts of resources.</PreDescription>
-		<PostDescription>We can now research the basic components to an automated, rail-based mass-transit system!</PostDescription>
+		<PreDescription>Wir haben nun zugang zu besseren Materialien. Wir können automatiersierte Transporte von grossen Mengen an Rescourcen bewerkstelligen.</PreDescription>
+		<PostDescription>Wir können nun die Grundelemtente eines schienenbasierten, massentransportsystems erforschen!</PostDescription>
 		<ResearchRequirements>
 			<Research>alloys</Research>
 		</ResearchRequirements>
@@ -758,8 +758,8 @@
 		<Name>Improved Minecarts</Name>
 		<IconName>Improved Minecarts</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>As our base expands, we need specific vehicles for specific tasks. This will allow faster or bigger Minecarts to be made!</PreDescription>
-		<PostDescription>You can now make Fast Minecarts and Large Minecarts!</PostDescription>
+		<PreDescription>Mit dem expandieren unserer Basis brauchen wir spezialisierte Fahrzeuge für spezielle Aufgabe. Dies sollte uns schnellere oder grössere Loren verschaffen!</PreDescription>
+		<PostDescription>Du kannst nun schnelle und grosse Loren herstellen!</PostDescription>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -788,8 +788,8 @@
 		<Name>Improved Minecart Logistics</Name>
 		<IconName>Track Corner</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>The current Minecarts are difficult to control in larger Logstics operations. Researching this will give us access to decision-making track pieces.</PreDescription>
-		<PostDescription>You can now make Buffers, Full Gates and Empty Gates!</PostDescription>
+		<PreDescription>Die momentanen Loren sind schwer in grössren logistischen Operationen zu kontrollieren. Diese Forschung sollte und Zugang zu entscheidungsfähigen Scheinenteilen verscahffen.</PreDescription>
+		<PostDescription>Du kannst nun Puffer, Volltore und Leertore herstellen!</PostDescription>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -820,8 +820,8 @@
 		<Name>Crystal Dynamics</Name>
 		<IconName>Crystal Dynamics</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>The crystals you found underground seem to have strange properties. Studying them may open new possibilities.</PreDescription>
-		<PostDescription>These crystals seem to be made of a crystalline form of quartz with extremely high electrical conductance.</PostDescription>
+		<PreDescription>Die im Untergrund gefunden Kristalle scheinen komsiche Eigenschaften zu haben. Sie zu erforschen könnte zu neuen Möglichkeiten führen.</PreDescription>
+		<PostDescription>Diese Kristalle scheinen aus einer Kristalienen form von Quarz zu bestehen welcher hervorragende elektrische Leitfähigkeit aufweist.</PostDescription>
 		<ScanRequirements>
 			<Scan>CrystalDeposit</Scan>
 		</ScanRequirements>
@@ -850,8 +850,8 @@
 		<Name>Advanced Crystal Dynamics</Name>
 		<IconName>Advanced Crystal Dynamics</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>There are more options available for the Crystalline Ores we have been using.</PreDescription>
-		<PostDescription>With the appropriate addition of energy, we should be able to create very high frequency clock crystals.</PostDescription>
+		<PreDescription>Es sind mehr Möglichkeiten vorhanden um die kristallinen Erze zu verwenden als wir es jetzt tun.</PreDescription>
+		<PostDescription>Mit dem passenden zusatz von Energie sollten wir fähig sein höchstfrequente Kristalltaktgeber herzustellen.</PostDescription>
 		<ScanRequirements>
 			<Scan>CrystalDeposit</Scan>
 		</ScanRequirements>
@@ -873,8 +873,8 @@
 		<Name>Hydrocarbon Recombination</Name>
 		<IconName>Hydrocarbon Recombination</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>Organic life appears to be quite abundant in the deep hostile caverns. Perhaps you can make use of them.</PreDescription>
-		<PostDescription>By integrating the local crystals into refinery schematics from the ship database you can break down and recombine the hydrocarbons found in primitive growths from the deep caverns. This should allow production of new materials for more complex machinery.</PostDescription>
+		<PreDescription>Organischesleben schein recht reichhaltig zu sein in den tieferen, lebensunfreundlichen Höhlen. Eventuell können wir aus ihnen was nutzvolles gewinnen.</PreDescription>
+		<PostDescription>Durch die Integration von Kristallen in die Raffinerieschemen aus der Schiffsdatenbank, sollte es uns möglich sein Kohlenwasserstoffverbindungen aus den Biomassevorkommen, in den tiefen Höhlen, zu spalten und in neue Materialienn zu kombinieren um noch komplexere Maschienen zu produzieren.</PostDescription>
 		<ScanRequirements>
 			<Scan>BiomassGrowth</Scan>
 		</ScanRequirements>
@@ -911,8 +911,8 @@
 		<Name>Orbital Power Transmission</Name>
 		<IconName>Orbital Power Transmission</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This will allow us to transmit power into orbit. Perhaps we can beam the power back down afterwards. That's the only way to be sure.</PreDescription>
-		<PostDescription>The Orbital Power Transmitter should allow us to bounce stored energy off of a satellite, and remove the Overminds controlling these surface attacks.</PostDescription>
+		<PreDescription>Diese Forschung wird es uns erlauben Energie ins All zu senden. Vieleicht gelingt es uns die energie danach auch wieder richtugn Oberfläche zu reflektieren. Es gitb nur einen Weg um sicher zu sein.</PreDescription>
+		<PostDescription>Der Orbitaleenergieübertrager sollte es uns ermöglichen die gespeicherte Energie über einen Sateliten auf die Oberfläche zurück zu senden. Dadurch sollter wir die Gefahr druch die Overmind's ausschaten können.</PostDescription>
 		<ScanRequirements>
 			<Scan>BiomassGrowth</Scan>
 		</ScanRequirements>
@@ -941,8 +941,8 @@
 		<Name>Basic Rocketry</Name>
 		<IconName>LaunchPad</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>If we can master a more potent fuel source, we should be able to create simple rockets to complete tasks for us.</PreDescription>
-		<PostDescription>We now have access to Fuel Compressors, that will make us High Octane Fuel!</PostDescription>
+		<PreDescription>Wenn wir die herstellugn von stärkerem Treibstoff meistern, sollten wri fähig sein einfache Raketen herzustellen um dinge für uns zu erledigen.</PreDescription>
+		<PostDescription>Wir haben nun Zugnag zum Treibtoffkompressor, dieser wird oktanreichen Treibstoff herstellen!</PostDescription>
 		<ResearchRequirements>
 			<Research>orbitalpower</Research>
 		</ResearchRequirements>
@@ -959,8 +959,8 @@
 		<Name>Basic Robotics</Name>
 		<IconName>LaunchPad</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This will allow access to basic Robotics Control modules, and Coppator robotics parts.</PreDescription>
-		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<PreDescription>Diese Forschung wird uns Zugang zu einfachen Roboterkontroll modulen und Kupferin Roboterteilen ermöglichen.</PreDescription>
+		<PostDescription>Wir können nun Roboter herstellen.</PostDescription>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -980,8 +980,8 @@
 		<Name>Simple Robotics</Name>
 		<IconName>LaunchPad</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This will allow access to Tindron robotics parts.</PreDescription>
-		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<PreDescription>Diese Forschung wird uns Zugang zu Zinnium Roboterteilen ermöglichen.</PreDescription>
+		<PostDescription>Wir können nun Roboter herstellen.</PostDescription>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
 		</ResearchRequirements>
@@ -1001,8 +1001,8 @@
 		<Name>Intermediate Robotics</Name>
 		<IconName>LaunchPad</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This will allow access to Bronzite robotics parts.</PreDescription>
-		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<PreDescription>Diese Forschung wird uns Zugang zu Bronzit Roboterteilen ermöglichen.</PreDescription>
+		<PostDescription>Wir können nun Roboter herstellen.</PostDescription>
 		<ResearchRequirements>
 			<Research>robotics2</Research>
 		</ResearchRequirements>
@@ -1022,8 +1022,8 @@
 		<Name>Complex Robotics</Name>
 		<IconName>LaunchPad</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>This will allow access to Ironide robotics parts.</PreDescription>
-		<PostDescription>We can now start to BUILD THE ROBOTS</PostDescription>
+		<PreDescription>Diese Forschung wird uns zugang zu Ferritium Roboterteilen ermöglichen.</PreDescription>
+		<PostDescription>Wir können nun Roboter herstellen.</PostDescription>
 		<ResearchRequirements>
 			<Research>robotics3</Research>
 		</ResearchRequirements>
@@ -1041,8 +1041,8 @@
 		<Key>Advanced Defence</Key>
 		<Name>Advanced Defence</Name>
 		<IconName>Missile Turret MK1</IconName>
-		<PreDescription>We need to build more powerful base defenses to take down the bigger threats.</PreDescription>
-		<PostDescription>We have successfully designed a missile turret and made further improvements to the energy turret. We will need to manufacture missiles and this will require a supply of fuel.</PostDescription>
+		<PreDescription>Wir müssen ein stärkeres Verteidigungsnetzwerk aufbauen um grössere Bedrohungen bewältigen zu können.</PreDescription>
+		<PostDescription>Wir haben erfolgreich Raketenabschussanlagen entwickelt. Zudem sind weitere Verbesserungen für die Energietürme verfügbar. Für die Herstellung von Raketen wird wohl Treibstoff erforderlich sein.</PostDescription>
 		<ResearchRequirements>
 			<Research>Base Defence</Research>
 		</ResearchRequirements>
@@ -1066,8 +1066,8 @@
 		<Key>missiledefence</Key>
 		<Name>Missile Defence</Name>
 		<IconName>MissileDefence</IconName>
-		<PreDescription>These Basic Missiles aren't cutting it. We're going to need to improve them.</PreDescription>
-		<PostDescription>Now we can craft Armour Piercing Warheads, and if we have the power, further Imbue them with Plasma Energy.</PostDescription>
+		<PreDescription>Wenns normale Racketen nicht bringen, müssen wir sie verbessern.</PreDescription>
+		<PostDescription>Wir können nun panzerbrechende Gefechtsköpfe herstellen. wenn wir genug Energie haben können wir sie mit Plamsaenergie befüllen.</PostDescription>
 		<ResearchRequirements>
 			<Research>Advanced Defence</Research>
 		</ResearchRequirements>
@@ -1088,8 +1088,8 @@
 		<Name>Aesthetics</Name>
 		<IconName>Hello_Kitty1</IconName>
 		<ResearchCost>5</ResearchCost>
-		<PreDescription>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</PreDescription>
-		<PostDescription>In the unlikely event we have some down time we can prettify our base with a variety of coloured storage crates and canvas.</PostDescription>
+		<PreDescription>Im unwahrscheinlichen fall das jemand mal zeit hat die Basis zu dekorieren, hier ist eine Auswahl an farbigen Lagerkisten und Leinwand.</PreDescription>
+		<PostDescription>Im unwahrscheinlichen fall das jemand mal zeit hat die Basis zu dekorieren, hier ist eine Auswahl an farbigen Lagerkisten und Leinwand.</PostDescription>
 	</ResearchDataEntry>
 
 	<!-- Easy-peasy research, just to push everything that needs Chromium/Moly into a seperate research -->
@@ -1098,8 +1098,8 @@
 		<Key>T4 ore extracting</Key><!-- Oops. Spaced -->
 		<Name>Large Scale Vein Extraction</Name>
 		<IconName>Large Scale Vein Extraction</IconName>
-		<PreDescription>The ore extractors we have been using so far do not appear to be up to the task of mining the new ores we've found down below. We'll have to develop new ways of extraction. A small sample of the new ores from the Hard Rock Grinder and using up the last of the old Research Pods should see us clear!</PreDescription>
-		<PostDescription>The ore extractor we've developed is much bigger than old ones, allowing it to apply much more force on the ore material. It also appears to be much more efficient at gathering the softer ores. </PostDescription>
+		<PreDescription>Die Erzförderer welche wir im moment nutzen scheinen nicht dafür ausgelegt zu sein, die Erze weiter unten zu fördern. Wir müssen neue Fördermaschienen entwickeln. Eine Gesteinsprobe aus einen Hartgesteinschleifer und die nutzung unsere letzten Forschungspod's sollte uns mit neue Ergebnisse liefern!</PreDescription>
+		<PostDescription>Die neuen Erzfürderanlagen sind um einiges grösser als die alten. Dies ermöglicht uns grössren Druck auf das erzhalteige Material auszuüben. Zudem Scheint es so das die neue Anlage effizienter mit weicheren Erzen umgeht. </PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4_start</Research>
@@ -1139,7 +1139,7 @@
 		<Key>T4_drills_2</Key><!-- Oops. Spaced -->
 		<Name>Efficient Vein Extraction</Name>
 		<IconName>Efficient Vein Extraction</IconName>
-		<PreDescription>A more efficient Drill Head will allow us to use more of the ore we collect.</PreDescription>
+		<PreDescription>Ein effizenterer Bohrkopf wrid es uns ermöglichen mehr Erz zu nutzen welches abgebaut wird.</PreDescription>
 		<PostDescription></PostDescription>
 
 		<ResearchRequirements>
@@ -1173,7 +1173,7 @@
 		<Key>T4_drills_3</Key><!-- Oops. Spaced -->
 		<Name>Perfect Vein Extraction</Name>
 		<IconName>Perfect Vein Extraction</IconName>
-		<PreDescription>This third tier of Drill Head will allow us to extract 100% of known ores with no wastage.</PreDescription>
+		<PreDescription>Diese dritte Stufe von Bohrköpfen wird es uns erlauben alle Erz verlustfrei aus dem Gestein zu lösen.</PreDescription>
 		<PostDescription></PostDescription>
 
 		<ResearchRequirements>
@@ -1206,8 +1206,8 @@
 		<Key>T4_start</Key>
 		<Name>Frozen Factory Expansion</Name>
 		<IconName>Frozen Factory Expansion</IconName>
-		<PreDescription>With the Nova growing ever-larger, we need to see about relocating ourselves to somewhere less inhospitable. The methane-filled 'Cold Caverns' should provide us with cover, if we are able to terraform them. Researching this will give us the information we need! NOTE : ALL MACHINES UNLOCKED BY THIS RESEARCH WILL REQUIRE THE FROZEN FACTORY EXPANSION PACK TO BE INSTALLED!</PreDescription>
-		<PostDescription>We can now build a Cold Cavern Climate Control Centre! (Also known as the CCCCC or the C5!)</PostDescription>
+		<PreDescription>Mit der wachsenden Supernova sind wir gezwungen in eine weniger unfreundliche Umgebung zu verlegen. Die Methangefüllten 'kalten Höhlen' sollten uns Schutz geben wenn wir fähig sind diese zu Terraformen. Diese Forschung wird uns mit den Informationen versorgen die wur brauchen! ANMERKUNG: ALLE MASCHIENEN WELCHE DURCH DIESE FORSCHUNG FREIGESCHALTET WERDEN ERFORDERN DAS Frozen Factory Expansion Pack INSTALLIERT!!</PreDescription>
+		<PostDescription>Wir können nun das kalte Höhlen Klimakontrollcenter bauen! (Ebenfalls bekannt als KHKKC (im Englsichen Cold Caverns Climate Control Center,CCCCC oder C5!))</PostDescription>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research><!-- misspelled!-->
 			<Research>mining upgrade 5</Research>
@@ -1235,8 +1235,8 @@
 		<Key>T4defence1</Key>
 		<Name>Basic CryoPlasm Defence</Name>
 		<IconName>Basic CryoPlasm Defence</IconName>
-		<PreDescription>Our attempt to warm up the Cold Caverns and make them a hospitable place to live has backfired! We appear to have activated an unknown number of previously deep-frozen organic spores. These are now growing and consuming everything in their path. They're a non-newtonian liquid, so bombs are exceptionally ineffective against them! We need to research new forms of defence immediately!</PreDescription>
-		<PostDescription>We can now craft the CryoPlasm Lancer. This should allow us to hold off small amounts of CryoPlasm at short range. It's likely we'll need to go bigger soon though!</PostDescription>
+		<PreDescription>Unser versuch die kalten Höhlen zu erwärmen ist nach hinten losgegangen! Wie es scheint haben wir eine unbekannte Anzahl an vorher teifgefrohrene, organische Sporen aufgetaut. Diese wachsen nun und vertilgen alles in ihrem weg. Sie verhalten sich wie eine Nicht-Newten'sche Flüssigkeit, was herkömliche Bomben nutzlos macht! Wir müssen Schnellstmöglich eine neue Form der Verteidigung erforschen!</PreDescription>
+		<PostDescription>Wir können nun den CryoPlasma Lancer herstellen. Diese sollten es uns ermöglichen kleine mengen Cryoplasma auf kurze distanz in Schach zu halten. Höchstwahrscheinlich müssen wir recht schnell in grössren Ausmassen denken.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4_start</Research>
@@ -1266,8 +1266,8 @@
 		<Key>T4defence2</Key>
 		<Name>Long Range CryoPlasm Defence</Name>
 		<IconName>Long Range CryoPlasm Defence</IconName>
-		<PreDescription>Our Lancers are going to get overwhelmed, and we need to defend the base from further afield. Researching this will allow us access to much larger and more destructive weaponry.</PreDescription>
-		<PostDescription>Please deploy your Dazzler Turrets appropriately and safely.</PostDescription>
+		<PreDescription>Unsere Lancer werden überrannt, wir müssen die Basis auf grössre Distanz verteidigen. Mit dieser Forschung sollten wir grösser und zerstörerische Waffen erlangen.</PreDescription>
+		<PostDescription>Bitte plazieren sie ihre Dazzlertürme sinnvoll und sicher.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4defence1</Research>
@@ -1290,8 +1290,8 @@
 		<Key>T4defence3</Key>
 		<Name>Static CryoPlasm Defence</Name>
 		<IconName>Static CryoPlasm Defence</IconName>
-		<PreDescription>If the CryoPlasm touches our machines, they simply stop working. We need to ensure that our base is defended against surges of CryoPlasm. Researching this will give us access to static defences.</PreDescription>
-		<PostDescription>CryoMines will not detonate if you stand on them, but it is recommended you avoid the corrosive cloud.</PostDescription>
+		<PreDescription>Wenn CryoPlasma unsere Maschienen berührt, hören sie einfach auf zu funktionieren. Wir müssen sicherstellen das wir uns gegen das schwallweise vorstossen des Plasmas verteidigen können. Diese Forschung wird uns zugang zu statischen Verteidigungen erlauben.</PreDescription>
+		<PostDescription>CryoMinen werden nicht durch dein Gewicht ausgelöst aber es ist nicht empfohlen in der agressiven Gaswolke zu stehn.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4defence1</Research>
@@ -1313,8 +1313,8 @@
 		<Key>T4defence4</Key>
 		<Name>Mobile CryoPlasm Defence</Name>
 		<IconName>Mobile CryoPlasm Defence</IconName>
-		<PreDescription>We need both close and long-range defences if we are going to survive. Researching this will allow us to retrofit FALCOR drones with electrically-charged explosive devices.</PreDescription>
-		<PostDescription>For the Cold Caverns! FOR FREEDOM!</PostDescription>
+		<PreDescription>Wir bracuhen lang und kurz distanz verteidigung wenn wir überleben wollen. Diese Forschung sollte es uns ermöglichen die FALCOR Drohnen mit Elektrischgeladenen Sprengköpfen aufzurüsten.</PreDescription>
+		<PostDescription>Für die kalten Höhlen! FÜR FREIHEIT!</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4defence1</Research>
@@ -1336,8 +1336,8 @@
 		<Key>T4defence5</Key>
 		<Name>Improved CryoPlasm Defence</Name>
 		<IconName>Static CryoPlasm Defence</IconName>
-		<PreDescription>With some work, we should be able to use Freezon gas to supercharge our existing defence network. This technology should also used to massively improve our existing Resin handling system.</PreDescription>
-		<PostDescription>For the Cold Caverns! FOR FREEDOM!</PostDescription>
+		<PreDescription>Mit ein bischen arbeit, sollten wir fähig sein Freezongas in unserem Vertiedigungsnetzwerk als Turbolader zu verwenden. Diese Technologie sollte ebenfalls einsetzbar sein um unsere Harzverarbeitung massiv zu verbessern..</PreDescription>
+		<PostDescription>Für die kalten Höhlen! FÜR FREIHEIT!</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4defence1</Research>
@@ -1360,8 +1360,8 @@
 		<Key>T4_Particles</Key>
 		<Name>Particulate Filtration</Name>
 		<IconName>Particulate Filtration</IconName>
-		<PreDescription>The continued use of the unusual biomes underground have indicated that the atmosphere contains useful amounts of trace particles, which can extract.</PreDescription>
-		<PostDescription>We can now craft the Particulate Filter. This will allow us to capture particles out of the air over time.</PostDescription>
+		<PreDescription>Nach wiederholtem Aufenthalt in verschiedenen Untergrundgebieten scheint die Atmosphäre nutzbare Anteile an Partikel zu enthalten. Diese sollten herausfilterbar sein.</PreDescription>
+		<PostDescription>Wir können jetzt einen Partikelfilter bauen. Dieser wird es uns erlauben Partikel aus der Luft zu filern.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4_start</Research>
@@ -1385,8 +1385,8 @@
 		<Key>T4_MagmaBore</Key>
 		<Name>MagmaBore</Name>
 		<IconName>T4_MagmaBore</IconName>
-		<PreDescription>We can't continue to fight against the CryoPlasm forever; the Magma Caves we located deep below could be used as a source of heat to permenantly render the caverns ours.</PreDescription>
-		<PostDescription>That's...  that's a big drill.</PostDescription>
+		<PreDescription>Wir können das Croyplasma nicht ewigs bekämpfen. Die Lavahöhlen tief unter uns könnten eine Quelle von Hitze sein, welche für immer diese Höhlen in unseren Besitz bringen wird.</PreDescription>
+		<PostDescription>Dass ist ..... Dass ist ein groOoser Bohrer.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4defence4</Research>
@@ -1411,8 +1411,8 @@
 		<Key>T4_8LightsInTheDark</Key><!--May need to rename key before launch. My history education was lacking. Apologies!-->
 		<Name>8 lights in the dark</Name>
 		<IconName>8 lights in the dark</IconName>
-		<PreDescription>We feel that these final sets of machines will be suitable for defeating the CryoPlasm.</PreDescription>
-		<PostDescription>We now have access to the CryoPlasm Inferno. This should let us burn the spawners to a crisp. We've also perfected over-charging certain machines using the Freezon Injector; combine those with the CyroPlasm Lancers and we should see a substantial boost in performance.</PostDescription>
+		<PreDescription>Wir fühlen das diese Gruppe von Maschinen die lösung sein wird um das CryoPlasma zu vernichten.</PreDescription>
+		<PostDescription>Wir sollten jetzt zugang zum Cryoplasma Inferno haben. Dieses sollte die Spawner einäschern können. Wir haben ebenfalls das Überladen bestimter Maschinen perfektioniert indem wir den Freezoninjektor nutzen. Kombiniert mit CryoPlasma Lancer sollten wir eine erhebliche Leistungsverbesserung erzielen können.</PostDescription>
 
 		<ResearchRequirements>
 			<Research>T4_MagmaBore</Research>
@@ -1433,7 +1433,7 @@
 		<Key>Halloween</Key>
 		<Name>Spooky Aesthetics</Name>
 		<IconName>Spooky</IconName>
-		<PreDescription>In glorious tradition, we should consider decorating our base for the forthcoming celebration.</PreDescription>
+		<PreDescription>In grossartiger Tradition soltlen wir unsere Basis für die kommende Festlichkeit schmücken.</PreDescription>
 		<PostDescription>Doot doot.</PostDescription>
 
 		<ResearchRequirements>
