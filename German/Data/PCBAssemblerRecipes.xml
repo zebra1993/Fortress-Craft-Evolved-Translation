@@ -10,7 +10,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper coils are converted into Basic PCBs usable for crafting.</Description>
+		<Description>Kupferspulen werden zu grundlegenden Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>primary pcb</Key>
@@ -22,7 +22,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin coils are converted into Primary PCBs usable for crafting.</Description>
+		<Description>Zinnspulen werden zu Primären Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>hardened pcb</Key>
@@ -34,7 +34,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron coils are converted into Hardened PCBs usable for crafting.</Description>
+		<Description>Eisenspulen werden zu gehärteten Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>charged pcb</Key>
@@ -46,7 +46,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium coils are converted into Charged PCBs usable for crafting.</Description>
+		<Description>Lithiumspulen werden zu geladenen Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>conductive pcb</Key>
@@ -58,7 +58,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold coils are converted into Conductive PCBs usable for crafting.</Description>
+		<Description>Goldspulen werden zu leitenden Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>fortified pcb</Key>
@@ -70,7 +70,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel coils are converted into Fortified PCBs usable for crafting.</Description>
+		<Description>Nickelspulen werden zu verstärkten Leiterplatten verarbeitet.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>lightweight pcb</Key>
@@ -82,6 +82,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium coils are converted into Lightweight PCBs usable for crafting.</Description>
+		<Description>Titaniumspulen werden zu leichten Leiterplatten verarbeitet.</Description>
 	</CraftData>
 </ArrayOfCraftData>

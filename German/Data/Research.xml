@@ -971,7 +971,7 @@
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
-			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+			<Scan>CRP_DLC_KEY</Scan><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
 		</ScanRequirements>
 	</ResearchDataEntry>
 
@@ -992,7 +992,7 @@
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
-			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+			<Scan>CRP_DLC_KEY</Scan><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
 		</ScanRequirements>
 	</ResearchDataEntry>
 
@@ -1013,7 +1013,7 @@
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
-			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+			<Scan>CRP_DLC_KEY</Scan><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
 		</ScanRequirements>
 	</ResearchDataEntry>
 
@@ -1034,7 +1034,7 @@
 			</Requirement>
 		</ProjectItemRequirements>
 		<ScanRequirements>
-			<Key>CRP_DLC</Key><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+			<Scan>CRP_DLC_KEY</Scan><!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
 		</ScanRequirements>
 	</ResearchDataEntry>
 	<ResearchDataEntry>
@@ -1435,7 +1435,7 @@
 		<IconName>Spooky</IconName>
 		<PreDescription>In grossartiger Tradition soltlen wir unsere Basis für die kommende Festlichkeit schmücken.</PreDescription>
 		<PostDescription>Doot doot.</PostDescription>
-
+		<ResearchCost>1</ResearchCost><!-- Network clients don't seem to like 0-RP based researches-->
 		<ResearchRequirements>
 			<Research>Aesthetics</Research>
 		</ResearchRequirements>

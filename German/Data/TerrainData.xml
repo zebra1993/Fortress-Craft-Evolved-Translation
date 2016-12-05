@@ -2235,10 +2235,10 @@
 				<Description>Thank you for buying the Adventures Pack DLC!</Description>
 			</ValueEntry>
 			<ValueEntry>
-				<Value>1</Value>
-				<Key>CRP_DLC</Key>
-				<Name>CRP DLC</Name>
-				<IconName>CRP_DLC</IconName>
+				<Value>2</Value><!-- Moved from 1 to 2, as I think I made a huge goof in P13-->
+				<Key>CRP_DLC_KEY</Key>	<!-- Renamed! -->
+				<Name>CRP DLC KEY</Name>
+				<IconName>CRP_DLC_KEY</IconName>
 				<ResearchValue>1</ResearchValue>
 				<Description>Thank you for being a Patreon supporter! http://patreon.com/FortressCraft </Description>
 			</ValueEntry>
@@ -6481,7 +6481,7 @@
 		<isSolid>false</isSolid>
 		<isTransparent>true</isTransparent>
 		<isHollow>false</isHollow>
-		<isGlass>false</isGlass>
+		<isGlass>true</isGlass>
 		<isPassable>true</isPassable>
 		<hasObject>true</hasObject>
 		<hasEntity>true</hasEntity>
@@ -7840,7 +7840,7 @@
 		<Key>SLODRS</Key>
 		<Name>H.O.D.O.R.</Name>
 		<IconName>NONE_YOU_CANT_USE_THIS</IconName>
-		<Description>High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface.</Description>
+		<Description>High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10798,21 +10798,21 @@
 				<Key>LaserBorerPlacement</Key>
 				<Name>Laser Borer</Name>
 				<IconName>LaserBorer</IconName>
-				<Description>HEFC-betriebene Laserbohrvorrichtung. Gräbt zügig einen 3x3 Schacht ins Zentrum der kalten Höhlen. Wird in einem 3x3x3 Würfel gebaut.</Description>
+				<Description>HEFC-betriebene Laserbohrvorrichtung. Gräbt zügig einen 3x3 Schacht ins Zentrum der kalten Höhlen. Wird in einem 3x3x3 Würfel aufgebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>38</Value>
 				<Key>SLODRSPlacement</Key>
 				<Name>High Orbital Debris Object Reclaimer</Name>
 				<IconName>SLODRS</IconName>
-				<Description>Ermöglicht es Raketengestützt Trümmer aus dem Orbit zur Oberfläche zu bringen.</Description>
+				<Description>Ermöglicht es Raketengestützt Trümmer aus dem Orbit zur Oberfläche zu bringen. Wird in einer 3x3 Grundplatte aufgbaut</Description>
 			</ValueEntry>
 				<ValueEntry>
 				<Value>39</Value>
 				<Key>T3_FuelCompressorPlacement</Key>
 				<Name>Fuel Compressor.</Name>
 				<IconName>FuelCompressor</IconName>
-				<Description>Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff.</Description>
+				<Description>Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</Description>
 			</ValueEntry
 
      	</Values>

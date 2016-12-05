@@ -10,7 +10,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Raw plastic in pellet form suitable for crafting.</Description>
+		<Description>Roher Kunststoff in Pelettform bereit für die verwendung.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>HEC fuel</Key>
@@ -26,7 +26,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Solid fuel containing oxydizer. Highly volatile. Usable as jet turbine fuel or for small rockets.</Description>
+		<Description>Festtreibstoff mit enthaltenem Oxidationsmittel. Hoch reaktiv, brauchbar für Jetturbinen oder kleine Raketen.</Description>
 	</CraftData>
 	<CraftData>
 		<Name>Does this work?</Name>
@@ -43,6 +43,6 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>An alternative and eco-friendly way of powering Jet Turbines, by feeding them the liquidised corpses of your enemies.</Description>
+		<Description>Die alternative und Umweltfreundliche lösung Jetturbinen anzutreiben, durch nutzung der verflüssigten Körperteile deiner Feinde.</Description>
 	</CraftData>
 </ArrayOfCraftData>
