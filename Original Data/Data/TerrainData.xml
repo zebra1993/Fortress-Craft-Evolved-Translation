@@ -5793,6 +5793,49 @@
 		</tags>
 		<MaxStack>150</MaxStack>
 	</TerrainDataEntry>		
+
+	<TerrainDataEntry>
+		<CubeType>810</CubeType>
+		<Key>Hydroponics</Key>
+		<Name>Hydroponics</Name>
+		<Values>
+			<ValueEntry>
+				<Value>0</Value>
+				<Key>HydroponicsBay</Key>
+				<Name>Hydroponics Bay</Name>
+				<IconName>HydroponicsBay</IconName>
+				<Description>Can grow automated plants. Requires a Canopy.</Description>
+			</ValueEntry>
+			<ValueEntry><!-- If I want to get clever, we could have matched pairs of these-->
+				<Value>1</Value>
+				<Key>HydroponicsCanopy</Key>
+				<Name>Hydroponics Canopy</Name>
+				<IconName>HydroponicsCanopy</IconName>
+				<Description>Place over a Hydroponics Bay to massively increase it's growth speed. Requires </Description>
+			</ValueEntry>
+		</Values>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Minecarts</Category>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+	
+
 	<TerrainDataEntry>
 		<Key>WarningLight</Key>
 		<Name>Warning Light!</Name>

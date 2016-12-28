@@ -195,7 +195,6 @@
 			<Research>mining upgrade 2</Research>
 		</ResearchRequirements>	
 	</ItemEntry>
-	</ItemEntry>
 		<ItemEntry>
 		<ItemID>35</ItemID>
 		<Key>HighOctaneFuel</Key>
@@ -600,7 +599,7 @@
 		<Object>DrillHead_Crystal</Object>
 		<Sprite>Crystal Cutter Head</Sprite>
 		<!-- Atlas optional -->
-		<MaxDurability>17500</MaxDurability>
+		<MaxDurability>27500</MaxDurability>
 		<Category>MachineUpgrade</Category>
 		<ResearchRequirements>
 			<Research>alloys</Research>
@@ -615,7 +614,7 @@
 		<Object>DrillHead_Organic</Object>
 		<Sprite>Organic Cutter Head</Sprite>
 		<!-- Atlas optional -->
-		<MaxDurability>2500</MaxDurability>
+		<MaxDurability>6500</MaxDurability>
 		<Category>MachineUpgrade</Category>
 		<ResearchRequirements>
 			<Research>ResinHandling</Research>
@@ -2154,6 +2153,21 @@
 		<Category>ArtherUpgrade</Category>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
+		</ResearchRequirements>		
+	</ItemEntry>
+	<ItemEntry>
+		<ItemID>2105</ItemID>
+		<Key>ARTHERMaskSanta</Key>
+		<Name>ARTHER Santa Mask</Name>
+		<Plural>ARTHER Santa Mask</Plural>
+		<Type>ItemStack</Type>	
+		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
+		<Sprite>ARTHER Santa Mask</Sprite>
+
+		<!-- Atlas optional -->
+		<Category>ArtherUpgrade</Category>
+		<ResearchRequirements>
+			<Research>Aesthetics</Research>
 		</ResearchRequirements>		
 	</ItemEntry>
 	

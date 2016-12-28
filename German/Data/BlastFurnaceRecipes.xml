@@ -10,7 +10,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper bars are refined Copper usable for crafting.</Description>
+		<Description>Kupferbarren aus raffiniertem Kupfer, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>CopperOre</Scan>
 		</ScanRequirements>		
@@ -25,7 +25,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin bars are refined Tin usable for crafting.</Description>
+		<Description>Zinnbarren aus raffiniertem Zinn, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>TinOre</Scan>
 		</ScanRequirements>
@@ -40,7 +40,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron bars are refined Iron usable for crafting.</Description>
+		<Description>Eisenbarren aus raffiniertem Eisen, bereit verwendet zu werden..</Description>
 		<ScanRequirements>
 			<Scan>IronOre</Scan>
 		</ScanRequirements>
@@ -55,7 +55,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium bars are refined Lithium usable for crafting.</Description>
+		<Description>Lithiumbarren aus raffiniertem Lithium, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>LithiumOre</Scan>
 		</ScanRequirements>
@@ -70,7 +70,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold bars are refined Gold usable for crafting.</Description>
+		<Description>Goldbarren aus raffiniertem Gold, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>GoldOre</Scan>
 		</ScanRequirements>
@@ -85,7 +85,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel bars are refined Nickel usable for crafting.</Description>
+		<Description>Nickelbarren aus raffiniertem Nickel, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>NickelOre</Scan>
 		</ScanRequirements>
@@ -100,7 +100,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium bars are refined Titanium usable for crafting.</Description>
+		<Description>Titanbarren aus raffiniertem Titan, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>TitaniumOre</Scan>
 		</ScanRequirements>
@@ -115,7 +115,7 @@
 				<Amount>128</Amount><!-- 16 ore per bar on normal, 100 on greg (I think!)-->
 			</CraftCost>
 		</Costs>
-		<Description>Chromium bars are refined Chromium usable for crafting.</Description>
+		<Description>Chrombarren aus raffiniertem Chrom, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>ChromiumOre</Scan>
 		</ScanRequirements>
@@ -130,7 +130,7 @@
 				<Amount>128</Amount><!-- Greg 200, Normal 64, Easy 32, Casual 16 -->
 			</CraftCost>
 		</Costs>
-		<Description>Molybdenum bars are refined Molybdenum usable for crafting.</Description>
+		<Description>Molybdänbarren aus raffiniertem Molybdän, bereit verwendet zu werden.</Description>
 		<ScanRequirements>
 			<Scan>MolybdenumOre</Scan>
 		</ScanRequirements>

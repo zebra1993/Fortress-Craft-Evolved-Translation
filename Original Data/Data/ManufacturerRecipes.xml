@@ -4129,6 +4129,25 @@
 		</ResearchRequirements>
 	</CraftData>
 
+		<CraftData>
+		<Key>ArtherSantaMask</Key><!-- Charter?! -->
+		<Category>ArtherUpgrade</Category>
+		<Tier>0</Tier>
+		<CraftedKey>ARTHERMaskSanta</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>GreenGlowPod</Key>
+				<Amount>16</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>He knows when you've been naughty, but, you bought the Dapper DLC, so clearly you're nice!.</Description>
+		<Hint>Now I have a machine gun. Ho. Ho. Ho.</Hint>
+		<ResearchRequirements>
+			<Research>Aesthetics</Research>
+		</ResearchRequirements>
+	</CraftData>
+
 	<CraftData>
 		<Key>ARTHERSheet</Key><!-- Charter?! -->
 		<Category>ArtherUpgrade</Category>
@@ -7540,7 +7559,7 @@
 		<Description>Uses large amounts of power to imbue standard Steel Cutter Heads with plasma-based energy.</Description>
 		<Hint>Gives a quadruple rate on the Ore Extractor, but the charge disappears after 2000 ore is returned.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
 		<ResearchRequirements>
-			<Research>Alloys</Research> <!-- Might want a secondary research after this-->
+			<Research>mining upgrade 5</Research> <!-- Might want a secondary research after this-->
 		</ResearchRequirements>
 		<ResearchCost>8</ResearchCost>
 	</CraftData>
