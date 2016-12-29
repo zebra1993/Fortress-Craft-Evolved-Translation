@@ -1,0 +1,719 @@
+NGUI\Scripts\UI\UICamera.cs (574, 7):		if (Input.GetKeyDown(up)) return 1;
+NGUI\Scripts\UI\UICamera.cs (575, 7):		if (Input.GetKeyDown(down)) return -1;
+NGUI\Scripts\UI\UICamera.cs (585, 7):		if (Input.GetKeyDown(up0) || Input.GetKeyDown(up1)) return 1;
+NGUI\Scripts\UI\UICamera.cs (585, 32):		if (Input.GetKeyDown(up0) || Input.GetKeyDown(up1)) return 1;
+NGUI\Scripts\UI\UICamera.cs (586, 7):		if (Input.GetKeyDown(down0) || Input.GetKeyDown(down1)) return -1;
+NGUI\Scripts\UI\UICamera.cs (586, 34):		if (Input.GetKeyDown(down0) || Input.GetKeyDown(down1)) return -1;
+NGUI\Scripts\UI\UICamera.cs (600, 16):			float val = Input.GetAxis(axis);
+NGUI\Scripts\UI\UICamera.cs (813, 67):		if (useMouse && mSel != null && ((cancelKey0 != KeyCode.None && Input.GetKeyDown(cancelKey0)) ||
+NGUI\Scripts\UI\UICamera.cs (814, 35):			(cancelKey1 != KeyCode.None && Input.GetKeyDown(cancelKey1)))) selectedObject = null;
+NGUI\Scripts\UI\UICamera.cs (822, 23):			if (useKeyboard && Input.GetKeyDown(KeyCode.Delete)) input += "\b";
+NGUI\Scripts\UI\UICamera.cs (838, 19):			float scroll = Input.GetAxis(scrollAxisName);
+NGUI\Scripts\UI\UICamera.cs (842, 5):				Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)))
+NGUI\Scripts\UI\UICamera.cs (842, 40):				Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)))
+NGUI\Scripts\UI\UICamera.cs (863, 9):				if (Input.GetMouseButton(i) || Input.GetMouseButtonUp(i))
+NGUI\Scripts\UI\UICamera.cs (863, 36):				if (Input.GetMouseButton(i) || Input.GetMouseButtonUp(i))
+NGUI\Scripts\UI\UICamera.cs (899, 8):			if (Input.GetMouseButton(i))
+NGUI\Scripts\UI\UICamera.cs (938, 20):				bool pressed = Input.GetMouseButtonDown(i);
+NGUI\Scripts\UI\UICamera.cs (939, 22):				bool unpressed = Input.GetMouseButtonUp(i);
+NGUI\Scripts\UI\UICamera.cs (971, 18):			Touch input = Input.GetTouch(i);
+NGUI\Scripts\UI\UICamera.cs (1027, 55):		bool submitKeyDown = (submitKey0 != KeyCode.None && Input.GetKeyDown(submitKey0)) || (submitKey1 != KeyCode.None && Input.GetKeyDown(submitKey1));
+NGUI\Scripts\UI\UICamera.cs (1027, 119):		bool submitKeyDown = (submitKey0 != KeyCode.None && Input.GetKeyDown(submitKey0)) || (submitKey1 != KeyCode.None && Input.GetKeyDown(submitKey1));
+NGUI\Scripts\UI\UICamera.cs (1028, 53):		bool submitKeyUp = (submitKey0 != KeyCode.None && Input.GetKeyUp(submitKey0)) || (submitKey1 != KeyCode.None && Input.GetKeyUp(submitKey1));
+NGUI\Scripts\UI\UICamera.cs (1028, 115):		bool submitKeyUp = (submitKey0 != KeyCode.None && Input.GetKeyUp(submitKey0)) || (submitKey1 != KeyCode.None && Input.GetKeyUp(submitKey1));
+NGUI\Scripts\UI\UICamera.cs (1063, 22):		if (useKeyboard && Input.GetKeyDown(KeyCode.Tab)) Notify(mSel, "OnKey", KeyCode.Tab);
+NGUI\Scripts\UI\UICamera.cs (1066, 37):		if (cancelKey0 != KeyCode.None && Input.GetKeyDown(cancelKey0)) Notify(mSel, "OnKey", KeyCode.Escape);
+NGUI\Scripts\UI\UICamera.cs (1067, 37):		if (cancelKey1 != KeyCode.None && Input.GetKeyDown(cancelKey1)) Notify(mSel, "OnKey", KeyCode.Escape);
+Asset Packs\Christmas Level Kit\Medias\Scripts\FpsCounter.cs (36, 11):      if (Input.GetKeyDown(KeyCode.F1 )){
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (82, 13):        if (Input.GetMouseButton(2) && Input.GetKey(KeyCode.LeftAlt) && Input.GetKey(KeyCode.LeftControl))
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (82, 40):        if (Input.GetMouseButton(2) && Input.GetKey(KeyCode.LeftAlt) && Input.GetKey(KeyCode.LeftControl))
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (82, 73):        if (Input.GetMouseButton(2) && Input.GetKey(KeyCode.LeftAlt) && Input.GetKey(KeyCode.LeftControl))
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (84, 32):            desiredDistance -= Input.GetAxis("Mouse Y") * 0.02f  * zoomRate*0.125f * Mathf.Abs(desiredDistance);
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (87, 18):        else if (Input.GetMouseButton(0) )
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (89, 21):            xDeg += Input.GetAxis("Mouse X") * xSpeed * 0.02f;
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (90, 21):            yDeg -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (125, 20)://        else if (Input.GetMouseButton(2))
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (129, 49)://            target.Translate(Vector3.right * -Input.GetAxis("Mouse X") * panSpeed);
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (130, 48)://            target.Translate(transform.up * -Input.GetAxis("Mouse Y") * panSpeed, Space.World);
+Asset Packs\Fire FX\Scripts\SmoothCameraOrbit.cs (135, 28):        desiredDistance -= Input.GetAxis("Mouse ScrollWheel") * 0.02f  * zoomRate * Mathf.Abs(desiredDistance);
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (22, 40):			float h = movement.Horizontal; // = Input.GetAxis("Horizontal");
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (23, 36):			float v = movement.Vertical; // Input.GetAxis("Vertical");
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (25, 7):			if(Input.GetKeyDown(KeyCode.Alpha1)){
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (29, 7):			if(Input.GetKeyDown(KeyCode.Alpha2)){
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (33, 7):			if(Input.GetKeyDown(KeyCode.Alpha3)){
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (37, 7):			if(Input.GetKeyDown(KeyCode.Alpha4)){
+Asset Packs\Ooze\SampleScene\Scripts\OozeController.cs (41, 7):			if(Input.GetKeyDown(KeyCode.Alpha5)){
+NGUI\Scripts\UI\UIInput.cs (357, 31):			if (selectOnTab != null && Input.GetKeyDown(KeyCode.Tab))
+NGUI\Scripts\UI\UIInput.cs (363, 8):			if (Input.GetKeyDown(KeyCode.V) &&
+NGUI\Scripts\UI\UIInput.cs (365, 6):				(Input.GetKey(KeyCode.LeftApple) || Input.GetKey(KeyCode.LeftApple)))
+NGUI\Scripts\UI\UIInput.cs (365, 41):				(Input.GetKey(KeyCode.LeftApple) || Input.GetKey(KeyCode.LeftApple)))
+NGUI\Scripts\UI\UIInput.cs (367, 6):				(Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)))
+NGUI\Scripts\UI\UIInput.cs (367, 43):				(Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)))
+NGUI\Scripts\UI\UIInput.cs (424, 32):					if (!label.multiLine || (!Input.GetKey(KeyCode.LeftControl) && !Input.GetKey(KeyCode.RightControl)))
+NGUI\Scripts\UI\UIInput.cs (424, 70):					if (!label.multiLine || (!Input.GetKey(KeyCode.LeftControl) && !Input.GetKey(KeyCode.RightControl)))
+Scripts\Entities\Survival\MassStorageCrate.cs (1440, 7):		if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Entities\Survival\MassStorageCrate.cs (1451, 7):		if (Input.GetButtonDown("Extract") && UIManager.AllowInteracting && false)
+MegaGrab\MegaGrab.cs (631, 8):		if ( Input.GetKeyDown(GrabKey) )
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\FPSController.cs (18, 40):        CamAnimator.SetBool("Running", Input.GetKey(KeyCode.W));
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\FPSController.cs (19, 40):        WeaponAnimator.SetBool("Fire", Input.GetKey(KeyCode.Space));
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\FPSController.cs (21, 13):        if( Input.GetKey(KeyCode.W))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\MouseFollower.cs (20, 10):	    if (Input.GetMouseButton(0))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\Orbiter.cs (62, 16):            if(Input.GetMouseButtonDown(0))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankController.cs (32, 17):            if (Input.GetKey(KeyCode.W))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankController.cs (42, 22):            else if (Input.GetKey(KeyCode.S))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankController.cs (58, 17):            if (Input.GetKey(KeyCode.D))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankController.cs (64, 22):            else if (Input.GetKey(KeyCode.A))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankTranslator.cs (16, 12):        if(Input.GetKeyDown(KeyCode.A))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankTranslator.cs (21, 17):        else if(Input.GetKeyDown(KeyCode.D))
+Asset Packs\PigeonCoopToolkit\__Effects (Trails) Examples\Scripts\TankWeaponController.cs (13, 57):	    if(GetComponent<Animation>().isPlaying == false && Input.GetKeyDown(KeyCode.Space))
+Scripts\Entities\Survival\MassStorageIOPort.cs (3108, 7):		if (Input.GetButtonDown("Extract"))
+Scripts\Entities\Survival\MassStorageIOPort.cs (3180, 8):			if (Input.GetButton("Interact") )  
+Scripts\Entities\Survival\MassStorageIOPort.cs (3197, 8):			if (Input.GetButtonDown("Store"))
+Scripts\Entities\Survival\MassStorageIOPort.cs (3199, 9):				if (Input.GetKey(KeyCode.LeftShift))
+Asset Packs\AdvancedNormalMappedParticles\Scripts\DemoScene\DemoSceneControler.cs (144, 12):        if(Input.GetKeyDown(KeyCode.RightArrow))
+Asset Packs\AdvancedNormalMappedParticles\Scripts\DemoScene\DemoSceneControler.cs (149, 13):        if (Input.GetKeyDown(KeyCode.LeftArrow))
+Asset Packs\AdvancedNormalMappedParticles\Scripts\DemoScene\DemoSceneControler.cs (154, 12):        if(Input.GetKeyDown(KeyCode.Space))
+NGUI\Examples\Scripts\Other\ChatInput.cs (41, 7):		if (Input.GetKeyUp(KeyCode.Return))
+Asset Packs\Sci-Fi Effects\Code\F3DDespawn.cs (57, 13):        if (Input.GetMouseButtonUp(0))
+Asset Packs\Sci-Fi Effects\Code\F3DFXController.cs (163, 13):        if (Input.GetKeyDown(KeyCode.RightArrow))        
+Asset Packs\Sci-Fi Effects\Code\F3DFXController.cs (165, 17):        else if(Input.GetKeyDown(KeyCode.LeftArrow))
+Scripts\Entities\Survival\MassStorageInputPort.cs (1214, 7):		if (Input.GetKey(KeyCode.Q))
+Asset Packs\Sci-Fi Effects\Code\F3DFlameThrower.cs (43, 13):        if (Input.GetMouseButtonUp(0))
+Scripts\Entities\Survival\MassStorageOutputPort.cs (250, 7):		if (Input.GetButton("Interact") )  
+Scripts\Entities\Survival\MassStorageOutputPort.cs (267, 7):		if (Input.GetKey(KeyCode.Q))
+Asset Packs\BeautifulDissolves\Scripts\DissolveOnKeyPress.cs (14, 8):			if (Input.GetKeyDown(key)) {
+NGUI\Scripts\Interaction\UIButtonKeyBinding.cs (23, 8):			if (Input.GetKeyDown(keyCode))
+NGUI\Scripts\Interaction\UIButtonKeyBinding.cs (28, 8):			if (Input.GetKeyUp(keyCode))
+SF Pack\Scripts Shaders\fps\Sources\Scripts\MouseLook.cs (37, 53):			float rotationX = transform.localEulerAngles.y + Input.GetAxis("Mouse X") * sensitivityX;
+SF Pack\Scripts Shaders\fps\Sources\Scripts\MouseLook.cs (39, 17):			rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
+SF Pack\Scripts Shaders\fps\Sources\Scripts\MouseLook.cs (46, 24):			transform.Rotate(0, Input.GetAxis("Mouse X") * sensitivityX, 0);
+SF Pack\Scripts Shaders\fps\Sources\Scripts\MouseLook.cs (50, 17):			rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
+NGUI\Scripts\Interaction\UIButtonKeys.cs (58, 9):				if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+NGUI\Scripts\Interaction\UIButtonKeys.cs (58, 44):				if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+Asset Packs\Sci-Fi Effects\Code\F3DTurret.cs (85, 26):        if (!isFiring && Input.GetKeyDown(KeyCode.Mouse0))
+Asset Packs\Sci-Fi Effects\Code\F3DTurret.cs (92, 25):        if (isFiring && Input.GetKeyUp(KeyCode.Mouse0))
+Scripts\Audio\AudioMusicManager.cs (76, 13):        if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl))
+Scripts\Audio\AudioMusicManager.cs (76, 50):        if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl))
+Scripts\Audio\AudioMusicManager.cs (78, 17):            if (Input.GetKeyDown(KeyCode.M))
+Scripts\CamScript.cs (37, 7):		if (Input.GetKeyDown(KeyCode.F4)) {mbManual = !mbManual;}
+Scripts\CamScript.cs (38, 7):		if (Input.GetKeyDown(KeyCode.F1)) {transform.position = mStartPos;transform.rotation = mStartRot;}
+Scripts\CamScript.cs (44, 8):			if (Input.GetKey(KeyCode.LeftShift)) lrSpeed = 240.0f;
+Scripts\CamScript.cs (46, 8):			if (Input.GetKey(KeyCode.W)) transform.position += transform.forward * Time.deltaTime * lrSpeed;
+Scripts\CamScript.cs (47, 8):			if (Input.GetKey(KeyCode.S)) transform.position -= transform.forward * Time.deltaTime * lrSpeed;
+Scripts\CamScript.cs (48, 8):			if (Input.GetKey(KeyCode.A)) transform.position -= transform.right * Time.deltaTime * lrSpeed;
+Scripts\CamScript.cs (49, 8):			if (Input.GetKey(KeyCode.D)) transform.position += transform.right * Time.deltaTime * lrSpeed;
+Scripts\CamScript.cs (51, 68):			 transform.position -= transform.up * Time.deltaTime * 600.0f * Input.GetAxis("Mouse ScrollWheel");
+Scripts\CamScript.cs (55, 18):			lAngles.y +=  Input.GetAxis ("Mouse X") * Time.deltaTime * 1.0f;
+Scripts\CamScript.cs (56, 18):			lAngles.x +=  Input.GetAxis ("Mouse Y") * Time.deltaTime * 1.0f;
+Asset Packs\Sci-Fi Effects\Examples\Code\F3DMissileLauncher.cs (33, 12):        if(Input.GetMouseButtonDown(0))
+Asset Packs\Sci-Fi Effects\Examples\Code\F3DMissileLauncher.cs (48, 13):        if (Input.GetKeyDown(KeyCode.Alpha1))
+Asset Packs\Sci-Fi Effects\Examples\Code\F3DMissileLauncher.cs (53, 18):        else if (Input.GetKeyDown(KeyCode.Alpha2))
+Asset Packs\Sci-Fi Effects\Examples\Code\F3DMissileLauncher.cs (58, 18):        else if (Input.GetKeyDown(KeyCode.Alpha3))
+Scripts\CopyPaste\CopyPasteManager.cs (237, 7):		if (Input.GetKeyDown(KeyCode.F11))
+Scripts\CopyPaste\CopyPasteManager.cs (284, 7):		if (Input.GetKeyDown(KeyCode.Backspace))
+Scripts\CopyPaste\CopyPasteManager.cs (338, 7):		if (Input.GetKeyDown(KeyCode.Question) || Input.GetKeyDown(KeyCode.Slash))
+Scripts\CopyPaste\CopyPasteManager.cs (338, 45):		if (Input.GetKeyDown(KeyCode.Question) || Input.GetKeyDown(KeyCode.Slash))
+Scripts\CopyPaste\CopyPasteManager.cs (354, 8):			if (Input.GetKeyDown(KeyCode.DownArrow))
+Scripts\CopyPaste\CopyPasteManager.cs (362, 8):			if (Input.GetKeyDown(KeyCode.UpArrow))
+Scripts\CopyPaste\CopyPasteManager.cs (367, 8):			if (Input.GetKeyDown(KeyCode.LeftArrow))
+Scripts\CopyPaste\CopyPasteManager.cs (373, 8):			if (Input.GetKeyDown(KeyCode.RightArrow))
+Scripts\CopyPaste\CopyPasteManager.cs (380, 8):			if (Input.GetKeyDown(KeyCode.Return))
+Scripts\CopyPaste\CopyPasteManager.cs (429, 8):			if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\CopyPaste\CopyPasteManager.cs (441, 8):			if (Input.GetKeyDown(KeyCode.Delete))
+Scripts\CopyPaste\CopyPasteManager.cs (457, 8):			if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\CopyPaste\CopyPasteManager.cs (547, 8):			if (Input.GetKeyDown(KeyCode.End)) // if the corner objects are ever removed / disabled, this will cease to function
+Scripts\CopyPaste\CopyPasteManager.cs (632, 8):			if (Input.GetKeyDown(KeyCode.LeftShift))
+Scripts\CopyPaste\CopyPasteManager.cs (639, 10):			/*if (Input.GetKeyDown(KeyCode.LeftAlt)) 
+Scripts\CopyPaste\CopyPasteManager.cs (644, 8):			if (Input.GetKeyDown(KeyCode.LeftControl)) 
+Scripts\CopyPaste\CopyPasteManager.cs (659, 8):			if (Input.GetKeyDown(KeyCode.R))
+Scripts\CopyPaste\CopyPasteManager.cs (705, 7):		if (Input.GetKeyDown (KeyCode.Home)) 
+Scripts\CopyPaste\CopyPasteManager.cs (795, 7):		if (Input.GetKeyDown(KeyCode.Comma) || Input.GetKeyDown(KeyCode.Less))
+Scripts\CopyPaste\CopyPasteManager.cs (795, 42):		if (Input.GetKeyDown(KeyCode.Comma) || Input.GetKeyDown(KeyCode.Less))
+Scripts\CopyPaste\CopyPasteManager.cs (884, 7):		if (Input.GetKeyDown(KeyCode.X))
+Scripts\CopyPaste\CopyPasteManager.cs (943, 7):		if (Input.GetKeyDown(KeyCode.Z))
+Scripts\CopyPaste\CopyPasteManager.cs (988, 7):		if (Input.GetKeyDown(KeyCode.Y))
+Scripts\CopyPaste\CopyPasteManager.cs (1034, 7):		if (Input.GetKeyDown(KeyCode.X))
+Scripts\CopyPaste\CopyPasteManager.cs (1036, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\CopyPaste\CopyPasteManager.cs (1045, 7):		if (Input.GetKeyDown(KeyCode.Y))
+Scripts\CopyPaste\CopyPasteManager.cs (1047, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\CopyPaste\CopyPasteManager.cs (1056, 7):		if (Input.GetKeyDown(KeyCode.Z))
+Scripts\CopyPaste\CopyPasteManager.cs (1058, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Asset Packs\UltimateAlien\Scripts\ApplicationQuit.cs (8, 7):		if (Input.GetKeyDown (KeyCode.Q)) 
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (15, 24):		if ((keyUsed == 1 && Input.GetKeyDown(KeyCode.Keypad1)) || 
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (16, 24):		    (keyUsed == 2 && Input.GetKeyDown(KeyCode.Keypad2)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (17, 24):		    (keyUsed == 3 && Input.GetKeyDown(KeyCode.Keypad3)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (18, 24):		    (keyUsed == 4 && Input.GetKeyDown(KeyCode.Keypad4)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (19, 24):		    (keyUsed == 5 && Input.GetKeyDown(KeyCode.Keypad5)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (20, 24):		    (keyUsed == 6 && Input.GetKeyDown(KeyCode.Keypad6)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (21, 24):		    (keyUsed == 7 && Input.GetKeyDown(KeyCode.Keypad7)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (22, 24):		    (keyUsed == 8 && Input.GetKeyDown(KeyCode.Keypad8)) ||
+Asset Packs\UltimateAlien\Scripts\LightColorChanger.cs (23, 24):		    (keyUsed == 9 && Input.GetKeyDown(KeyCode.Keypad9)) )
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (13, 24):		if ((keyUsed == 1 && Input.GetKeyDown(KeyCode.Keypad1)) || 
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (14, 24):		    (keyUsed == 2 && Input.GetKeyDown(KeyCode.Keypad2)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (15, 24):		    (keyUsed == 3 && Input.GetKeyDown(KeyCode.Keypad3)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (16, 24):		    (keyUsed == 4 && Input.GetKeyDown(KeyCode.Keypad4)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (17, 24):		    (keyUsed == 5 && Input.GetKeyDown(KeyCode.Keypad5)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (18, 24):		    (keyUsed == 6 && Input.GetKeyDown(KeyCode.Keypad6)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (19, 24):		    (keyUsed == 7 && Input.GetKeyDown(KeyCode.Keypad7)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (20, 24):		    (keyUsed == 8 && Input.GetKeyDown(KeyCode.Keypad8)) ||
+Asset Packs\UltimateAlien\Scripts\LightIntensityChanger.cs (21, 24):		    (keyUsed == 9 && Input.GetKeyDown(KeyCode.Keypad9)) )
+Asset Packs\UltimateAlien\Scripts\MaterialChanger.cs (12, 6):		if(Input.GetKeyDown(KeyCode.Space)) 
+Asset Packs\WarFX\Demo\Assets\WFX_Demo.cs (198, 6):		if(Input.GetKeyDown(KeyCode.LeftArrow))
+Asset Packs\WarFX\Demo\Assets\WFX_Demo.cs (202, 11):		else if(Input.GetKeyDown(KeyCode.RightArrow))
+Scripts\Entities\DisableAllChildLightsBasedOnRenderer.cs (46, 8):			if (Input.GetKey(KeyCode.LeftShift)) 
+Scripts\Entities\Survival\ARTHERRechargeStation.cs (248, 8):			if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Entities\Survival\ARTHERRechargeStation.cs (269, 8):			if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Entities\Survival\Tier4\CargoLiftController.cs (2087, 9):				if (Input.GetKeyUp(KeyCode.T))
+Scripts\Entities\Survival\Tier4\T4_Grinder.cs (1385, 13):        if (Input.GetKey(KeyCode.RightControl)) GrindTimer+=10;
+Scripts\Entities\Survival\StorageHopper.cs (3913, 10):					if (Input.GetKey(KeyCode.LeftShift)) 
+Scripts\Entities\Survival\StorageHopper.cs (3916, 10):					if (Input.GetKey(KeyCode.LeftControl)) 
+Scripts\Entities\Survival\StorageHopper.cs (3955, 10):					if (Input.GetButton("Extract")) //Remove Resources (from hopper)
+Scripts\Entities\Survival\StorageHopper.cs (4002, 12):				/*	if (Input.GetButtonDown("Interact") && !Input.GetKey(KeyCode.LeftShift) && UIManager.AllowInteracting) //toggle hopper permissions
+Scripts\Entities\Survival\StorageHopper.cs (4002, 48):				/*	if (Input.GetButtonDown("Interact") && !Input.GetKey(KeyCode.LeftShift) && UIManager.AllowInteracting) //toggle hopper permissions
+Scripts\Entities\Survival\StorageHopper.cs (4012, 10):					if (Input.GetButtonDown("Interact") && Input.GetKey(KeyCode.LeftShift) && UIManager.AllowInteracting) //toggle hopper hoover
+Scripts\Entities\Survival\StorageHopper.cs (4012, 45):					if (Input.GetButtonDown("Interact") && Input.GetKey(KeyCode.LeftShift) && UIManager.AllowInteracting) //toggle hopper hoover
+Scripts\Entities\Survival\StorageHopper.cs (4021, 10):					if (Input.GetButtonDown("Store") && UIManager.AllowInteracting && mnStorageFree > 0 && lExemplar != null)
+Scripts\Entities\Survival\StorageHopper.cs (4071, 10):					if (Input.GetKeyDown(KeyCode.R) && Input.GetKey(KeyCode.LeftControl))
+Scripts\Entities\Survival\StorageHopper.cs (4071, 41):					if (Input.GetKeyDown(KeyCode.R) && Input.GetKey(KeyCode.LeftControl))
+Scripts\Entities\Survival\Tier3\T3_FuelCompressor.cs (1194, 13):        if (Input.GetKey(KeyCode.RightControl)) mrStateTimer+=1;
+Scripts\Entities\Survival\Tier3\T3_SLODRS.cs (1291, 13):        if (Input.GetKey(KeyCode.RightControl)) 
+Scripts\Entities\Survival\Tier3\T3_SLODRS.cs (1296, 13):        if (Input.GetKey(KeyCode.LeftControl)) 
+Scripts\Entities\Survival\ConveyorEntity.cs (2031, 13):        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.RightShift))
+Scripts\Entities\Survival\ConveyorEntity.cs (2031, 48):        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.RightShift))
+Scripts\Entities\Survival\ConveyorEntity.cs (2036, 13):        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.RightControl))
+Scripts\Entities\Survival\ConveyorEntity.cs (2036, 48):        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.RightControl))
+Scripts\Entities\Survival\Tier4\T4_ParticleCompressor.cs (1349, 13):        if (Input.GetKey(KeyCode.RightControl)) CompressionTimer+=10;
+Scripts\Game\HotBarManager.cs (514, 7):		if (Input.GetKeyDown(KeyCode.Alpha1)) SelectPlayerSlot(0);
+Scripts\Game\HotBarManager.cs (515, 7):		if (Input.GetKeyDown(KeyCode.Alpha2)) SelectPlayerSlot(1);
+Scripts\Game\HotBarManager.cs (516, 7):		if (Input.GetKeyDown(KeyCode.Alpha3)) SelectPlayerSlot(2);
+Scripts\Game\HotBarManager.cs (517, 7):		if (Input.GetKeyDown(KeyCode.Alpha4)) SelectPlayerSlot(3);
+Scripts\Game\HotBarManager.cs (518, 7):		if (Input.GetKeyDown(KeyCode.Alpha5)) SelectPlayerSlot(4);
+Scripts\Game\HotBarManager.cs (519, 7):		if (Input.GetKeyDown(KeyCode.Alpha6)) SelectPlayerSlot(5);
+Scripts\Game\HotBarManager.cs (520, 7):		if (Input.GetKeyDown(KeyCode.Alpha7)) SelectPlayerSlot(6);
+Scripts\Game\HotBarManager.cs (521, 7):		if (Input.GetKeyDown(KeyCode.Alpha8)) SelectPlayerSlot(7);
+Scripts\Game\HotBarManager.cs (522, 7):		if (Input.GetKeyDown(KeyCode.Alpha9)) SelectPlayerSlot(8);
+Scripts\Game\HotBarManager.cs (523, 7):		if (Input.GetKeyDown(KeyCode.Alpha0)) SelectPlayerSlot(9);
+Scripts\Game\HotBarManager.cs (525, 8):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (525, 50):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (525, 95):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (525, 131):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (545, 8):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (545, 50):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (545, 99):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (545, 135):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (788, 7):		if (Input.GetKeyDown(KeyCode.F1)) lnNextTab = 0;
+Scripts\Game\HotBarManager.cs (789, 7):		if (Input.GetKeyDown(KeyCode.F2)) lnNextTab = 1;
+Scripts\Game\HotBarManager.cs (790, 7):		if (Input.GetKeyDown(KeyCode.F3)) lnNextTab = 2;
+Scripts\Game\HotBarManager.cs (791, 7):		if (Input.GetKeyDown(KeyCode.F4)) lnNextTab = 3;
+Scripts\Game\HotBarManager.cs (792, 7):		if (Input.GetKeyDown(KeyCode.F5)) lnNextTab = 4;
+Scripts\Game\HotBarManager.cs (793, 7):		if (Input.GetKeyDown(KeyCode.F6)) lnNextTab = 5;
+Scripts\Game\HotBarManager.cs (794, 7):		if (Input.GetKeyDown(KeyCode.F7)) lnNextTab = 6;
+Scripts\Game\HotBarManager.cs (797, 7):		if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (797, 49):		if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (805, 7):		if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\HotBarManager.cs (805, 49):		if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Entities\Survival\Tier4\T4_ParticleFilter.cs (1327, 13):        if (Input.GetKey(KeyCode.RightControl)) CollectionTimer+=10;
+Scripts\Game\Achievements.cs (363, 7):		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.T))
+Scripts\Game\Achievements.cs (363, 44):		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.T))
+Scripts\Game\Achievements.cs (363, 79):		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.T))
+Scripts\Entities\Survival\Tier4\T4_Turret.cs (670, 7):		if (Input.GetKey(KeyCode.U))  BeamCharge.SetActive(true); else BeamCharge.SetActive(false);
+Scripts\Entities\Survival\Tier4\T4_Turret.cs (671, 7):		if (Input.GetKey(KeyCode.T))  BeamFire.SetActive(true); else BeamFire.SetActive(false);
+Scripts\Entities\Survival\Tier4\T4_Turret.cs (673, 7):		if (Input.GetKey(KeyCode.U))  
+Scripts\Entities\Survival\Tier4\T4_Turret.cs (693, 7):		if (Input.GetKey(KeyCode.U))  
+Scripts\Game\CreativeManager.cs (91, 7):		if (Input.GetKeyDown(KeyCode.F9))
+Scripts\Game\CreativeManager.cs (117, 8):			if (Input.GetKeyDown(KeyCode.Delete))
+Scripts\Game\CreativeManager.cs (125, 8):			if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\Game\CreativeManager.cs (138, 7):		if (Input.GetKeyDown(KeyCode.F10))
+Scripts\Game\CreativeManager.cs (158, 7):		if (Input.GetKeyDown(KeyCode.End))
+Scripts\Game\CreativeManager.cs (165, 7):		if (Input.GetKeyDown(KeyCode.X))
+Scripts\Game\CreativeManager.cs (167, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\CreativeManager.cs (171, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeX -= 15;
+Scripts\Game\CreativeManager.cs (176, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeX += 15;
+Scripts\Game\CreativeManager.cs (184, 7):		if (Input.GetKeyDown(KeyCode.Y))
+Scripts\Game\CreativeManager.cs (187, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\CreativeManager.cs (190, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeY -= 15;
+Scripts\Game\CreativeManager.cs (196, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeY += 15;
+Scripts\Game\CreativeManager.cs (201, 7):		if (Input.GetKeyDown(KeyCode.Z))
+Scripts\Game\CreativeManager.cs (204, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\CreativeManager.cs (207, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeZ -= 15;
+Scripts\Game\CreativeManager.cs (212, 9):				if (Input.GetKey(KeyCode.LeftAlt)) mnSizeZ += 15;
+Scripts\Game\CreativeManager.cs (342, 7):		if (Input.GetKeyDown(KeyCode.F8)) 
+Scripts\Game\CreativeManager.cs (368, 7):		if (Input.GetKeyDown(KeyCode.F11))
+Scripts\Game\WeatherControlScript.cs (75, 9):			if ((Input.GetKeyDown(KeyCode.PageDown) || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (75, 47):			if ((Input.GetKeyDown(KeyCode.PageDown) || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (75, 91):			if ((Input.GetKeyDown(KeyCode.PageDown) || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (75, 127):			if ((Input.GetKeyDown(KeyCode.PageDown) || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (83, 9):			if ((Input.GetKeyDown(KeyCode.PageUp) || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (83, 45):			if ((Input.GetKeyDown(KeyCode.PageUp) || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (83, 89):			if ((Input.GetKeyDown(KeyCode.PageUp) || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (83, 125):			if ((Input.GetKeyDown(KeyCode.PageUp) || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Game\WeatherControlScript.cs (149, 9):				if (Input.GetButton("Fire1")) //increase intensity
+Scripts\Game\WeatherControlScript.cs (178, 8):			if (Input.GetKey(KeyCode.RightControl))
+Scripts\Game\WeatherControlScript.cs (188, 9):				if (Input.GetButton("Fire1")) 
+Scripts\Game\WeatherControlScript.cs (195, 9):				if (Input.GetButton("Fire2")) 
+Scripts\Game\WeatherControlScript.cs (242, 9):				if (Input.GetMouseButtonDown(0) && mrMeteorDebounce < 0.0f)
+Scripts\Game\WeatherControlScript.cs (260, 9):				if (Input.GetMouseButtonDown(1) && mrMeteorDebounce < 0.0f)
+Scripts\Game\PlayerPainter.cs (120, 7):		if (Input.GetButton("Fire1")) // LMB, paint
+Scripts\Game\PlayerPainter.cs (192, 12):		else if (Input.GetButton("Pick")) // MMB, pick
+Scripts\Game\PlayerStats.cs (487, 8):			if (Input.GetKeyDown(KeyCode.J) && Input.GetKey(KeyCode.LeftAlt)) mbEnabled = !mbEnabled;
+Scripts\Game\PlayerStats.cs (487, 39):			if (Input.GetKeyDown(KeyCode.J) && Input.GetKey(KeyCode.LeftAlt)) mbEnabled = !mbEnabled;
+Scripts\Game\LocalPlayerScript.cs (656, 7):		if (Input.GetKeyDown(KeyCode.LeftControl) && Input.GetKey(KeyCode.F)) // F is grappling hook!!!!1!!1!1!
+Scripts\Game\LocalPlayerScript.cs (656, 48):		if (Input.GetKeyDown(KeyCode.LeftControl) && Input.GetKey(KeyCode.F)) // F is grappling hook!!!!1!!1!1!
+Scripts\Game\LocalPlayerScript.cs (691, 7):		if (Input.GetKeyDown(KeyCode.Backslash))
+Scripts\Game\LocalPlayerScript.cs (752, 9):		//if (Input.GetKeyDown(KeyCode.J)) // also allow this in creative, for when the jumping fails to toggle again
+Scripts\Game\LocalPlayerScript.cs (753, 7):		if (Input.GetButtonDown("Toggle Jetpack") && mbHaveJetPack)
+Scripts\Game\LocalPlayerScript.cs (776, 7):		if (Input.GetButtonDown("Glow Stick") && UIManager.AllowInteracting)
+Scripts\Game\LocalPlayerScript.cs (1309, 60):						if (WorldScript.meGameMode == eGameMode.eCreative && Input.GetButtonDown("Jump"))//double jump, enable jetpack
+Scripts\Game\LocalPlayerScript.cs (2170, 7):		if (Input.GetKeyDown(KeyCode.U) && Holobase.mbBaseActive == false)
+Scripts\Game\LocalPlayerScript.cs (2175, 7):		if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.LeftControl)&& Input.GetKey(KeyCode.RightControl))
+Scripts\Game\LocalPlayerScript.cs (2175, 38):		if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.LeftControl)&& Input.GetKey(KeyCode.RightControl))
+Scripts\Game\LocalPlayerScript.cs (2175, 74):		if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.LeftControl)&& Input.GetKey(KeyCode.RightControl))
+Scripts\Game\LocalPlayerScript.cs (2207, 8):			if (Input.GetButton("Jump"))
+Scripts\Game\LocalPlayerScript.cs (2296, 9):				if (Input.GetKey(KeyCode.I)) data.mrOrbitTime += 128.0f;//spin SUPER fast
+Scripts\Game\LocalPlayerScript.cs (2297, 9):				if (Input.GetKey(KeyCode.U)) data.mrOrbitScale ++;// Time.deltaTime;
+Scripts\Game\LocalPlayerScript.cs (2298, 9):				if (Input.GetKey(KeyCode.Y)) data.mrOrbitScale --;// Time.deltaTime;
+Scripts\Game\LocalPlayerScript.cs (3261, 8):			if (Input.GetKey(KeyCode.RightShift)) data.mPosition.y += 0.1f;	
+Scripts\Game\LocalPlayerScript.cs (3334, 26)://		float forwardSpeed = Input.GetAxisRaw("Vertical");
+Scripts\Game\LocalPlayerScript.cs (3335, 23)://		float sideSpeed = Input.GetAxisRaw("Horizontal");
+Scripts\Game\LocalPlayerScript.cs (3359, 21):				if (UnityEngine.Input.GetKey(KeyCode.LeftShift) &&
+Scripts\Game\LocalPlayerScript.cs (3365, 9):				if (Input.GetButton("Jump"))
+Scripts\Game\LocalPlayerScript.cs (3377, 14):				else if (Input.GetButton("Extract"))//Don't like using extract here, consider adding a new option for "Down"?
+Scripts\Game\LocalPlayerScript.cs (3391, 21):				if (UnityEngine.Input.GetButtonDown("Jump"))
+Scripts\Game\LocalPlayerScript.cs (3393, 10):					if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\LocalPlayerScript.cs (3404, 21):				if (UnityEngine.Input.GetButton("Jump") && !mbJetPackHoverMode)
+Scripts\Game\LocalPlayerScript.cs (3409, 24)://					if (UnityEngine.Input.GetKey(KeyCode.LeftShift)) 
+Scripts\Game\LocalPlayerScript.cs (3565, 9):				if (Input.GetKey(KeyCode.RightControl)) lrSpeed = 150.0f;
+Scripts\Game\LocalPlayerScript.cs (3575, 54):					if (data.mbGrounded && data.mVelocity.y == 0 && Input.GetButton("Jump") && !data.mbJetPack)
+Scripts\Game\LocalPlayerScript.cs (3584, 10):					if (Input.GetButton("Jump"))
+Scripts\Game\LocalPlayerScript.cs (3593, 35):						else if (data.mbGrounded && Input.GetButton("Jump")) // in survival, you can jump if you have jetpack on. it's not creative flight!
+Scripts\Game\LocalPlayerScript.cs (3855, 7):		if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.B))
+Scripts\Game\LocalPlayerScript.cs (3855, 42):		if (Input.GetKey(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.B))
+Scripts\Game\LocalPlayerScript.cs (3949, 7):		if (Input.GetKeyDown(KeyCode.M))
+Scripts\Game\LocalPlayerScript.cs (3965, 9):				if (Input.GetKeyDown(KeyCode.M)) // why are we checking input again?
+Scripts\Game\HUDManager.cs (874, 8):			if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\HUDManager.cs (907, 10):					if (Input.GetKeyDown(KeyCode.F5))
+Scripts\Game\HUDManager.cs (957, 9):				if (Input.GetKeyDown(KeyCode.F5)) DumpOutMachineState();
+Scripts\Game\HUDManager.cs (1036, 7):		if (Input.GetButton("Fire1"))
+Scripts\Handbook\HandbookPanelScript.cs (192, 7):		if (Input.GetKeyDown(KeyCode.PageUp))
+Scripts\Handbook\HandbookPanelScript.cs (200, 12):		else if (Input.GetKeyDown(KeyCode.PageDown))
+Scripts\MainMenu\MainMenuCamScript.cs (773, 7):		if (Input.GetKeyDown(KeyCode.F1))
+Scripts\MainMenu\MainMenuCamScript.cs (784, 8):			if (Input.GetKeyDown(KeyCode.LeftArrow))
+Scripts\MainMenu\MainMenuCamScript.cs (791, 13):			else if (Input.GetKeyDown(KeyCode.RightArrow))
+Scripts\MainMenu\MainMenuCamScript.cs (800, 9):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.T))
+Scripts\MainMenu\MainMenuCamScript.cs (800, 46):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.T))
+Scripts\MainMenu\MainMenuCamScript.cs (800, 85):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.T))
+Scripts\MainMenu\MainMenuCamScript.cs (802, 9):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.S))
+Scripts\MainMenu\MainMenuCamScript.cs (802, 46):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.S))
+Scripts\MainMenu\MainMenuCamScript.cs (802, 85):			if ((Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl)) && Input.GetKeyDown(KeyCode.S))
+Scripts\MainMenu\MainMenuCamScript.cs (814, 8):			if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\MainMenuCamScript.cs (814, 44):			if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\MainMenuCamScript.cs (831, 8):			if (Input.GetKeyDown(KeyCode.LeftArrow))
+Scripts\MainMenu\MainMenuCamScript.cs (837, 10)://			if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.Escape)) 
+Scripts\MainMenu\MainMenuCamScript.cs (837, 50)://			if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.Escape)) 
+Scripts\MainMenu\MainMenuCamScript.cs (841, 10)://			if (Input.GetKeyDown(KeyCode.UpArrow)) 
+Scripts\MainMenu\MainMenuCamScript.cs (845, 10)://			if (Input.GetKeyDown(KeyCode.DownArrow)) 
+Scripts\MainMenu\MainMenuCamScript.cs (849, 8):			if (Input.GetKeyDown(KeyCode.Space)) 
+Scripts\MainMenu\MainMenuCamScript.cs (878, 8):			if (Input.GetKeyDown(KeyCode.Backspace))
+Scripts\MainMenu\MainMenuCamScript.cs (885, 9):				if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\MainMenu\MainMenuCamScript.cs (901, 8):			if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\MainMenu\MainMenuCamScript.cs (1043, 9)://		if (Input.GetKeyDown(KeyCode.H))
+Scripts\MainMenu\MainMenuCamScript.cs (1052, 9)://		if (Input.GetKeyDown(KeyCode.J))
+Scripts\Game\PlayerBuildToMeScript.cs (93, 8):			if (Input.GetButton("Fast Build")) //left ctrl
+Scripts\Game\PlayerBuildToMeScript.cs (110, 66):                if (PersistentSettings.MinecraftMode == false && Input.GetButtonDown("Fire1")) lbBuild = true;
+Scripts\Game\PlayerBuildToMeScript.cs (112, 65):                if (PersistentSettings.MinecraftMode == true && Input.GetButtonDown("Fire2")) lbBuild = true;//RMB
+Scripts\Menus\BlockSelect\BlockSelectPanel.cs (563, 9):				if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+Scripts\Menus\BlockSelect\BlockSelectPanel.cs (563, 44):				if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+Scripts\Menus\InventoryPanel\InventoryPanelIconScript.cs (225, 21):                if (Input.GetKey(KeyCode.LeftControl) && DragAndDropManager.mbDragging == false)//dupe fix, don't allow ctrl clicking during drag operations
+Scripts\MainMenu\BootStrap.cs (60, 17):            if (Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\ModManagementPanelScript.cs (99, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\MainMenu\ConfirmationPanelScript.cs (39, 7):		if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\ConfirmationPanelScript.cs (39, 43):		if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\ConfirmationPanelScript.cs (43, 12):		else if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Game\PlayerBuilder.cs (76, 11):		//		if (Input.GetKey(KeyCode.F8))
+Scripts\Game\PlayerBuilder.cs (90, 7):		if (Input.GetButton("Pick") && mLocalPlayer.mPlayerBlockPicker.selectBlockType != eCubeTypes.NULL) // MMB, pick ?
+Scripts\Game\PlayerBuilder.cs (115, 7):		if (Input.GetButtonDown("Rotate CW") || Input.GetButtonDown("Rotate CCW")) // rotate code.r
+Scripts\Game\PlayerBuilder.cs (115, 43):		if (Input.GetButtonDown("Rotate CW") || Input.GetButtonDown("Rotate CCW")) // rotate code.r
+Scripts\Game\PlayerBuilder.cs (120, 11):			lbCW = Input.GetButtonDown("Rotate CW");
+Scripts\Game\PlayerBuilder.cs (121, 25):            if (lbCW && Input.GetKey(KeyCode.LeftShift)) lbCW = false;//shift-R
+Scripts\Game\PlayerBuilder.cs (188, 9)://		if (Input.GetKeyDown(KeyCode.F7))
+Scripts\Game\PlayerBuilder.cs (202, 32):        bool Button1Pressed = (Input.GetButton("Fire1") || Input.GetAxis("Fire1") > 0.5f); // LMB, right trigger, build
+Scripts\Game\PlayerBuilder.cs (202, 60):        bool Button1Pressed = (Input.GetButton("Fire1") || Input.GetAxis("Fire1") > 0.5f); // LMB, right trigger, build
+Scripts\Game\PlayerBuilder.cs (203, 32):        bool Button2Pressed = (Input.GetButton("Fire2") || Input.GetAxis("Fire2") > 0.5f); // RMB, dig
+Scripts\Game\PlayerBuilder.cs (203, 60):        bool Button2Pressed = (Input.GetButton("Fire2") || Input.GetAxis("Fire2") > 0.5f); // RMB, dig
+Scripts\Game\PlayerBuilder.cs (215, 8):			if (Input.GetButton("Fast Build"))
+Scripts\Game\PlayerBuilder.cs (235, 9):				if (Input.GetButton("Fast Build")  || WorldScript.meGameMode == eGameMode.eSurvival)
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (208, 7):		if (Input.GetButtonDown("Extract") && !UIManager.instance.mSplitPanel.gameObject.activeSelf && DragAndDropManager.mbDragging == false)
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (225, 46):        if (!mbGenericMachinePanelVisible && Input.GetButtonDown("Suit Upgrades"))
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (232, 46):        if (mbGenericMachinePanelVisible && (Input.GetButtonDown("Interact")))
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (240, 9)://		if (Input.GetButtonDown("Interact"))
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (556, 9):				if (Input.GetKey(KeyCode.LeftShift) ||
+Scripts\Menus\InventoryPanel\InventoryPanelScript.cs (557, 9):				    Input.GetKey(KeyCode.RightShift))
+Scripts\MainMenu\DropPodScript.cs (185, 21):                if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Menus\ChatPanel\ChatPanelScript.cs (122, 9):			if (!Input.GetKey(KeyCode.Return))
+Scripts\Menus\ChatPanel\ChatPanelScript.cs (140, 7):		if (Input.GetKeyDown(KeyCode.Escape)) // we can't check 'Pause', as that's by default alted to 'p' - this won't work in editor due to it catching escape!
+Scripts\Menus\ChatPanel\ChatPanelScript.cs (709, 9):			if (!Input.GetKey(KeyCode.Return))
+Scripts\Menus\ChatPanel\ChatPanelScript.cs (727, 7):		if (Input.GetKeyDown(KeyCode.Escape)) // we can't check 'Pause', as that's by default alted to 'p' - this won't work in editor due to it catching escape!
+Scripts\Menus\DragAndDropManager.cs (47, 8):			if (Input.GetMouseButtonUp(0))
+Scripts\Menus\PowerPanel\PowerPanelScript.cs (125, 7):		if (Input.GetKey(KeyCode.RightControl)) mrSuitPower+=50;	
+Scripts\Menus\PowerPanel\PowerPanelScript.cs (211, 7):		if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Menus\PowerPanel\PowerPanelScript.cs (216, 7):		if (Input.GetKey(KeyCode.RightShift))
+Scripts\Menus\SettingsMenu\CloseSettingsButton.cs (17, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Menus\PaintPanel\ClosePaintButton.cs (16, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Menus\SkinSelectPanel.cs (86, 13):        if (Input.GetKeyDown(KeyCode.PageUp))
+Scripts\Menus\SkinSelectPanel.cs (92, 13):        if (Input.GetKeyDown(KeyCode.PageDown))
+Scripts\Menus\SkinSelectPanel.cs (98, 13):        if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\Menus\SkinSelectPanel.cs (102, 13):        if (Input.GetKeyDown(KeyCode.Delete))
+Scripts\Menus\SkinSelectPanel.cs (113, 13):        if (Input.GetKeyDown(KeyCode.F1))
+Scripts\Menus\SkinSelectPanel.cs (117, 13):        if (Input.GetKeyDown(KeyCode.F2))
+Scripts\Menus\SkinSelectPanel.cs (121, 13):        if (Input.GetKeyDown(KeyCode.F3))
+Scripts\Menus\SuperBuild\SuperBuildPanel.cs (247, 7):		if (Input.GetKey(KeyCode.LeftShift)) SuperBuild_Instructions_Label1.color = Color.white;
+Scripts\Menus\SuperBuild\SuperBuildPanel.cs (248, 7):		if (Input.GetKey(KeyCode.LeftAlt)) SuperBuild_Instructions_Label2.color = Color.white;
+Scripts\Menus\SignEditPanel\SignEditPanelScript.cs (25, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Mobs\OozeScript_Unity.cs (120, 10)://			if (Input.GetKeyDown(KeyCode.RightControl)) mob.mbRequestAttackOnPlayer = true;
+Scripts\Mobs\CamoBotMob_Unity.cs (166, 10)://			if (Input.GetKeyDown(KeyCode.RightControl)) mob.mbRequestAttackOnPlayer = true;
+Scripts\Menus\WorkshopMenu\WorkshopPanel.cs (145, 9):				if (Input.GetKeyDown(KeyCode.I) && UIManager.AllowInteracting) 
+Scripts\Menus\WorkshopMenu\WorkshopPanel.cs (151, 11)://				if (Input.GetKeyDown(KeyCode.O)) 
+Scripts\Menus\WorkshopMenu\WorkshopPanel.cs (166, 9):				if (Input.GetKeyDown(KeyCode.Y))//The letter along the top row that's next to all the other workshop editing keys
+Scripts\Menus\WorkshopMenu\WorkshopPanel.cs (183, 11)://				if (Input.GetKeyDown(KeyCode.LeftBracket))
+Scripts\Mobs\ConstructoBots\ConstructoBot_Unity.cs (225, 13):        if (Input.GetKey(KeyCode.LeftShift)) mob.SetNewState(ConstructoBotMob.State.FellOver);
+Scripts\Network\ARTHERSkin.cs (65, 7):		if (Input.GetKey(KeyCode.RightShift))
+Scripts\Museum\Museum.cs (79, 8):			if (Input.GetKeyDown(KeyCode.RightControl)) 
+Scripts\Museum\Museum.cs (160, 8):			if (Input.GetKey(KeyCode.Space))
+Scripts\Game\UIManager.cs (1258, 13):        if (Input.GetKeyDown(KeyCode.F10))
+Scripts\Game\UIManager.cs (1276, 17):            if (Input.GetKeyDown(KeyCode.F11))
+Scripts\Game\UIManager.cs (1283, 13):        if (Input.GetKeyDown(KeyCode.F10))
+Scripts\Game\UIManager.cs (1464, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Game\UIManager.cs (1480, 12):		else if (Input.GetButtonDown("Pause"))
+Scripts\Game\UIManager.cs (1489, 9)://		if (Input.GetKeyDown(KeyCode.K))
+Scripts\Game\UIManager.cs (1497, 9)://		if (Input.GetKey(KeyCode.Y))
+Scripts\Game\UIManager.cs (1562, 8):			if (Input.GetButtonDown("Block Select"))//keycode.equals (or =)
+Scripts\Game\UIManager.cs (1604, 8):			if (Input.GetButtonDown("Fire2"))
+Scripts\Game\UIManager.cs (1875, 13):        if (Input.GetButtonDown("Help")) ToggleHelp = true;
+Scripts\Game\UIManager.cs (1995, 9):				if (Input.GetButtonDown("Interact") && AllowInteracting && HudShown)
+Scripts\Game\UIManager.cs (1997, 26):                    if (!Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl) && !Input.GetKey(KeyCode.LeftAlt)) //Allow modifiers for non-UI interactions!
+Scripts\Game\UIManager.cs (1997, 62):                    if (!Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl) && !Input.GetKey(KeyCode.LeftAlt)) //Allow modifiers for non-UI interactions!
+Scripts\Game\UIManager.cs (1997, 100):                    if (!Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl) && !Input.GetKey(KeyCode.LeftAlt)) //Allow modifiers for non-UI interactions!
+Scripts\Game\UIManager.cs (2019, 82):			if ((!ModManager.ModUIOpen && entity != mGenericMachinePanel.targetEntity) || Input.GetButtonDown("Interact"))
+Scripts\Game\UIManager.cs (2051, 10):					if (Input.GetButtonUp("Interact"))//needs to be up, else the up triggers the panel re-appearing :-)
+Scripts\Game\UIManager.cs (2066, 10):					if (Input.GetButtonUp("Interact") && AllowInteracting)//don't pop up the sign until AFTER you have let go of the key!
+Scripts\Game\UIManager.cs (2099, 10):					if (Input.GetKeyDown(KeyCode.S)) entity.SetShadows(LightShadows.Hard);
+Scripts\Game\UIManager.cs (2100, 10):					if (Input.GetKey(KeyCode.I)) entity.SetIntensity(entity.mIntensity + Time.deltaTime);
+Scripts\Game\UIManager.cs (2169, 21):                if (Input.GetKeyDown(KeyCode.T))
+Scripts\Game\UIManager.cs (2215, 9):				if (Input.GetKey(KeyCode.Q))
+Scripts\Game\UIManager.cs (2228, 11)://				if (Input.GetButton("Interact"))
+Scripts\Game\UIManager.cs (2241, 21):                if (Input.GetButton("Extract") && Input.GetKey(KeyCode.LeftControl))//request the extractor drop it's load
+Scripts\Game\UIManager.cs (2241, 51):                if (Input.GetButton("Extract") && Input.GetKey(KeyCode.LeftControl))//request the extractor drop it's load
+Scripts\Game\UIManager.cs (2255, 11):			/*	if (Input.GetKeyUp(KeyCode.R))//request the extractor drop it's load
+Scripts\Game\UIManager.cs (2315, 12):					//if (Input.GetButtonDown("Lift Rested State") && UIManager.AllowInteracting) lLift.FlipExtendType();
+Scripts\Game\UIManager.cs (2316, 10):					if (Input.GetButtonDown("Extend Lift Range") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (2321, 11):						if (Input.GetKey(KeyCode.LeftShift))  lnNewLength = lLift.mnExtendRange + 10;
+Scripts\Game\UIManager.cs (2327, 15):					else if (Input.GetButton ("Extend Lift Range"))
+Scripts\Game\UIManager.cs (2331, 11):						if (Input.GetKey(KeyCode.LeftShift))  mnExtendMultiplier = 16;//WHOOSH
+Scripts\Game\UIManager.cs (2345, 10):					if (Input.GetButtonDown("Extract") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (2349, 11):						if (Input.GetKey(KeyCode.LeftShift))  lnNewLength = lLift.mnExtendRange - 10;
+Scripts\Game\UIManager.cs (2355, 15):					else if (Input.GetButton ("Extract"))//whut? Extract pressed but we're not allowed to interact?
+Scripts\Game\UIManager.cs (2359, 11):						if (Input.GetKey(KeyCode.LeftShift))  mnContractMultiplier = 16;//WHOOSH
+Scripts\Game\UIManager.cs (2558, 11):						if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (2566, 11):						if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (2697, 10):					if (Input.GetKey(KeyCode.Q))
+Scripts\Game\UIManager.cs (3200, 10):					if (Input.GetButton("Extract")) 
+Scripts\Game\UIManager.cs (3235, 8):			if (Input.GetKey(KeyCode.Q))
+Scripts\Game\UIManager.cs (3356, 9):				if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (3362, 9):				if (Input.GetButtonDown("Extract") && UIManager.AllowInteracting) 
+Scripts\Game\UIManager.cs (3422, 8):			if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (3455, 8):			if (Input.GetButton("Extract")) //Remove Resources (from PTG)
+Scripts\Game\UIManager.cs (3461, 8):			if (Input.GetKeyDown(KeyCode.Q))
+Scripts\Game\UIManager.cs (3689, 18):            if (!Input.GetButton("Interact") && !Input.GetButton("Store")) AddingPower = false;
+Scripts\Game\UIManager.cs (3689, 50):            if (!Input.GetButton("Interact") && !Input.GetButton("Store")) AddingPower = false;
+Scripts\Game\UIManager.cs (3691, 10):			//if (Input.GetButton("Interact") && AllowInteracting) //Add power (to battery)
+Scripts\Game\UIManager.cs (3701, 8):			if (Input.GetButton("Extract") && AllowInteracting) //Remove Resources (from battery)
+Scripts\Game\UIManager.cs (3767, 11)://				if (Input.GetKeyDown(KeyCode.R))
+Scripts\Game\UIManager.cs (3826, 10):					if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (3828, 29):                        if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\UIManager.cs (3845, 11):						if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (3885, 10):					if (Input.GetButtonDown("Store") && AllowInteracting)
+Scripts\Game\UIManager.cs (3953, 10):					if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Game\UIManager.cs (3991, 12):							if (Input.GetKey(KeyCode.LeftShift)) lbInvert = true;
+Scripts\Game\UIManager.cs (4100, 10):					if (Input.GetKeyDown(KeyCode.Q))
+Scripts\Game\UIManager.cs (4126, 11)://				if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (4198, 9):				if (Input.GetButtonUp("Interact") && Input.GetKey(KeyCode.LeftShift) && AllowInteracting)//Panels active, player presses E, open panels
+Scripts\Game\UIManager.cs (4198, 42):				if (Input.GetButtonUp("Interact") && Input.GetKey(KeyCode.LeftShift) && AllowInteracting)//Panels active, player presses E, open panels
+Scripts\Game\UIManager.cs (4205, 9):				if (Input.GetButtonDown("Extract") && AllowInteracting)
+Scripts\Game\UIManager.cs (4210, 9):				if (Input.GetButtonDown("Store") && AllowInteracting)
+Scripts\Game\UIManager.cs (4282, 29):                        if (Input.GetButtonDown ("Extract") && AllowInteracting)
+Scripts\Game\UIManager.cs (4310, 12):							if (Input.GetButtonDown ("Extract") && AllowInteracting)
+Scripts\Game\UIManager.cs (4321, 33):                            if (Input.GetKeyDown(KeyCode.F1)) RocketSim.Fuel_Efficiency += 0.1f;
+Scripts\Game\UIManager.cs (4322, 33):                            if (Input.GetKeyDown(KeyCode.F2)) RocketSim.Engine_Smoothness += 0.1f;
+Scripts\Game\UIManager.cs (4324, 33):                            if (Input.GetKeyDown(KeyCode.F3)) RocketManager.EnginePowerScalar += 0.1f;
+Scripts\Game\UIManager.cs (4342, 11):						if (Input.GetButtonDown ("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (4375, 9):				if (Input.GetButtonDown("Interact") && AllowInteracting) lGS.CycleLightMode();
+Scripts\Game\UIManager.cs (4428, 11):				//if (Input.GetButtonDown("Interact") && AllowInteracting) lGS.CycleLightMode();
+Scripts\Game\UIManager.cs (4525, 9):				if (Input.GetButton("Interact") && AllowInteracting) lPT.mrDisplayRangeTimer = 15.0f;
+Scripts\Game\UIManager.cs (4891, 21):                if (Input.GetKey(KeyCode.F1)) lMS.mType = MobType.TD_Wasp_Fast;
+Scripts\Game\UIManager.cs (4892, 21):                if (Input.GetKey(KeyCode.F2)) lMS.mType = MobType.TD_Wasp;
+Scripts\Game\UIManager.cs (4893, 21):                if (Input.GetKey(KeyCode.F3)) lMS.mType = MobType.TD_Wasp_Heavy;
+Scripts\Game\UIManager.cs (4894, 21):                if (Input.GetKey(KeyCode.F4)) lMS.mType = MobType.TD_Wasp_Boss;
+Scripts\Game\UIManager.cs (4895, 21):                if (Input.GetKey(KeyCode.F5)) lMS.mType = MobType.WormBoss;
+Scripts\Game\UIManager.cs (4896, 21):                if (Input.GetKey(KeyCode.F6)) lMS.mType = MobType.OozeBlob;
+Scripts\Game\UIManager.cs (4897, 21):                if (Input.GetKey(KeyCode.F7)) lMS.mType = MobType.CamoBot;
+Scripts\Game\UIManager.cs (4901, 9):				if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (4904, 25):                    if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\UIManager.cs (5003, 10):					if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (5031, 9):				if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (5051, 9):				if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (5055, 9):				if (Input.GetButtonDown("Extract") && AllowInteracting)
+Scripts\Game\UIManager.cs (5371, 9):				if (Input.GetButtonUp("Interact"))//Panels active, player presses E, close panels
+Scripts\Game\UIManager.cs (5452, 9):				if (Input.GetButtonUp("Interact") && AllowInteracting && HudShown)//Panels active, player presses E, open panels
+Scripts\Game\UIManager.cs (5490, 9):				if (Input.GetButtonUp("Self Crafting"))
+Scripts\Game\UIManager.cs (5528, 18):       /*    if (Input.GetKeyDown(KeyCode.RightControl))
+Scripts\Game\UIManager.cs (5541, 9):				if (Input.GetButtonUp("Interact"))
+Scripts\Game\UIManager.cs (5558, 9):				if (Input.GetButtonUp("Interact") && AllowInteracting && HudShown)
+Scripts\Game\UIManager.cs (5710, 8):			if (Input.GetButtonUp("Interact"))//Panels active, player presses E, close panels
+Scripts\Game\UIManager.cs (5729, 8):			if (Input.GetButtonUp("Interact") && AllowInteracting && HudShown)//Panels active, player presses E, open panels
+Scripts\Game\UIManager.cs (5786, 11):						if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (5792, 11):						if (Input.GetButtonDown("Store") && AllowInteracting)
+Scripts\Game\UIManager.cs (5806, 10):					if (Input.GetButtonDown("Interact") && AllowInteracting)
+Scripts\Game\UIManager.cs (5810, 10):					if (Input.GetButtonDown("Extract") && AllowInteracting)
+Scripts\Game\UIManager.cs (5814, 10):					if (Input.GetButtonDown("Store") && AllowInteracting)
+Scripts\Game\UIManager.cs (5860, 7):		if (Input.GetButtonDown("Inventory") && !GamePaused)//No longer keycode.i but here's a handy comment for searching
+Scripts\Game\UIManager.cs (5999, 10):					if (Input.GetButtonUp("Interact") && AllowInteracting && HudShown)//don't pop up the sign until AFTER you have let go of the key!
+Scripts\Game\UIManager.cs (6068, 7):		if (Input.GetKeyUp(KeyCode.Return) && AllowInteracting && HudShown && !mbEditingTextField) // checking mbEditingTextField doesn't work, as it is lowered before we get here :(
+Scripts\Game\UIManager.cs (6080, 7):		if (Input.GetKeyUp(KeyCode.F9) && !CreativeManager.instance.mbEnabled)
+Scripts\Network\Panels\NetworkConnectionPanelScript.cs (20, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\Network\Panels\ServerManagementPanelScript.cs (112, 7):		if (Input.GetKeyDown(KeyCode.Escape))
+Scripts\OldMobs\CamoBot\CamoBot.cs (171, 7):		if (Input.GetKey(KeyCode.LeftControl))
+Scripts\Mobs\Minecarts\Minecart_Unity.cs (167, 15):        //if (Input.GetKey(KeyCode.RightShift)) mAudio.Stop();
+Scripts\Mobs\Minecarts\Minecart_Unity.cs (168, 15):        //if (Input.GetKey(KeyCode.RightShift)) return;
+Scripts\Mobs\Minecarts\Minecart_Unity.cs (206, 15):        //if (Input.GetKey(KeyCode.LeftControl)) return;
+Scripts\Mobs\Minecarts\Minecart_Unity.cs (636, 15):        //if (Input.GetKey(KeyCode.LeftShift)) lbEnableRenderer = false;
+Scripts\OldMobs\MantisBot\MantisBot.cs (100, 7):		if (Input.GetKey(KeyCode.LeftControl))
+Scripts\OldMobs\ARTHERPet.cs (127, 7):		if (Input.GetKeyDown(KeyCode.RightShift))
+Scripts\OldMobs\ARTHERPet.cs (165, 7):		if (Input.GetButton("SteadyCam")) lTargetPos.y += 32.0f;//code.b
+Scripts\Game\WeaponSelectScript.cs (81, 9):				if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\WeaponSelectScript.cs (81, 51):				if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\WeaponSelectScript.cs (114, 9):				if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\WeaponSelectScript.cs (114, 51):				if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftShift))
+Scripts\Game\WeaponSelectScript.cs (153, 8):			if (Input.GetButtonDown("Build Gun") && UIManager.AllowInteracting) meNextWeapon = eWeaponType.eLaserDrill;
+Scripts\Game\WeaponSelectScript.cs (157, 9):				if (Input.GetButtonDown("Ray Gun") && UIManager.AllowInteracting) meNextWeapon = eWeaponType.eRayGun;
+Scripts\Game\WeaponSelectScript.cs (158, 9):				if (Input.GetButtonDown("Scanning Tool") && UIManager.AllowInteracting) meNextWeapon = eWeaponType.eHandheldScanner;
+Scripts\Game\WeaponSelectScript.cs (163, 9):				if (Input.GetButtonDown("Weather Staff") && UIManager.AllowInteracting) meNextWeapon = eWeaponType.eWeatherStaff;
+Scripts\Game\WeaponSelectScript.cs (166, 8):			if (Input.GetButtonDown("Paint Gun") && UIManager.AllowInteracting) meNextWeapon = eWeaponType.ePaintGun;//I guess allow people. :-)
+Scripts\OldMobs\MinionBrainScript.cs (337, 13):        if (Input.GetKey(KeyCode.Q)) return;
+Scripts\OldMobs\OldMobManagerScript.cs (78, 10)://			if (Input.GetKeyDown(KeyCode.B) && Input.GetKey(KeyCode.LeftShift))
+Scripts\OldMobs\OldMobManagerScript.cs (78, 41)://			if (Input.GetKeyDown(KeyCode.B) && Input.GetKey(KeyCode.LeftShift))
+Scripts\OldMobs\OldMobManagerScript.cs (87, 10)://			if (Input.GetKeyDown(KeyCode.N))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1230, 7):		if (Input.GetKeyDown(KeyCode.RightShift))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1249, 7):		if (Input.GetKeyDown(KeyCode.Tab) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftAlt))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1249, 41):		if (Input.GetKeyDown(KeyCode.Tab) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftAlt))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1249, 77):		if (Input.GetKeyDown(KeyCode.Tab) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftAlt))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1298, 7):		if (Input.GetKey(KeyCode.LeftShift))
+Scripts\OldMobs\ARTHERPetSurvival.cs (1307, 7):		if (Input.GetButton("SteadyCam")) lTargetPos.y += 32.0f;//code.b
+Scripts\Resources\MineCartNetwork.cs (199, 8):			if (Input.GetKeyDown(KeyCode.F2)) 	mTest = mStationStart;
+Scripts\Resources\MineCartNetwork.cs (223, 8):			if (Input.GetKeyDown(KeyCode.F1)) 	mbTrackView = true;
+Scripts\Network\NetworkPlayerScript.cs (447, 8):	/*	if(Input.GetKey(KeyCode.RightShift))
+Scripts\Network\NetworkPlayerSkin.cs (147, 7):		if (Input.GetKey(KeyCode.RightShift))
+Scripts\OldMobs\SpiderBot\SpiderBody.cs (128, 13):        if (Input.GetKeyDown(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.RightControl))
+Scripts\OldMobs\SpiderBot\SpiderBody.cs (128, 54):        if (Input.GetKeyDown(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.RightControl))
+Scripts\OldMobs\SpiderBot\SpiderBody.cs (587, 7):		if (Input.GetKey(KeyCode.N)) 
+Scripts\Resources\OldCollectableManager.cs (115, 7):		if (Input.GetKey(KeyCode.N) && Input.GetKey(KeyCode.LeftShift))
+Scripts\Resources\OldCollectableManager.cs (115, 34):		if (Input.GetKey(KeyCode.N) && Input.GetKey(KeyCode.LeftShift))
+Scripts\Resources\OldCollectableManager.cs (137, 9):		/*if (Input.GetKey(KeyCode.N))
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (17, 17):            if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.LeftCommand) || mbDo25x)
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (17, 54):            if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.LeftCommand) || mbDo25x)
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (19, 22):            else if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (21, 22):            else if (Input.GetKey(KeyCode.LeftAlt))
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (28, 19):            //if (Input.GetKey(KeyCode.LeftControl)) lnNumExtra = 24;
+Scripts\Survival\Panels\CraftingPanel\CraftPanel_DoCraft.cs (29, 19):            //if (Input.GetKey(KeyCode.LeftCommand)) lnNumExtra = 24;
+Scripts\Survival\MK1RobotArmEntity.cs (237, 9):		/*if (Input.GetKeyDown(KeyCode.M)) mbWristDown = !mbWristDown;
+Scripts\Survival\MK1RobotArmEntity.cs (238, 7):		if (Input.GetKeyDown(KeyCode.N)) mbArmExtend = !mbArmExtend;
+Scripts\Survival\MK1RobotArmEntity.cs (239, 7):		if (Input.GetKeyDown(KeyCode.B)) mrRotateTime = 2.0f;*/
+Scripts\Survival\MK1RobotArmEntity.cs (262, 8):			if (Input.GetKeyDown(KeyCode.V))
+Scripts\Survival\Minecarts\MinecartFactory.cs (55, 9):		//if (Input.GetKey(KeyCode.T)) mrSpawnDelay = 1.0f;
+Scripts\Survival\Panels\GenericMachinePanel\StubWindows\StorageHopperWindowNew.cs (239, 21):                if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+Scripts\Survival\Panels\GenericMachinePanel\StubWindows\StorageHopperWindowNew.cs (239, 56):                if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+Scripts\Survival\Panels\GenericMachinePanel\StubWindows\StorageHopperWindowNew.cs (241, 21):                if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl))
+Scripts\Survival\Panels\GenericMachinePanel\StubWindows\StorageHopperWindowNew.cs (241, 58):                if (Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.RightControl))
+Scripts\Survival\OrbitalStrikeController.cs (278, 17):            if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Survival\OrbitalStrikeController.cs (342, 17):            if (Input.GetButtonDown("Interact") && UIManager.AllowInteracting)
+Scripts\Survival\Panels\CraftingPanel\CraftingPanelLabel.cs (1122, 9):		//if (Input.GetKey(KeyCode.LeftControl)) lnAmount *= 25;//Aww, sad face, this isn't updated live
+Scripts\Survival\Panels\CraftingPanel\CraftingPanelLabel.cs (1557, 9)://		if (Input.GetAxis("Mouse ScrollWheel") < 0)
+Scripts\Survival\Panels\CraftingPanel\CraftingPanelLabel.cs (1564, 9)://		if (Input.GetAxis("Mouse ScrollWheel") > 0)
+Scripts\Survival\Panels\DeathPanel\DeathPanelScript.cs (40, 8):			if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Return))
+Scripts\Survival\Panels\DeathPanel\DeathPanelScript.cs (40, 44):			if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Return))
+Scripts\Survival\OreScannerControl.cs (133, 7):		if (Input.GetButton("Fire1"))
+Scripts\Survival\OreScannerControl.cs (149, 7):		if (Input.GetButton("Fire2"))
+Scripts\Survival\OreScannerControl.cs (194, 8):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (194, 50):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (194, 95):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (194, 131):		if ((Input.GetAxis("Mouse ScrollWheel") < 0 || Input.GetButtonDown("Next Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (215, 8):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (215, 50):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (215, 99):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\OreScannerControl.cs (215, 135):		if ((Input.GetAxis("Mouse ScrollWheel") > 0 || Input.GetButtonDown("Previous Hotbar Item")) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SuitPanel\SuitPanelIconScript.cs (117, 30):            if (isPressed && Input.GetKey(KeyCode.LeftControl) && !DragAndDropManager.mbDragging && this.DoCtrlClick(isPressed))
+Scripts\Survival\Panels\SuitPanel\SuitPanelScript.cs (219, 72):                if (this.dragSourceX >= 0 && this.dragSourceY >= 0 && (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)))
+Scripts\Survival\Panels\SuitPanel\SuitPanelScript.cs (219, 107):                if (this.dragSourceX >= 0 && this.dragSourceY >= 0 && (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)))
+Scripts\Survival\SurvivalParticleManager.cs (423, 7):		if (Input.GetKeyDown(KeyCode.LeftControl))
+Scripts\Survival\Holobase.cs (480, 8):			if (Input.GetButtonDown("Holobase") && (UIManager.AllowInteracting || (mbBaseActive && HoloCamera.orthographic)))
+Scripts\Survival\Holobase.cs (547, 9):				if (Input.GetKeyDown(KeyCode.LeftControl))
+Scripts\Survival\Holobase.cs (610, 9):				if (Input.GetKeyDown(KeyCode.LeftControl))
+Scripts\Survival\Holobase.cs (617, 8):			if (Input.GetKeyDown(KeyCode.LeftShift))
+Scripts\Survival\Holobase.cs (640, 17):            if (Input.GetKey(KeyCode.F1)) mCurrentFilter = eFilterType.All;
+Scripts\Survival\Holobase.cs (641, 17):            if (Input.GetKey(KeyCode.F2)) mCurrentFilter = eFilterType.Power;
+Scripts\Survival\Holobase.cs (642, 17):            if (Input.GetKey(KeyCode.F3)) mCurrentFilter = eFilterType.Logistics;
+Scripts\Survival\Holobase.cs (747, 8):			if (Input.GetKeyDown(KeyCode.U))
+Scripts\Survival\Holobase.cs (800, 16)://			Debug.Log(Input.GetAxis("Mouse ScrollWheel"));
+Scripts\Survival\Holobase.cs (808, 21):				float lrWheel = Input.GetAxis("Mouse ScrollWheel") * 45.0f;
+Scripts\Survival\Holobase.cs (816, 40):				float h =  movement.Horizontal; // Input.GetAxis("Horizontal");
+Scripts\Survival\Holobase.cs (817, 37):				float v = movement.Vertical; // Input.GetAxis("Vertical");
+Scripts\Survival\Panels\GenericMachinePanel\GenericMachinePanelScript.cs (91, 65):        //Scroll_Bar.GetComponent<UIScrollBar>().scrollValue -= Input.GetAxis("Mouse ScrollWheel");
+Scripts\Survival\Panels\GenericMachinePanel\GenericMachinePanelScript.cs (96, 9):	/*	if (Input.GetButtonDown("Inventory"))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1083, 9)://		if (Input.GetKeyDown(KeyCode.U)) 
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1097, 8):			if (Input.GetKeyDown(KeyCode.Alpha1)) SelectPlayerSlot(0);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1098, 8):			if (Input.GetKeyDown(KeyCode.Alpha2)) SelectPlayerSlot(1);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1099, 8):			if (Input.GetKeyDown(KeyCode.Alpha3)) SelectPlayerSlot(2);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1100, 8):			if (Input.GetKeyDown(KeyCode.Alpha4)) SelectPlayerSlot(3);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1101, 8):			if (Input.GetKeyDown(KeyCode.Alpha5)) SelectPlayerSlot(4);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1102, 8):			if (Input.GetKeyDown(KeyCode.Alpha6)) SelectPlayerSlot(5);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1103, 8):			if (Input.GetKeyDown(KeyCode.Alpha7)) SelectPlayerSlot(6);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1104, 8):			if (Input.GetKeyDown(KeyCode.Alpha8)) SelectPlayerSlot(7);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1105, 8):			if (Input.GetKeyDown(KeyCode.Alpha9)) SelectPlayerSlot(8);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1106, 8):			if (Input.GetKeyDown(KeyCode.Alpha0)) SelectPlayerSlot(9);
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1110, 10):				if ((Input.GetButtonDown("Next Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1110, 53):				if ((Input.GetButtonDown("Next Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1110, 97):				if ((Input.GetButtonDown("Next Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1110, 133):				if ((Input.GetButtonDown("Next Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") < 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1130, 10):				if ((Input.GetButtonDown("Previous Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1130, 57):				if ((Input.GetButtonDown("Previous Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1130, 101):				if ((Input.GetButtonDown("Previous Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1130, 137):				if ((Input.GetButtonDown("Previous Hotbar Item") || Input.GetAxis("Mouse ScrollWheel") > 0) && !Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1558, 7):		if (Input.GetKeyDown(KeyCode.F1)) lnNextTab = 0;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1559, 7):		if (Input.GetKeyDown(KeyCode.F2)) lnNextTab = 1;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1560, 7):		if (Input.GetKeyDown(KeyCode.F3)) lnNextTab = 2;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1561, 7):		if (Input.GetKeyDown(KeyCode.F4)) lnNextTab = 3;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1562, 7):		if (Input.GetKeyDown(KeyCode.F5)) lnNextTab = 4;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1563, 7):		if (Input.GetKeyDown(KeyCode.F6)) lnNextTab = 5;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1564, 7):		if (Input.GetKeyDown(KeyCode.F7)) lnNextTab = 6;
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1567, 7):		if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1567, 49):		if (Input.GetAxis("Mouse ScrollWheel") < 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1575, 7):		if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\Panels\SurvivalHotBarManager.cs (1575, 49):		if (Input.GetAxis("Mouse ScrollWheel") > 0 && Input.GetKey(KeyCode.LeftControl))
+Scripts\Survival\SurvivalPlayerScript.cs (624, 9):		//if (Input.GetKey(KeyCode.V) || (OreScannerControl.mbVeinScanning && WeaponSelectScript.meActiveWeapon == eWeaponType.eHandheldScanner))
+Scripts\Utility\CamDetail.cs (300, 8):			if (Input.GetButton("Zoom"))
+Scripts\Utility\CamDetail.cs (432, 12):    			if (Input.GetButtonDown("SteadyCam") && UIManager.AllowInteracting && !UIManager.SteadyCamActive)
+Scripts\Utility\CamDetail.cs (454, 10)://			if (Input.GetButtonDown("SteadyCam"))
+Scripts\Survival\SurvivalPowerPanel.cs (303, 7):		if (Input.GetKey(KeyCode.LeftShift) && !UIManager.mbEditingTextField)
+Scripts\Survival\SurvivalPowerPanel.cs (336, 7):		if (Input.GetButtonDown("Headlight") && UIManager.AllowInteracting && !UIManager.mbEditingTextField)
+Scripts\Survival\SurvivalPowerPanel.cs (375, 7):		if (Input.GetKey(KeyCode.RightControl)) mrSuitPower+=10;	
+Scripts\Survival\SurvivalReverb.cs (66, 7):		if (Input.GetKey(KeyCode.RightControl)) lrTargetReverb = 0;
+Scripts\Survival\SurvivalReverb.cs (106, 7):		if (Input.GetKey(KeyCode.RightControl)) lNewPreset = AudioReverbPreset.Off;
+Scripts\Survival\SurvivalDigScript.cs (275, 8):			if (Input.GetKey(KeyCode.LeftShift) == false)
+Scripts\Survival\SurvivalDigScript.cs (334, 7):		if (Input.GetButton("Fast Build")) 
+Scripts\Survival\SurvivalFogManager.cs (119, 7):		if (Input.GetKey(KeyCode.RightControl)) 
+Scripts\Survival\RayGun.cs (89, 8):			if (Input.GetButton("Fire1") && SurvivalPowerPanel.mrSuitPower > mrShotPower)
+Scripts\Survival\RayGun.cs (116, 8):			if (Input.GetButton("Fire2"))
+Scripts\Survival\SurvivalGrapplingHook.cs (60, 17):            if (Input.GetButtonDown("Grappling Hook") && UIManager.AllowMovement)
+Scripts\Survival\SurvivalGrapplingHook.cs (214, 14):				else if (Input.GetButtonDown("Jump"))
+Scripts\Survival\SurvivalGrapplingHook.cs (226, 8):			if (Input.GetButtonDown("Grappling Hook") && UIManager.AllowInteracting)
+Scripts\Utility\OculusIntegration.cs (69, 17):            if (Input.GetKeyDown(KeyCode.LeftControl))
+Scripts\Utility\OculusIntegration.cs (100, 17):            if (Input.GetKeyDown(KeyCode.F2))
+Scripts\Utility\OculusIntegration.cs (106, 17):            if (Input.GetKeyDown(KeyCode.F1))
+Scripts\Utility\OculusIntegration.cs (111, 17):            if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\Utility\OculusIntegration.cs (116, 17):            if (Input.GetKey(KeyCode.Home))
+Scripts\Utility\OculusIntegration.cs (121, 17):            if (Input.GetKey(KeyCode.PageUp))
+Scripts\Utility\IdleBob.cs (136, 9):		//if (Input.GetButton("Fire1"))
+Scripts\Utility\IdleBob.cs (154, 13):        if (Input.GetButton("Fire2"))
+Scripts\Utility\OculusMainMenu.cs (45, 17):            if (Input.GetKeyDown(KeyCode.LeftControl))
+Scripts\Utility\OculusMainMenu.cs (66, 17):            if (Input.GetKeyDown(KeyCode.F2))
+Scripts\Utility\OculusMainMenu.cs (72, 17):            if (Input.GetKeyDown(KeyCode.F1))
+Scripts\Utility\OculusMainMenu.cs (78, 17):            if (Input.GetKeyDown(KeyCode.Insert))
+Scripts\Utility\OculusMainMenu.cs (82, 17):            if (Input.GetKey(KeyCode.Home))
+Scripts\Utility\OculusMainMenu.cs (86, 17):            if (Input.GetKey(KeyCode.PageUp))
+Scripts\Survival\SurvivalHazardPanel.cs (364, 7):		if (Input.GetKey(KeyCode.E)) 
+Scripts\Utility\InputManager.cs (23, 25):		float lrKeysHorzRaw = Input.GetAxisRaw("HorizontalKeys");
+Scripts\Utility\InputManager.cs (24, 25):		float lrKeysVertRaw = Input.GetAxisRaw("VerticalKeys");
+Scripts\Utility\InputManager.cs (25, 24):		float lrPadHorzRaw = Input.GetAxisRaw("HorizontalPad");
+Scripts\Utility\InputManager.cs (26, 24):		float lrPadVertRaw = Input.GetAxisRaw("VerticalPad");
+Scripts\Utility\InputManager.cs (79, 26):		float lrMouseHorzRaw = Input.GetAxisRaw("Mouse X"); // 'Horizontal'
+Scripts\Utility\InputManager.cs (80, 26):		float lrMouseVertRaw = Input.GetAxis("Mouse Y"); // 'Vertical' - No idea why this is GetAxis and not GetAxisRaw.
+Scripts\Utility\InputManager.cs (81, 24):		float lrPadHorzRaw = Input.GetAxisRaw("Xbox 360 Pad Right Stick X"); // 'Horizontal'
+Scripts\Utility\InputManager.cs (82, 24):		float lrPadVertRaw = Input.GetAxisRaw("Xbox 360 Pad Right Stick Y"); // 'Vertical'
+Scripts\Utility\LaserDrillAnim.cs (49, 7):		if (Input.GetButton("Pick"))
+Scripts\Utility\LaserDrillAnim.cs (57, 7):		if (Input.GetButton("Fire2"))
+Scripts\Utility\LaserDrillAnim.cs (65, 7):		if (Input.GetButton("Fire1"))
+Scripts\Utility\LaserDrillAnim.cs (116, 7):		if (Input.GetButton("Fire1") == false && Input.GetButton("Fire2") == false && Input.GetButton("Pick") == false )
+Scripts\Utility\LaserDrillAnim.cs (116, 44):		if (Input.GetButton("Fire1") == false && Input.GetButton("Fire2") == false && Input.GetButton("Pick") == false )
+Scripts\Utility\LaserDrillAnim.cs (116, 81):		if (Input.GetButton("Fire1") == false && Input.GetButton("Fire2") == false && Input.GetButton("Pick") == false )
+Scripts\Survival\T1_LiftEntity.cs (1261, 14):		//					if (Input.GetKey(KeyCode.PageUp)) mrCurrentExtend += Time.deltaTime * 4.0f;
+Scripts\Survival\T1_LiftEntity.cs (1262, 16):		//					//if (Input.GetButton("Jump")) mrCurrentExtend += Time.deltaTime * 4.0f;
+Scripts\Survival\T1_LiftEntity.cs (1265, 16):		//					//if (Input.GetButton("Extract")) mrCurrentExtend -= Time.deltaTime * 4.0f;
+Scripts\Survival\T1_LiftEntity.cs (1266, 14):		//					if (Input.GetKey(KeyCode.PageDown)) mrCurrentExtend -= Time.deltaTime * 4.0f;
+Scripts\Survival\T1_LiftEntity.cs (1470, 7):		if (Input.GetKey(KeyCode.Home))
+Scripts\Survival\T1_LiftEntity.cs (1506, 7):		if (Input.GetKey(KeyCode.End))
+Scripts\Survival\Rockets\RocketEngine.cs (51, 7):		if (Input.GetKey(KeyCode.LeftShift))
+Scripts\Survival\Rockets\RocketEngine.cs (59, 9):	//	if (Input.GetKey(KeyCode.LeftShift)) EnginePower = mRigidBody.mass * 10.0f;
+Scripts\Survival\Rockets\RocketEngine.cs (60, 9):		//if (Input.GetKey(KeyCode.LeftControl)) EnginePower += 10.0f;
+Scripts\Utility\SteamWorkShop.cs (24, 8):			if (Input.GetKey(KeyCode.S) && Input.GetKeyDown(KeyCode.U))
+Scripts\Utility\SteamWorkShop.cs (24, 35):			if (Input.GetKey(KeyCode.S) && Input.GetKeyDown(KeyCode.U))
+Scripts\Weapons\MissileEffectManager.cs (31, 7):		if (Input.GetKey(KeyCode.U))
+Scripts\Weapons\WeaponUIManager.cs (58, 7):		if (Input.GetKey(KeyCode.Space))
+Scripts\Weapons\WeaponUIManager.cs (65, 7):		if (Input.GetKey(KeyCode.KeypadEnter))
+Scripts\World\BaseManager.cs (151, 13):        if (Input.GetKeyDown(KeyCode.RightControl))
+SteamVR\Scripts\SteamVR_Menu.cs (286, 7):		if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Joystick1Button7))
+SteamVR\Scripts\SteamVR_Menu.cs (286, 43):		if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Joystick1Button7))
+SteamVR\Scripts\SteamVR_Menu.cs (297, 12):		else if (Input.GetKeyDown(KeyCode.Home))
+SteamVR\Scripts\SteamVR_Menu.cs (301, 12):		else if (Input.GetKey(KeyCode.PageUp))
+SteamVR\Scripts\SteamVR_Menu.cs (305, 12):		else if (Input.GetKey(KeyCode.PageDown))
+SteamVR\Scripts\SteamVR_Stats.cs (38, 8):			if (Input.GetKeyDown(KeyCode.I))
+Scripts\World\WorldScript.cs (471, 12):        if(Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (477, 21):                if (Input.GetKeyDown(KeyCode.F1))
+Scripts\World\WorldScript.cs (482, 21):                if (Input.GetKeyDown(KeyCode.F2))
+Scripts\World\WorldScript.cs (487, 21):                if (Input.GetKeyDown(KeyCode.F3))
+Scripts\World\WorldScript.cs (505, 32):                            if(Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (505, 67):                            if(Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (574, 17):            if (Input.GetKeyDown(KeyCode.F8) && Input.GetKey(KeyCode.LeftControl))
+Scripts\World\WorldScript.cs (574, 49):            if (Input.GetKeyDown(KeyCode.F8) && Input.GetKey(KeyCode.LeftControl))
+Scripts\World\WorldScript.cs (661, 36):                if (!mbIsServer && Input.GetKeyDown(KeyCode.U))
+Scripts\World\WorldScript.cs (666, 21):                if (Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.S))
+Scripts\World\WorldScript.cs (666, 52):                if (Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.S))
+Scripts\World\WorldScript.cs (674, 21):                if (Input.GetKey(KeyCode.T) || Input.GetKeyDown(KeyCode.Space))//Test?! keycode.t
+Scripts\World\WorldScript.cs (674, 48):                if (Input.GetKey(KeyCode.T) || Input.GetKeyDown(KeyCode.Space))//Test?! keycode.t
+Scripts\World\WorldScript.cs (721, 21):                if (Input.GetKeyDown(KeyCode.F1 )) SetWorldDirFromIndex(0);
+Scripts\World\WorldScript.cs (722, 21):                if (Input.GetKeyDown(KeyCode.F2 )) SetWorldDirFromIndex(1);
+Scripts\World\WorldScript.cs (723, 21):                if (Input.GetKeyDown(KeyCode.F3 )) SetWorldDirFromIndex(2);
+Scripts\World\WorldScript.cs (724, 21):                if (Input.GetKeyDown(KeyCode.F4 )) SetWorldDirFromIndex(3);
+Scripts\World\WorldScript.cs (725, 21):                if (Input.GetKeyDown(KeyCode.F5 )) SetWorldDirFromIndex(4);
+Scripts\World\WorldScript.cs (726, 21):                if (Input.GetKeyDown(KeyCode.F6 )) SetWorldDirFromIndex(5);
+Scripts\World\WorldScript.cs (727, 21):                if (Input.GetKeyDown(KeyCode.F7 )) SetWorldDirFromIndex(6);
+Scripts\World\WorldScript.cs (728, 21):                if (Input.GetKeyDown(KeyCode.F8 )) SetWorldDirFromIndex(7);
+Scripts\World\WorldScript.cs (729, 21):                if (Input.GetKeyDown(KeyCode.F9 )) SetWorldDirFromIndex(8);
+Scripts\World\WorldScript.cs (730, 21):                if (Input.GetKeyDown(KeyCode.F10)) SetWorldDirFromIndex(9);
+Scripts\World\WorldScript.cs (1068, 10)://			if (Input.GetButton("Delete") && !mbDeletedFiles)
+Scripts\World\WorldScript.cs (1098, 27)://					if (!mbIsServer && Input.GetKeyDown(KeyCode.U))
+Scripts\World\WorldScript.cs (1103, 12)://					if (Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.S))
+Scripts\World\WorldScript.cs (1103, 43)://					if (Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.S))
+Scripts\World\WorldScript.cs (1111, 12)://					if (Input.GetKey(KeyCode.T) || Input.GetKeyDown(KeyCode.Space))//Test?! keycode.t
+Scripts\World\WorldScript.cs (1111, 39)://					if (Input.GetKey(KeyCode.T) || Input.GetKeyDown(KeyCode.Space))//Test?! keycode.t
+Scripts\World\WorldScript.cs (1134, 12)://					if (Input.GetKeyDown(KeyCode.F1 )) SetWorldDirFromIndex(0);
+Scripts\World\WorldScript.cs (1135, 12)://					if (Input.GetKeyDown(KeyCode.F2 )) SetWorldDirFromIndex(1);
+Scripts\World\WorldScript.cs (1136, 12)://					if (Input.GetKeyDown(KeyCode.F3 )) SetWorldDirFromIndex(2);
+Scripts\World\WorldScript.cs (1137, 12)://					if (Input.GetKeyDown(KeyCode.F4 )) SetWorldDirFromIndex(3);
+Scripts\World\WorldScript.cs (1138, 12)://					if (Input.GetKeyDown(KeyCode.F5 )) SetWorldDirFromIndex(4);
+Scripts\World\WorldScript.cs (1139, 12)://					if (Input.GetKeyDown(KeyCode.F6 )) SetWorldDirFromIndex(5);
+Scripts\World\WorldScript.cs (1140, 12)://					if (Input.GetKeyDown(KeyCode.F7 )) SetWorldDirFromIndex(6);
+Scripts\World\WorldScript.cs (1141, 12)://					if (Input.GetKeyDown(KeyCode.F8 )) SetWorldDirFromIndex(7);
+Scripts\World\WorldScript.cs (1142, 12)://					if (Input.GetKeyDown(KeyCode.F9 )) SetWorldDirFromIndex(8);
+Scripts\World\WorldScript.cs (1143, 12)://					if (Input.GetKeyDown(KeyCode.F10)) SetWorldDirFromIndex(9);
+Scripts\World\WorldScript.cs (1204, 9)://			if(Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (1210, 12)://					if (Input.GetKeyDown(KeyCode.F1))
+Scripts\World\WorldScript.cs (1215, 12)://					if (Input.GetKeyDown(KeyCode.F2))
+Scripts\World\WorldScript.cs (1220, 12)://					if (Input.GetKeyDown(KeyCode.F3))
+Scripts\World\WorldScript.cs (1238, 14)://								if(Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (1238, 49)://								if(Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.RightShift))
+Scripts\World\WorldScript.cs (1282, 11)://				if (Input.GetKeyDown(KeyCode.F8) && Input.GetKey(KeyCode.LeftControl))
+Scripts\World\WorldScript.cs (1282, 43)://				if (Input.GetKeyDown(KeyCode.F8) && Input.GetKey(KeyCode.LeftControl))
+SteamVR\Scripts\SteamVR_Fade.cs (48, 7):		if (Input.GetKeyDown(KeyCode.Space))
+Scripts\MainMenu\PersistentSettings.cs (431, 7):		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.T)) 
+Scripts\MainMenu\PersistentSettings.cs (431, 44):		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.T)) 
+UniStorm\Scripts\UniStormWeatherSystem_C.cs (408, 6):		if(Input.GetKeyDown(KeyCode.F12))
+Scripts\MainMenu\WorldSelectPanelScript.cs (1048, 7):		if (Input.GetKeyDown(KeyCode.Return))

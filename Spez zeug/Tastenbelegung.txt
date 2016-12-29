@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Keinen schimmer ob das hier rein muss beim Handbuch, wenn sich das Handbuch abschiesst, weiss ich das es nicht soll.-->
+<Chapter> 
+	<Handle>laboratory research</Handle> <!-- Ka was das genau ist-->
+	<Title>Laboratory Research</Title> <!-- Titel der in der Liste angezeigt wird, oben in der Mitte steht -->
+	<Icon>Laboratory Component</Icon> <!-- Icon as in der Liste und auf der 1.Seite-->
+		<Pages><!--Liste der Seiten-->
+			<Page> <!-- Einzelne Seite-->
+				<Title><!-- Titel der Seite-->
+					<Text>Controls</Text>
+				</Title>
+				
+				<Paragraph><!-- Absatz -->
+					<Text><!-- Text im Absatz -->
+					</Text>
+				</Paragraph>
+			<Spacer /><!-- Leere zeile ? -->
+			<TwoColumnParagraph><!-- Zwei Spalten -->
+				<Left>
+				</Left>
+				
+				<Right>
+				</Right>
+				
+				
+			</TwoColumnParagraph>
+			<Header><!-- Zwischen Titel -->
+		
+			</Header>
+			
+			</Page>
+		</Pages>
+</Chapter>
