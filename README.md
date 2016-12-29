@@ -7,7 +7,7 @@ Mit zusätzlicher Hilfe ginge das ganze natürlich schneller. Wer interesse hat,
 Status:
 In Progress
 
-Originale sind von Contentbuild ID 1429301 (Patch 13/Stablebuild) (Mo 14.11.16)
+Originale sind von Contentbuild ID 1540042 (Patch 15/Stablebuild) (Mi 28.12.16)
 
 Installation: Die Dateien im German ordner in das Installationsverzeichniss von FCE rein kopieren wo auch die restlichen Dateien sind. Es hat bereits je ein Ordern mit "Data" und "Helpbook". Die Begriffe.txt muss nicht beachtet werden da diese lediglich ein paar begriffe beinhaltet um überall die selben Begriffe zu nutzen.
 
