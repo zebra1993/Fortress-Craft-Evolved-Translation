@@ -64,7 +64,7 @@
 		</Costs>
 		<Description>Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei nacht einwenig energie einfangen.
 		Braucht freie Sicht zum Himmel.</Description>
-		<Hint>Requires sky clearance!</Hint>
+		<Hint>Braucht freien Himmel!</Hint>
 		<ScanRequirements>
 			<Scan>GoldOre</Scan>
 		</ScanRequirements>
@@ -3242,8 +3242,8 @@
 			<Research>SpiderBot</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>A single one of these will be able to upgrade, repair and re-arm your SpiderBot. Build in a 15x15 square. Requires 225 in total.</Description>
-		<Hint>Setting up an assembly line for the SpiderBot Core Charger will make your life much easier!</Hint>
+		<Description>Eine Installation wird fähig sein den Spiderbot zu reparieren, verbessern und aufmunitionieren. Wird in einer 15x15 Plate aufgebaut (225 BLock Total).</Description>
+		<Hint>Die Automation der Spiderbotenergiekerne wird dein Leben massivst vereinfachen!</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -3276,8 +3276,8 @@
 		</ScanRequirements>
 
 
-		<Description>Rapid fire, low-slung energy-based weapon. Ideal for small to medium targets.</Description>
-		<Hint>Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.</Hint>
+		<Description>Schnellfeuernde Energiewaffe,jedoch wenig Durchschlagskraft. Ideal für kleine bis mittlere Ziele.</Description>
+		<Hint>Wenn fertiggestellt, in Lagertrichter legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -3317,8 +3317,8 @@
 			<Scan>TurretMK1</Scan>
 		</ScanRequirements>
 
-		<Description>Slow-firing, powerful area damage cannons. Capable of targeting high and low; specialises in medium targets.</Description>
-		<Hint>Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.</Hint>
+		<Description>Langsam feuernde abder mit grossen Umfeldschaden wirkende Kanone. Kann hohe wie auch niedrige Ziele erfassen, Speziealisiert auf mittlgrosse Ziele.</Description>
+		<Hint>Wenn fertiggestellt, in Lagertrichter legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</Hint>
 	</CraftData>
 
 	<!-- Boss killer -->
@@ -3351,8 +3351,8 @@
 			<Scan>TurretMK1</Scan>
 		</ScanRequirements>
 
-		<Description>Rapid fire, shoulder-mounted energy weapon. Ideal for taking down the very largest of attackers.</Description>
-		<Hint>Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.</Hint>
+		<Description>Schnellfeuernde, schultermontierte Energiewaffe. Ideal um auch die grössten Ziele aus dem Himmel zu hohlen.</Description>
+		<Hint>Wenn fertiggestellt, in Lagertrichter legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -3368,8 +3368,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>1</ResearchCost>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 	</CraftData>
 		
 	<CraftData>
@@ -3388,8 +3388,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3411,8 +3411,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3434,8 +3434,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3461,8 +3461,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3488,8 +3488,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3507,8 +3507,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität..</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3538,8 +3538,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.</Description>
-		<Hint>Connect multiple crates together to increase available inventory space.</Hint>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -3590,8 +3590,8 @@
 			<Research>alloys</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Use to create Steel Bars.</Description>
-		<Hint>Automation is king!</Hint>
+		<Description>Stellt Stahlbarren her.</Description>
+		<Hint>Automations ist Beste!</Hint>
 	</CraftData>
 
 	<CraftData>
