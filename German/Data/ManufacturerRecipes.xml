@@ -3591,7 +3591,7 @@
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
 		<Description>Stellt Stahlbarren her.</Description>
-		<Hint>Automations ist Beste!</Hint>
+		<Hint>Automation ist Beste!</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -3610,8 +3610,8 @@
 			<Research>alloys</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery.</Description>
-		<Hint>Can also be used for construction.</Hint>
+		<Description>Standard Zutat von fortgeschrittenen Maschinen.</Description>
+		<Hint>Kann auch zu Bauzwecken verwendet werden.</Hint>
 
 	</CraftData>
 
@@ -3636,8 +3636,8 @@
 			<Research>t4_start</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery. Uses 4 Advanced Machine Blocks and a single MK5 Power Booster.</Description>
-		<Hint>Can also be used for construction.</Hint>
+		<Description>Standard Zutat von fortgeschrittenen Maschinen. benötigt 4 vortgeschrittene Maschinenblöcke und einen einzelnen MK5 Energiekern.</Description>
+		<Hint>Kann auch zu Bauzwecken verwendet werden.</Hint>
 	</CraftData>
 
 	<!-- Mid-tier primary T4 block crafter-->
@@ -3662,8 +3662,8 @@
 			<Research>T4_Particles</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery.</Description>
-		<Hint>Can also be used for construction.</Hint>
+		<Description>Standard Zutat von fortgeschrittenen Maschinen.</Description>
+		<Hint>Kann auch zu Bauzwecken verwendet werden.</Hint>
 	</CraftData>
 
 	<!-- Mid-tier secondary T4 block crafter-->
@@ -3688,8 +3688,8 @@
 			<Research>T4_Particles</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery.</Description>
-		<Hint>Can also be used for construction.</Hint>
+		<Description>Standard Zutat von fortgeschrittenen Maschinen.</Description>
+		<Hint>Kann auch zu Bauzwecken verwendet werden.</Hint>
 	</CraftData>
 
 	<!-- End-tier T4 block crafter-->
@@ -3713,8 +3713,8 @@
 			<Research>t4_start</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Common component for advanced machinery.</Description>
-		<Hint>Can also be used for construction.</Hint>
+		<Description>Standard Zutat von fortgeschrittenen Maschinen.</Description>
+		<Hint>Kann auch zu Bauzwecken verwendet werden.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -3745,8 +3745,8 @@
 			<Research>biomass</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Process Biomass into useful products. Must be attached to a Refinery Reactor Vat to operate. See the handbook for more information.</Description>
-		<Hint>Must be connected to a Refinery Reactor Vat to operate.</Hint>
+		<Description>Verarbeitet Biomasse zu nutzvollen Produkten. Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren. Siehe Handbuch für weitere Informationen.</Description>
+		<Hint>Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>refinery vat block</Key>
@@ -3768,8 +3768,8 @@
 			<Research>biomass</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Refinery Reactor Vat component. Must be built in a 3x3x3 configuration (27 total). Requires an attached Refinery Controller.</Description>
-		<Hint>Place in a 3 by 3 by 3 configuration to form a valid Reactor Vat.</Hint>
+		<Description>Raffineriereaktorkesselkomponente. Wird in einem 3x3x3 Würfel aufgabaut (27 Block Total). Muss an eine Raffineriekontrolleinheit angebracht werden.</Description>
+		<Hint>Wird in einem 3x3x3 Würfel aufgabaut um einen Reaktorkessel zu formen.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>jet turbine housing</Key>
@@ -3796,8 +3796,8 @@
 			<Research>T3 Power</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Housing component for a Jet Turbine Generator. Burns HEC Fuel to drive a turbine generating lots of power. Build 3 high with a 4x3 base. Attach intake to the front.</Description>
-		<Hint>Build in a 4 by 3 horizontal shape, and build 3 high. Attach an intake to form the front of the machine.</Hint>
+		<Description>Gehäusebestandzeil für Turbinen. Verbrennt Hochenergietreibstoff um eine Turbine anzutreiben und um viel Energie zu produzieren. Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lifteinlass an Front montieren.</Description>
+		<Hint>Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lifteinlass an Front montieren.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>jet turbine intake</Key>
@@ -3820,8 +3820,8 @@
 			<Research>T3 Power</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Sucks in large amounts of air for the turbine. Place in front of the housing 3m high and 3m wide.</Description>
-		<Hint>The Turbine Generator intake is placed at the front of the housing in a 3 by 3 vertical shape.</Hint>
+		<Description>Saugt grosse Mengen Luft in die Turbine. Auf der Vorderseite der Turbine in einer 3m Hohen und 3m Breiten Fläche anbringen.</Description>
+		<Hint>Der Turbinenlufteinlass ist an der Front in einer 3x3 Platte vertikal anzubringen.</Hint>
 	</CraftData>	
 
 	
@@ -3838,8 +3838,8 @@
 			</CraftCost>
 		</Costs>
 	<!--	<RequiredModule>HydrojetCutter</RequiredModule>--><!--Removed as it was too complex-->
-		<Description>Fixes the damage to ARTHER allowing him to move reliably. Only one required and must be carried in your inventory.</Description>
-		<Hint>Allows ARTHER to move reliably again. You need to keep 1 in your inventory.</Hint>
+		<Description>Repariert den Schaden an Arther und erlaubt es ihr wieder verlässlich zu fliegen. Nur ein Kern erforderlich und muss im Inventar abgelegt sein.</Description>
+		<Hint>Erlaubt es Arther wieder verlässlich zu fliegen. Nur ein Kern erforderlich, muss im Inventar sein.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -3859,8 +3859,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Allows ARTHER to hold 8x more charge which he can transfer to you when you run low. Only one required and must be carried in your inventory.</Description>
-		<Hint>Allows ARTHER to collect more power</Hint>
+		<Description>Erlaubt Arther 8x mehr Energie zu lagern und diese dann an dich anzugeben wenn wenig Energie im Anzug ist. Nur einmal erforderlich, muss im Inventar sein.</Description>
+		<Hint>Erlaubt es Arther mehr Energie zu sammeln.</Hint>
 		
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
@@ -3888,8 +3888,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Improves the rate at which ARTHER regenerates power from sunlight. Only one required and must be carried in your inventory.</Description>
-		<Hint>Allows ARTHER to collect power faster</Hint>
+		<Description>Verbessert die Rate mit der Arther Energie aus Sonnenlicht generiert. Nur einmal erforderlich, muss im Inventar sein.</Description>
+		<Hint>Erlaubt es Arther schneller Energie zu sammeln.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>arther upgrade pack</Key>
@@ -3915,8 +3915,8 @@
 			<Research>T1 Power</Research>
 		</ResearchRequirements>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Gives the effect of the Solar Panel, Core and Battery. Use this to save inventory space.</Description>
-		<Hint>Use this to save room in your inventory.</Hint>
+		<Description>Gibt die Effekte der Solarpanele, Energiekern und Batterie. Spart Platz im Inventar.</Description>
+		<Hint>Platzsparender im Inventar als die einzelnen Gegenstände.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -3932,8 +3932,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Insert 'moustache ride' joke here. Only works if you have the Dapper Indie Supporter DLC.</Description>
-		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
+		<Description>Hier Schnautzträger Witz einfügen. Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Description>
+		<Hint>Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -3949,8 +3949,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Keep ARTHER looking Dapper AND dry! Only works if you have the Dapper Indie Supporter DLC.</Description>
-		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
+		<Description>Lässt Arther gepflegt und sauber erscheinen! Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Description>
+		<Hint>Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -3966,8 +3966,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Improves ARTHER vision! Only works if you have the Dapper Indie Supporter DLC.</Description>
-		<Hint>Only works if you have the Dapper Indie Supporter DLC.</Hint>
+		<Description>Verbessert Arthers Sicht! Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Description>	
+		<Hint>Funktioniert nur wenn Dapper Indie Supporter DLC in Besitz ist.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -3991,8 +3991,8 @@
 			</CraftCost>
 		</Costs>
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Fully Dapper! Use this to save room in your inventory.</Description>
-		<Hint>Use this to save room in your inventory.</Hint>
+		<Description>Volle Eleganz! Nutze dies um Platz im Inventar zu haben.</Description>
+		<Hint>Nutze dies um Platz im Inventar zu haben.</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -4015,8 +4015,8 @@
 			<Research>T1 Power</Research>
 		</ResearchRequirements>		
 		<!--<RequiredModule>HydrojetCutter</RequiredModule>-->
-		<Description>Fully Upgraded - Fully Dapper! Use this to save room in your inventory.</Description>
-		<Hint>Use this to save room in your inventory.</Hint>
+		<Description>Komplett verbessert, komplett Schnicke! Nutze dies um Platz im Inventar zu haben.</Description>
+		<Hint>Nutze dies um Platz im Inventar zu haben.</Hint>
 	</CraftData>
 		
 	<CraftData>
@@ -4040,8 +4040,8 @@
 			</CraftCost>
 		</Costs>
 	<!--	<RequiredModule>HydrojetCutter</RequiredModule>--><!--Removed it was too compex-->
-		<Description>Allows ARTHER to charger rapidly! Requires Power.</Description>
-		<Hint>This is awesome. Use it.</Hint>
+		<Description>Erlaubt eine Schnellladung von Arther! Benütigt Energie.</Description>
+		<Hint>Dies ist fabelhaft, Nutze es.</Hint>
 		<ResearchRequirements>
 			<Research>T1 Power</Research>
 		</ResearchRequirements>
@@ -4059,7 +4059,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Remember those baubleberries you macerated? You'll want some of those.</Description>
+		<Description>Erinnerst du dich an den Feuerdorn den du germahlen hast? Du brauchst jetzt welche.</Description>
 		<Hint>Dooo-OOOOO-ooooot!</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -4078,7 +4078,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Uses Orange Glow pods to provide a nice orange glow.</Description>
+		<Description>Nutze orange Leuchtschoten um einen schön oragenen Leuchteffekt zu erhalten.</Description>
 		<Hint>Oooo-OOOOO-ooooo!</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -4105,7 +4105,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Take one of each of the other masks create the ultimate ghost mask!</Description>
+		<Description>Kombiniere je eine Maske um die ultimative Geistermaske zu erhalten!</Description>
 		<Hint>Dootdoot.</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -4124,7 +4124,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Uses Green Glow pods to provide a nice green glow.</Description>
+		<Description>Nutze grüne Leuchtschoten um einen schön grünen Leuchteffekt zu erhalten.</Description>
 		<Hint>Dooo-OOOOO-ooooot!</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -4142,8 +4142,8 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>He knows when you've been naughty, but, you bought the Dapper DLC, so clearly you're nice!.</Description>
-		<Hint>Now I have a machine gun. Ho. Ho. Ho.</Hint>
+		<Description>Er weiss das du unartig warst. Aber ud hast das Dapper DLC gekauft, somit bist du offensichtlich nett!</Description>
+		<Hint>Jeztz hab ich eine Maschienenpistole. Ho. Ho. Ho.</Hint>
 		<ResearchRequirements>
 			<Research>Aesthetics</Research>
 		</ResearchRequirements>
@@ -4172,8 +4172,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>WHAT TERROR LURKS BENEATH THE CLOTH OF DOOM???</Description>
-		<Hint>Answer : It's ARTHER.</Hint>
+		<Description>WELCHER TERROR VERBIRGT SICH UNTER DEM LAKEN DES GRAUENS ?!?</Description>
+		<Hint>Antwort: Es ist Arther.</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
 		</ResearchRequirements>
@@ -4196,8 +4196,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Defensive turret which will only operate when manned by ARTHER. High range of 64m and low power requirement. Ideal for early conveyor defense!</Description>
-		<Hint>This is an ideal device to cover 128m of conveyors. Hint hint.</Hint>
+		<Description>Verteidigungsturm der nur Funktionier wenn Arther ihn besetzt hat. Grosse Reichweite von 64m, wenig Energieverbrauch. Ideal für die anfänge von Förderbandverteidigung!</Description>
+		<Hint>Ideale Einrichtung um 128m Förderband zu schützen. Hint hint.</Hint>
 		<ResearchRequirements>
 			<Research>Base Defence</Research>
 		</ResearchRequirements>
@@ -4223,8 +4223,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Allows clearing of CryoPlasm at a very short range. Useful for keeping stray tendrils at bay.</Description>
-		<Hint>This is a basic turret; use it in conjunction with more advanced weaponry.</Hint>
+		<Description>Erlaubt es Cryoplasma auf sehr kurzer Distanz zu vernichten. Nutzvoll um verirrte Ableger zu stoppen.</Description>
+		<Hint>Dies ist ein einfacher Turm, nutzen in Zusammenspiel mit fortgeschritteneren Waffensystemen.</Hint>
 		<ResearchRequirements>
 			<Research>T4defence1</Research>
 		</ResearchRequirements>
@@ -4251,8 +4251,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Allows rapid melting of CryoPlasm into fluid form at a medium range. Useful for guiding CryoPlasm into killboxes.</Description>
-		<Hint>Excellent when paired with a Dazzler turret.</Hint>
+		<Description>Erlaubt es Cryoplasma auf mittlere Distanz zu verflüssigen. Nutzvoll um Todeszonen für Cryoplasma zu bauen.</Description>
+		<Hint>Perfekt wenn zusammen mit einen Dazzlerturm eingesetzt.</Hint>
 		<ResearchRequirements>
 			<Research>T4defence2</Research>
 		</ResearchRequirements>
@@ -4279,8 +4279,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Automatically-detonating Chlorine Mines allow you to keep areas clear of CryoPlasm.</Description>
-		<Hint>Don't. Breath. It. In. Ok?</Hint>
+		<Description>Selbstzündende Chlorgas Minen welche es erlauben Cryoplasma freie Gebiete zuerhalten.</Description>
+		<Hint>Nicht. Ein. Atmen. Ok?</Hint>
 		<ResearchRequirements>
 			<Research>T4defence3</Research>
 		</ResearchRequirements>
@@ -4312,8 +4312,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Allows clearing of CryoPlasm at a very long range. Useful for reducing the central bulk of the attacks.</Description>
-		<Hint>Build in a 3x3x3 layout.</Hint>
+		<Description>Erlaubt es Cryoplasma auf grosse Distanz zu bekämpfen. Nutzvoll um die zentrale Masse eines Angriffs zu stopen.</Description>
+		<Hint>Aufbau in einem 3x3x3 Würfel.</Hint>
 		<ResearchRequirements>
 			<Research>T4defence2</Research>
 		</ResearchRequirements>
@@ -4345,8 +4345,8 @@
 		<ResearchRequirements>
 			<Research>mining upgrade 1</Research>
 		</ResearchRequirements>
-		<Description>Insert into an ore extractor to improve collection speed to 200% at the cost of increased power usage.</Description>
-		<Hint>Increases Ore Collection speed to 200%. Uses up a lot more power!</Hint>
+		<Description>In Erzförderer einfügen um die Födergeschwindigkeit um 200% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</Description>
+		<Hint>Erhöht die Födergeschwindigkeit um 200%. Nutzt viel mehr Enerige!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>motor mk2</Key>
@@ -4376,8 +4376,8 @@
 		<ResearchRequirements>
 			<Research>mining upgrade 2</Research>
 		</ResearchRequirements>
-		<Description>Insert into an ore extractor to improve collection speed to 400% at the cost of increased power usage.</Description>
-		<Hint>Increases Ore Collection speed to 400%</Hint>
+		<Description>In Erzförderer einfügen um die Födergeschwindigkeit um 400% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</Description>
+		<Hint>Erhöht die Födergeschwindigkeit um 400%.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>motor mk3</Key>
@@ -4407,8 +4407,8 @@
 		<ResearchRequirements>
 			<Research>mining upgrade 3</Research>
 		</ResearchRequirements>
-		<Description>Insert into an ore extractor to improve collection speed to 800% at the cost of increased power usage.</Description>
-		<Hint>Increases Ore Collection speed to 800%</Hint>
+		<Description>In Erzförderer einfügen um die Födergeschwindigkeit um 800% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</Description>
+		<Hint>Erhöht die Födergeschwindigkeit um 800%.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>motor mk4</Key>
@@ -4442,8 +4442,8 @@
 		<ResearchRequirements>
 			<Research>mining upgrade 4</Research>
 		</ResearchRequirements>
-		<Description>Insert into an ore extractor to improve collection speed to 1,600% at the cost of increased power usage.</Description>
-		<Hint>Increases Ore Collection speed to 1600%</Hint>
+		<Description>In Erzförderer einfügen um die Födergeschwindigkeit um 1'600% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</Description>
+		<Hint>Erhöht die Födergeschwindigkeit um 1'600%.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>motor mk5</Key>
@@ -4477,8 +4477,8 @@
 		<ResearchRequirements>
 			<Research>mining upgrade 5</Research>
 		</ResearchRequirements>
-		<Description>Insert into an ore extractor to improve collection speed to 3,200% at the cost of increased power usage.</Description>
-		<Hint>Increases Ore Collection speed to 3200%</Hint>
+		<Description>In Erzförderer einfügen um die Födergeschwindigkeit um 3'200% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</Description>
+		<Hint>Erhöht die Födergeschwindigkeit um 3'200%.</Hint>
 	</CraftData>
 	
 	<CraftData>
