@@ -706,15 +706,15 @@
  	<ItemEntry>
 		<ItemID>311</ItemID>
 		<Key>CoalOrePing</Key>
-		<Name>Coal Ore Ping</Name>
-		<Plural>Coal Ore Pings</Plural>
+		<Name>Coal Ping</Name>
+		<Plural>Coal Pings</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object>
 		<Sprite>Coal Ore Ping</Sprite>
 		<!-- Atlas optional -->
 		<Category>Consumable</Category>
 		<ItemAction>OrePing</ItemAction>
-		<ActionParameter>Coal Ore</ActionParameter><!-- Name of ore voxel to ping -->
+		<ActionParameter>Coal</ActionParameter><!-- Name of ore voxel to ping -->
 		<ScanRequirements>
 			<Scan>CoalOre</Scan>
 		</ScanRequirements>			
@@ -1788,7 +1788,11 @@
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
+		    <ScanRequirements>
+      <Scan>TinOre</Scan>
+    </ScanRequirements>
 	</ItemEntry>
+	
 	<ItemEntry>
 		<ItemID>1001</ItemID>
 		<Key>SuitCoolerMK1</Key>
@@ -1825,9 +1829,7 @@
 		<Sprite>Suit Headlight MK1</Sprite>
 		<!-- Atlas optional -->
 		<Category>SuitUpgrade</Category>
-		<ResearchRequirements>
-			<Research>suit upgrades</Research>
-		</ResearchRequirements>		
+	
 	</ItemEntry>
 	<ItemEntry>
 		<ItemID>1004</ItemID>
@@ -1841,7 +1843,10 @@
 		<Category>SuitUpgrade</Category>
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
-		</ResearchRequirements>		
+		</ResearchRequirements>	
+		<ScanRequirements>
+			<Scan>TinOre</Scan>
+		</ScanRequirements>		
 	</ItemEntry>
 	<ItemEntry>
 		<ItemID>1005</ItemID>

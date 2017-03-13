@@ -186,7 +186,7 @@
 		</tags>
 	</TerrainDataEntry>		
 	<TerrainDataEntry>
-		<CubeType>9</CubeType>
+		<CubeType>9</CubeType><!-- Hijacked for Grass!-->
 		<Key>TNT</Key>
 		<Name>TNT</Name>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -194,13 +194,14 @@
 		<SideTexture>49</SideTexture>
 		<BottomTexture>49</BottomTexture>
 		<GUITexture>49</GUITexture>
-		<isSolid>true</isSolid>
-		<isTransparent>false</isTransparent>
-		<isHollow>false</isHollow>
-		<isGlass>false</isGlass>
-		<isPassable>false</isPassable>
-		<hasObject>false</hasObject>
-		<hasEntity>false</hasEntity>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>true</isHollow>
+		<isGlass>true</isGlass>
+		<isPassable>true</isPassable>
+		<isHidden>true</isHidden>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
@@ -286,6 +287,7 @@
 			<tag>Outdoor</tag>
 			<tag>Ore</tag>
 		</tags>
+		<Description>Dieses dichte Gestein scheint Spuren von Eisen und Lithium zu beinhalten. Die nahe Umgebung abzusuchen sollte nutzvolles Erz zutage bringen!</Description>
 	</TerrainDataEntry>		
 	<TerrainDataEntry>
 		<CubeType>13</CubeType>
@@ -399,33 +401,6 @@
 	</TerrainDataEntry>
 
 	<TerrainDataEntry>
-		<CubeType>17</CubeType>
-		<Key>OldTeleporter</Key>
-		<Name>Old Teleporter</Name>
-		<LayerType>PrimaryTerrain</LayerType>
-		<TopTexture>83</TopTexture>
-		<SideTexture>83</SideTexture>
-		<BottomTexture>83</BottomTexture>
-		<GUITexture>83</GUITexture>
-		<Hidden>true</Hidden>
-		<isSolid>true</isSolid>
-		<isTransparent>false</isTransparent>
-		<isHollow>false</isHollow>
-		<isGlass>false</isGlass>
-		<isPassable>false</isPassable>
-		<hasObject>false</hasObject>
-		<hasEntity>false</hasEntity>
-		<AudioWalkType>Concrete</AudioWalkType>
-		<AudioBuildType>Dirt</AudioBuildType>
-		<AudioDestroyType>None</AudioDestroyType>
-		<tags>
-			<tag>Voxel</tag>
-			<tag>Machinery</tag>
-			<tag>SciFi</tag>
-		</tags>
-	</TerrainDataEntry>
-
-	<TerrainDataEntry>
 		<CubeType>18</CubeType>
 		<Key>BlackGrill</Key>
 		<Name>Black Grill</Name>
@@ -529,7 +504,8 @@
 			<tag>Voxel</tag>
 			<tag>Outdoor</tag>
 		</tags>
-	</TerrainDataEntry>		
+	</TerrainDataEntry>	
+	
 	<TerrainDataEntry>
 		<CubeType>22</CubeType>
 		<Key>ReinforcedRock</Key>
@@ -1177,6 +1153,7 @@
 		<AudioWalkType>Concrete</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<DefaultValue>2184</DefaultValue>    <!-- Medium gray -->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -2953,7 +2930,7 @@
 	<TerrainDataEntry>
 		<CubeType>87</CubeType>
 		<Key>CoalOre</Key>
-		<Name>Coal Ore</Name>
+		<Name>Coal</Name>
 		<ResearchValue>5</ResearchValue>
 		<DefaultValue>4095</DefaultValue>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -3673,6 +3650,7 @@
 		<AudioDestroyType>None</AudioDestroyType>
 		<Category>Decoration</Category>
 		<isGarbage>true</isGarbage>
+		<DefaultValue>2184</DefaultValue>    <!-- Medium gray -->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Medieval</tag>
@@ -4176,6 +4154,7 @@
 		<AudioDestroyType>None</AudioDestroyType>
 		<Category>Decoration</Category>
 		<isGarbage>true</isGarbage>
+		<DefaultValue>2184</DefaultValue><!-- Medium gray -->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -4423,6 +4402,7 @@
 		<AudioDestroyType>None</AudioDestroyType>
 		<Category>Decoration</Category>
 		<isGarbage>true</isGarbage>
+		<DefaultValue>2184</DefaultValue>    <!-- Medium gray -->
 		<tags>
 			<tag>Voxel</tag>
 			<tag>Urban</tag>
@@ -5460,7 +5440,47 @@
 				<Name>BaubleBerry</Name>
 				<IconName>BaubleBerry</IconName>
 				<ResearchValue>1</ResearchValue>
-				<Description>Dies scheint nicht wirklich nutzvoll zu sein.</Description>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>6</Value>
+				<Key>TriSeed</Key>
+				<Name>TriSeed</Name>
+				<IconName>TriSeed</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>7</Value>
+				<Key>UnderGrump</Key>
+				<Name>UnderGrump</Name>
+				<IconName>UnderGrump</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>8</Value>
+				<Key>GoopyDangler</Key>
+				<Name>GoopyDangler</Name>
+				<IconName>GoopyDangler</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>9</Value>
+				<Key>CoxComb</Key>
+				<Name>CoxComb</Name>
+				<IconName>CoxComb</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>TDies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>10</Value>
+				<Key>LeafyDangler</Key>
+				<Name>LeafyDangler</Name>
+				<IconName>LeafyDangler</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
 			</ValueEntry>
 			
 			<ValueEntry>
@@ -5519,6 +5539,14 @@
 				<ResearchValue>2</ResearchValue>
 				<Description>Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. </Description>
 			</ValueEntry>
+				<ValueEntry>
+				<Value>18</Value><!-- Special hidden end one-->
+				<Key>TundraBreath</Key>
+				<Name>TundraBreath</Name>
+				<IconName>TundraBreath</IconName>
+				<ResearchValue>1</ResearchValue>
+				<Description>Dies scheint im Moment nicht wirklich nutzvoll zu sein.</Description>
+			</ValueEntry>			
 			
 			<ValueEntry>
 				<Value>21</Value>
@@ -5588,7 +5616,7 @@
 		<isTransparent>true</isTransparent>
 		<isHollow>true</isHollow>
 		<isGlass>false</isGlass>
-		<isPassable>false</isPassable>
+		<isPassable>true</isPassable><!-- Plants no longer have collision, due to growth. This can't be per-value-entry, tho that could be changed -->
 		<isColorised>false</isColorised>
 		<isPaintable>false</isPaintable>
 		<hasObject>true</hasObject>
@@ -5605,6 +5633,8 @@
 			<Energy>83</Energy>
 		</Fuel>
 </TerrainDataEntry>	
+
+
 
 <TerrainDataEntry>
 		<CubeType>166</CubeType>
@@ -5925,6 +5955,38 @@
 			<tag>Ore</tag>
 		</tags>
 	</TerrainDataEntry>	
+	
+	
+	<TerrainDataEntry>
+		<CubeType>17</CubeType>
+		<Key>NewSurvivalSurface</Key>
+		<Name>Organic Detritus</Name>
+		<LayerType>PrimaryTerrain</LayerType>
+		<ResearchValue>2</ResearchValue>
+		<TopTexture>85</TopTexture>
+		<SideTexture>86</SideTexture>
+		<BottomTexture>11</BottomTexture>
+		<GUITexture>83</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isGarbage>true</isGarbage>
+		<isPassable>false</isPassable>
+		<hasObject>false</hasObject>
+		<hasEntity>false</hasEntity>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<isColorised>true</isColorised>
+		<isPaintable>false</isPaintable>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Machinery</tag>
+			<tag>SciFi</tag>
+		</tags>
+		<Description>Dieses dicke, grässliche Zeugs überzieht den ganzen Planeten.</Description>
+	</TerrainDataEntry>
 	
 	<TerrainDataEntry>
 		<CubeType>200</CubeType>
@@ -7900,6 +7962,7 @@
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
 		<PickReplacement>SLODRSPlacement</PickReplacement>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
 		<tags>
 			<tag>Machinery</tag>
 		</tags>
@@ -7926,6 +7989,7 @@
 		<AudioWalkType>Sand</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
 		<PickReplacement>T3_FuelCompressorPlacement</PickReplacement>
 		<tags>
 			<tag>Machinery</tag>
@@ -8711,6 +8775,13 @@
 				<Name>Workfloor Excavator MK2</Name>
 				<IconName>WorkFloorExcavator MK2</IconName>
 				<Description>Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus. Braucht doppelt soviel Energie wie der MK1, entfernt aber Erze ebenfalls.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>2</Value>
+				<Key>WorkFloorExcavatorMK3_Key</Key>
+				<Name>Workfloor Excavator MK3</Name>
+				<IconName>WorkFloorExcavator MK3</IconName>
+				<Description>Ein Blitzschnlles Rad des Aushebens - 4x schneller als die MK2 Version! Entfernt Erz.</Description>
 			</ValueEntry>
 		</Values>
 	</TerrainDataEntry>
@@ -10287,6 +10358,7 @@
 		<AudioWalkType>Metal</AudioWalkType>
 		<AudioBuildType>Dirt</AudioBuildType>
 		<AudioDestroyType>None</AudioDestroyType>
+		<isMultiBlockMachine>true</isMultiBlockMachine>
 		<tags>
 			<tag>Machinery</tag>
 			<tag>Mining</tag>
@@ -10783,7 +10855,7 @@
 				<Key>AutoOreRemoverPlacement</Key>
 				<Name>Ore Thief</Name>
 				<IconName>Ore Thief</IconName>
-				<Description>Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschliessend in angrenzende Speichertrichter befördert. Wird in einem 3x3 Grundriss gebaut.</Description>
+				<Description>Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschliessend in angrenzende Trichter befördert. Wird in einem 3x3 Grundriss gebaut.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>30</Value>
@@ -10854,7 +10926,7 @@
 				<Name>Fuel Compressor.</Name>
 				<IconName>FuelCompressor</IconName>
 				<Description>Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</Description>
-			</ValueEntry
+			</ValueEntry>
 
      	</Values>
 		<Stages>
@@ -11081,6 +11153,119 @@
 			<tag>Machinery</tag>
 			<tag>MultiBlock</tag>
 		</tags>
+	</TerrainDataEntry>
+
+
+	<TerrainDataEntry>		
+			<Hidden>true</Hidden>
+		<CubeType>1111</CubeType>
+		<Key>SurvivalInjection</Key>
+		<Name>SurvivalInjectionBase</Name>
+		<Values>
+			<ValueEntry>
+				<Value>0</Value>
+				<Key>GlowTubeInjectionSkin1</Key>
+				<Name>Glow Tubes</Name>
+				<IconName>Glow Tubes1</IconName>
+				<Description>Diese massiven leuchtenden Röhren scheinen aus nutzvollen Fasern zu bestehen.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>1</Value>
+				<Key>GlowTubeInjectionController1</Key>
+				<Name>Never Visibole</Name>
+				<IconName>Space Panel</IconName>
+				<Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>2</Value>
+				<Key>GlowTubeInjectionSkin2</Key>
+				<Name>Glow Tubes</Name>
+				<IconName>Glow Tubes2</IconName>
+				<Description>Diese massiven leuchtenden Röhren scheinen aus nutzvollen Fasern zu bestehen.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>3</Value>
+				<Key>GlowTubeInjectionController2</Key>
+				<Name>Never Visibole</Name>
+				<IconName>Space Panel</IconName>
+				<Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>4</Value>
+				<Key>GlowTubeInjectionSkin3</Key>
+				<Name>Glow Tubes</Name>
+				<IconName>Glow Tubes3</IconName>
+				<Description>Diese massiven leuchtenden Röhren scheinen aus nutzvollen Fasern zu bestehen.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>5</Value>
+				<Key>GlowTubeInjectionController3</Key>
+				<Name>Never Visibole</Name>
+				<IconName>Space Panel</IconName>
+				<Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+			</ValueEntry>
+      <ValueEntry>
+        <Value>6</Value>
+        <Key>LargeRockInjectionSkin1</Key>
+        <Name>Large Rocks</Name>
+        <IconName>Large Rocks1</IconName>
+        <Description>Grosse Steine die ander Oberfläche vorkommen, welche Spuren von Erz enthalten.</Description>
+      </ValueEntry>
+      <ValueEntry>
+        <Value>7</Value>
+        <Key>LargeRockInjectionController1</Key>
+        <Name>Never Visibole</Name>
+        <IconName>Space Panel</IconName>
+        <Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+      </ValueEntry>
+      <ValueEntry>
+        <Value>8</Value>
+        <Key>LargeRockInjectionSkin2</Key>
+        <Name>Large Rocks</Name>
+        <IconName>Large Rocks2</IconName>
+        <Description>Grosse Steine die ander Oberfläche vorkommen, welche Spuren von Erz enthalten.</Description>
+      </ValueEntry>
+      <ValueEntry>
+        <Value>9</Value>
+        <Key>LargeRockInjectionController2</Key>
+        <Name>Never Visibole</Name>
+        <IconName>Space Panel</IconName>
+        <Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+      </ValueEntry>
+      <ValueEntry>
+        <Value>10</Value>
+        <Key>LargeRockInjectionSkin3</Key>
+        <Name>Large Rocks</Name>
+        <IconName>Large Rocks3</IconName>
+        <Description>Grosse Steine die ander Oberfläche vorkommen, welche Spuren von Erz enthalten.</Description>
+      </ValueEntry>
+      <ValueEntry>
+        <Value>11</Value>
+        <Key>LargeRockInjectionController3</Key>
+        <Name>Never Visibole</Name>
+        <IconName>Space Panel</IconName>
+        <Description>Du solltest das niemals sehen. Wenn du das siehst liegt ein Fehler vor.</Description>
+      </ValueEntry>
+		</Values>
+    <isMultiBlockMachine>true</isMultiBlockMachine>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>73</TopTexture>
+		<SideTexture>73</SideTexture>
+		<BottomTexture>73</BottomTexture>
+		<GUITexture>73</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<AudioWalkType>Sand</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Voxel</tag>
+		</tags>	
 	</TerrainDataEntry>
 
 	<TerrainDataEntry>

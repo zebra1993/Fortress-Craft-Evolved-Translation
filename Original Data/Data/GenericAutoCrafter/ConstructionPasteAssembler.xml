@@ -108,6 +108,10 @@
 				<Key>CoalOre</Key><!-- ty Hitsuo -->
 				<Amount>1</Amount>
 			</CraftCost>
+			<CraftCost>
+				<Key>NewSurvivalSurface</Key><!-- ty Hitsuo -->
+				<Amount>1</Amount>
+			</CraftCost>
 		</Costs>
 		<Description>Converts Garbage into Construction Paste. Use this with a Garbage Thief for best results.</Description>
 	</Recipe>

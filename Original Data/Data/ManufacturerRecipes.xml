@@ -965,9 +965,27 @@
 		</Costs>
 		<Description>Low grade heating and lighting.
 		
-		Caution: Fire is hot!</Description>
+		Use this to keep your base warm.</Description>
 		<Hint>Caution : Fire is hot!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+	</CraftData>
+	<CraftData>
+		<Key>torch_mp</Key>
+		<Category>consumables</Category>
+		<Tier>0</Tier>
+		<CraftedKey>Torch</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CoalOre</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Low grade heating and lighting.
+		
+		Also available in the Self-Crafting menu (C)</Description>
+		<Hint>Caution : Fire is hot!</Hint>
+		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
 		<Key>ElectricLight</Key>
@@ -1974,6 +1992,7 @@
 		<ResearchCost>8</ResearchCost>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
+			<Research>crystal</Research>
 		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
@@ -2309,7 +2328,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Automatically collects marked loot from FALCOR Beacons within 128m. Requires attached Storage Hopper.</Description>
+		<Description>Automatically collects marked loot from FALCOR Beacons within 256m. Requires attached Storage Hopper.</Description>
 		<Hint>Ideal for Wasp drops!</Hint>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
@@ -2404,7 +2423,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Conveyor based machine for automatically converting metal bars into plates. Does not require external power or Storage Hoppers.</Description>
+		<Description>Conveyor-based machine for automatically converting Bars into plates. Does not require external power or Hoppers.</Description>
 		<Hint>A useful start when automating</Hint>
 		
 		<ResearchRequirements>
@@ -2515,7 +2534,7 @@
 		<CraftedAmount>1</CraftedAmount>
 		<Costs>
 			<CraftCost>
-				<Key>Snow</Key>
+				<Key>NewSurvivalSurface</Key>
 				<Amount>16</Amount>
 			</CraftCost>
 
@@ -4946,7 +4965,7 @@
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK2</Key>
-				<Amount>4</Amount>
+				<Amount>1</Amount>
 			</CraftCost>		
 		</Costs>
 		<ResearchCost>5</ResearchCost>
@@ -4973,7 +4992,7 @@
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK3</Key>
-				<Amount>4</Amount>
+				<Amount>1</Amount>
 			</CraftCost>		
 			<CraftCost>
 				<Key>AdvancedMachineBlock</Key>
@@ -5035,7 +5054,7 @@
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK2</Key>
-				<Amount>4</Amount>
+				<Amount>1</Amount>
 			</CraftCost>		
 		</Costs>
 		<ResearchCost>5</ResearchCost>
@@ -5062,7 +5081,7 @@
 			</CraftCost>		
 			<CraftCost>
 				<Key>PowerBoosterMK3</Key>
-				<Amount>4</Amount>
+				<Amount>1</Amount>
 			</CraftCost>		
 			<CraftCost>
 				<Key>AdvancedMachineBlock</Key>
@@ -5243,6 +5262,32 @@
 		<Description>Automatically digs a 33m wide, 3m tall circle.</Description>
 		<Hint>Does affect ores.</Hint>
 	</CraftData>
+	<!-- by all rights, this should use up 12x MK3 lasers, but they are precious beasts, and I would like to encourage the players to be able to build stuff sooner rather than later -->
+	<CraftData>
+		<Key>WorkFloorExcavatorMK3_RecKey</Key>
+		<Category>mining</Category>
+		<Tier>1</Tier>
+		<CraftedKey>WorkFloorExcavatorMK3_Key</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>WorkFloorExcavatorMK2_Key</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>RefinedLiquidResin</Key>
+				<Amount>3</Amount>
+			</CraftCost>		
+		</Costs>
+		<ResearchCost>8</ResearchCost>
+		<ResearchRequirements>
+			<Research>T4 assist machines</Research>
+			<Research>ResinHandling</Research>
+		</ResearchRequirements>
+		<Description>Automatically and rapidly digs a 33m wide, 3m tall circle.</Description>
+		<Hint>Does affect ores.</Hint>
+	</CraftData>
+
 
 	<CraftData>
 		<Key>autobuilder</Key>
@@ -6949,7 +6994,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
-		<Description>Automatically assemble Research Pods. Requires power and attached Storage Hoppers containing metal plates and PCBs. See handbook for more info.</Description>
+		<Description>Automatically assemble Research Pods. Requires power and attached Hoppers containing metal plates and PCBs. See handbook for more info.</Description>
 		<Hint>Use to unlock Projects!</Hint>
 		
 		<ResearchRequirements>
@@ -7327,6 +7372,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
 		<Key>Pristine Light Chitin</Key>
@@ -7343,6 +7391,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
 		<Key>Pristine Stinger</Key>
@@ -7359,6 +7410,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
 		<Key>Pristine Phosphorescent Gland</Key>
@@ -7375,6 +7429,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	
 	<CraftData>
@@ -7392,6 +7449,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
 		<Key>Perfect Faceted Eye</Key>
@@ -7408,6 +7468,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	<CraftData>
 		<Key>Massive Faceted Eye</Key>
@@ -7424,6 +7487,9 @@
 		<Description>Used in a number of useful receipes.</Description>
 		<Hint>Ruined Parts must be kept cold!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
+		<ResearchRequirements>
+			<Research>Cyrogenics Research</Research>
+		</ResearchRequirements>
 	</CraftData>
 	
 	<!-- We haven't really got many, and the icon is correct, so.... -->
@@ -7980,11 +8046,11 @@
 		<Costs>
 			<CraftCost>
 				<Key>ChromedMachineBlock</Key>
-				<Amount>48</Amount>
+				<Amount>36</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>MagneticMachineBlock</Key>
-				<Amount>48</Amount>
+				<Amount>36</Amount>
 			</CraftCost>
 			<CraftCost>
 				<Key>RefinedLiquidResin</Key>

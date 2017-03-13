@@ -108,6 +108,10 @@
 				<Key>CoalOre</Key><!-- ty Hitsuo -->
 				<Amount>1</Amount>
 			</CraftCost>
+			<CraftCost>
+				<Key>NewSurvivalSurface</Key><!-- ty Hitsuo -->
+				<Amount>1</Amount>
+			</CraftCost>
 		</Costs>
 		<Description>Wandelt Abfall in Bauklebstoff um. Nutze die Produktionsanlage am besten in Verbindung mit einem Mülldieb.</Description>
 	</Recipe>

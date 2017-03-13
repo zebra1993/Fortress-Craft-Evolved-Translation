@@ -15,8 +15,14 @@
 				</Paragraph>				
 				<Spacer/>
 				<Paragraph>
-					<Text>Copper Ore can be mined using an ore extractor.</Text>
-				</Paragraph>				
+					<Text>Copper Ore should be mined using an Ore Extractor.</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
 			</Paragraphs>
 		</Page>				
 	</Pages>
