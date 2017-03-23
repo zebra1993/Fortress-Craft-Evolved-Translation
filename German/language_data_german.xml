@@ -11,7 +11,7 @@
     <string name="Dapper_Pack">Dapper Pack</string>
     <string name="Skin_Pack">Anzugslakierungs Packet</string>
     <string name="Installed">Installiert</string>
-    <string name="Not_Installed">Nicht string>
+    <string name="Not_Installed">Nicht Installiert </string>
     <string name="Multiplayer_Sign">&lt;Mehrspieler</string>
     <string name="Quit_Sign">Verlassen</string>
     <string name="World_Sign">Weltenauswahl</string>
@@ -1363,9 +1363,9 @@
     <string name="ConstructoBot Bronzite Chassis Assembler_DESC">ConstructoBot Bronzite Chassis Assembler_DESC</string>
     <string name="ConstructoBot Ironide Chassis Assembler">ConstructoBot Ironide Gehäusemontage</string><!-- Not optimal-->
     <string name="ConstructoBot Ironide Chassis Assembler_DESC">ConstructoBot Chassis Assembler_DESC</string>
-    <string name="ConstructoBot Leg Assembler">ConstructoBot Beinmontage</string>
+    <string name="ConstructoBot Leg Assembler">ConstructoBot Beinmontage</string><!-- Not optimal-->
     <string name="ConstructoBot Leg Assembler_DESC">ConstructoBot Leg Assembler_DESC</string>
-    <string name="ConstructoBot Arm Assembler">ConstructoBot Armmotnage</string>
+    <string name="ConstructoBot Arm Assembler">ConstructoBot Armmotnage</string><!-- Not optimal-->
     <string name="ConstructoBot Arm Assembler_DESC">ConstructoBot Arm Assembler_DESC</string>
 	
     <string name="Blast Furnace">Hochofen</string>
@@ -1377,21 +1377,21 @@
     <string name="Casting Pipe (Bend)">gebogenes Gussrohr</string>
     <string name="Casting Pipe (Bend)_DESC">Casting Pipe (Bend)_DESC</string>
 	
-    <string name="Refinery Reactor Vat Component">Refinery Reactor Vat Component</string><!-- Textmark-->
+    <string name="Refinery Reactor Vat Component">Reffineriekesselkomponente</string>
     <string name="Refinery Reactor Vat Component_DESC">Refinery Reactor Vat Component_DESC</string>
-    <string name="Jet Turbine Generator Housing">Jet Turbine Generator Housing</string>
+    <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
     <string name="Jet Turbine Generator Housing_DESC">Jet Turbine Generator Housing_DESC</string>
-    <string name="Jet Turbine Generator Intake">Jet Turbine Generator Intake</string>
+    <string name="Jet Turbine Generator Intake">Turbinengeneratorlufteinlass</string>
     <string name="Jet Turbine Generator Intake_DESC">Jet Turbine Generator Intake_DESC</string>
-    <string name="Laboratory Component">Laboratory Component</string>
+    <string name="Laboratory Component">Laborkomponennte</string>
     <string name="Laboratory Component_DESC">Laboratory Component_DESC</string>
-    <string name="Orbital Energy Transmitter Component">Orbital Energy Transmitter Component</string>
+    <string name="Orbital Energy Transmitter Component">Orbitalererngieübertrager</string>
     <string name="Orbital Energy Transmitter Component_DESC">Orbital Energy Transmitter Component_DESC</string>
-    <string name="MK4 Battery Component">MK4 Battery Component</string>
+    <string name="MK4 Battery Component">MK4 Batteriekomponente</string>
     <string name="MK4 Battery Component_DESC">MK4 Battery Component_DESC</string>
-    <string name="Conduit">Conduit</string>
+    <string name="Conduit">Leitung</string><!-- Not optimal-->
     <string name="Conduit_DESC">Conduit_DESC</string>
-    <string name="MK5 Battery Component">MK5 Battery Component</string>
+    <string name="MK5 Battery Component">MK5 Batteriekomponente</string>
     <string name="MK5 Battery Component_DESC">MK5 Battery Component_DESC</string>
     <string name="MK2 Solar Panel Component">MK2 Solar Panel Component</string>
     <string name="MK2 Solar Panel Component_DESC">MK2 Solar Panel Component_DESC</string>
