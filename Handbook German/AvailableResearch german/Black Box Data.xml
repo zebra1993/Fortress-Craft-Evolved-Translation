@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>black box</Handle>
+	<Title>Black Box Data</Title>
+	<Icon>>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Flugschreiber Daten</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dein Überlebens-Anzug hat einen verbauten Flugschreiber, der Daten unseres Absturzes aufgezeichnet hat. Die durchforstung dieser Daten könnte uns helfen zu klären wie es zu diesem Unfall kam.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

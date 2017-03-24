@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Upgraded Power Grid</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbessertes Energie Netz</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unser Energie Netz entwickelt sich prächtig. Unsere Speichertechnologie ist hingegen noch recht limitiert. Diese Forschung wird uns helfen größere Energiespeicher mit mehr Leistung zu entwerfen. </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

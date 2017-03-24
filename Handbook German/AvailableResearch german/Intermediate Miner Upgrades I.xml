@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Intermediate Miner Upgrades I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittener Bergbau I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Es ist an der Zeit unsere Forschung auf das Schmelzen zu konzentrieren. Unsere bisherigen Schmelzöfen sind zu langsam und verschwenden wertvolle Ressourcen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

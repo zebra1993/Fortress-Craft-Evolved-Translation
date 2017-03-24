@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Base Defence</Title>
+	<Icon>>ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stützpunkt Verteidigung</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nachdem wir die lokalen Lebensformen erforscht haben sollten wir uns als nächstes der Verteidigung annehmen.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Wir werden diesem Planeten FREIHEIT bringen!</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

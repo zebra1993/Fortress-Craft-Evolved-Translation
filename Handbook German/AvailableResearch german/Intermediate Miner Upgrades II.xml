@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Intermediate Miner Upgrades II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittener Bergbau II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Es sollte möglich sein die Förder-rate unserer Bohrer signifikant zu erhöhen. This project will also investigate alternative methods of collecting ore.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

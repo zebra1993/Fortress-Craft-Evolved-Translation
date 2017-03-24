@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Basic Mining Upgrades I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bergbau I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir müssen einen Weg finden um die Rate zu erhöhen, mit der Erze abgebaut und verarbeitet werden können. Diese Forschung wird uns die nötigen Ergebnisse liefern.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

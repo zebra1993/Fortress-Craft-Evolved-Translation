@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>T4 Power</Handle>
+	<Title>Ultra-Power Grid</Title>
+	<Icon>Ultra-Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultra Energie Netz</Text>
+				</Title>
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben die maximale Energiedichte pro 1m Würfel erreicht. Diese Forschung behandelt die Machbarkeit von größeren Energiespeichern.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

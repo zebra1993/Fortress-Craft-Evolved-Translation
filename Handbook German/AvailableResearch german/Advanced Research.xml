@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Advanced Research</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserte Forschung</Text>
+				</Title>
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unser Forschung ist zurzeit noch sehr limitiert. Wir müssen ein Labor errichten indem wir unsere Experimente durchführen können.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

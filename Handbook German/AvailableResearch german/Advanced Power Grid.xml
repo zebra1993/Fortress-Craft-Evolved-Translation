@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Advanced Power Grid</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbessertes Energienetz</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese neuen Materialien werden es uns ermöglichen völlig neuartige Verbesserungen an unserem Energienetz vorzunehmen</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
