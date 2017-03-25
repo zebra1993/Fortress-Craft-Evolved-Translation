@@ -9,7 +9,7 @@
     <!-- Main menu -->
     <string name="Frozen_Factory">Frozen Factory</string>
     <string name="Dapper_Pack">Dapper Pack</string>
-    <string name="Skin_Pack">Anzugslakierungs Packet</string>
+    <string name="Skin_Pack">Anzugslackierungspaket</string>
     <string name="Installed">Installiert</string>
     <string name="Not_Installed">Nicht Installiert </string>
     <string name="Multiplayer_Sign">&lt;Mehrspieler</string>
@@ -18,7 +18,7 @@
     <string name="Create_World">Welt erzeugen</string>
     <string name="Spacebar">Leertaste</string>
     <!-- World Creation Menu -->
-    <string name="Resource_Level">Rescourcenreichhaltigkeit</string>
+    <string name="Resource_Level">Ressourcenreichhaltigkeit</string>
     <string name="Power_Level">Energieverfügbarkeit</string>
     <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
     <string name="Day_Night_Cycle">Tag-/Nachtzyklus</string>
@@ -27,7 +27,7 @@
     <string name="Rush_Mode">Sturmmodus</string>
     <string name="Flatland">Flachland</string>
     <string name="Care_Package">Erstausrüstung</string>
-    <string name="Survival_Options">Überlegensoptionen</string>
+    <string name="Survival_Options">Überlebensoptionen</string>
     <string name="Seed">Seed</string>
     <string name="Mode">Modus</string>
     <string name="Select_Mods">Modifikationen auswählen</string>
@@ -69,8 +69,8 @@
     <string name="Creative">Kreativ</string>
     
     <!-- Difficulty Readbacks -->
-    <string name="Default_Settings_Info">Die Standart Einstellungen sind auf sehr schnell und sehr einfach für neue Spieler! Wenn du es NOCH schneller willst, wähle 'Ewiger Tag' bei Tag-/Nachtzyklus. Wenn du grössere Herausforderungen suchst, spiele nach Herzenslust mit den Einstellungen!&#13;Vergiss jedoch nicht sobald eine Welt gestartet wurde, sind die Einstellungen UNVERÄNDERBAR bis zum erstellen einer neuen Welt. Achte zudem auf die Laufzeiten eines Durchgangs!</string>
-    <string name="Previous_Visit">Du hast diese Wlt zuvor bereits besucht!</string>
+    <string name="Default_Settings_Info">Die Standard Einstellungen sind auf sehr schnell und sehr einfach für neue Spieler! Wenn du es NOCH schneller willst, wähle 'Ewiger Tag' bei Tag-/Nachtzyklus. Wenn du grössere Herausforderungen suchst, spiele nach Herzenslust mit den Einstellungen!&#13;Vergiss jedoch nicht sobald eine Welt gestartet wurde, sind die Einstellungen UNVERÄNDERBAR bis zum Erstellen einer neuen Welt. Achte zudem auf die Laufzeiten eines Durchgangs!</string>
+    <string name="Previous_Visit">Du hast diese Welt zuvor bereits besucht!</string>
     <string name="Play_time">Spielzeit</string>
     <string name="Mod_Selected">ausgewählte Modifikation.</string>
     <string name="Mods_Selected">ausgewählte Modifikationen.</string>
@@ -113,7 +113,7 @@
     <string name="Titanium Bars">Titanbarren</string>	
     <string name="Plastic Pellet">Plastikpelett</string>
     <string name="Plastic Pellets">Plastikpeletts</string>
-    <string name="High Energy Composite Fuel">Hochenegie Komposittraibstoff</string>
+    <string name="High Energy Composite Fuel">Hochenergie Komposittreibstoff</string>
     <string name="Empty Metal Tube">Leeres Metal Rohr</string>
     <string name="Empty Metal Tubes">Leere Metal Rohre</string>
     <string name="Empty Fuel Canister">Leerer Treibstoffkanister</string>
@@ -128,10 +128,10 @@
     <string name="Iron Gears">Eisenzahnräder</string>    
     <string name="Servo Motor">Servomotor</string>
     <string name="Servo Motors">Servomotoren</string>
-    <string name="Lightweight Machine Plate">Leichte Maschienenplatte</string>
-    <string name="Lightweight Machine Plates">Leichte Maschienenplatten</string>
-    <string name="Lightweight Machine Housing">Leichte Maschienengehäuse</string>
-    <string name="Lightweight Machine Housings">Leichte Maschienengehäuse</string>
+    <string name="Lightweight Machine Plate">Leichte Maschinenplatte</string>
+    <string name="Lightweight Machine Plates">Leichte Maschinenplatten</string>
+    <string name="Lightweight Machine Housing">Leichte Maschinengehäuse</string>
+    <string name="Lightweight Machine Housings">Leichte Maschinengehäuse</string>
     <string name="Basic Minecart">Einfache Minenlore</string>
     <string name="Basic Minecarts">Einfache Minenloren</string>
     <string name="Fast Minecart">Schnelle Minenlore</string>
@@ -165,7 +165,7 @@
 	<!--<string name="Organic Cutter Heads">Organischeschneidköpfe</string>-->
     <string name="Plasma Cutter Head">Plasmaschneidekopf</string>
 	<!--<string name="Plasma Cutter Heads">Plasmaschneideköpfe</string>-->
-    <string name="Location Marker">Standortmakrierer</string>
+    <string name="Location Marker">Standortmarkierer</string>
     <string name="Glow Stick">Leuchtstab</string>
     <string name="Glow Sticks">Leuchtstäbe</string>
     <string name="Chargeable Explosive">Aufladbarer Sprengsatz</string>
@@ -292,10 +292,10 @@
 	<!-- Cristals -->
     <string name="Crystal Fiber Mesh">Kristallfasergewebe</string>
     <string name="Crystal Fiber Meshes">Kristallfasergewebe</string>
-    <string name="Crystal Clock">Kristalltacktgeber</string><!-- Assuming its somethign like a Oscilator for curquits (would make sense) -->
-    <string name="Crystal Clocks">Kristalltacktgeber</string>
-    <string name="Overclocked Crystal">übertakteter Kristalltacktgeber</string>
-    <string name="Overclocked Crystal Clocks">übertaktete Kristalltacktgeber</string>
+    <string name="Crystal Clock">Kristalltaktgeber</string><!-- Assuming its somethign like a Oscilator for curquits (would make sense) -->
+    <string name="Crystal Clocks">Kristalltaktgeber</string>
+    <string name="Overclocked Crystal">übertakteter Kristalltaktgeber</string>
+    <string name="Overclocked Crystal Clocks">übertaktete Kristalltaktgeber</string>
 	<!-- Cargolifts -->
     <string name="Basic Cargo Lift">einfacher Warenlift</string>
     <string name="Basic Cargo Lifts">einfache Warenlifte</string>
@@ -309,10 +309,10 @@
     <string name="Suit Heater MK1">Anzugsheizung MK1</string>
     <string name="Suit Headlight MK1">Anzugsbeleuchtung MK1</string>
     <string name="Suit Headlights MK1">Anzugsbeleuchtungen MK1</string>
-    <string name="Suit Power Pack MK1">Anzugsenergiepacket MK1</string>
-    <string name="Suit Power Packs MK1">Anzugsenergiepackete MK1</string>
+    <string name="Suit Power Pack MK1">Anzugsenergiepaket MK1</string>
+    <string name="Suit Power Packs MK1">Anzugsenergiepakete MK1</string>
     <string name="Suit Build Module MK1">Anzugsbaumodul MK1</string>
-    <string name="Suit Build Modules MK1">Anzugsbaumodul e MK1</string>
+    <string name="Suit Build Modules MK1">Anzugsbaumodule MK1</string>
     <string name="Suit Collection Module MK1">Anzugssammelmodul MK1</string>
     <string name="Suit Collection Modules MK1">Anzugssammelmodule MK1</string>
     <string name="Suit Insulation MK1">Anzugsisolation MK1</string>
@@ -327,8 +327,8 @@
     <string name="V3 Build Guns">V3 Bauwerkzeugb</string>
     <string name="MK1 Suit Upgrade Module">MK1 Anzugsverbessrungsmodul</string>
     <string name="MK1 Suit Upgrade Modules">MK1 Anzugsverbessrungsmodule</string>
-    <string name="Suit Power Pack MK2">Anzugsenergiepacket MK2</string>
-    <string name="Suit Power Packs MK2">Anzugsenergiepackete MK2</string>
+    <string name="Suit Power Pack MK2">Anzugsenergiepaket MK2</string>
+    <string name="Suit Power Packs MK2">Anzugsenergiepakete MK2</string>
 	<!-- Arther stuff -->
     <string name="ARTHER Power Core">ARTHER Energiekern</string>
     <string name="ARTHER Power Cores">ARTHER Energiekerne</string>
@@ -336,18 +336,18 @@
     <string name="ARTHER Power Panel">ARTHER Solarpanalen</string>
     <string name="ARTHER Battery Core">ARTHER Batteriekern</string>
     <string name="ARTHER Battery Cores">ARTHER Batteriekerne</string>
-    <string name="ARTHER Upgrade Pack">ARTHER Verbesserungspacket</string>
-    <string name="ARTHER Upgrade Packs">ARTHER Verbesserungspackete</string>
+    <string name="ARTHER Upgrade Pack">ARTHER Verbesserungspaket</string>
+    <string name="ARTHER Upgrade Packs">ARTHER Verbesserungspakete</string>
     <string name="ARTHER Dapper Hat">ARTHER adretter Hut</string><!-- Dapper shoudl be a name i guess, used it as an adjective. Other opinions needed :P -->
     <string name="ARTHER Dapper Hats">ARTHER adrette Hüte</string>
     <string name="ARTHER Dapper Monocle">ARTHER adrettes Monokel</string>
     <string name="ARTHER Dapper Monocles">ARTHER adrette Monokel</string>
     <string name="ARTHER Dapper Moustache">ARTHER adretter Schnauzbart</string>
     <string name="ARTHER Dapper Moustaches">ARTHER adrette Schnauzbärte</string>
-    <string name="ARTHER Dapper Pack">ARTHER Adrettes Packet</string>
-    <string name="ARTHER Dapper Packs">ARTHER Adrette Packe</string>
-    <string name="ARTHER Dapper Upgrade Pack">ARTHER adrettes Verbesserungspacket</string>
-    <string name="ARTHER Dapper Upgrade Packs">ARTHER adrette Verbesserungspackete</string>
+    <string name="ARTHER Dapper Pack">ARTHER Adrettes Paket</string>
+    <string name="ARTHER Dapper Packs">ARTHER Adrette Pakete</string>
+    <string name="ARTHER Dapper Upgrade Pack">ARTHER adrettes Verbesserungspaket</string>
+    <string name="ARTHER Dapper Upgrade Packs">ARTHER adrette Verbesserungspakete</string>
     <string name="ARTHER Ghost Costume">ARTHER Geisterkostüm</string>
     <string name="ARTHER Ghost Costumes">ARTHER Geisterkostüme</string>
     <string name="ARTHER Skeleton Mask">ARTHER Skelettmaske</string>
@@ -381,24 +381,24 @@
     <string name="Antimatter Drill Motor">Antimaterie Bohrantrieb</string>
     <string name="Antimatter Drill Motors">Antimaterie Bohrantriebe</string>
 	<!-- Lenses -->
-    <string name="Diamond Focusing Lens">Diamant Fokusierlinse</string>
-    <string name="Diamond Focusing Lenses">Diamant Fokusierlinsen</string>
-    <string name="Emerald Focusing Lens">Smaragd Fokusierlinse</string>
-    <string name="Emerald Focusing Lenses">Smaragd Fokusierlinsen</string>
-    <string name="Ruby Focusing Lens">Rubin Fokusierlinse</string>
-    <string name="Ruby Focusing Lenses">Rubin Fokusierlinsen</string>
-    <string name="Sapphire Focusing Lens">Saphir Fokusierlinse</string>
-    <string name="Sapphire Focusing Lenses">Saphir Fokusierlinsen</string>
-    <string name="Topaz Focusing Lens">Topas Fokusierlinse</string>
-    <string name="Topaz Focusing Lenses">Topas Fokusierlinsen</string>
-    <string name="Sugalite Focusing Lens">Sugulith Fokusierlinse</string>
-    <string name="Sugalite Focusing Lenses">Sugulith Fokusierlinsen</string>
+    <string name="Diamond Focusing Lens">Diamant Fokussierlinse</string>
+    <string name="Diamond Focusing Lenses">Diamant Fokussierlinsen</string>
+    <string name="Emerald Focusing Lens">Smaragd Fokussierlinse</string>
+    <string name="Emerald Focusing Lenses">Smaragd Fokussierlinsen</string>
+    <string name="Ruby Focusing Lens">Rubin Fokussierlinse</string>
+    <string name="Ruby Focusing Lenses">Rubin Fokussierlinsen</string>
+    <string name="Sapphire Focusing Lens">Saphir Fokussierlinse</string>
+    <string name="Sapphire Focusing Lenses">Saphir Fokussierlinsen</string>
+    <string name="Topaz Focusing Lens">Topas Fokussierlinse</string>
+    <string name="Topaz Focusing Lenses">Topas Fokussierlinsen</string>
+    <string name="Sugalite Focusing Lens">Sugulith Fokussierlinse</string>
+    <string name="Sugalite Focusing Lenses">Sugulith Fokussierlinsen</string>
     <string name="Crude Organic Lens">grobe organische Linse</string>
-    <string name="Crude Organic Focusing Lenses">grobe organische Fokusierlinsen</string>
+    <string name="Crude Organic Focusing Lenses">grobe organische Fokussierlinsen</string>
     <string name="Organic Lens">organische Linse</string>
-    <string name="Organic Focusing Lenses">organische Fokusierlinsen</string>
+    <string name="Organic Focusing Lenses">organische Fokussierlinsen</string>
     <string name="Exceptional Organic Lens">hervorragende organische Linse</string>
-    <string name="Exceptional Organic Focusing Lenses">hervorragende organische Fokusierlinsen</string>
+    <string name="Exceptional Organic Focusing Lenses">hervorragende organische Fokussierlinsen</string>
     <string name="Polished Chrome Lens">polierte Chromlinse</string>
     <string name="Polished Chrome Lenses">polierte Chromfokusierlinsen</string>
     <string name="Unfocused Polished Lens">unfokusierte polierte Linse</string>
@@ -430,9 +430,9 @@
     <string name="Cluster Missile">Schwarmrakete</string>
     <string name="Cluster Missiles">Schwarmraketen</string>
 	
-    <string name="Cryo Bomb">Cryo Bombe</string>
-    <string name="Cryo Bombs">Cryo Bomben</string>
-    <string name="Compressed Magma">komprimierte Magma</string>
+    <string name="Cryo Bomb">Cryobombe</string>
+    <string name="Cryo Bombs">Cryobomben</string>
+    <string name="Compressed Magma">komprimiertes Magma</string>
     <string name="Freezon Gas">Freezon Gas</string>
     <string name="FreezonGas">FreezonGas</string>
     <string name="Compressed Freezon Canister">Freezongaskartusche</string>
@@ -465,7 +465,7 @@
     <string name="Perfect Faceted Eyes">perfekt facettierte Augen</string>
     <string name="Massive Faceted Eye">massiv facettiertes Auge</string>
     <string name="Massive Faceted Eyes">massiv facettierte Augen</string>
-    <string name="Hive Brain Matter">Schwarinteligenz Gehirnmasse</string>
+    <string name="Hive Brain Matter">Schwarmintelligenz Gehirnmasse</string>
     <string name="Research Parts">Forschungsteile</string>
     <string name="Refined Liquid Resin">raffiniertes Flüssigharz</string>
     <string name="Spoiled Organic Remains">verdorbene organische Teile</string>
@@ -475,7 +475,7 @@
 	<!-- DESC will get added later (i guess)--><!-- -->
     <string name="Air">Luft</string>
     <string name="Air_DESC">Air_DESC</string>
-    <string name="Grass">Grass</string>
+    <string name="Grass">Gras</string>
     <string name="Grass_DESC">Grass_DESC</string>
     <string name="Rock">Stein</string>
     <string name="Rock_DESC">Rock_DESC</string>
@@ -535,7 +535,7 @@
     <string name="Fallen Leaves_DESC">Fallen Leaves_DESC</string>
     <string name="Field">Feld</string>
     <string name="Field_DESC">Field_DESC</string>
-    <string name="Copy Paste">Kopieren einfügen</string><!-- like Ctrl C, Ctrl V, or paste thats copiing something?-->
+    <string name="Copy Paste">Kopieren/Einfügen</string><!-- like Ctrl C, Ctrl V, or paste thats copiing something?-->
     <string name="Copy Paste_DESC">Copy Paste_DESC</string>
     <string name="Electric Light(old)">elektrisches Licht (alt)</string>
     <string name="Electric Light(old)_DESC">Electric Light(old)_DESC</string>
@@ -656,7 +656,7 @@
     <string name="Copper Ore_DESC">Copper Ore_DESC</string>
     <string name="Tin Ore">Zinnerz</string>
     <string name="Tin Ore_DESC">Tin Ore_DESC</string>
-    <string name="Chromium Ore">CHromerz</string>
+    <string name="Chromium Ore">Chromerz</string>
     <string name="Chromium Ore_DESC">Chromium Ore_DESC</string>
     <string name="Molybdenum Ore">Molybdänerz</string>
     <string name="Molybdenum Ore_DESC">Molybdenum Ore_DESC</string>
@@ -706,7 +706,7 @@
     <string name="Neon Core_DESC">Neon Core_DESC</string>	<!-- -->
     <string name="Ivy">Efeu</string>
     <string name="Ivy_DESC">Ivy_DESC</string>
-    <string name="Metal Siding 1">metal Gehsteig 1</string>
+    <string name="Metal Siding 1">Metall Gehsteig 1</string>
     <string name="Metal Siding 1_DESC">Metal Siding 1_DESC</string>
     <string name="GlassBlock">Glassblock</string>
     <string name="GlassBlock_DESC">GlassBlock_DESC</string>
@@ -794,7 +794,7 @@
     <string name="Ruby Crystal_DESC">Ruby Crystal_DESC</string>
     <string name="Sapphire Crystal">Sapphirkristall</string>
     <string name="Sapphire Crystal_DESC">Sapphire Crystal_DESC</string>
-    <string name="Topaz Crystal">Topazkristal</string>
+    <string name="Topaz Crystal">Topazkristall</string>
     <string name="Topaz Crystal_DESC">Topaz Crystal_DESC</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
     <string name="Sugalite Crystal_DESC">Sugalite Crystal_DESC</string>
@@ -1038,7 +1038,7 @@
     <string name="Motorised Conveyor_DESC">Motorised Conveyor_DESC</string>
     <string name="Research Station">Forschungsstation</string>
     <string name="Research Station_DESC">Research Station_DESC</string>
-    <string name="Forced Induction">Induktionseinheit</string><!-- it means just Inductionunit as the Forced part is kinda hart to describe (just unsing erzwungenen Induktion woudl be an option, would sound silly tho)-->
+    <string name="Forced Induction">Induktionseinheit</string><!-- it means just Inductionunit as the Forced part is kinda hart to describe (just using erzwungenen Induktion would be an option, would sound silly tho)-->
     <string name="Forced Induction_DESC">Forced Induction_DESC</string>
     <string name="MK2 Forced Induction">MK2 Induktionseinheit</string>
     <string name="MK2 Forced Induction_DESC">MK2 Forced Induction_DESC</string>
@@ -1186,7 +1186,7 @@
     <string name="Missile Turret MK3_DESC">Missile Turret MK3_DESC</string>
     <string name="Missile Turret MK4">Raketenturm MK4</string>
     <string name="Missile Turret MK4_DESC">Missile Turret MK4_DESC</string>
-    <string name="The Itano">The Itano</string><!-- its somethign like a multimissile launcher but no idea how to translate that-->
+    <string name="The Itano">The Itano</string><!-- its something like a multimissile launcher but no idea how to translate that-->
     <string name="The Itano_DESC">The Itano_DESC</string>
     <string name="Basic Missile Assembler(OLD)">Raketenmontage (ALT)</string>
     <string name="Basic Missile Assembler(OLD)_DESC">Basic Missile Assembler(OLD)_DESC</string>
@@ -1272,9 +1272,9 @@
     <string name="Fusion Reactor Monitor_DESC">Fusion Reactor Monitor_DESC</string>
     <string name="Geothermal Generator">Geothermalgenerator</string>
     <string name="Geothermal Generator_DESC">Geothermal Generator_DESC</string>
-    <string name="Heat Conducting Pipe">wärmeleit Rohr</string><!-- Not optimal-->
+    <string name="Heat Conducting Pipe">wärmeleitendes Rohr</string><!-- Not optimal-->
     <string name="Heat Conducting Pipe_DESC">Heat Conducting Pipe_DESC</string>
-    <string name="MB Ore Extractor Drill">mehrteiliger Erzfürdererbohrer</string>
+    <string name="MB Ore Extractor Drill">mehrteiliger Erzfördererbohrer</string>
     <string name="MB Ore Extractor Drill_DESC">MB Ore Extractor Drill_DESC</string>
     <string name="MB Ore Extractor Motor">mehrteiliger Erzfürdererantrieb</string>
     <string name="MB Ore Extractor Motor_DESC">MB Ore Extractor Motor_DESC</string>
@@ -1282,7 +1282,7 @@
     <string name="Server Monitor_DESC">Server Monitor_DESC</string>
     <string name="Basic Missile Assembler">einfache Raketenmontage</string>
     <string name="Basic Missile Assembler_DESC">Basic Missile Assembler_DESC</string>
-    <string name="Organic Reassembler">orginischer rekombinierer</string>
+    <string name="Organic Reassembler">organischer Rekombinierer</string>
     <string name="Organic Reassembler_DESC">Organic Reassembler_DESC</string>
     <string name="Coal Enricher">Kohleanreicherer</string>
     <string name="Coal Enricher_DESC">Coal Enricher_DESC</string>
@@ -1332,7 +1332,7 @@
     <string name="Steel Alloy Smelter_DESC">Steel Alloy Smelter_DESC</string>
     <string name="Advanced Machine Block Assembler">fortgeschrittene Maschinenblockmontage</string>
     <string name="Advanced Machine Block Assembler_DESC">Advanced Machine Block Assembler_DESC</string>
-    <string name="Imbued Machine Block Assembler">durchtränke Maschinenblockmontage</string>
+    <string name="Imbued Machine Block Assembler">durchtränkte Maschinenblockmontage</string>
     <string name="Imbued Machine Block Assembler_DESC">Imbued Machine Block Assembler_DESC</string>
     <string name="Lens Polisher">Linsenpolierer</string>
     <string name="Lens Polisher_DESC">Lens Polisher_DESC</string>
@@ -1377,15 +1377,15 @@
     <string name="Casting Pipe (Bend)">gebogenes Gussrohr</string>
     <string name="Casting Pipe (Bend)_DESC">Casting Pipe (Bend)_DESC</string>
 	
-    <string name="Refinery Reactor Vat Component">Reffineriekesselkomponente</string>
+    <string name="Refinery Reactor Vat Component">Raffineriekesselkomponente</string>
     <string name="Refinery Reactor Vat Component_DESC">Refinery Reactor Vat Component_DESC</string>
     <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
     <string name="Jet Turbine Generator Housing_DESC">Jet Turbine Generator Housing_DESC</string>
     <string name="Jet Turbine Generator Intake">Turbinengeneratorlufteinlass</string>
     <string name="Jet Turbine Generator Intake_DESC">Jet Turbine Generator Intake_DESC</string>
-    <string name="Laboratory Component">Laborkomponennte</string>
+    <string name="Laboratory Component">Laborkomponente</string>
     <string name="Laboratory Component_DESC">Laboratory Component_DESC</string>
-    <string name="Orbital Energy Transmitter Component">Orbitalererngieübertrager</string>
+    <string name="Orbital Energy Transmitter Component">Orbitalerergieübertrager</string>
     <string name="Orbital Energy Transmitter Component_DESC">Orbital Energy Transmitter Component_DESC</string>
     <string name="MK4 Battery Component">MK4 Batteriekomponente</string>
     <string name="MK4 Battery Component_DESC">MK4 Battery Component_DESC</string>
