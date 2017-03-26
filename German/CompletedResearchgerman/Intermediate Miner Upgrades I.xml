@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 3</Handle>
+	<Title>Intermediate Miner Upgrades I</Title>
+	<Icon>Ore Smelter</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Intermediate Miner Upgrades I</Text>
+				</Title>
+				<Icon>
+					<Name>Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We have successfully designed a new Ore Smelter. This will require some advanced materials not found near the surface.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

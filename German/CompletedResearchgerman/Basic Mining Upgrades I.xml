@@ -1,0 +1,53 @@
+<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Basic Mining Upgrades I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Mining Upgrades I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We have successfully researched a number of upgrades to improve our resource collection capability.</Text>
+				</Paragraph>
+				<Header><Text>Basic Ore Smelter</Text></Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We can now construct a basic ore smelter. This does not support any upgrades and is slower and less efficient than the regular smelter supplied with the outpost pod but it should help eliminate that bottleneck for now.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Most of the resources we have found near the surface are not well suited for constructing ore smelters, however scans have shown some small rock formations which may have the properties required.</Text>
+				</Paragraph>
+				<Header><Text>Forced Induction</Text></Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Forced induction modules can be placed on top of regular smelters to improve the smelting rate at the cost of more power. The basic smelter doesn't support these.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Drill Motors</Text></Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Drill motors can be inserted into an ore extractor to improve their extraction speed at the cost of more power.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Local Life Forms</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Local Life Forms</Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This planet appears to contain a variety of plant and animal life, not all of it friendly.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Scanners are detecting a number of flying lifeforms nearby which pose a potential risk. Designs for a Threat Scanner are available to monitor their progress. We should also investigate setting up some base defenses. Potentially more concerning we have detected a number of large organic structures underground which could interfere with our efforts to secure a reliably supply of resources.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
