@@ -1,0 +1,47 @@
+<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>The Frozen Factory!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Local Life Forms</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>TNow this research is completed, we can progress onto build the Cold Cavern Climate Control Centre (CCCCC or C5 for short!). We'll need to build this machine in the Cold Cavern, feed it power, and then it should just simply, slowly, convert the cavern into a wonderful balmy area, where we can setup properly and await rescue.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>This new machine is significantly more advanced (and fragile!) than the old CPH - we should be able to design, research and build much larger, faster and more complicated mining and resource machines. First of all, we're going to need some more advanced materials, and for this, we'll need a special machine to deal with the super-hardened ores.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>If we construct the Hard Rock Grinder on a suitable 3x3 piece of Chromium and Molybdenum, we should be able to construct a new type of drill. Nano-disintegrators will be ideal for making the flat surface needed.</Text>  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
