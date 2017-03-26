@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Local Life Forms</Handle>
+	<Title>Local Life Forms</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lokale Lebensformen/Text>
+				</Title>
+				<Icon>
+					<Name>Local Life Forms</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Planet beherbergt Leben in pflanzlicher und tierischer Form. Nicht alle von Ihnen sind uns freundlich gesinnt!!</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Unsere Scanner erkennen eine Reihe von fliegenden Lebensformen in der Nähe, die ein potentielles Risiko darstellen! Die Pläne für einen Bedrohungs-Scanner stehen dazu bereit diese Schwärme zu überwachen. Was aber noch weit beängstigender ist, sind die von uns detektierten unterirdischen Lebenszeichen, welche auf große Organische Strukturen schließen lassen. Sie könnten unseren Plänen zur Ressourcenversorgung der Basis im Wege stehen. </Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

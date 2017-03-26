@@ -1,0 +1,38 @@
+<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Power Grid</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energienetz</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben nun neue Möglichkeiten Energie zu produzieren und zu transportieren. Diese Forschung hat auch neue Verbesserungen für ARTHER und eine neue Technologie zur Folge, den Materie-Teleporter</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Pyrothermic Generator</Text></Header>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dieser Generator konvertiert brennbare Ressourcen eines angeschlossenen Speicher-Trichters zu nutzbarer Energie.</Text>
+				</Paragraph>
+				<Header><Text>Laser Energy Transmitter</Text></Header>
+				<Icon>
+					<Name>Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Neben Energiespeicher oder Generator platzieren, um Energie bis zu einer Entfernung von 64m zu transportieren. Mögliche Empfänger sind Energiespeicher, Verbraucher und weitere Transmitter. Dies kann dazu genutzt werden, die tiefer liegenden Minen mit Energie zu versorgen.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

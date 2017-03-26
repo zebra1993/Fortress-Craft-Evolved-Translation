@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>advanced research</Handle>
+	<Title>Advanced Research</Title>
+	<Icon>Laboratory Component</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittene Forschung
+				<Icon>
+					<Name>Laboratory Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben nun die Pläne für das Forschungslabor, und das erforderliche Zubehör, um es mit Experimenten zu versorgen.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Das Laboratorium ist für die Erforschung von fortschrittlicher Technologie erforderlich. Dies ermöglicht die Nutzung weiterer neuer Rezepte und Forschungen. Es sind insgesamt 27 Labor-Komponenten erforderlich. Konfiguration 3x3x3 ( 3 Stapel mit je 9 Komponenten ) </Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>For more information on using the laboratory please refer the following guide:</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research Guide</Text>
+				</Link>				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
