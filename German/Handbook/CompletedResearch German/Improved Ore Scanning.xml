@@ -1,0 +1,31 @@
+<Chapter>
+	<Handle>ore pings</Handle>
+	<Title>Improved Ore Scanning</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Improved Ore Scanning</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit's self crafting capability (C).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Place the ore ping filter into your hotbar, select it, then activate (LMB). This will feed it into the ore scanner and a filtered ping will be dispatched by the ore scanner. The filter is consumed.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL><!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

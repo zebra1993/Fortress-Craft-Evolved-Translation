@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Suit Upgrading</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserter Raumanzug</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Mit einigen kleinen Anpassungen sollte es uns möglich sein, nützliche Module für unseren Raumanzug herzustellen. Allen voran die tragbaren Solarzellen und eine verbesserte Heizung um diesen unwirtlichen Temperaturen besser trotzen zu können. Dazu müssen wir allerdings zuerst eine Wasserstrahl-Schneidemaschine.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Um ein Modul für deinen Raumanzug zu verwenden behalte es einfach in deinem Inventar.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

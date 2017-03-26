@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Advanced Logistics</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserte Logistik</Text>
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben nun ein neues Massenspeichersystem und einen Roboterarm zum bewegen von Erz zwischen Förderbändern.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

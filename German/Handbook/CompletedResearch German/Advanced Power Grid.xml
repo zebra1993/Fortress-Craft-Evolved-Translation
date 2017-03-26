@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T3 Power</Handle>
+	<Title>Advanced Power Grid</Title>
+	<Icon>Advanced Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittenes Energienetz</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben unser Energienetz weiter verbessert. Ein neuer Speicherblock und neue Energietransmitter sind nun verfügbar.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Wir haben auch einige Entwürfe für einen völlig neuartigen Typ von Generator. Allerdings benötigen wir für diese Forschung eine dichtere Energiequelle als Kohle, auf die wir nach wie vor angewiesen sind.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

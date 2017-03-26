@@ -1,0 +1,53 @@
+<Chapter>
+	<Handle>mining upgrade 1</Handle>
+	<Title>Basic Mining Upgrades I</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bergbau I</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben erfolgreiche eine Reihe von Verbesserungen erforscht, um unsere Ressourcenerzeugung zu erhöhen.</Text>
+				</Paragraph>
+				<Header><Text>Basic Ore Smelter</Text></Header>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir können jetzt einfache Schmelzen errichten. Einfache Schmelzen unterstützen keine Zwangs-Induktoren, sind langsamer und weniger effizient als die normalen Schmelzen. Es sollte dennoch dabei helfen diesen Flaschenhals zu beseitigen</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Die meisten Ressourcen die wir nahe der Oberfläche gefunden haben, eignen sich nicht für den Bau von normalen Schmelzen, doch haben einige Scans ergeben, dass einige Felsformationen in der Umgebung die gewünschten Eigenschaften haben können.</Text>
+				</Paragraph>
+				<Header><Text>Forced Induction</Text></Header>
+				<Icon>
+					<Name>Forced Induction</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Zwangsinduktoren können auf normalen Schmelzen platziert werden, um die Schmelzrate zu verbessern. Der Stromverbrauch steigt dabei enorm an. Einfache Schmelzen unterstützen keine Zwangsinduktion.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header><Text>Drill Motors</Text></Header>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Erzbohrer können mit verbesserten Motoren ausgestattet werden, um die Extraktionsgeschwindigkeit zulasten der Energiekosten zu erhöhen..</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

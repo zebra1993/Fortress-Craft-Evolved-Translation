@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>Base Defence</Handle>
+	<Title>Base Defence</Title>
+	<Icon>>ARTHER Turret</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Stützpunkt Verteidigung</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir können diesem Planeten nun die Demokratie bringen!</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Die Forschung war erfolgreich! Wir verfügen nun über drei verschiedene Türme zur Herstellung. Das ARTHER-Geschütz ist energieeffizient und hat eine lange Reichweite, muss aber von ARTHER betrieben werden. Besonders geeignet wenn sonst keine Verteidigung vorhanden ist, und erst Ressourcen für die Verteidigungstürme gesammelt werden müssen.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
