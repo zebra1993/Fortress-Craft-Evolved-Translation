@@ -1,0 +1,59 @@
+<Chapter>
+	<Handle>unknown materials</Handle>
+	<Title>Unknown Materials</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Unbekannte Materialien</Text>
+				</Title>
+				<Header>
+					<Text>Was sind Unbekannte Materialien?</Text>
+				</Header>
+				<Icon>
+					<Name>Unknown</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Zu Beginn sind alle Materialien auf dem Planeten unbekannt. Diese tauchen im Inventar, mit einem Fragezeichen markiert, auf. Bevor man sie für irgendetwas verwenden kann, müssen sie Identifiziert werden. Nach dem Abbauen oder durch das Scannen der Materialien mit dem Scanner (RMT: Block Scannen), müssen diese zum Identifizieren zur Forschungsstation gebracht werden. Erst wenn die Materialien bekannt sind, können sie weiterverarbeitet oder benutzt werden.				</Text>
+				</Paragraph>
+				<Header>
+					<Text>Identifizieren von Unbekannten Materialien</Text>
+				</Header>
+				<Paragraph>
+					<Text>Damit in der Forschungsstation Materialien identifiziert werden können, findet man diese nach der Entdeckung unter dem Reiter "Scans" . Dort steht auch , wie viele Forschungspunkte man für dieses Material erhält. Ebenso die Menge an Energie die erforderlich ist für die Identifikation. 
+Durch drücken des "Process" Knopf wir die erforderliche Energie abgezogen , und die Menge an Forschungspunkten gutgeschrieben. Diese können dazu verwendet werden , neue Maschinen und Rezepte feizuschalten. Diese findest du im zweiten und dritten Karteireiter der Forschungsstation.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Fortschritt</Text>
+				</Header>
+				<Paragraph>
+					<Text>Sind die neuen Materialien identifiziert, können damit neue Maschinen, Rezepte und Projekte freigeschalten werden.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Unbekannte Materialien identifizieren ist der beste Weg um an Forschungspunkte zu gelangen. Je mehr wir von dieser fremden blockartigen Welt verstehen, desto besser können wir uns ausgerüsten, größere und bessere Maschinen bauen, unsere Chance zum überleben erhöhen und dann endlich fliehen !!!</Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Bitte lest die Hilfe der Forschungsstation für weitere Infomationen.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<Page>0</Page>
+						<Material>Research Station</Material>
+					</Target>
+					<Text>Forschungsstation</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
+<!-- Translated by Tropic62  -->
+<!-- in the Chapter "Identifizieren von Unbekannten Materialien " we talk about the Scan Tab and the Process Button. If the name of them got changed we need to do it here also-->
