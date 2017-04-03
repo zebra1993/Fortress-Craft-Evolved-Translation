@@ -519,7 +519,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Einfache, unkomplizierte Lösung wenig Energie an viele Maschienen zu verteilen. Aufgebaut in einer 5x5 Platte.</Description>
-		<Hint>Great for Missile Batteries, Booster Chargers and Resin Refinery setups!</Hint><!-- Spoilers honey -->
+		<Hint>Grossartig für Raketenbatterien, Energiekernlader und Raffinierien und Harzveredelungen!</Hint><!-- Spoilers honey -->
 		<ResearchRequirements>
 			<Research>T2 Power</Research>
 		</ResearchRequirements>
@@ -1122,7 +1122,7 @@
 				<Amount>10</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nutze dies um dich zu erinner was du tun wolltest.</Description>
+		<Description>Nutze dies um dich zu erinnern was du tun wolltest.</Description>
 		<Hint>Vielen Dank an die Patreonunterstütze welche das ganze zum Leben gebracht haben!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
@@ -1156,7 +1156,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Eine leicht stärkere Wand für deine Basis.</Description>
-		<Hint>Warnung: Verbraucht Holzbretter!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Warnung: Verbraucht 8 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
@@ -1172,7 +1172,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Schwaches Fenster mit Holzrahmen.</Description>
-		<Hint>Verbraucht Holzbretter!</Hint>
+		<Hint>Verbraucht 1 Holzbrett!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
@@ -1207,7 +1207,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Genutzt um Gefahrenzonen zu markieren.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
@@ -1223,7 +1223,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Genutzt um Gefahrenzonen zu markieren.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	<CraftData>
@@ -1271,7 +1271,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Weisse Leinwand, kann mit dem Farbwerkzeug [N] eingefärbt werden.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -1290,7 +1290,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Rote Leinwand zur Dekoration der Basis.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -1308,7 +1308,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Blaue Leinwand zur Dekoration der Basis.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -1326,7 +1326,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Grüne Leinwand zur Dekoration der Basis.</Description>
-		<Hint>Achtung: verbraucht 1 Rohgehauenen Stein!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
+		<Hint>Achtung: verbraucht 1 Paste!</Hint><!-- Verbraucht Paste, ist aber by default so drin-->
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
 		</ResearchRequirements>
@@ -1353,7 +1353,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Schelzt Erz in Barren. Kann manuell oder automatisch mit Lagertrichtern versorgt werden. Siehe Handbucheintrag für mehr Infos. Kann verbessert werden.</Description>
-		<Hint>T2 Gegenstand. nutze diesen in deiner Basis für den Anfang!</Hint>
+		<Hint>T2 Gegenstand. Nutze diesen in deiner Basis für den Anfang!</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 3</Research><!-- can you just scan it if I do thish-->
 		</ResearchRequirements>
@@ -1554,7 +1554,7 @@
 			<Research>T4 ore extracting</Research>
 			<Research>mining upgrade 5</Research>
 		</ResearchRequirements>
-		<Description>Wir auf normalem Schmelzofen platziet um T4 Erze zu schmelzen. MINDERT die Geschwindigkeit um 400%, Energieverbrauch: Unbekannt.</Description>
+		<Description>Wird auf normalem Schmelzofen platziet um T4 Erze zu schmelzen. MINDERT die Geschwindigkeit um 400%, Energieverbrauch: Unbekannt.</Description>
 		<Hint>Nutze dies um das erste Strangussbecken zu bauen.</Hint>
 		<ResearchCost>4</ResearchCost>
 	</CraftData>
@@ -2166,8 +2166,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Sendet Rescourcen von einem angrenzenden Lagertricher zu einem, bis zu 64m entferten, anderen Trichter. Braucht freie Sicht zum Ziel. An Wand anbringen um Senkrecht zu Senden. Schnell aber Energiehungrig.</Description>
-		<Hint>Schneller Transport, hohe Energie kosten
-		</Hint>
+		<Hint>Schneller Transport, hohe Energie kosten</Hint>
 		
 		<ResearchRequirements>
 			<Research>T2 Power</Research><!-- maybe higher tier-->
@@ -2280,12 +2279,8 @@
 				<Amount>15</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Verschiebt Tritcherinhalte zwischen diesen, basierund auf den gesetzen Berechtigungn.
-		
-		Billig und hässlich, dafür verlässlich*
-		*Nicht wirklich verlässlich.</Description>
-		<Hint>Billig und hässlich, dafür verlässlich*
-		*Nicht wirklich verlässlich.</Hint>
+		<Description>Verschiebt Tritcherinhalte zwischen diesen, basierund auf den gesetzen Berechtigungn.\nBillig und hässlich, dafür verlässlich* \n *Nicht wirklich verlässlich.</Description>
+		<Hint>Billig und hässlich, dafür verlässlich* \n *Nicht wirklich verlässlich.</Hint>
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research><!-- it's so awful, let's just almost-hide it-->
 		</ResearchRequirements>
@@ -2353,7 +2348,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Sellemt automatisch Gegenstände von FALCOR Leuchtfeuern, welche auf Lagertrichtern plaziert wurden.</Description>
+		<Description>Sammelt automatisch Gegenstände von FALCOR Leuchtfeuern, welche auf Lagertrichtern plaziert wurden.</Description>
 		<Hint>Ideal für Transport von kleinen Mengen über grosse Distanz.</Hint>
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
@@ -2402,7 +2397,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Stellt Cryobomben her.</Description>
-		<Hint>Bomben müssen in angrenzendem Lagertrichter sein.</Hint>
+		<Hint>Explosive Eilliefering für Cryoplasma.</Hint> <!--Original translation: Bomben müssen in angrenzendem Lagertrichter sein. -->
 		<ResearchRequirements>
 			<Research>T4defence4</Research>
 		</ResearchRequirements>
@@ -2620,7 +2615,7 @@
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Einfacherweg leere Treibstoffkanister herzustellen.</Description>
+		<Description>Einfacher Weg leere Treibstoffkanister herzustellen.</Description>
 		<Hint>Super für Teibstoff!</Hint>
 		<ResearchRequirements>
 			<Research>biomass</Research>
@@ -3388,7 +3383,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>1</ResearchCost>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 	</CraftData>
 		
@@ -3408,7 +3403,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3431,7 +3426,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3454,7 +3449,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3481,7 +3476,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3508,7 +3503,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3527,7 +3522,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität..</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität..</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3558,7 +3553,7 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Description>
+		<Description>Eine einfache Holzkiste um eine kleine Menge an Gegenständen zu lagern. Kann nicht automatisiert werden. Verbinden von mehreren Kisten erhöht die Lagerkapazität.</Description>
 		<Hint>Verbinden von mehreren Kisten erhöt die Lagerkapazität.</Hint>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -3816,8 +3811,8 @@
 			<Research>T3 Power</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>Gehäusebestandzeil für Turbinen. Verbrennt Hochenergietreibstoff um eine Turbine anzutreiben und um viel Energie zu produzieren. Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lifteinlass an Front montieren.</Description>
-		<Hint>Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lifteinlass an Front montieren.</Hint>
+		<Description>Gehäusebestandzeil für Turbinen. Verbrennt Hochenergietreibstoff um eine Turbine anzutreiben und um viel Energie zu produzieren. Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lufteinlass an Front montieren.</Description>
+		<Hint>Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lufteinlass an Front montieren.</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>jet turbine intake</Key>
@@ -4079,7 +4074,7 @@
 				<Amount>16</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Erinnerst du dich an den Feuerdorn den du germahlen hast? Du brauchst jetzt welche.</Description>
+		<Description>Erinnerst du dich an die Baubleberrys welche du zermahlen hast? Du brauchst jetzt welche.</Description>
 		<Hint>Dooo-OOOOO-ooooot!</Hint>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -4299,8 +4294,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Selbstzündende Chlorgas Minen welche es erlauben Cryoplasma freie Gebiete zuerhalten.</Description>
-		<Hint>Nicht. Ein. Atmen. Ok?</Hint>
+		<Description>Selbstauslösende Chlorgas Minen welche es erlauben Cryoplasma freie Gebiete zuerhalten.</Description>
+		<Hint>Nicht. Einatmen. Ok?</Hint>
 		<ResearchRequirements>
 			<Research>T4defence3</Research>
 		</ResearchRequirements>
@@ -4525,8 +4520,8 @@
 			<Research>alloys</Research>
 		</ResearchRequirements>
 		<ResearchCost>5</ResearchCost>
-		<Description>Insert into an ore extractor to improve efficiency to 20% reducing the amount of ore wasted. Wears out slowly. Also allows the harvesting of tougher materials.</Description>
-		<Hint>Higher efficiency means an extractor can last longer on an ore vein. It does not increase extraction speed.</Hint>
+		<Description>In Erzförderer einfügen um die Födereffizienz auf 20% zu erhöhen. Wird langsam verbraucht. Erlaubt es zudem härtere Materialien zu fördern.</Description>
+		<Hint>Höhere Effizient bedeutet das der Förderer länger an einer Ader arbeiten kann. Erhöht nicht die Fördergeschwindigkeit.</Hint>
 	</CraftData>	
 	
 	<CraftData>
@@ -4552,8 +4547,8 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Insert into an ore extractor to improve efficiency to 30% reducing the amount of ore wasted. Wears out quickly. Also allows the harvesting of tougher materials.</Description>
-		<Hint>The Crystal head is more efficient, but wears out quicker.</Hint>
+		<Description>In Erzförderer einfügen um die Födereffizienz auf 30% zu erhöhen. Wird langsam verbraucht. Erlaubt es zudem härtere Materialien zu fördern.</Description>
+		<Hint>Der Kristallkopf ist effizienter, wird aber schneller verbraucht.</Hint>
 	</CraftData>	
 	
 	<CraftData>
@@ -4580,8 +4575,8 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Insert into an ore extractor to improve efficiency to 50% reducing the amount of ore wasted. Wears out quickly. Also allows the harvesting of tougher materials.</Description>
-		<Hint>The Organic head is more efficient, but wears out quicker.</Hint>
+		<Description>In Erzförderer einfügen um die Födereffizienz auf 50% zu erhöhen. Wird langsam verbraucht. Erlaubt es zudem härtere Materialien zu fördern.</Description>
+		<Hint>Der Organischekopf ist effizienter, wird aber schneller verbraucht.</Hint>
 	</CraftData>	
 	
 	<CraftData>
@@ -4600,8 +4595,8 @@
 		<ScanRequirements>
 			<Scan>DiamondCrystal</Scan>
 		</ScanRequirements>
-		<Description>Insert into a Laser Power Transmitter to increase speed by 15%.</Description>
-		<Hint>Increases laser transmission speed by 15%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 15% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 15%</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>emerald lense</Key>
@@ -4619,8 +4614,8 @@
 		<ScanRequirements>
 			<Scan>EmeraldCrystal</Scan>
 		</ScanRequirements>
-		<Description>Insert into a Laser Power Transmitter to increase speed by 30%.</Description>
-		<Hint>Increases laser transmission speed by 30%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 30% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 30%</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>ruby lense</Key>
@@ -4638,8 +4633,8 @@
 		<ScanRequirements>
 			<Scan>RubyCrystal</Scan>
 		</ScanRequirements>
-		<Description>Insert into a Laser Power Transmitter to increase speed by 50%.</Description>
-		<Hint>Increases laser transmission speed by 50%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 50% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 50%</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>sapphire lense</Key>
@@ -4657,8 +4652,8 @@
 		<ScanRequirements>
 			<Scan>SapphireCrystal</Scan>
 		</ScanRequirements>
-		<Description>Insert into a Laser Power Transmitter to increase speed by 90%.</Description>
-		<Hint>Increases laser transmission speed by 90%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 90% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 90%</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>topaz lense</Key>
@@ -4676,8 +4671,8 @@
 		<ScanRequirements>
 			<Scan>TopazCrystal</Scan>
 		</ScanRequirements>		
-		<Description>Insert into a Laser Power Transmitter to increase speed by 150%.</Description>
-		<Hint>Increases laser transmission speed by 150%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 150% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 150%</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>sugalite lense</Key>
@@ -4695,8 +4690,8 @@
 		<ScanRequirements>
 			<Scan>SugaliteCrystal</Scan>
 		</ScanRequirements>
-		<Description>Insert into a Laser Power Transmitter to increase speed by 200%.</Description>
-		<Hint>Increases laser transmission speed by 200%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 200% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 200%</Hint>
 	</CraftData>
 	
 	
@@ -4719,8 +4714,8 @@
 			<Research>Anthropological Osteology</Research>
 		</ResearchRequirements>
 
-		<Description>Insert into a Laser Power Transmitter to increase speed by 25%.</Description>
-		<Hint>Increases laser transmission speed by 25%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 25% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 25%</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -4742,8 +4737,8 @@
 			<Research>Anthropological Osteology</Research>
 		</ResearchRequirements>
 
-		<Description>Insert into a Laser Power Transmitter to increase speed by 100%.</Description>
-		<Hint>Increases laser transmission speed by 100%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 100% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 100%</Hint>
 	</CraftData>
 	
 	<CraftData>
@@ -4765,8 +4760,8 @@
 			<Research>Anthropological Osteology</Research>
 		</ResearchRequirements>
 
-		<Description>Insert into a Laser Power Transmitter to increase speed by 250%.</Description>
-		<Hint>Increases laser transmission speed by 250%</Hint>
+		<Description>In Laserenergieübertrager einfügen um Geschwindigkeit um 250% zu erhöhen.</Description>
+		<Hint>Erhöht Laserübertragungsgeschwindigkeit um 250%</Hint>
 	</CraftData>
 
 	<!-- Components for crafting (currently stuck in T4) -->
@@ -4785,8 +4780,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>2</ResearchCost>
-		<Description>Bevelled gear, used in various motors and joints.</Description>
-		<Hint>Bevelled as it's quieter!</Hint>
+		<Description>Abgeschrägtes Zahnrad, in verschiedenen Motoren und Gelenken zu finden.</Description>
+		<Hint>Abgeschrägt da es leiser läuft!</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -4808,8 +4803,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>0</ResearchCost>
-		<Description>Empty fuel canister. Be green - recyle where possible!</Description>
-		<Hint>Be green - recyle after use!</Hint>
+		<Description>Leerer Treibstoffkanister. Sei Grün - Wiederverwertung wo möglich!</Description>
+		<Hint>Sei Grün - Wiederverwerten nach gebrauch!</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 2</Research>
 		</ResearchRequirements>
@@ -4827,8 +4822,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>4</ResearchCost>
-		<Description>Accurate and fast motor.</Description>
-		<Hint>Minimal torque.</Hint>
+		<Description>Genauer und schneller Motor.</Description>
+		<Hint>Minimales Drehmoment.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -4846,8 +4841,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>A small metal box, used in lightweight objects.</Description>
-		<Hint>Not to be used for heavy-duty machines!</Hint>
+		<Description>kleines Metalgehäuse welches in leichten Objekten verwendet wird.</Description>
+		<Hint>Kann nicht für schwere Nutzung gedacht!</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -4869,8 +4864,8 @@
 				<Amount>24</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.</Description>
-		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+		<Description>Ein ineffizienter Weg diese Blöcke herzustellen. Automation kann effizienter sein als die Blöcke vonhand herzustellen. Hint hint.</Description>
+		<Hint>Diese Blöcke sind in grossen Mengen gebraucht. Es wird stark angeraten sie zu automatisieren!</Hint>
 			<ResearchRequirements>
 			<Research>alloys</Research>
 		</ResearchRequirements>
@@ -4892,8 +4887,8 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.</Description>
-		<Hint>These are used extensively, and it is highly recommended you automate these!</Hint>
+		<Description>Ein ineffizienter Weg diese Blöcke herzustellen. Automation kann effizienter sein als die Blöcke vonhand herzustellen. Hint hint.</Description>
+		<Hint>Diese Blöcke sind in grossen Mengen gebraucht. Es wird stark angeraten sie zu automatisieren!</Hint>
 			<ResearchRequirements>
 			<Research>alloys</Research>
 		</ResearchRequirements>
@@ -4915,8 +4910,8 @@
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Mass Storage Facility. Place on a horizontal plane. Use I/O ports to access the contents!</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Massenlagersystem. Wir Horizontal ausgelegt, Ein-/Ausgänge verwendem um Inhalt zu verändern!</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinput</Key>
@@ -4946,8 +4941,8 @@
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 5 of the same item; pre-sorting can massively increase efficiency.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 5 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK2</Key>
@@ -4973,8 +4968,8 @@
 		<ResearchRequirements>
 			<Research>T4 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 12 of the same item; pre-sorting can massively increase efficiency.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 12 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK3</Key>
@@ -5004,8 +4999,8 @@
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 25 of the same item; pre-sorting can massively increase efficiency.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 25 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutput</Key>
@@ -5035,8 +5030,8 @@
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Removes the specified type of item from the Mass Storage Facility. Removes 5 per trip.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entfernt spezifischen Gegenstand aus dem Masselager. Kann 5 Gegenstände pro Weg tragen.</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK2</Key>
@@ -5062,8 +5057,8 @@
 		<ResearchRequirements>
 			<Research>T4 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Removes the specified type of item from the Mass Storage Facility. Removes 12 per trip.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entfernt spezifischen Gegenstand aus dem Masselager. Kann 12 Gegenstände pro Weg tragen.</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK3</Key>
@@ -5093,8 +5088,8 @@
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Removes the specified type of item from the Mass Storage Facility. Removes 25 per trip.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Entfernt spezifischen Gegenstand aus dem Masselager. Kann 25 Gegenstände pro Weg tragen.</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -5117,8 +5112,8 @@
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Powers Mass Storage IO Ports.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Versorft Ein-/Ausgänge mit Energie.</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -5141,8 +5136,8 @@
 		<ResearchRequirements>
 			<Research>T6 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Powered by Mass Storage Controller.</Description>
-		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+		<Description>Energie wird duhrch die Massenlager Steuerung eingespiesen.</Description>
+		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -5170,8 +5165,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>12</ResearchCost>
-		<Description>Macerator crushes and disposes of unwanted rock. Has a small chance to produce ore. Requires power and a Storage Hopper for any ore found.</Description>
-		<Hint>Has a small chance to produce ore.</Hint>
+		<Description>Die Steinmühle derbricht und entsorgt nutzloses Gestein. Trotz kleiner Wahrscheinlichkeit findet sich zwischendurch noch brauchbare Erze. Braucht Energie und einen Lagertrichter für alfällig gefundene Erze.</Description>
+		<Hint>Hat einen geringe Wahrscheinlichkeit Erze zu finden.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5204,8 +5199,8 @@
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Automatically digs a large vertical shaft. Only digs upwards. Requires power.</Description>
-		<Hint>Does not affect ores.</Hint>
+		<Description>Gräbt automatisch einen vertikalen Schacht. Gräbt nur aufwärts. Braucht Energie.</Description>
+		<Hint>interagiert nicht mit Erzen.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -5232,8 +5227,8 @@
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Automatically digs a 33m wide, 3m tall circle.</Description>
-		<Hint>Does not affect ores.</Hint>
+		<Description>Gräbt selbstendig einen 33m weiten, 3m höhen Kreis.</Description>
+		<Hint>interagiert nicht mit Erzen.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -5260,8 +5255,8 @@
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Automatically digs a 33m wide, 3m tall circle.</Description>
-		<Hint>Does affect ores.</Hint>
+		<Description>Gräbt selbstendig einen 33m weiten, 3m höhen Kreis.</Description>
+		<Hint>interagiert mit Erzen.</Hint>
 	</CraftData>
 	
 	<!-- by all rights, this should use up 12x MK3 lasers, but they are precious beasts, and I would like to encourage the players to be able to build stuff sooner rather than later -->
@@ -5286,8 +5281,8 @@
 			<Research>T4 assist machines</Research>
 			<Research>ResinHandling</Research>
 		</ResearchRequirements>
-		<Description>Automatically and rapidly digs a 33m wide, 3m tall circle.</Description>
-		<Hint>Does affect ores.</Hint>
+		<Description>Gräbt selbstendig und in kurzer Zeit einen 33m weiten, 3m höhen Kreis.</Description>
+		<Hint>interagiert mit Erzen.</Hint>
 	</CraftData>	
 
 	<CraftData>
@@ -5318,8 +5313,8 @@
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Places items from attached Storage Hopper along cardinal directions. Why build your own conveyor lines when a machine can do it for you? Requires power.</Description>
-		<Hint>Why build your own conveyor lines when a machine can do it for you?</Hint>
+		<Description>Platziert Gegenstände welche in einem angrenzenden Lagertrichter in einer der vier Hauptrichtungen. Warum selber Förderband linien bauen wenn man sie automatischen bauen lassen kann? Braucht Energie.</Description>
+		<Hint>Warum selber Förderband linien bauen wenn man sie automatischen bauen lassen kann?</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>autoupgrader</Key>
@@ -5349,8 +5344,8 @@
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
-		<Description>Upgrades existing Conveyor Lines to a higher tier. Requires power and attached storage hopper containing new conveyors. See handbook for more restrictions.</Description>
-		<Hint>A massive time-saver!</Hint>
+		<Description>Verbessert die existierenden Förderbandlinien zu einer höheren Stufe. Braucht Eerngie und die neuen Förderbänder in einem angrenzenden Lagertrichter. Schau im Handbuch nach für genaue Infos.</Description>
+		<Hint>Eine massive Zeitersparnis!</Hint>
 	</CraftData>
 	<CraftData>
 		<Key>manufacturingplant</Key>
@@ -5377,8 +5372,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Manufacturing Plants allow automated crafting and building. Requires V2 Build Gun to move!</Description>
-		<Hint>Requires V2 Build Gun to move!</Hint>
+		<Description>Konstruktuinsanlagen erlauben automatische Produktion von Maschinen. Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden!</Description>
+		<Hint> Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden</Hint>
 		<ResearchRequirements>
 			<Research>alloys</Research>
 		</ResearchRequirements>
@@ -5403,8 +5398,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Stores a location. Use in machines that require a target such as the teleporter. See the handbook for more information.</Description>
-		<Hint>Selecting the marker on your hotbar will show its stored location</Hint>
+		<Description>Speichert einen Standort. In Maschienen verwenden welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</Description>
+		<Hint>Das Auswählen eines Markierers in der Schnellzugriffsleiste zeigt den gespeicherten Standort an.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5432,8 +5427,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Stores a location. Use in machines that require a target such as the teleporter. See the handbook for more information.</Description>
-		<Hint>Selecting the marker on your hotbar will show its stored location</Hint>
+		<Description>Speichert einen Standort. In Maschienen verwenden welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</Description>
+		<Hint>Das Auswählen eines Markierers in der Schnellzugriffsleiste zeigt den gespeicherten Standort an.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5461,8 +5456,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Stores a location. Use in machines that require a target such as the teleporter. See the handbook for more information.</Description>
-		<Hint>Selecting the marker on your hotbar will show its stored location</Hint>
+		<Description>Speichert einen Standort. In Maschienen verwenden welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</Description>
+		<Hint>Das Auswählen eines Markierers in der Schnellzugriffsleiste zeigt den gespeicherten Standort an.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5499,8 +5494,8 @@
 				<Amount>15</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>Supply a location marker and enough power to allow teleporting. Jump while on top to activate.</Description>
-		<Hint>Jump on top of the device to activate!</Hint>
+		<Description>Um teleportieren zu können müssen genug Energie und ein Standortmakierer vorhanden sein. Springen während man auf dem Teleporter steht.</Description>
+		<Hint>Springen während man auf dem Teleporter steht!</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5532,8 +5527,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>1</ResearchCost>
-		<Description>Supply power to increase explosion radius. Keeps charge when picked up. For safety we recommend you avoid charging near anything important.</Description>
-		<Hint>Requires charging with power before use!</Hint>
+		<Description>Mit Energie versorgen um Zerstörungsradius zu vergrössern. Erhält Energie wenn abgebaut. Aus Sicherheitsbedenken wird empfohlen den Sprengsatz nicht in der Nähe von irgenwas wichtigem zu laden.</Description>
+		<Hint>Braucht geladene Energie um zu funktionieren!</Hint>
 		<ResearchRequirements>
 			<Research>T3 assist machines</Research>
 		</ResearchRequirements>
@@ -5559,8 +5554,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>1</ResearchCost>
-		<Description>A single-use machine, capable of destroying anything it's placed on. USE WITH EXTREME CARE.</Description>
-		<Hint>USE-WITH-EXTREME-CARE.</Hint>
+		<Description>Eine Einwegmaschiene. Kann alles zerstören auf was sie platziert wird. EXTREME VORSICHT BEIM EINSATZ!</Description>
+		<Hint>EXTREME-VORSICHT-BEIM-EINSATZ!</Hint>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
@@ -5582,8 +5577,8 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping without power cost. Combine with an Ore in the Self-Crafting (C) menu to create specific ore pings.</Description>
-		<Hint>Combine with an Ore in the Self-Crafting (C) menu to create specific ore pings.</Hint>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet ohne Energie zu brauchen. Mit Erz kombinieren um Selbstherstellmenu (C) um einen spezifischen Erzping zu erhalten.</Description>
+		<Hint>Mit Erz kombinieren um Selbstherstellmenu (C) um einen spezifischen Erzping zu erhalten.</Hint>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5604,7 +5599,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Coal Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Kohleadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ScanRequirements>
 			<Scan>CoalOre</Scan>
 		</ScanRequirements>	
@@ -5629,7 +5624,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Iron Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Eisenadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5654,7 +5649,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Copper Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Kupferadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5679,7 +5674,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Tin Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Zinnadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5704,7 +5699,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Lithium Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Lithiumadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5729,7 +5724,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Gold Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Goldadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5754,7 +5749,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Nickel Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Nickeladern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5779,7 +5774,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Titanium Ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Titanadern zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5804,7 +5799,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show CrystalDeposit without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Ping aussendet, welcher nur Kristallvorkommen zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5829,7 +5824,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Biomass Growth without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Pinging aussendet, welcher nur Biomasseablagerungen zeigt und das ohne Energie zu brauchen.</Description>
 		<ResearchRequirements>
 			<Research>ore pings</Research>
 		</ResearchRequirements>
@@ -5855,7 +5850,7 @@
 			</CraftCost>			
 		</Costs>
 		<ResearchCost>1</ResearchCost>
-		<Description>A consumable item that generates an ore ping that will only show Hardened Resin without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Ping aussendet, welcher nur gehärtetes Harz zeigt und das ohne Energie zu brauchen.</Description>
 		
 		<ResearchRequirements>
 			<Research>ore pings</Research>
@@ -5882,7 +5877,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Chromium ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Chromadern zeigt und das ohne Energie zu brauchen.</Description>
 		
 		<ResearchRequirements>
 			<Research>ore pings</Research>
@@ -5908,7 +5903,7 @@
 				<Amount>1</Amount>
 			</CraftCost>			
 		</Costs>
-		<Description>A consumable item that generates an ore ping that will only show Molybdenum ore without power cost.</Description>
+		<Description>Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Molybdänmadern zeigt und das ohne Energie zu brauchen.</Description>
 		
 		<ResearchRequirements>
 			<Research>ore pings</Research>
@@ -5931,8 +5926,8 @@
 				<Amount>5</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Slow and efficient vertical transport. Can be upgraded using Lift Compressors.</Description>
-		<Hint>Can be upgraded using Lift Accelerators.</Hint>
+		<Description>Langsamer aber effizienter Senkrechter TRansport. Kann verbessert werden mit einem Liftkompressor.</Description>
+		<Hint>Kann verbessert werden mit einem Liftkompressor.</Hint>
 			<!--	<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements> -->
@@ -5953,8 +5948,8 @@
 				<Amount>35</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Attach to the base of the lift to allow manual control of the lift.</Description>
-		<Hint>Can be upgraded using Lift Accelerators.</Hint>
+		<Description>An Basis von Lift anbringen um Manuellesteuerung des Lifts zu ermöglichen.</Description>
+		<Hint>Kann mit Liftbeschleunigern verbessert werden.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -5979,8 +5974,8 @@
 				<Amount>25</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Attach to the base of the lift to improve lift performance. Requires power.</Description>
-		<Hint>Can be upgraded using Lift Accelerators.</Hint>
+		<Description>An Basis von Lift anbringen um die Leistung zu verbessern. Braucht Energie.</Description>
+		<Hint>Kann mit Liftbeschleunigern verbessert werden.</Hint>
 		<ResearchRequirements>
 			<Research>T1 assist machines</Research>
 		</ResearchRequirements>
@@ -6002,8 +5997,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Automatically moves a specified type of ore between conveyors.</Description>
-		<Hint>Use this to organise your ore conveyors.</Hint>
+		<Description>Bewegt selbständig einen bestimmten Typ Erz zwischen Förderbändern.</Description>
+		<Hint>Nutze dies um deine Förderbänder zu organisieren.</Hint>
 		<ResearchRequirements>
 			<Research>T5 assist machines</Research><!-- it's so awful, let's just almost-hide it-->
 		</ResearchRequirements>
@@ -6021,8 +6016,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>2</ResearchCost>
-		<Description>Copper-based housing.</Description>
-		<Hint>Use to house low-level items safely.</Hint>
+		<Description>Kupferbasiertes Gehäuse.</Description>
+		<Hint>Kann einfache Maschienen sicher behausen.</Hint>
 		<ResearchRequirements>
 			<Research>advanced research</Research>
 		</ResearchRequirements>
@@ -6048,8 +6043,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>2</ResearchCost>
-		<Description>Gives a report on available resources beneath the surveyor. Use to determine the best place for your Quarry!</Description>
-		<Hint>Use to determine the best place for your Quarry!</Hint>
+		<Description>Gibt Rückmeldung welche Rescourcen sich unter dem Vermesser sind. Wird genutzt um besten Platz für deinen Steinbruch zu finden!</Description>
+		<Hint>Wird genutzt um besten Platz für deinen Steinbruch zu finden!</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 4</Research>
 		</ResearchRequirements>
@@ -6084,8 +6079,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Returns all resources found whilst excavating the shaft.</Description>
-		<Hint>Also returns all the dirt and rock...</Hint>
+		<Description>Gibt alle Rescourcen zurück welche aus dem Schacht gefördert werden.</Description>
+		<Hint>Es gibt die ganze Erde und Gestein zurück...</Hint>
 		<ResearchRequirements>
 			<Research>mining upgrade 5</Research>
 			<Research>biomass</Research> <!-- So people don't go "What's HECF?" -->
@@ -7626,7 +7621,7 @@
 			</CraftCost>
 		</Costs>
 		<Description>Fügt einem einfachen Stahlschneidkopf Energie hinzu, um einen leistungsstärkeren Plasmaschneidkopf zu erhalten.</Description>
-		<Hint>Vervierfacht die arbeitsrate bei einem Erzförderer. Ladung hält jedoch nur 2000 Erzextraktionen.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
+		<Hint>Vervierfacht die Arbeitsrate bei einem Erzförderer. Ladung hält jedoch nur 2000 Erzextraktionen.</Hint> <!-- 100 free bars in exchange for 25,000 energy on Greg. -->
 		<ResearchRequirements>
 			<Research>mining upgrade 5</Research> <!-- Might want a secondary research after this-->
 		</ResearchRequirements>
@@ -7692,7 +7687,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Stellt den Bohrkopf von einem Trencher Bohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
+		<Description>Stellt den Bohrkopf von einem Schaufelbohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
 		<Hint>Effekivität hängt von der Abdeckung des Bohrkopfs zur Erzader ab.</Hint>
 	</CraftData>	
 
@@ -7728,7 +7723,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Stellt den Bohrkopf von einem Trencher Bohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
+		<Description>Stellt den Bohrkopf von einem Schaufelbohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
 		<Hint>Effekivität hängt von der Abdeckung des Bohrkopfs zur Erzader ab.</Hint>
 	</CraftData>	
 
@@ -7764,7 +7759,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Stellt den Bohrkopf von einem Trencher Bohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
+		<Description>Stellt den Bohrkopf von einem Schaufelbohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</Description>
 		<Hint>Effekivität hängt von der Abdeckung des Bohrkopfs zur Erzader ab.</Hint>
 	</CraftData>	
 
@@ -7792,7 +7787,7 @@
 		</ResearchRequirements>
 		
 		<ResearchCost>8</ResearchCost>
-		<Description>Stellt den Motor des Trencher Bohrers dar. Wird in einer 3x3x3 Konfiguration hinter dem Bohrkopf aufgestellt. (27 Blöcke im totalen)</Description>
+		<Description>Stellt den Antrieb des Schaufelbohrers dar. Wird in einer 3x3x3 Konfiguration hinter dem Bohrkopf aufgestellt (27 Blöcke im totalen).</Description>
 		<Hint>Akzeptiert Energie und wirft Erz vom Bohrkopf aus.</Hint>
 	</CraftData>	
 
@@ -8117,7 +8112,7 @@
 		</ResearchRequirements>
 		<ResearchCost>8</ResearchCost>
 		<Description>Lagert komprimiertes Gas welches bereit für die abfüllung ist. Wird in einer 3x3 Platte mit 7 höhe aufgebaut (63 Block in total).</Description>
-		<Hint>Diese Maschiene kann 4 Komtressoren angeschlossen haben.</Hint>
+		<Hint>Diese Maschiene kann 4 Kompressoren angeschlossen haben.</Hint>
 	</CraftData>
 
 	<CraftData>
@@ -8226,7 +8221,7 @@
 			<Research>T4_MagmaBore</Research>
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
-		<Description>Gräbt ein sehr, sehr, sehr grosses Loch und zieht Magma dadurch. Wird in einer 33x33 Platte mit 3 Höhe gebaut (3267 Blöcke Total)</Description>
+		<Description>Gräbt ein sehr, sehr, sehr grosses Loch und zieht Magma dadurch. Wird in einer 33x33 Platte mit 3 Höhe gebaut (3267 Blöcke Total). Braucht darüber 100 Blöcke Freiraum.</Description>
 		<Hint>Magma, besser als es klingt.</Hint>
 		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
@@ -8277,7 +8272,7 @@
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
 		<Description>Nutzt herangepumptes Magma um Cryoplasma spawner in Reichweite zu zerstören. Aufgebaut in einem 3x3x3 Würfel.</Description>
-		<Hint>Das Inferne braucht 15 Minuten brennzeit und darf für max 30 sekunden unterbrochen werden um volle Wirkung zu entfalten. Viel Glück.</Hint>
+		<Hint>Das Inferno braucht 15 Minuten Brennzeit und darf für max. 30 Sekunden unterbrochen werden um volle Wirkung zu entfalten. Viel Glück.</Hint>
 		<CanCraftAnywhere>false</CanCraftAnywhere>
 	</CraftData>
 
@@ -8605,7 +8600,7 @@
 				<Amount>5</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Der Hoch Orbit Trümmer Objekt Rückbringer (H.O.T.O.R)(englisch High Orbital Debris Object Reclaimer (or H.O.D.O.R) wird genutz um, sich im Orbit befindenen Überbleibsel in die Athmosphäre zu stossen um diese dnach zu nutzen. In einer 3x3 Platte aufbauen.</Description>
+		<Description>Der Hoch Orbit Trümmer Objekt Rückbringer (H.O.T.O.R)(englisch High Orbital Debris Object Reclaimer (oder H.O.D.O.R) wird genutz um, sich im Orbit befindenen Überbleibsel in die Athmosphäre zu stossen um diese danach zu nutzen. In einer 3x3 Platte aufbauen.</Description>
 		<Hint>Sicherstellen das Weg nach oben frei ist. Also wirklick FREI. Wirklich sicherstellen das nach oben frei ist. Nur so zur Info. Grosses BEDDABOOM.</Hint>
 		<ResearchRequirements>
 			<Research>rocketry1</Research>

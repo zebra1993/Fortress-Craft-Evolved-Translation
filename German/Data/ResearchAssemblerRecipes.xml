@@ -14,7 +14,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Copper plates and basic PCBs are assembled into Basic Experimental Pods for use in research projects.</Description>
+		<Description>Kupferplatten und einfache Leiterplatten werden zu einfachen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>simplified experimental pod</Key>
@@ -30,7 +30,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Tin plates and primary PCBs are assembled into Simplified Experimental Pods for use in research projects.</Description>
+		<Description>Zinnplatten und primäre Leiterplatten werden zu vereinfachten Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>intermediate experimental pod</Key>
@@ -46,7 +46,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Iron plates and Hardened PCBs are assembled into Intermediate Experimental Pods for use in research projects.</Description>
+		<Description>Eisenplatten und gehärtete Leiterplatten werden zu vmittleren Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>complex experimental pod</Key>
@@ -62,7 +62,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Lithium plates and Charged PCBs are assembled into Complex Experimental Pods for use in research projects.</Description>
+		<Description>Lithiumplatten und geladene Leiterplatten werden zu komplexen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>advanced experimental pod</Key>
@@ -78,7 +78,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Gold plates and Conductive PCBs are assembled into Advanced Experimental Pods for use in research projects.</Description>
+		<Description>Goldplatten und leitende Leiterplatten werden zu fortgeschritenen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>xl experimental pod</Key>
@@ -94,7 +94,7 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Nickel plates and Fortified PCBs are assembled into XL Experimental Pods for use in research projects.</Description>
+		<Description>Nickelplatten und verstärkte Leiterplatten werden zu XL Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 	<CraftData>
 		<Key>ultimate experimental pod</Key>
@@ -110,6 +110,6 @@
 				<Amount>2</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Titanium plates and Lightweight PCBs are assembled into Ultimate Experimental Pods for use in research projects.</Description>
+		<Description>Titanplatten und leichte Leiterplatten werden zu ultimativen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</Description>
 	</CraftData>
 </ArrayOfCraftData>

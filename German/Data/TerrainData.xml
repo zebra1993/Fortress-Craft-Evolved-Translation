@@ -7420,42 +7420,42 @@
 				<Key>ForcedInductionMK1</Key>
 				<Name>Forced Induction</Name>
 				<IconName>Forced Induction</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>ForcedInductionMK2</Key>
 				<Name>MK2 Forced Induction</Name>
 				<IconName>Forced InductionT2</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>ForcedInductionMK3</Key>
 				<Name>MK3 Forced Induction</Name>
 				<IconName>Forced InductionT3</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>ForcedInductionMK4</Key>
 				<Name>MK4 Forced Induction</Name>
 				<IconName>Forced InductionT4</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
 				<Key>ForcedInductionMK5</Key>
 				<Name>MK5 Forced Induction</Name>
 				<IconName>Forced InductionT5</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>5</Value>
 				<Key>ForcedInductionMK6</Key>
 				<Name>ARC Smelter Upgrade</Name>
 				<IconName>Forced InductionT6</IconName>
-				<Description>Erhöht Erz schmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
+				<Description>Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</Description>
 			</ValueEntry>
 		</Values>
 		
@@ -7491,35 +7491,35 @@
 				<Key>BasicConveyorBelt</Key>
 				<Name>Basic Conveyor Belt</Name>
 				<IconName>Basic Conveyor Belt</IconName>
-				<Description>Transportiert Materialien langsam vom Hopper weg.</Description>
+				<Description>Transportiert Materialien langsam vom Trichter weg.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>0</Value>
 				<Key>RegularConveyorBelt</Key>
 				<Name>Conveyor Belt</Name>
 				<IconName>Conveyor Belt</IconName>
-				<Description>Transportiert Materialien vom Hopper weg</Description>
+				<Description>Transportiert Materialien vom Trichter weg.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
 				<Key>ConveyorBeltFilter</Key>
 				<Name>Conveyor Belt Filter</Name>
 				<IconName>Conveyor Belt Filter</IconName>
-				<Description>Entfernt Materialien regelbasierend</Description>
+				<Description>Entfernt Materialien regelbasierend.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>2</Value>
 				<Key>TransportPipe</Key>
 				<Name>Transport Pipe</Name>
 				<IconName>Transport Pipe</IconName>
-				<Description>Erlaubt transport in alle Richtungen</Description>
+				<Description>Erlaubt transport in alle Richtungen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>3</Value>
 				<Key>TransportPipeFilter</Key>
 				<Name>Transport Pipe Filter</Name>
 				<IconName>Transport Pipe Filter</IconName>
-				<Description>Entfernt Materialien regelbasierend</Description>
+				<Description>Entfernt Materialien regelbasierend.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>4</Value>
@@ -7683,7 +7683,7 @@
 				<Key>MinecartDepot</Key>
 				<Name>Minecart Depot</Name>
 				<IconName>Minecart Depot</IconName>
-				<Description>Plaziert eine Lore aus einem angrenzenden Lagerhopper </Description>
+				<Description>Plaziert eine Lore aus einem angrenzenden Lagertrichter </Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>1</Value>
@@ -7704,14 +7704,14 @@
 				<Key>MinecartUnloadStation</Key>
 				<Name>Minecart Unload Station</Name>
 				<IconName>Minecart Unload</IconName>
-				<Description>Entlädt die Lore in einen angrenzenden Lagerhopper</Description>
+				<Description>Entlädt die Lore in einen angrenzenden Lagertrichter</Description>
 			</ValueEntry>	
 			<ValueEntry>
 			<Value>4</Value>
 				<Key>MinecartLoadStation</Key>
 				<Name>Minecart Load Station</Name>
 				<IconName>Minecart Load</IconName>
-				<Description>Befüllt die Lore aus einem angrenzenden Lagerhopper</Description>
+				<Description>Befüllt die Lore aus einem angrenzenden Lagertrichter</Description>
 			</ValueEntry>
 		</Values>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -8000,7 +8000,7 @@
 		<CubeType>514</CubeType>
 		<Key>ResearchStation</Key>
 		<Name>Research Station</Name>
-		<Description>Verabrbeitet Scan's und Forschung\nTechnoligien. Braucht Energie.</Description>
+		<Description>Verabrbeitet Scan's und Forschung zu Technologien.\n Braucht Energie.</Description>
 		<DefaultValue>0</DefaultValue>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
@@ -8176,35 +8176,35 @@
 				<Key>MK1PowerBoosterCharger</Key>
 				<Name>MK1 PowerCore Charger</Name>
 				<IconName>MK1PowerBoosterCharger</IconName>
-				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 100 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 100 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>14</Value>
 				<Key>MK2PowerBoosterCharger</Key>
 				<Name>MK2 PowerCore Charger</Name>
 				<IconName>MK2PowerBoosterCharger</IconName>
-				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 250 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 250 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>15</Value>
 				<Key>MK3PowerBoosterCharger</Key>
 				<Name>MK3 PowerCore Charger</Name>
 				<IconName>MK3PowerBoosterCharger</IconName>
-				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 500 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 500 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>16</Value>
 				<Key>MK4PowerBoosterCharger</Key>
 				<Name>MK4 PowerCore Charger</Name>
 				<IconName>MK4PowerBoosterCharger</IconName>
-				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 1000 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 1000 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
 				<Key>MK5PowerBoosterCharger</Key>
 				<Name>MK5 PowerCore Charger</Name>
 				<IconName>MK5PowerBoosterCharger</IconName>
-				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 2000 Energie. Hergestellter Gegenstand in Hotbar plazieren um zu benutzen.</Description>
+				<Description>Stellt automatisch einen einweg Energiebooster her. Gibt ARTHER 2000 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>18</Value>
@@ -9080,7 +9080,7 @@
 		<CubeType>520</CubeType>
 		<Key>ManufacturingPlant</Key>
 		<Name>Manufacturing Plant</Name>
-		<Description>Zentrale automatische Werkbank.\nKann durch anbringen von Modulen verbessert werden.\nBraucht Energie.</Description>
+		<Description>Zentrale automatische Werkbank.\nKann durch anbringen von Modulen verbessert werden.\nBraucht Energie für automatische Produktion.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -9333,7 +9333,7 @@
 		<Key>StorageCrate</Key>
 		<Name>Storage Crate</Name>
 		<IconName>StorageCrate</IconName>
-		<Description>Einfache Lagerlösung.</Description>
+		<Description>Einfache Lagerlösung. Nicht automatisierbar.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>173</TopTexture>
 		<SideTexture>173</SideTexture>
@@ -10569,7 +10569,7 @@
 		<Key>LiftManualControlModule</Key>
 		<Name>Lift Manual Control Module</Name>
 		<IconName>Lift Manual Control Module</IconName>
-		<Description>Erlaubt die manuelle kontrolle des Lifts.\nNutze Home und End zum Steuern!\nZum nutzen an einen S1 Lift anschliessen.</Description>
+		<Description>Braucht Energie.\nErhöht Reichweite auf 256m wenn an Lift angebracht.\nHat keine Funktion als Netzwerkteilnehmer.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
 		<TopTexture>192</TopTexture>
 		<SideTexture>192</SideTexture>
@@ -10764,7 +10764,7 @@
 				<Key>CastingBasinPlacement</Key>
 				<Name>Casting Basin component</Name>
 				<IconName>Casting Basin component</IconName>
-				<Description>Wird zu einem Stranggiess Backen. Wird in einer 5x5 Grundplatte mit 3 Höhe aufgebaut. (75 Blöcke im totalen)</Description>
+				<Description>Wird zu einem Stranggussbecken. Wird in einer 5x5 Grundplatte mit 3 Höhe aufgebaut. (75 Blöcke im totalen)</Description>
 			</ValueEntry>
 			<ValueEntry>
 				<Value>17</Value>
@@ -10799,7 +10799,7 @@
 				<Key>T4_Grinder_Placement</Key>
 				<Name>Hard Rock Grinder</Name>
 				<IconName>T4_Grinder</IconName>
-				<Description>Einweg, multiblock Maschiene. Ermöglicht es kleinen Mengen CHrom oder Molybdän zu sammeln. wird in einer 3x3 Grundplatte aufgebaut.</Description>
+				<Description>Einweg, multiblock Maschiene. Ermöglicht es kleinen Mengen Chrom oder Molybdän zu sammeln. wird in einer 3x3 Grundplatte aufgebaut.</Description>
 			</ValueEntry>	
 			<ValueEntry>
 				<Value>22</Value>
