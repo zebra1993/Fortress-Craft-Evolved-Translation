@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>ARTHER Charging Station</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Ladestation</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Lade die Energie von Arther schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem "ARTHER Energiekern".</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>ARTHER Recharge Rate:
+					Station Power Capacity:
+					Station Recharge Rate:</Left>
+					<Right>25 per second
+					1500
+					10 per second</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
