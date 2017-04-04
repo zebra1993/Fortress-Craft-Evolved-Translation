@@ -6104,8 +6104,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
-		<Description>Used to place Minecarts onto Tracks from an attached Storage Hopper.</Description>
-		<Hint>There is no hint for this.</Hint>
+		<Description>Setzt Loren von einem Lagertrichter aus auf die Schienen.</Description>
+		<Hint>Hierzu gibts keinen Tipp.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6127,8 +6127,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
-		<Description>Removes material from Minecarts into attached Storage Hoppers.</Description>
-		<Hint>Very fast!</Hint>
+		<Description>Entlädt Loren in angrenzende Lagertrichter.</Description>
+		<Hint>sehr schnell!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6150,8 +6150,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>12</ResearchCost>
-		<Description>Places material into Minecarts from attached Storage Hoppers.</Description>
-		<Hint>Very fast!</Hint>
+		<Description>Belädt Loren aus angrenzenden Lagertrichtern.</Description>
+		<Hint>sehr schnell!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6178,8 +6178,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>A simple straight track piece.</Description>
-		<Hint></Hint>
+		<Description>Eine einfache gerade Schiene.</Description>
+		<Hint>R drücken zum drehen.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6208,8 +6208,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Allows Minecarts to go around corners. Can be rotated.</Description>
-		<Hint>Press R to rotate</Hint>
+		<Description>Erlaubt es Loren um Ecken zu fahren. Kann rotiert werden.</Description>
+		<Hint>R drücken zum drehen.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6236,8 +6236,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Allows Minecarts to go up or down.</Description>
-		<Hint>Or down.</Hint>
+		<Description>Erlaubt es Loren hoch oder runter zu fahren.</Description>
+		<Hint>Rauf oder runter.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6264,8 +6264,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>6</ResearchCost>
-		<Description>Speeds up Minecarts that pass over it. Doesn't require power today. May do so tomorrow.</Description>
-		<Hint>Very fast!</Hint>
+		<Description>Beschleunigt darüberfahrende Loren. Braucht heute noch keine Energie. Vielleicht morgen schon.</Description>
+		<Hint>sehr schnell!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts3</Research>
 		</ResearchRequirements>
@@ -6288,8 +6288,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Minecarts hitting this will perform a 180 degree turn.</Description>
-		<Hint>Or down.</Hint>
+		<Description>Wenn eine Lore einen Puffer anfährt dreht sie um 180° und geht wieder.</Description>
+		<Hint>Gut um Entgleisungen bei vorübergehend offenen Gleisen zu verhindern.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts3</Research>
 		</ResearchRequirements>
@@ -6312,8 +6312,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Minecarts following the RED arrow will turn around unless FULL. GREEN is freely passable.</Description>
-		<Hint>Use this to airlock minecarts where you want them.</Hint>
+		<Description>Loren welche dem ROTEN Pfeil folgen drehen um es sei denn sie sind [b]VOLL[/b]. GRÜN ist frei Fahrt.</Description>
+		<Hint>Wird genutzt um Loren zu sortieren.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts3</Research>
 		</ResearchRequirements>
@@ -6336,8 +6336,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Minecarts following the RED arrow will turn around unless EMPTY. GREEN is freely passable.</Description>
-		<Hint>Use this to airlock minecarts where you want them.</Hint>
+		<Description>Loren welche dem ROTEN Pfeil folgen drehen um es sei denn sie sind [b]LEER/b]. GRÜN ist frei Fahrt.</Description>
+		<Hint>Wird genutzt um Loren zu sortieren.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts3</Research>
 		</ResearchRequirements>
@@ -6364,8 +6364,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>Slow Minecart with 25 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.</Description>
-		<Hint>Upgrade these to higher versions when possible.</Hint>
+		<Description>Langsame Lore mit bis zu 25 Gegenständen im Lager. Mehrere Loren können auf einer Schiene fahren. Bau soviele wie nötig.</Description>
+		<Hint>Zu besseren Stufen aufrüsten sobald möglich.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6387,8 +6387,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>Fast Minecart with 25 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.</Description>
-		<Hint>These are best when you have hilly terrain.</Hint>
+		<Description>Schnelle Lore mit bis zu 25 Gegenständen im Lager. Mehrere Loren können auf einer Schiene fahren. Bau soviele wie nötig.</Description>
+		<Hint>Optimal für hügeliges Gelände</Hint>
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
 		</ResearchRequirements>
@@ -6414,8 +6414,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>Slow Minecart with 50 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.</Description>
-		<Hint>These are best when you have flat terrain.</Hint>
+		<Description>Langsame Lore mit bis zu 50 Gegenständen im Lager. Mehrere Loren können auf einer Schiene fahren. Bau soviele wie nötig.</Description>
+		<Hint>Optimal for ebenes Gelände.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
 		</ResearchRequirements>
@@ -6438,8 +6438,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>Fast Minecart with 50 Storage Capacity.</Description>
-		<Hint>The best T4 can give!.</Hint>
+		<Description>Schnelle Lore mit bis zu 50 Gegenständen im Lager.</Description>
+		<Hint>Das beste was T4 bietet!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
 			<Research>t4_start</Research>
@@ -6463,8 +6463,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>5</ResearchCost>
-		<Description>Super-Fast Minecart with 0 Storage Capacity.</Description>
-		<Hint>Press U to ride!</Hint>
+		<Description>Sehr schnelle Lore mit 0 Lagerkapizität.</Description>
+		<Hint>U Drücken zum mitfahren.</Hint>
 		<ResearchRequirements>
 			<Research>minecarts2</Research>
 			<Research>Halloween</Research>
@@ -6484,8 +6484,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Convert Corner to Straight</Description>
-		<Hint>You can do this anywhere!</Hint>
+		<Description>Konvertiert gebogenen zu gerader Schiene.</Description>
+		<Hint>Funktioniert überall!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6504,8 +6504,8 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Convert Straight to Slope</Description>
-		<Hint>You can do this anywhere!</Hint>
+		<Description>Konvertiert gerade zu ansteigender Schiene.</Description>
+		<Hint>Funktioniert überall!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
@@ -6524,15 +6524,15 @@
 				<Amount>1</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Convert Slope to Corner</Description>
-		<Hint>You can do this anywhere!</Hint>
+		<Description>Konvertiert ansteigende zu gebogener Schiene.</Description>
+		<Hint>Funktioniert überall!</Hint>
 		<ResearchRequirements>
 			<Research>minecarts1</Research>
 		</ResearchRequirements>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<MasterRecipe>minecarttrackcorner</MasterRecipe>
 	</CraftData>
-
+	<!--ConstructoBots-->
 	<CraftData>
 		<Key>ConstructoBotTrackStraight_CD</Key>
 		<Category>Robotics</Category>
@@ -6546,7 +6546,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Forces ConstructoBots to head in this direction.</Description>
+		<Description>Zwingt ConstructoBots in diese Richtugn zu gehen.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6565,7 +6565,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>ConstructoBots with cargo will head in the the direction of the GREEN arrow.</Description>
+		<Description>ConstructoBots mit Waren werden dem GRÜNEN Pfeil folgen.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6584,7 +6584,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Full ConstructoBots will head in this direction.</Description>
+		<Description>Voll beladene ConstructoBots werden in diese Richtung laufen.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6603,7 +6603,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Empty ConstructoBots will head in this direction.</Description>
+		<Description>Unbeladene ConstructoBots werden in diese Richtung laufen.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6622,7 +6622,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>ConstructoBots will alternate Left/Right on hitting this.</Description>
+		<Description>ConstructoBots werden abwechslungsweise nach Links und Rechts abgelenkt.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6642,7 +6642,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Sprays ConstructoBots a random colour (for now).</Description>
+		<Description>Lackiert die ConstructoBots zufällig (im Moment zumindest).</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6662,7 +6662,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Sprays ConstructoBots with a material that allows operation in the Cold Caverns. Requires SOMETHING_COLD.</Description>
+		<Description>Lackiert ConstructoBots mit einem kälte Isolierenden Material welches ihnen erlaubt in den kalten Höhlen zu funktionieren. Setzt ETWAS_KALTES voraus.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6682,7 +6682,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Fully-charges ConstructoBots. Requires Power.</Description>
+		<Description>Lädt ConstructoBots auf. Braucht Energie.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6702,7 +6702,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles Coppator ConstructoBot Chassis.</Description>
+		<Description>Montiert Kupferin ConstructoBot Gehäuse.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6722,7 +6722,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles Tindron ConstructoBot Chassis.</Description>
+		<Description>Montiert Zinnium ConstructoBot Gehäuse.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics2</Research>
@@ -6746,7 +6746,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles Bronzite ConstructoBot Chassis.</Description>
+		<Description>Montiert Bronzit ConstructoBot Gehäuse.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics3</Research>
@@ -6766,7 +6766,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles Ironide ConstructoBot Chassis.</Description>
+		<Description>Montiert Ferritium ConstructoBot Gehäuse.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics4</Research>
@@ -6786,7 +6786,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles T0 Coppator ConstructoBot Legs.</Description>
+		<Description>Montiert T0 Kupferin ConstructoBot Beine.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6806,7 +6806,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Assembles T0 Coppator ConstructoBot Arms.</Description>
+		<Description>Montiert T0 Kupferin ConstructoBot Arme.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6826,7 +6826,7 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>3</ResearchCost>
-		<Description>Constructs a machine that can Construct ConstructoBots.</Description>
+		<Description>Produziert einen Maschienen welche ConstructoBots produziert.</Description>
 		<Hint></Hint>
 		<ResearchRequirements>
 			<Research>robotics1</Research>
@@ -6857,8 +6857,8 @@
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
-		<Description>Build in a 3x1x3 shape above a 3x3 shaft to automatically deploy into a lift. </Description>
-		<Hint>Requires Power and RackRails..</Hint>
+		<Description>Bauen als eine 3x1x3 Platte über einem 3x3 Schacht um automatisch einen Lift zu bauen. </Description>
+		<Hint>Braucht Energie und Zahnstangen.</Hint>
 	</CraftData>	
 
 	<CraftData>
@@ -6873,8 +6873,8 @@
 				<Amount>4</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Crafts Rack Rails from Iron Bars, used in the automation of Cargo Lift rails.</Description>
-		<Hint>Cargo Lifts are awesome.</Hint>
+		<Description>Stellt Zahnstangen aus Eisenbarren her, welche gebraucht werden zur Automation von Warenliftschienen.</Description>
+		<Hint>Warenlifte sind unglaublich.</Hint>
 		<ResearchRequirements>
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
@@ -6905,8 +6905,8 @@
 			<Research>T2 assist machines</Research>
 		</ResearchRequirements>
 		<ResearchCost>2</ResearchCost>
-		<Description>Deploy in a Cargo Lift Controller. Affectionately referred to as Lifty McLiftFace.</Description>
-		<Hint>This isn't even the final form.</Hint>
+		<Description>Platzieren in eine Warenliftsteuerung. Leibevoll auch Lifty McLiftFace genannt.</Description>
+		<Hint>Und das ist nicht mal die Finale Version davon.</Hint>
 	</CraftData>	
 
 	<CraftData>
@@ -6934,8 +6934,8 @@
 			<Research>orbitalpower</Research><!-- Because of the MK5. This might want to move sooner in the game progression -->
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>1000 capacity lift with a maximum speed of 10 metres per second. Deploy in a Cargo Lift Controller.</Description>
-		<Hint>Can be upgraded later.</Hint>
+		<Description>Warenlift mit 1000 Ladekapazität und bis zu 10m/s Fahrgeschwindigkeit. Platzieren in Warenliftsteuerung.</Description>
+		<Hint>Kann später verbessert werden.</Hint>
 	</CraftData>
 
 	<!-- Todo, require T4 resources -->
@@ -6967,8 +6967,8 @@
 			<Research>CargoLift3</Research>
 		</ResearchRequirements>
 		<ResearchCost>1</ResearchCost>
-		<Description>3000 capacity lift with a maximum speed of 10 metres per second. Deploy in a Cargo Lift Controller.</Description>
-		<Hint>This is the best lift currently available.</Hint>
+		<Description>Warenlift mit 3000 Ladekapazität und bis zu 10m/s Fahrgeschwindigkeit. Platzieren in Warenliftsteuerung.</Description>
+		<Hint>Dies ist der beste Lift verfügbar im Moment.</Hint>
 	</CraftData>
 	
 	<!-- Available quite quickly, slightly awkward to build without automation, requires a lot of power and resources once made -->
@@ -6990,8 +6990,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>8</ResearchCost>
-		<Description>Automatically assemble Research Pods. Requires power and attached Hoppers containing metal plates and PCBs. See handbook for more info.</Description>
-		<Hint>Use to unlock Projects!</Hint>
+		<Description>Stellt automatisch Experimentalkanister her. Braucht Energie und angrenzende Lagertrichter mit den benötigten Platten und Leiterplatten drin. Im Handbuch sind mehr Informationen dazu.</Description>
+		<Hint>Genutzt um Projekte freizuschalten!</Hint>
 		
 		<ResearchRequirements>
 			<Research>advanced research</Research>
@@ -7021,8 +7021,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Use this to transmit power to your Orbital Space station. Must be built 13 tall with a 9x9 base (1053 total).</Description>
-		<Hint>This is is built in a 9x13x9 shape.</Hint>
+		<Description>Wird genutzt um Energie zur Orbitalen Weltraumstation zu senden. Wird in einer 9x9 grossen Platte 13 Blöcke hoch gebaut (1053 Block total).</Description>
+		<Hint>Wird in einer 9x9 grossen Platte 13 Blöcke hoch gebaut.</Hint>
 		<ResearchRequirements>
 			<Research>orbitalpower</Research>
 		</ResearchRequirements>
@@ -7041,8 +7041,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Use this to clear out surface attacks. Place near the enemy base.</Description>
-		<Hint>Only works if you have a fully-charged OET!</Hint>
+		<Description>Wird verwendet um Oberflächen Angriffe zu beenden. In der nähe der Gegernischen Basis aufstellen.</Description>
+		<Hint>Funktioniert nur bei einem Voll aufgeladenen OET!</Hint>
 		<ResearchRequirements>
 			<Research>orbitalpower</Research>
 		</ResearchRequirements>
@@ -7065,8 +7065,8 @@
 			</CraftCost>
 		</Costs>
 		<ResearchCost>10</ResearchCost>
-		<Description>Use this to Research advanced Projects with Experiments. Must be built in a 3x3x3 configuration. See the handbook for more information on research.</Description>
-		<Hint>The Laboratory is built in a 3x3x3 shape.</Hint>
+		<Description>Nutze dies um fortgeschrittene Projekte mit Hilfe von Experimenten zu erforschen. Muss in eine 3x3x3 Würfel gebaut werden. Im Handbuch sind mehr Informationen bezüglich Forschung zu finden.</Description>
+		<Hint>Das Labor wird als 3x3x3 Würfel aufgestellt.</Hint>
 		<ResearchRequirements>
 			<Research>Advanced Research</Research>
 		</ResearchRequirements>
@@ -7084,8 +7084,8 @@
 			<Amount>1</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>A decorative metal truss</Description>
-		<Hint>Uses up Construction Paste!</Hint>
+		<Description>Ein dekoratives Metalgerüst.</Description>
+		<Hint>Verbraucht Konstruktionspaste!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ScanRequirements>
 			<Scan>IronOre</Scan>
@@ -7104,8 +7104,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	
@@ -7121,8 +7121,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	
@@ -7138,8 +7138,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	
@@ -7155,8 +7155,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>A decorative golden block - thank you for supporting FortressCraft!</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 	
@@ -7172,8 +7172,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Black cats optional</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Schwarze Katzen sind freiwillig</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -7191,8 +7191,8 @@
 			<Amount>16</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Worst lighting ever.</Description>
-		<Hint>Requires the Dapper DLC pack!</Hint>
+		<Description>Schlimmste Beleuchtung für ewig</Description>
+		<Hint>Setzt das Dapper DLC vorraus!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Halloween</Research>
@@ -7212,8 +7212,8 @@
 				<Amount>50</Amount><!-- Send the player on an easy early-game treasure hunt -->
 			</CraftCost>	
 		</Costs>
-		<Description>Will not melt, even if exposed to Magma.</Description>
-		<Hint>Don't have the Dapper DLC pack? You'll have to let this go.</Hint>
+		<Description>Wird nicht schmelzen, wiedersteht sogar Magma.</Description>
+		<Hint>Du hast kein Dapper DLC? Du wirst dies vorbeizeihen lassen müssen.</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 	</CraftData>
 
@@ -7230,8 +7230,8 @@
 				<Amount>1</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to ButcherBoyToma for going above and beyond in support of this game.    Want to help?      www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke ButcherBoyToma für die darüberhinaus gehende Unterstützung des Spiels.	Du willst helfen?      www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen?  http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7249,8 +7249,8 @@
 				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to Tarakesh : "Awesome Games are worth every cent you pay for...  ;-)" www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke Tarakesh : "Awesome Games are worth every cent you pay for...  ;-)" www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7268,8 +7268,8 @@
 				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to Herp21 : "Has grooves in all the right places!" www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke Herp21 : "Has grooves in all the right places!" www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7287,8 +7287,8 @@
 				<Amount>8</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to Fartex : "Not as hard as the game is good." www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke Fartex : "Not as hard as the game is good." www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7307,8 +7307,8 @@
 				<Amount>16</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to Nexus : "If (mDonation > $100) AddShinyNewBlock();//I need to take a break from coding" www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke Nexus : "If (mDonation > $100) AddShinyNewBlock();//I need to take a break from coding" www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7327,8 +7327,8 @@
 				<Amount>1</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to TadForever: "All mistakes have their uses." www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke TadForever: "All mistakes have their uses." www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen? http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7347,8 +7347,8 @@
 				<Amount>1</Amount>
 			</CraftCost>	
 		</Costs>
-		<Description>Thank you to MKMarq : "Luxurious materials for surviving in style!" www.patreon.com/FortressCraft</Description>
-		<Hint>Want to help? http://www.patreon.com/FortressCraft</Hint>
+		<Description>Danke MKMarq : "Luxurious materials for surviving in style!" www.patreon.com/FortressCraft</Description>
+		<Hint>Du willst helfen?  http://www.patreon.com/FortressCraft</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>aesthetics</Research>
@@ -7367,8 +7367,8 @@
 			<Amount>5</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7386,8 +7386,8 @@
 			<Amount>5</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7405,8 +7405,8 @@
 			<Amount>8</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7424,8 +7424,8 @@
 			<Amount>15</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7444,8 +7444,8 @@
 			<Amount>15</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7463,8 +7463,8 @@
 			<Amount>30</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7482,8 +7482,8 @@
 			<Amount>75</Amount>
 		</CraftCost>
 		</Costs>
-		<Description>Used in a number of useful receipes.</Description>
-		<Hint>Ruined Parts must be kept cold!</Hint>
+		<Description>Wird in einigen nutzvollen Rezepten verwendet.</Description>
+		<Hint>Ruinierte Teile müssen gekühlt werden!</Hint>
 		<CanCraftAnywhere>true</CanCraftAnywhere>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
@@ -7507,8 +7507,8 @@
 				<Amount>128</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Stores up to 50 resources. Uses power to keep stored items frozen. This can vastly extend the length of Ruined Organic Parts.</Description>
-		<Hint>If placed somewhere cold, it requires much less power.</Hint>
+		<Description>Lagert bis zu 50 Gegenstände. Braucht Engergie um gelagerte Gegenstände kühl zu halten. Dies wird die ruinierten Teile massive länger hatlbar machen.</Description>
+		<Hint>Wenn an einem Kühlenort platziert, wird weniger ENergie für das kühlen verbraucht.</Hint>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
 		</ResearchRequirements>
@@ -7530,8 +7530,8 @@
 				<Amount>128</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Feed 10x Ruined Organic Parts to this and receive a single Recombinated Organic Component.</Description>
-		<Hint>Recombinated Organic Components can be used to Self-Craft Pristine Organic Components.</Hint>
+		<Description>Füttere dieser Maschine 10 ruinierte organische Teile und erhalt dafür eine rekombinierte organische Komponente.</Description>
+		<Hint>Rekombinierte organische Komponenten können im selbstherstellungsmenu (C) zu tadellosen organischen Teilen verarbeitet werden.</Hint>
 		<ResearchRequirements>
 			<Research>Cyrogenics Research</Research>
 		</ResearchRequirements>
@@ -7562,7 +7562,7 @@
 				<Amount>2</Amount><!-- This is guess work - gold slimes have a 25% drop rate! -->
 			</CraftCost>
 		</Costs>
-		<Description>Convert a Macerator using glands from Wasps and Slimes to give double the energy from burning coal. Requires no resources once built; just give it a little power!</Description>
+		<Description>Konvertierte einen Zerkleiner und unberührte Drüsen von Wespen oder Slimes um kohle zur doppelten Energierate zu bingen. braucht keines rescourcen wenn fertig, Gib ihm aber ein bischen Energie!</Description><!-- Not optimal has to be changed, sounds horrible -->
 		<Hint>Verdoppelt die Energie die durch das verbrennen von Kohle entsteht.</Hint>
 		<ResearchRequirements>
 			<Research>T2 Power</Research>
@@ -7595,7 +7595,7 @@
 				<Amount>64</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Converts a Macerator using Crystal clocks to further enhance Enriched Coal with Crystal Deposits, doubling the energy output once again.</Description>
+		<Description>Konvertierte einen Zerkleinerer und Kristalltaktgeber zu einer Maschiene welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch einmal zu verdoppeln.</Description>
 		<Hint>Vervierfacht die Energie die durch das verbrennen von Kohle entsteht.</Hint>
 		<ResearchRequirements>
 			<Research>crystal</Research>
