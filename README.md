@@ -14,3 +14,15 @@ Installation: Die Dateien im German ordner in das Installationsverzeichniss von 
 
 Direkt Kontakt: 
 streupfeffer@gmx.ch
+
+Teammitglieder:
+
+Zebra, Jan Freund
+Kamaling, Thomas "Hador" Scheer
+DarkNova
+Scabank
+Sedel
+Sir Failalot/Lars
+CDJM
+
+Vielen Dank an alle schon mal im Voraus!
