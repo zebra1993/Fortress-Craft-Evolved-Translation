@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 4</Handle>
+	<Title>Intermediate Miner Upgrades II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Intermediate Miner Upgrades II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Further upgrades to the ore extractor are now available. We have also researched a new Geological Surveyor which can be used to identify locations rich in ore deposits. We should identify some prime locations while we continue research on a new Quarry system.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Advanced Miner Upgrades</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserter Bergbau</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese Forschung verbessert den Erzabbau und dessen Verarbeitung. Der Steinbruch wird uns dabei gute Dienste leisten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

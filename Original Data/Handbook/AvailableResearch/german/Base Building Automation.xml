@@ -1,0 +1,29 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Base Building Automation</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatische Basiserweiterung</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Einen grossen Bergbau zu betreiben ist eine Aufgabe für Maschinen, nicht Menschen!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Forschung entwickelt Maschinen für automatisierten Aushub und Konstruktion. Auch die Arbeiten am Teleport scheinen voranzuschreiten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Neben dem automatischen Aushub wird diese Forschung versuchen, einen Sprengstoff zu entwickeln der genutzt werden kann, um grosse Gebiete freizuräumen </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

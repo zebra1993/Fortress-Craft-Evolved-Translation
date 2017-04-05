@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+	<Title>Base Building Automation</Title>
+	<Icon>Base Building Automation</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Automatische Basiserweiterung</Text>
+				</Title>
+				<Icon>
+					<Name>Base Building Automation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben jetzt eine Vielzahl von neuen Maschinen zur Automatisierung unserer Basis. Benutze den Backenbrecher, um nutzlose Felsen nach Spuren von Erz zu zermahlen. Der Auto-Bagger kann Schächte vertikal nach oben graben, während der Auto-Baumeister lange Förderstrecken für uns konstruieren kann.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Benutzen Sie Aufzüge um sicherer zwischen der Oberfläche und tieferen Minen zu reisen. Der neuartige Sprengstoff kann uns dabei helfen gigantische Bereiche zu säubern oder feindliche Ziele zu vernichten.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

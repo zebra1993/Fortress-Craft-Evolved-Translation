@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>ARTHER Solar Panel</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Solarzelle</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Verbessert die Rate mit der ARTHER Energie aus Sonnenlicht erzeugt. Du benötigst nur eine einzige, die du in deinem Inventar aufbewahrst.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

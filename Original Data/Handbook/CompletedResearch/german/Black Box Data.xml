@@ -1,0 +1,29 @@
+<Chapter>
+	<Handle>black box</Handle>
+	<Title>Black Box Data</Title>
+	<Icon>Black Box Data</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Black Box Data</Text>
+				</Title>
+				<Icon>
+					<Name>Black Box Data</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>																																																																	  			
+					<Text>A thorough analysis of the black box data recorded by your suit has now been completed. It confirms your visual analysis that a foreign object, believed to be a meteor, hit the station as you were preparing to dock. The resulting explosion damaged your ship's manoeuvring thrusters causing a crash landing on this alien plant. No other survivors have been detected at this time.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>It is not known why the meteor remained undetected by the stations long range scanners, possible causes include a system fault or sabotage.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>In a fortunate turn of events an outpost construction pod survived the explosion and locked on to your ship's distress signal. It has landed next to the crash site. It is a standard Vortox X103 MK V pod containing a Central Power Hub surrounded by an Ore Smelter, Manufacturing Plant and Research Station. It has also come equipped with an Autonomous Robotic Defense System which should help us to survive any early attacks should we find any hostile life on this planet.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

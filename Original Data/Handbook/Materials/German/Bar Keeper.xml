@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Bar Keeper</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne Barren Rücknahmestation</Text>
+				</Title>
+				<Icon>
+					<Name>Bar Keeper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Cyberdyne Barren Rücknahmestation ist eine Maschine die verwendet wird um Metallbarren aus dem Inventar des Spielers zu entfernen. Diese Maschine soll einen unbeabsichtigten Diebstahl von Ressourcen verhindern, wenn sich ein Spieler ausloggt. Im Gegensatz zum Erz und Müll-Schlucker ist diese Maschine in zentralen großen Räumen eher hinderlich. In einem Mehrspieler-Game sollte diese Maschine zwar leicht zugänglich aber offensichtlich beschriftet sein, um nicht aus versehen aktiviert zu werden.
+						Baue einfach unsere Brandneue Barren-Rücknahmestation (tm) in einer 3x3 Konfiguration und versorge sie mit Strom. Die Barren werden in angrenzende Trichter gelegt. 5 Energie pro Barren.
+					</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Bar Collection Speed:
+					Internal Storage:
+					Power Usage:
+					</Left>
+					<Right>Upto 3,300/minute!
+					100 units of Bar!
+					Only 5 power per Bar!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

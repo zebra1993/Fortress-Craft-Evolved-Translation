@@ -2456,10 +2456,13 @@
     <string name="Click_UG">Click icon to Upgrade</string>
     <string name="Speed">speed</string>
     <string name="Mining">Mining</string>
-    <string name="Mining">Out of Power</string>
-    <string name="Mining">Out of Storage</string>
-    <string name="Mining">Out of Power</string>
-    <string name="Mining">Out of Power</string>
+    <string name="Out_Of_Power">Out of Power</string>
+    <string name="Out_Of_Storage">Out of Storage</string>
+    <string name="Upgrade_Drill_Head">Upgrade&#13;Drill Head</string><!-- Very little space for this-->
+    <string name="Next_Ore">Next Ore</string>
+    <string name="Clearing_Vein">Clearing Vein</string>
+    <string name="Cant_Find_Ore">Can't Find Ore</string>
+    
 
   
 </english>

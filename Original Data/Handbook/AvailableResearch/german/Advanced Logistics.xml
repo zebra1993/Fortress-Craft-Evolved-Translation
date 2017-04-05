@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T2 assist machines</Handle>
+	<Title>Advanced Logistics</Title>
+	<Icon>mk1 robot arm</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserte Logistik</Text> //Advanced Logistics
+				</Title>
+				<Icon>
+					<Name>mk1 robot arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Optimierungen an der Logistik sollten mit chirurgischer Präzision ausgeführt werden, nicht mit roher Gewalt. (Selbstverständlich ist rohe Gewalt auch eine Alternative).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Forschung richtet ihren Fokus auf Verbesserungen in Lagerhaltung, Sortierung und dem "Schwerlast-Aufzug" </Text>
+				</Paragraph>			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

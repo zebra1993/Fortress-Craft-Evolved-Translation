@@ -1,0 +1,25 @@
+<Chapter>
+	<Handle>T2 Power</Handle>
+	<Title>Upgraded Power Grid</Title>
+	<Icon>Upgraded Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbessertes Energienetz</Text>
+				</Title>
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben einen neuen Energiespeicher entwickelt, der größere Ladungsdichten zulässt. Außerdem einen leistungsstärkeren Laser-Energie-Transmitter, aber das erfordert bessere Materialien als die, die nahe der Oberfläche gefunden werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Es ist höchstwahrscheinlich möglich noch weitere Verbesserungen an unseren bereits verbesserten Lasern und Speichern vorzunehmen, wenn wir fortgeschrittenere Materialien erforschen würden.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

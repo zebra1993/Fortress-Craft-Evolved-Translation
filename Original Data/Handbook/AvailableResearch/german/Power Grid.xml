@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>T1 Power</Handle>
+	<Title>Power Grid</Title>
+	<Icon>Power Grid</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Energie Netzwerk</Text>
+				</Title>
+				<Icon>
+					<Name>Power Grid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unser Zentraler Energie Knoten kann uns nicht genug Leistung liefern. Um die Erweiterung der Basis voranzutreiben müssen wir neue Wege finden Energie zu erzeugen und zu übertragen. Damit wird es uns möglich sein, entfernte Grabungen zu betreiben ohne eine lokale Energieversorgung zu benötigen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

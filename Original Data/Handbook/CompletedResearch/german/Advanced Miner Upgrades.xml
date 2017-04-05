@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 5</Handle>
+	<Title>Advanced Miner Upgrades</Title>
+	<Icon>Magnetic Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittener Bergbau</Text>
+				</Title>
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Weitere Verbesserungen der Erzbohrer und -schmelzer sind ab sofort möglich. Darüber hinaus sind wir nun in der Lage einen Steinbruch zu errichten. Die beste Lage dafür können wir mit dem Geophysikalischen Scanner ermitteln.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

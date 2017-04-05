@@ -4406,6 +4406,7 @@
 		<AudioDestroyType>None</AudioDestroyType>
 		<Category>Decoration</Category>
 		<isGarbage>true</isGarbage>
+		<isReinforced>true</isReinforced>
     <DefaultValue>2184</DefaultValue><!-- Medium gray -->
 		<tags>
 			<tag>Voxel</tag>
@@ -7994,6 +7995,61 @@
 			<tag>Machinery</tag>
 		</tags>
 	</TerrainDataEntry>
+  <TerrainDataEntry>
+    <CubeType>802</CubeType>
+    <Key>T5_OrbitalRailGunController</Key>
+    <Name>Orbital RailGun Controller</Name>
+    <IconName>NONE_YOU_CANT_USE_THIS</IconName>
+    <Description>North. This faces North.</Description>
+    <LayerType>PrimaryTerrain</LayerType>
+    <TopTexture>192</TopTexture>
+    <SideTexture>192</SideTexture>
+    <BottomTexture>192</BottomTexture>
+    <GUITexture>192</GUITexture>
+    <isSolid>false</isSolid>
+    <isTransparent>true</isTransparent>
+    <isHollow>false</isHollow>
+    <isGlass>false</isGlass>
+    <isPassable>false</isPassable>
+    <hasObject>true</hasObject>
+    <hasEntity>true</hasEntity>
+    <Category>Machine</Category>
+    <AudioWalkType>Sand</AudioWalkType>
+    <AudioBuildType>Dirt</AudioBuildType>
+    <AudioDestroyType>None</AudioDestroyType>
+    <isMultiBlockMachine>true</isMultiBlockMachine>
+    <PickReplacement>T5_OrbitalRailGunControllerPlacement</PickReplacement>
+    <tags>
+      <tag>Machinery</tag>
+    </tags>
+  </TerrainDataEntry>
+  <TerrainDataEntry>
+    <CubeType>803</CubeType>
+    <Key>T5_OrbitalRailGunRing</Key>
+    <Name>Orbital RailGun Induction Ring</Name>
+    <IconName>NONE_YOU_CANT_USE_THIS</IconName>
+    <Description>North. This faces North.</Description>
+    <LayerType>PrimaryTerrain</LayerType>
+    <TopTexture>143</TopTexture>
+    <SideTexture>143</SideTexture>
+    <BottomTexture>143</BottomTexture>
+    <GUITexture>143</GUITexture>
+    <isSolid>false</isSolid>
+    <isTransparent>true</isTransparent>
+    <isHollow>false</isHollow>
+    <isGlass>false</isGlass>
+    <isPassable>false</isPassable>
+    <hasObject>true</hasObject>
+    <hasEntity>true</hasEntity>
+    <Category>Machine</Category>
+    <AudioWalkType>Sand</AudioWalkType>
+    <AudioBuildType>Dirt</AudioBuildType>
+    <AudioDestroyType>None</AudioDestroyType>
+    <Hardness>500000</Hardness> <!-- Can NOT be taken out with explosives -->
+    <tags>
+      <tag>Machinery</tag>
+    </tags>
+  </TerrainDataEntry>
 	
 	<TerrainDataEntry>
 		<CubeType>514</CubeType>
@@ -9492,7 +9548,7 @@
 	<TerrainDataEntry>
 		<CubeType>528</CubeType>
 		<Key>MassStorageInputPort</Key>
-		<Name>Mass Storage Input Port</Name>
+		<Name>Mass Storage Input Port Base</Name>
 		<IconName>Mass Storage Input Port</IconName>
 		<Description>Use this to insert resources into Mass Storage</Description>
 
@@ -9543,7 +9599,7 @@
 	<TerrainDataEntry>
 		<CubeType>529</CubeType>
 		<Key>MassStorageOutputPort</Key>
-		<Name>Mass Storage Output Port</Name>
+		<Name>Mass Storage Output Port Base</Name>
 		<IconName>Mass Storage Output Port</IconName>
 		<Description>Use this to remove resources from Mass Storage</Description>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -10925,7 +10981,15 @@
 				<IconName>FuelCompressor</IconName>
 				<Description>Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source. Build in a 3x3x3 configuration.</Description>
 			</ValueEntry>
-     	</Values>
+      <ValueEntry>
+        <Value>40</Value>
+        <Key>T5_OrbitalRailGunControllerPlacement</Key>
+        <Name>Orbital RailGun Controller</Name>
+        <IconName>OrbitalRailGunController</IconName>
+        <Description>Shoot stuff into space faster than your friends. Build in a 9x9x9 configuration.</Description>
+      </ValueEntry>
+      
+    </Values>
 		<Stages>
 			<Stage>
 				<RangeMinimum>1</RangeMinimum>
@@ -11966,4 +12030,58 @@
 			<tag>Machinery</tag>
 		</tags>
  	</TerrainDataEntry> 
+	
+	
+	<TerrainDataEntry>
+		<CubeType>604</CubeType>
+		<Key>MassStorageStockingPort</Key>
+		<Name>Mass Storage Stocking Port Base</Name>
+		<IconName>Mass Storage Stocking Port</IconName>
+		<Description>Use this to stock a specified quantity of resources into Mass Storage</Description>
+
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>143</TopTexture>
+		<SideTexture>143</SideTexture>
+		<BottomTexture>143</BottomTexture>
+		<GUITexture>143</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Wood</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<Values>
+			<ValueEntry>
+				<Value>0</Value>
+				<Key>MassStorageStockingPortMK1</Key>
+				<Name>Basic Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input Port</IconName>
+				<Description>Use this to stock resources in Mass Storage. Carries 5 resources at a time.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>1</Value>
+				<Key>MassStorageStockingPortMK2</Key>
+				<Name>Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input PortMK2</IconName>
+				<Description>Use this to stock resources in Mass Storage. Carries 12 resources at a time.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>2</Value>
+				<Key>MassStorageStockingPortMK3</Key>
+				<Name>Bulk Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input PortMK3</IconName>
+				<Description>Use this to stock resources in Mass Storage. Carries 25 resources at a time.</Description>
+			</ValueEntry>
+		</Values>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Wood</tag>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>		
 </ArrayOfTerrainDataEntry>

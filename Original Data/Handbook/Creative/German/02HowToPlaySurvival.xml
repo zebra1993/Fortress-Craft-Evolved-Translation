@@ -1,0 +1,43 @@
+<Chapter>
+	<Handle>findingSurvival</Handle>
+	<Title>How to play Survival Mode</Title>
+	<Icon>Unknown</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>How to play Survival Mode</Text>
+				</Title>
+				<Paragraph>
+					<Text>This is a Creative Mode game. To start a Survival world:</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Go back to the main menu. Enter the World Select room and choose an empty slot (right arrow or click on the tables). Next to the game mode indicator are arrows which you can click to change the game mode to Survival. Press Create World to start playing</Text>
+				</Paragraph>
+				<Spacer />
+				<Spacer />
+				<Spacer />
+				<Header>
+					<Text>I can't select a game mode?</Text>
+				</Header>
+				<Paragraph>
+					<Text>You can't change the gamemode on an existing world. Select an empty slot.</Text>
+				</Paragraph>
+				<Spacer />
+				<Header>
+					<Text>All my world slots are full!</Text>
+				</Header>
+				<Paragraph>
+					<Text>You can reset a world from the World Select room, all data associated with this world will be deleted. If you want to backup your worlds then, on recent version of Windows, they can be found in the following folder: %AppData%\..\LocalLow\ProjectorGames\FortressCraft\Worlds.</Text>
+				</Paragraph>
+				<Spacer />
+				<Header>
+					<Text>It doesn't work!</Text>
+				</Header>
+				<Paragraph>
+					<Text>If you're still having trouble starting up Survival Mode, please post a message on the steam discussion board.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

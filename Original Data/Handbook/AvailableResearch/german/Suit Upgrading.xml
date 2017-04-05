@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>suit upgrades</Handle>
+	<Title>Suit Upgrading</Title>
+	<Icon>Suit Upgrading</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserter Raumanzug</Text>
+				</Title>
+				<Icon>
+					<Name>SuitUpgrades</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dein Raumanzug ist das fortschrittlichste was die Weltraumforschung zu bieten hat. Leider liegen wichtige technische Module derzeit außerhalb unserer Fertigungsfähigkeiten. Es ist an der Zeit sich das Wissen anzueignen diese Module abseits der Fabriken unserer Heimatwelt herzustellen. Du kannst ein bisschen Hilfe in dieser lebensfeindlichen Umgebung gebrauchen.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

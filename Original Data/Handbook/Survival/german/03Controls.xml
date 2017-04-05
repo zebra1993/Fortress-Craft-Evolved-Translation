@@ -1,0 +1,176 @@
+<Chapter>
+	<Handle>controls</Handle>
+	<Title>Controls</Title>
+	<Icon>Build Gun V2</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Controls</Text>
+				</Title>
+				<Paragraph>
+					<Text>In dieser Hilfe findest du alle Verfügbaren Steuerungen für FotressCraft Evolved. Keine Angst, wenn dich die Menge der Kontrollen verunsichert, schau dir nur die wichtigsten Funktionen an um loszulegen. </Text>
+				</Paragraph>
+				<Spacer />
+				<Paragraph>
+					<Text>Manche der Stuerungen sind erst verfügbar, wenn du das Tuorial abgeschlossen hast.</Text>
+				</Paragraph>				
+				<Header>
+					<Text>Wichtigsten Kontrollen</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>W, A, S &amp; D: Bewegung
+					Space: Springen
+					H: Diese Hilfe
+					Escape: Hauptmenü
+					
+					X: Wechsel zur Baupistole
+					LMT: Block setzten
+					RMT: Block entfernen
+					
+					M: Wechsel zum Scanner
+					LMT: Material Ping
+					RMT: Block scannen
+					</Left>
+					<Right>I: Inventar öffnen
+					C: Baumenü öffnen
+					F: Greifhaken abfeuern 
+					G: Leuchtstab werfen
+					
+					E: Maschine benutzen
+					Q: Objekt aus einer Maschine herausnehmen
+					R: Eine Maschine Drehen
+					
+					V: Wechsel zur Strahlenpistole
+					LMT: Feuer
+					RMT: Einen Schuss aufladen , zum abfeuern loslassen
+					</Right>
+				</TwoColumnParagraph>
+				<Paragraph>
+					<Text>(LMT = Linke Maustaste, RMT = Rechte Maustaste)</Text>
+				</Paragraph>
+				<Header>
+					<Text>Steuerungen anpassen</Text>
+				</Header>				
+				<Paragraph>
+					<Text>Die meisten Steuerungen können über den Startbildschirm angepasst werden. Im Spiel werde diese Änderungen nicht in den Hilfen angezeigt</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Bewegung &amp; Ansicht</Text>
+				</Header>		
+				<TwoColumnParagraph>
+					<Left>W: Vorwärts Bewegen
+					S: Rückwärts Bewegen
+					A: Nach links Neigen
+					D: Nach rechts Neigen</Left>
+					<Right>Leertaste: Springen
+					Maus: Sich umsehen
+					U: Auf eine Lohre aufspringen
+					Z: Zoom</Right>
+				</TwoColumnParagraph>				
+				<Header>
+					<Text>Waffen &amp; Werkzeuge</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>X: Wechsel zur Baupistole
+					V: Wechsel zur Strahlenpistole
+					B: Wechsel zur Kamera</Left>
+					<Right>N: Wechsel zur Farbpistole
+					M: Wechsel zum Scanner
+					Umschalt + Mausrad: Werkzeuge durchschalten</Right>
+				</TwoColumnParagraph>					
+				<Header>
+					<Text>Inventar &amp; Schnellwahl Menü</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>I: Inventar öffnen
+					F1-F7: Schnellwahlblock wählen
+					1-9 &amp; 0: Slot auswählen
+					Q : Objekt wegwerfen
+					</Left>
+					<Right>Umschalt + Ziehen: Stapel aufteilen
+					Steuerung + Mausrad: Schnellwahlmenü 
+					Steuerung + Mausrad: Schnellwahlblock durchschalten
+					--
+					</Right>
+				</TwoColumnParagraph>					
+				<Header>
+					<Text>Anzugsfunktionen</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>C: Baumenü öffnen
+					L: Stirnlampe
+					J: Jetpack (muss erst gebaut werden)
+					F: Greifhaken abfeuern </Left>
+					<Right>G: Leuchtstab werfen
+					K: Holobase Ansicht öffnen
+					U: Holobase Modus umschalten
+					Leertaste: Greifhaken loslassen</Right>
+				</TwoColumnParagraph>		
+				<Header>
+					<Text>Maschinen</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>E: Maschinen benutzen
+					T: Objekt in Maschine legen
+					R: Maschine im Uhrzeigersinn drehen
+					]: Maschine im Uhrzeigersinn drehen</Left>
+					<Right>Q: Objekt aus einer Maschine nehmen
+					Shift-T: 10 Objekte in eine Maschine legen
+					Shift-E: Hopper Vacuum Mode
+					[: Maschine gegen den Uhrzeigersinn drehen</Right>
+				</TwoColumnParagraph>					
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Multiplayer</Text>
+				</Header>	
+				<Paragraph>
+					<Text>Enter: Chat Fenster öffnen
+					Rechte Umschalt Taste: Zeige Server Informationen
+					Rechte Umschalt Taste  + F1, F2 or F3: Netzwerk Bandbreite anpassen</Text>
+				</Paragraph>
+				<Header>
+					<Text>Baupistole</Text>
+				</Header>	
+				<TwoColumnParagraph>
+					<Left>LMT: Block setzten
+					RMT: Block entfernen
+					MMT : Block auswählen</Left>
+					<Right>Control + LMt: Build-To-Me (zu mir bauen)
+					Steuerung + RMT halten: Super Dig (viel auf einmal Abbauen)</Right>
+				</TwoColumnParagraph>				
+				<Header>
+					<Text>Scanner</Text>
+				</Header>	
+				<Paragraph>
+					<Text>LMT: Umgebung Pingen
+					RMT: Block Scannen
+					Mausrad: Ping Einstellungen verändern</Text>
+				</Paragraph>
+				<Header>
+					<Text>Strahlenpistole</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>LMT: Einzelner Schuss abfeuern</Left>
+					<Right>RMT: Einen Schuss aufladen, zum abfeuern loslassen</Right>
+				</TwoColumnParagraph>	
+				<Header>
+					<Text>Anderes</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Escape: Hauptmenü
+					Steuerung + M: Musik durschalte</Left>
+					<Right>Tabulator: ARTHER Entfernung einstellen</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
+<!-- Translated by Tropic62 -->

@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Blue GlowPod</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Blaue Leuchtschote</Text>
+				</Title>
+				<Icon>
+					<Name>Blue GlowPod</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Diese hier heimische Spezies der Flora emittiert einen stetigen blauen Schein aufgrund einer chemischen Reaktion direkt unter der Oberfläche der Pflanze.</Text>
+				</Paragraph>		
+				<Spacer/>
+				<Paragraph>
+					<Text>Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</Text>
+				</Paragraph>		
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

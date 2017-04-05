@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>mining upgrade 2</Handle>
+	<Title>Basic Miner Upgrades II</Title>
+	<Icon>Enhanced Drill Motor</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bergbau II</Text>
+				</Title>
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Durch unsere vorangegangene Forschung im Bergbau sollten wir in der Lage sein unsere Bohrer und Zwangs-Induktoren noch weiter zu verbessern.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

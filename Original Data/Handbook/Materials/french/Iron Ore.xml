@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MaterialEntry>
+  <Name>Iron Ore</Name><!-- Names can't be translated, but aren't displayed-->
+  <Pages>
+    <Page>
+      <Paragraphs>
+        <Title>
+          <Text>Minerai de Fer</Text>
+        </Title>
+        <Icon>
+          <Name>Iron Ore_Sparse</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+          <Text>Trouvé autour de 100m sous la surface et en dessous, minerai de fer peut être fondu dans des barres de fer à l'aide de la fonderie. Barres de fer sont utilisés dans une grande variété de machines.</Text>
+        </Paragraph>
+        <Spacer></Spacer>
+        <Paragraph>
+          <Text>Le minerai de fer peut être extrait à l'aide d'un extracteur de minerai.</Text>
+        </Paragraph>
+      </Paragraphs>
+    </Page>
+  </Pages>
+</MaterialEntry>

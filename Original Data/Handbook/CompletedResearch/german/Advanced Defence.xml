@@ -1,0 +1,21 @@
+<Chapter>
+	<Handle>Advanced Defence</Handle>
+	<Title>Advanced Defence</Title>
+	<Icon>>Missile Turret MK1</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Verbesserte Verteidigung</Text>
+				</Title>
+				<Icon>
+					<Name>Raketenwerfer MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Wir haben Verbesserungen an den Energietürmen vorgenommen und einen neuartigen Raketenwerfer entwickelt. Wir können nun auch die dafür notwendigen Raketen herstellen und mit neuartigen Treibstoffen befüllen.</Text>  
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

@@ -1662,7 +1662,7 @@
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>High damage missile defense system. Will only target large enemies. Ammunition must be manufactured and stored in an adjacent Storage Hopper. Has a minimum range of 96m.</Description>
+		<Description>High damage missile defense system. Will only target large enemies. Ammunition must be manufactured and stored in an adjacent Storage Hopper. Has a minimum range of 64m.</Description>
 		<Hint>Needs Missiles crafted for it.</Hint>
 		<ResearchRequirements>
 			<Research>Advanced Defence</Research>
@@ -4916,6 +4916,7 @@
 		</ResearchRequirements>
 		<Description>Mass Storage Facility. Place on a horizontal plane. Use I/O ports to access the contents!</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+    <ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinput</Key>
@@ -4947,6 +4948,7 @@
 		</ResearchRequirements>
 		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 5 of the same item; pre-sorting can massively increase efficiency.</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+    <ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK2</Key>
@@ -4974,6 +4976,7 @@
 		</ResearchRequirements>
 		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 12 of the same item; pre-sorting can massively increase efficiency.</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+    <ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinputMK3</Key>
@@ -5005,7 +5008,81 @@
 		</ResearchRequirements>
 		<Description>Inserts items from a conveyor into the Mass Storage Facility. Inserts 25 of the same item; pre-sorting can massively increase efficiency.</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+    <ResearchCost>2</ResearchCost>
 	</CraftData>
+ 	<CraftData>     Finalize Stocking Port Recipes!!!
+		<Key>massstoragestockingMK1</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK1</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>PrimaryPCB</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>T3 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Stocks a specified quantity of an item in mass storage.</Description>
+		<Hint>Prevents clogging your mass storage crates with one item type!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData>
+	<CraftData>
+		<Key>massstoragestockingMK2</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK2</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK2</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ConductivePCB</Key>
+				<Amount>7</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>LightweightPCB</Key>
+				<Amount>3</Amount>
+			</CraftCost>	
+		</Costs>
+		<ResearchRequirements>
+			<Research>T4 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Stocks a specified quantity of an item in mass storage.</Description>
+		<Hint>Prevents clogging your mass storage crates with one item type!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData>
+	<CraftData>
+		<Key>massstoragestockingMK3</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK3</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK3</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>CrystalClock</Key>
+				<Amount>20</Amount>
+			</CraftCost>	
+		</Costs>
+		<ResearchRequirements>
+			<Research>T5 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Stocks a specified quantity of an item in mass storage.</Description>
+		<Hint>Prevents clogging your mass storage crates with one item type!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData> 
 	<CraftData>
 		<Key>massstorageoutput</Key>
 		<Category>storage</Category>
@@ -5036,6 +5113,7 @@
 		</ResearchRequirements>
 		<Description>Removes the specified type of item from the Mass Storage Facility. Removes 5 per trip.</Description>
 		<Hint>Unlimited Storage. Use I/O ports to access the contents!</Hint>
+    <ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK2</Key>
@@ -8609,5 +8687,24 @@
 			<Research>rocketry1</Research>
 		</ResearchRequirements>
 	</CraftData>
+
+  <CraftData>
+    <Key>orbitalrailgun_cd</Key>
+    <Category>upgrades</Category>
+    <Tier>2</Tier>
+    <CraftedKey>T5_OrbitalRailGunControllerPlacement</CraftedKey>
+    <CraftedAmount>1</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>AlloyedMachineBlock</Key>
+        <Amount>64</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>This 9x9x9 machine will automatically digistruct a 1 kilometre track. WHEN BUILT IT CANNOT BE REMOVED. THINK VERY CAREFULLY BEFORE BUILDING.</Description>
+    <Hint>The launch area is 5x5x1000. This is not a typo.</Hint>
+    <ResearchRequirements>
+      <Research>orbitalrailgun</Research>
+    </ResearchRequirements>
+  </CraftData>
 
 </ArrayOfCraftData>
