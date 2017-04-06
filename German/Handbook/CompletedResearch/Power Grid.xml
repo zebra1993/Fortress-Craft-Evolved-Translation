@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>T1 Power</Handle>
 	<Title>Power Grid</Title>
 	<Icon>Power Grid</Icon>
@@ -13,7 +13,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Wir haben nun neue Möglichkeiten Energie zu produzieren und zu transportieren. Diese Forschung hat auch neue Verbesserungen für ARTHER und eine neue Technologie zur Folge, den Materie-Teleporter</Text>
+					<Text>Wir haben nun neue Möglichkeiten, Energie zu produzieren und zu transportieren. Diese Forschung hat auch neue Verbesserungen für ARTHER und eine neue Technologie zur Folge, den Materie-Teleporter</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Pyrothermic Generator</Text></Header>
@@ -30,7 +30,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Neben Energiespeicher oder Generator platzieren, um Energie bis zu einer Entfernung von 64m zu transportieren. Mögliche Empfänger sind Energiespeicher, Verbraucher und weitere Transmitter. Dies kann dazu genutzt werden, die tiefer liegenden Minen mit Energie zu versorgen.</Text>
+					<Text>Neben Energiespeicher oder Generator platzieren, um Energie bis zu einer Entfernung von 64m zu transportieren. Mögliche Empfänger sind Energiespeicher, jegliche Verbraucher und weitere Transmitter. Dies kann dazu genutzt werden, die tiefer liegenden Minen mit Energie zu versorgen.</Text>
 				</Paragraph>					
 			</Paragraphs>
 		</Page>

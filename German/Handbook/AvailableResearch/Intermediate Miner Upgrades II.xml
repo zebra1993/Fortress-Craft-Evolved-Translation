@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>mining upgrade 4</Handle>
 	<Title>Intermediate Miner Upgrades II</Title>
 	<Icon>Enhanced Drill Motor</Icon>
@@ -13,7 +13,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Es sollte möglich sein die Förder-rate unserer Bohrer signifikant zu erhöhen. This project will also investigate alternative methods of collecting ore.</Text>
+					<Text>Es sollte möglich sein die Förder-rate unserer Bohrer signifikant zu erhöhen. Dieses Projekt wird zudem alternative Erzgewinningsmethoden untersuchen.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>mining upgrade 1</Handle>
 	<Title>Basic Mining Upgrades I</Title>
 	<Icon>Magnetic Drill Motor</Icon>
@@ -13,7 +13,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Wir müssen einen Weg finden um die Rate zu erhöhen, mit der Erze abgebaut und verarbeitet werden können. Diese Forschung wird uns die nötigen Ergebnisse liefern.</Text>
+					<Text>Wir müssen einen Weg finden, um die Rate zu erhöhen, mit der Erze abgebaut und verarbeitet werden können. Diese Forschung wird uns die nötigen Ergebnisse liefern.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

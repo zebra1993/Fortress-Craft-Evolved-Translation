@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <languages>
@@ -7,11 +7,11 @@
     <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
     <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
-    <string name="Frozen_Factory">gefrohrene Fabrik</string>
+    <string name="Frozen_Factory">Gefrohrene Fabrik</string>
     <string name="Dapper_Pack">Dapper Pack</string>
-    <string name="Skin_Pack">Anzugslackierungspaket</string>
+    <string name="Skin_Pack">Skin-Paket</string>
     <string name="Installed">Installiert</string>
-    <string name="Not_Installed">Nicht Installiert </string>
+    <string name="Not_Installed">Nicht Installiert</string>
     <string name="Multiplayer_Sign">&lt;Mehrspieler</string>
     <string name="Quit_Sign">Verlassen</string>
     <string name="World_Sign">Weltenauswahl</string>
@@ -42,7 +42,7 @@
 
 	    <!-- Mod Menu -->
     <string name="Mod_Management">Mod Management</string>
-    <string name="Mod_Name">Moddifikations Name</string>
+    <string name="Mod_Name">Mod Name</string>
     <string name="Active">Aktiv</string>
     <string name="Version">Version</string>
     <string name="Lock">gesperrt</string>

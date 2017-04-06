@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>T4 Power</Handle>
 	<Title>Ultra-Power Grid</Title>
 	<Icon>Ultra-Power Grid</Icon>
@@ -13,7 +13,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Wir haben die maximale Energiedichte pro 1m Würfel erreicht. Diese Forschung behandelt die Machbarkeit von größeren Energiespeichern.</Text>
+					<Text>Wir haben die maximale Energiedichte erreicht, die man in einem 1m³ Objekt speichern kann. Diese Forschung behandelt die Entwicklung von größeren Energiespeichern.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
