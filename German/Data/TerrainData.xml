@@ -7997,6 +7997,62 @@
 	</TerrainDataEntry>	
 	
 	<TerrainDataEntry>
+    <CubeType>802</CubeType>
+    <Key>T5_OrbitalRailGunController</Key>
+    <Name>Orbital RailGun Controller</Name>
+    <IconName>NONE_YOU_CANT_USE_THIS</IconName>
+    <Description>Norden. Dies zeigt richtung Norden.</Description>
+    <LayerType>PrimaryTerrain</LayerType>
+    <TopTexture>192</TopTexture>
+    <SideTexture>192</SideTexture>
+    <BottomTexture>192</BottomTexture>
+    <GUITexture>192</GUITexture>
+    <isSolid>false</isSolid>
+    <isTransparent>true</isTransparent>
+    <isHollow>false</isHollow>
+    <isGlass>false</isGlass>
+    <isPassable>false</isPassable>
+    <hasObject>true</hasObject>
+    <hasEntity>true</hasEntity>
+    <Category>Machine</Category>
+    <AudioWalkType>Sand</AudioWalkType>
+    <AudioBuildType>Dirt</AudioBuildType>
+    <AudioDestroyType>None</AudioDestroyType>
+    <isMultiBlockMachine>true</isMultiBlockMachine>
+    <PickReplacement>T5_OrbitalRailGunControllerPlacement</PickReplacement>
+    <tags>
+      <tag>Machinery</tag>
+    </tags>
+  </TerrainDataEntry>
+  <TerrainDataEntry>
+    <CubeType>803</CubeType>
+    <Key>T5_OrbitalRailGunRing</Key>
+    <Name>Orbital RailGun Induction Ring</Name>
+    <IconName>NONE_YOU_CANT_USE_THIS</IconName>
+    <Description>Norden. Dies zeigt richtung Norden.</Description>
+    <LayerType>PrimaryTerrain</LayerType>
+    <TopTexture>143</TopTexture>
+    <SideTexture>143</SideTexture>
+    <BottomTexture>143</BottomTexture>
+    <GUITexture>143</GUITexture>
+    <isSolid>false</isSolid>
+    <isTransparent>true</isTransparent>
+    <isHollow>false</isHollow>
+    <isGlass>false</isGlass>
+    <isPassable>false</isPassable>
+    <hasObject>true</hasObject>
+    <hasEntity>true</hasEntity>
+    <Category>Machine</Category>
+    <AudioWalkType>Sand</AudioWalkType>
+    <AudioBuildType>Dirt</AudioBuildType>
+    <AudioDestroyType>None</AudioDestroyType>
+    <Hardness>500000</Hardness> <!-- Can NOT be taken out with explosives -->
+    <tags>
+      <tag>Machinery</tag>
+    </tags>
+  </TerrainDataEntry>
+	
+	<TerrainDataEntry>
 		<CubeType>514</CubeType>
 		<Key>ResearchStation</Key>
 		<Name>Research Station</Name>
@@ -9494,7 +9550,7 @@
 	<TerrainDataEntry>
 		<CubeType>528</CubeType>
 		<Key>MassStorageInputPort</Key>
-		<Name>Mass Storage Input Port</Name>
+		<Name>Mass Storage Input Port Base</Name>
 		<IconName>Mass Storage Input Port</IconName>
 		<Description>Wird genutz um Rescourcen im Hochregallager zu einzulagern.</Description>
 
@@ -9545,7 +9601,7 @@
 	<TerrainDataEntry>
 		<CubeType>529</CubeType>
 		<Key>MassStorageOutputPort</Key>
-		<Name>Mass Storage Output Port</Name>
+		<Name>Mass Storage Output Port Base</Name>
 		<IconName>Mass Storage Output Port</IconName>
 		<Description>Wird genutz um Rescourcen aus dem Hochregallager zu entnehmen.</Description>
 		<LayerType>PrimaryTerrain</LayerType>
@@ -10927,6 +10983,13 @@
 				<IconName>FuelCompressor</IconName>
 				<Description>Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</Description>
 			</ValueEntry>
+			<ValueEntry>
+				<Value>40</Value>
+				<Key>T5_OrbitalRailGunControllerPlacement</Key>
+				<Name>Orbital RailGun Controller</Name>
+				<IconName>OrbitalRailGunController</IconName>
+				<Description>Sende Zeugs schneller in den Orbit als deinen Freunde. In einem 9x9x9 Würfel bauen.</Description>
+			</ValueEntry>
 
      	</Values>
 		<Stages>
@@ -11969,4 +12032,56 @@
 			<tag>Machinery</tag>
 		</tags>
  	</TerrainDataEntry> 
+		<TerrainDataEntry>
+		<CubeType>604</CubeType>
+		<Key>MassStorageStockingPort</Key>
+		<Name>Mass Storage Stocking Port Base</Name>
+		<IconName>Mass Storage Stocking Port</IconName>
+		<Description>Dies nutzen um spezifizierte Anzahl von Gegenständen im Massenlager zu halten.</Description>
+
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>143</TopTexture>
+		<SideTexture>143</SideTexture>
+		<BottomTexture>143</BottomTexture>
+		<GUITexture>143</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Wood</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<Values>
+			<ValueEntry>
+				<Value>0</Value>
+				<Key>MassStorageStockingPortMK1</Key>
+				<Name>Basic Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input Port</IconName>
+				<Description>Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 5 Dinge zur selben Zeit.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>1</Value>
+				<Key>MassStorageStockingPortMK2</Key>
+				<Name>Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input PortMK2</IconName>
+				<Description>Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 12 Dinge zur selben Zeit.</Description>
+			</ValueEntry>
+			<ValueEntry>
+				<Value>2</Value>
+				<Key>MassStorageStockingPortMK3</Key>
+				<Name>Bulk Mass Storage Stocking Port</Name>
+				<IconName>Mass Storage Input PortMK3</IconName>
+				<Description>Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 25 Dinge zur selben Zeit.</Description>
+			</ValueEntry>
+		</Values>
+		<tags>
+			<tag>Voxel</tag>
+			<tag>Wood</tag>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
 </ArrayOfTerrainDataEntry>

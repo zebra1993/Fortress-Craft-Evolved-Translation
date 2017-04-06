@@ -358,7 +358,7 @@
 	<ItemEntry>
 		<ItemID>105</ItemID>
 		<Key>LightweightMachinePlates</Key>
-		<Name>Lightweight Machine Plates</Name>
+		<Name>Lightweight Machine Plate</Name>
 		<Plural>Lightweight Machine Plates</Plural>
 		<Type>ItemStack</Type>	
 		<Hidden>false</Hidden>
@@ -1725,7 +1725,7 @@
 	 <ItemEntry>
 		<ItemID>451</ItemID>
 		<Key>OverclockedCrystalClock</Key>
-		<Name>Overclocked Crystal</Name>
+		<Name>Overclocked Crystal Clock</Name>
 		<Plural>Overclocked Crystal Clocks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>OverclockedClockCrystal</Object>
@@ -1797,7 +1797,7 @@
 		<ItemID>1001</ItemID>
 		<Key>SuitCoolerMK1</Key>
 		<Name>Suit Cooler MK1</Name>
-		<Plural>Suit Cooler  MK1</Plural>
+		<Plural>Suit Cooler MK1</Plural>
 		<Type>ItemStack</Type>	
 		<Hidden>true</Hidden>
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
@@ -2006,7 +2006,7 @@
 		<ItemID>2002</ItemID>
 		<Key>ARTHERBatteryCore</Key>
 		<Name>ARTHER Battery Core</Name>
-		<Plural>ARTHER Battery Core</Plural>
+		<Plural>ARTHER Battery Cores</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Battery Core</Sprite>
@@ -2045,7 +2045,7 @@
 		<ItemID>2005</ItemID>
 		<Key>ARTHERDapperMonocle</Key>
 		<Name>ARTHER Dapper Monocle</Name>
-		<Plural>ARTHER Dapper Monocle</Plural>
+		<Plural>ARTHER Dapper Monocles</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Dapper Monocle</Sprite>
@@ -2056,7 +2056,7 @@
 		<ItemID>2006</ItemID>
 		<Key>ARTHERDapperMoustache</Key>
 		<Name>ARTHER Dapper Moustache</Name>
-		<Plural>ARTHER Dapper Moustache</Plural>
+		<Plural>ARTHER Dapper Moustaches</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Dapper Moustache</Sprite>
@@ -2067,7 +2067,7 @@
 		<ItemID>2007</ItemID>
 		<Key>ARTHERDapperPack</Key>
 		<Name>ARTHER Dapper Pack</Name>
-		<Plural>ARTHER Dapper Pack</Plural>
+		<Plural>ARTHER Dapper Packs</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Dapper Pack</Sprite>
@@ -2078,7 +2078,7 @@
 		<ItemID>2008</ItemID>
 		<Key>ARTHERDapperUpgradePack</Key>
 		<Name>ARTHER Dapper Upgrade Pack</Name>
-		<Plural>ARTHER Dapper Upgrade Pack</Plural>
+		<Plural>ARTHER Dapper Upgrade Packs</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Dapper Upgrade Pack</Sprite>
@@ -2107,7 +2107,7 @@
 		<ItemID>2101</ItemID>
 		<Key>ARTHERMaskSkeleton</Key>
 		<Name>ARTHER Skeleton Mask</Name>
-		<Plural>ARTHER Skeleton Mask</Plural>
+		<Plural>ARTHER Skeleton Masks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Skeleton Mask</Sprite>
@@ -2122,7 +2122,7 @@
 		<ItemID>2102</ItemID>
 		<Key>ARTHERMaskPumpkin</Key>
 		<Name>ARTHER Pumpkin Mask</Name>
-		<Plural>ARTHER Pumpkin Mask</Plural>
+		<Plural>ARTHER Pumpkin Masks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Pumpkin Mask</Sprite>
@@ -2136,7 +2136,7 @@
 		<ItemID>2103</ItemID>
 		<Key>ARTHERMaskGhost</Key>
 		<Name>ARTHER Ghost Mask</Name>
-		<Plural>ARTHER Ghost Mask</Plural>
+		<Plural>ARTHER Ghost Masks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Ghost Mask</Sprite>
@@ -2150,7 +2150,7 @@
 		<ItemID>2104</ItemID>
 		<Key>ARTHERMaskGoblin</Key>
 		<Name>ARTHER Goblin Mask</Name>
-		<Plural>ARTHER Goblin Mask</Plural>
+		<Plural>ARTHER Goblin Masks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Goblin Mask</Sprite>
@@ -2164,7 +2164,7 @@
 		<ItemID>2105</ItemID>
 		<Key>ARTHERMaskSanta</Key>
 		<Name>ARTHER Santa Mask</Name>
-		<Plural>ARTHER Santa Mask</Plural>
+		<Plural>ARTHER Santa Masks</Plural>
 		<Type>ItemStack</Type>	
 		<Object>UnknownItem</Object><!-- Obviously placeholder :D we display this when it's dropped -->
 		<Sprite>ARTHER Santa Mask</Sprite>
@@ -2647,7 +2647,7 @@
 		<ItemID>3600</ItemID>
 		<Key>CryoBomb</Key>
 		<Name>Cryo Bomb</Name>
-		<Plural>Cryo Bomb</Plural><!-- Er, I guess -->
+		<Plural>Cryo Bombs</Plural><!-- Er, I guess -->
 		<Type>ItemStack</Type>	
 		<Object>Canister_Freezon</Object>
 		<Sprite>CryoBomb</Sprite>
@@ -2931,7 +2931,6 @@
 		<DecomposeValue>5</DecomposeValue> <!-- gives 5 research points when analysed -->
 	</ItemEntry>
 
-	<!-- Research drop from hives -->
 	<ItemEntry>
 		<ItemID>4050</ItemID>
 		<Key>RefinedLiquidResin</Key>

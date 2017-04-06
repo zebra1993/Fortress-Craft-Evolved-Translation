@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Advanced Experimental Pod</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fortgeschrittenes Experiment</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Advanced</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das Fortgeschrittene Experiment wird im Labor verwendet um die Forschung voranzutreiben. Es wird aus Gold hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laborforschung</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>Für weitere Informationen zum herstellen von Experimenten klicke auf folgenden Link.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimente</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

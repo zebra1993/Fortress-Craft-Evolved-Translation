@@ -37,7 +37,7 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 	
-	<string name="Creative_New">Creative Mode gives you an unlimited ability to build anything, high-resolution detail blocks, extensive world editing tools, schematics, blueprints and copy-paste systems. It does not feature most of the survival elements, and should not be thought of as a 'cheat mode' for Survival!</string>
+	<string name="Creative_New">Der Kreativ Modus gibt dir unlimitierte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke,  Creative Mode gives you an unlimited ability to build anything, high-resolution detail blocks, extensive world editing tools, schematics, blueprints and copy-paste systems. It does not feature most of the survival elements, and should not be thought of as a 'cheat mode' for Survival!</string>
     <string name="Creative_Info">Dies ist einen existierende Kreativwelt, jedoch, leider kann keine brauchbare Infomration angezeigt werden. Darf es dafür ein Bild einer Katze sein?</string>
 
 	    <!-- Mod Menu -->
@@ -1554,11 +1554,11 @@
     <string name="Mass Storage IO Port">Massenlager Ein-/ Ausgang</string>
     <string name="Mass Storage IO Port_DESC">Ein-/Ausgangsport mit grossen Durchsatz.</string>
     <string name="Basic Mass Storage Stocking Port">einfacher Massenlager einstellbarer Eingang</string><!-- Not optimal, should be changed or better MUST-->
-    <string name="Basic Mass Storage Stocking Port_DESC">Basic Mass Storage Stocking Port_DESC</string>
+    <string name="Basic Mass Storage Stocking Port_DESC">Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 5 Dinge zur selben Zeit.</string>
     <string name="Mass Storage Stocking Port">Massenlager einstellbarer Eingang</string>
-    <string name="Mass Storage Stocking Port_DESC">Mass Storage Stocking Port_DESC</string>
+    <string name="Mass Storage Stocking Port_DESC">Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 12 Dinge zur selben Zeit.</string>
     <string name="Bulk Mass Storage Stocking Port">Schüttgut Massenlager einstellbarer Eingang</string>
-    <string name="Bulk Mass Storage Stocking Port_DESC">Bulk Mass Storage Stocking Port_DESC</string>
+    <string name="Bulk Mass Storage Stocking Port_DESC">Wird genutzt um Dinge im Massenlager einzulagern. Trägt bis zu 25 Dinge zur selben Zeit.</string>
     <string name="Orbital Strike Controller">Orbitalfeuer Zeilmarkierung</string>
     <string name="Orbital Strike Controller_DESC">Ebne die Gegend durch Orbitalbeschuss ein. Es ist der einzige Weg sicher zugehen. Setzt einen komplett geladenen OET vorauss.</string>
     <string name="SurfaceHiveSpawn">Oberflächen Schwarmstock</string> <!-- Hive = Beehive, but as no Bees com out of it, i used Swarmhive-->
@@ -1681,9 +1681,9 @@
     <string name="H.O.D.O.R._DESC">High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.</string>
 	
     <string name="Orbital RailGun Controller">Orbital Scheinengeschütz Steuerung</string>
-    <string name="Orbital RailGun Controller_DESC">Orbital RailGun Controller_DESC</string>
+    <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt richtung Norden.</string>
     <string name="Orbital RailGun Induction Ring">Orbital Scheinengeschütz Induktionsring</string>
-    <string name="Orbital RailGun Induction Ring_DESC">Orbital RailGun Induction Ring_DESC</string>
+    <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt richtung Norden.</string>
 	
     <string name="Hydroponics Bay">Hydroponikeinheit</string>
     <string name="Hydroponics Bay_DESC">Züchtet automatisch Pflanzen. Setzt eine Abdeckung voraus.</string>
@@ -1830,7 +1830,7 @@
     <string name="Turret MK2_CRAFT_HINT">Kann auf einem Schmelzofen gebaut werden wenn du willst.</string>
     <string name="Turret MK3_CRAFT_DESC">Energiebasierte, Langdistanzverteidigung. Reichweite von 72m, Langsame Feuerrate aber grosser Schaden. Braucht Energie.</string>
     <string name="Turret MK3_CRAFT_HINT">Verbessere deine MK2 Türme mit der Ausbäute von Angriffswellen.</string>
-    <string name="Missile Turret MK1_CRAFT_DESC">Raketenverteidigunssystem mit grossem Schaden. Zielerfassung nur für grosse Gegner. Munition muss extern hergetellt werden und in angrenzendem Lagertrichter gelagert werden. Mindestflugdistanz: 96m.</string>
+    <string name="Missile Turret MK1_CRAFT_DESC">Raketenverteidigunssystem mit grossem Schaden. Zielerfassung nur für grosse Gegner. Munition muss extern hergetellt werden und in angrenzendem Lagertrichter gelagert werden. Mindestflugdistanz: 64m.</string>
     <string name="Missile Turret MK1_CRAFT_HINT">Benötigt hergestellte Raketen.</string>
     <string name="Threat Scanner_CRAFT_DESC">Stellt ein einfaches Frühwarnsystem dar. Schätzt die Bedrohung der Basis und die Zeit des nächsten Angriffs.</string>
     <string name="Threat Scanner_CRAFT_HINT">Nutze mehrere im den Angriffsvektor zu triangulieren.</string>
@@ -2101,12 +2101,12 @@
     <string name="Mass Storage Input Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
     <string name="Bulk Mass Storage Input Port_CRAFT_DESC">Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 25 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</string>
     <string name="Bulk Mass Storage Input Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
-    <string name="Basic Mass Storage Stocking Port_CRAFT_DESC">Basic Mass Storage Stocking Port_CRAFT_DESC</string>
-    <string name="Basic Mass Storage Stocking Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
-    <string name="Mass Storage Stocking Port_CRAFT_DESC">Mass Storage Stocking Port_CRAFT_DESC</string>
-    <string name="Mass Storage Stocking Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
-    <string name="Bulk Mass Storage Stocking Port_CRAFT_DESC">Bulk Mass Storage Stocking Port_CRAFT_DESC</string>
-    <string name="Bulk Mass Storage Stocking Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
+    <string name="Basic Mass Storage Stocking Port_CRAFT_DESC">Lagert eine bestimmte Anzahl von einem Gegenstand.</string>
+    <string name="Basic Mass Storage Stocking Port_CRAFT_HINT">Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</string>
+    <string name="Mass Storage Stocking Port_CRAFT_DESC">Lagert eine bestimmte Anzahl von einem Gegenstand.</string>
+    <string name="Mass Storage Stocking Port_CRAFT_HINT">Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</string>
+    <string name="Bulk Mass Storage Stocking Port_CRAFT_DESC">Lagert eine bestimmte Anzahl von einem Gegenstand.</string>
+    <string name="Bulk Mass Storage Stocking Port_CRAFT_HINT">Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</string>
     <string name="Basic Mass Storage Output Port_CRAFT_DESC">Entfernt spezifischen Gegenstand aus dem Masselager. Kann 5 Gegenstände pro Weg tragen.</string>
     <string name="Basic Mass Storage Output Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
     <string name="Mass Storage Output Port_CRAFT_DESC">Entfernt spezifischen Gegenstand aus dem Masselager. Kann 12 Gegenstände pro Weg tragen.</string>
@@ -2544,20 +2544,19 @@
     <string name="Q_Reset">(Q zum zurücksetzen)</string>
     <string name="Average_PPS">Durschnitts EPS</string>
     <!-- Defaults for when we don't have anything fitted-->
-    <string name="Economy_Drill_Motor">Economy Drill Motor</string>
+    <string name="Economy_Drill_Motor">Economy Bohrantrieb</string>
     <string name="Standard_Cutter_Head">Standart Bohrkopf</string>
     <!-- Popup Window -->
     <string name="Add_Power">Energie hinzufügen</string>
     <string name="Click_UG">Icon anklicken zum verbessern</string>
     <string name="Speed">Geschwindigkeit</string>
     <string name="Mining">Aubbauen</string>
-   <!-- 
-    <string name="Mining">Keine Energie</string>
-    <string name="Mining">Kein Lagerplatz</string>
-    <string name="Mining">Keine Energie</string>
-    <string name="Mining">Keine Energie</string>
-	
-	Tripple "Out of Power", "keine Energie"? -->
+    <string name="Out_Of_Power">ohne Energie</string>
+    <string name="Out_Of_Storage">Lager voll</string>
+    <string name="Upgrade_Drill_Head">Bohrkopf&#13;verbessern</string><!-- Very little space for this-->
+    <string name="Next_Ore">Nächstes Erz</string>
+    <string name="Clearing_Vein">Ader bald leer</string>
+    <string name="Cant_Find_Ore">Kein Erz auffindbar</string>
 	
 </german>
 </languages>

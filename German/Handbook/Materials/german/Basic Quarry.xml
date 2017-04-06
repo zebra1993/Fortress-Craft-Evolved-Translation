@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Name>Basic Quarry</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Einfacher Steinbruch</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Quarry</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Steinbruch hebt das Erdreich unter ihm aus und platziert die gefundenen Ressourcen in angrenzenden Trichtern. Muss über -25m Höhe errichtet werden.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Quarry Size:
+					Quarry Depth:
+					Power Required
+					Power Capacity:
+					Maximum Recharge Rate:
+					Maximum Hardness Dug:
+					Maximum Dig Speed:
+					Ore Extraction Efficiency:</Left>
+					<Right>9m x 9m
+					3950
+					150 per 1m cube
+					4096
+					1024 per second
+					250
+					5 cubic meters per second
+					10%</Right>
+				</TwoColumnParagraph>	
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

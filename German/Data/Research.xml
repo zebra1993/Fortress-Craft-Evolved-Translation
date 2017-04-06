@@ -936,6 +936,33 @@
 			</Requirement>
 		</ProjectItemRequirements>
 	</ResearchDataEntry>
+	<ResearchDataEntry>
+		<Key>orbitalrailgun</Key>
+		<Name>Orbital Railgun</Name><!-- AKA Newtonian Cannon, AKA Gauss Cannon, AKA CoilGun -->
+		<IconName>Orbital Power Transmission</IconName>
+		<ResearchCost>0</ResearchCost>
+		<PreDescription>Hey, lass uns einen GPS Satelliten in die Umlaufbahn bringen. Wie schwer kann dass schon sein?</PreDescription>
+		<PostDescription>Es stellt sich heraus das es SAU SCHWER ist das zu tun. Wir haben uns Entschieden die zu tun, nicht weil es einfach ist, sondern weil es schwierig ist.</PostDescription>
+		<ResearchRequirements>
+			<Research>orbitalpower</Research>
+			<Research>rocketry1</Research><!-- for the fuel refiner -->
+		</ResearchRequirements>
+		<ScanRequirements>
+			<Scan>CRP_DLC_KEY</Scan>
+			<!--Will become adventures pack. This is purely used to hide the research, so you can't research things you can't build.-->
+		</ScanRequirements>
+		<ProjectItemRequirements>
+			<Requirement>
+				<Key>AlloyedMachineBlock</Key>
+				<Amount>64</Amount>
+			</Requirement>
+			<Requirement>
+				<Key>RefinedLiquidResin</Key>
+				<Amount>64</Amount>
+			</Requirement>
+			</ProjectItemRequirements>
+	</ResearchDataEntry>
+  
 		<ResearchDataEntry>
 		<Key>rocketry1</Key>
 		<Name>Basic Rocketry</Name>

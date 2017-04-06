@@ -1,0 +1,47 @@
+<Chapter>
+	<Handle>T4_start</Handle>
+	<Title>The Frozen Factory!</Title>
+	<Icon>Local Life Forms</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Lokale Lebensformen</Text>
+				</Title>
+				<Icon>
+					<Name>MagmaBore Component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nun, da diese Forschung abgeschlossen ist können wir das Klimakontrollzentrum errichten. Einmal in den kalten Tiefen errichtet und mit Energie versorgt, verändert es die Umweltbedingungen langsam zu einem lebensfreundlichen Klima. Hier können wir, richtig eingerichtet, auf die Verstärkung warten.</Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text></Text>  
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>If we construct the Hard Rock Grinder on a suitable 3x3 piece of Chromium and Molybdenum, we should be able to construct a new type of drill. Nano-disintegrators will be ideal for making the flat surface needed.</Text>  
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+					</Target>
+					<Text>Hard Rock Grinder</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+					</Target>
+					<Text>NanoDisintegrator</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+					</Target>
+					<Text>Cold Cavern Climate Control Centre</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

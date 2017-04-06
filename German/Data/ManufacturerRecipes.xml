@@ -1663,7 +1663,7 @@
 				<Amount>3</Amount>
 			</CraftCost>
 		</Costs>
-		<Description>Raketenverteidigunssystem mit grossem Schaden. Zielerfassung nur für grosse Gegner. Munition muss extern hergetellt werden und in angrenzendem Lagertrichter gelagert werden. Mindestflugdistanz: 96m.</Description>
+		<Description>Raketenverteidigunssystem mit grossem Schaden. Zielerfassung nur für grosse Gegner. Munition muss extern hergetellt werden und in angrenzendem Lagertrichter gelagert werden. Mindestflugdistanz: 64m.</Description>
 		<Hint>Benötigt hergestellte Raketen.</Hint>
 		<ResearchRequirements>
 			<Research>Advanced Defence</Research>
@@ -4912,6 +4912,7 @@
 		</ResearchRequirements>
 		<Description>Massenlagersystem. Wir Horizontal ausgelegt, Ein-/Ausgänge verwendem um Inhalt zu verändern!</Description>
 		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageinput</Key>
@@ -5001,7 +5002,83 @@
 		</ResearchRequirements>
 		<Description>Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 25 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</Description>
 		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
+	
+	<CraftData>     <!--Finalize Stocking Port Recipes!!!-->
+		<Key>massstoragestockingMK1</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK1</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK1</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>PrimaryPCB</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+		</Costs>
+		<ResearchRequirements>
+			<Research>T3 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Lagert eine bestimmte Anzahl von einem Gegenstand.</Description>
+		<Hint>Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData>
+	<CraftData>
+		<Key>massstoragestockingMK2</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK2</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK2</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>ConductivePCB</Key>
+				<Amount>7</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>LightweightPCB</Key>
+				<Amount>3</Amount>
+			</CraftCost>	
+		</Costs>
+		<ResearchRequirements>
+			<Research>T4 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Lagert eine bestimmte Anzahl von einem Gegenstand.</Description>
+		<Hint>Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData>
+	<CraftData>
+		<Key>massstoragestockingMK3</Key>
+		<Category>storage</Category>
+		<Tier>1</Tier>
+		<CraftedKey>MassStorageStockingPortMK3</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>MassStorageInputPortMK3</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>CrystalClock</Key>
+				<Amount>20</Amount>
+			</CraftCost>	
+		</Costs>
+		<ResearchRequirements>
+			<Research>T5 assist machines</Research>
+		</ResearchRequirements>
+		<Description>Lagert eine bestimmte Anzahl von einem Gegenstand.</Description>
+		<Hint>Verhindert dass das Massenlager mit einem Gegenstand geflutet wird!</Hint>
+    <ResearchCost>2</ResearchCost>
+	</CraftData> 
+	
 	<CraftData>
 		<Key>massstorageoutput</Key>
 		<Category>storage</Category>
@@ -5032,6 +5109,7 @@
 		</ResearchRequirements>
 		<Description>Entfernt spezifischen Gegenstand aus dem Masselager. Kann 5 Gegenstände pro Weg tragen.</Description>
 		<Hint>Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</Hint>
+		<ResearchCost>2</ResearchCost>
 	</CraftData>
 	<CraftData>
 		<Key>massstorageoutputMK2</Key>
@@ -8606,5 +8684,23 @@
 			<Research>rocketry1</Research>
 		</ResearchRequirements>
 	</CraftData>
-
+	
+    <CraftData>
+    <Key>orbitalrailgun_cd</Key>
+    <Category>upgrades</Category>
+    <Tier>2</Tier>
+    <CraftedKey>T5_OrbitalRailGunControllerPlacement</CraftedKey>
+    <CraftedAmount>1</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>AlloyedMachineBlock</Key>
+        <Amount>64</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Diese 9x9x9 Block grosse Maschiene wird automatisch 1 Kilometer an Beschleunigungsschiene verlegen. NACH DEM BAU KANN SIE NICHT MHER ENTFERNT WERDEN. DENK GRÜNGLICH ÜBER DIE PLATZIERUNG NACH!</Description>
+    <Hint>Das Startgebiet ist 5x5x1000 Blöcke. Das ist KEIN Schreibfehler.</Hint>
+    <ResearchRequirements>
+      <Research>orbitalrailgun</Research>
+    </ResearchRequirements>
+  </CraftData>
 </ArrayOfCraftData>
