@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Conductive PCB</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Leitfähige Leiterplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Conductive PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine Goldbasierte Leiterplatte hergestellt aus Goldspulen in einer Leiterplattenfabrik.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

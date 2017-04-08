@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Name>Crystal Cutter Head</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallbohrkopf</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Verringert den Ausschuss beim Abbau von Erzen und erlaubt das gewinnen von härteren Materialien. Bohrköpfe nutzen sich mit der Zeit ab.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Der Kristallbohrkopf ist effizienter als der Stahlbohrkopf aber nutzt sich schneller ab.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Spezifikationen</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Effizienz:
+					Maximale Härte:
+					Haltbarkeit:</Left>
+					<Right>30%
+					250
+					5000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

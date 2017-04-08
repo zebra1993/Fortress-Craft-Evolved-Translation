@@ -1,23 +1,18 @@
 <MaterialEntry>
-	<Name>Chargeable Explosive</Name>
+	<Name>Deployed Explosive</Name>
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Aufladbarer Sprengsatz</Text>
+					<Text>Aktivierte Bombe</Text>
 				</Title>
 				<Icon>
-					<Name>Chargeable Explosive</Name>
+					<Name>Deployed Explosive</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Ein aufladbarer Sprengsatz, der mit jeder Ladungsstufe stärker wird. Dieser Sprengsatz kann mit einem Benachbarten Speicherblock, Energielaser oder Generator aufgeladen werden und wird seine Ladung beibehalten. Du kannst den Sprengsatz nach dem aufladen zum Einsatzort bringen, indem du ihn einfach abbaust. Drücke die alternative Tastenkombination "Shift+E" um die Lunte zu entzünden, danach bleibt dir nicht mehr viel Zeit!</Text>
-				</Paragraph>
-				<Spacer/>
-				<Paragraph>
 					<Text>Für jede Stufe erhöht sich die benötigte Lademenge um das 10fache.</Text>
 				</Paragraph>
-				<Spacer/>
 				<Header>
 					<Text>Tipps und Tricks!</Text>
 				</Header>
@@ -35,7 +30,6 @@
 					<Text>Vorsicht!</Text>
 				</Header>
 				<Paragraph><Text>Hat eine sehr kurze Lunte! Pass auf, dass du nicht aus Versehen deine Basis zerstörst!</Text></Paragraph>
-	
 			</Paragraphs>
 		</Page>				
 	</Pages>

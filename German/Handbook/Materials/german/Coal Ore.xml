@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Coal</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kohle</Text>
+				</Title>
+				<Icon>
+					<Name>Coal</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kohle kann im ZEV oder in Generatoren verbrannt werden.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Kohle kann mit einem Erzbohrer gefördert werden.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

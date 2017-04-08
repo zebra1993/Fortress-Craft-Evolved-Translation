@@ -1,23 +1,23 @@
 <MaterialEntry>
-	<Name>Antimatter Drill Motor</Name>
+	<Name>Diamond Focusing Lens</Name>
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Antimaterie Motor</Text>
+					<Text>Diamantlinse</Text>
 				</Title>
 				<Icon>
-					<Name>Antimatter Drill Motor</Name>
+					<Name>Diamond Focusing Lens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Verbessert die Geschwindigkeit eines Erzbohrers auf Kosten des Energieverbrauchs.</Text>
+					<Text>Setze diese Linse in einen Energietransmitter ein um die Übertragungsrate zu erhöhen.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Spezifikationen</Text></Header>
 				<TwoColumnParagraph>
-					<Left>Förderrate:</Left>
-					<Right>3200%</Right>
+					<Left>Übertragungsrate:</Left>
+					<Right>115%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>		

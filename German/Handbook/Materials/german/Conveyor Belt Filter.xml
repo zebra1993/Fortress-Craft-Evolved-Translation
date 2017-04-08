@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Conveyor Belt Filter</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Förderband Filter</Text>
+				</Title>
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Die Verwendung eines Förderbandfilters ermöglicht es dir den Materialfluss genauer zu kontrollieren. Diese Art von Filter wird verwendet um die Materialien zu steuern die einen Trichter verlassen. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ERZ, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTE GEGENSTÄNDE sowie "KRISTALL UND BARREN"</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

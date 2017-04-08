@@ -1,17 +1,17 @@
 <MaterialEntry>
-	<Name>Basic Conveyor Belt</Name>
+	<Name>Conveyor Belt</Name>
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Einfaches Förderband</Text>
+					<Text>Förderband</Text>
 				</Title>
 				<Icon>
-					<Name>Basic Conveyor Belt</Name>
+					<Name>Conveyor Belt</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist "Kohle zum Zentralen Energieverteiler zu bewegen" und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Speichertrichter angeschlossen sind.</Text>
+					<Text>Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist "Kohle zum Zentralen Energieverteiler zu bewegen" und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Speichertrichter angeschlossen sind..</Text>
 				</Paragraph>				
 				<Header>
 					<Text>Verwendung</Text>
@@ -25,11 +25,6 @@
 				<Paragraph>
 					<Text>Förderbänder sind billig und benötigen keine Energie. Aber sie haben eine Reihe von Nachteilen. Sie sind empfindlich gegen kalte und toxische Umgebungen und die Ressourcen sind gegen Diebstahl ungeschützt. Alternative Transportmöglichkeiten sollten sobald als möglich erforscht werden.</Text>
 				</Paragraph>
-				<Spacer/>
-				<Paragraph>
-					<Text>Das einfache Förderband ist billiger als das normale Förderband, aber ist VIEL langsamer. Einsatz nur bei früher Automatisierung sinnvoll.</Text>
-				</Paragraph>
-				
 			</Paragraphs>
 		</Page>		
 		<Page>
@@ -41,19 +36,8 @@
 				</Icon>
 				<Paragraph>
 					<Text>Die Verwendung des Förderband-Filters ermöglicht uns eine exaktere Verteilung unserer Ressourcen. Diese Art von Filter wird genutzt um zu bestimmen welche Ressourcen aus einem Trichter entfernt werden. Du kannst den Filter auf folgende Einstellungen setzen: "Müll", "Organisches", "Edelsteine", "Kohle", "Biomasse", "Schmelzbares", "Brennbares", "Hergestellte Items" sowie "Kristalle und Barren".</Text>
-				</Paragraph>
+				</Paragraph>	
 				<Spacer/>
-				<Header><Text>Spezifikationen</Text></Header>
-				<TwoColumnParagraph>
-					<Left>Maximum Transport Rate (fast):
-					Maximum Transport Rate (slow):
-					Power Required:
-					Maximum Range:</Left>
-					<Right>18 items per minute
-					9 items per minute
-					None
-					1m</Right>
-				</TwoColumnParagraph>	
 			</Paragraphs>
 		</Page>					
 	</Pages>

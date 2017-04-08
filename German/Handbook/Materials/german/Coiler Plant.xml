@@ -1,0 +1,28 @@
+<MaterialEntry>
+	<Name>Coiler Plant</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Spulenwickler</Text>
+				</Title>
+				<Icon>
+					<Name>Coiler Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Spulenwickler ist ein normales Förderband das mit einem Aufbau zum wickeln von Spulen versehen wurde.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Verwendung</Text>
+				</Header>
+				<Paragraph>
+					<Text>Nutze ein Förderband um Drähte einzuspeisen, oder gleich einen Extruder. Der Spulenwickler macht daraus Spulen die in der weiteren Produktion benötigt werden.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Der Spulenwickler ist für die Automatisierung unserer Forschung unerlässlich.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

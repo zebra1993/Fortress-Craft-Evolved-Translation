@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Crystal Fiber Mesh</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristallfaser</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Durch die Verwendung fortschrittlicher Techniken zur Verarbeitung von Kristall sind wir nun in der Lage Kristalle auf der molekularen Ebene zu verweben. Diese neue Faser ist in der Lage extremen Drücken und Temperaturen zu widerstehen. Diese Faser wird im Kristallfaser Fertiger erzeugt und ist ein Hauptbestandteil in den Rohren die benötiogt werden um Geothermale Energie nutzen zu können. </Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+					</Target>
+					<Text>Kristallfaser Fertiger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

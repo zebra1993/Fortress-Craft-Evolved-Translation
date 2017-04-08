@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Coal Ping</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kohle Radar</Text>
+				</Title>
+				<Icon>
+					<Name>Coal Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Der Kohle Radar wird verwendet um neue oder zusätzliche Vorkommen zu finden. Weitere Informationen findest du in der Anleitung zum Erz Radar.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Erz Radar</Text>
+				</Link>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

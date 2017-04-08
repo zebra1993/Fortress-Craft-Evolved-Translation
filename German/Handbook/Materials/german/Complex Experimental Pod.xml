@@ -1,0 +1,37 @@
+<MaterialEntry>
+	<Name>Complex Experimental Pod</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Komplexes Experiment</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Complex</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das einfache Experiment wird im Labor verwendet um die Forschung voranzutreiben. Es wird aus Lithium hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laborforschung</Text>
+				</Link>
+				<Spacer />
+				<Paragraph>
+					<Text>For more information on creating Experimental Pods please read the following guide.</Text>
+				</Paragraph>				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimente</Text>
+				</Link>		
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

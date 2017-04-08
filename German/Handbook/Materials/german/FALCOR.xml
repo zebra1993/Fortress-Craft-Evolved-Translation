@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>FALCOR</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>FALCOR MK1</Text>
+				</Title>
+		
+						
+				<Icon>
+					<Name>FALCOR MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+
+
+
+				<Paragraph>
+					<Text>Es gibt zwei verschieden FALCOR varianten. (Fully-Automated Loot Collector Organisational Robots)
+
+					Die MK1 FALCOR werden in einem Bereich von 128 Metern Durchmesser jeden Signalgeber nach Gegenständen durchsuchen und sie gesammelt zur jeweiligen FALCOR Basis bringen. Gesammelte Gegenstände werden in benachbarten Trichtern abgelegt.
+
+					Logistik FALCOR funktionieren genau gleich, aber werden nur Signalgeber besuchen die auf einem Trichter platziert wurden.
+
+					Coming Soon! Verbesserte FALCOR die ein Filtern von Ressourcen ermöglichen. FALCOR Basen benötigen keine Energie, Signalgeber hingegen schon.
+					</Text>
+				</Paragraph>
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+					<Target><Material>FALCOR Beacon</Material></Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>FALCOR Beacon</Material>
+					</Target>
+					<Text>FALCOR Signalgeber</Text>
+				</Link>	
+				 
+				<Spacer/>
+			</Paragraphs>
+		</Page>		
+	</Pages>
+</MaterialEntry>

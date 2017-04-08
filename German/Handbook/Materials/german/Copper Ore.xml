@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Name>Copper Ore</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupfer Erz</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kann bereits nahe der Oberfläche gefunden werden und in Barren geschmolzen werden. Nutze dazu den Schmelzer. Kupferbarren werden in einer Vielzahl von Rezepten und Prozessen benötigt.</Text>
+				</Paragraph>				
+				<Spacer/>
+				<Paragraph>
+					<Text>Kupfererz kann mit einem Erzbohrer abgebaut werden.</Text>
+				</Paragraph>
+        <Icon>
+          <Name>Ore Extractor</Name>
+          <Target>
+            <Material>OreExtractor</Material>
+          </Target>
+        </Icon>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

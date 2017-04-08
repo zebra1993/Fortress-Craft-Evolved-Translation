@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Name>Copper Bar</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kupfer Barren</Text>
+				</Title>
+				<Icon>
+					<Name>Copper Bar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kupferbarren werden in der Regel in einer Vielzahl von Rezepten und Prozessen verwendet. Sie werden aus Kupfer Erz hergestellt, welches sich in der Nähe der Oberfläche befindet.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

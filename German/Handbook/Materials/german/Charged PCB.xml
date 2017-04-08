@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Charged PCB</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Geladene Leiterplatte</Text>
+				</Title>
+				<Icon>
+					<Name>Charged PCB</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Eine Lithiumbasierte Leiterplatte hergestellt aus Lithiumspulen in einer Leiterplattenfabrik.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

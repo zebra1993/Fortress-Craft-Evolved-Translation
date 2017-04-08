@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Name>Electric Light</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Elektrisches Licht</Text>
+				</Title>
+				<Icon>
+					<Name>Electric Light</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Das elektrische Licht muss mit Energie versorgt werden und bietet ein kühles blaues Licht über einen weitaus größeren Bereich als eine Standard-Fackel.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Wähle zwischen drei Beleuchtungsarten aus: Spotlight, Pointlight und Shadowed Pointlight.</Text>
+				</Paragraph>					
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

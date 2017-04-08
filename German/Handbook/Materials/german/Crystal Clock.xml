@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Name>Crystal Clock</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Kristalluhr</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Kristalluhren werden häufig als Teil eines Rezeptes für höherwertige Technologie verwendet. Das Einbinden von Kristalluhren als Taktgeber in Maschinen erlaubt es uns präziseres Timing als normalerweise möglich. Kristalluhren können so, wie die meisten Chips übertaktet werden, um noch effizientere Uhren für fortschrittliche Maschinen zu erhalten.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+					</Target>
+					<Text>Kristalluhr Fertiger</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

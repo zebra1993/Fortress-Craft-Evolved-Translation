@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Name>Dirt</Name>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Erde</Text>
+				</Title>
+				<Icon>
+					<Name>Dirt</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Block der üblicherweise direkt unter Oberfläche gefunden werden kann. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen. Dieser Block kann platziert werden.</Text>
+				</Paragraph>				
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>
