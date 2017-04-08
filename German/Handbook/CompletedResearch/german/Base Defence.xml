@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>Base Defence</Handle>
 	<Title>Base Defence</Title>
 	<Icon>>ARTHER Turret</Icon>
@@ -17,7 +17,7 @@
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Die Forschung war erfolgreich! Wir verfügen nun über drei verschiedene Türme zur Herstellung. Das ARTHER-Geschütz ist energieeffizient und hat eine lange Reichweite, muss aber von ARTHER betrieben werden. Besonders geeignet wenn sonst keine Verteidigung vorhanden ist, und erst Ressourcen für die Verteidigungstürme gesammelt werden müssen.</Text>  
+					<Text>Die Forschung war erfolgreich! Wir verfügen nun über drei verschiedene Türme zur Herstellung. Das ARTHER-Geschütz ist energieeffizient und hat eine lange Reichweite, muss aber von ARTHER betrieben werden. Besonders geeignet, wenn sonst keine Verteidigung vorhanden ist und erst Ressourcen für die Verteidigungstürme gesammelt werden müssen.</Text>  
 				</Paragraph>
 			</Paragraphs>
 		</Page>

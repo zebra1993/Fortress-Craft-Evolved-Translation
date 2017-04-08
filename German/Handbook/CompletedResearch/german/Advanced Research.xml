@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>advanced research</Handle>
 	<Title>Advanced Research</Title>
 	<Icon>Laboratory Component</Icon>
@@ -12,7 +12,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Wir haben nun die Pläne für das Forschungslabor, und das erforderliche Zubehör, um es mit Experimenten zu versorgen.</Text>
+					<Text>Wir haben nun die Pläne für das Forschungslabor und das erforderliche Zubehör, um es mit Experimenten zu versorgen.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
@@ -20,7 +20,7 @@
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>For more information on using the laboratory please refer the following guide:</Text>
+					<Text>Für weitere Informationen über die Benutzung des Forschungslabors, schauen sie in folgenden Ratgeber nach:</Text>
 				</Paragraph>
 				<Link>
 					<Target>

@@ -1,4 +1,4 @@
-<Chapter>
+﻿<Chapter>
 	<Handle>ore pings</Handle>
 	<Title>Improved Ore Scanning</Title>
 	<Icon>Improved Ore Scanning</Icon>
@@ -6,18 +6,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Verbessertes Scannen</Text>
+					<Text>Verbesserter Erzscan</Text>
 				</Title>
 				<Icon>
 					<Name>Improved Ore Scanning</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Auf der Suche nach neuen Ressourcen um unseren Stützpunkt zu erweitern sind wir auf Schwierigkeiten gestossen.</Text>
+					<Text>Auf der Suche nach neuen Ressourcen um unseren Stützpunkt zu erweitern, sind wir auf Schwierigkeiten gestossen.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Der Scanner ist in der Lage unbekannte Erze aufzuspüren. Seine Fähigkeiten ein spezifisches Erz zu finden sind hingegen limitiert. Es sollte möglich sein mit einer kleinen Erzprobe im Scanner ein spezifisches Erz zu lokalisieren.</Text>
+					<Text>Der Scanner ist in der Lage unbekannte Erze aufzuspüren. Seine Fähigkeiten, ein spezifisches Erz zu finden, sind hingegen limitiert. Es sollte möglich sein, mit einer kleinen Erzprobe im Scanner ein spezifisches Erz zu lokalisieren.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

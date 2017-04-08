@@ -1,4 +1,8 @@
+<<<<<<< HEAD:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 <Chapter>
+=======
+﻿<Chapter>
+>>>>>>> refs/remotes/origin/InstinctsGermanTranslation:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 	<Handle>T4_start</Handle>
 	<Title>The Frozen Factory!</Title>
 	<Icon>Local Life Forms</Icon>
@@ -13,7 +17,11 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
+<<<<<<< HEAD:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 					<Text>Nun, da diese Forschung abgeschlossen ist können wir das Klimakontrollzentrum errichten. Einmal in den kalten Tiefen errichtet und mit Energie versorgt, verändert es die Umweltbedingungen langsam zu einem lebensfreundlichen Klima. Hier können wir, richtig eingerichtet, auf die Verstärkung warten.</Text>  
+=======
+					<Text>Nun, da diese Forschung abgeschlossen ist, können wir das Klimakontrollzentrum errichten. Einmal in den kalten Tiefen errichtet und mit Energie versorgt, verändert es die Umweltbedingungen langsam zu einem lebensfreundlicheren Klima. Hier können wir, richtig eingerichtet, auf die Verstärkung warten.</Text>  
+>>>>>>> refs/remotes/origin/InstinctsGermanTranslation:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
@@ -21,7 +29,11 @@
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
+<<<<<<< HEAD:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 					<Text>If we construct the Hard Rock Grinder on a suitable 3x3 piece of Chromium and Molybdenum, we should be able to construct a new type of drill. Nano-disintegrators will be ideal for making the flat surface needed.</Text>  
+=======
+					<Text>Wenn wir einen Harterz-Schürfer in einem 3x3-Feldkonstrukt auf Chrom oder Molybden errichten, sollten wir in der Lage sein, einen neuen Bohrer herstellen zu können. Der Nanodesintegrator, oder der BFL-9000, kann uns dabei behilflich sein, eine 3x3 flache Fläche dieser Harterze zu formen.</Text>  
+>>>>>>> refs/remotes/origin/InstinctsGermanTranslation:German/Handbook/CompletedResearch/german/Frozen Factory.xml
 				</Paragraph>
 				<Link>
 					<Target>
