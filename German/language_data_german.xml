@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <languages>
@@ -37,7 +37,7 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 	
-	<string name="Creative_New">Der Kreativ Modus gibt dir unlimitierte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke,  Creative Mode gives you an unlimited ability to build anything, high-resolution detail blocks, extensive world editing tools, schematics, blueprints and copy-paste systems. It does not feature most of the survival elements, and should not be thought of as a 'cheat mode' for Survival!</string>
+	<string name="Creative_New">Der Kreativ Modus gibt dir unlimitierte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Dinge aus dem Überlebensmodus funktionieren hier nich, da der Kreativ Modus nicht als 'Cheatmode' gedacht ist für Survivalfanatiker.<string>
     <string name="Creative_Info">Dies ist einen existierende Kreativwelt, jedoch, leider kann keine brauchbare Infomration angezeigt werden. Darf es dafür ein Bild einer Katze sein?</string>
 
 	    <!-- Mod Menu -->
@@ -92,45 +92,43 @@
     <string name="Mods_Selected">ausgewählte Modifikationen.</string>
     <string name="Existing_Seed">Existierender Seed</string>
 	
-	<string name="Resources_Plentiful_Info">Plentiful Resources will give you plenty of resources, and will massively accelerate your early and late-game progression. This is a good starting point for patient, beginner players.</string>
-    <string name="Resources_Scarce_Info">Scarce Resources will give you a slower, more thoughtful game, with plenty of time to explore and optimise your base. Not recommended for beginniner players!</string>
-    <string name="Resources_Greg_Info">Greg-level Resources will massively reduce your rate of progression. This is balanced for 24/7 dedicated multiplayer servers or VERY patient people!</string>
-    <string name="Resources_Rapid_Info">Rapid Resources is designed for those in a hurry, with children, jobs, or attempting to stream the game in a weekend! This is also an excellent place if you're looking to learn the game quickly before returning on a harder difficulty.</string>
+	<string name="Resources_Plentiful_Info">Reichhaltige Rescourcen gibt dir gute Vorkommen, was dein Anfangs- und Endspiel Vortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger, Einsteiger.<string>
+    <string name="Resources_Scarce_Info">Knappe Rescourcen werden dir ein langsameres, durchdachteres Spielerlebnis geben, inwelchem du mehr Zeit zum Erkunden und optimieren deiner Basis hast. Nicht empfohlen für neue Spieler!</string>
+    <string name="Resources_Greg_Info">Knauserige Rescourcen werden massiv deine Zeit verlängern in der du Vortschirtte machst. Dies ist ausgelegt für 24/7 Dedizierte Mehrspielerserver oder SEHR geduldige Spieler!</string>
+    <string name="Resources_Rapid_Info">Rapide Rescourcen ist ausgelegt für Leute die in Eile, Kinder, Arbeit haben oder für Streamer welche das Spiel an einem Wochenende fertig haben wollen! Dies ist also eine Perfekte Einstellung wenn man das Spiel schnell lernen will um später auf einem schwereren Grad es noch mal durchspielen will.</string>
+    <string name="Conveyor_Slow_Info">Schnelle Förderbänder bedeutet weniger warten. Sie sind doppelt so schnell wie bei der Fast Conveyors mean less waiting around. They're about twice as fast as Slow.</string>
+    <string name="Conveyor_Fast_Info">Langsame Förderbänder sind recht gut ausbananciert und belohnen ein besser aufgerüstetes Förderbandsystem. Diese Einstellung wird dein Vortschritt um einiges langsamer.</string>
 
+    <string name="Plentiful_Power_Info">Reichhaltige Energie gibt eine verbesserte Energieausbeute bei allen Genearatoren. Dies verändert stark die Geschwindigkeit des Spielstarts.</string>
+    <string name="Scarce_Power_Info">Knappe Energie gibt ausbalancierte Energieerzeugung. Diese Auswahl wird den Spielstart eher verlangsamen.</string>
 
-    <string name="Conveyor_Slow_Info">Fast Conveyors mean less waiting around. They're about twice as fast as Slow.</string>
-    <string name="Conveyor_Fast_Info">Slow Conveyors are well-balanced, and emphasise higher-tier conveyance system. This setting will make your progression greatly slower.</string>
+    <string name="Eternal_Day_Info">Ewiger Tag bedeutet das die Solarpanelen zu jederzeit Energie liefern und das der Temparaturabfall über nacht nicht eintritt. Diese Auswahl wird zudem den Fortschritt deutlich verschnellern - Durchschnittliche Solarenergie gibt 4x mehr Energie!<string>
+    <string name="Day_Night_Info">Ein normaler Tag/ Nacht wechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit wirst du extreme Temparaturstürze, agressivere Mobs und schlechtere Sichtweite als normal erleiden.</string>
+    <string name="Eternal_Night_Info">Ewige Nacht bedeutet das du dich nicht von den lirrend kalten Nächten in der Tagessonne erholen kannst, das nur Organische Solarpanelen Energie produzieren, mit welchen dein ZEV nicht ausgestattet ist. Das ganze wird eine gute Herausforderung sein.</string>
 
-    <string name="Plentiful_Power_Info">Plentiful Power gives greatly improved energy collection from all power generators. This will greatly affect the speed of early-game progress.</string>
-    <string name="Scarce_Power_Info">Scarce Power gives a balanced power generation. This will slow down early-game progression.</string>
+    <string name="Death_Default_Info">Standartmodus. Keine Strafe bei Tod ausser niedrige Lebenspukte und ein langer Fussmarsch. Das macht das Spiel extrem einfach da du dich nicht vor den zahlreichen interessanten Möglichkeiten drauf zu gehn fürchten musst.</string>
+    <string name="Death_Clumsy_Info">Tollpatschig wird empfohlen wenn du eine annehmbare Herausforderung willst, einen guten Grund nicht drauf zu gehn. Wenn du Stirbst, werden alle Gegenstände in deinem Inventar auf dem Boden verteilt!</string>
+    <string name="Death_Ironman_Info">NICHT FÜR ANFÄNGER!&#13;&#13; Iron Man ist nur für gläubige, dumme und mutigen. Wenn du stirbst ist dein Inventar VERLOREN für IMMER!</string>
+    <string name="Death_SquishCore_Info">NICHT EMPFOHLEN FÜR ALLE!&#13;&#13; Extrem Hart ist simpel, du stirbst, du bleibst tot</string>
+    <string name="Death_Hardcore_Info">NICHT EMPFOHLEN FÜR ALLE!&#13;&#13; Brutal ist der schwerste Modus, wenn du stirbst oder dein ZEV, heisst es GAME OVER! der ZEV heilt zudem nicht wie in den anderen Modi.</string>
 
-    <string name="Eternal_Day_Info">Eternal Day means that your Solar collection systems will work constantly and you do not suffer from a temperature drop at night. Choosing this will allow much faster progression - average Solar Collection is 4x faster!</string>
-    <string name="Day_Night_Info">Normal Day/Night cycle is 24 minutes. For the 12 minutes of darkness you will suffer from extreme temperature drops, increased mob aggression and reduced visibility.</string>
-    <string name="Eternal_Night_Info">Eternal Night means no respite from the freezing cold during the day, and no access to non-organic solar technology; including your CPH. This will prove to be a significant challenge.</string>
+    <string name="Care_Package_Locked">Das Versorungspacket wird freigeschaltet sobald du ein Klimakontroll Zetrum gebaut hast.</string>
+    <string name="Care_Package_Disabled">Versorgungspacket deaktiviert.</string>
+    <string name="Care_Package_Enabled">Versorgungspacket aktiv! Du wirst das Spiel mit einem Massiven Vorsprung starten, ein MK3 Bauwerkzeug, grössere Anzugsbatterie, Solarpanel und Anzugsheizung werden direkt verfürbar sein. Hol sie dir Junge!</string>
 
-    <string name="Death_Default_Info">This is the default mode. There is no penalty for death, barring low health and a long walk. This makes the game extremely easy, as there's no penalty for any of the exciting ways in which you can die.</string>
-    <string name="Death_Clumsy_Info">Clumsy mode is recommended if you want a reasonable challenge, and a good reason for not dying! You will drop the contents of your inventory on death!</string>
-    <string name="Death_Ironman_Info">NOT FOR BEGINNERS!&#13;&#13; Iron Man is only for the brave, the stupid and the bold; you permanently LOSE your entire inventory on death!</string>
-    <string name="Death_SquishCore_Info">NOT RECOMMENDED FOR ANYONE!&#13;&#13; SquishCore is simple; you die, you stay dead</string>
-    <string name="Death_Hardcore_Info">NOT RECOMMENDED FOR ANYONE!&#13;&#13; Hardcore is the hardest mode; If you die, or your CPH dies, it's permanent game over! Your CPH also does not heal.</string>
+    <string name="Flatland_Locked">Flachland wird verfürbar sein wenn du einen Cryoplasma Spwaner ausgeschaltet hast.</string>
+    <string name="Flatland_Disabled">Flachland deaktiviert.</string>
+    <string name="Flatland_Enabled">Flachland aktiv! Macht die Welt flach. Wie der Name vermuten lässt!</string>
 
-    <string name="Care_Package_Locked">The Care Package will be unlocked once you have successfully built a Climate Control Centre.</string>
-    <string name="Care_Package_Disabled">Care Package disabled.</string>
-    <string name="Care_Package_Enabled">Care Package Enabled! This will give you a massive headstart into a new world, giving you a MK3 build gun, larger suit battery, solar panel and a suit heater right at the start. Go get 'em boy.</string>
+    <string name="Needs_FF">Benötigt das Gefrohrene Höhlen Erweiterungspacket.</string>
 
-    <string name="Flatland_Locked">Flat Land mode will be unlocked once you have successfully killed a CryoPlasm Spawner.</string>
-    <string name="Flatland_Disabled">Flat Mode disabled.</string>
-    <string name="Flatland_Enabled">Flat Land Enabled! Makes the land flat, hence the name!</string>
+    <string name="Rushmode_Locked">Sturmmodus wird Freigeschaltet wenn du erfolgreich den Orbitalen Energie Übertrager aufgeladen hast.</string>
+    <string name="Rushmode_Disabled">Sturmmodus deaktivert.</string>
+    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus einen Orbitalen Energie Übertrager zu bauen und aufzuladen in der kürzest möglicher Zeit. Die Auswahl wird die Energieerzeugung etwa 10x verschnellern, Erz sammlung und einschmelzen ist je 5x schneller, Mobs spawnen ebenfalls um einiges schneller.</string>
 
-    <string name="Needs_FF">Requires the Frozen Factory Expansion Pack.</string>
-
-    <string name="Rushmode_Locked">Rush Mode will be unlocked once you have successfully charged an Orbital Power Transmitter.</string>
-    <string name="Rushmode_Disabled">Rush Mode disabled.</string>
-    <string name="Rushmode_Enabled">Rush Mode Enabled! This mode challenges you to rebuild another Orbital Power Transmitter and fully charge it in the minimum amount of time! Selecting this mode will scale up the Power Generation by around 10x and Ore Collection and Smelting are 5x faster. Mobs also spawn much faster too...</string>
-
-    <string name="Trivial_Mobs_Info">Trivial Mobs is not recommended. Mobs still exist to allow full progression, but will pose no challenge, and this is opting out of a large part of the gameplay. You will get reduced Base Threat and reduced spawn rates on Hiveminds and other base-interfering mobs</string>
-    <string name="Normal_Mobs_Info">Normal Mobs - this is where it's at. Good choice!</string>
-    <string name="Hard_Mobs_Info">Hard Mobs - choose this and you will be dealing with much harder, more aggressive mobs. This is ONLY for VERY experienced players!</string>
+    <string name="Trivial_Mobs_Info">Triviale Mobs ist nicht empfohlen. Mobs werden den vollen Vortschritt nicht verhindern, sind aber keine Herausforderung mehr, was einen Grossteil des Spiels entfernt. Du wirst weniger Baisbedrohung und reduzierten Wachstum der Schwarmintellizenzen und anderer Basisangreiffender Mobs.</string>
+    <string name="Normal_Mobs_Info">Normale Mobs - Wie es sein sollte. Gute Wahl!</string>
+    <string name="Hard_Mobs_Info">Schwere Mobs - Wähle dies und du wirst mit agressiveren, schwereren Mobs zu kämpfen haben. Diese Auswahl ist nur für SEHR ERFAHRENE Spieler gedacht!</string>
 
     <string name="OrbitalPar">Spielzeit bis OET fertig</string><!--No idea what that means-->
     <string name="FFPar">Spielzeit bis gefrohrene Fabrik fertig</string><!--No idea what that means-->
@@ -138,21 +136,21 @@
         
     <!-- Multiplayer menus -->
     <string name="Server_Name">Server Name</string>
-    <string name="Server_Management">Server Management</string>
+    <string name="Server_Management">Server Verwaltung</string>
     <string name="Game_Mode">Game Mode</string>
-    <string name="Dedicated">Dedicated</string>
-    <string name="Players">Players</string>
+    <string name="Dedicated">Dediziert</string>
+    <string name="Players">Spieler</string>
     <string name="Ping">Ping</string>
-    <string name="Hide_Host_Address">Hide Host Address</string>
-    <string name="Host_Address">Host Address</string>
-    <string name="Unable_To_Join">Unable to join</string>
+    <string name="Hide_Host_Address">Hostadresse verstecken</string>
+    <string name="Host_Address">Hostaddresse</string>
+    <string name="Unable_To_Join">Beitreten nicht möglich</string>
 
-    <string name="Join">Join</string>
-    <string name="Edit">Edit</string>
-    <string name="Delete">Delete</string>
-    <string name="Add_New">Add New</string>
+    <string name="Join">Beitreten</string>
+    <string name="Edit">Verändern</string>
+    <string name="Delete">Löschen</string>
+    <string name="Add_New">Neu Hinzufügen</string>
     <string name="Mods">Mods</string>
-    <string name="Page">Page</string>
+    <string name="Page">Seite</string>
 
     <!-- Item names + Plurals. These match the Items.xml English language-->
     <!-- Items with identical plurals should NOT be duplicated here-->
@@ -1611,7 +1609,7 @@
     <string name="NanoDisintegrator">Nanozerleger</string>
     <string name="NanoDisintegrator_DESC">Nano Disintegrator. Genutzt um sogar das härteste Material in einem 3x3x3 Raum auszuheben. Vorsicht beim Einsatz.</string>
     <string name="Ruined Organic Thief">Ruined Organic Thief</string>
-    <string name="Ruined Organic Thief_DESC">Ruined Organic Thief_DESC</string>
+    <string name="Ruined Organic Thief_DESC">Entfernt automatisch ruinierte Teile aus deinem Inventar.</string>
     <string name="T4 Power Conduit">T4 Energieleitung</string>
     <string name="T4 Power Conduit_DESC">Nicht Wichtig</string>
     <string name="Cold Cavern Climate Control Centre">Kaltehöhlenklimasteurrungszentrum</string><!-- Use less long word, not optimal -->
@@ -1649,10 +1647,10 @@
     <string name="Crashed parts container">abgestürtzteteile Behälter</string>
     <string name="Crashed parts container_DESC">Beinhaltet technische Komponenten welche für Forschung verwendet werden.</string>
     <string name="Chilled Reinforced Rock">gekühlter verstärkter Stein</string>
-    <string name="Chilled Reinforced Rock_DESC">Chilled Reinforced Rock_DESC</string>
+    <string name="Chilled Reinforced Rock_DESC">gekühlter verstärkter Stein</string>
 	
     <string name="Critter">Critter</string>
-    <string name="Critter_DESC">Critter_DESC</string>
+    <string name="Critter_DESC">Notice my Oppai!</string>
     <string name="Waypoint Machine">Wegpunktanzeige</string>
     <string name="Waypoint Machine_DESC">Wenn Plaziert und mit Energie versorgt wird ein Wegpunkt erzeugt. Kann durch plazieren eines Schildes an der Maschiene angepasst werden.</string>
 	
@@ -1691,9 +1689,9 @@
     <string name="Hydroponics Canopy_DESC">Wird über einer hydroponischen Einheit plaziert um die Wachstumsrate massiv zu steigern.</string>
 	
     <string name="Adventures Pack DLC">Abenteuerpacket DLC</string>
-    <string name="Adventures Pack DLC_DESC">Adventures Pack DLC_DESC</string>
-    <string name="CRP DLC KEY">CRP DLC KEY</string> <!-- Patreonkey? "Community Reward Pack" i guess?-->
-    <string name="CRP DLC KEY_DESC">CRP DLC KEY_DESC</string>
+    <string name="Adventures Pack DLC_DESC">Das zweite DLC zu FCE</string>
+    <string name="CRP DLC KEY">PatreonKey</string> <!-- Patreonkey? "Community Reward Pack" i guess?-->
+    <string name="CRP DLC KEY_DESC">Placeholder</string>
 	
     <string name="Emergency Siren">Notfallsirene</string>
     <string name="Emergency Siren_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
