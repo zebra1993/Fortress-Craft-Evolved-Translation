@@ -16,13 +16,13 @@ Direkt Kontakt:
 streupfeffer@gmx.ch
 
 Teammitglieder:
-
-Zebra, Jan Freund
-Kamaling, Thomas "Hador" Scheer
-DarkNova
-Scabank
-Sedel
-Sir Failalot/Lars
-CDJM
+- Zebra
+- Kamaling, Thomas "Hador" Scheer
+- DarkNova
+- Scabank
+- Sedel
+- Sir Failalot/Lars
+- CDJM
+- Fjolnir_Dvorak
 
 Vielen Dank an alle schon mal im Voraus!
