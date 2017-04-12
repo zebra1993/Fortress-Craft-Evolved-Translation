@@ -37,7 +37,7 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 	
-	<string name="Creative_New">Der Kreativmodus gibt dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Elemente aus dem Überlebensmodus funktionieren hier nicht. Es kann nicht in Survival gewechselt werden<string>
+	<string name="Creative_New">Der Kreativmodus gibt dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Elemente aus dem Überlebensmodus funktionieren hier nicht. Es kann nicht in Survival gewechselt werden</string>
     <string name="Creative_Info">Dies ist einen existierende Kreativwelt, jedoch, leider kann keine brauchbare Information angezeigt werden. Darf es dafür ein Bild einer Katze sein?</string>
 
 	    <!-- Mod Menu -->
@@ -92,7 +92,7 @@
     <string name="Mods_Selected">Ausgewählte Mods.</string>
     <string name="Existing_Seed">Existierender Seed</string>
 	
-	<string name="Resources_Plentiful_Info">Reichhaltige Ressourcen gibt dir grosse Vorkommen, was dein Anfangs- und Endspiel Fortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger / Einsteiger.<string>
+	<string name="Resources_Plentiful_Info">Reichhaltige Ressourcen gibt dir grosse Vorkommen, was dein Anfangs- und Endspiel Fortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger / Einsteiger.</string>
     <string name="Resources_Scarce_Info">Knappe Ressourcen werden dir ein langsameres, durchdachteres Spielerlebnis geben, in welchem du mehr Zeit zum optimieren deiner Basis brauchst. Nicht empfohlen für neue Spieler!</string>
     <string name="Resources_Greg_Info">Knauserige Ressourcen wird deinen Fortschritt extrem verlangsamen. Dies ist für 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
     <string name="Resources_Rapid_Info">Rapide Ressourcen ist für Leute ausgelegt, die in Eile sind, Kinder haben, viel arbeiten oder für Streamer, welche das Spiel an einem Wochenende fertig gespielt haben wollen! Ebenfalls ist dies eine perfekte Einstellung um das Spiel zu lernen.</string>
@@ -102,7 +102,7 @@
     <string name="Plentiful_Power_Info">Reichhaltige Energie erhöht die Energieproduktion der Generatoren. Dies verändert stark die Geschwindigkeit des Spielstarts.</string>
     <string name="Scarce_Power_Info">Empfohlener Modus. Diese Auswahl wird den Spielstart eher verlangsamen.</string>
 
-    <string name="Eternal_Day_Info">Ewiger Tag bedeutet, dass die Solarpaneele zu jederzeit Energie liefern und dass der Temparaturabfall über Nacht nicht eintritt. Diese Auswahl wird zudem den Fortschritt deutlich verschnellern - Solarpaneele ergeben dadurch 4x mehr Energie!<string>
+    <string name="Eternal_Day_Info">Ewiger Tag bedeutet, dass die Solarpaneele zu jederzeit Energie liefern und dass der Temparaturabfall über Nacht nicht eintritt. Diese Auswahl wird zudem den Fortschritt deutlich verschnellern - Solarpaneele ergeben dadurch 4x mehr Energie!</string>
     <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit wirst du extreme Temparaturstürze, agressivere Gegner und schlechtere Sichtweite als normal erleiden.</string>
     <string name="Eternal_Night_Info">Ewige Nacht bedeutet, dass du dich nicht von den kalten Nächten in der Tagessonne erholen kannst, nur Organische Solarpaneele minimal Energie produzieren, mit welchen dein ZEV nicht ausgestattet ist. Das ganze wird eine gute Herausforderung sein.</string>
 
@@ -2556,6 +2556,5 @@
     <string name="Next_Ore">Nächstes Erz</string>
     <string name="Clearing_Vein">Ader bald leer</string>
     <string name="Cant_Find_Ore">Kein Erz auffindbar</string>
-	
 </german>
 </languages>
