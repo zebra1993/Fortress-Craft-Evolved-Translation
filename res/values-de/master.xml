@@ -611,7 +611,7 @@
     <string name="Fallen Leaves">Gefallene Blätter</string>
     <string name="Fallen Leaves_DESC">Gefallene Blätter</string>
     <string name="Field">Feld</string>
-    <string name="Field_DESC">Ein Feld auf dem man Pflanzen sähen und züchten kann.</string>
+    <string name="Field_DESC">Ein Feld auf dem man Pflanzen sähen und züchten kann</string>
     <string name="Copy Paste">Kopieren/Einfügen</string><!-- like Ctrl C, Ctrl V, or paste thats copiing something?-->
     <string name="Copy Paste_DESC">Kopieren/Einfügen</string>
     <string name="Electric Light(old)">Elektrisches Licht (alt)</string>
@@ -621,7 +621,7 @@
     <string name="Small Bricks">Kleine Ziegelsteine</string>
     <string name="Small Bricks_DESC">Kleine Ziegelsteine sind ein perfektes Material um die Basis zu verschönern</string>
     <string name="Magma">Magma</string>
-    <string name="Magma_DESC">Flüssiges Gestein. Ist tierisch heiß und nur in extremen Tiefen zu finden.</string>
+    <string name="Magma_DESC">Flüssiges Gestein. Ist tierisch heiß und nur in extremen Tiefen zu finden</string>
     <string name="Plating">Beschichtung</string>
     <string name="Plating_DESC">Eine auf ein anderes Material aufgebrachte Beschichtung</string>
     <string name="Tiles">Kacheln</string>
@@ -681,7 +681,7 @@
     <string name="My First Wallpaper">Meine erste Tapete</string>
     <string name="My First Wallpaper_DESC">My First Wallpaper_DESC</string>
     <string name="Water">Wasser</string>
-    <string name="Water_DESC">Wasser. Neben Luft das wichtigste zum Überleben. Zum Glück kümmert sich mein Raumanzug darum</string>
+    <string name="Water_DESC">Wasser. Neben Luft das Wichtigste zum Überleben. Zum Glück kümmert sich mein Raumanzug darum</string>
     <string name="Space Bubbles">Weltraum Blasen</string><!-- this sounds horrible-->
     <string name="Space Bubbles_DESC">Space Bubbles_DESC</string>
     <string name="Space Panel">Weltraum Panele</string>
@@ -1093,7 +1093,7 @@
     <string name="Conveyor Belt Filter">Förderbandfilter</string>
     <string name="Conveyor Belt Filter_DESC">Entfernt Materialien regelbasierend.</string>
     <string name="Transport Pipe">Transportrohr</string>
-    <string name="Transport Pipe_DESC">Erlaubt transport in alle Richtungen.</string>
+    <string name="Transport Pipe_DESC">Erlaubt den Transport in alle Richtungen.</string>
     <string name="Transport Pipe Filter">Transportrohrfilter</string>
     <string name="Transport Pipe Filter_DESC">Entfernt Materialien regelbasierend.</string>
     <string name="Stamper Plant">Stempel Maschine</string>
