@@ -583,7 +583,7 @@
     <string name="Organic Detritus">Organisches Detritus</string>
     <string name="Organic Detritus_DESC">Dieses dicke, grässliche Zeugs überzieht den ganzen Planeten</string>
     <string name="Black Grill">Schwarzer Rost</string>
-    <string name="Black Grill_DESC">Ein schwarzer Rost, keine Ahnung wozu der zu gebrauchen ist</string>
+    <string name="Black Grill_DESC">Ein schwarzer Rost, keine Ahnung wozu der zu gebrauchen wird</string>
     <string name="Book Shelf">Büchergestell</string>
     <string name="Book Shelf_DESC">Bücherregal, Holzsplitter mit enthalten</string>
     <string name="Torch">Fackel</string>
@@ -611,9 +611,9 @@
     <string name="Fallen Leaves">Gefallene Blätter</string>
     <string name="Fallen Leaves_DESC">Gefallene Blätter</string>
     <string name="Field">Feld</string>
-    <string name="Field_DESC">Field_DESC</string>
+    <string name="Field_DESC">Ein Feld aufdem man Planzen sähen und züchten kann.</string>
     <string name="Copy Paste">Kopieren/Einfügen</string><!-- like Ctrl C, Ctrl V, or paste thats copiing something?-->
-    <string name="Copy Paste_DESC">Copy Paste_DESC</string>
+    <string name="Copy Paste_DESC">Kopieren/Einfügen</string>
     <string name="Electric Light(old)">Elektrisches Licht (alt)</string>
     <string name="Electric Light(old)_DESC">Ein elektisches Licht. Muss mit Strom betrieben werden. Kann angemalt werden</string>
     <string name="Log Wall">Holzwand</string>
@@ -625,7 +625,7 @@
     <string name="Plating">Beschichtung</string>
     <string name="Plating_DESC">Eine auf ein anderes Material aufgebrachte Beschichtung</string>
     <string name="Tiles">Kacheln</string>
-    <string name="Tiles_DESC">Tiles_DESC</string>
+    <string name="Tiles_DESC">Einfache Fliesen, schön wenn an der Wand angebracht</string>
     <string name="Marble Column">Marmorsäule</string>
     <string name="Marble Column_DESC">Eine wunderschön ausgearbeitete Marmorsäule</string>
     <string name="Wooden Inlay">Hölzerne Einlage</string>
@@ -864,11 +864,11 @@
     <string name="Tundra">Tundra</string>
     <string name="Tundra_DESC">Tundra_DESC</string>
     <string name="Diamond Crystal">Diamantkristall</string>
-    <string name="Diamond Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und als andere nützliche Gegenstände verwendet werden</string>
+    <string name="Diamond Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden</string>
     <string name="Emerald Crystal">Smaragdkristall</string>
-    <string name="Emerald Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und als andere nützliche Gegenstände verwendet werden</string>
+    <string name="Emerald Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden</string>
     <string name="Ruby Crystal">Rubinkristall</string>
-    <string name="Ruby Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und als andere nützliche Gegenstände verwendet werden</string>
+    <string name="Ruby Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden</string>
     <string name="Sapphire Crystal">Sapphirkristall</string>
     <string name="Sapphire Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und als andere nützliche Gegenstände verwendet werden</string>
     <string name="Topaz Crystal">Topazkristall</string>
