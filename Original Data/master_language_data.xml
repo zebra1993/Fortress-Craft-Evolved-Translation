@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Level names, other menu options -->
 <languages>
-	<english>
+    <english>
     <string name="Partial_Language_Support">Greetings! Your language is only partially-supported. If you want to revert to English, then just press 'English' below!</string>
     <string name="Translation_Incomplete">Translation Incomplete!</string>
     <string name="Language_Name">English</string><!-- The language-way of saying the name of the language -->
@@ -39,7 +39,7 @@
 
     <string name="Creative_New">Creative Mode gives you an unlimited ability to build anything, high-resolution detail blocks, extensive world editing tools, schematics, blueprints and copy-paste systems. It does not feature most of the survival elements, and should not be thought of as a 'cheat mode' for Survival!</string>
     <string name="Creative_Info">This is an existing Creative world, but, sadly, I don't have cool stats to really show you here. Would you like a picture of a cat instead?</string>
-    
+
     <!-- Mod Menu -->
     <string name="Mod_Management">Mod Management</string>
     <string name="Mod_Name">Mod Name</string>
@@ -58,7 +58,7 @@
     <string name="On">On</string>
     <string name="Off">Off</string>
     <string name="Locked">Locked</string>
-    
+
     <string name="Plentiful">Plentiful</string>
     <string name="Scarce">Scarce</string>
     <string name="Greg">Greg</string>
@@ -83,7 +83,7 @@
 
     <string name="Survival">Survival</string>
     <string name="Creative">Creative</string>
-    
+
     <!-- Difficulty Readbacks -->
     <string name="Default_Settings_Info">Default settings are set to be super-fast and super-easy for new players! If you want it even FASTER, choose Eternal Day for Day/Night Cycle. If you want more of a challenge, then fiddle with these settings to your heart's content!&#13;Remember these settings are LOCKED for the duration of your world and take note of the par times!</string>
     <string name="Previous_Visit">You've been in this Survival world before!</string>
@@ -135,7 +135,7 @@
     <string name="OrbitalPar">Orbital Charge Par time</string>
     <string name="FFPar">Frozen Factory Par time</string>
     <string name="Hours">hours</string>
-        
+
     <!-- Multiplayer menus -->
     <string name="Server_Name">Server Name</string>
     <string name="Server_Management">Server Management</string>
@@ -524,7 +524,7 @@
     <string name="Refined Liquid Resin">Refined Liquid Resin</string>
     <string name="Spoiled Organic Remains">Spoiled Organic Remains</string>
     <string name="Recombined Organic Matter">Recombined Organic Matter</string>
-    
+
     <!-- Terrain entries. Names, plurals and descriptions-->
     <string name="Air">Air</string>
     <string name="Air_DESC">Air_DESC</string>
@@ -2462,8 +2462,8 @@
     <string name="Next_Ore">Next Ore</string>
     <string name="Clearing_Vein">Clearing Vein</string>
     <string name="Cant_Find_Ore">Can't Find Ore</string>
-    
-	<!-- Missions -->
-  
+
+    <!-- Missions -->
+
 </english>
 </languages>

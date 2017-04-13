@@ -36,11 +36,11 @@
 
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
-	
-	<string name="Creative_New">Der Kreativmodus gibt dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Elemente aus dem Überlebensmodus funktionieren hier nicht. Es kann nicht in Survival gewechselt werden</string>
+
+    <string name="Creative_New">Der Kreativmodus gibt dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Elemente aus dem Überlebensmodus funktionieren hier nicht. Es kann nicht in Survival gewechselt werden</string>
     <string name="Creative_Info">Dies ist einen existierende Kreativwelt, jedoch, leider kann keine brauchbare Information angezeigt werden. Darf es dafür ein Bild einer Katze sein?</string>
 
-	    <!-- Mod Menu -->
+    <!-- Mod Menu -->
     <string name="Mod_Management">Mod Management</string>
     <string name="Mod_Name">Mod Name</string>
     <string name="Active">Aktiv</string>
@@ -52,13 +52,13 @@
     <string name="Workshop_Mod">Workshop Mod</string>
     <string name="Update_Pending">Update ausstehend</string>
     <string name="Downloading">Wird heruntergeladen...</string>
-	
+
     <!-- Difficulty Toggles -->
 
     <string name="On">Ein</string>
     <string name="Off">Aus</string>
     <string name="Locked">Gesperrt</string>
-    
+
     <string name="Plentiful">Reichhaltig</string>
     <string name="Scarce">Knapp</string>
     <string name="Greg">Knauserig</string>
@@ -83,7 +83,7 @@
 
     <string name="Survival">Überleben</string>
     <string name="Creative">Kreativ</string>
-    
+
     <!-- Difficulty Readbacks -->
     <string name="Default_Settings_Info">Die Standard Einstellungen sind auf sehr schnell und sehr einfach für neue Spieler! Wenn du es NOCH schneller willst, wähle 'Ewiger Tag' bei Tag-/Nachtzyklus. Wenn du grössere Herausforderungen suchst, spiele nach Herzenslust mit den Einstellungen!&#13;Vergiss jedoch nicht sobald eine Welt gestartet wurde, sind die Einstellungen UNVERÄNDERBAR bis zum Erstellen einer neuen Welt. Achte zudem auf die Laufzeiten eines Durchgangs!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
     <string name="Previous_Visit">Du hast diese Welt zuvor bereits besucht!</string>
@@ -91,8 +91,8 @@
     <string name="Mod_Selected">Mod ausgewählt.</string>
     <string name="Mods_Selected">Ausgewählte Mods.</string>
     <string name="Existing_Seed">Existierender Seed</string>
-	
-	<string name="Resources_Plentiful_Info">Reichhaltige Ressourcen gibt dir grosse Vorkommen, was dein Anfangs- und Endspiel Fortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger / Einsteiger.</string>
+
+    <string name="Resources_Plentiful_Info">Reichhaltige Ressourcen gibt dir grosse Vorkommen, was dein Anfangs- und Endspiel Fortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger / Einsteiger.</string>
     <string name="Resources_Scarce_Info">Knappe Ressourcen werden dir ein langsameres, durchdachteres Spielerlebnis geben, in welchem du mehr Zeit zum optimieren deiner Basis brauchst. Nicht empfohlen für neue Spieler!</string>
     <string name="Resources_Greg_Info">Knauserige Ressourcen wird deinen Fortschritt extrem verlangsamen. Dies ist für 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
     <string name="Resources_Rapid_Info">Rapide Ressourcen ist für Leute ausgelegt, die in Eile sind, Kinder haben, viel arbeiten oder für Streamer, welche das Spiel an einem Wochenende fertig gespielt haben wollen! Ebenfalls ist dies eine perfekte Einstellung um das Spiel zu lernen.</string>
@@ -133,7 +133,7 @@
     <string name="OrbitalPar">Spielzeit bis OET fertig gebaut ist.</string>
     <string name="FFPar">Spielzeit bis "Frozen Factory" durchgespielt ist.</string><!--No idea what that means-->
     <string name="Hours">Stunden</string>
-        
+
     <!-- Multiplayer menus -->
     <string name="Server_Name">Server Name</string>
     <string name="Server_Management">Server Verwaltung</string>
@@ -167,9 +167,9 @@
     <string name="MK4 Power Boosters">MK4 Energiezellen</string>
     <string name="MK5 Power Booster">MK5 Energiezelle</string>
     <string name="MK5 Power Boosters">MK5 Energiezellen</string>
-	
+
     <string name="Iron Bar">Eisenbarren</string>
-    <string name="Iron Bars">Eisenbarren</string>	
+    <string name="Iron Bars">Eisenbarren</string>
     <string name="Copper Bar">Kupferbarren</string>
     <string name="Copper Bars">Kupferbarren</string>
     <string name="Lithium Bar">Lithiumbarren</string>
@@ -185,7 +185,7 @@
     <string name="Nickel Bar">Nickelbarren</string>
     <string name="Nickel Bars">Nickelbarren</string>
     <string name="Titanium Bar">Titanbarren</string>
-    <string name="Titanium Bars">Titanbarren</string>	
+    <string name="Titanium Bars">Titanbarren</string>
     <string name="Plastic Pellet">Plastikpelett</string>
     <string name="Plastic Pellets">Plastikpeletts</string>
     <string name="High Energy Composite Fuel">Hochenergetischer Verbundtreibstoff</string> <!-- Oder Kerosin? -->
@@ -200,7 +200,7 @@
     <string name="Steel Ball Bearings">Stahlkugellager</string>
     <string name="Power Coil">Energiespule</string>
     <string name="Iron Gear">Eisenzahnrad</string>
-    <string name="Iron Gears">Eisenzahnräder</string>    
+    <string name="Iron Gears">Eisenzahnräder</string>
     <string name="Servo Motor">Servomotor</string>
     <string name="Servo Motors">Servomotoren</string>
     <string name="Lightweight Machine Plate">Leichte Maschinenplatte</string>
@@ -219,7 +219,7 @@
     <string name="Tour Carts">Besichtigunsloren</string>
     <string name="Copper Wire">Kupferdraht</string>
     <string name="Copper Wires">Kupferdrähte</string>
-	<string name="Copper Wire (Old)">Kupferdraht (Alt)</string><!-- Old? -->
+    <string name="Copper Wire (Old)">Kupferdraht (Alt)</string><!-- Old? -->
     <string name="Tin Wire">Zinndraht</string>
     <string name="Tin Wires">Zinndrähte</string>
     <string name="Iron Wire">Eisendraht</string>
@@ -233,19 +233,19 @@
     <string name="Titanium Wire">Titandraht</string>
     <string name="Titanium Wires">Titandrähte</string>
     <string name="Steel Cutter Head">Stahlschneidekopf</string>
-	<!--<string name="Steel Cutter Heads">Stahlschneideköpfe</string>-->
+    <!--<string name="Steel Cutter Heads">Stahlschneideköpfe</string>-->
     <string name="Crystal Cutter Head">Kristallschneidekopf</string>
-	<!--<string name="Crystal Cutter Heads">Kristallschneideköpfe</string>-->
+    <!--<string name="Crystal Cutter Heads">Kristallschneideköpfe</string>-->
     <string name="Organic Cutter Head">Organischer Schneidkopf</string>
-	<!--<string name="Organic Cutter Heads">Organischeschneidköpfe</string>-->
+    <!--<string name="Organic Cutter Heads">Organischeschneidköpfe</string>-->
     <string name="Plasma Cutter Head">Plasmaschneidekopf</string>
-	<!--<string name="Plasma Cutter Heads">Plasmaschneideköpfe</string>-->
+    <!--<string name="Plasma Cutter Heads">Plasmaschneideköpfe</string>-->
     <string name="Location Marker">Standortmarker</string>
     <string name="Glow Stick">Leuchtstab</string>
     <string name="Glow Sticks">Leuchtstäbe</string>
     <string name="Chargeable Explosive">Aufladbarer Sprengsatz</string>
     <string name="Chargeable Explosives">Aufladbare Sprengsätze</string>
-	<!-- Ping -->
+    <!-- Ping -->
     <string name="Blank Ore Ping">Bodenradar</string>
     <string name="Blank Ore Pings">Bodenradare</string><!-- Pinge or Pings, what sounds better? -->
     <string name="Coal Ping">Kohleradar</string>
@@ -274,7 +274,7 @@
     <string name="Chromium Pings">Chromradare</string>
     <string name="Molybdenum Ping">Molybdänradar</string>
     <string name="Molybdenum Pings">Molybdänradare</string>
-	<!-- Experimental Pods -->
+    <!-- Experimental Pods -->
     <string name="Basic Experimental Pod">Einfache Experimentierhülse</string>
     <string name="Basic Experimental Pods">Einfache Experimentierhülsen</string>
     <string name="Simplified Experimental Pod">Vereinfachte Experimentierhülse</string>
@@ -289,7 +289,7 @@
     <string name="XL Experimental Pods">XL Experimentierhülsen</string>
     <string name="Ultimate Experimental Pod">Ultimative Experimentierhülse</string>
     <string name="Ultimate Experimental Pods">Ultimative Experimentierhülsen</string>
-	<!-- Coils -->
+    <!-- Coils -->
     <string name="Copper Coil">Kupferspule</string>
     <string name="Copper Coils">Kupferspulen</string>
     <string name="Tin Coil">Zinnspule</string>
@@ -304,7 +304,7 @@
     <string name="Nickel Coils">Nickelspulen</string>
     <string name="Titanium Coil">Titanspule</string>
     <string name="Titanium Coils">Titanspulen</string>
-	<!-- Plates -->
+    <!-- Plates -->
     <string name="Copper Plate">Kupferplatte</string>
     <string name="Copper Plates">Kupferplatten</string>
     <string name="Tin Plate">Zinnplatte</string>
@@ -319,7 +319,7 @@
     <string name="Nickel Plates">Nickelplatten</string>
     <string name="Titanium Plate">Titanplatte</string>
     <string name="Titanium Plates">Titanplatten</string>
-	<!-- Housings -->
+    <!-- Housings -->
     <string name="Copper Housing">Kupfergehäuse</string>
     <string name="Copper Housings">Kupfergehäuse</string>
     <string name="Tin Housing">Zinngehäuse</string>
@@ -334,7 +334,7 @@
     <string name="Titanium Housings">Titangehäuse</string>
     <string name="Nickel Housing">Nickelgehäuse</string>
     <string name="Nickel Housings">Nickelgehäuse</string>
-	<!-- PCBs -->
+    <!-- PCBs -->
     <string name="Basic PCB">Einfache Platine</string>
     <string name="Basic PCBs">Einfache Platinen</string>
     <string name="Primary PCB">Primäre Platine</string>
@@ -349,7 +349,7 @@
     <string name="Fortified PCBs">Verstärkte Platinen</string>
     <string name="Lightweight PCB">Leichte Platine</string>
     <string name="Lightweight PCBs">Leichte Platinen</string>
-	<!-- Pipes -->
+    <!-- Pipes -->
     <string name="Copper Pipe">Kupferrohr</string>
     <string name="Copper Pipes">Kupferrohre</string>
     <string name="Tin Pipe">Zinnrohr</string>
@@ -364,21 +364,21 @@
     <string name="Nickel Pipes">Nickelrohre</string>
     <string name="Titanium Pipe">Titanrohr</string>
     <string name="Titanium Pipes">Titanrohre</string>
-	<!-- Cristals -->
+    <!-- Cristals -->
     <string name="Crystal Fiber Mesh">Kristallfasergewebe</string>
     <string name="Crystal Fiber Meshes">Kristallfasergewebe</string>
     <string name="Crystal Clock">Kristalltaktgenerator</string><!-- Assuming its something like a Oscilator for curquits (would make sense) -->
     <string name="Crystal Clocks">KristallTaktgeneratoren</string>
     <string name="Overclocked Crystal">Übertakteter Kristalltaktgenerator</string>
     <string name="Overclocked Crystal Clocks">Übertaktete Kristalltaktgenerator</string>
-	<!-- Cargolifts -->
+    <!-- Cargolifts -->
     <string name="Basic Cargo Lift">Einfacher Warenlift</string>
     <string name="Basic Cargo Lifts">Einfache Warenlifte</string>
     <string name="Improved Cargo Lift">Verbesserter Warenlift</string>
     <string name="Improved Cargo Lifts">Verbesserte Warenlifte</string>
     <string name="Bulk Cargo Lift">Riesiger Warenlift</string><!-- Das gleiche wie bei den minecarts, Fjolnir -->
     <string name="Bulk Cargo Lifts">Riesige Warenlifte</string>
-	<!-- Suitupgrades -->
+    <!-- Suitupgrades -->
     <string name="Solar Cell MK1">Solarzelle MK1</string>
     <string name="Suit Cooler MK1">Anzugskühlung MK1</string>
     <string name="Suit Heater MK1">Anzugsheizung MK1</string>
@@ -404,7 +404,7 @@
     <string name="MK1 Suit Upgrade Modules">MK1 Anzugsverbessrungsmodule</string>
     <string name="Suit Power Pack MK2">Anzugsenergiepaket MK2</string>
     <string name="Suit Power Packs MK2">Anzugsenergiepakete MK2</string>
-	<!-- Arther stuff -->
+    <!-- Arther stuff -->
     <string name="ARTHER Power Core">ARTHER Energiekern</string>
     <string name="ARTHER Power Cores">ARTHER Energiekerne</string>
     <string name="ARTHER Solar Panel">ARTHER Solarpaneel</string>
@@ -435,7 +435,7 @@
     <string name="ARTHER Goblin Masks">ARTHER Goblinmasken</string>
     <string name="ARTHER Santa Mask">ARTHER Weihnachtsmannmaske</string>
     <string name="ARTHER Santa Masks">ARTHER Weihnachtsmannmasken</string>
-	<!-- Spiderbot -->
+    <!-- Spiderbot -->
     <string name="SpiderBot Blaster">SpiderBot Schleuder</string> <!-- Blaster meint glaube ich schnelle schwache Kanone. Fande hier Schleuder besser als Blaster. Aber Sprenger/Sprengkanone/Sprengschleuder passt auch nicht. Hat ja eher etwas von einer MG -->
     <string name="SpiderBot Blasters">SpiderBot Schleudern</string>
     <string name="SpiderBot Cannon">SpiderBot Kanone</string>
@@ -444,7 +444,7 @@
     <string name="SpiderBot Particle Rifles">SpiderBot Partikelgewehre</string>
     <string name="SpiderBot Power Core">SpiderBot Energiekern</string>
     <string name="SpiderBot Power Cores">SpiderBot Energiekerne</string>
-	<!-- Drillmotors -->
+    <!-- Drillmotors -->
     <string name="Basic Drill Motor">Einfacher Bohrmotor</string> <!-- klingt einfacher als antrieb -->
     <string name="Basic Drill Motors">Einfache Bohrmotoren</string>
     <string name="Enhanced Drill Motor">Verbesserter Bohrmotor</string>
@@ -455,7 +455,7 @@
     <string name="Fusion Drill Motors">Fusons Bohrmotoren</string>
     <string name="Antimatter Drill Motor">Antimaterie Bohrmotor</string>
     <string name="Antimatter Drill Motors">Antimaterie Bohrmotoren</string>
-	<!-- Lenses -->
+    <!-- Lenses -->
     <string name="Diamond Focusing Lens">Diamant Fokuslinse</string>
     <string name="Diamond Focusing Lenses">Diamant Fokuslinsen</string>
     <string name="Emerald Focusing Lens">Smaragd Fokuslinse</string>
@@ -478,7 +478,7 @@
     <string name="Polished Chrome Lenses">Polierte Chrom Fokuslinsen</string>
     <string name="Unfocused Polished Lens">Unfokusierte polierte Linse</string>
     <string name="Unfocused Polished Lenses">Unfokusierte polierte Linsen</string>
-	<!-- Machineblocks -->
+    <!-- Machineblocks -->
     <string name="Magnetic Machine Block">Magnetischer Maschinenblock</string>
     <string name="Magnetic Machine Blocks">Magnetische Maschinenblöcke</string>
     <string name="Chromed Machine Block">Verchromte Maschinenblock</string>
@@ -489,7 +489,7 @@
     <string name="Alloyed Machine Blocks">Legierte Maschinenblöcke</string>
     <string name="Hardened Machine Block">Gehärteter Maschinenblock</string>
     <string name="Hardened Machine Blocks">Gehärtete Maschinenblöcke</string>
-	<!-- Missiles -->
+    <!-- Missiles -->
     <string name="Empty Missile">Leere Rakete</string>
     <string name="Empty Missiles">Leere Raketen</string>
     <string name="Basic Missile">Einfache Rakete</string>
@@ -504,7 +504,7 @@
     <string name="Mephitic Missiles">Giftige Raketen</string>
     <string name="Cluster Missile">Schwarmrakete</string>
     <string name="Cluster Missiles">Schwarmraketen</string>
-	
+
     <string name="Cryo Bomb">Cryobombe</string>
     <string name="Cryo Bombs">Cryobomben</string>
     <string name="Compressed Magma">Komprimiertes Magma</string>
@@ -520,7 +520,7 @@
     <string name="Sulphuric Gasses">Schwefelgase</string>
     <string name="Compressed Sulphur">Komprimiertes Schwefel</string>
     <string name="Compressed Sulphurs">Komprimiertes Schwefel</string>
-	<!-- Bug parts -->
+    <!-- Bug parts -->
     <string name="Pristine Heavy Chitin">Schweres Chitin</string> <!-- TODO START klingt echt blöd -->
     <string name="Ruined Heavy Chitin">Ruiniertes schweres Chitin</string>
     <string name="Pristine Light Chitin">Leichtes Chitin</string>
@@ -546,9 +546,9 @@
     <string name="Refined Liquid Resin">Raffiniertes Flüssigharz</string>
     <string name="Spoiled Organic Remains">Verdorbene organische Materie</string>
     <string name="Recombined Organic Matter">Neuzusammengesetzte organische Materie</string> <!-- TODO END klingt echt blöd -->
-    
+
     <!-- Terrain entries. Names, plurals and descriptions-->
-	<!-- DESC will get added later (i guess)--><!-- -->
+    <!-- DESC will get added later (i guess)--><!-- -->
     <string name="Air">Luft</string>
     <string name="Air_DESC">Tief Ein- und Ausatmen, geniessen</string>
     <string name="Grass">Gras</string>
@@ -719,7 +719,7 @@
     <string name="Creative Water 256x256_DESC">Creative Water 256x256_DESC</string>
     <string name="Creative Greenscreen 256x256">Creativer Greenscreen 256x256</string>
     <string name="Creative Greenscreen 256x256_DESC">Creative Greenscreen 256x256_DESC</string>
-	
+
     <string name="Iron Ore">Eisenerz</string>
     <string name="Iron Ore_DESC">Iron Ore_DESC</string>
     <string name="Lithium Ore">Lithiumerz</string>
@@ -779,7 +779,7 @@
     <string name="Neon Grid">Neon Gitter</string>
     <string name="Neon Grid_DESC">Neon Grid_DESC</string>
     <string name="Neon Core">Neon Kern</string>
-    <string name="Neon Core_DESC">Neon Core_DESC</string>	<!-- -->
+    <string name="Neon Core_DESC">Neon Core_DESC</string>    <!-- -->
     <string name="Ivy">Efeu</string>
     <string name="Ivy_DESC">Ivy_DESC</string>
     <string name="Metal Siding 1">Metall Gehsteig 1</string>
@@ -869,7 +869,7 @@
     <string name="Ruby Crystal">Rubinkristall</string>
     <string name="Ruby Crystal_DESC">Diese niederwertigen Kristalle können poliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sapphire Crystal">Sapphirkristall</string>
-	<string name="Sapphire Crystal_DESC">Diese mittelwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</string>
+    <string name="Sapphire Crystal_DESC">Diese mittelwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</string>
     <string name="Topaz Crystal">Topazkristall</string>
     <string name="Topaz Crystal_DESC">Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
@@ -892,7 +892,7 @@
     <string name="Basic Rocket Fin_DESC">Basic Rocket Fin_DESC</string>
     <string name="LaunchPad">Startrampe</string>
     <string name="LaunchPad_DESC">LaunchPad_DESC</string>
-	<!-- Flowers and Vegetation--><!-- the names themself cant be translated due to lacking realworld couterparts-->
+    <!-- Flowers and Vegetation--><!-- the names themself cant be translated due to lacking realworld couterparts-->
     <string name="Orange GlowPod">Oranger GlowPod</string><!-- Not the best translation-->
     <string name="Orange GlowPod_DESC">Dies scheint nicht wirklich nutzvoll zu sein.</string>
     <string name="Blue GlowPod">Blauer GlowPod</string>
@@ -985,7 +985,7 @@
     <string name="Cement Garden Tile 5_DESC">Cement Garden Tile 5_DESC</string>
     <string name="Cement Garden Tile 6">Beton Gartenplatte 6</string>
     <string name="Cement Garden Tile 6_DESC">Cement Garden Tile 6_DESC</string>
-    <string name="Cement Garden Block">Gartenbetonblock</string>	<!-- Not optimal-->
+    <string name="Cement Garden Block">Gartenbetonblock</string>    <!-- Not optimal-->
     <string name="Cement Garden Block_DESC">Cement Garden Block_DESC</string>
     <string name="Cement Garden Tile 7">Beton Gartenplatte 7</string>
     <string name="Cement Garden Tile 7_DESC">Cement Garden Tile 7_DESC</string>
@@ -999,7 +999,7 @@
     <string name="Rusted Concrete_DESC">Rusted Concrete_DESC</string>
     <string name="Garden Sand">Garten Sand</string>
     <string name="Garden Sand_DESC">Garden Sand_DESC</string>
-    <string name="Stucco Swirl">Stuck Strudel</string>	<!-- Not optimal-->
+    <string name="Stucco Swirl">Stuck Strudel</string>    <!-- Not optimal-->
     <string name="Stucco Swirl_DESC">Stucco Swirl_DESC</string>
     <string name="Space Warz Hatch1">Space Warz Hatch1</string><!-- No idea what a Wakz is-->
     <string name="Space Warz Hatch1_DESC">Space Warz Hatch1_DESC</string>
@@ -1021,7 +1021,7 @@
     <string name="Butcherboy Wood Planks_DESC">Butcherboy Wood Planks_DESC</string>
     <string name="Butcherboy Floor Stone">Butcherboy Floor Stone</string>
     <string name="Butcherboy Floor Stone_DESC">Butcherboy Floor Stone_DESC</string>
-	
+
     <string name="Up Arrow">Aufwärts Pfeil</string>
     <string name="Up Arrow_DESC">Up Arrow_DESC</string>
     <string name="Down Arrow">Abwärts Pfeil</string>
@@ -1068,7 +1068,7 @@
     <string name="BFL-9000_DESC">Massiver Minen Laser.\nSchneidet 5x5 Tunnel.\nMassiv Energie hungrig!</string>
     <string name="Pyrothermic Generator">Pyrothermischer Generator</string>
     <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
-	<!-- not Conveyorbased transport-->
+    <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI bewegungs Steuerung</string><!-- Not optimal-->
     <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI Roboter.\nVerschiebt Erze zwischen Hoppern.\nGeringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massebeweger</string>
@@ -1079,12 +1079,12 @@
     <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Dinge/min auf 16m Entfernung</string>
     <string name="Multi Matter Mover">Multi Massebeweger</string>
     <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Dinge/min auf 4m Entfernung</string>
-	<!--Ore smelters-->
+    <!--Ore smelters-->
     <string name="Ore Smelter">Schmelzofen</string>
     <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode Barren aus Ressourcen herzustellen.</string>
     <string name="Basic Ore Smelter">Einfacher Schmelzofen</string>
     <string name="Basic Ore Smelter_DESC">Halb so schnell und Effizient wie der normale Schmelzofen. Kann nicht verbessert werden</string>
-	<!--inline production and conveyors -->
+    <!--inline production and conveyors -->
     <string name="Basic Conveyor Belt">Einfaches Förderband</string>
     <string name="Basic Conveyor Belt_DESC">Transportiert Materialien langsam vom Trichter weg.</string>
     <string name="Conveyor Belt">Förderband</string>
@@ -1115,7 +1115,7 @@
     <string name="Down Sloped Conveyor_DESC">Abwärtsgeneigtes Normalschnelles Förderband!</string>
     <string name="Motorised Conveyor">Motorisierters Förderband</string>
     <string name="Motorised Conveyor_DESC">Entnimmt Dinge von einem Hopper mit bis zu 150 Dinge/min!</string>
-	
+
     <string name="Research Station">Forschungsstation</string>
     <string name="Research Station_DESC">Verabrbeitet Scan's und Forschung zu Technologien.\n Braucht Energie.</string>
     <string name="Forced Induction">MK1 Induktionseinheit</string><!-- it means just Inductionunit as the Forced part is kinda hart to describe (just using erzwungenen Induktion would be an option, would sound silly tho)-->
@@ -1142,7 +1142,7 @@
     <string name="Teleporter_DESC">Versetzt den Benutzer zur gespeicherten Position vom installierten Positionsmarker. Braucht haufenweise Energie!</string>
     <string name="Geological Surveyor">Geologischer Landvermesser</string>
     <string name="Geological Surveyor_DESC">Stellt sicher das deine Steinbrüche richtig Plaziert sind.</string>
-	<!--Manufacturing plant and Modules for it -->
+    <!--Manufacturing plant and Modules for it -->
     <string name="Manufacturing Plant">Konstruktionsanlage</string>
     <string name="Manufacturing Plant_DESC">Zentrale automatische Werkbank.\nKann durch anbringen von Modulen verbessert werden.\nBraucht Energie für automatische Produktion.</string>
     <string name="3D Printer">3D Drucker</string>
@@ -1161,17 +1161,17 @@
     <string name="Incubator_DESC">Werkbankmodul\nSchaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Assembly Station">Montagestation</string>
     <string name="Assembly Station_DESC">Werkbankmodul\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
-	
+
     <string name="Refinery Controller">Raffineriesteuerung</string>
     <string name="Refinery Controller_DESC">Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</string>
     <string name="Refinery Reactor Vat">Raffineriereaktorkessel</string><!-- Not optimal-->
     <string name="Refinery Reactor Vat_DESC">Der Spieler sollte nicht fähig sein dies je zu lesen...</string>
     <string name="Jet Turbine Generator">Generatorturbine</string>
     <string name="Jet Turbine Generator_DESC">Der Spieler sollte nicht fähig sein dies je zu lesen...</string>
-	
+
     <string name="Advanced Machine Block">Fortgeschrittener Maschinenblock</string>
     <string name="Advanced Machine Block_DESC">Produktionskomponente welche für 3. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden.</string>
-	
+
     <string name="Red Storage Crate">Rote Lagerkiste</string>
     <string name="Red Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
     <string name="Blue Storage Crate">Blaue Lagerkiste</string>
@@ -1206,7 +1206,7 @@
     <string name="Lime Yellow Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
     <string name="Maroon Storage Crate">Kastanienbraune Lagerkiste</string>
     <string name="Maroon Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
-	<!-- Massstorage blocks-->
+    <!-- Massstorage blocks-->
     <string name="Mass Storage Block">Massenspeicherkiste</string><!-- Not optimal-->
     <string name="Mass Storage Block_DESC">Einfaches Massenlagerungssystem (25 Kapazität/ Lage)</string>
     <string name="Basic Mass Storage Input Port">Einfacher Massenspeichereingang</string>
@@ -1223,7 +1223,7 @@
     <string name="Bulk Mass Storage Output Port_DESC">Wird genutz um Ressourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 25 Ressourcen gleichzeitig.</string>
     <string name="Mass Storage Controller">Massenspeichersteuerung</string>
     <string name="Mass Storage Controller_DESC">Hochregallagerverwaltung für angetriebene Lager</string>
-	
+
     <string name="Macerator">Zerkleinerer</string><!-- Not optimal-->
     <string name="Macerator_DESC">Durchsucht untenutze Steine nach Erz.</string>
     <string name="ARTHER Charging Station">ARTHER Aufladestation</string>
@@ -1280,22 +1280,22 @@
     <string name="Organic Reassembler(OLD)_DESC">Stellt Ruinirte Organische Komponenten her.</string>
     <string name="Coal Enricher(OLD)">Kohleanreicherer (ALT)</string>
     <string name="Coal Enricher(OLD)_DESC">Reichert Kohle langsam an.</string>
-	
+
     <string name="Orbital Energy Transmitter">Orbitaler Energieübertrager</string>
     <string name="Orbital Energy Transmitter_DESC">Nicht wichtig</string>
-	
+
     <string name="Auto Upgrader">Autoverbesserer</string>
     <string name="Auto Upgrader_DESC">Verbessert automatisch die Stufe der Förderbänder.</string>
     <string name="T4 Power Storage">T4 Energiespeicher</string>
     <string name="T4 Power Storage_DESC">Nicht Wichtig</string>
     <string name="T5 Power Storage">T5 Energiespeicher</string>
     <string name="T5 Power Storage_DESC">Nicht Wichtig</string>
-    <string name="Solar	Panel MK2">Solarpanenle MK2</string>
+    <string name="Solar Panel MK2">Solarpanenle MK2</string>
     <string name="Solar Panel MK2_DESC">Nicht Wichtig</string>
-	
+
     <string name="T4 Turret">T4 Laserturm</string>
     <string name="T4 Turret_DESC">Nicht Wichtig</string>
-	<!--Laserlogic, not implemented. Also not aviable anymore as its hidden in terrandata.xml -->
+    <!--Laserlogic, not implemented. Also not aviable anymore as its hidden in terrandata.xml -->
     <string name="Logic Laser Emitter">Logiklasersender</string>
     <string name="Logic Laser Emitter_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
     <string name="Laser AND Gate">Laser UND Schaltung</string>
@@ -1312,7 +1312,7 @@
     <string name="Laser Mirror_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
     <string name="Laser Receptor">Laserempfänger</string>
     <string name="Laser Receptor_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
-	
+
     <string name="Lift w/underside Piston">Lift mit unterseiten Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit.</string>
     <string name="Lift Compressor">Lift Kompressor</string>
@@ -1335,7 +1335,7 @@
     <string name="MobSpawner_DESC">Super geeignet um vereidigung zu testen.</string>
     <string name="Insulated Copper Wire">Isoliertes Kupferkabel</string>
     <string name="Insulated Copper Wire_DESC">Insulated Copper Wire_DESC</string>
-	
+
     <string name="Track Gate">Schinentor</string>
     <string name="Track Gate_DESC">Track Gate_DESC</string>
     <string name="Track Terminus">Schinenendbahnhof</string>
@@ -1344,7 +1344,7 @@
     <string name="Track Point_DESC">Track Point_DESC</string>
     <string name="Track Station">Schinenstation</string>
     <string name="Track Station_DESC">Track Station_DESC</string>
-	
+
     <string name="Threat Agitator">Bedrohungsverstärker</string>
     <string name="Threat Agitator_DESC">Erzeugt zusätzliche Bedrohungsstufen.</string>
     <string name="Threat Reducer">Bedrohungsverminderer</string>
@@ -1355,7 +1355,7 @@
     <string name="3'n1 Zipper Merge_DESC">Verbindet schnell 2 Linien zu 1 mit RRR L verhalten. Macht Forschungspod Montage zum Kinderpsiel!</string>
     <string name="Rapid Zipper Merge">Schneller 1 zu 1 Mischer</string><!-- Not optimal-->
     <string name="Rapid Zipper Merge_DESC">Kombiniert schnell 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</string>
-	
+
     <string name="Fusion Reactor Pylon">Fusionsreaktorpfeiler</string>
     <string name="Fusion Reactor Pylon_DESC">Fusion Reactor Pylon_DESC</string>
     <string name="Fusion Reactor Core">Fusionsreaktorkern</string>
@@ -1366,7 +1366,7 @@
     <string name="Geothermal Generator_DESC">Geothermal Generator_DESC</string>
     <string name="Heat Conducting Pipe">Wärmeleitendes Rohr</string><!-- Not optimal-->
     <string name="Heat Conducting Pipe_DESC">Heat Conducting Pipe_DESC</string>
-	
+
     <string name="MB Ore Extractor Drill">Mehrteiliger Erzfördererbohrer</string>
     <string name="MB Ore Extractor Drill_DESC">MB Ore Extractor Drill_DESC</string>
     <string name="MB Ore Extractor Motor">Mehrteiliger Erzfürdererantrieb</string>
@@ -1447,7 +1447,7 @@
     <string name="Construction Paste Grinder_DESC">Uses 'garbage' blocks to make Construction Paste.</string>
     <string name="Cluster Missile Crafter">Swarmraketenproduktion</string>
     <string name="Cluster Missile Crafter_DESC">Wandelt eine durchtränkte Raktet in 8 Schnellfeuer Rakete um, jede teilt zwar nut 1/4 des originalen Schadens aus, was aber im gesamten zu einer verdoppelung des Schadens führt.</string>
-	
+
     <string name="ConstructoBot Coppator Chassis Assembler">ConstructoBot Coppator Gehäusemontage</string><!-- Not optimal-->
     <string name="ConstructoBot Coppator Chassis Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Chassis.</string>
     <string name="ConstructoBot Tindron Chassis Assembler">ConstructoBot Tindron Gehäusemontage</string><!-- Not optimal-->
@@ -1460,7 +1460,7 @@
     <string name="ConstructoBot Leg Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Legs.</string>
     <string name="ConstructoBot Arm Assembler">ConstructoBot Armmotnage</string><!-- Not optimal-->
     <string name="ConstructoBot Arm Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Arms.</string>
-	
+
     <string name="Blast Furnace">Hochofen</string>
     <string name="Blast Furnace_DESC">Blast Furnace_DESC</string>
     <string name="Continuous Casting Basin">Strangussbecken</string>
@@ -1469,7 +1469,7 @@
     <string name="Casting Pipe (Straight)_DESC">Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</string>
     <string name="Casting Pipe (Bend)">Gebogenes Gussrohr</string>
     <string name="Casting Pipe (Bend)_DESC">Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</string>
-	<!--MachinePlacement-->
+    <!--MachinePlacement-->
     <string name="Refinery Reactor Vat Component">Raffineriekesselkomponente</string>
     <string name="Refinery Reactor Vat Component_DESC">Beinhaltet Biochemischereaktionen die unter Hochdruck stehen. In einem 3x3x3 Würfel plazieren um einen Reaktorkessel zu formen. Raffineriekontrollstation anbauen um zu nutzen.</string>
     <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
@@ -1588,7 +1588,7 @@
     <string name="CryoPlasm_DESC">Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden</string>
     <string name="Cryoplasm">Cryoplasma</string><!-- laying on the floor-->
     <string name="Cryoplasm_DESC">Cryoplasm_DESC</string>
-	
+
     <string name="Workfloor Excavator MK1">Arbeitsbodenbagger MK1</string><!--Straight form google :P  -->
     <string name="Workfloor Excavator MK1_DESC">Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus.</string>
     <string name="Workfloor Excavator MK2">Arbeitsbodenbagger MK2</string><!--Straight form google :P  -->
@@ -1649,12 +1649,12 @@
     <string name="Crashed parts container_DESC">Beinhaltet technische Komponenten welche für Forschung verwendet werden.</string>
     <string name="Chilled Reinforced Rock">Gekühlter verstärkter Stein</string>
     <string name="Chilled Reinforced Rock_DESC">Gekühlter verstärkter Stein</string>
-	
+
     <string name="Critter">Critter</string>
     <string name="Critter_DESC">Notice my Oppai!</string>
     <string name="Waypoint Machine">Wegpunktanzeige</string>
     <string name="Waypoint Machine_DESC">Wenn Plaziert und mit Energie versorgt wird ein Wegpunkt erzeugt. Kann durch plazieren eines Schildes an der Maschiene angepasst werden.</string>
-	
+
     <string name="ConstructoBot Direction">ConstructoBot Wegweiser</string>
     <string name="ConstructoBot Direction_DESC">Forces ConstructoBots to head in this direction.</string>
     <string name="ConstructoBot Cargo Control">ConstructoBot Ladungskontrolle</string>
@@ -1675,25 +1675,25 @@
     <string name="ConstructoBot Charger_DESC">Charges a ConstructoBot.</string>
     <string name="ConstructoBot Constructor">ConstructoBot Konstrukteur</string>
     <string name="ConstructoBot Constructor_DESC">Builds a ConstructoBot from input conveyors with Arm, Body and Legs.</string>
-	
+
     <string name="H.O.D.O.R.">H.O.D.O.R.</string>
     <string name="H.O.D.O.R._DESC">High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.</string>
-	
+
     <string name="Orbital RailGun Controller">Orbital Scheinengeschütz Steuerung</string>
     <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt richtung Norden.</string>
     <string name="Orbital RailGun Induction Ring">Orbital Scheinengeschütz Induktionsring</string>
     <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt richtung Norden.</string>
-	
+
     <string name="Hydroponics Bay">Hydroponikeinheit</string>
     <string name="Hydroponics Bay_DESC">Züchtet automatisch Pflanzen. Setzt eine Abdeckung voraus.</string>
     <string name="Hydroponics Canopy">Hydroponikeinheit Abdeckung</string>
     <string name="Hydroponics Canopy_DESC">Wird über einer hydroponischen Einheit plaziert um die Wachstumsrate massiv zu steigern.</string>
-	
+
     <string name="Adventures Pack DLC">Abenteuerpacket DLC</string>
     <string name="Adventures Pack DLC_DESC">Das zweite DLC zu FCE</string>
     <string name="CRP DLC KEY">PatreonKey</string> <!-- Patreonkey? "Community Reward Pack" i guess?-->
     <string name="CRP DLC KEY_DESC">Placeholder</string>
-	
+
     <string name="Emergency Siren">Notfallsirene</string>
     <string name="Emergency Siren_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
     <string name="Orange Warning Light">Oranges Warnlicht</string>
@@ -1702,7 +1702,7 @@
     <string name="Red Warning Light_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
     <string name="Warning Strobe">Warn Blitzlicht</string>
     <string name="Warning Strobe_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
-	
+
     <string name="Organic MK2">Organische Solarpanele MK2</string>
     <string name="Organic Solar Panel MK2_DESC">Nicht Wichtig</string>
     <string name="Glow Tubes">Leuchtröhren</string>
@@ -1713,13 +1713,11 @@
     <string name="Large Rocks_DESC">Grosse Steine die ander Oberfläche vorkommen, welche Spuren von Erz enthalten.</string>
     <string name="Workshop Placement">Werkstattplazierung</string>
     <string name="Workshop Placement_DESC">Wird diagonal Plaziert\n Erzeugt eine Datailblockwerkstatt\nGrösse von 2x2x2 bis 8x8x8</string>
-	
-	<!-- Manufacturer and other crafting plant strings -->
-    <string name="Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags.
-		Braucht freie Sicht zum Himmel.</string>
+
+    <!-- Manufacturer and other crafting plant strings -->
+    <string name="Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Braucht freie Sicht zum Himmel.</string>
     <string name="Solar Panel_CRAFT_HINT">Perfekt um kleinleistungs Maschienen zu versorgen.</string>
-    <string name="Organic Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei nacht einwenig energie einfangen.
-		Braucht freie Sicht zum Himmel.</string>
+    <string name="Organic Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei nacht einwenig energie einfangen. Braucht freie Sicht zum Himmel.</string>
     <string name="Organic Solar Panel_CRAFT_HINT">Braucht freien Himmel!</string>
     <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt mittelviel Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden.</string>
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
@@ -1931,7 +1929,7 @@
     <string name="Liquid Resin Refiner_CRAFT_HINT">Benutzt in einigen Hochstehenden organischen Rezepten.</string>
     <string name="Hydrojet Cutter_CRAFT_DESC">Verbesserungsmodul für die Konstruktionsanlage welches erlaut Anzugsverbesserungen herzustellen. Muss AUF der Konstruktionsanlage plaziert werden.</string>
     <string name="Hydrojet Cutter_CRAFT_HINT">MUSS auf Konstruktionsanlage platziert werden!</string>
-	<!--Suit upgrades-->
+    <!--Suit upgrades-->
     <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpanelen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Verbessert die Heitzleistung des Anzugs um dich vor extremer Kälte zu schützen. Muss nur einmal im Inventar vorhanden sein.</string>
@@ -1952,7 +1950,7 @@
     <string name="Toxic Particle Filter_CRAFT_HINT">Wird benötigt um die Giftsporen gefüllte Höhle zu durchqueren.</string>
     <string name="Jet Pack_CRAFT_DESC">Nutzt Schubdüsen um Flüge über kurze Distanzen zu ermöglichen. Braucht grosse Mengen Energie. [J] Drücken für De-/Aktivierung.</string>
     <string name="Jet Pack_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
-	
+
     <string name="Spiderbot Base Component_CRAFT_DESC">Eine Installation wird fähig sein den Spiderbot zu reparieren, verbessern und aufmunitionieren. Wird in einer 15x15 Plate aufgebaut (225 BLock Total).</string>
     <string name="Spiderbot Base Component_CRAFT_HINT">Die Automation der Spiderbotenergiekerne wird dein Leben massivst vereinfachen!</string>
     <string name="SpiderBot Blaster_CRAFT_DESC">Schnellfeuernde Energiewaffe,jedoch wenig Durchschlagskraft. Ideal für kleine bis mittlere Ziele.</string>
@@ -1997,7 +1995,7 @@
     <string name="Jet Turbine Generator Housing_CRAFT_HINT">Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lufteinlass an Front montieren.</string>
     <string name="Jet Turbine Generator Intake_CRAFT_DESC">Saugt grosse Mengen Luft in die Turbine. Auf der Vorderseite der Turbine in einer 3m Hohen und 3m Breiten Fläche anbringen.</string>
     <string name="Jet Turbine Generator Intake_CRAFT_HINT">Der Turbinenlufteinlass ist an der Front in einer 3x3 Platte vertikal anzubringen.</string>
-	<!--Arther stuff (obviously)-->
+    <!--Arther stuff (obviously)-->
     <string name="ARTHER Power Core_CRAFT_DESC">Repariert den Schaden an Arther und erlaubt es ihr wieder verlässlich zu fliegen. Nur ein Kern erforderlich und muss im Inventar abgelegt sein.</string>
     <string name="ARTHER Power Core_CRAFT_HINT">Erlaubt es Arther wieder verlässlich zu fliegen. Nur ein Kern erforderlich, muss im Inventar sein.</string>
     <string name="ARTHER Battery Core_CRAFT_DESC">Erlaubt Arther 8x mehr Energie zu lagern und diese dann an dich anzugeben wenn wenig Energie im Anzug ist. Nur einmal erforderlich, muss im Inventar sein.</string>
@@ -2032,7 +2030,7 @@
     <string name="ARTHER Ghost Costume_CRAFT_HINT">Antwort: Es ist Arther.</string>
     <string name="ARTHER Turret_CRAFT_DESC">Verteidigungsturm der nur Funktionier wenn Arther ihn besetzt hat. Grosse Reichweite von 64m, wenig Energieverbrauch. Ideal für die anfänge von Förderbandverteidigung!</string>
     <string name="ARTHER Turret_CRAFT_HINT">Ideale Einrichtung um 128m Förderband zu schützen. Hint hint.</string>
-	
+
     <string name="CryoPlasm Lancer_CRAFT_DESC">Erlaubt es Cryoplasma auf sehr kurzer Distanz zu vernichten. Nutzvoll um verirrte Ableger zu stoppen.</string>
     <string name="CryoPlasm Lancer_CRAFT_HINT">Dies ist ein einfacher Turm, nutzen in Zusammenspiel mit fortgeschritteneren Waffensystemen.</string>
     <string name="CryoPlasm Melter_CRAFT_DESC">Erlaubt es Cryoplasma auf mittlere Distanz zu verflüssigen. Nutzvoll um Todeszonen für Cryoplasma zu bauen.</string>
@@ -2041,7 +2039,7 @@
     <string name="CryoMine_CRAFT_HINT">Nicht. Einatmen. Ok?</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Erlaubt es Cryoplasma auf grosse Distanz zu bekämpfen. Nutzvoll um die zentrale Masse eines Angriffs zu stopen.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">Aufbau in einem 3x3x3 Würfel.</string>
-	<!--Extractor upgrades -->
+    <!--Extractor upgrades -->
     <string name="Basic Drill Motor_CRAFT_DESC">In Erzförderer einfügen um die Födergeschwindigkeit um 200% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</string>
     <string name="Basic Drill Motor_CRAFT_HINT">Erhöht die Födergeschwindigkeit um 200%. Nutzt viel mehr Enerige!</string>
     <string name="Enhanced Drill Motor_CRAFT_DESC">In Erzförderer einfügen um die Födergeschwindigkeit um 400% zu erhöhen, was einen höheren Energieverbrauch mit sich zieht.</string>
@@ -2058,7 +2056,7 @@
     <string name="Crystal Cutter Head_CRAFT_HINT">Der Kristallkopf ist effizienter, wird aber schneller verbraucht.</string>
     <string name="Organic Cutter Head_CRAFT_DESC">In Erzförderer einfügen um die Födereffizienz auf 50% zu erhöhen. Wird langsam verbraucht. Erlaubt es zudem härtere Materialien zu fördern.</string>
     <string name="Organic Cutter Head_CRAFT_HINT">Der Organischekopf ist effizienter, wird aber schneller verbraucht.</string>
-	<!--Lenses-->
+    <!--Lenses-->
     <string name="Diamond Focusing Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 15% zu erhöhen.</string>
     <string name="Diamond Focusing Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 15%</string>
     <string name="Emerald Focusing Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 30% zu erhöhen.</string>
@@ -2071,14 +2069,14 @@
     <string name="Topaz Focusing Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 150%</string>
     <string name="Sugalite Focusing Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 200% zu erhöhen.</string>
     <string name="Sugalite Focusing Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 200%</string>
-	
+
     <string name="Crude Organic Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 25% zu erhöhen.</string>
     <string name="Crude Organic Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 25%</string>
     <string name="Organic Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 100% zu erhöhen.</string>
     <string name="Organic Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 100%</string>
     <string name="Exceptional Organic Lens_CRAFT_DESC">In Laserenergieübertrager einfügen um Geschwindigkeit um 250% zu erhöhen.</string>
     <string name="Exceptional Organic Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 250%</string>
-	
+
     <string name="Iron Gear_CRAFT_DESC">Abgeschrägtes Zahnrad, in verschiedenen Motoren und Gelenken zu finden.</string>
     <string name="Iron Gear_CRAFT_HINT">Abgeschrägt da es leiser läuft!</string>
     <string name="Empty Fuel Canister_CRAFT_DESC">Leerer Treibstoffkanister. Sei Grün - Wiederverwertung wo möglich!</string>
@@ -2091,7 +2089,7 @@
     <string name="Alloyed Machine Block_CRAFT_HINT">Diese Blöcke sind in grossen Mengen gebraucht. Es wird stark angeraten sie zu automatisieren!</string>
     <string name="Hardened Machine Block_CRAFT_DESC">Ein ineffizienter Weg diese Blöcke herzustellen. Automation kann effizienter sein als die Blöcke vonhand herzustellen. Hint hint.</string>
     <string name="Hardened Machine Block_CRAFT_HINT">Diese Blöcke sind in grossen Mengen gebraucht. Es wird stark angeraten sie zu automatisieren!</string>
-	<!--Massstorage-->
+    <!--Massstorage-->
     <string name="Mass Storage Block_CRAFT_DESC">Massenlagersystem. Wir Horizontal ausgelegt, Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
     <string name="Mass Storage Block_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
     <string name="Basic Mass Storage Input Port_CRAFT_DESC">Entnimmt einem Förderband Gegenstände und fügt diese dem Massenlager hinzu. Fügt bis zu 5 Stück vom gleichen Gegenstand hinzu. Vorsortieren erhöht Effizienz beträchtlich!</string>
@@ -2116,7 +2114,7 @@
     <string name="Mass Storage Controller_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
     <string name="Mass Storage I/O Port_CRAFT_DESC">Energie wird duhrch die Massenlager Steuerung eingespiesen.</string>
     <string name="Mass Storage I/O Port_CRAFT_HINT">Unbegrentzer Lagerpaltz. Ein-/Ausgänge verwendem um Inhalt zu verändern!</string>
-	
+
     <string name="Macerator_CRAFT_DESC">Der Zerkleinerer bricht und entsorgt nutzloses Gestein. Trotz kleiner Wahrscheinlichkeit findet sich zwischendurch noch brauchbare Erze. Braucht Energie und einen Lagertrichter für alfällig gefundene Erze.</string>
     <string name="Macerator_CRAFT_HINT">Hat einen geringe Wahrscheinlichkeit Erze zu finden.</string>
     <string name="Auto Excavator_CRAFT_DESC">Gräbt automatisch einen vertikalen Schacht. Gräbt nur aufwärts. Braucht Energie.</string>
@@ -2131,7 +2129,7 @@
     <string name="Auto Builder_CRAFT_HINT">Warum selber Förderband linien bauen wenn man sie automatischen bauen lassen kann?</string>
     <string name="Auto Upgrader_CRAFT_DESC">Verbessert die existierenden Förderbandlinien zu einer höheren Stufe. Braucht Eerngie und die neuen Förderbänder in einem angrenzenden Lagertrichter. Schau im Handbuch nach für genaue Infos.</string>
     <string name="Auto Upgrader_CRAFT_HINT">Eine massive Zeitersparnis!</string>
-	
+
     <string name="Manufacturing Plant_CRAFT_DESC">Konstruktuinsanlagen erlauben automatische Produktion von Maschinen. Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden!</string>
     <string name="Manufacturing Plant_CRAFT_HINT"> Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden</string>
     <string name="Location Marker_CRAFT_DESC">Speichert einen Standort. In Maschienen verwenden welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</string>
@@ -2140,7 +2138,7 @@
     <string name="Teleporter_CRAFT_HINT">Springen während man auf dem Teleporter steht!</string>
     <string name="Chargeable Explosive_CRAFT_DESC">Mit Energie versorgen um Zerstörungsradius zu vergrössern. Erhält Energie wenn abgebaut. Aus Sicherheitsbedenken wird empfohlen den Sprengsatz nicht in der Nähe von irgenwas wichtigem zu laden.</string>
     <string name="Chargeable Explosive_CRAFT_HINT">Braucht geladene Energie um zu funktionieren!</string>
-	<!-- Usables -->
+    <!-- Usables -->
     <string name="NanoDisintegrator_CRAFT_DESC">Eine Einwegmaschiene. Kann alles zerstören auf was sie platziert wird. EXTREME VORSICHT BEIM EINSATZ!</string>
     <string name="NanoDisintegrator_CRAFT_HINT">EXTREME-VORSICHT-BEIM-EINSATZ!</string>
     <string name="Blank Ore Ping_CRAFT_DESC">Ein verwendbarer Gegenstand welcher einen Erzping aussendet ohne Energie zu brauchen. Mit Erz kombinieren um Selbstherstellmenu (C) um einen spezifischen Erzping zu erhalten.</string>
@@ -2171,7 +2169,7 @@
     <string name="Chromium Ping_CRAFT_HINT">Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Chromadern zeigt und das ohne Energie zu brauchen.</string>
     <string name="Molybdenum Ping_CRAFT_DESC">Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Molybdänmadern zeigt und das ohne Energie zu brauchen.</string>
     <string name="Molybdenum Ping_CRAFT_HINT">Ein verwendbarer Gegenstand welcher einen Erzping aussendet, welcher nur Molybdänmadern zeigt und das ohne Energie zu brauchen.</string>
-	
+
     <string name="Lift w/underside Piston_CRAFT_DESC">Langsamer aber effizienter Senkrechter TRansport. Kann verbessert werden mit einem Liftkompressor.</string>
     <string name="Lift w/underside Piston_CRAFT_HINT">Kann verbessert werden mit einem Liftkompressor.</string>
     <string name="Lift Manual Control Module_CRAFT_DESC">An Basis von Lift anbringen um Manuellesteuerung des Lifts zu ermöglichen.</string>
@@ -2186,7 +2184,7 @@
     <string name="Geological Surveyor_CRAFT_HINT">Wird genutzt um besten Platz für deinen Steinbruch zu finden!</string>
     <string name="Basic Quarry_CRAFT_DESC">Gibt alle Ressourcen zurück welche aus dem Schacht gefördert werden.</string>
     <string name="Basic Quarry_CRAFT_HINT">Es gibt die ganze Erde und Gestein zurück...</string>
-	<!--Minecarts-->
+    <!--Minecarts-->
     <string name="Minecart Depot_CRAFT_DESC">Setzt Loren von einem Lagertrichter aus auf die Schienen.</string>
     <string name="Minecart Depot_CRAFT_HINT">Hierzu gibts keinen Tipp.</string>
     <string name="Minecart Unload Station_CRAFT_DESC">Entlädt Loren in angrenzende Lagertrichter.</string>
@@ -2217,7 +2215,7 @@
     <string name="Bulk Minecart_CRAFT_HINT">Das beste was T4 bietet!</string>
     <string name="Tour Cart_CRAFT_DESC">Sehr schnelle Lore mit 0 Lagerkapizität.</string>
     <string name="Tour Cart_CRAFT_HINT">U Drücken zum mitfahren.</string>
-	<!--ConstructoBots-->
+    <!--ConstructoBots-->
     <string name="ConstructoBot Direction_CRAFT_DESC">Zwingt ConstructoBots in diese Richtugn zu gehen.</string>
     <string name="ConstructoBot Direction_CRAFT_HINT">Zwingt ConstructoBots in diese Richtugn zu gehen.</string>
     <string name="ConstructoBot Cargo Control_CRAFT_DESC">ConstructoBots mit Waren werden dem GRÜNEN Pfeil folgen.</string>
@@ -2248,7 +2246,7 @@
     <string name="ConstructoBot Arm Assembler_CRAFT_HINT">Montiert T0 Kupferin ConstructoBot Arme.</string>
     <string name="ConstructoBot Constructor_CRAFT_DESC">Produziert einen Maschienen welche ConstructoBots produziert.</string>
     <string name="ConstructoBot Constructor_CRAFT_HINT">Produziert einen Maschienen welche ConstructoBots produziert.</string>
-	<!--Cargo Lifts-->
+    <!--Cargo Lifts-->
     <string name="Cargo Lift Controller_CRAFT_DESC">Bauen als eine 3x1x3 Platte über einem 3x3 Schacht um automatisch einen Lift zu bauen.</string>
     <string name="Cargo Lift Controller_CRAFT_HINT">Braucht Energie und Zahnstangen.</string>
     <string name="Rack Railer_CRAFT_DESC">Stellt Zahnstangen aus Eisenbarren her, welche gebraucht werden zur Automation von Warenliftschienen.</string>
@@ -2259,7 +2257,7 @@
     <string name="Improved Cargo Lift_CRAFT_HINT">Kann später verbessert werden.</string>
     <string name="Bulk Cargo Lift_CRAFT_DESC">Warenlift mit 3000 Ladekapazität und bis zu 10m/s Fahrgeschwindigkeit. Platzieren in Warenliftsteuerung.</string>
     <string name="Bulk Cargo Lift_CRAFT_HINT">Dies ist der beste Lift verfügbar im Moment.</string>
-	
+
     <string name="Research Assembler_CRAFT_DESC">Stellt automatisch Experimentalkanister her. Braucht Energie und angrenzende Lagertrichter mit den benötigten Platten und Leiterplatten drin. Im Handbuch sind mehr Informationen dazu.</string>
     <string name="Research Assembler_CRAFT_HINT">Genutzt um Projekte freizuschalten!</string>
     <string name="Orbital Energy Transmitter Component_CRAFT_DESC">Wird genutzt um Energie zur Orbitalen Weltraumstation zu senden. Wird in einer 9x9 grossen Platte 13 Blöcke hoch gebaut (1053 Block total).</string>
@@ -2268,7 +2266,7 @@
     <string name="Orbital Strike Controller_CRAFT_HINT">Funktioniert nur bei einem Voll aufgeladenen OET!</string>
     <string name="Laboratory Component_CRAFT_DESC">Nutze dies um fortgeschrittene Projekte mit Hilfe von Experimenten zu erforschen. Muss in eine 3x3x3 Würfel gebaut werden. Im Handbuch sind mehr Informationen bezüglich Forschung zu finden.</string>
     <string name="Laboratory Component_CRAFT_HINT">Das Labor wird als 3x3x3 Würfel aufgestellt.</string>
-	<!--Petreon requested Blocks?-->
+    <!--Petreon requested Blocks?-->
     <string name="Truss_CRAFT_DESC">Ein dekoratives Metalgerüst.</string>
     <string name="Truss_CRAFT_HINT">Verbraucht Konstruktionspaste!</string>
     <string name="DapperVIP_CRAFT_DESC">Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</string>
@@ -2285,8 +2283,8 @@
     <string name="Halloween Cauldron_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string>
     <string name="Snowman_CRAFT_DESC">Wird nicht schmelzen, wiedersteht sogar Magma.</string>
     <string name="Snowman_CRAFT_HINT">Du hast kein Dapper DLC? Du wirst dies vorbeizeihen lassen müssen.</string>
-	
-    <string name="Celtic Braid Pillar_CRAFT_DESC">Danke ButcherBoyToma für die darüberhinaus gehende Unterstützung des Spiels.	Du willst helfen?      www.patreon.com/FortressCraft</string>
+
+    <string name="Celtic Braid Pillar_CRAFT_DESC">Danke ButcherBoyToma für die darüberhinaus gehende Unterstützung des Spiels. Du willst helfen?      www.patreon.com/FortressCraft</string>
     <string name="Celtic Braid Pillar_CRAFT_HINT">Du willst helfen?  http://www.patreon.com/FortressCraft </string>
     <string name="Space Grille_CRAFT_DESC">Danke Tarakesh : "Awesome Games are worth every cent you pay for...  ;-)" www.patreon.com/FortressCraft</string>
     <string name="Space Grille_CRAFT_HINT">Du willst helfen?  http://www.patreon.com/FortressCraft</string>
@@ -2300,7 +2298,7 @@
     <string name="Neon Border_CRAFT_HINT">Du willst helfen?  http://www.patreon.com/FortressCraft</string>
     <string name="Dyed Marble_CRAFT_DESC">Danke MKMarq : "Luxurious materials for surviving in style!" www.patreon.com/FortressCraft</string>
     <string name="Dyed Marble_CRAFT_HINT">Du willst helfen?  http://www.patreon.com/FortressCraft</string>
-	<!--Loot from wasps and family -->
+    <!--Loot from wasps and family -->
     <string name="Pristine Heavy Chitin_CRAFT_DESC">Wird in einigen nutzvollen Rezepten verwendet.</string>
     <string name="Pristine Heavy Chitin_CRAFT_HINT">Ruinierte Teile müssen gekühlt werden!</string>
     <string name="Pristine Light Chitin_CRAFT_DESC">Wird in einigen nutzvollen Rezepten verwendet.</string>
@@ -2315,12 +2313,12 @@
     <string name="Perfect Faceted Eye_CRAFT_HINT">Ruinierte Teile müssen gekühlt werden!</string>
     <string name="Massive Faceted Eye_CRAFT_DESC">Wird in einigen nutzvollen Rezepten verwendet.</string>
     <string name="Massive Faceted Eye_CRAFT_HINT">Ruinierte Teile müssen gekühlt werden!</string>
-	<!--Loot handling-->
+    <!--Loot handling-->
     <string name="CryoHopper_CRAFT_DESC">Lagert bis zu 50 Gegenstände. Braucht Engergie um gelagerte Gegenstände kühl zu halten. Dies wird die ruinierten Teile massive länger hatlbar machen.</string>
     <string name="CryoHopper_CRAFT_HINT">Wenn an einem Kühlenort platziert, wird weniger ENergie für das kühlen verbraucht.</string>
     <string name="Organic Reassembler_CRAFT_DESC">Füttere dieser Maschine 10 ruinierte organische Teile und erhalt dafür eine rekombinierte organische Komponente.</string>
     <string name="Organic Reassembler_CRAFT_HINT">Rekombinierte organische Komponenten können im selbstherstellungsmenu (C) zu tadellosen organischen Teilen verarbeitet werden.</string>
-	
+
     <string name="Coal Enricher_CRAFT_DESC">Konvertierte einen Zerkleiner und unberührte Drüsen von Wespen oder Slimes um kohle zur doppelten Energierate zu bingen. braucht keines ressourcen wenn fertig, Gib ihm aber ein bischen Energie!</string><!--Not Iptimal, shoudl be changed as it sounds verry bad-->
     <string name="Coal Enricher_CRAFT_HINT">Verdoppelt die Energie die durch das verbrennen von Kohle entsteht.</string>
     <string name="Crystal Coal Infuser_CRAFT_DESC">Konvertierte einen Zerkleinerer und Kristalltaktgeber zu einer Maschiene welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch einmal zu verdoppeln.</string>
@@ -2375,8 +2373,8 @@
     <string name="Freezon Injector_CRAFT_HINT">Handbuch beachten um kompatible Maschienen und deren Effekte zu sehn.</string>
     <string name="Laser Borer_CRAFT_DESC">Nutzt HETK um einen BFL Minenlaser zu Turbo-Laden. Schachtet einen 3x3 Vertikalen Schacht extrem schnell aus. Versorgung von HETK via angrenzenden Lagertrichter. Wird in eine 3x3x Würfel aufgebaut.</string>
     <string name="Laser Borer_CRAFT_HINT">Achtung! Gefahr! Platzierung sicherstellen bevor mit Energie versorgt wird.</string>
-	
-	<!--Maybe add how much Energy will be given to Arther?-->
+
+    <!--Maybe add how much Energy will be given to Arther?-->
     <string name="MK1 PowerCore Charger_CRAFT_DESC">Stellt selbständig einen Energiebooster her. Energiebooster laden Arther's Energie wieder auf. Zum benutzen in Schnellzugriffsleiste platzieren und nutzen.</string>
     <string name="MK1 PowerCore Charger_CRAFT_HINT">Erinnerung: Ladestationen geben ihre Energie in Booser ab!</string>
     <string name="MK2 PowerCore Charger_CRAFT_DESC">Stellt selbständig einen Energiebooster her. Energiebooster laden Arther's Energie wieder auf. Zum benutzen in Schnellzugriffsleiste platzieren und nutzen.</string>
@@ -2387,7 +2385,7 @@
     <string name="MK4 PowerCore Charger_CRAFT_HINT">Erinnerung: Ladestationen geben ihre Energie in Booser ab!</string>
     <string name="MK5 PowerCore Charger_CRAFT_DESC">Stellt selbständig einen Energiebooster her. Energiebooster laden Arther's Energie wieder auf. Zum benutzen in Schnellzugriffsleiste platzieren und nutzen.</string>
     <string name="MK5 PowerCore Charger_CRAFT_HINT">Erinnerung: Ladestationen geben ihre Energie in Booser ab!</string>
-	
+
     <string name="Crystal Clock Maker_CRAFT_DESC">Stellt Taktgeber aus Kristallen her.</string>
     <string name="Crystal Clock Maker_CRAFT_HINT">Nutzvolle Herstellungskomponente.</string>
     <string name="OverClocker_CRAFT_DESC">übertracktet die existierenden Kristalltaktgeber zu einer hohen Frequenz, bracht dabei grosse Mengen Energie.</string>
@@ -2402,11 +2400,11 @@
     <string name="Fuel Compressor._CRAFT_HINT">Treibstoff wird für HOTOR benötigt.</string>
     <string name="High Orbital Debris Object Reclaimer_CRAFT_DESC">Der Hoch Orbit Trümmer Objekt Rückbringer (H.O.T.O.R)(englisch High Orbital Debris Object Reclaimer (oder H.O.D.O.R) wird genutz um, sich im Orbit befindenen Überbleibsel in die Athmosphäre zu stossen um diese danach zu nutzen. In einer 3x3 Platte aufbauen.</string>
     <string name="High Orbital Debris Object Reclaimer_CRAFT_HINT">Sicherstellen das Weg nach oben frei ist. Also wirklick FREI. Wirklich sicherstellen das nach oben frei ist. Nur so zur Info. Grosses BEDDABOOM.</string>
-	<!--DESC from beta build may change on release -->
+    <!--DESC from beta build may change on release -->
     <string name="Orbital RailGun Controller_CRAFT_DESC">Diese 9x9x9 Block grosse Maschiene wird automatisch 1 Kilometer an Beschleunigungsschiene verlegen. NACH DEM BAU KANN SIE NICHT MHER ENTFERNT WERDEN. DENK GRÜNGLICH ÜBER DIE PLATZIERUNG NACH!</string>
     <string name="Orbital RailGun Controller_CRAFT_HINT">Das Startgebiet ist 5x5x1000 Blöcke. Das ist KEIN Schreibfehler.</string>
-	
-	<!-- Coilerplant -->
+
+    <!-- Coilerplant -->
     <string name="Copper Coil_CRAFT_DESC">Kupferdrähte werden zu Kupferspulen gewickelt, die zum Craften verwendet werden können.</string>
     <string name="Copper Coil_CRAFT_HINT">Kupferdrähte werden zu Kupferspulen gewickelt, die zum Craften verwendet werden können.</string>
     <string name="Tin Coil_CRAFT_DESC">Zinndrähte werden zu Zinnspulen gewickelt, die zum Craften verwendet werden können.</string>
@@ -2421,7 +2419,7 @@
     <string name="Nickel Coil_CRAFT_HINT">Nickeldrähte werden zu Nickelspulen gewickelt, die zum Craften verwendet werden können.</string>
     <string name="Titanium Coil_CRAFT_DESC">Titandrähte werden zu Titanspulen gewickelt, die zum Craften verwendet werden können.</string>
     <string name="Titanium Coil_CRAFT_HINT">Titandrähte werden zu Titanspulen gewickelt, die zum Craften verwendet werden können.</string>
-	<!-- Extruderplant -->
+    <!-- Extruderplant -->
     <string name="Copper Wire_CRAFT_DESC">Kupferdrähte werden aus Kupferbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Copper Wire_CRAFT_HINT">Kupferdrähte werden aus Kupferbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Tin Wire_CRAFT_DESC">Zinndrähte werden aus Zinnbarren extrudiert, die zum Craften verwendet werden können.</string>
@@ -2436,7 +2434,7 @@
     <string name="Nickel Wire_CRAFT_HINT">Nickeldrähte werden aus Nickelbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Titanium Wire_CRAFT_DESC">Titandrähte werden aus Titanbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Titanium Wire_CRAFT_HINT">Titandrähte werden aus Titanbarren extrudiert, die zum Craften verwendet werden können.</string>
-	<!-- PCB assembler -->
+    <!-- PCB assembler -->
     <string name="Basic PCB_CRAFT_DESC">Kupferspulen werden zu grundlegenden Leiterplatten verarbeitet.</string>
     <string name="Basic PCB_CRAFT_HINT">Kupferspulen werden zu grundlegenden Leiterplatten verarbeitet.</string>
     <string name="Primary PCB_CRAFT_DESC">Zinnspulen werden zu Primären Leiterplatten verarbeitet.</string>
@@ -2451,7 +2449,7 @@
     <string name="Fortified PCB_CRAFT_HINT">Nickelspulen werden zu verstärkten Leiterplatten verarbeitet.</string>
     <string name="Lightweight PCB_CRAFT_DESC">Titaniumspulen werden zu leichten Leiterplatten verarbeitet.</string>
     <string name="Lightweight PCB_CRAFT_HINT">Titaniumspulen werden zu leichten Leiterplatten verarbeitet.</string>
-	<!-- Pipe Extruder -->
+    <!-- Pipe Extruder -->
     <string name="Copper Pipe_CRAFT_DESC">Kupferrohre werden aus Kupferbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Copper Pipe_CRAFT_HINT">Kupferrohre werden aus Kupferbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Tin Pipe_CRAFT_DESC">Zinnrohre werden aus Zinnbarren extrudiert, die zum Craften verwendet werden können.</string>
@@ -2466,12 +2464,12 @@
     <string name="Nickel Pipe_CRAFT_HINT">Nickelrohre werden aus Nickelbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Titanium Pipe_CRAFT_DESC">Titanrohre werden aus Titanbarren extrudiert, die zum Craften verwendet werden können.</string>
     <string name="Titanium Pipe_CRAFT_HINT">Titanrohre werden aus Titanbarren extrudiert, die zum Craften verwendet werden können.</string>
-	<!-- Refinery -->
+    <!-- Refinery -->
     <string name="Plastic Pellet_CRAFT_DESC">Roher Kunststoff in Pelettform bereit für die verwendung.</string>
     <string name="Plastic Pellet_CRAFT_HINT">Roher Kunststoff in Pelettform bereit für die verwendung.</string>
     <string name="High Energy Composite Fuel_CRAFT_DESC">Festtreibstoff mit enthaltenem Oxidationsmittel. Hoch reaktiv, brauchbar für Jetturbinen oder kleine Raketen.</string>
     <string name="High Energy Composite Fuel_CRAFT_HINT">Die alternative und Umweltfreundliche lösung Jetturbinen anzutreiben, durch nutzung der verflüssigten Körperteile deiner Feinde.</string>
-	<!-- Researchp assembler -->
+    <!-- Researchp assembler -->
     <string name="Basic Experimental Pod_CRAFT_DESC">Kupferplatten und einfache Leiterplatten werden zu einfachen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Basic Experimental Pod_CRAFT_HINT">Kupferplatten und einfache Leiterplatten werden zu einfachen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Simplified Experimental Pod_CRAFT_DESC">Zinnplatten und primäre Leiterplatten werden zu vereinfachten Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
@@ -2486,7 +2484,7 @@
     <string name="XL Experimental Pod_CRAFT_HINT">Nickelplatten und verstärkte Leiterplatten werden zu XL Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Ultimate Experimental Pod_CRAFT_DESC">Titanplatten und leichte Leiterplatten werden zu ultimativen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Ultimate Experimental Pod_CRAFT_HINT">Titanplatten und leichte Leiterplatten werden zu ultimativen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
-	<!-- smelter -->
+    <!-- smelter -->
     <string name="Copper Bar_CRAFT_DESC">Kupferbarren bestehen aus gereinigtem Kupfererz, die zum Craften verwendet werden können.</string><!---->
     <string name="Copper Bar_CRAFT_HINT">Kupferbarren bestehen aus gereinigtem Kupfererz, die zum Craften verwendet werden können.</string>
     <string name="Tin Bar_CRAFT_DESC">Zinnbarren bestehen aus gereinigtem Zinnerz, die zum Craften verwendet werden können.</string><!---->
@@ -2505,7 +2503,7 @@
     <string name="Chromium Bar_CRAFT_HINT">Chrombarren bestehen aus gereinigtem Chromerez, die zum Craften verwendet werden können.</string>
     <string name="Molybdenum Bar_CRAFT_DESC">Molybdänbarren bestehen aus gereinigtem Molybdänerz, die zum Craften verwendet werden können.</string><!--Molybdänglanz-->
     <string name="Molybdenum Bar_CRAFT_HINT">Molybdänbarren bestehen aus gereinigtem Molybdänerz, die zum Craften verwendet werden können.</string>
-	<!-- stamper plant -->
+    <!-- stamper plant -->
     <string name="Copper Plate_CRAFT_DESC">Kupferbarren werden zu Kupferplatten gestanzt, die zum Craften verwendet werden können.</string>
     <string name="Copper Plate_CRAFT_HINT">Kupferbarren werden zu Kupferplatten gestanzt, die zum Craften verwendet werden können.</string>
     <string name="Tin Plate_CRAFT_DESC">Zinnbarren werden zu Zinnplatten gestanzt, die zum Craften verwendet werden können.</string>
@@ -2520,7 +2518,7 @@
     <string name="Nickel Plate_CRAFT_HINT">Nickelbarren werden zu Nickelplatten gestanzt, die zum Craften verwendet werden können.</string>
     <string name="Titanium Plate_CRAFT_DESC">Titanbarren werden zu Titanplatten gestanzt, die zum Craften verwendet werden können.</string>
     <string name="Titanium Plate_CRAFT_HINT">Titanbarren werden zu Titanplatten gestanzt, die zum Craften verwendet werden können.</string>
-	
+
     <!-- Ore Extractor -->
     <!-- Name is already done-->
     <string name="Power">Energie</string>    <!-- Fairly generic -->
