@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Level names, other menu options -->
-<languages>
-    <english>
+<resources>
     <string name="Partial_Language_Support">Greetings! Your language is only partially-supported. If you want to revert to English, then just press 'English' below!</string>
     <string name="Translation_Incomplete">Translation Incomplete!</string>
     <string name="Language_Name">English</string><!-- The language-way of saying the name of the language -->
@@ -2464,6 +2463,4 @@
     <string name="Cant_Find_Ore">Can't Find Ore</string>
 
     <!-- Missions -->
-
-</english>
-</languages>
+</resources>
