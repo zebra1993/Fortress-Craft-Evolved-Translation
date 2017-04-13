@@ -514,7 +514,7 @@
     <string name="Research Parts">Tutkimusosia</string>
     <string name="Refined Liquid Resin">Jalostettu Nestenäinen Hartsi</string>
     <string name="Spoiled Organic Remains">Pilaantuneita Orgaanisia Jätteitä</string>
-    <string name="Recombined Organic Matter"/>
+    <string name="Recombined Organic Matter">Uudelleenyhdistetty orgaaninen aine</string>
 
     <string name="Air">Ilma</string>
     <string name="Air_DESC"/>
@@ -861,9 +861,9 @@
     <string name="Orange GlowPod">Oranssi Hohtopalko</string>
     <string name="Orange GlowPod_DESC">Tämä ei näytä kovin hyödylliseltä.</string>
     <string name="Blue GlowPod">Sininen Hohtopalko</string>
-    <string name="Blue GlowPod_DESC">Tämä kasi näyttäisi kukoistavan kylmässä ilmanalassa. Ehkä hieman syvemmältä löytyisi jotain hyödyllistä?</string>
+    <string name="Blue GlowPod_DESC">Tämä kasvi näyttäisi kukoistavan kylmässä ilmanalassa. Ehkä hieman syvemmältä löytyisi jotain hyödyllistä?</string>
     <string name="Green GlowPod">Vihreä Hohtopalko</string>
-    <string name="Green GlowPod_DESC">Tämä kasi näyttäisi sisältävän paljon suodattimia ilman myrkkyjen torjumiseen. Ehkä hieman syvemmältä löytyisi jotain hyödyllistä?</string>
+    <string name="Green GlowPod_DESC">Tämä kasvi näyttäisi sisältävän paljon suodattimia ilman myrkkyjen torjumiseen. Ehkä hieman syvemmältä löytyisi jotain hyödyllistä?</string>
     <string name="Purple GlowPod">Purppura Hohtopalko</string>
     <string name="Purple GlowPod_DESC">Tämä ei näytä vielä kovin hyödylliseltä.</string>
     <string name="GlowShroom">Hohtosieni</string>
