@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
@@ -102,11 +102,11 @@
     <string name="Conveyor_Fast_Info">Les convoyeurs rapide permet moin de temps d'attente. Ils sont deux fois plus rapide que les convoyeurs lent.</string>
 
     <string name="Plentiful_Power_Info">Une énèrgie abondante va grandement amliorer la génération d'énèrgie de toute les sources. Cela va grandement affecter la vitesse de debut de jeux.</string>
-    <string name="Scarce_Power_Info"> Une énèrgie rare va équilibré votre génération d'énèrgie. Cela va ralentir la progression du debut de jeux.</string>
+    <string name="Scarce_Power_Info">Une énergie rare va équilibré votre génération d’énergie. Cela va ralentir la progression du début de jeux.</string>
 
     <string name="Eternal_Day_Info">Le jour éternel signifie que génération solaira va fonctionner en permanence. Choisir ça va permettre une progression plus rapide - en moyenne la génération solaire est 4x plus rapide!</string>
     <string name="Day_Night_Info">Un cycle Jour/Nuit normale dure 24 minutes. Pour les 12 minutes de nuit vous allez subire une baisse de température importante, augmente l'aggression des enemis et réduit la visibilité.</string>
-    <string name="Eternal_Night_Info">Le jour éternelle siginifie pas de répit du froids glaciale durant le jour, et pas d'acces a la technologie solaire non organique; incluant votre CPP. Cela va être un bon challenge</string>
+    <string name="Eternal_Night_Info">Le jour éternelle signifie pas de répit du froids glaciale durant le jour, et pas d’accès a la technologie solaire non organique; incluant votre CPP. Cela va être un bon challenge.</string>
 
     <string name="Death_Default_Info">C'est le mods standard. Il n'y a pas de Pénalité pour la mort, à l'éxcéption du peu de vie et des long marches. Cela rends le jeux vraiment facile, vus qu'il n'y a pas de Pénalité pour toute les façons diferentes de mourir.</string>
     <string name="Death_Clumsy_Info">Le mode maladroit est recommander si vous voulez un challenge raisonnable, et une bonne raison de ne pas mourir! vous allez laisser le contenus de votre inventaire au sol à la mort!</string>
@@ -635,7 +635,7 @@
     <string name="Beige Canvas">Toile beige</string>
     <string name="Beige Canvas_DESC">Toile beige_DESC</string>
     <string name="Indigo Canvas">Toile indigo</string>
-    <string name="Indigo Canvas_DESC">>Toile indigo_DESC</string>
+    <string name="Indigo Canvas_DESC">&gt;Toile indigo_DESC</string>
     <string name="Maroon Canvas">Toile bordeaux</string>
     <string name="Maroon Canvas_DESC">Toile bordeaux_DESC</string>
     <string name="Truss">Ferme</string>
