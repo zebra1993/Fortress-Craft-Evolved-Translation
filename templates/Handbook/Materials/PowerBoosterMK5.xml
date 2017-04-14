@@ -1,0 +1,60 @@
+<MaterialEntry>
+	<Name>MK5 Power Booster</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.PowerBoosterMK5.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MK5 Power Booster</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.PowerBoosterMK5.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.PowerBoosterMK5.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.PowerBoosterMK5.03.Left}}</Left>
+<Right>{{MA.PowerBoosterMK5.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+					<Link>
+					<Target>
+						<Material>MK5PowerBoosterCharger</Material>
+
+					</Target>
+
+					<Text>Crafted by MK5 Power Booster Charger</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

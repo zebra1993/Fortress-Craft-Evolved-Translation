@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Zipper Merge</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Zipper_Merge.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Zipper Merge</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Zipper_Merge.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+
+					</Target>
+
+					<Text>Conveyor Belt</Text>
+
+				</Link>
+			
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

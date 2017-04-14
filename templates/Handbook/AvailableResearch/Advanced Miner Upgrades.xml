@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>mining upgrade 5</Handle>
+
+	<Title>{{AV.Advanced_Miner_Upgrades.Title}}</Title>
+
+	<Icon>Magnetic Drill Motor</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{AV.Advanced_Miner_Upgrades.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Magnetic Drill Motor</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{AV.Advanced_Miner_Upgrades.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

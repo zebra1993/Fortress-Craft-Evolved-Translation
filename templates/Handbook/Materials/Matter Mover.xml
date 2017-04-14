@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Matter Mover</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Matter_Mover.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Matter Mover</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Matter_Mover.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Header><Text>{{MA.Matter_Mover.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Matter_Mover.03.Left}}</Left>
+
+					<Right>{{MA.Matter_Mover.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

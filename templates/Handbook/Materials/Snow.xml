@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Snow</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Snow.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Snow</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Snow.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

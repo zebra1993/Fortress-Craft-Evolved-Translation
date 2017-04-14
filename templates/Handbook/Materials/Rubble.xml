@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Rubble</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Rubble.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Rubble</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Rubble.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

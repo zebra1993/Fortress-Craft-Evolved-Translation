@@ -1,0 +1,51 @@
+<MaterialEntry>
+	<Name>Mass Storage Output Port</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Mass_Storage_Output_Port.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Mass Storage Output Port</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Mass_Storage_Output_Port.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Mass_Storage_Output_Port.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph><Text>{{MA.Mass_Storage_Output_Port.03.Paragraph}}</Text>
+</Paragraph>
+
+				<Paragraph><Text>{{MA.Mass_Storage_Output_Port.04.Paragraph}}</Text>
+</Paragraph>
+
+				<Header>
+					<Text>{{MA.Mass_Storage_Output_Port.05.Header}}</Text>
+
+				</Header>
+
+				<Paragraph><Text>{{MA.Mass_Storage_Output_Port.06.Paragraph}}</Text>
+</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+
+

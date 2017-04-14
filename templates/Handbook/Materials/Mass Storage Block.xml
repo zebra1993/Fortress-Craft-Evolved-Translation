@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Name>Mass Storage Block</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Mass_Storage_Block.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Bound Metal Crate</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Mass_Storage_Block.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Mass_Storage_Block.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph><Text>{{MA.Mass_Storage_Block.03.Paragraph}}</Text>
+</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+
+

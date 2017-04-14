@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Name>High Energy Composite Fuel</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.High_Energy_Composite_Fuel.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>High Energy Composite Fuel</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.High_Energy_Composite_Fuel.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+
+					</Target>
+
+					<Text>Refinery Controller</Text>
+
+				</Link>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

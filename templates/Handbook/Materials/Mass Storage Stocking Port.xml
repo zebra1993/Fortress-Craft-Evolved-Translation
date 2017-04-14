@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Name>Mass Storage Stocking Port</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Mass_Storage_Stocking_Port.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Mass Storage Input Port</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Mass_Storage_Stocking_Port.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Mass_Storage_Stocking_Port.02.Left}}</Left>
+
+					<Right>{{MA.Mass_Storage_Stocking_Port.03.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+				<Paragraph>
+				<Text>{{MA.Mass_Storage_Stocking_Port.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+				<Text>{{MA.Mass_Storage_Stocking_Port.05.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</MaterialEntry>

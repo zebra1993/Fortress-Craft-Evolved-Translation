@@ -1,0 +1,76 @@
+<MaterialEntry>
+	<Name>Rack Railer</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Rack_Railer.00.Title}}</Text>
+
+				</Title>
+
+				<Spacer/>
+
+				<Icon>
+					<Name>Pipe Extrusion Plant</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Rack_Railer.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Rack Rail</Material>
+
+					</Target>
+
+					<Text>Rack Rail</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Rack_Railer.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Rack_Railer.03.Left}}</Left>
+
+					<Right>{{MA.Rack_Railer.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Rack_Railer.05.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+
+					<Text>Cargo Lift Controller</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

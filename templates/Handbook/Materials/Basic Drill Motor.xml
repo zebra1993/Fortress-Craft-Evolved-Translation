@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Basic Drill Motor</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Basic_Drill_Motor.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Basic_Drill_Motor.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Basic_Drill_Motor.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Basic_Drill_Motor.03.Left}}</Left>
+
+					<Right>{{MA.Basic_Drill_Motor.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

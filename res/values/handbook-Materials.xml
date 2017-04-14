@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8"?><resources><string name="MA.AI_Mover_Control.00.Title">AI Mover Control</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">This robot will move one resource per time from one nearby hopper to another, respecting the local hoppers &quot;add&quot; and &quot;remove&quot; permissions.</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Battery Core</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Allows ARTHER to hold 8x more charge which he can transfer to you when you run low. Build this as soon as possible! You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER Charging Station</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Rapidly recharge ARTHER from your base power network. Best combined with an ARTHER Battery Upgrade.</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Specifications</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">ARTHER Recharge Rate:
+					Station Power Capacity:
+					Station Recharge Rate:</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 per second
+					1500
+					10 per second</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER Dapper Hat</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Keep ARTHER looking Dapper AND dry! Only works if you have the Dapper Indie Supporter DLC. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER Dapper Monocle</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Improves ARTHER vision! Only works if you have the Dapper Indie Supporter DLC. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER Dapper Moustache</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Insert &apos;moustache ride&apos; joke here. Only works if you have the Dapper Indie Supporter DLC. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Dapper Pack</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Fully Dapper! Use this to save room in your inventory by combining all previous Dapper upgrades into one item. It must be kept in your inventory to apply the upgrades..</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Dapper Upgrade Pack</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Fully Upgraded - Fully Dapper! Use this to save room in your inventory. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER Power Core</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Fixes the damage to ARTHER allowing him to move reliably. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER Solar Panel</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Improves the rate at which ARTHER regenerates power from sunlight. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.ARTHER_Turret.00.Title">ARTHER Turret</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">A long range power efficient turret with the downside that it must be operated by ARTHER. To use, highlight the turret and press the interact key (default &apos;E&apos;) to dock ARTHER to the turret.</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">The turret can either be powered externally or using ARTHER&apos;s power reserves. If the turret is powered externally ARTHER will receive sufficient charge to remain there indefinitely. If ARTHER runs out of power he will undock and return to the user.</string>
+<string name="MA.ARTHER_Turret.03.Header">Specifications</string>
+<string name="MA.ARTHER_Turret.04.Left">Range:
+					Damage (per shot):
+					Power Requirement (per shot):
+					Maximum Power Capacity:
+					Reload Time:
+					Crew:</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+					33
+					5
+					150
+					10 seconds
+					1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Upgrade Pack</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Combined the effects of the Solar Panel, Power Core and Battery. Use this to save inventory space. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Advanced Experimental Pod</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Advanced Experimental pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Gold. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">For more information on creating Experimental Pods please read the following guide.</string>
+<string name="MA.Advanced_machine_block.00.Title">Advanced machine block</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">Main building block for advanced machines.</string>
+<string name="MA.Advanced_machine_block.02.Header">These blocks are a main component of certain multiblock machines.</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Antimatter Drill Motor</string>
+<string name="MA.Antimatter_Drill_Motor.01.Paragraph">Improves the speed at which an ore extractor mines ore at the cost of increased power usage.</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">Specifications</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">Extraction Speed:</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">Auto Builder</string>
+<string name="MA.Auto_Builder.01.Paragraph">Can construct regular conveyor lines in any of the cardinal directions when fed with conveyors to place.</string>
+<string name="MA.Auto_Builder.02.Header">Tips and Tricks!</string>
+<string name="MA.Auto_Builder.03.Paragraph">- This machine need quite some power to work at full speed!</string>
+<string name="MA.Auto_Builder.04.Paragraph">- A hopper is needed to feed the conveyor blocks.</string>
+<string name="MA.Auto_Builder.05.Paragraph">- Do no use any other blocks! Cannot place any other blocks!</string>
+<string name="MA.Auto_Builder.06.Header">Caution!</string>
+<string name="MA.Auto_Builder.07.Paragraph">- Attaching a hopper with transport pipes will build regular conveyor lines, not transport pipes!</string>
+<string name="MA.Auto_Excavator.00.Title">Auto Excavator</string>
+<string name="MA.Auto_Excavator.01.Paragraph">The Auto Excavator is a machine for digging large vertical shafts from below, dug material will fall to the floor. It is not capable of digging out ore veins.</string>
+<string name="MA.Auto_Excavator.02.Header">Usage</string>
+<string name="MA.Auto_Excavator.03.Paragraph">Dig a small tunnel down to the bottom of the intended shaft and place the auto-excavator. It will need to be supplied with power from a Laser Power Transmitter or other power source.</string>
+<string name="MA.Auto_Excavator.04.Header">Specifications</string>
+<string name="MA.Auto_Excavator.05.Left">Shaft Size:
+					Maximum Shaft Height:
+					Power Required:
+					Power Capacity:
+					Maximum Power Recharge Rate:
+					Maximum Excavation Rate:</string>
+<string name="MA.Auto_Excavator.06.Right">3m x 3m
+					512m
+					20 per 1m cube excavated
+					160
+					None
+					40 blocks per second</string>
+<string name="MA.BFL-9000.00.Title">BFL-9000</string>
+<string name="MA.BFL-9000.01.Paragraph">This massive horizontal tunnel boring laser will cut a tunnel 5x5 meters in size. Requires huge amounts of power to operate. Does not return any useful resources.</string>
+<string name="MA.BFL-9000.02.Header">Specifications</string>
+<string name="MA.BFL-9000.03.Left">Tunnel Size:
+					Maximum Tunnel Length:
+					Power Required:
+					Power Capacity:
+					Maximum Power Recharge Rate:
+					Maximum Excavation Rate:</string>
+<string name="MA.BFL-9000.04.Right">5m x 5m
+					Unlimited
+					1280 per meter
+					2560
+					2560 per second
+					0.2 meters per second</string>
+<string name="MA.Bar_Keeper.00.Title">Cyberdyne Bar Repossession System</string>
+<string name="MA.Bar_Keeper.01.Paragraph">The Cyberdyne Bar Repossession System is a machine used to take the bars from a players inventory. This machine is intended to prevent unintentional theft of resources when a player logs off. Unlike both its predecessors the ore and Garbage thief hinders rather than helps players when placed in hallways. When playing on a server this machine should be set in a central location that is accessible to all players yet labeled in an obvious way so as not be activated unintentionally.
+
+					Simply build our brand-new Bar Repossession System (tm) in a 3x3 layout and supply with a mere 5 power per Bar, then just stand on it and let IT do the hard work for you!</string>
+<string name="MA.Bar_Keeper.02.Header">Specifications</string>
+<string name="MA.Bar_Keeper.03.Left">Bar Collection Speed:
+					Internal Storage:
+					Power Usage:
+					</string>
+<string name="MA.Bar_Keeper.04.Right">Upto 3,300/minute!
+					100 units of Bar!
+					Only 5 power per Bar!
+					</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">Basic Conveyor Belt</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Conveyor Belts are a relatively cheap and easy way of moving resources around. Your first use for them is likely to be to move material from a Storage Hopper attached to an ore or coal mine to one attached to a smelter or power generator such as the Central Power Hub or Pyrothermic Generator.</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">Usage</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">Conveyor Belts will automatically take resources from any Storage Hopper adjacent if they are facing any direction away from the hopper and move it along its forward direction placing it onto any conveyor or storage hopper in front of it, provided there is space available. You can change the direction of the conveyor line by rotating a conveyor or by placing it on a wall to move resources vertically. Storage Hoppers are only needed to interact with adjacent machines at the end of the line.</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Limitations</string>
+<string name="MA.Basic_Conveyor_Belt.05.Paragraph">Conveyors are cheap and do not required external power, however they do have a number of disadvantages. They are vulnerable to extreme cold/toxic enviroments and the open design makes them particularly susceptible to attack. Alternative methods of transportation should be researched.</string>
+<string name="MA.Basic_Conveyor_Belt.06.Paragraph">The basic conveyor belt is cheaper than the regular belt but MUCH slower. Use for early automation or where high throughput is not required.</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Filtering</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">Specifications</string>
+<string name="MA.Basic_Conveyor_Belt.10.Left">Maximum Transport Rate (fast):
+					Maximum Transport Rate (slow):
+					Power Required:
+					Maximum Range:</string>
+<string name="MA.Basic_Conveyor_Belt.11.Right">18 items per minute
+					9 items per minute
+					None
+					1m</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Basic Drill Motor</string>
+<string name="MA.Basic_Drill_Motor.01.Paragraph">Improves the speed at which an ore extractor mines ore per minute at the cost of increased power usage.</string>
+<string name="MA.Basic_Drill_Motor.02.Header">Specifications</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Extraction Speed:</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Basic Experimental Pod</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">Basic Experimental Pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Copper. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">For more information on creating Experimental Pods please read the following guide.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Basic Laser Energy Transmitter</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.01.Paragraph">As the cheapest and most basic of power transmission devices this transmitter is unsuitable for any task and should only be used when it is left as the only option remaining.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">The basic laser energy transmitter can only transmit enough power to run two un-upgraded ore extractors. Because of its extraordinarily low transmitting speed, upgrading to a more advanced transmitting option is advised once one has been discovered.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.03.Paragraph">To open the control panel for the LET press the &apos;Interact&apos; key (default &apos;E&apos;). This allows you to upgrade the lens which will boost power transfer. You can also switch the firing mode so that it will wait for a full battery before sending power. LETs have a small internal capacity, consider complementing them with Power Storage Blocks to ensure a reliable supply of power as supply and demand vary.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">Specifications</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.05.Left">Power Packet Size:
+					Maximum Packet Rate:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.06.Right">0.9
+					1 per second
+					0.9 per second
+					18
+					32m</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Basic Mass Storage Stocking Port</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">The Mass Storage Stocking Port enables the controlled insertion of items into mass storage to prevent overflowing the storage. 
+					</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.02.Left">Port Inventory:
+					Drone Inventory:
+					</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.03.Right">25
+					5
+					</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">The mass storage stocking port must be placed adjacent to a mass storage crate.  Pressing E will open the interface for configuring the stocked item and inventory limit.  The port will only add the stocked item if the current stock is below the specified limit.  Other items will always be added as though it were a standard input port.  
+				
+				Hold Ctrl, Shift, or Alt when adjusting the stocking limits to change the limits in 10, 100, or 1000 item increments.
+				</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.05.Paragraph">
+				You can right click the empty slot to search for an item by name to easily set the stock item or press the button to choose an item.  Multiblock components are special so they won&apos;t be found by a normal search instead search for &quot;multi&quot;, &quot;placement&quot;, or &quot;component&quot; for a list of these blocks.
+				
+				The port&apos;s internal inventory can be locked using the labeled button in the interface to prevent the port from collecting items if the stock limit has been reached.  This function is intended to enable limiting the backlog of high value items.
+				</string>
+<string name="MA.Basic_Missile_Assembler.00.Title">Basic Missile Assembler</string>
+<string name="MA.Basic_Missile_Assembler.01.Paragraph">The Basic Missile Assembler is a manufacturing machine used to automate the production of basic missiles.</string>
+<string name="MA.Basic_Missile_Assembler.02.Header">Usage</string>
+<string name="MA.Basic_Missile_Assembler.03.Paragraph">As with all standalone production machines you should attach one storage hopper per ingredient, marked as &apos;remove only&apos;, and one storage hopper to recieve the manufactured item, marked as &apos;add only&apos;. This will ensure production does not become permanently blocked due to a shortage of any one ingredient.</string>
+<string name="MA.Basic_Missile_Assembler.04.Paragraph">Each missile crafted will require 1 Copper Pipe, 1 Gold wire and a High Energy Composite Fuel.</string>
+<string name="MA.Basic_Missile_Assembler.05.Paragraph">The machine also requires power which can be supplied from an attached power generator, or indirectly via a Power Storage Block or Laser Power Transmitter.</string>
+<string name="MA.Basic_Missile_Assembler.06.Paragraph">Power and storage hoppers can be placed above and below the machine in addition to the sides.</string>
+<string name="MA.Basic_Missile.00.Title">Basic Missile</string>
+<string name="MA.Basic_Missile.01.Paragraph">Ammunition for the Missile Launcher. Crafted in a Basic Missile Assembler.</string>
+<string name="MA.Basic_Missile.02.Header">Specifications</string>
+<string name="MA.Basic_Missile.03.Left">Damage:</string>
+<string name="MA.Basic_Missile.04.Right">70,000</string>
+<string name="MA.Basic_Ore_Smelter.00.Title">Basic Ore Smelter</string>
+<string name="MA.Basic_Ore_Smelter.01.Paragraph">The smelter will convert raw ore into bars which can be used in the manufacturing plant and elsewhere to craft new machines and items. The basic smelter is half the efficiency and half the speed of the regular smelter and cannot be upgraded with forced induction modules.</string>
+<string name="MA.Basic_Ore_Smelter.02.Paragraph">Initially you will need to feed the smelter manually, this can be done by pressing the &apos;Interact&apos; button (default &apos;E&apos;) to open the smelter control panel. You can then add ore by pressing the &apos;Feed ore&apos; button, or by dragging a specific type of ore into the smelter. The control panel will indicate how much ore is required per bar while it is empty.</string>
+<string name="MA.Basic_Ore_Smelter.03.Paragraph">Once the smelter has enough ore it will begin heating up, this requires power from an attached power storage block or power generator. When it reaches the correct temperature it will begin smelting ore into bars which can be collected by clicking on the output slot at the bottom of the control panel.</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">Automation</string>
+<string name="MA.Basic_Ore_Smelter.05.Paragraph">The smelter should be automated as soon as possible with the addition of both input and output storage hoppers. The input hopper should be set to an I/O status of &apos;Remove only&apos;. The input hopper must be big enough to contain the minimum ore requirement.</string>
+<string name="MA.Basic_PCB.00.Title">Basic PCB</string>
+<string name="MA.Basic_PCB.01.Paragraph">A Copper-based PCB created from Copper Coils in a PCB Assembling Plant.</string>
+<string name="MA.Basic_Quarry.00.Title">Basic Quarry</string>
+<string name="MA.Basic_Quarry.01.Paragraph">The Quarry digs out the earth beneath it returning all resources found. Must be built above -25m. Resouces will be placed in attached storage hoppers.</string>
+<string name="MA.Basic_Quarry.02.Header">Specifications</string>
+<string name="MA.Basic_Quarry.03.Left">Quarry Size:
+					Quarry Depth:
+					Power Required
+					Power Capacity:
+					Maximum Recharge Rate:
+					Maximum Hardness Dug:
+					Maximum Dig Speed:
+					Ore Extraction Efficiency:</string>
+<string name="MA.Basic_Quarry.04.Right">9m x 9m
+					3950
+					150 per 1m cube
+					4096
+					1024 per second
+					250
+					5 cubic meters per second
+					10%</string>
+<string name="MA.BasicCargoLift.00.Title">Basic Cargo Lift</string>
+<string name="MA.BasicCargoLift.01.Paragraph">The smallest of the available Cargo Lifts, this is ideal for en-masse delivery of materials such as Iron and Lithium.</string>
+<string name="MA.BasicCargoLift.02.Header">Specifications</string>
+<string name="MA.BasicCargoLift.03.Left">Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity
+					Power Usage (Travelling):
+					</string>
+<string name="MA.BasicCargoLift.04.Right">Unlimited
+					5 metres/sec
+					0.5 metres/sec/sec
+					300
+					35 PPS
+					</string>
+<string name="MA.BasicMinecart.00.Title">Basic Minecart</string>
+<string name="MA.BasicMinecart.01.Paragraph">Minecarts are for Bulk transfers of items at a medium rate.</string>
+<string name="MA.BasicMinecart.02.Header">Specifications</string>
+<string name="MA.BasicMinecart.03.Left">Max Speed:
+					Max Storage:
+					Acceleration:
+					</string>
+<string name="MA.BasicMinecart.04.Right">1m/s
+					25
+					0.5m/s/s
+					16
+					15 seconds</string>
+<string name="MA.BasicMinecart.05.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.BasicMinecart.06.Title">Minecart Resource Handling</string>
+<string name="MA.BasicMinecart.07.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.BasicMinecart.08.Title">Advanced Minecart Controls</string>
+<string name="MA.BasicMinecart.09.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.BaubleBerry.00.Title">BaubleBerry</string>
+<string name="MA.BaubleBerry.01.Paragraph">A nondescript plant found on the surface and within the caverns of this planet.</string>
+<string name="MA.BaubleBerry.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Bedrock.00.Title">Bedrock</string>
+<string name="MA.Bedrock.01.Paragraph">One of the general rock types. Can be crushed in macerator to possibly extract useful ore. This block can be placed.</string>
+<string name="MA.Biomass_Growth_Ping.00.Title">Biomass Growth Ping</string>
+<string name="MA.Biomass_Growth_Ping.01.Paragraph">The Biomass Growth Ping is used to find additional biomass when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</string>
+<string name="MA.Blank_Ore_Ping.00.Title">Blank Ore Ping</string>
+<string name="MA.Blank_Ore_Ping.01.Paragraph">The Blank Ore Ping is used in conjunction with a sample of ore to craft an ore ping filter. These filtered ore pings are designed to allow us to find more ore veins of the same type if the one previously discovered is nearing exhaustion or was too small to be of any use.</string>
+<string name="MA.Blank_Ore_Ping.02.Header">Usage</string>
+<string name="MA.Blank_Ore_Ping.03.Paragraph">1. Manufacture a suitable number of Blank Ore Pings at the manufacturing plant.</string>
+<string name="MA.Blank_Ore_Ping.04.Paragraph">2. When a filtered ore ping is required combine the Blank Ore Ping with a sample of ore using your suit&apos;s self-crafting capabilities (default &apos;C&apos;).</string>
+<string name="MA.Blank_Ore_Ping.05.Paragraph">3. Place the Ore Ping Filter into your hotbar and select it. Send off the ping by pressing the &apos;Build&apos; button (default &apos;LMB&apos;). This will feed it into the ore scanner and a filtered ping will be dispatched by the scanner and also displayed on the Holobase. The ore ping is consumed in the process.</string>
+<string name="MA.Blue_Canvas.00.Title">Blue Canvas</string>
+<string name="MA.Blue_Canvas.01.Paragraph">Full blue beautification block.</string>
+<string name="MA.Blue_GlowPod.00.Title">Blue GlowPod</string>
+<string name="MA.Blue_GlowPod.01.Paragraph">This native species of flora emits a steady blue glow due to a chemical reaction just below the surface of the plant.</string>
+<string name="MA.Blue_GlowPod.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Build_Gun_V1.00.Title">Build Gun V1</string>
+<string name="MA.Build_Gun_V1.01.Paragraph">The Build Gun is a tool made from repurposed parts from the crashed ship. The build gun allows rapid construction and destruction of materials in the environment. The basic build gun has not been assembled for the new alien environment and therefore has extreme limitations in its functionality. Due to the build guns rudimentary cooling for the grapple function, any drops in air pressure or quality may cause a brief cooldown period where activation is impossible for a few moments after a grapple.</string>
+<string name="MA.Build_Gun_V2.00.Title">Build Gun V2</string>
+<string name="MA.Build_Gun_V2.01.Paragraph">The Build gun V2 is an upgraded version of the build gun more suitable to be used in the alien environment. The upgrades to the base build gun allow it to mine through tougher materials and more advanced machinery. Despite this upgrade in technology the cooling systems for the grapple function is still inadequate, for rapid use in the cold caverns and other areas with poor air quality a better quality heat conductor will be needed. Only one of these upgrades is needed to improve the functionality of the base tool, additional Build Gun V2 upgrades have shown to provide no additional benefits at this time without extreme loss. </string>
+<string name="MA.Build_Gun_V3.00.Title">Build Gun V3</string>
+<string name="MA.Build_Gun_V3.01.Paragraph">The Build Gun V3 is a further upgrade on the already upgraded Build Gun. This upgrade provides suitable cooling to facilitate rapid continuous activations of the grapple function. Along with the increase in cooling capacity, the Build Gun V3 allows for the destruction of tougher materials and the disassembling of more advanced machinery. Only one of these upgrades is needed to improve the functionality of the tool, additional Build Gun V3 upgrades have shown to provide no additional benefits at this time without extreme loss.</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">Bulk Mass Storage Stocking Port</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">The Mass Storage Stocking Port enables the controlled insertion of items into mass storage to prevent overflowing the storage. 
+					</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.02.Left">Port Inventory:
+					Drone Inventory:
+					</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.03.Right">100
+					25
+					</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">The mass storage stocking port must be placed adjacent to a mass storage crate.  Pressing E will open the interface for configuring the stocked item and inventory limit.  The port will only add the stocked item if the current stock is below the specified limit.  Other items will always be added as though it were a standard input port.  
+				
+				Hold Ctrl, Shift, or Alt when adjusting the stocking limits to change the limits in 10, 100, or 1000 item increments.
+				</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">
+				You can right click the empty slot to search for an item by name to easily set the stock item or press the button to choose an item.  Multiblock components are special so they won&apos;t be found by a normal search instead search for &quot;multi&quot;, &quot;placement&quot;, or &quot;component&quot; for a list of these blocks.
+				
+				The port&apos;s internal inventory can be locked using the labeled button in the interface to prevent the port from collecting items if the stock limit has been reached.  This function is intended to enable limiting the backlog of high value items.
+				</string>
+<string name="MA.BulkCargoLift.00.Title">Bulk Cargo Lift</string>
+<string name="MA.BulkCargoLift.01.Paragraph">The largest of the available Cargo Lifts, this Frozen Factory machine is ideal for en-masse delivery of materials such as Chromium and Molybdenum to the Frozen Caverns. This cargo list has enormous capacity and is extremely fast as well!</string>
+<string name="MA.BulkCargoLift.02.Header">Specifications</string>
+<string name="MA.BulkCargoLift.03.Left">Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity:
+					Power Usage (Travelling):
+					</string>
+<string name="MA.BulkCargoLift.04.Right">Unlimited
+					15 metres/sec
+					0.5 metres/sec/sec
+					3000
+					850 PPS
+					</string>
+<string name="MA.BulkMinecart.00.Title">Bulk  Minecart</string>
+<string name="MA.BulkMinecart.01.Paragraph">Minecarts are for Bulk transfers of items at a fast rate.
+
+					This Minecart is a Frozen Factory Expansion Pack item.
+					</string>
+<string name="MA.BulkMinecart.02.Header">Specifications</string>
+<string name="MA.BulkMinecart.03.Left">Max Speed:
+					Max Storage:
+					Acceleration:
+					</string>
+<string name="MA.BulkMinecart.04.Right">2m/s
+					50
+					1.0m/s/s
+					</string>
+<string name="MA.BulkMinecart.05.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.BulkMinecart.06.Title">Minecart Resource Handling</string>
+<string name="MA.BulkMinecart.07.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.BulkMinecart.08.Title">Advanced Minecart Controls</string>
+<string name="MA.BulkMinecart.09.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.CargoLiftController.00.Title">Cargo Lift Controller</string>
+<string name="MA.CargoLiftController.01.Paragraph">
+					Used for vertical bulk haulage. 
+					This is built in a 3x1x3 orientation. 
+					This is an ideal companion machine for Minecarts, and is the preferred method for moving large numbers of items from deep within your world.
+					 Once built, you will need to manually excavate a shaft beneath it. If preferred, use a machine to do this tedious task for you.</string>
+<string name="MA.CargoLiftController.02.Title">Shaft configuration</string>
+<string name="MA.CargoLiftController.03.Paragraph">Once you have cleared your shaft to your desired depth, you will need to fit RackRails to the edges of it. Thankfully, using modern construction techniques, these don&apos;t need any support. 
+
+					Simply attach a Storage Hopper to the Cargo Lift controller and it will place them automatically. 
+
+					There is NO limit to the distance that this can be placed, but please note that there is a trade-off between distance and speed. 
+
+					400-600 metres is ideal, but they can be used at any distance at all. 
+
+					A minimum distance of around 15 metres is recommended. 
+
+					For shorter distances, try MatterMovers or Transport Conveyors.</string>
+<string name="MA.CargoLiftController.04.Title">Deployment</string>
+<string name="MA.CargoLiftController.05.Paragraph">Once your Cargo Lift Controller is reading a suitable distance on the rail deployment, then you are ready to fit a Cargo Lift to it.
+					Simply open the Cargo Lift Controller UI (default key is &apos;E&apos;) and drag the appropriate Cargo Lift into the slot.
+					You can remove and upgrade Cargo Lifts, but the Cargo Lift MUST be empty before you can do so.
+					</string>
+<string name="MA.CargoLiftController.06.Title">Usage</string>
+<string name="MA.CargoLiftController.07.Paragraph">Your Cargo Lift will automatically travel up and down the shaft if given enough power, and will collect and offload resources depending on the orders given. To change the orders, simply open the Cargo Lift Controller UI (default key is &apos;E&apos;) and select them appropriately.
+
+					Once at the upper or lower bounds of your shaft, the Cargo Lift will attempt to Load and Unload via any attached Storage Hoppers. Simply place them touching the parked lift.
+					</string>
+<string name="MA.Central_Power_Hub.00.Title">Central Power Hub</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">The Central Power Hub (CPH) is the most important machine in your base. It is too advanced to replicate and you cannot survive on this world without it so you must protect it at all costs.</string>
+<string name="MA.Central_Power_Hub.02.Header">Energy Production</string>
+<string name="MA.Central_Power_Hub.03.Paragraph">The CPH contains a large internal battery which can store energy collected by its solar panels and from the small fossil fuel generator inside. There is only enough space for a single unit of fuel at a time so you should look to automate fuel delivery using a storage hopper or mini hopper as soon as possible.</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">The CPH will automatically push energy out to surrounding machines which need it. You can also insert or extract energy from it directly by interacting with it (default &apos;E&apos;). This control panel also allows you to insert fuel into the generator.</string>
+<string name="MA.Central_Power_Hub.05.Header">Orbital Laser</string>
+<string name="MA.Central_Power_Hub.06.Paragraph">The laser beam fired from the top of the CPH can be used as a handy beacon for finding your base, however be careful not to place any blocks near it or they risk being destroyed.</string>
+<string name="MA.Central_Power_Hub.07.Header">Computer Systems</string>
+<string name="MA.Central_Power_Hub.08.Paragraph">The CPH contains most of the computer systems which coordinate your base, the control signals can be sent wirelessly, encoded in power and matter transmission beams, and along conveyor lines. The wireless connection is boosted by your suit, however if you find isolated, distant machines are shutting down when you are away consider running a basic laser power transmission line.</string>
+<string name="MA.Chargeable_Explosive.00.Title">Chargeable Explosive</string>
+<string name="MA.Chargeable_Explosive.01.Paragraph">Chargable bomb with increased radius depending on charge level. This explosive can be charged using an adjacent Power Storage Block, Power Generator or via a Laser Energy Transmitter. It will maintain its charge while it is carried to an alternative location at which point it can be detonated using the alternate interact key (default &apos;Shift+E&apos;).</string>
+<string name="MA.Chargeable_Explosive.02.Paragraph">Every time the power stored multiplies by 10, the charge level will increase by 1! </string>
+<string name="MA.Chargeable_Explosive.03.Header">Tips and Tricks!</string>
+<string name="MA.Chargeable_Explosive.04.Paragraph">- This machine needs increasing amounts of power!</string>
+<string name="MA.Chargeable_Explosive.05.Paragraph">- Level 1 = 100 energy.</string>
+<string name="MA.Chargeable_Explosive.06.Paragraph">- Level 2 = 1000 energy.</string>
+<string name="MA.Chargeable_Explosive.07.Paragraph">- Level 3 = 10 000 energy.</string>
+<string name="MA.Chargeable_Explosive.08.Paragraph">- Level 4 = 100 000 energy.</string>
+<string name="MA.Chargeable_Explosive.09.Paragraph">- Level 5 = 1 000 000 energy.</string>
+<string name="MA.Chargeable_Explosive.10.Paragraph">- Level 6 = 10 000 000 energy.</string>
+<string name="MA.Chargeable_Explosive.11.Paragraph">- And so on!</string>
+<string name="MA.Chargeable_Explosive.12.Paragraph">- Intermediate levels of energy give no extra blast radius!</string>
+<string name="MA.Chargeable_Explosive.13.Paragraph">- Reaching level 6 with the current energy production implemented will already be a challenge!</string>
+<string name="MA.Chargeable_Explosive.14.Header">Caution!</string>
+<string name="MA.Chargeable_Explosive.15.Paragraph"> Has a very shot fuse! Blowing up your base by accident is a thing!</string>
+<string name="MA.Charged_PCB.00.Title">Charged PCB</string>
+<string name="MA.Charged_PCB.01.Paragraph">A lithium based PCB created from lithium coils in a PCB Assembling Plant.</string>
+<string name="MA.Chevron_Sign_2.00.Title">Chevron Sign 2</string>
+<string name="MA.Chevron_Sign_2.01.Paragraph">Yellow and black hazard block which can be machined anywhere without requiring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Chevron_Sign.00.Title">Chevron Sign</string>
+<string name="MA.Chevron_Sign.01.Paragraph">Red and white arrow-marked block which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Chilled_cavern_stone.00.Title">Chilled Cavern Stone</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">Main block type between around -215 and -270 meters deep. The block causes no cold itself, although the caverns in which you find them are very cold. Can be crushed in macerator to occasionally extract useful ore. The block can be placed.</string>
+<string name="MA.Coal_Enricher.00.Title">Organic Coal Enricher</string>
+<string name="MA.Coal_Enricher.01.Paragraph">The Organic Coal Enricher uses a small amount of power to increase the power generated by coal in a Pyrothermic Generator. The Organic Coal Enricher uses 0.1 pps over the span of 15 seconds to process normal coal into Enriched Coal. Further improvements could be achieved though.</string>
+<string name="MA.Coal_Ore_Ping.00.Title">Coal Ping</string>
+<string name="MA.Coal_Ore_Ping.01.Paragraph">The Coal Ping is used to find additional Coal ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Coal_Ore.00.Title">Coal</string>
+<string name="MA.Coal_Ore.01.Paragraph">An energy dense material which can be burnt in the Central Power Hub and Pyrothermic Generator.</string>
+<string name="MA.Coal_Ore.02.Paragraph">Coal can be mined using an ore extractor.</string>
+<string name="MA.Coiler_Plant.00.Title">Coiler Plant</string>
+<string name="MA.Coiler_Plant.01.Paragraph">The coiler is a regular conveyor fitted with a machine for winding extruded wires into coils.</string>
+<string name="MA.Coiler_Plant.02.Header">Usage</string>
+<string name="MA.Coiler_Plant.03.Paragraph">Feed metal wires into the coiler plant from another conveyor, conveyor based machine, or conveyor turntable. The coiler will convert the wires into coils which can be used in additional recipies.</string>
+<string name="MA.Coiler_Plant.04.Paragraph">The coiler plant is essential for the automation of laboratory research.</string>
+<string name="MA.Cold_Cavern_Flora_1.00.Title">Cold Cavern Flora 1</string>
+<string name="MA.Cold_Cavern_Flora_1.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_1.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_2.00.Title">Cold Cavern Flora 2</string>
+<string name="MA.Cold_Cavern_Flora_2.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_2.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_3.00.Title">Cold Cavern Flora 3</string>
+<string name="MA.Cold_Cavern_Flora_3.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_3.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_4.00.Title">Cold Cavern Flora 4</string>
+<string name="MA.Cold_Cavern_Flora_4.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_4.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_5.00.Title">Cold Cavern Flora 5</string>
+<string name="MA.Cold_Cavern_Flora_5.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_5.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_6.00.Title">Cold Cavern Flora 6</string>
+<string name="MA.Cold_Cavern_Flora_6.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_6.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Cold_Cavern_Flora_7.00.Title">Cold Cavern Flora 7</string>
+<string name="MA.Cold_Cavern_Flora_7.01.Paragraph">This incredible plant can survive the extreme conditions in the cold cavern.</string>
+<string name="MA.Cold_Cavern_Flora_7.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Complex_Experimental_Pod.00.Title">Complex Experimental Pod</string>
+<string name="MA.Complex_Experimental_Pod.01.Paragraph">Complex Experimental pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Lithium. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Complex_Experimental_Pod.02.Paragraph">For more information on creating Experimental Pods please read the following guide.</string>
+<string name="MA.Conductive_PCB.00.Title">Conductive PCB</string>
+<string name="MA.Conductive_PCB.01.Paragraph">A gold based PCB created from gold coils in a PCB Assembling Plant.</string>
+<string name="MA.Construction_Paste_Grinder.00.Title">Construction Paste Grinder</string>
+<string name="MA.Construction_Paste_Grinder.01.Paragraph">The construction paste grinder utilizes a primitive version of the suits inorganic re-assemblers to create construction paste from useless materials like the various rock and soil types found on this new planet. The machine itself is able to be assembled by using the minerals found in the planet&apos;s topsoil. The low cost of manufacturing this machine and its nonexistent power requirements make it possible to run several in parallel. Setting up a garbage thief in a frequented hallway attached to multiple of these machines is a good way to get a large amount of construction paste early in the game.</string>
+<string name="MA.Construction_Paste.00.Title">Construction Paste</string>
+<string name="MA.Construction_Paste.01.Paragraph">Construction Paste is a material made by reconfiguring the suits inorganic re-assemblers. The suits inorganic re-assemblers are used to automatically patch critically damaged sections of the suit to avoid rapid decompression in the vacuum of space. By studying these systems the substance that is normally used in these repair process has been fused with microbes found in this planets stone. The new substance has been christened Construction Paste as it can be used to make various decorative and reinforced blocks. A system has been designed that should be able to mimic the suit’s inorganic re-assemblers for the express purpose of making this new substance. Carrying this paste seems to also provide the benefit of increasing available inventory space.</string>
+<string name="MA.Conveyor_Belt_Filter.00.Title">Conveyor Belt Filter</string>
+<string name="MA.Conveyor_Belt_Filter.01.Paragraph">Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources in a conveyor network. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </string>
+<string name="MA.Conveyor_Belt.00.Title">Conveyor Belt</string>
+<string name="MA.Conveyor_Belt.01.Paragraph">Conveyor Belts are a relatively cheap and easy way of moving resources around. Your first use for them is likely to be to move material from a Storage Hopper attached to an ore or coal mine to one attached to a smelter or power generator such as the Central Power Hub or Pyrothermic Generator.</string>
+<string name="MA.Conveyor_Belt.02.Header">Usage</string>
+<string name="MA.Conveyor_Belt.03.Paragraph">Conveyor Belts will automatically take resources from any Storage Hopper adjacent if they are facing any direction away from the hopper and move it along its forward direction placing it onto any conveyor or storage hopper in front of it, provided there is space available. You can change the direction of the conveyor line by rotating a conveyor or by placing it on a wall to move resources vertically. Storage Hoppers are only needed to interact with adjacent machines at the end of the line.</string>
+<string name="MA.Conveyor_Belt.04.Header">Limitations</string>
+<string name="MA.Conveyor_Belt.05.Paragraph">Conveyors are cheap and do not required external power, however they do have a number of disadvantages. They are vulnerable to extreme cold/toxic environments and the open design makes them particularly susceptible to attack. Alternative methods of transportation should be researched.</string>
+<string name="MA.Conveyor_Belt.06.Header">Filtering</string>
+<string name="MA.Conveyor_Belt.07.Paragraph">Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </string>
+<string name="MA.Conveyor_Turntable.00.Title">Conveyor Turntable</string>
+<string name="MA.Conveyor_Turntable.01.Paragraph">The Conveyor Turntable can be used to split one conveyor line into two or three others equally distributing the items between each line. To ensure material flows correctly avoid placing turntables directly adjacent to Storage Hoppers or other turntables.</string>
+<string name="MA.Copper_Bar.00.Title">Copper Bar</string>
+<string name="MA.Copper_Bar.01.Paragraph">Copper Bars are generally used in a wide range of machines with electrical components. They are crafted from Copper Ore, which can be found near the surface.</string>
+<string name="MA.Copper_Coil.00.Title">Copper Coil</string>
+<string name="MA.Copper_Coil.01.Paragraph">A simple copper coil created from copper wires in a Coiler Plant.</string>
+<string name="MA.Copper_Housing.00.Title">Copper Housing</string>
+<string name="MA.Copper_Housing.01.Paragraph">A simple copper housing created from copper plates.</string>
+<string name="MA.Copper_Ore_Ping.00.Title">Copper Ore Ping</string>
+<string name="MA.Copper_Ore_Ping.01.Paragraph">The Copper ore Ping is used to find additional Copper ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Copper_Ore.00.Title">Copper Ore</string>
+<string name="MA.Copper_Ore.01.Paragraph">Found near the surface, Copper Ore can be smelted into Copper Bars using the smelter. Copper Bars are generally used in a wide range of machines with electrical components.</string>
+<string name="MA.Copper_Ore.02.Paragraph">Copper Ore should be mined using an Ore Extractor.</string>
+<string name="MA.Copper_Pipe.00.Title">Copper Pipe</string>
+<string name="MA.Copper_Pipe.01.Paragraph">A simple copper pipe created from copper bars in a Pipe Extrusion Plant. Used in the manufacture of Basic Missiles.</string>
+<string name="MA.Copper_Plate.00.Title">Copper Plate</string>
+<string name="MA.Copper_Plate.01.Paragraph">A simple copper plate created from copper bars in a Stamper Plant.</string>
+<string name="MA.Copper_Wire.00.Title">Copper Wire</string>
+<string name="MA.Copper_Wire.01.Paragraph">A simple copper wire used for machines with electrical components. Can be manufactured via the Extrusion Plant.</string>
+<string name="MA.Crude_Organic_Lens.00.Title">Crude Organic Lens</string>
+<string name="MA.Crude_Organic_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Crude_Organic_Lens.02.Header">Specifications</string>
+<string name="MA.Crude_Organic_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Crude_Organic_Lens.04.Right">125%</string>
+<string name="MA.Crystal_Clock.00.Title">Crystal Clock</string>
+<string name="MA.Crystal_Clock.01.Paragraph">Crystal Clocks are a common crafting ingredient used in advanced machinery. The inclusion of Crystal Clocks in machinery allows for more precise timing than what would normally be possible. Crystal Clocks are made using 5 Crystal Deposit in a Crystal Clock Maker. Normal Crystal Clocks like most chips can be overclocked to produce more efficient Clocks for more advanced machinery.</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">Crystal Coal Infuser</string>
+<string name="MA.Crystal_Coal_Infuser.01.Paragraph">The Crystal Coal Infuser uses a small amount of power to increase the power generated by Enriched Coal in a Pyrothermic Generator. The Crystal Coal Infuser uses 0.1 pps over the span of 15 seconds to process Enriched Coal into Infused Coal.</string>
+<string name="MA.Crystal_Cutter_Head.00.Title">Crystal Cutter Head</string>
+<string name="MA.Crystal_Cutter_Head.01.Paragraph">Reduces wasted ore by improving the efficiency of ore extractor. Also allows the mining of harder materials. Cutter heads wear out over time.</string>
+<string name="MA.Crystal_Cutter_Head.02.Paragraph">The Crystal Cutter Head is more efficient than the Steel Cutter Head but wears out more quickly.</string>
+<string name="MA.Crystal_Cutter_Head.03.Header">Specifications</string>
+<string name="MA.Crystal_Cutter_Head.04.Left">Efficiency:
+					Maximum Hardness:
+					Durability:</string>
+<string name="MA.Crystal_Cutter_Head.05.Right">30%
+					250
+					5000</string>
+<string name="MA.Crystal_Deposit_Ping.00.Title">Crystal Deposit Ping</string>
+<string name="MA.Crystal_Deposit_Ping.01.Paragraph">The Crystal Deposit Ping is used to find additional crystal deposits when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</string>
+<string name="MA.Crystal_Fiber_Mesh.00.Title">Crystal Fiber Mesh</string>
+<string name="MA.Crystal_Fiber_Mesh.01.Paragraph">By using advanced processing techniques Crystal Deposit is now able to be recombined at the molecular level. This new mesh is capable of withstanding extreme heat and pressure. This material is created in the Crystal Mesh Weaver and is a main requirement in the pipes that make Geothermal Thermoelectric Generation possible. </string>
+<string name="MA.DapperFrame.00.Title">Dapper Frame</string>
+<string name="MA.DapperFrame.01.Paragraph">Cosmetic block from the DAPPER Indie Support&apos;s Pack. Thank you for supporting FortressCraft!</string>
+<string name="MA.DapperScale.00.Title">Dapper Scale</string>
+<string name="MA.DapperScale.01.Paragraph">Cosmetic block from the DAPPER Indie Support&apos;s Pack. Thank you for supporting FortressCraft!</string>
+<string name="MA.DapperVIP.00.Title">Dapper VIP</string>
+<string name="MA.DapperVIP.01.Paragraph">Cosmetic block from the DAPPER Indie Support&apos;s Pack. Thank you for supporting FortressCraft!</string>
+<string name="MA.DapperWall.00.Title">Dapper Wall</string>
+<string name="MA.DapperWall.01.Paragraph">Cosmetic block from the DAPPER Indie Support&apos;s Pack. Thank you for supporting FortressCraft!</string>
+<string name="MA.Deep_Stone.00.Title">Deep Stone</string>
+<string name="MA.Deep_Stone.01.Paragraph">Main block type beneath -65 ish. Chilled and poisonous caverns excluded. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</string>
+<string name="MA.Deployed_Explosive.00.Title">Deployed Explosive</string>
+<string name="MA.Deployed_Explosive.01.Paragraph">Chargable bomb with increased radius depending on charge level.</string>
+<string name="MA.Deployed_Explosive.02.Header">Tips and Tricks!</string>
+<string name="MA.Deployed_Explosive.03.Paragraph">- This machine needs increasing amounts of power!</string>
+<string name="MA.Deployed_Explosive.04.Paragraph">- Level 1 = 100 energy.</string>
+<string name="MA.Deployed_Explosive.05.Paragraph">- Level 2 = 1000 energy.</string>
+<string name="MA.Deployed_Explosive.06.Paragraph">- Level 3 = 10 000 energy.</string>
+<string name="MA.Deployed_Explosive.07.Paragraph">- Level 4 = 100 000 energy.</string>
+<string name="MA.Deployed_Explosive.08.Paragraph">- Level 5 = 1 000 000 energy.</string>
+<string name="MA.Deployed_Explosive.09.Paragraph">- Level 6 = 10 000 000 energy.</string>
+<string name="MA.Deployed_Explosive.10.Paragraph">- And so on!</string>
+<string name="MA.Deployed_Explosive.11.Paragraph">- Intermediate levels of energy give no extra blast radius!</string>
+<string name="MA.Deployed_Explosive.12.Paragraph">- Reaching level 6 with the current energy production implemented will already be a challenge!</string>
+<string name="MA.Deployed_Explosive.13.Header">Caution!</string>
+<string name="MA.Deployed_Explosive.14.Paragraph"> Has a very shot fuse! Blowing up your base by accident is a thing!</string>
+<string name="MA.Diamond_Crystal.00.Title">Diamond Crystal</string>
+<string name="MA.Diamond_Crystal.01.Paragraph">A diamond crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth 0 to -75.</string>
+<string name="MA.Diamond_Crystal.02.Header">Tricks and Tips.</string>
+<string name="MA.Diamond_Crystal.03.Paragraph">These semi-open caves are best approached from the surface.</string>
+<string name="MA.Diamond_Focusing_Lens.00.Title">Diamond Focusing Lens</string>
+<string name="MA.Diamond_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Diamond_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Diamond_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Diamond_Focusing_Lens.04.Right">115%</string>
+<string name="MA.Dirt.00.Title">Dirt</string>
+<string name="MA.Dirt.01.Paragraph">Block type usually found just beneath the snowy surface blocks. Can be crushed in macerator to possibly extract useful ore.</string>
+<string name="MA.Electric_Light.00.Title">Electric Light</string>
+<string name="MA.Electric_Light.01.Paragraph">The Electric Light must be connected to power to operate and provides a cool blue light across a far wider area than a standard Torch.</string>
+<string name="MA.Electric_Light.02.Paragraph">Three styles of projection are available: Spotlight, Pointlight and Shadowed Pointlight.</string>
+<string name="MA.Emerald_Crystal.00.Title">Emerald Crystal</string>
+<string name="MA.Emerald_Crystal.01.Paragraph">An Emerald crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -75 to -150.</string>
+<string name="MA.Emerald_Focusing_Lens.00.Title">Emerald Focusing Lens</string>
+<string name="MA.Emerald_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Emerald_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Emerald_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Emerald_Focusing_Lens.04.Right">130%</string>
+<string name="MA.Empty_Fuel_Canister.00.Title">Empty Fuel Canister</string>
+<string name="MA.Empty_Fuel_Canister.01.Paragraph">REMOVEEEE MEEEEE</string>
+<string name="MA.Empty_Metal_Tube.00.Title">Empty Metal Tube</string>
+<string name="MA.Empty_Metal_Tube.01.Paragraph">A simple but strong metal tube constructed from Iron.</string>
+<string name="MA.Enhanced_Drill_Motor.00.Title">Enhanced Drill Motor</string>
+<string name="MA.Enhanced_Drill_Motor.01.Paragraph">Improves the speed at which an ore extractor mines ore at the cost of increased power usage.</string>
+<string name="MA.Enhanced_Drill_Motor.02.Header">Specifications</string>
+<string name="MA.Enhanced_Drill_Motor.03.Left">Extraction Speed:</string>
+<string name="MA.Enhanced_Drill_Motor.04.Right">400%</string>
+<string name="MA.Enriched_Coal.00.Title">Enriched Coal</string>
+<string name="MA.Enriched_Coal.01.Paragraph">Enriched Coal is the product of the Organic Coal Enricher. Enriched Coal is an improvement over normal coal as it generates more power in the same amount of time.</string>
+<string name="MA.Exceptional_Organic_Lens.00.Title">Exceptional Organic Lens</string>
+<string name="MA.Exceptional_Organic_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Exceptional_Organic_Lens.02.Header">Specifications</string>
+<string name="MA.Exceptional_Organic_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Exceptional_Organic_Lens.04.Right">350%</string>
+<string name="MA.Extractor.00.Title">Ore Extractor</string>
+<string name="MA.Extractor.01.Paragraph">The Ore Extractor is your go to machine for harvesting resources. When you dig using your build gun, each attempt at mining a block of ore subtracts from the total resources available in that ore block. This will occasionally generate an ore, but produces a lot of rubble. You can also super dig by holding Control. This will produce a small amount of ore quickly at a high energy cost and terrible efficiency. Avoid wasting ore in this way when possible.</string>
+<string name="MA.Extractor.02.Paragraph">To automate the collection of ore, use an Ore Extractor. You can place the extractor up against an ore block and it will consume energy to extract resources automatically. You can open the ore extractor control panel by pressing the &apos;Interact&apos; key (default &apos;E&apos;). This allows you to add energy to the machine from your suit, collect ore from its internal storage, and upgrade the machine. The starting extractors are significantly more resource efficient than super digging and can be left unattended.</string>
+<string name="MA.Extractor.03.Paragraph">The extractor has an internal storage capacity of 500 energy which is a little over two full suit&apos;s worth of energy so you will need to make multiple trips to fill it up. If its internal storage fills up the extractor will cease mining until it has been emptied. You can place a storage hopper next to the extractor to provide more storage space and also return the ore to you base using conveyors.</string>
+<string name="MA.Extractor.04.Paragraph">The Ore Extractor speed in ore per minute and efficiency are displayed in the control panel shown when interacting with the machine. At 10% efficiency 9 mineable ore is destroyed for each unit collected.</string>
+<string name="MA.Extractor.05.Header">Upgrading Extractors</string>
+<string name="MA.Extractor.06.Paragraph">The base Ore Extractor is a useful piece of machinery, but is far from its maximum power. The extractor can be upgraded with two parts: New motors and new cutter heads. With the control panel open click the appropriate upgrade slot and the best upgrade from your inventory will be inserted. You can also drag the upgrades from or to your inventory.</string>
+<string name="MA.Extractor.07.Header">Motor</string>
+<string name="MA.Extractor.08.Paragraph">A new motor increases the speed at which the excavator drill head mines, which means you will receive more ore per minute. The increased speed comes at higher power cost so ensure your power supply is sufficient before upgrading.</string>
+<string name="MA.Extractor.09.Header">Cutter Head</string>
+<string name="MA.Extractor.10.Paragraph">Upgrading the cutter head increases the efficiency at which the excavator extracts ores. This means that it will be able to retrieve more ore from a vein over its lifetime. Besides the efficiency upgrade, the new cutter head will also allow the excavator to dig harder materials, which the base cutter head may not be able to cut into at all.</string>
+<string name="MA.Extractor.11.Paragraph">Cutter heads will wear out over time, their remaining durability is shown in the ore extractor control panel.</string>
+<string name="MA.Extractor.12.Header">HoloBase readout</string>
+<string name="MA.Extractor.13.Left">Power Packet Size:
+					Yellow:
+					Red/Blue Flash:
+					Red/Cyan Flash:
+					Red/Black Flash:
+					Red/Green Flash:</string>
+<string name="MA.Extractor.14.Right">Working
+					Out of Power
+					Out of Storage
+					Idle
+					Drill Stuck</string>
+<string name="MA.Extrusion_Plant.00.Title">Extrusion Plant</string>
+<string name="MA.Extrusion_Plant.01.Paragraph">The extrusion plant is a regular conveyor fitted with a machine for extruding metal bars into wires.</string>
+<string name="MA.Extrusion_Plant.02.Header">Usage</string>
+<string name="MA.Extrusion_Plant.03.Paragraph">Feed metal bars into the extrusion plant from another conveyor, conveyor based machine, or conveyor turntable. The extruder will convert the bars into wires which can be used in additional recipies.</string>
+<string name="MA.Extrusion_Plant.04.Paragraph">The extrusion plant is essential for the automation of laboratory research.</string>
+<string name="MA.FALCOR_Beacon.00.Title">FALCOR Beacons</string>
+<string name="MA.FALCOR_Beacon.01.Paragraph">The Fully-Automated Loot Collector Organisational Robots (or FALCOR for short!) Beacons can be used in one two different modes.
+
+					If the Beacon was placed on the floor, then it will collect items within 16 metres in all directions and hold it until a MK1 FALCOR is free to collect.
+
+					If the Beacon was placed on top of a Storage Hopper, then it will collect items from that Storage Hopper and hold it until a Logistics FALCOR is free to collect.
+
+					FALCOR bases do not require power, however, Beacons do.
+					</string>
+<string name="MA.FALCOR.00.Title">FALCORs</string>
+<string name="MA.FALCOR.01.Paragraph">There are two types of Fully-Automated Loot Collector Organisational Robots (or FALCOR for short!) 
+
+					The MK1 FALCORs will search in a 128m area for Beacons with collected items. If one is found, the FALCOR will fly over, retrieve item, and return it. Returned items are then placed into an attached Storage Hopper.
+
+					Logistics FALCORs work identically, but will only service Beacons placed on top of Storage Hoppers.
+
+					Coming soon! Advanced FALCORs that allow filtering of desired items! FALCOR bases do not require power, however, Beacons do.
+					</string>
+<string name="MA.FastMinecart.00.Title">Fast Minecart</string>
+<string name="MA.FastMinecart.01.Paragraph">Minecarts are for Bulk transfers of items at a medium rate.</string>
+<string name="MA.FastMinecart.02.Header">Specifications</string>
+<string name="MA.FastMinecart.03.Left">Max Speed:
+					Max Storage:
+					Acceleration:
+					</string>
+<string name="MA.FastMinecart.04.Right">2m/s
+					25
+					1.0m/s/s
+					16
+					15 seconds</string>
+<string name="MA.FastMinecart.05.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.FastMinecart.06.Title">Minecart Resource Handling</string>
+<string name="MA.FastMinecart.07.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.FastMinecart.08.Title">Advanced Minecart Controls</string>
+<string name="MA.FastMinecart.09.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.Forced_Induction.00.Title">Forced Induction</string>
+<string name="MA.Forced_Induction.01.Paragraph">Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter.</string>
+<string name="MA.Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.Forced_Induction.03.Header">Specifications</string>
+<string name="MA.Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.Forced_Induction.05.Right">200%
+					800%</string>
+<string name="MA.Fortified_PCB.00.Title">Fortified PCB</string>
+<string name="MA.Fortified_PCB.01.Paragraph">A nickel based PCB created from nickel coils in a PCB Assembling Plant.</string>
+<string name="MA.Freezon_Injector.00.Title">Freezon Injector</string>
+<string name="MA.Freezon_Injector.01.Paragraph">Freezon Injectors use Freezon Canisters to give large benefits to compatible machines.</string>
+<string name="MA.Freezon_Injector.02.Header">Effects</string>
+<string name="MA.Freezon_Injector.03.Left">Geothermal Plants
+					Lancers
+					Resin Ablator
+					Resin Liquifier
+					</string>
+<string name="MA.Freezon_Injector.04.Right">10x Power generation
+					28x Clearance rate
+					54x Rate Boost
+					54x Rate Boost</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">Fusion Drill Motor</string>
+<string name="MA.Fusion_Drill_Motor.01.Paragraph">Improves the speed at which an ore extractor mines ore at the cost of increased power usage.</string>
+<string name="MA.Fusion_Drill_Motor.02.Header">Specifications</string>
+<string name="MA.Fusion_Drill_Motor.03.Left">Extraction Speed:</string>
+<string name="MA.Fusion_Drill_Motor.04.Right">1600%</string>
+<string name="MA.Garbage_Thief.00.Title">Cyberdyne Garbage Thief (tm)</string>
+<string name="MA.Garbage_Thief.01.Paragraph">The Cyberdyne Garbage Thief (or Rubbish Thief as some call it) is simply and Ore Thief with reconfigured to remove garbage in the inventory instead of ore. This machine when used in conjunction with multiple Construction Paste Grinders can rapidly remove and process garbage into construction paste freeing up inventory in the process. For optimal performance replace the floor of a frequented hallway with this machine and an appropriate output handling system.
+
+					Simply build our brand-new Garbage Thief (tm) in a 3x3 layout and supply with a mere 5 power per Block, then just stand on it and let IT do the hard work for you!</string>
+<string name="MA.Garbage_Thief.02.Header">Specifications</string>
+<string name="MA.Garbage_Thief.03.Left">Garbage Collection Speed:
+					Internal Storage:
+					Power Usage:
+					</string>
+<string name="MA.Garbage_Thief.04.Right">Upto 3,300/minute!
+					100 units of Garbage!
+					Only 5 power per Garbage!
+					</string>
+<string name="MA.Gas_Bottler.00.Title">Gas Bottler</string>
+<string name="MA.Gas_Bottler.01.Paragraph">The Gas Bottler is the final step in the particle refining process, utilizing the stored particles from a single Particle storage it is able to output said particles into single use containers. The Gas Bottler is built in a 3x3x9 formation.</string>
+<string name="MA.Geological_Surveyor.00.Title">Geological Surveyor</string>
+<string name="MA.Geological_Surveyor.01.Paragraph">The Geological Surveyor scans the landscape beneath itself in it&apos;s immediate vicinity to detect resources, returning the total amount of ore found as it progressively searches deeper. Use to position quarries in the best location.</string>
+<string name="MA.Geological_Surveyor.02.Header">Specifications</string>
+<string name="MA.Geological_Surveyor.03.Left">Search Size:
+					Search Depth:
+					Power Required
+					Power Capacity:
+					Maximum Recharge Rate:
+					Maximum Scan Speed:</string>
+<string name="MA.Geological_Surveyor.04.Right">9m x 9m
+					1024m
+					40 per second
+					100
+					100 per second
+					320m per second</string>
+<string name="MA.Geothermal_Generator_Comp..00.Title">Geothermal Generator Comp.</string>
+<string name="MA.Geothermal_Generator_Comp..01.Paragraph">The geothermal Generator components are used to form a high tier passive power generation system capable of outputting  10 times the power fo a jet turbine. The geothermal generator must be placed in the cold caverns and fed Heat Conducting Pipes to start generating power. The Geothermal works by generating energy from heat differences, for every pipe placed below the cold cavern level the power generated per second will increase. Once the Heat Conducting Pipes reach the magma caverns they will start absorbing heat from the magma sea thereby generating exponentially more power than before. Since the Geothermal generates energy from heat differences feeding it freezon canisters should increase the Geothermal’s energy production by a significant amount. </string>
+<string name="MA.Glow_Stick.00.Title">Glow Stick</string>
+<string name="MA.Glow_Stick.01.Paragraph">Glow sticks are automatically crafted by your suit on request for the cost of 5 energy. Press G to throw a Glowstick!</string>
+<string name="MA.GlowShroom.00.Title">GlowShroom</string>
+<string name="MA.GlowShroom.01.Paragraph">A glowing fungus found on the surface of this planet. Do Not Eat!</string>
+<string name="MA.GlowShroom.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Gold_Bar.00.Title">Gold Bar</string>
+<string name="MA.Gold_Bar.01.Paragraph">Gold Bars are generally used in advanced machines, especially those requiring high quality electrical contacts. Gold can also be used to manufacture decorative items. They are crafted from Gold Ore, which can be found at least 250m below the surface.</string>
+<string name="MA.Gold_Coil.00.Title">Gold Coil</string>
+<string name="MA.Gold_Coil.01.Paragraph">A simple gold coil created from gold wires in a Coiler Plant.</string>
+<string name="MA.Gold_Housing.00.Title">Gold Housing</string>
+<string name="MA.Gold_Housing.01.Paragraph">A simple gold housing created from gold plates.</string>
+<string name="MA.Gold_Ore_Ping.00.Title">Gold Ore Ping</string>
+<string name="MA.Gold_Ore_Ping.01.Paragraph">The Gold Ore Ping is used to find additional Gold ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Gold_Pipe.00.Title">Gold Pipe</string>
+<string name="MA.Gold_Pipe.01.Paragraph">A simple gold pipe created from gold bars in a Pipe Extrusion Plant.</string>
+<string name="MA.Gold_Plate.00.Title">Gold Plate</string>
+<string name="MA.Gold_Plate.01.Paragraph">A simple gold plate created from gold bars in a Stamper Plant.</string>
+<string name="MA.Gold_Wire.00.Title">Gold Wire</string>
+<string name="MA.Gold_Wire.01.Paragraph">A simple gold wire created from gold bars in an Extrusion Plant.</string>
+<string name="MA.Green_Canvas.00.Title">Green Canvas</string>
+<string name="MA.Green_Canvas.01.Paragraph">Full green beautification block.</string>
+<string name="MA.Green_GlowPod.00.Title">Green GlowPod</string>
+<string name="MA.Green_GlowPod.01.Paragraph">This native species of flora emits a steady green glow due to a chemical reaction just below the surface of the plant.</string>
+<string name="MA.Green_GlowPod.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Hard_Resin_Ablator.00.Title">Laser Resin Ablator</string>
+<string name="MA.Hard_Resin_Ablator.01.Paragraph">This is the first part in a 3-step method to utilise and clear the Hardened Resin that the Hiveminds excrete around them. 
+
+					The Ablator uses focussed laser energy to heat up and strip the hard surface from the resin. 
+
+					Once done, a Liquifier can be used to boil and extract the inside. 
+
+					You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin.</string>
+<string name="MA.Hard_Resin_Ablator.02.Paragraph">Ablation.(n) The loss of surface material caused by heat or friction </string>
+<string name="MA.Hard_Resin_Liquifier.00.Title">Laser Resin Liquifier</string>
+<string name="MA.Hard_Resin_Liquifier.01.Paragraph">This is the second part in a 3-step method to utilise and clear the Hardened Resin that the Hiveminds excrete around them. 
+
+					The Liquifier uses a heated plasma stream to liquify and extract the soft insides of Liquified Hard Resin. 
+
+					You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin. 
+
+					To convert from Hard Resin to Ablated Hard Resin, use a Hard Resin Ablator</string>
+<string name="MA.Hard_Resin_Refinery.00.Title">Liquid Resin Refiner</string>
+<string name="MA.Hard_Resin_Refinery.01.Paragraph">This is the final step to utilise and clear the Hardened Resin that the Hiveminds excrete around them.
+					</string>
+<string name="MA.Hard_Resin_Refinery.02.Paragraph">The Liquifier uses a heated plasma stream to liquify and extract the soft insides of Liquified Hard Resin. You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin.
+					 </string>
+<string name="MA.Hard_Resin_Refinery.03.Paragraph">To convert from Hard Resin to Ablated Hard Resin, use a Hard Resin Ablator
+					</string>
+<string name="MA.HardResinDetector.00.Title">Hard Resin Detector</string>
+<string name="MA.HardResinDetector.01.Paragraph">This basic early-warning system will detect Hardened Resin. We&apos;ve detected these growths across the entire planet, lying dormant. The heat and vibrations from our base appear to attract them, and we run the risk of our machinery being overgrown. These detectors should pin-point the direction the growths are coming from, and allow you to investigate and, if necessary, deal with them.</string>
+<string name="MA.Hardened_PCB.00.Title">Hardened PCB</string>
+<string name="MA.Hardened_PCB.01.Paragraph">A iron based PCB created from iron coils in a PCB Assembling Plant.</string>
+<string name="MA.Heat_Conducting_Pipe.00.Title">Heat Conducting Pipe</string>
+<string name="MA.Heat_Conducting_Pipe.01.Paragraph">Heat Conducting Pipes combine the fluid transmitting power of copper piping and the combined heat and pressure resistance of Crystal Fiber Mesh. Using this new type of pipe advancements have been made in Geothermal Thermoelectric Generation to the point that it is now a feasible solution to the growing power requirements of new machines.</string>
+<string name="MA.High_Energy_Composite_Fuel.00.Title">High Energy Composite Fuel</string>
+<string name="MA.High_Energy_Composite_Fuel.01.Paragraph">High Energy Composite Fuel can be manufactured in a Refinery Reactor Vat from Biomass. It is used to power jet turbines and in the manufacture of missile defenses. Fuel canisters used in a jet turbine can be recycled when empty.</string>
+<string name="MA.Hive_Brain_Matter.00.Title">Hive Brain Matter</string>
+<string name="MA.Hive_Brain_Matter.01.Paragraph">Most of the hive mind was destroyed in the energy blast. Some of the brain matter is intact enough to warrant investigation. Your laboratory will be able to Analyse this item, which should give us additional research options.</string>
+<string name="MA.Hydrojet_Cutter.00.Title">Hydrojet Cutter</string>
+<string name="MA.Hydrojet_Cutter.01.Paragraph">Place this module on top of your manufacturing plant to allow the manufacture of suit upgrades.</string>
+<string name="MA.ImprovedCargoLift.00.Title">Improved Cargo Lift</string>
+<string name="MA.ImprovedCargoLift.01.Paragraph">The second available Cargo Lift is much faster and much larger than the Basic one. This is ideal for en-masse delivery of deeper materials such as Nickel, Crystal and Biomass.</string>
+<string name="MA.ImprovedCargoLift.02.Header">Specifications</string>
+<string name="MA.ImprovedCargoLift.03.Left">Maximum Range:
+					Maximum Speed:
+					Acceleration:
+					Maximum Capacity
+					Power Usage (Travelling):
+					</string>
+<string name="MA.ImprovedCargoLift.04.Right">Unlimited
+					10 metres/sec
+					0.5 metres/sec/sec
+					1000
+					250 PPS
+					</string>
+<string name="MA.Induction_Charger.00.Title">Induction Charger</string>
+<string name="MA.Induction_Charger.01.Paragraph">The Induction Charger is a small 5x5 machine that has an extremely high throughput but minimal on-board storage. It is an excellent candidate for supplying power to an area without cluttering it with many lasers or batteries, and should avoid the need for having underground buried powerlines and distribution blocks.
+
+					Usage is simple; build in a 5x1x5 square, feed power from any direction, and place the machines on top or to the sides. Be aware, as with all power-supplying machines, that facing a Laser Power Transmitter at the Charger AND touching the Charger will result in a feedback loop, and this should be avoided.
+
+					This machine, placed underneath a Research Laboratory or other large, power-hungry machine, is excellent for arranging neat, high-speed power delivery.
+					</string>
+<string name="MA.Induction_Charger.02.Header">Specifications</string>
+<string name="MA.Induction_Charger.03.Left">Internal Storage:
+					Power Input Rate : 
+					Power Output Rate : 
+					</string>
+<string name="MA.Induction_Charger.04.Right">1500
+					7500/face/second
+					1250/machine/second
+					</string>
+<string name="MA.Infused_Coal.00.Title">Infused Coal</string>
+<string name="MA.Infused_Coal.01.Paragraph">Infused Coal is the product of the Crystal Coal Infuser. Infused Coal is an improvement over Enriched coal as it generates more power in the same amount of time.</string>
+<string name="MA.Intermediate_Experimental_Pod.00.Title">Intermediate Experimental Pod</string>
+<string name="MA.Intermediate_Experimental_Pod.01.Paragraph">Intermediate Experimental pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Iron. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Intermediate_Experimental_Pod.02.Paragraph">For more information on creating experimental pods please read the following guide.</string>
+<string name="MA.Iron_Bar.00.Title">Iron Bar</string>
+<string name="MA.Iron_Bar.01.Paragraph">Iron Bars are generally used in machines requiring a sturdy construction. They are crafted from Iron Ore, which can be found at least 65m below the surface.</string>
+<string name="MA.Iron_Coil.00.Title">Iron Coil</string>
+<string name="MA.Iron_Coil.01.Paragraph">A simple iron coil created from iron wires in a Coiler Plant.</string>
+<string name="MA.Iron_Gear.00.Title">Iron Gear</string>
+<string name="MA.Iron_Gear.01.Paragraph">A bevelled gear, used in various motors and joints.</string>
+<string name="MA.Iron_Housing.00.Title">Iron Housing</string>
+<string name="MA.Iron_Housing.01.Paragraph">A simple iron housing created from iron plates.</string>
+<string name="MA.Iron_Ore_Ping.00.Title">Iron Ore Ping</string>
+<string name="MA.Iron_Ore_Ping.01.Paragraph">The Iron ore Ping is used to find additional Iron ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Iron_Ore.00.Title">Iron Ore</string>
+<string name="MA.Iron_Ore.01.Paragraph">Found around 100m under the surface and below, Iron Ore can be smelted into Iron Bars using the smelter. Iron Bars are used in a wide variety of machines.</string>
+<string name="MA.Iron_Ore.02.Paragraph">Iron Ore can be mined using an ore extractor.</string>
+<string name="MA.Iron_Pipe.00.Title">Iron Pipe</string>
+<string name="MA.Iron_Pipe.01.Paragraph">A simple iron pipe created from iron bars in a Pipe Extrusion Plant. Required for the creation of Empty Fuel Cells.</string>
+<string name="MA.Iron_Plate.00.Title">Iron Plate</string>
+<string name="MA.Iron_Plate.01.Paragraph">A simple iron plate created from iron bars in a Stamper Plant.</string>
+<string name="MA.Iron_Wire.00.Title">Iron Wire</string>
+<string name="MA.Iron_Wire.01.Paragraph">A simple iron wire created from iron bars in an Extrusion Plant.</string>
+<string name="MA.Jet_Pack.00.Title">Jet Pack</string>
+<string name="MA.Jet_Pack.01.Paragraph">You&apos;ve discovered a way to make short duration flights. You have a feeling it will use a lot of power.....</string>
+<string name="MA.Jet_Pack.02.Paragraph">Activate by pressing &apos;J&apos;. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.00.Title">Jet Turbine Generator Housing</string>
+<string name="MA.Jet_Turbine_Generator_Housing.01.Paragraph">The Jet Turbine Generator is a more advanced method of generating power from fossil fuels. It requires High Energy Composite Fuel produced from Biomass in a refinery vat.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.02.Header">Construction</string>
+<string name="MA.Jet_Turbine_Generator_Housing.03.Paragraph">To construct a Jet Turbine place 36 housing components 3m high on a 4m x 3m base. Then construct a 3m x 3m  intake on either housing face of the same size.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.04.Header">Specifications</string>
+<string name="MA.Jet_Turbine_Generator_Housing.05.Left">Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</string>
+<string name="MA.Jet_Turbine_Generator_Housing.06.Right">450 per second (HECF)
+					182 per second (HECF)
+					3000
+					320 per second
+					480 seconds
+					High Energy Composite Fuel</string>
+<string name="MA.Jet_Turbine_Generator_Intake.00.Title">Jet Turbine Generator Intake</string>
+<string name="MA.Jet_Turbine_Generator_Intake.01.Paragraph">The Jet Turbine Generator is a more advanced method of generating power from fossil fuels. It requires High Energy Composite Fuel produced from Biomass in a refinery vat.</string>
+<string name="MA.Jet_Turbine_Generator_Intake.02.Header">Construction</string>
+<string name="MA.Jet_Turbine_Generator_Intake.03.Paragraph">To construct a Jet Turbine place 36 housing components 3m high on a 4m x 3m base. Then construct a 3m x 3m  intake on either housing face of the same size.</string>
+<string name="MA.Jet_Turbine_Generator_Intake.04.Header">Specifications</string>
+<string name="MA.Jet_Turbine_Generator_Intake.05.Left">Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</string>
+<string name="MA.Jet_Turbine_Generator_Intake.06.Right">450 per second (HECF)
+					182 per second (HECF)
+					3000
+					320 per second
+					480 seconds
+					High Energy Composite Fuel</string>
+<string name="MA.Laboratory_Component.00.Title">Laboratory Component</string>
+<string name="MA.Laboratory_Component.01.Paragraph">The Laboratory is required for researching advanced projects which improve your technology level by unlocking new projects and recipies. A total of 27 laboratory components are required (manufactured in 3 stacks of 9 components each) and must be built in a 3 by 3 by 3 configuration.</string>
+<string name="MA.Laboratory_Component.02.Paragraph">For more information on using the laboratory please refer the following guide:</string>
+<string name="MA.LargeMinecart.00.Title">Large Minecart</string>
+<string name="MA.LargeMinecart.01.Paragraph">Minecarts are for Bulk transfers of items at a medium rate.</string>
+<string name="MA.LargeMinecart.02.Header">Specifications</string>
+<string name="MA.LargeMinecart.03.Left">Max Speed:
+					Max Storage:
+					Acceleration:
+					</string>
+<string name="MA.LargeMinecart.04.Right">1m/s
+					50
+					0.5m/s/s
+				</string>
+<string name="MA.LargeMinecart.05.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.LargeMinecart.06.Title">Minecart Resource Handling</string>
+<string name="MA.LargeMinecart.07.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.LargeMinecart.08.Title">Advanced Minecart Controls</string>
+<string name="MA.LargeMinecart.09.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.00.Title">Laser Energy Transmitter MK2</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.01.Paragraph">Laser Energy Transmitters (or LETs) are the backbone of your power delivery network, they can send power over a distance of up to 64m and can deliver it directly to machines, power storage blocks, or another LET to extend the range.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.02.Paragraph">To open the control panel for the LET press the &apos;Interact&apos; key (default &apos;E&apos;). This allows you to upgrade the lens which will boost power transfer. You can also switch the firing mode so that it will wait for a full battery before sending power. LETs have a small internal capacity, consider complementing them with Power Storage Blocks to ensure a reliable supply of power as supply and demand vary.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.03.Header">Specifications</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.04.Left">Power Packet Size:
+					Maximum Packet Rate:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.05.Right">40
+					1.67 per second
+					66.7 per second
+					192
+					64m</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.00.Title">Laser Energy Transmitter MK3</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.01.Paragraph">Laser Energy Transmitters (or LETs) are the backbone of your power delivery network, they can send power over a distance of up to 64m and can deliver it directly to machines, power storage blocks, or another LET to extend the range.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.02.Paragraph">To open the control panel for the LET press the &apos;Interact&apos; key (default &apos;E&apos;). This allows you to upgrade the lens which will boost power transfer. You can also switch the firing mode so that it will wait for a full battery before sending power. LETs have a small internal capacity, consider complementing them with Power Storage Blocks to ensure a reliable supply of power as supply and demand vary.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.03.Header">Specifications</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.04.Left">Power Packet Size:
+					Maximum Packet Rate:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.05.Right">64
+					5 per second
+					320 per second
+					384
+					64m</string>
+<string name="MA.Laser_Energy_Transmitter.00.Title">Laser Energy Transmitter</string>
+<string name="MA.Laser_Energy_Transmitter.01.Paragraph">Laser Energy Transmitters (or LETs) are the backbone of your power delivery network, they can send power over a distance of up to 64m and can deliver it directly to machines, power storage blocks, or another LET to extend the range.</string>
+<string name="MA.Laser_Energy_Transmitter.02.Paragraph">To open the control panel for the LET press the &apos;Interact&apos; key (default &apos;E&apos;). This allows you to upgrade the lens which will boost power transfer. You can also switch the firing mode so that it will wait for a full battery before sending power. LETs have a small internal capacity, consider complementing them with Power Storage Blocks to ensure a reliable supply of power as supply and demand vary.</string>
+<string name="MA.Laser_Energy_Transmitter.03.Header">Specifications</string>
+<string name="MA.Laser_Energy_Transmitter.04.Left">Power Packet Size:
+					Maximum Packet Rate:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</string>
+<string name="MA.Laser_Energy_Transmitter.05.Right">10
+					1 per second
+					10 per second
+					64
+					64m</string>
+<string name="MA.Leaves.00.Title">Leaves</string>
+<string name="MA.Leaves.01.Paragraph">Can be collected from trees and placed or macerated.</string>
+<string name="MA.Lift_Compressor.00.Title">Lift Compressor</string>
+<string name="MA.Lift_Compressor.01.Paragraph">Attach to the base of a piston lift to improve the rate at which gas is regenerated maintaining the performance of heavily used lifts. This compressor must be externally powered. Two compressors are required on a single lift to achieve the maximum height of 256m.</string>
+<string name="MA.Lift_Compressor.02.Header">Specifications</string>
+<string name="MA.Lift_Compressor.03.Left">Gas Recovery:
+					Power Usage:
+					Power Capacity:
+					Power Transfer Rate:</string>
+<string name="MA.Lift_Compressor.04.Right">0.15 l/s
+					1 /s
+					150
+					5 /s</string>
+<string name="MA.Lift_Manual_Control_Module.00.Title">Lift Manual Control Module</string>
+<string name="MA.Lift_Manual_Control_Module.01.Paragraph">Attach to the side of piston lift&apos;s base to allow you to manually control the speed of the lift using your suit&apos;s wireless connection. Use the Home and End keys to increase and decrease lift speed.</string>
+<string name="MA.Lightweight_Machine_Housing.00.Title">Lightweight Machine Housing</string>
+<string name="MA.Lightweight_Machine_Housing.01.Paragraph">A small metal box, used in lightweight objects and crafted from Tin plates.</string>
+<string name="MA.Lightweight_Machine_Plates.00.Title">Lightweight Machine Plates</string>
+<string name="MA.Lightweight_Machine_Plates.01.Paragraph">A small metal plate, used in lightweight objects.</string>
+<string name="MA.Lightweight_PCB.00.Title">Lightweight PCB</string>
+<string name="MA.Lightweight_PCB.01.Paragraph">A titanium based PCB created from titanium coils in a PCB Assembling Plant.</string>
+<string name="MA.Liquified_Resin.00.Title">Liquified Resin</string>
+<string name="MA.Liquified_Resin.01.Paragraph">Hardened Resin can be converted and refined using a number of different machines to end up with this final material.</string>
+<string name="MA.Liquified_Resin.02.Title">Hardened Resin Refining</string>
+<string name="MA.Liquified_Resin.03.Paragraph">Use these machines, placed near an active or dead hive mind, to extract and refine this material.</string>
+<string name="MA.Lithium_Bar.00.Title">Lithium Bar</string>
+<string name="MA.Lithium_Bar.01.Paragraph">Lithium Bars are generally used in machines which store or transmit power. They are crafted from Lithium Ore, which can be found at least 120m below the surface.</string>
+<string name="MA.Lithium_Coil.00.Title">Lithium Coil</string>
+<string name="MA.Lithium_Coil.01.Paragraph">A simple lithium coil created from lithium wires in a Coiler Plant.</string>
+<string name="MA.Lithium_Housing.00.Title">Lithium Housing</string>
+<string name="MA.Lithium_Housing.01.Paragraph">A simple lithium housing created from lithium plates.</string>
+<string name="MA.Lithium_Ore_Ping.00.Title">Lithium Ore Ping</string>
+<string name="MA.Lithium_Ore_Ping.01.Paragraph">The Lithium ore Ping is used to find additional Lithium ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Lithium_Ore.00.Title">Lithium Ore</string>
+<string name="MA.Lithium_Ore.01.Paragraph">Found around 120m under the surface and below, Lithium Ore can be smelted into Lithium Bars using the smelter. Lithium Bars are generally used in machines which store or transmit power.</string>
+<string name="MA.Lithium_Ore.02.Paragraph">Lithium Ore can be mined using an ore extractor.</string>
+<string name="MA.Lithium_Pipe.00.Title">Lithium Pipe</string>
+<string name="MA.Lithium_Pipe.01.Paragraph">A simple lithium pipe created from lithium bars in a Pipe Extrusion Plant.</string>
+<string name="MA.Lithium_Plate.00.Title">Lithium Plate</string>
+<string name="MA.Lithium_Plate.01.Paragraph">A simple lithium plate created from lithium bars in a Stamper Plant.</string>
+<string name="MA.Lithium_Wire.00.Title">Lithium Wire</string>
+<string name="MA.Lithium_Wire.01.Paragraph">A simple lithium wire created from lithium bars in an Extrusion Plant.</string>
+<string name="MA.Location_Marker.00.Title">Location Marker</string>
+<string name="MA.Location_Marker.01.Paragraph">The Location marker can be used to store a set of coordinates and can then be inserted into any machine requiring them such as a teleporter.</string>
+<string name="MA.Location_Marker.02.Header">Usage</string>
+<string name="MA.Location_Marker.03.Paragraph">After creating a location marker place it in your hotbar, select it, and point your build gun at the desired location. Then press the Build button (default &apos;LMB&apos;). If successful your suit&apos;s heads up display will display a column of light on the targetted spot while the location marker is selected.</string>
+<string name="MA.Location_Marker.04.Paragraph">Please note that your suit does not support interacting with more than one location marker at a time therefore we recommend only carrying a single location marker in your inventory at one time to avoid confusion.</string>
+<string name="MA.Logistics_Hopper.00.Title">Logistics Hopper</string>
+<string name="MA.Logistics_Hopper.01.Paragraph">The logistics hopper is a cheaper version of the standard storage hopper which can store just 2 items and takes 10 seconds to process each item. The logistics hopper is suitable as an output hopper for an ore extractor without any upgrades. You should look to upgrade logistics hoppers if they become a bottleneck.</string>
+<string name="MA.Logistics_Hopper.02.Paragraph">For more information on storage hoppers please refer to the standard storage hopper guide.</string>
+<string name="MA.Low_Grade_Steel_Bar.00.Title">Low Grade Steel Bar</string>
+<string name="MA.Low_Grade_Steel_Bar.01.Paragraph">The Low Grade Steel Bar is created from a combination of Iron and Nickel in a manufacturing plant and is an essential component for many high end manufacturing recipies.</string>
+<string name="MA.MK2_Solar_Panel_Component.00.Title">MK2 Solar Panel Component</string>
+<string name="MA.MK2_Solar_Panel_Component.01.Paragraph">The MK2 Solar Panel is a power generator 3m wide, 3m long and 1m tall. Place 9 solar panel components in this layout to construct the machine. It must have direct access to sunlight above it.</string>
+<string name="MA.MK2_Solar_Panel_Component.02.Paragraph">This power generation machine can only be placed on top of advanced machines such as the Research Laboratory, Refinery, Cargo Lifts and MK4 &amp; MK5 Power Storage Systems.</string>
+<string name="MA.MK2_Solar_Panel_Component.03.Header">Specifications</string>
+<string name="MA.MK2_Solar_Panel_Component.04.Left">Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</string>
+<string name="MA.MK2_Solar_Panel_Component.05.Right">405 per second
+					162 per second
+					1500
+					Unlimited
+					n/a
+					Sunlight</string>
+<string name="MA.Macerator.00.Title">Macerator</string>
+<string name="MA.Macerator.01.Paragraph">The Macerator Is capable of atomizing some of the most resilient materials known to man. Sometimes the atomization process returns a mineral rich compound primarily consisting of one of the elements that the imputed item contains. The outputted item is indistinguishable from normal ore and can be treated as such.</string>
+<string name="MA.Macerator.02.Left">Requires power:</string>
+<string name="MA.Macerator.03.Right">yes</string>
+<string name="MA.Macerator.04.Header">Tips and Tricks!</string>
+<string name="MA.Macerator.05.Paragraph">- This machine is fed from a conveyor belt, and will output any reclaimed ore to a adjacent storage hopper.</string>
+<string name="MA.Magnetic_Drill_Motor.00.Title">Magnetic Drill Motor</string>
+<string name="MA.Magnetic_Drill_Motor.01.Paragraph">Improves the speed at which an ore extractor mines ore at the cost of increased power usage.</string>
+<string name="MA.Magnetic_Drill_Motor.02.Header">Specifications</string>
+<string name="MA.Magnetic_Drill_Motor.03.Left">Extraction Speed:</string>
+<string name="MA.Magnetic_Drill_Motor.04.Right">800%</string>
+<string name="MA.Manufacturing_Plant.00.Title">Manufacturing Plant</string>
+<string name="MA.Manufacturing_Plant.01.Paragraph">The manufacturing plant can be used to create most of the machines and items you will require to survive on this planet. Some items will require specialised assembly machines, this will be listed in the handbook entry for the item. To open the manufacturing interface press the &apos;Interact&apos; key (default &apos;E&apos;). You can also self craft a limited number of items at any time using your suit and build tool by opening the self crafting interface (default &apos;C&apos;).</string>
+<string name="MA.Manufacturing_Plant.02.Header">Manufacturing Interface</string>
+<string name="MA.Manufacturing_Plant.03.Paragraph">The manufacturing interface is split into four component parts. These are from left to right: The list of available blueprints, selected item information, resource requirements, and below these automation.</string>
+<string name="MA.Manufacturing_Plant.04.Paragraph">The tabs along the top of the blueprints window allow you to filter by type, e.g. power, automation &amp; suit upgrades. At the bottom of this window you can filter to only those you have the materials to produce, and below that a custom filter can be entered.</string>
+<string name="MA.Manufacturing_Plant.05.Paragraph">When a blueprint is selected information about it and its components will be displayed. If you have the materials required you can manufacture one item by pressing the &apos;Craft&apos; button, or 25 at a time by holding down the &apos;Control&apos; key and pressing the &quot;Craft&quot; button. Contextual help is available for the selected item by pressing the help key (default &apos;H&apos;).</string>
+<string name="MA.Manufacturing_Plant.06.Header">Automation</string>
+<string name="MA.Manufacturing_Plant.07.Paragraph">Crafting items manually at the manufacturing plant does not require any energy and is almost instantaneous because it interfaces with your suit &amp; build tool to perform the work. If you would like to continuously manufacture an item while you are away this can be done using just the facilities within the manufacturing plant but at the cost of both time and energy. Select the item to manufacture, enter the number of items required, or select &apos;Repeat&apos; to continue forever, and press the Automate button. The materials needed must be in a adjacent storage hopper with I/O permissions set to either &apos;Add/Remove&apos; or &apos;Remove only&apos; (recommended), the manufactured items will also be placed into a storage hopper, which should have I/O status of &apos;Add Only&apos;.</string>
+<string name="MA.Manufacturing_Plant.08.Paragraph">Automation can be switched to another item, or cancelled entirely by clicking on the progress icon. In both cases the plant will finish manufacturing the item it is currently working on first.</string>
+<string name="MA.Manufacturing_Plant.09.Header">Modules</string>
+<string name="MA.Manufacturing_Plant.10.Paragraph">Some blueprints may require an additional module to be attached to the manufacturing plant (Such as the Hydrojet Cutter). This will be listed in the handbook entry for the item.</string>
+<string name="MA.Mass_Storage_Block.00.Title">Mass Storage Block</string>
+<string name="MA.Mass_Storage_Block.01.Paragraph">This is the base block for automated mass storage. It cannot be accessed manually. Each block can hold a stack of 25 items. Placing mass storage blocks side by side creates a larger combined storage.</string>
+<string name="MA.Mass_Storage_Block.02.Header">Caution!</string>
+<string name="MA.Mass_Storage_Block.03.Paragraph">Has nothing to do with the Storage Crate!</string>
+<string name="MA.Mass_Storage_Input_Port.00.Title">Mass Storage Input Port</string>
+<string name="MA.Mass_Storage_Input_Port.01.Paragraph">Place this block next to a mass storage block to input items into the mass storage. The input can be fed straight from a conveyor belt to supply the items 1 by 1. Different item types can be imported by the same input port 1 at a time.</string>
+<string name="MA.Mass_Storage_Input_Port.02.Header">Caution!</string>
+<string name="MA.Mass_Storage_Input_Port.03.Paragraph">Has nothing to do with the Storage Crate!</string>
+<string name="MA.Mass_Storage_Output_Port.00.Title">Mass Storage Output Port</string>
+<string name="MA.Mass_Storage_Output_Port.01.Paragraph">Place this block next to a mass storage block to output items from the mass storage to a conveyor belt. You need to manualy specify one single item you want extracted from the mass storage. If the specified item is available in the mass storage the robot will fetch them one by one and place the item onto the built in conveyor.</string>
+<string name="MA.Mass_Storage_Output_Port.02.Header">Tips and Tricks!</string>
+<string name="MA.Mass_Storage_Output_Port.03.Paragraph">Be aware of the orientation of this block! Just like a regular conveyor it moves the item into a specific direction.</string>
+<string name="MA.Mass_Storage_Output_Port.04.Paragraph">To assign a item to be output, Hold the desired item in your Hotbar, Look at the output port and press &quot;E&quot;</string>
+<string name="MA.Mass_Storage_Output_Port.05.Header">Caution!</string>
+<string name="MA.Mass_Storage_Output_Port.06.Paragraph">Has nothing to do with the Storage Crate!</string>
+<string name="MA.Mass_Storage_Stocking_Port.00.Title">Mass Storage Stocking Port</string>
+<string name="MA.Mass_Storage_Stocking_Port.01.Paragraph">The Mass Storage Stocking Port enables the controlled insertion of items into mass storage to prevent overflowing the storage. 
+					</string>
+<string name="MA.Mass_Storage_Stocking_Port.02.Left">Port Inventory:
+					Drone Inventory:
+					</string>
+<string name="MA.Mass_Storage_Stocking_Port.03.Right">50
+					12
+					</string>
+<string name="MA.Mass_Storage_Stocking_Port.04.Paragraph">The mass storage stocking port must be placed adjacent to a mass storage crate.  Pressing E will open the interface for configuring the stocked item and inventory limit.  The port will only add the stocked item if the current stock is below the specified limit.  Other items will always be added as though it were a standard input port.  
+				
+				Hold Ctrl, Shift, or Alt when adjusting the stocking limits to change the limits in 10, 100, or 1000 item increments.
+				</string>
+<string name="MA.Mass_Storage_Stocking_Port.05.Paragraph">
+				You can right click the empty slot to search for an item by name to easily set the stock item or press the button to choose an item.  Multiblock components are special so they won&apos;t be found by a normal search instead search for &quot;multi&quot;, &quot;placement&quot;, or &quot;component&quot; for a list of these blocks.
+				
+				The port&apos;s internal inventory can be locked using the labeled button in the interface to prevent the port from collecting items if the stock limit has been reached.  This function is intended to enable limiting the backlog of high value items.
+				</string>
+<string name="MA.Massive_Faceted_Eye.00.Title">Massive Faceted Eye</string>
+<string name="MA.Massive_Faceted_Eye.01.Paragraph">The eyes from the local flying lifeforms make excellent optical component. This one has come from the largest specimen encountered and is in good enough condition to be used.</string>
+<string name="MA.Matter_Mover.00.Title">Matter Mover</string>
+<string name="MA.Matter_Mover.01.Paragraph">Matter Movers are a high-speed, high-energy method of moving resources around your mining operation. They are simple in usage; supply with power as you would any other machine, and place them adjacent to the source Storage Hopper and facing towards the destination Storage Hopper. The cost to mattermit does not depend on distance. Line of sight to the destination hopper is required.</string>
+<string name="MA.Matter_Mover.02.Header">Specifications</string>
+<string name="MA.Matter_Mover.03.Left">Maximum Transport Rate:
+					Power Required:
+					Maximum Power Transfer Rate:
+					Power Capacity:
+					Maximum Range:</string>
+<string name="MA.Matter_Mover.04.Right">300 items per minute
+					64 per item
+					256 /s (per face)
+					512
+					64m</string>
+<string name="MA.Mesh_Weaver.00.Title">Crystal Mesh Weaver</string>
+<string name="MA.Mesh_Weaver.01.Paragraph">The Crystal Mesh Weaver Processes crystal deposit at the molecular level to create Crystal Mesh. This machine uses 50 power of the span of 8 seconds to molecularly recombine 32 crystal deposit into Crystal Mesh.</string>
+<string name="MA.MinecartDepot.00.Title">Minecart Depot</string>
+<string name="MA.MinecartDepot.01.Paragraph">Minecart Depots are the method used to place Minecarts onto your minecart network. Simply place a Storage Hopper adjacent to the Depot, and ensure the Depot is touching any piece of track. Each Depot is limited to a single Minecart placement per 30 seconds, to give time for the internals to cool down.</string>
+<string name="MA.MinecartDepot.02.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.MinecartDepot.03.Title">Minecart Resource Handling</string>
+<string name="MA.MinecartDepot.04.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.MinecartDepot.05.Title">Advanced Minecart Controls</string>
+<string name="MA.MinecartDepot.06.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.MinecartLoadStation.00.Title">Minecart Load Station</string>
+<string name="MA.MinecartLoadStation.01.Paragraph">Removes materials from attached Storage Hoppers into docked Minecarts.</string>
+<string name="MA.MinecartTurboRail.00.Title">Basic Minecart</string>
+<string name="MA.MinecartTurboRail.01.Paragraph">Minecarts are for Bulk transfers of items at a medium rate.</string>
+<string name="MA.MinecartTurboRail.02.Header">Specifications</string>
+<string name="MA.MinecartTurboRail.03.Left">Max Speed:
+					Max Storage:
+					Acceleration:
+					</string>
+<string name="MA.MinecartTurboRail.04.Right">1m/s
+					25
+					0.5m/s/s
+					16
+					15 seconds</string>
+<string name="MA.MinecartTurboRail.05.Paragraph">Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</string>
+<string name="MA.MinecartTurboRail.06.Title">Basic Minecart</string>
+<string name="MA.MinecartTurboRail.07.Paragraph">Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</string>
+<string name="MA.MinecartTurboRail.08.Title">Advanced Minecart Controls</string>
+<string name="MA.MinecartTurboRail.09.Paragraph">For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</string>
+<string name="MA.MinecartUnloadStation.00.Title">Minecart Unload Station</string>
+<string name="MA.MinecartUnloadStation.01.Paragraph">Removes materials from Minecarts into attached Storage Hoppers.</string>
+<string name="MA.Mini_Hopper.00.Title">Mini Hopper</string>
+<string name="MA.Mini_Hopper.01.Paragraph">The mini hopper is a cheaper version of the standard storage hopper which can store 10 items and takes 30 seconds to process each item. The mini hopper is suitable as an input hopper for the Central Power Hub, Pyrothermic Generator or other machine with a long processing time. You should look to upgrade mini hoppers if they become a bottleneck.</string>
+<string name="MA.Mini_Hopper.02.Paragraph">For more information on storage hoppers please refer to the standard storage hopper guide.</string>
+<string name="MA.Missile_Turret_MK1.00.Title">Missile Turret MK1</string>
+<string name="MA.Missile_Turret_MK1.01.Paragraph">Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper. Missile Turrets require Line-of-sight to their targets, and should be mounted to give the best field of fire.</string>
+<string name="MA.Missile_Turret_MK1.02.Header">Specifications</string>
+<string name="MA.Missile_Turret_MK1.03.Left">Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</string>
+<string name="MA.Missile_Turret_MK1.04.Right">64m
+					512m
+					75k - 750k (Based on missile)
+					1
+					15 seconds</string>
+<string name="MA.Missile_Turret_MK2.00.Title">Missile Turret MK2</string>
+<string name="MA.Missile_Turret_MK2.01.Paragraph">Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</string>
+<string name="MA.Missile_Turret_MK2.02.Header">Specifications</string>
+<string name="MA.Missile_Turret_MK2.03.Left">Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</string>
+<string name="MA.Missile_Turret_MK2.04.Right">64m
+					512m
+					50,000 (basic missile)
+					2
+					15 seconds</string>
+<string name="MA.Missile_Turret_MK3.00.Title">Missile Turret MK3</string>
+<string name="MA.Missile_Turret_MK3.01.Paragraph">Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</string>
+<string name="MA.Missile_Turret_MK3.02.Header">Specifications</string>
+<string name="MA.Missile_Turret_MK3.03.Left">Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</string>
+<string name="MA.Missile_Turret_MK3.04.Right">64m
+					512m
+					50,000 (basic missile)
+					3
+					15 seconds</string>
+<string name="MA.Missile_Turret_MK4.00.Title">Missile Turret MK4</string>
+<string name="MA.Missile_Turret_MK4.01.Paragraph">Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</string>
+<string name="MA.Missile_Turret_MK4.02.Header">Specifications</string>
+<string name="MA.Missile_Turret_MK4.03.Left">Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</string>
+<string name="MA.Missile_Turret_MK4.04.Right">64m
+					512m
+					50,000 (basic missile)
+					4
+					15 seconds</string>
+<string name="MA.Nickel_Bar.00.Title">Nickel Bar</string>
+<string name="MA.Nickel_Bar.01.Paragraph">Nickel Bars are generally used in advanced machines. They are crafted from Nickel Ore, which can be found at least 400m below the surface.</string>
+<string name="MA.Nickel_Coil.00.Title">Nickel Coil</string>
+<string name="MA.Nickel_Coil.01.Paragraph">A simple nickel coil created from nickel wires in a Coiler Plant.</string>
+<string name="MA.Nickel_Housing.00.Title">Nickel Housing</string>
+<string name="MA.Nickel_Housing.01.Paragraph">A simple nickel housing created from nickel plates.</string>
+<string name="MA.Nickel_Ore_Ping.00.Title">Nickel Ore Ping</string>
+<string name="MA.Nickel_Ore_Ping.01.Paragraph">The Nickel ore Ping is used to find additional Nickel ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</string>
+<string name="MA.Nickel_Pipe.00.Title">Nickel Pipe</string>
+<string name="MA.Nickel_Pipe.01.Paragraph">A simple nickel pipe created from nickel bars in a Pipe Extrusion Plant.</string>
+<string name="MA.Nickel_Plate.00.Title">Nickel Plate</string>
+<string name="MA.Nickel_Plate.01.Paragraph">A simple nickel plate created from nickel bars in a Stamper Plant.</string>
+<string name="MA.Nickel_Wire.00.Title">Nickel Wire</string>
+<string name="MA.Nickel_Wire.01.Paragraph">A simple nickel wire created from nickel bars in an Extrusion Plant.</string>
+<string name="MA.Orange_GlowPod.00.Title">Orange GlowPod</string>
+<string name="MA.Orange_GlowPod.01.Paragraph">This native species of flora emits a steady orange glow due to a chemical reaction just below the surface of the plant.</string>
+<string name="MA.Orange_GlowPod.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.00.Title">Orbital Energy Transmitter Component</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.01.Paragraph">The culmination of our work on this planet. The Orbital Energy Transmitter (OET) will be able send enough energy into orbit for us to begin rebuilding a space station. We must protect our base while we power the OET, for if our Central Power Hub is badly damaged the OET will quickly discharge.</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.02.Header">Construction</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.03.Paragraph">The Orbital Energy Transmitter is a massive construction requiring 1053 components in total. It must be built 13m tall on a 9m by 9m base with a clear view of the sky..</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.04.Header">Specifications</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.05.Left">Total Power Required:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.06.Right">100,000,000
+					100,000 per second</string>
+<string name="MA.Ore_Smelter.00.Title">Ore Smelter</string>
+<string name="MA.Ore_Smelter.01.Paragraph">The smelter will convert raw ore into bars which can be used in the manufacturing plant and elsewhere to craft new machines and items.</string>
+<string name="MA.Ore_Smelter.02.Paragraph">Initially you will need to feed the smelter manually, this can be done by pressing the &apos;Interact&apos; button (default &apos;E&apos;) to open the smelter control panel. You can then add ore by pressing the &apos;Feed ore&apos; button, or by dragging a specific type of ore into the smelter. The control panel will indicate how much ore is required per bar while it is empty.</string>
+<string name="MA.Ore_Smelter.03.Paragraph">Once the smelter has enough ore it will begin heating up, this requires power from an attached power storage block or power generator. When it reaches the correct temperature it will begin converting ore into bars which can be collected by clicking on the output slot at the bottom of the control panel.</string>
+<string name="MA.Ore_Smelter.04.Header">Automation</string>
+<string name="MA.Ore_Smelter.05.Paragraph">The smelter should be automated as soon as possible with the addition of both input and output storage hoppers. The input hopper should be set to an I/O status of &apos;Remove only&apos;. The input hopper must be big enough to contain the minimum ore requirement.</string>
+<string name="MA.Ore_Smelter.06.Header">Upgrades</string>
+<string name="MA.Ore_Smelter.07.Paragraph">The speed (and power requirements) of the smelter can be increase through a number of forced induction upgrades which can be researched. Once crafted these upgrades should be placed on top of the smelter.</string>
+<string name="MA.Ore_Smelter.08.Header">Additional Smelters</string>
+<string name="MA.Ore_Smelter.09.Paragraph">The smelter you start with is an advanced piece of kit which is difficult to replicate. It will take a significant amount of research and some advanced materials to do so successfully. A basic smelter is also available to help relieve the bottleneck however it is slow, inefficient and cannot be upgraded.</string>
+<string name="MA.Ore_Thief.00.Title">Cyberdyne Ore Thief 3000 (tm)</string>
+<string name="MA.Ore_Thief.01.Paragraph">The newest machine to help out with your mining operation is the Ore Thief 3000! (patent pending). For a mere 9 Copper Bars, you too can avoid the drudgery and tedium of placing Ore into Storage Hoppers and instead allow us to do the hard work for you! 
+
+					With a massive 100 units of internal storage, the Ore Thief 3000 can offload to any adjacent Storage Hopper at up to 3,300 per minute! 
+
+					Simply build our brand-new Ore Thief 3000 (tm) in a 3x3 layout and supply with a mere 5 power per Ore, then just stand on it and let US do the hard work for you!</string>
+<string name="MA.Ore_Thief.02.Header">Specifications</string>
+<string name="MA.Ore_Thief.03.Left">Ore Collection Speed:
+					Internal Storage:
+					Power Usage:
+					</string>
+<string name="MA.Ore_Thief.04.Right">Upto 3,300/minute!
+					100 units of Ore!
+					Only 5 power per Ore!
+					</string>
+<string name="MA.Organic_Coal_Enricher.00.Title">Organic Coal Enricher</string>
+<string name="MA.Organic_Coal_Enricher.01.Paragraph">The Organic Coal Enricher uses a small amount of power to increase the power generated by coal in a Pyrothermic Generator. The Organic Coal Enricher uses 0.1 pps over the span of 15 seconds to process normal coal into Enriched Coal.</string>
+<string name="MA.Organic_Cutter_Head.00.Title">Organic Cutter Head</string>
+<string name="MA.Organic_Cutter_Head.01.Paragraph">Reduces wasted ore by improving the efficiency of our ore extraction process. Also allows the mining of harder materials. Cutter heads wear out over time.</string>
+<string name="MA.Organic_Cutter_Head.02.Paragraph">The Organic Cutter Head is made from the stinger of a local life form, it is far more efficient than the Steel Cutter Head but wears out more quickly.</string>
+<string name="MA.Organic_Cutter_Head.03.Header">Specifications</string>
+<string name="MA.Organic_Cutter_Head.04.Left">Efficiency:
+					Maximum Hardness:
+					Durability:</string>
+<string name="MA.Organic_Cutter_Head.05.Right">50%
+					250
+					1500</string>
+<string name="MA.Organic_Lens.00.Title">Organic Lens</string>
+<string name="MA.Organic_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Organic_Lens.02.Header">Specifications</string>
+<string name="MA.Organic_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Organic_Lens.04.Right">200%</string>
+<string name="MA.Organic_Power_Storage.00.Title">Organic Power Storage Block</string>
+<string name="MA.Organic_Power_Storage.01.Paragraph">The organic power storage block can hold a reserve of up to 8500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Organic_Power_Storage.02.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Organic_Power_Storage.03.Paragraph">The organic power storage block holds a lot of power relative to its cost, however it transfers power more slowly.</string>
+<string name="MA.Organic_Power_Storage.04.Header">Specifications</string>
+<string name="MA.Organic_Power_Storage.05.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Organic_Power_Storage.06.Right">8500
+					500 per second</string>
+<string name="MA.Organic_Rock.00.Title">Organic Rock</string>
+<string name="MA.Organic_Rock.01.Paragraph">Organic rock is a rock like formation naturally created by the local fauna. Organic Rock can be found scattered around the world more commonly found around Overminds and in cave systems. Organic Rock can also be obtained as a drop from Camobots.</string>
+<string name="MA.Overclocked_Crystal.00.Title">Overclocked Crystal</string>
+<string name="MA.Overclocked_Crystal.01.Paragraph">Overclocked Crystals are a more advanced crystal clock created by overclocking a normal Crystal Clock using enormous amounts of power. Overclocked Crystals are used in a large variety of advanced machines more commonly of the tier 4 variety. </string>
+<string name="MA.PCB_Assembling_Plant.00.Title">PCB Assembling Plant</string>
+<string name="MA.PCB_Assembling_Plant.01.Paragraph">The PCB Assembling Plant is a regular conveyor fitted with a machine for manufacturing printed circuit boards from coils of wire.</string>
+<string name="MA.PCB_Assembling_Plant.02.Header">Usage</string>
+<string name="MA.PCB_Assembling_Plant.03.Paragraph">Feed coils into the PCB Assembling Plant from another conveyor, conveyor based machine, or conveyor turntable. The PCB Assembling Plant will convert the coils into PCBs which can be used in additional recipies.</string>
+<string name="MA.PCB_Assembling_Plant.04.Paragraph">The PCB Assembling Plant is essential for the automation of laboratory research.</string>
+<string name="MA.Particle_Compressor.00.Title">Particle Compressor</string>
+<string name="MA.Particle_Compressor.01.Paragraph">The Particle Compressor is used to compress the outputs of a maximum of 4 Particle Filters into a denser usable form. The output of the Particle Compressor is so dense that it resembles a liquid when outputted. The Particle Compressor is built in a 3x3x3 formation.</string>
+<string name="MA.Particle_Filter.00.Title">Particle Filter</string>
+<string name="MA.Particle_Filter.01.Paragraph">The Particle Filter is an advanced version of the suit’s Particulate filtration system, using the primitive technology previously used to facilitate survival in the toxic caverns we are now able to stripe specific partials from the particulate dense air found in the various caverns. The Particle Filter is built in a 5x3x5 formation.</string>
+<string name="MA.Particle_Storage.00.Title">Particle Storage</string>
+<string name="MA.Particle_Storage.01.Paragraph">The Particle Storage is used to store the output of a maximum of 4 Particle Compressors. This multi-block facilitates the storage of the collected and compressed particles before bottling. The Particle Storage is built in a 3x7x3 formation.</string>
+<string name="MA.Perfect_Faceted_Eye.00.Title">Perfect Faceted Eye</string>
+<string name="MA.Perfect_Faceted_Eye.01.Paragraph">The eyes from the local flying lifeforms make excellent optical component. This one has come from one of the larger specimens and is in good enough condition to be used.</string>
+<string name="MA.Pipe_Coater.00.Title">Pipe Coater</string>
+<string name="MA.Pipe_Coater.01.Paragraph">Using advanced bonding techniques, the high heat and pressure resistance of Crystal Fiber Mesh can now be applied to Copper Pipes using plastic pellets due to their unique molecular structure acting as a bonding agent. The bonding process takes 300 power at a rate of 50 pps to ensure an even coating.</string>
+<string name="MA.Pipe_Extrusion_Plant.00.Title">Pipe Extrusion Plant</string>
+<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">The Pipe Extrusion Plant is a regular conveyor fitted with a machine for converting metal bars into pipes.</string>
+<string name="MA.Pipe_Extrusion_Plant.02.Header">Usage</string>
+<string name="MA.Pipe_Extrusion_Plant.03.Paragraph">Feed bars into the Pipe Extrusion Plant from another conveyor, conveyor based machine, or conveyor turntable. The Pipe Extrusion Plant will convert the bars into pipes which can be used in additional recipies.</string>
+<string name="MA.Pipe_Extrusion_Plant.04.Paragraph">The Pipe Extrusion Plant is essential for the automation of missile production.</string>
+<string name="MA.Plastic_Pellet.00.Title">Plastic Pellet</string>
+<string name="MA.Plastic_Pellet.01.Paragraph">Plastics can be manufactured in a Refinery Reactor Vat from Biomass. They are used in the construction of jet turbines.</string>
+<string name="MA.Power_Storage_Block.00.Title">Power Storage Block</string>
+<string name="MA.Power_Storage_Block.01.Paragraph">The power storage block can hold a reserve of up to 200 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Power_Storage_Block.02.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Power_Storage_Block.03.Paragraph">Upgrades to the basic power storage block can be unlocked at the research station.</string>
+<string name="MA.Power_Storage_Block.04.Header">Specifications</string>
+<string name="MA.Power_Storage_Block.05.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Power_Storage_Block.06.Right">200
+					None</string>
+<string name="MA.Power_Storage_MK2.00.Title">Power Storage Block MK 2</string>
+<string name="MA.Power_Storage_MK2.01.Paragraph">The power storage block MK 2 can hold a reserve of up to 1500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Power_Storage_MK2.02.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Power_Storage_MK2.03.Header">Specifications</string>
+<string name="MA.Power_Storage_MK2.04.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Power_Storage_MK2.05.Right">1500
+					None</string>
+<string name="MA.Power_Storage_MK3.00.Title">Power Storage Block MK 3</string>
+<string name="MA.Power_Storage_MK3.01.Paragraph">The power storage block MK 3 can hold a reserve of up to 5000 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Power_Storage_MK3.02.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Power_Storage_MK3.03.Header">Specifications</string>
+<string name="MA.Power_Storage_MK3.04.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Power_Storage_MK3.05.Right">5000
+					None</string>
+<string name="MA.Power_Storage_MK4.00.Title">Power Storage Block MK4</string>
+<string name="MA.Power_Storage_MK4.01.Paragraph">The power storage block MK4 can hold a reserve of up to 270000 energy. It will take energy from multiple attached generators and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Power_Storage_MK4.02.Paragraph">This battery has double the density of MK3 Power Storage Blocks and it is highly recommended that you upgrade as soon as possible. They are constructed in a 3x3x3 cube, totalling 27 blocks.</string>
+<string name="MA.Power_Storage_MK4.03.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Power_Storage_MK4.04.Header">Specifications</string>
+<string name="MA.Power_Storage_MK4.05.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Power_Storage_MK4.06.Right">270000
+					10,000 per machine</string>
+<string name="MA.Power_Storage_MK5.00.Title">Power Storage Block MK5</string>
+<string name="MA.Power_Storage_MK5.01.Paragraph">The power storage block MK5 can hold a reserve of up to 4.5 million energy. It will take energy from multiple attached generators and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</string>
+<string name="MA.Power_Storage_MK5.02.Paragraph">This battery has quadruple the density of MK3 Power Storage Blocks and it is highly recommended that you upgrade as soon as possible. They are constructed in a 5x9x5 shape, totalling 225 blocks.</string>
+<string name="MA.Power_Storage_MK5.03.Paragraph">Energy can be extracted from the power storage block by pressing the &apos;Extract&apos; key (default &apos;Q&apos;), and inserted using the &quot;Interact&quot; key (default &apos;E&apos;).</string>
+<string name="MA.Power_Storage_MK5.04.Header">Specifications</string>
+<string name="MA.Power_Storage_MK5.05.Left">Power Capacity:
+					Maximum Power Transfer Rate:</string>
+<string name="MA.Power_Storage_MK5.06.Right">4.5 million
+					10,000 per machine</string>
+<string name="MA.PowerBoosterChargerMK1.00.Title">Power Booster Charger MK1</string>
+<string name="MA.PowerBoosterChargerMK1.01.Paragraph">This machine will auto-craft and charge up the MK1 Power Boosters. Uses Copper Coils and some power.</string>
+<string name="MA.PowerBoosterChargerMK1.02.Header">Specifications</string>
+<string name="MA.PowerBoosterChargerMK1.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterChargerMK1.04.Right">100</string>
+<string name="MA.PowerBoosterMK1.00.Title">ARTHER Power Booster MK1</string>
+<string name="MA.PowerBoosterMK1.01.Paragraph">Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines. These are auto-crafted by Power Booster Chargers.</string>
+<string name="MA.PowerBoosterMK1.02.Header">Specifications</string>
+<string name="MA.PowerBoosterMK1.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterMK1.04.Right">100</string>
+<string name="MA.PowerBoosterMK2.00.Title">ARTHER Power Booster MK2</string>
+<string name="MA.PowerBoosterMK2.01.Paragraph">Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</string>
+<string name="MA.PowerBoosterMK2.02.Header">Specifications</string>
+<string name="MA.PowerBoosterMK2.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterMK2.04.Right">250</string>
+<string name="MA.PowerBoosterMK3.00.Title">ARTHER Power Booster MK3</string>
+<string name="MA.PowerBoosterMK3.01.Paragraph">Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</string>
+<string name="MA.PowerBoosterMK3.02.Header">Specifications</string>
+<string name="MA.PowerBoosterMK3.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterMK3.04.Right">500</string>
+<string name="MA.PowerBoosterMK4.00.Title">ARTHER Power Booster MK4</string>
+<string name="MA.PowerBoosterMK4.01.Paragraph">Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</string>
+<string name="MA.PowerBoosterMK4.02.Header">Specifications</string>
+<string name="MA.PowerBoosterMK4.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterMK4.04.Right">1000</string>
+<string name="MA.PowerBoosterMK5.00.Title">ARTHER Power Booster MK5</string>
+<string name="MA.PowerBoosterMK5.01.Paragraph">Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines.</string>
+<string name="MA.PowerBoosterMK5.02.Header">Specifications</string>
+<string name="MA.PowerBoosterMK5.03.Left">Power Restored:</string>
+<string name="MA.PowerBoosterMK5.04.Right">2500</string>
+<string name="MA.Primary_PCB.00.Title">Primary PCB</string>
+<string name="MA.Primary_PCB.01.Paragraph">A tin based PCB created from tin coils in a PCB Assembling Plant.</string>
+<string name="MA.Pristine_Faceted_Eye.00.Title">Pristine Faceted Eye</string>
+<string name="MA.Pristine_Faceted_Eye.01.Paragraph">The eyes from the local flying lifeforms make excellent optical component. This one is in good enough condition to be used.</string>
+<string name="MA.Pristine_Heavy_Chitin.00.Title">Pristine Heavy Chitin</string>
+<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">Pronounced KY-tin, Chitin is a long-chain polymer containing carbon, hydrogen, oxygen and nitrogen. It appears to be a fundamental component of many local lifeforms.</string>
+<string name="MA.Pristine_Light_Chitin.00.Title">Pristine Light Chitin</string>
+<string name="MA.Pristine_Light_Chitin.01.Paragraph">Pronounced KY-tin, Chitin is a long-chain polymer containing carbon, hydrogen, oxygen and nitrogen. It appears to be a fundamental component of many local lifeforms.</string>
+<string name="MA.Pristine_Phosphorescent_Gland.00.Title">Pristine Phosphorescent Gland</string>
+<string name="MA.Pristine_Phosphorescent_Gland.01.Paragraph">These glands from the local lifeforms appear to have properties making them suitable for power storage. This one is in good enough condition to be used. If we could find some way of trapping and killing the slimes on this planet, then we could farm many of these.</string>
+<string name="MA.Pristine_Stinger.00.Title">Pristine Stinger</string>
+<string name="MA.Pristine_Stinger.01.Paragraph">This stinger is exceptionally sharp but relatively fragile. It may have useful applications in the field of ore extraction.</string>
+<string name="MA.Purple_GlowPod.00.Title">Purple GlowPod</string>
+<string name="MA.Purple_GlowPod.01.Paragraph">This native species of flora emits a steady purple glow due to a chemical reaction just below the surface of the plant.</string>
+<string name="MA.Purple_GlowPod.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Pyrothermic_Generator.00.Title">Pyrothermic Generator</string>
+<string name="MA.Pyrothermic_Generator.01.Paragraph">The Pyrothermic Generator is the earliest method of generating power once you outgrow the capabilities of the Central Power Hub. It will look for an attached storage hopper containing combustible material and burn it to generate power. The unit itself is capable of storing up to 1000 power which it will distribute to any machine or Power Storage Block attached to it.</string>
+<string name="MA.Pyrothermic_Generator.02.Paragraph">Pyrothermic Generators require a large amount of oxygen to operate, the lack of ventilation underground will quickly decrease the efficiency of the generator with depth. You should consider using Laser Power Transmitters to transfer power from the surface down to your deeper mining operations. </string>
+<string name="MA.Pyrothermic_Generator.03.Header">Specifications</string>
+<string name="MA.Pyrothermic_Generator.04.Left">Power (plentiful):
+					Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</string>
+<string name="MA.Pyrothermic_Generator.05.Right">9.7 per second (coal)
+					3.9 per second (coal)
+					1000
+					32 per second
+					180 seconds
+					Wood, Coal.</string>
+<string name="MA.Rack_Rail.00.Title">Rack Rail</string>
+<string name="MA.Rack_Rail.01.Paragraph">Rails used by cargo lifts to transport materials.</string>
+<string name="MA.Rack_Rail.02.Paragraph">Refer to Cargo Lift Controller for more information.</string>
+<string name="MA.Rack_Railer.00.Title">Rack Railer</string>
+<string name="MA.Rack_Railer.01.Paragraph">The Rack Railer is a machine capable of molding a pair of iron bars into a usable rail for the cargo lift system.</string>
+<string name="MA.Rack_Railer.02.Header">Specifications</string>
+<string name="MA.Rack_Railer.03.Left">Required power:</string>
+<string name="MA.Rack_Railer.04.Right">100pps</string>
+<string name="MA.Rack_Railer.05.Paragraph">Refer to Cargo Lift Controller for more information.</string>
+<string name="MA.Red_Canvas.00.Title">Red Canvas</string>
+<string name="MA.Red_Canvas.01.Paragraph">Full red beautification block.</string>
+<string name="MA.Refinery_Controller.00.Title">Refinery Controller</string>
+<string name="MA.Refinery_Controller.01.Paragraph">The refinery allows you to recombine carbohydrates found on the alien planet into useful materials. To operate, it requires two parts: The Refinery Controller and a Refinery Reactor Vat. </string>
+<string name="MA.Refinery_Controller.02.Paragraph">The Refinery Controller is the machine that maintains the precise chemical balances required to create the desired products. In order to function, the raw product needs to be supplied to the controller, as well as enough power to function. Storage hoppers connected to the controller can receive the output product.
+
+Connecting a controller to a vat is as simple as placing the controller anywhere directly against the vat. If connected, the popup window will display this, and the controller will orient itself towards the vat and extend pipes to connect to it. 
+
+A refinery can process only one product at a time: You can cycle through the different recipes by pressing ‘e’ while having the controller selected. It can only start producing a new result until the internal storage can accommodate it; if a different product is still in there, production cannot continue.
+
+You can retrieve products from the controller by pressing ‘q’, or by connecting a storage hopper.</string>
+<string name="MA.Refinery_Controller.03.Header">Specifications</string>
+<string name="MA.Refinery_Controller.04.Left">Manufacturing Time:
+					Power Required:
+					Power Capacity:
+					Maximum Recharge Rate:</string>
+<string name="MA.Refinery_Controller.05.Right">10 seconds (per vat)
+					100 per second (per vat)
+					3000 (per vat)
+					100 per second (per vat)</string>
+<string name="MA.Refinery_Reactor_Vat.00.Title">Refinery Reactor Vat</string>
+<string name="MA.Refinery_Reactor_Vat.01.Paragraph">The refinery allows you to recombine carbohydrates found on the alien planet into useful materials. To operate, it requires two parts: The Refinery Controller and a Refinery Reactor Vat. </string>
+<string name="MA.Refinery_Reactor_Vat.02.Paragraph">A refinery reactor vat is a large structure built from Reactor Vat Component blocks. When placed in a solid 3 by 3 by 3 configuration, the vat will display as a large machine.
+
+The reactor vat contains the chemical processes required to recombine carbohydrates. In order to function, it must be connected to a controller. It is possible to stack vats on top of each one connected to controller, in order to allow the controller to operate on multiple vats at the same time. This will give you a linear increase in production and power cost, as well as storage of output product: Each vat can store 10 completed products before it will run out of room to process more. The bonus in using more vats on one controller is to avoid having to make multiple expensive refinery controllers.
+
+Each vat contains many electrical conduits as well as many transport pipes. Because of this, any power supplied to the vats will also be delivered to the connected controller. Maximum power storage of the refinery depends on the amount of vats connected.</string>
+<string name="MA.Reinforced_Rock.00.Title">Reinforced Rock</string>
+<string name="MA.Reinforced_Rock.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Reinforced_Wood.00.Title">Reinforced Wood</string>
+<string name="MA.Reinforced_Wood.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Research_Assembler.00.Title">Research Assembler</string>
+<string name="MA.Research_Assembler.01.Paragraph">Automatically manufactures experimental research pods from metal plates and PCBs. This should then be connected directly to your Laboratory to provide automated research. 
+					It&apos;s recommended to automate production of these via filters for efficient production, due to their time-consuming nature.
+					</string>
+<string name="MA.Research_Assembler.02.Header">Specifications</string>
+<string name="MA.Research_Assembler.03.Left">Manufacturing Time:
+					Power Required(Peak):
+					Power Capacity:
+					Maximum Recharge Rate:</string>
+<string name="MA.Research_Assembler.04.Right">15 seconds
+					128 per second
+					100
+					100 per second</string>
+<string name="MA.Research_Station.00.Title">Research Station</string>
+<string name="MA.Research_Station.01.Paragraph">The research station provides the facilities needed to understand more about this planet; its minerals, fauna and flora. It allows you to process the information recorded by your scanning tool as well as research the new technologies to help you survive. Many of the more advanced research topics are beyond the capabilities of the research station and require assisance from a laboratory.</string>
+<string name="MA.Research_Station.02.Paragraph">To use the research station face is and press your interact key (default &apos;E&apos;). This will open the research terminal which contains three tabs for processing scans, recipes and projects.</string>
+<string name="MA.Research_Station.03.Header">Processing Scans</string>
+<string name="MA.Research_Station.04.Paragraph">Your suit comes equipped with a scanning tool (default &apos;M&apos;), the secondary action on this tool allows you to scan an unknown material in the world. The tool will also automatically scan any unknown material absorbed by your build tool. This information is uplinked to the research station.</string>
+<string name="MA.Research_Station.05.Paragraph">The first tab in the research station lists any remaining unknown materials and allows you to process these scans to learn more about them. Processing the scan will cost power and grants the number of research points shown which can be used to research additional recipes or projects.</string>
+<string name="MA.Research_Station.06.Header">Researching Recipes</string>
+<string name="MA.Research_Station.07.Paragraph">Processing scans and completing research projects can unlock new recipies to be researched. These are typically new machines which can help you survive and progress on your journey. Each has a cost in research points and power, you should spend your research points carefully, if you run out you&apos;ll need to venture further afield in search new materials to scan.</string>
+<string name="MA.Research_Station.08.Paragraph">Most of the recipes you research can then be crafted in the manufacturing plant, some will require specialised construction facility. Check the survival handbook entry on the machine for more information.</string>
+<string name="MA.Research_Station.09.Paragraph">The research station can be powered directly from the Central Power Hub (CPH), however the power transfer rate will be limited when the CPH is low on power.</string>
+<string name="MA.Research_Station.10.Header">Researching Projects</string>
+<string name="MA.Research_Station.11.Paragraph">Projects typically improve your technology level in a particular area unlocking new recipes either directly or through the recipes tab in the research station. Simple projects can be performed by the research station alone at the cost of power and research points. More complicated projects require the assistance of the laboratory. The laboratory is itself a research project which must be unlocked.</string>
+<string name="MA.Research_Station.12.Paragraph">
+						</string>
+<string name="MA.ResearchParts.00.Title">Research Parts</string>
+<string name="MA.ResearchParts.01.Paragraph">The crashed cargo pod appears to have a number of advanced pieces of circuitry we&apos;re just unable to reproduce on the surface. Taking this to your lab and using the Analyse mode when it&apos;s in an attached Storage Hopper should yield some useful research!</string>
+<string name="MA.Rock.00.Title">Rock</string>
+<string name="MA.Rock.01.Paragraph">Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</string>
+<string name="MA.Rough_Hewn_Rock.00.Title">Rough Hewn Rock</string>
+<string name="MA.Rough_Hewn_Rock.01.Paragraph">Rock found just below the surface. Can be crushed in macerator to possibly extract useful ore.</string>
+<string name="MA.Rubble.00.Title">Rubble</string>
+<string name="MA.Rubble.01.Paragraph">Found as by-product during manual ore mining. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</string>
+<string name="MA.Ruby_Crystal.00.Title">Ruby Crystal</string>
+<string name="MA.Ruby_Crystal.01.Paragraph">A ruby crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -150 to -225.</string>
+<string name="MA.Ruby_Focusing_Lens.00.Title">Ruby Focusing Lens</string>
+<string name="MA.Ruby_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Ruby_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Ruby_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Ruby_Focusing_Lens.04.Right">150%</string>
+<string name="MA.Ruined_Faceted_Eye.00.Title">Ruined Faceted Eye</string>
+<string name="MA.Ruined_Faceted_Eye.01.Paragraph">The eyes from the local flying lifeforms make excellent optical component. This one is too badly damaged to be of any use.</string>
+<string name="MA.Ruined_Heavy_Chitin.00.Title">Ruined Heavy Chitin</string>
+<string name="MA.Ruined_Heavy_Chitin.01.Paragraph">Pronounced KY-tin, Chitin is a long-chain polymer containing carbon, hydrogen, oxygen and nitrogen. It appears to be a fundamental component of many local lifeforms.</string>
+<string name="MA.Ruined_Light_Chitin.00.Title">Ruined Light Chitin</string>
+<string name="MA.Ruined_Light_Chitin.01.Paragraph">Pronounced KY-tin, Chitin is a long-chain polymer containing carbon, hydrogen, oxygen and nitrogen. It appears to be a fundamental component of many local lifeforms.</string>
+<string name="MA.Ruined_Phosphorescent_Gland.00.Title">Ruined Phosphorescent Gland</string>
+<string name="MA.Ruined_Phosphorescent_Gland.01.Paragraph">These glands from the local flying lifeforms appear to have properties making them suitable for power storage. This one is too badly damaged to be of any use.</string>
+<string name="MA.Ruined_Stinger.00.Title">Ruined Stinger</string>
+<string name="MA.Ruined_Stinger.01.Paragraph">This stinger is exceptionally sharp but too badly damaged to be of any use.</string>
+<string name="MA.Sand.00.Title">Sand</string>
+<string name="MA.Sand.01.Paragraph">Sand is a block naturally found in the world. Sand appears to act similar to a fluid as surrounding san will replace any removed sand if said removed sand is at a lower level than the sand surrounding it.</string>
+<string name="MA.Sapphire_Crystal.00.Title">Sapphire Crystal</string>
+<string name="MA.Sapphire_Crystal.01.Paragraph">A sapphire crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -225 to -300.</string>
+<string name="MA.Sapphire_Focusing_Lens.00.Title">Sapphire Focusing Lens</string>
+<string name="MA.Sapphire_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Sapphire_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Sapphire_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Sapphire_Focusing_Lens.04.Right">190%</string>
+<string name="MA.Servo_Motor.00.Title">Servo Motor</string>
+<string name="MA.Servo_Motor.01.Paragraph">Accurate and fast motor.</string>
+<string name="MA.Sign.00.Title">Sign</string>
+<string name="MA.Sign.01.Paragraph">Using technology adapted from the crashed ship further improvements have been made on the Cyberdyne EZ-Sign. This new sign is able to be placed and edited. The Sign should be able to display any standard character that the player can type on an international keyboard.</string>
+<string name="MA.Simplified_Experimental_Pod.00.Title">Simplified Experimental Pod</string>
+<string name="MA.Simplified_Experimental_Pod.01.Paragraph">Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Simplified_Experimental_Pod.02.Paragraph">For more information on creating experimentation pods please read the following guide.</string>
+<string name="MA.Slime_Attractor.00.Title">Slime Attractor</string>
+<string name="MA.Slime_Attractor.01.Paragraph">	The Slime Attractor is the first step to defeating the menaces that roam this hostile environment. Using the rotting remains of their comrades the attraction of slimes is now possible. </string>
+<string name="MA.Slime_Attractor.02.Paragraph">	Though turret technology cannot detect this specific menace the frequent deaths of slimes at the hands of gravity shows that slimes are not invincible to more natural means of destruction.</string>
+<string name="MA.Slime_Attractor.03.Header">Specifications</string>
+<string name="MA.Slime_Attractor.04.Left">Requires power:
+					Requirments:</string>
+<string name="MA.Slime_Attractor.05.Right">No
+					Spoiled Organic Remains</string>
+<string name="MA.Slime_Attractor.06.Title">Troubleshooting </string>
+<string name="MA.Slime_Attractor.07.Paragraph">* Slimes will occasionally get stuck due to poor pathing to the trap, or a bad spawn location. A well-running trap should have Slimes dying on a regular basis. If that&apos;s not the case, walk around and look for trouble spots where slimes collect in groups.</string>
+<string name="MA.Slime_Attractor.08.Paragraph">* Like players, Slimes can travel up 1m block heights automatically. Therefore, look for hills and valleys that Slimes may be stuck behind because there isn&apos;t a smooth transition in heights. If you find any try to smooth it out for them. If it&apos;s a large mountain, often a simple tunnel can provide an adequate path. Additionally, Slimes can get stuck in 1m tall spaces. Like players, they need 2m tall spaces to move, so either fill in the 1m tall gaps (kill the slime with your gun first) or dig out a 2m space.</string>
+<string name="MA.Slime_Attractor.09.Paragraph">* Try building your Slime Attractor far from your base. Underground floors that have been excavated as well as well as terrain damage from SpiderBot can all create unexpected terrain complications for Slimes. </string>
+<string name="MA.Snow.00.Title">Snow</string>
+<string name="MA.Snow.01.Paragraph">A mixture of dirt and snow which apears to be ubiquitous on this world.</string>
+<string name="MA.Soft_Resin.00.Title">Soft Resin</string>
+<string name="MA.Soft_Resin.01.Paragraph">Soft Resin appears to be a byproduct of the Overminds attempts to reach the Central Power Hub. It&apos;s most usually located diagonally from our base, on the surface. Organic Rock is plentiful here.</string>
+<string name="MA.Solar_Cell_MK1.00.Title">Solar Cell MK1</string>
+<string name="MA.Solar_Cell_MK1.01.Paragraph">One of the first upgrades you should research, craft and fit, the MK1 Solar Cell provides significantly more power generation to the hazard suit whilst on the planet&apos;s surface.</string>
+<string name="MA.Solar_Panel.00.Title">Solar Panel</string>
+<string name="MA.Solar_Panel.01.Paragraph">Solar Panels are a low maintenance source of renewable power. They must be placed with direct access to the sky above them and will only generate power during the day. They will distribute this power to any adjacent machine, Power Storage Block or Laser Power Transmitter.</string>
+<string name="MA.Solar_Panel.02.Paragraph">Solar Panels have a low internal power capacity and should therefore be backed up by a suitable number of Power Storage Blocks to ensure a reliable supply of power at all times.</string>
+<string name="MA.Solar_Panel.03.Header">Specifications</string>
+<string name="MA.Solar_Panel.04.Left">Peak Power (plentiful):
+					Peak Power (scarce):
+					Power Capacity:
+					Maximum Power Transfer Rate:
+					Burn Time:
+					Fuel:</string>
+<string name="MA.Solar_Panel.05.Right">22.5 per second
+					9 per second
+					64
+					32 per second
+					n/a
+					Sunlight</string>
+<string name="MA.Space_Window.00.Title">Space Window</string>
+<string name="MA.Space_Window.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.SpiderBotBaseComponent.00.Title">SpiderBot Base</string>
+<string name="MA.SpiderBotBaseComponent.01.Paragraph">The SpiderBot Base is your primary method of interaction with your mobile base-defence robot, affectionally known as SpiderBot, SpiderBro or Henrietta, depending on which gender you&apos;ve selected.
+
+					All power and upgrades are deliverered to your Spiderbot base via Logistics Hoppers. Each attached hopper is capable of delivering 1 item to the SpiderBot every 1.2 seconds; utilise plenty of space along the sides for maximum throughput.
+
+					SpiderBot himself is capable of holding 150,000 power. Power is delivered via the SpiderBot Base Charger, creating SpiderBot Power Cores. These are placed into attached Logistics Hoppers.
+
+					SpiderBot has 3 tiers of weapon upgrade. Each of these will need to be crafted by hand and placed into an attached Logistics Hopper. SpiderBot will then automatically return to the dock and collect and fit the item. 
+
+					Only one of each of the weapon upgrade items is required; duplicates will be ignored.
+					</string>
+<string name="MA.SpiderBotBaseComponent.02.Title">Available Fitted Upgrades</string>
+<string name="MA.SpiderBotBlaster.00.Title">SpiderBot Blaster</string>
+<string name="MA.SpiderBotBlaster.01.Paragraph">This under-slung weapon can target a single enemy and will provide a small amount of rapid-fire defence against faster-moving, smaller targets. Be aware that fitting this can cause major damage to loose topsoil and snow. Be sure you&apos;re prepared for a war-torn zone before fitting this badboy!</string>
+<string name="MA.SpiderBotBlaster.02.Header">You only need to craft and fit one of these!</string>
+<string name="MA.SpiderBotCannon.00.Title">SpiderBot Cannons</string>
+<string name="MA.SpiderBotCannon.01.Paragraph">This pair of front-mounted cannons are capable of dealing with medium to large targets. They are independently targetting, and will intelligently ignore smaller targets and focus on larger, armoured ones.</string>
+<string name="MA.SpiderBotCannon.02.Header">You only need to craft and fit one of these - they come as a set!</string>
+<string name="MA.SpiderBotRifle.00.Title">SpiderBot Particle Rifles</string>
+<string name="MA.SpiderBotRifle.01.Paragraph">This pair of shoulder-mounted particle rifles are capable of dealing heavy damage to the very largest of targets. They are independently targetting, and will intelligently ignore smaller targets and focus on boss-class mobs.</string>
+<string name="MA.SpiderBotRifle.02.Header">You only need to craft and fit one of these - they come as a set!</string>
+<string name="MA.Stamper_Plant.00.Title">Stamper Plant</string>
+<string name="MA.Stamper_Plant.01.Paragraph">The stamper plant is a regular Conveyor fitted with a machine for stamping metal Bars into Plates.</string>
+<string name="MA.Stamper_Plant.02.Header">Usage</string>
+<string name="MA.Stamper_Plant.03.Paragraph">Feed metal bars into the stamper from another Conveyor, Conveyor-based machine, or Conveyor Turntable. The stamper will convert the Bars into Plates which can be used in additional recipes.</string>
+<string name="MA.Stamper_Plant.04.Paragraph">The stamper is essential for the automation of laboratory research.</string>
+<string name="MA.Steel_Cutter_Head.00.Title">Steel Cutter Head</string>
+<string name="MA.Steel_Cutter_Head.01.Paragraph">Reduces wasted ore by improving the efficiency of ore extractor. Also allows the mining of harder materials. Cutter heads wear out over time.</string>
+<string name="MA.Steel_Cutter_Head.02.Header">Specifications</string>
+<string name="MA.Steel_Cutter_Head.03.Left">Efficiency:
+					Maximum Hardness:
+					Durability:</string>
+<string name="MA.Steel_Cutter_Head.04.Right">20%
+					250
+					10000</string>
+<string name="MA.Storage_Crate.00.Title">Storage Crate</string>
+<string name="MA.Storage_Crate.01.Paragraph">Read &apos;chest&apos;. Placing Storage crates next to each other will create a larger combined storage. Each crate has 2 item slots.</string>
+<string name="MA.Storage_Hopper.00.Title">Storage Hopper</string>
+<string name="MA.Storage_Hopper.01.Paragraph">The storage hopper is one of the most important machines for automating your base. It has a storage capacity of 100 items and can process items very quickly. Cheaper alternatives with a smaller capacity and longer processing time are available and can be useful when first setting up a base.</string>
+<string name="MA.Storage_Hopper.02.Header">I/O Status</string>
+<string name="MA.Storage_Hopper.03.Paragraph">The storage hopper can be set to one of four input/output statuses. These are: Add/Remove, Remove Only, Add Only and Locked. The status can be cycled by pressing the &apos;Interact&apos; key (default &apos;E&apos;). These status codes only apply to standalone machines, such as a smelter or assembly plant. They do not apply to conveyors or conveyor based assembly machines with the single exception that a locked hopper will not output onto a conveyor.</string>
+<string name="MA.Storage_Hopper.04.Paragraph">A machine will only extract from a hopper if it is set to Add/Remove or Remove Only and will only place items back into the hopper if it is set to Add/Remove or Add Only. For machines which have both an input and output it is advisable to have two hoppers, one set to Remove Only containing the raw materials, and one set to Add Only into which the manufactured component will be placed. This will ensure the system does not become deadlocked.</string>
+<string name="MA.Storage_Hopper.05.Header">Conveyors</string>
+<string name="MA.Storage_Hopper.06.Paragraph">The I/O status does not apply to conveyors, this allows you to use them to insert raw materials into a machine input hopper marked as &apos;Remove Only&apos; and vice versa. Any conveyor directly facing the hopper will insert materials into that hopper. The hopper will output onto any other conveyor above, below or to the side of it unless the hopper is locked.</string>
+<string name="MA.Storage_Hopper.07.Header">Manually Storing Items</string>
+<string name="MA.Storage_Hopper.08.Paragraph">While the hopper is intended to be used for automation it is possible to manually store items within it by pressing the &apos;Store&apos; key (default &apos;T&apos;). The selected item or stack in the hotbar will be stored in the hopper if there is space. You can also store 10 items only by pressing Shift+T. To store an exact amount you can split the stack in your inventory (hold Shift and drag). Each press of T will insert the last matching stack in your inventory.</string>
+<string name="MA.Storage_Hopper.09.Header">Manually Extracting Items</string>
+<string name="MA.Storage_Hopper.10.Paragraph">All items in a hopper can be removed by pressing the &apos;Extract&apos; key (default &apos;Q&apos;).</string>
+<string name="MA.Storage_Hopper.11.Header">Toggle Vacuum Mode</string>
+<string name="MA.Storage_Hopper.12.Paragraph">The vacuum mode can be toggled using a modified interact (default &apos;Shift+E&apos;). When the vacuum mode is turned on the hopper will suck in any nearby objects so long as there is enough storage space remaining.</string>
+<string name="MA.Sugalite_Crystal.00.Title">Sugalite Crystal</string>
+<string name="MA.Sugalite_Crystal.01.Paragraph">A sugalite crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -375 to -2500+.</string>
+<string name="MA.Sugalite_Crystal.02.Header">Tricks and Tips.</string>
+<string name="MA.Sugalite_Crystal.03.Paragraph">You may encounter sugalite crystals in all deep caves. It&apos;s a rare find. At extreme depths cave generation stops.</string>
+<string name="MA.Sugalite_Focusing_Lens.00.Title">Sugalite Focusing Lens</string>
+<string name="MA.Sugalite_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Sugalite_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Sugalite_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Sugalite_Focusing_Lens.04.Right">300%</string>
+<string name="MA.Suit_Cooler_MK1.00.Title">Suit Cooler MK1</string>
+<string name="MA.Suit_Cooler_MK1.01.Paragraph">A much stronger thermal core allows the upgraded Suit Heater to keep the user safe at temperatures well above boiling. Power usage is also increased. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Suit_Headlight_MK1.00.Title">Suit Headlight MK1</string>
+<string name="MA.Suit_Headlight_MK1.01.Paragraph">Halogen technology allows you to run the headlight at full power with a more efficient use of energy. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Suit_Heater_MK1.00.Title">Suit Heater MK1</string>
+<string name="MA.Suit_Heater_MK1.01.Paragraph">A much stronger thermal core allows the upgraded Suit Heater to keep the user safe at temperatures down to near Absolute Zero. Power usage is also increased. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Suit_Power_Pack_MK1.00.Title">Suit Power Pack MK1</string>
+<string name="MA.Suit_Power_Pack_MK1.01.Paragraph">The Suit Power Pack MK1 is an additional mountable battery that increases the suit’s native internal buffer of 256 power units to 512 power units. This upgrade is primitive and has room for further improvement. Further improvement of this upgrade is impossible until a better heat conducting material can be found to assist in the necessary cooling technology so that the power storage units’ ambient heat does not compromise the suit’s life support systems.</string>
+<string name="MA.Suit_Power_Pack_MK2.00.Title">Suit Power Pack MK2</string>
+<string name="MA.Suit_Power_Pack_MK2.01.Paragraph">The Suit Power Pack MK2 is an additional mountable battery that improves upon its predecessor by increasing the suit’s native internal buffer. This upgrade again doubles the internal buffer from 512 power units to 1024 power units. While the cooling issues have been henceforth solved an additional issue has reared its head. A further upgrade in capacity is, unfortunately, impossible until a new material for a more advanced electromagnetic shielding system can be found.</string>
+<string name="MA.T1_Lift.00.Title">Lift w/underside Piston</string>
+<string name="MA.T1_Lift.01.Paragraph">A lift with a piston which raises and lowers a platform. A wireless connection to your suit allows the lift to raise or lower automatically to your location when you approach the lift shaft. This can be augmented with a manual control module to allow precise movement at the behest of anyone using the lift. A lift can move significantly faster when not encumbered by the weight of a player, and will do so if a player is detected near the lift shaft at any height reachable by the lift.</string>
+<string name="MA.T1_Lift.02.Paragraph">Interact (default &apos;E&apos;) with the lift to adjust the maximum range, fine tune with alternate interact (default &apos;Shift+E&apos;). Upgrade the lift with powered compressors to regenerate gas faster maintaining performance for heavily used lifts. A powered compressor is already required for the lift to extend beyond 64m (32m in lowest detail setting).</string>
+<string name="MA.T1_Lift.03.Header">Specifications</string>
+<string name="MA.T1_Lift.04.Left">Maximum Speed (with gas):
+					Maximum Speed (no gas):
+					Maximum Range:
+					Gas Capacity:
+					Gas Recovery:
+					Gas Usage:
+					Pause Timer:</string>
+<string name="MA.T1_Lift.05.Right">12 m/s
+					3 m/s
+					256m (64m for multiplayer clients)
+					24 liters
+					0.025 l/s
+					1 l/s
+					5 seconds</string>
+<string name="MA.T2_Forced_Induction.00.Title">T2 Forced Induction</string>
+<string name="MA.T2_Forced_Induction.01.Paragraph">Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter.</string>
+<string name="MA.T2_Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.T2_Forced_Induction.03.Header">Specifications</string>
+<string name="MA.T2_Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.T2_Forced_Induction.05.Right">300%
+					1600%</string>
+<string name="MA.T3_Forced_Induction.00.Title">T3 Forced Induction</string>
+<string name="MA.T3_Forced_Induction.01.Paragraph">Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter.</string>
+<string name="MA.T3_Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.T3_Forced_Induction.03.Header">Specifications</string>
+<string name="MA.T3_Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.T3_Forced_Induction.05.Right">400%
+					3200%</string>
+<string name="MA.T4_Forced_Induction.00.Title">T4 Forced Induction</string>
+<string name="MA.T4_Forced_Induction.01.Paragraph">Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter. 
+
+					T4 Forced Induction Upgrades also double the rate at which ore can be collected from the attached Storage Hopper.</string>
+<string name="MA.T4_Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.T4_Forced_Induction.03.Header">Specifications</string>
+<string name="MA.T4_Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.T4_Forced_Induction.05.Right">400%
+					3200%</string>
+<string name="MA.T4_HardRockGrinder.00.Title">Hard Rock Grinder</string>
+<string name="MA.T4_HardRockGrinder.01.Paragraph">We&apos;re going to need to bootstrap our machines. To this end, we&apos;ve got a single-use Grinder - a couple of these should just about give us enough ore to construct a much larger, tougher drilling machine.</string>
+<string name="MA.T4_HardRockGrinder.02.Paragraph">Usage should be pretty straightforward. Find or make a 3x3 horizontal flat area of the ore you want (Chromium or Molybdenum), place the Grinder down, give it power, wait until completion, and give it plenty of Storage Hoppers to offload the final material into.</string>
+<string name="MA.T4_HardRockGrinder.03.Paragraph">If you&apos;re having issues finding a 3x3 horizontal area, then the Nano Disintegrator or Charged Explosives are your friends!</string>
+<string name="MA.T4_HardRockGrinder.04.Paragraph">These machines are horribly inefficient and expensive, and require a large amount of the refined Resin from the Hiveminds surrounding us. We should move onto better miners ASAP.</string>
+<string name="MA.T4_MagmaBore.00.Title">MagmaBore Construction</string>
+<string name="MA.T4_MagmaBore.01.Paragraph">Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 33wx3hx33d configuration (3276 total)</string>
+<string name="MA.T4_MagmaBore.02.Paragraph">The MagmaBore will create us a shaft down to the Magma Caverns; once this is complete, we should be able to compress the magma and use it to finally wipe the CryoPlasm Spawner out - permenantly.</string>
+<string name="MA.T4_MagmaBore.03.Paragraph">The base of the MagmaBore is built in a 33 metre square shape, 3 metres tall. Once this is done, the base gantry will attempt to self-erect. This will require a clearance of 12 more metres; the area to be cleared will be marked off with a red box. Clear inside this area to progress to the main digistruct gantry.</string>
+<string name="MA.T4_MagmaBore.04.Paragraph">The main part of the MagmaBore will require a further 64 metres of clearance, for a total size of 33x80x33. Again, clear any detritus inside the blue box to proceeed to the final phase. We are going to need epic amounts of power to literally create this invincible drill from pure energy.</string>
+<string name="MA.T4_MagmaBore.05.Title">MagmaBore Usage</string>
+<string name="MA.T4_MagmaBore.06.Paragraph">Once the drill has been fully digistructed, then boring can begin. We&apos;re estimating at least 100k power per second to run this slowly - perhaps much more! The more power available, the faster our progress will be. After we hit the Magma Caverns, we can start to pump the Magma up and use it!</string>
+<string name="MA.T4_MagmaBore.07.Paragraph">Magma should be pumped to a Magma Storage Unit via a standard Fluid Pipe. This can be located up to 256 metres from the MagmaBore. The Magma Storage can then be connected at a maximum distance of 512m to an active Cryo Inferno cannon. That in turn can permenantly end the CryoSpawner threat.</string>
+<string name="MA.T4_Trencher.00.Title">Trencher Drill</string>
+<string name="MA.T4_Trencher.01.Paragraph">These massive multi-block drilling machines can be used to harvest all known materials in a very rapid fashion. To build one, you&apos;ll need to build the drillhead in a 3x3x3 layout, then the motor in a 3x3x3 fashion, touching it. The Trencher&apos;s facing is dictated by this; the motor always goes at the back. You can use this to make Trencher face any angle, including straight up!</string>
+<string name="MA.T4_Trencher.02.Paragraph">Be aware that these new drills are very power-hungry, and can drop off hundreds of ore per minute. You&apos;ll need to think big when it comes to moving this stuff up to the Cold Caverns for smelting - Cargo Lifts and Minecarts are the order of the day!</string>
+<string name="MA.T5_Forced_Induction.00.Title">T5 Forced Induction</string>
+<string name="MA.T5_Forced_Induction.01.Paragraph">Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter. 
+
+					T5 Forced Induction Upgrades also quadruples the rate at which ore can be collected from the attached Storage Hopper.</string>
+<string name="MA.T5_Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.T5_Forced_Induction.03.Header">Specifications</string>
+<string name="MA.T5_Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.T5_Forced_Induction.05.Right">400%
+					3200%</string>
+<string name="MA.T6_Forced_Induction.00.Title">Arc Smelter Upgrade</string>
+<string name="MA.T6_Forced_Induction.01.Paragraph">This high-energy usage kit allows you to upgrade a single Ore Smelter to be able to cope with Chromium and Molybdenum. 
+
+					This should be replaced with a proper system capable of dealing with these materials as soon as possible, as the Arc Smelter upgrade is exceptionally inefficient.</string>
+<string name="MA.T6_Forced_Induction.02.Paragraph">Basic Ore Smelters do not support Forced Induction Upgrades.</string>
+<string name="MA.T6_Forced_Induction.03.Header">Specifications</string>
+<string name="MA.T6_Forced_Induction.04.Left">Smelting Speed:
+					Power Usage:</string>
+<string name="MA.T6_Forced_Induction.05.Right">50%
+					12800%</string>
+<string name="MA.Teleporter.00.Title">Teleporter</string>
+<string name="MA.Teleporter.01.Paragraph">The teleporter allows a user to instantly teleport to a pre-determined location. To use; supply the teleporter with sufficient power, stand on in, and press the Jump key (default &apos;Space&apos;). The power required depends upon the distance teleported.</string>
+<string name="MA.Teleporter.02.Header">Location Markers</string>
+<string name="MA.Teleporter.03.Paragraph">The teleporter requires a location marker referencing the destination. Insert the location marker into the teleporter by pressing the Interact key (default &apos;E&apos;). For more information location markers please follow the link below.</string>
+<string name="MA.Teleporter.04.Header">Specifications</string>
+<string name="MA.Teleporter.05.Left">Maximum Teleport Distance:
+					Power Required:
+					Power Capacity:
+					Maximum Power Recharge Rate:</string>
+<string name="MA.Teleporter.06.Right">Unlimited
+					40 per meter
+					Double Total Teleport Cost
+					Unlimited</string>
+<string name="MA.The_Itano.00.Title">The Itano</string>
+<string name="MA.The_Itano.01.Paragraph">Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</string>
+<string name="MA.The_Itano.02.Header">Specifications</string>
+<string name="MA.The_Itano.03.Left">Minimum Range:
+					Maximum Range:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</string>
+<string name="MA.The_Itano.04.Right">64m
+					512m
+					50,000 (basic missile)
+					16
+					15 seconds</string>
+<string name="MA.Threat_Agitator.00.Title">Threat Agitator</string>
+<string name="MA.Threat_Agitator.01.Paragraph">Using similar technology as the Threat Reducer, each Threat Agitator adds 10% of the base threat and attracts 5 more insectoids. The 10% incress in threat does not stack exponentaliy. The Threat Agitatior uses four times the power of the Threat Calmer for a total of twenty power units per second. </string>
+<string name="MA.Threat_Agitator.02.Header">Specifications</string>
+<string name="MA.Threat_Agitator.03.Left">Requires power:</string>
+<string name="MA.Threat_Agitator.04.Right">Yes</string>
+<string name="MA.Threat_Reducer.00.Title">Threat Reducer</string>
+<string name="MA.Threat_Reducer.01.Paragraph">The native wild life appear to react negatively to the byproducts dispersed into the air by industial actions. In an effort to mitigate both current and future conflict with the native wild life devices have been cuntructed to minimize the impact of machinery. The Threat reducer is able to cancle out the electro magnetic waves created by power production and scrub the nearby atmosphear of pollutants. The device utilizes 5 power units per second to complete this task. </string>
+<string name="MA.Threat_Reducer.02.Paragraph">In an effort to further understand the natives reactions to industilization, a new system to measure our impact based on the studied organisms sensitivity to both chemical and electromagnetic pollution has been created. This system measures these factors in “Threat Units” and can be seen in the Threat Scanner. Each active Threat Reducer reduces the threat by approxametly 50 threat units. With enough of these devices the produced threat can be completely minimized no matter how extensive operations grow on this planet.</string>
+<string name="MA.Threat_Reducer.03.Header">Specifications</string>
+<string name="MA.Threat_Reducer.04.Left">Requires power:</string>
+<string name="MA.Threat_Reducer.05.Right">Yes</string>
+<string name="MA.Threat_Scanner.00.Title">Threat Scanner</string>
+<string name="MA.Threat_Scanner.01.Paragraph">The Threat Scanner has two modes, a scanning mode, and an engaging mode. When in scanning mode the scanner will display the amount of threat the base produces and an estimated time till the next attack starts. The engaging mode will activate when under attack, when activated the threat scanner will display the composition of the attacking force and the approximate time till the next wave of hostiles spawn. Threat can be modified by using the Threat Reducer or Threat Agitator.</string>
+<string name="MA.Threat_Scanner.02.Header">Specifications</string>
+<string name="MA.Threat_Scanner.03.Left">Requires power:</string>
+<string name="MA.Threat_Scanner.04.Right">Yes</string>
+<string name="MA.Tin_Bar.00.Title">Tin Bar</string>
+<string name="MA.Tin_Bar.01.Paragraph">Tin Bars are generally used in basic machines requiring a lightweight construction. They are crafted from Tin Ore, which can be found near the surface.</string>
+<string name="MA.Tin_Coil.00.Title">Tin Coil</string>
+<string name="MA.Tin_Coil.01.Paragraph">A simple tin coil created from tin wires in a Coiler Plant.</string>
+<string name="MA.Tin_Housing.00.Title">Tin Housing</string>
+<string name="MA.Tin_Housing.01.Paragraph">A simple tin housing created from tin plates.</string>
+<string name="MA.Tin_Ore_Ping.00.Title">Tin Ore Ping</string>
+<string name="MA.Tin_Ore_Ping.01.Paragraph">The Tin Ore Ping is used to find additional tin veins when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</string>
+<string name="MA.Tin_Ore.00.Title">Tin Ore</string>
+<string name="MA.Tin_Ore.01.Paragraph">Found near the surface, Tin Ore can be smelted into Tin Bars using the smelter. Tin Bars are generally used in basic machines requiring a lightweight construction.</string>
+<string name="MA.Tin_Ore.02.Paragraph">Tin Ore should be mined using an Ore Extractor.</string>
+<string name="MA.Tin_Pipe.00.Title">Tin Pipe</string>
+<string name="MA.Tin_Pipe.01.Paragraph">A simple tin pipe created from tin bars in a Pipe Extrusion Plant.</string>
+<string name="MA.Tin_Plate.00.Title">Tin Plate</string>
+<string name="MA.Tin_Plate.01.Paragraph">A simple tin plate created from tin bars in a Stamper Plant.</string>
+<string name="MA.Tin_Wire.00.Title">Tin Wire</string>
+<string name="MA.Tin_Wire.01.Paragraph">A simple tin wire created from tin bars in an Extrusion Plant.</string>
+<string name="MA.Titanium_Bar.00.Title">Titanium Bar</string>
+<string name="MA.Titanium_Bar.01.Paragraph">Titanium Bars are generally used in advanced machines requring a strong an lightweight construction. They are crafted from Titanium Ore, which can be found at least 350m below the surface.</string>
+<string name="MA.Titanium_Coil.00.Title">Titanium Coil</string>
+<string name="MA.Titanium_Coil.01.Paragraph">A simple titanium coil created from titanium wires in a Coiler Plant.</string>
+<string name="MA.Titanium_Housing.00.Title">Titanium Housing</string>
+<string name="MA.Titanium_Housing.01.Paragraph">A simple titanium housing created from titanium plates.</string>
+<string name="MA.Titanium_Ore_Ping.00.Title">Titanium Ore Ping</string>
+<string name="MA.Titanium_Ore_Ping.01.Paragraph">The Titanium Ore Ping is used to find additional titanium veins when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</string>
+<string name="MA.Titanium_Pipe.00.Title">Titanium Pipe</string>
+<string name="MA.Titanium_Pipe.01.Paragraph">A simple titanium pipe created from titanium bars in a Pipe Extrusion Plant.</string>
+<string name="MA.Titanium_Plate.00.Title">Titanium Plate</string>
+<string name="MA.Titanium_Plate.01.Paragraph">A simple titanium plate created from titanium bars in a Stamper Plant.</string>
+<string name="MA.Titanium_Wire.00.Title">Titanium Wire</string>
+<string name="MA.Titanium_Wire.01.Paragraph">A simple titanium wire created from titanium bars in an Extrusion Plant.</string>
+<string name="MA.Topaz_Crystal.00.Title">Topaz Crystal</string>
+<string name="MA.Topaz_Crystal.01.Paragraph">A topaz crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -300 to -375.</string>
+<string name="MA.Topaz_Focusing_Lens.00.Title">Topaz Focusing Lens</string>
+<string name="MA.Topaz_Focusing_Lens.01.Paragraph">Insert into a Laser Power Transmitter to improve its power transmission rate.</string>
+<string name="MA.Topaz_Focusing_Lens.02.Header">Specifications</string>
+<string name="MA.Topaz_Focusing_Lens.03.Left">Power Transmission Rate:</string>
+<string name="MA.Topaz_Focusing_Lens.04.Right">250%</string>
+<string name="MA.Torch.00.Title">Torch</string>
+<string name="MA.Torch.01.Paragraph">The torch is essential to your early chances of survival on this planet providing both warmth and light. Light is automatically deactivated during the day but will still provide warmth.</string>
+<string name="MA.Torch.02.Paragraph">Caution! Fire is hot! The hazard suit is not designed to protect the user for an extended period of time in close proximity to a torch.</string>
+<string name="MA.Toxic_Cavern_Flora_1.00.Title">Toxic Cavern Flora 1</string>
+<string name="MA.Toxic_Cavern_Flora_1.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_1.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_2.00.Title">Toxic Cavern Flora 2</string>
+<string name="MA.Toxic_Cavern_Flora_2.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_2.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_3.00.Title">Toxic Cavern Flora 3</string>
+<string name="MA.Toxic_Cavern_Flora_3.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_3.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_4.00.Title">Toxic Cavern Flora 4</string>
+<string name="MA.Toxic_Cavern_Flora_4.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_4.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_5.00.Title">Toxic Cavern Flora 5</string>
+<string name="MA.Toxic_Cavern_Flora_5.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_5.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_6.00.Title">Toxic Cavern Flora 6</string>
+<string name="MA.Toxic_Cavern_Flora_6.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_6.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Flora_7.00.Title">Toxic Cavern Flora 7</string>
+<string name="MA.Toxic_Cavern_Flora_7.01.Paragraph">This plant appears to be immune to the toxic environment in this cavern.</string>
+<string name="MA.Toxic_Cavern_Flora_7.02.Paragraph">This plant can be burned for power.</string>
+<string name="MA.Toxic_Cavern_Stone.00.Title">Toxic Cavern Stone</string>
+<string name="MA.Toxic_Cavern_Stone.01.Paragraph">This material is found around 400 to 700 metres below the surface. The block causes no poison damage itself, although the caverns in which you find them are filled with poisonous particles. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</string>
+<string name="MA.Toxic_Particle_Filter.00.Title">Toxic Particle Filter</string>
+<string name="MA.Toxic_Particle_Filter.01.Paragraph">Advanced filters fitter to the hazard suit allows it to remove toxic substances from the air. You only need one of these and it must be kept in your inventory to function.</string>
+<string name="MA.Transport_Pipe_Filter.00.Title">Transport Pipe Filter</string>
+<string name="MA.Transport_Pipe_Filter.01.Paragraph">The Transport Pipe Filter can be used to filter the type of material entering the network from the Storage Hopper to which it is attached.</string>
+<string name="MA.Transport_Pipe.00.Title">Transport Pipe</string>
+<string name="MA.Transport_Pipe.01.Paragraph">Transport Pipes are far more expensive than regular conveyors however they are much faster, immune to extreme cold, and far less susceptible to attack due to their enclosed nature. Like the conveyor belt they also do not require external power.</string>
+<string name="MA.Transport_Pipe.02.Paragraph">Upgrading your network to use Transport Pipes should be considered a long term project. Initially focus on the bottlenecks.</string>
+<string name="MA.Transport_Pipe.03.Header">Usage</string>
+<string name="MA.Transport_Pipe.04.Paragraph">Transport Pipes follow the same rules as the regular Conveyor.</string>
+<string name="MA.Tree_Trunk.00.Title">Tree Trunk</string>
+<string name="MA.Tree_Trunk.01.Paragraph">Basic ingredient for Wooden Planks. You can get them by cutting down trees. The block can be placed. No manufacturing plant required to craft Wooden Planks.</string>
+<string name="MA.Truss.00.Title">Truss</string>
+<string name="MA.Truss.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Turret_MK1.00.Title">Turret MK1</string>
+<string name="MA.Turret_MK1.01.Paragraph">Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</string>
+<string name="MA.Turret_MK1.02.Header">Specifications</string>
+<string name="MA.Turret_MK1.03.Left">Range:
+					Damage (per shot):
+					Power Requirement (per shot):
+					Maximum Power Capacity:
+					Reload Time:</string>
+<string name="MA.Turret_MK1.04.Right">16m
+					50
+					40
+					100
+					1 second</string>
+<string name="MA.Turret_MK2.00.Title">Turret MK2</string>
+<string name="MA.Turret_MK2.01.Paragraph">Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</string>
+<string name="MA.Turret_MK2.02.Header">Specifications</string>
+<string name="MA.Turret_MK2.03.Left">Range:
+					Damage (per shot):
+					Power Requirement (per shot):
+					Maximum Power Capacity:
+					Reload Time:</string>
+<string name="MA.Turret_MK2.04.Right">20m
+					96
+					32
+					192
+					0.4 seconds</string>
+<string name="MA.Turret_MK3.00.Title">Turret MK3</string>
+<string name="MA.Turret_MK3.01.Paragraph">Long range energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</string>
+<string name="MA.Turret_MK3.02.Header">Specifications</string>
+<string name="MA.Turret_MK3.03.Left">Range:
+					Damage (per shot):
+					Power Requirement (per shot):
+					Maximum Power Capacity:
+					Reload Time:</string>
+<string name="MA.Turret_MK3.04.Right">72m
+					3600
+					400
+					900
+					4 seconds</string>
+<string name="MA.Ultimate_Experimental_Pod.00.Title">Ultimate Experimental Pod</string>
+<string name="MA.Ultimate_Experimental_Pod.01.Paragraph">Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.Ultimate_Experimental_Pod.02.Paragraph">For more information on creating experimentation pods please read the following guide.</string>
+<string name="MA.White_Canvas.00.Title">White Canvas</string>
+<string name="MA.White_Canvas.01.Paragraph">Full white beautification block.</string>
+<string name="MA.Window.00.Title">Window</string>
+<string name="MA.Window.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.Wooden_Planks.00.Title">Wooden Planks</string>
+<string name="MA.Wooden_Planks.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &apos;C&apos;) to manufacture these.</string>
+<string name="MA.WorkFloorExcavatorMK1.00.Title">Workfloor Excavator MK1</string>
+<string name="MA.WorkFloorExcavatorMK1.01.Paragraph">Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 metre tall tunnel, in a 32m range. It won&apos;t affect ores, meaning you can use this next to your Ore Extractor to clear around. Wide-open work spaces are conducive to organised bases!</string>
+<string name="MA.WorkFloorExcavatorMK1.02.Header">Specifications</string>
+<string name="MA.WorkFloorExcavatorMK1.03.Left">Range:
+					Power per block:
+					Destroys Ores:
+					</string>
+<string name="MA.WorkFloorExcavatorMK1.04.Right">32m
+					64
+					No
+					</string>
+<string name="MA.WorkFloorExcavatorMK2.00.Title">Workfloor Excavator MK2</string>
+<string name="MA.WorkFloorExcavatorMK2.01.Paragraph">Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 metre tall tunnel, in a 32m range. This model WILL clear ores, meaning you can use this for areas that need large machines built. Wide-open work spaces are conducive to organised bases!</string>
+<string name="MA.WorkFloorExcavatorMK2.02.Header">Specifications</string>
+<string name="MA.WorkFloorExcavatorMK2.03.Left">Range:
+					Power per block:
+					Destroys Ores:
+					</string>
+<string name="MA.WorkFloorExcavatorMK2.04.Right">32m
+					128
+					Yes
+					</string>
+<string name="MA.XL_Experimental_Pod.00.Title">XL Experimental Pod</string>
+<string name="MA.XL_Experimental_Pod.01.Paragraph">Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</string>
+<string name="MA.XL_Experimental_Pod.02.Paragraph">For more information on creating experimentation pods please read the following guide.</string>
+<string name="MA.Zipper_Merge.00.Title">Zipper Merge</string>
+<string name="MA.Zipper_Merge.01.Paragraph">The Zipper Merge flawlessly combines two conveyor lines at a 1:1 ratio. The zipper merge should be able to output at 100 items a minute. The zipper merge is most useful for automating items that need an even amount of two items like Low-Grade Steel Alloy.</string>
+</resources>

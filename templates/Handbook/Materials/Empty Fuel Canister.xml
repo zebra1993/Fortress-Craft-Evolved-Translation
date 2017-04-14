@@ -1,0 +1,57 @@
+<MaterialEntry>
+	<Name>Empty Fuel Canister</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Empty_Fuel_Canister.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>EmptyCanister</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Empty_Fuel_Canister.01.Paragraph}}</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+					<Text>REMOVEEEE MEEEEE</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Refinery Controller</Material>
+
+					</Target>
+
+					<Text>Refinery Controller</Text>
+
+				</Link>
+		
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

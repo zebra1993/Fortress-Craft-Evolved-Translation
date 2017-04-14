@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><resources><string name="CR.01Welcome.Title">Starting Guide</string>
+<string name="CR.01Welcome.00.Title">Welcome to FortressCraft Evolved</string>
+<string name="CR.01Welcome.01.Header">Creative Mode</string>
+<string name="CR.01Welcome.02.Paragraph">Welcome to our Creative Mode! Controls are below, tool guides follow on next pages.</string>
+<string name="CR.01Welcome.03.Header">Controls</string>
+<string name="CR.01Welcome.04.Left">W,A,S,D: Movement
+Space: Jump
+Space x 2: Activate Jetpack Mode
+    Q: Fly Down
+    Shift: Boost
+    Land to turn off
+Esc: Pause Menu
+H: Help Screen</string>
+<string name="CR.01Welcome.05.Right">Z: Zoom
+X: Build Gun
+C: Weather Staff
+N: Paint Gun
+F10: Enter SuperBuild Mode
+F11: Enter Copy/Paste Mode
+=: Block Selection Screen
+F1-F7: Select Hotbar Tab
+1-10: Select Hotbar Slot</string>
+<string name="CR.01Welcome.06.Paragraph">Left Mouse: Build/Primary tool function
+Right Mouse: Delete/Alternative tool function
+Middle Mouse: Sample Currently Highlighted Block
+Mouse Wheel: Next/Previous Block or cycle tool function
+CTRL + Left Mouse: Build-to-Me
+CTRL + Right Mouse: Super Dig</string>
+<string name="CR.01Welcome.07.Title">Creative build tools</string>
+<string name="CR.01Welcome.08.Paragraph">In FortressCraft Evolved, you have several powerful tools for creative building. Below we briefly describe each tool and will in future contain a link to the specific guide for using that tool.</string>
+<string name="CR.01Welcome.09.Header">Build Gun</string>
+<string name="CR.01Welcome.10.Paragraph">When using the build gun (select by pressing &apos;X&apos;), the Left mouse button builds the selected block and the Right mouse button deletes. You have a long build reach, so you can build blocks up to 64 meters away.</string>
+<string name="CR.01Welcome.11.Header">Super Dig</string>
+<string name="CR.01Welcome.12.Paragraph">Holding CTRL while digging activates Super Dig mode. This will greatly speed up the dig speed, which is good for quickly clearing out spaces. Take care where you aim though, it&apos;s very easy to accidentally dig up your own work.</string>
+<string name="CR.01Welcome.13.Header">Build-to-Me</string>
+<string name="CR.01Welcome.14.Paragraph">Holding CTRL while building triggers Build-to-Me. The selected block will be built from the highlighted face back towards your position in a straight line.</string>
+<string name="CR.01Welcome.15.Header">The Workshop</string>
+<string name="CR.01Welcome.16.Paragraph">The Workshop is the most powerful creative tool in your FortressCraft Evolved arsenal for building detailed creations. Using it you can design your own blocks by building large scale designs which shrink down to the size of a block.
+Workshops can be built anywhere in the world. To make one, you start by opening the Block Select Panel (&apos;press &apos;=&apos;) and selecting the Workshop Placement block:</string>
+<string name="CR.01Welcome.17.Paragraph">Then you pick a place to build the workshop. In order to define a workshop you only need to place 2 (two) Workshop placement blocks. You place them so that they&apos;re in opposing corners on the floor of where you want the workshop to be. To put that in simple instructions:</string>
+<string name="CR.01Welcome.18.Paragraph">1. Choose a flat area. Place down the first Workshop Placement block.</string>
+<string name="CR.01Welcome.19.Paragraph">2. From there, go diagonally in any direction while staying on the same level.</string>
+<string name="CR.01Welcome.20.Paragraph">3. Place the second block where you want to other corner of your workshop to be.</string>
+<string name="CR.01Welcome.21.Paragraph">4. If the two blocks are on a diagonal and within 7 blocks of each other, a workshop will be created using Reinforced Rock and Reinforced Wood</string>
+<string name="CR.01Welcome.22.Paragraph">Workshops can be created in sizes ranging from 2x2 (two blocks directly diagonal) to 8x8 (6 empty blocks between the first and second block).</string>
+<string name="CR.01Welcome.23.Header">Creating a detail block design in the workshop</string>
+<string name="CR.01Welcome.24.Paragraph">Once you have built your first workshop, enter it to start creating your first detail block design. When you are in the workshop, two things happen: The outline of the workshop glows with sparkly particles, and the workshop overlay appears.</string>
+<string name="CR.01Welcome.25.Paragraph">There are some keys that are used for selecting functions in the workshop:
+Y: Start New Design
+U: Use Current (not yet implemented)
+I: Show Detail Window
+O: Show Behaviour Window (currently turned off)
+[: Previous Design
+]: Next Design</string>
+<string name="CR.01Welcome.26.Paragraph">When you enter a new workshop, a new design is automatically started, so pressing &apos;Y&apos; will only do something once you&apos;ve created your first design.</string>
+<string name="CR.01Welcome.27.Paragraph">To design your first detail block, simply start building in the highlighted workshop area. The wall made from Reinforced Wood will be the front of your block. You can use any block you want to construct your design, but any blocks that have models will not show up in the detail block. Painted blocks will remain painted.</string>
+<string name="CR.01Welcome.28.Paragraph">Once you&apos;re happy with your design, simply exiting the workshop will save it and create the detail block to build with. To select it, open up your Block Select screen (&apos;=&apos;) and select your new design to a hotbar slot. You can quickly find all detail block designs by filtering for &apos;detail block&apos; in the filter list. You can now start a new design in the workshop by pressing &apos;Y&apos;, or by building a new workshop. You can have up to 16384 detail block designs in one world!</string>
+<string name="CR.01Welcome.29.Header">Placing detail blocks</string>
+<string name="CR.01Welcome.30.Paragraph">To place a detail block, build it like you would any other block. The design will attach to the face you have selected, and be rotated to face towards you. This allows you to place detail blocks in any orientation you want.</string>
+<string name="CR.01Welcome.31.Paragraph">If you use thousands of detail blocks in the same area, you will notice significant performance drops. This is because all those details have to be rendered by your graphics card. To alleviate this, use detail blocks of lower resolutions and use normal blocks where ever you can.</string>
+<string name="CR.01Welcome.32.Header">Super Build</string>
+<string name="CR.01Welcome.33.Paragraph">Pressing F8 will open the Super Build panel on the right side of your screen</string>
+<string name="CR.01Welcome.34.Paragraph">This allows you to quickly build simple geometric shapes using any block you have selected. To use the Super Build, first select a shape to build using F9. With F10 you can select if it should build a solid or hollow shape. With F11 you toggle the build mode. Instant will get you the fastest result, but can result in some holes for very large shapes. End toggles between the anchor of the shape being centered or on the bottom middle of the shape.</string>
+<string name="CR.01Welcome.35.Paragraph">X, Y and Z allow you to change the size of the shape. Pressing them increases that dimension by 1. Hold shift and press X, Y or Z to decrease by one. You can additionally hold ALT to change the size by 16 at a time.</string>
+<string name="CR.01Welcome.36.Paragraph">Once you&apos;ve chosen a shape, size and location, press Ins to build the shape, or Del to dig it out. You will then have to reselect a shape to dig or build again.</string>
+<string name="CR.01Welcome.37.Header">Copy Paste</string>
+<string name="CR.01Welcome.38.Paragraph">The Copy Paste tool allows you to quickly copy part of a design you&apos;ve made, rotate or flip it around, and paste it back into the world in whatever place you want. Open the copy paste panel by pressing F11.
+The Copy Paste panel is currently UNDER CONSTRUCTION, which is why it doesn&apos;t look like the rest of the interface.</string>
+<string name="CR.01Welcome.39.Header">Copy Paste Controls</string>
+<string name="CR.01Welcome.40.Paragraph">Press Ins to place the first corner of the rectangular part you want to copy.</string>
+<string name="CR.01Welcome.41.Paragraph">Press Del to place the second corner of the rectangular part you want to copy. The area to be copied will now be highlighted.</string>
+<string name="CR.01Welcome.42.Paragraph">Once an area has been selected, you can press End to grab it. At this point, a preview of the copied area will be shown on top of your block selection.</string>
+<string name="CR.01Welcome.43.Paragraph">With an area grabbed, there are three things you can do to alter the way the area is pasted: Rotate with R, move anchor point with Shift, flip with CTRL.</string>
+<string name="CR.01Welcome.44.Paragraph">&apos;R&apos; will rotate the grabbed area 90 degrees clockwise.</string>
+<string name="CR.01Welcome.45.Paragraph">pressing Shift once will allow you to alter the anchor point with the X, Y and Z keys. Pressing SHIFT + X, Y or Z will decrease anchor position</string>
+<string name="CR.01Welcome.46.Paragraph">pressing CTRL once will allow you to flip the design with the X, Y and Z keys. Each button will flip the design along that axis.</string>
+<string name="CR.01Welcome.47.Paragraph">And finally, pressing Home will paste the area in the selected position.</string>
+<string name="CR.01Welcome.48.Header">Storing Copy Paste Schematics</string>
+<string name="CR.01Welcome.49.Paragraph">It is also possible to store schematics for later use using the &apos;&lt;&apos; key, and loading them using &apos;?&apos;. You can exchange the saved schematics with other people. But this feature is still in development so we can not give you guarantees that it will work.</string>
+<string name="CR.01Welcome.50.Header">Paint Gun</string>
+<string name="CR.01Welcome.51.Paragraph">You can select the Paint Gun by pressing &apos;N&apos;. It allows you to paint certain materials that are paintable, in any color you want. With the Paint Gun selected, LMB paints the targetted block, RMB opens the color selection window, and MMB samples the color from the selected block, if the selected block can be painted. The paint gun will display what color is selected on the gun itself.</string>
+<string name="CR.01Welcome.52.Header">Finding Paintable Materials</string>
+<string name="CR.01Welcome.53.Paragraph">Only certain blocks can be painted. To quickly find which ones, open the Block Select screen (&apos;=&apos;) and check the &apos;Paintable&apos; filter. All of the blocks displayed there can be placed in the world and painted.</string>
+<string name="CR.01Welcome.54.Header">Weather Staff</string>
+<string name="CR.01Welcome.55.Paragraph">The weather staff allows you to control the weather, the time of day, and to throw meteors around. Select it using &apos;C&apos;. When you enter your world, one of the statistics it shows is total amount of meteors people have thrown around in FortressCraft Evolved.</string>
+<string name="CR.01Welcome.56.Header">Weather Staff modes</string>
+<string name="CR.01Welcome.57.Paragraph">eSun: Makes the current rain or snow stop and makes the sun shine (or the moon, if it is night</string>
+<string name="CR.01Welcome.58.Paragraph">eLightning: Creates a heavy storm. LMB triggers lightning</string>
+<string name="CR.01Welcome.59.Paragraph">eSnow: Creates snowfall</string>
+<string name="CR.01Welcome.60.Paragraph">eRain: Creates rain</string>
+<string name="CR.01Welcome.61.Paragraph">eDayNight: Cycles the time forwards or backwards quickly</string>
+<string name="CR.01Welcome.62.Paragraph">eMeteor: Summons meteors. LMB summons a meteor from high in the sky to strike somewhere near you. RMB summons a meteor from the weather staff aimed at the selected block. There is a short cooldown on both of these actions, so spam clicking may not summon as many meteors as you&apos;d like :) When slinging meteors, watch out for orbital space stations!</string>
+<string name="CR.02HowToPlaySurvival.Title">How to play Survival Mode</string>
+<string name="CR.02HowToPlaySurvival.00.Title">How to play Survival Mode</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">This is a Creative Mode game. To start a Survival world:</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">Go back to the main menu. Enter the World Select room and choose an empty slot (right arrow or click on the tables). Next to the game mode indicator are arrows which you can click to change the game mode to Survival. Press Create World to start playing</string>
+<string name="CR.02HowToPlaySurvival.03.Header">I can&apos;t select a game mode?</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">You can&apos;t change the gamemode on an existing world. Select an empty slot.</string>
+<string name="CR.02HowToPlaySurvival.05.Header">All my world slots are full!</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">You can reset a world from the World Select room, all data associated with this world will be deleted. If you want to backup your worlds then, on recent version of Windows, they can be found in the following folder: %AppData%\..\LocalLow\ProjectorGames\FortressCraft\Worlds.</string>
+<string name="CR.02HowToPlaySurvival.07.Header">It doesn&apos;t work!</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">If you&apos;re still having trouble starting up Survival Mode, please post a message on the steam discussion board.</string>
+</resources>

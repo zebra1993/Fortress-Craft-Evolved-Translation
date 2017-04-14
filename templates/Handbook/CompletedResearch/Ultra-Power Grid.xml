@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>T4 Power</Handle>
+
+	<Title>{{CO.Ultra-Power_Grid.Title}}</Title>
+
+	<Icon>Ultra-Power Grid</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Ultra-Power_Grid.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Ultra-Power Grid</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Ultra-Power_Grid.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

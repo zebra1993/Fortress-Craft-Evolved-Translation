@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Sign</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Sign.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Sign</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Sign.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

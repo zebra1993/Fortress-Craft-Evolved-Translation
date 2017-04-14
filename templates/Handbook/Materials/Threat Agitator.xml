@@ -1,0 +1,65 @@
+<MaterialEntry>
+	<Name>Threat Agitator</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Threat_Agitator.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Threat Agitator</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Threat_Agitator.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Threat Reducer</Material>
+
+					</Target>
+
+					<Text>Threat Reducer</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+
+					</Target>
+
+					<Text>Threat Scanner</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Threat_Agitator.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Threat_Agitator.03.Left}}</Left>
+
+					<Right>{{MA.Threat_Agitator.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

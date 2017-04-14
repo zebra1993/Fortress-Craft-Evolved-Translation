@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Minecart Unload Station</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.MinecartUnloadStation.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Minecart Unload</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.MinecartUnloadStation.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+
+					</Target>
+
+					<Text>Minecart Depot</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

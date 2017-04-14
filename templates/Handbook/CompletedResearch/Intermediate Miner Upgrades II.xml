@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>mining upgrade 4</Handle>
+
+	<Title>{{CO.Intermediate_Miner_Upgrades_II.Title}}</Title>
+
+	<Icon>Enhanced Drill Motor</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Intermediate_Miner_Upgrades_II.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Enhanced Drill Motor</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Intermediate_Miner_Upgrades_II.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

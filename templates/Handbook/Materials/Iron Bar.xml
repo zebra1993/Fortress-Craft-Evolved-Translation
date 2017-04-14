@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Name>Iron Bar</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Iron_Bar.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Iron Bar</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Iron_Bar.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

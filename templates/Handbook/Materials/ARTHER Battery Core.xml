@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>ARTHER Battery Core</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.ARTHER_Battery_Core.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.ARTHER_Battery_Core.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

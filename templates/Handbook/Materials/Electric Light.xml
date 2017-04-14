@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Name>Electric Light</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Electric_Light.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Electric Light</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Electric_Light.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{MA.Electric_Light.02.Paragraph}}</Text>
+
+				</Paragraph>
+					
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

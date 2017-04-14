@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Perfect Faceted Eye</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Perfect_Faceted_Eye.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>WaspEyePerfect</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Perfect_Faceted_Eye.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

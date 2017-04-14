@@ -1,0 +1,61 @@
+<Chapter>
+	<Handle>advanced research</Handle>
+
+	<Title>{{CO.Advanced_Research.Title}}</Title>
+
+	<Icon>Laboratory Component</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Advanced_Research.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Laboratory Component</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Advanced_Research.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{CO.Advanced_Research.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{CO.Advanced_Research.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+
+						<Page>0</Page>
+
+					</Target>
+
+					<Text>Laboratory Research Guide</Text>
+
+				</Link>
+				
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

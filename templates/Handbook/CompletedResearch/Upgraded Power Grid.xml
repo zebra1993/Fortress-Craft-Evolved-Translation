@@ -1,0 +1,42 @@
+<Chapter>
+	<Handle>T2 Power</Handle>
+
+	<Title>{{CO.Upgraded_Power_Grid.Title}}</Title>
+
+	<Icon>Upgraded Power Grid</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Upgraded_Power_Grid.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Upgraded Power Grid</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Upgraded_Power_Grid.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{CO.Upgraded_Power_Grid.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

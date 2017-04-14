@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Topaz Crystal</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Topaz_Crystal.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Topaz Crystal</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Topaz_Crystal.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>

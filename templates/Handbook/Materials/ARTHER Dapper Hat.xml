@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>ARTHER Dapper Hat</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.ARTHER_Dapper_Hat.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>ARTHER Dapper Hat</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.ARTHER_Dapper_Hat.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Basic PCB</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Basic_PCB.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Basic PCB</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Basic_PCB.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

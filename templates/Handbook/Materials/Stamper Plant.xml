@@ -1,0 +1,46 @@
+<MaterialEntry>
+	<Name>Stamper Plant</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Stamper_Plant.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Stamper Plant</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Stamper_Plant.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Stamper_Plant.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Stamper_Plant.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{MA.Stamper_Plant.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

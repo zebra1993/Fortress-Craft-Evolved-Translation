@@ -1,0 +1,100 @@
+<MaterialEntry>
+	<Name>MK1 PowerCore Charger</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.PowerBoosterChargerMK1.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MK1PowerBoosterCharger</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.PowerBoosterChargerMK1.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.PowerBoosterChargerMK1.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.PowerBoosterChargerMK1.03.Left}}</Left>
+<Right>{{MA.PowerBoosterChargerMK1.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK1</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK1</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK2</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK2</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK3</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK4</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK4</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK5</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK5</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

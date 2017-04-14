@@ -1,0 +1,69 @@
+<MaterialEntry>
+	<Name>Improved Cargo Lift</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.ImprovedCargoLift.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Improved Cargo Lift</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.ImprovedCargoLift.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.ImprovedCargoLift.02.Header}}</Text>
+</Header>
+
+				<Spacer/>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.ImprovedCargoLift.03.Left}}</Left>
+
+					<Right>{{MA.ImprovedCargoLift.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+
+				<Icon>
+					<Name>Cargo Lift Controller</Name>
+
+					<Target><Material>Cargo Lift Controller</Material>
+</Target>
+
+				</Icon>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+
+					</Target>
+
+					<Text>CargoLift Controller</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

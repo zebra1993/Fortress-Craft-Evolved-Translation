@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Geological Surveyor</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Geological_Surveyor.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Geological Surveyor</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Geological_Surveyor.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+bulk
+				<Header><Text>{{MA.Geological_Surveyor.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Geological_Surveyor.03.Left}}</Left>
+
+					<Right>{{MA.Geological_Surveyor.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

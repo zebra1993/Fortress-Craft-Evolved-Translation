@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Iron Gear</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Iron_Gear.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Iron Gear</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Iron_Gear.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

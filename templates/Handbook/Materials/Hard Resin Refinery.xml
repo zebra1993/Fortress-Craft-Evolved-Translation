@@ -1,0 +1,74 @@
+<MaterialEntry>
+	<Name>Liquid Resin Refiner</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Hard_Resin_Refinery.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Liquid Resin Refiner</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{MA.Hard_Resin_Refinery.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{MA.Hard_Resin_Refinery.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{MA.Hard_Resin_Refinery.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+ 
+ 				<Link>
+					<Target>
+						<Material>Laser Resin Ablator</Material>
+
+					</Target>
+
+					<Text>Laser Resin Ablator</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+
+					</Target>
+
+					<Text>Laser Resin Liquifier</Text>
+
+				</Link>
+
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+
+					</Target>
+
+					<Text>Refined Liquid Resin</Text>
+
+				</Link>
+
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

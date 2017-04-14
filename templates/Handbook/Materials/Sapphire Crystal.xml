@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Sapphire Crystal</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Sapphire_Crystal.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Sapphire Crystal</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Sapphire_Crystal.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>

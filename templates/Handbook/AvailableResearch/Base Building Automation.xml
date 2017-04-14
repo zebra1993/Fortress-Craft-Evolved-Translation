@@ -1,0 +1,49 @@
+<Chapter>
+	<Handle>T1 assist machines</Handle>
+
+	<Title>{{AV.Base_Building_Automation.Title}}</Title>
+
+	<Icon>Base Building Automation</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{AV.Base_Building_Automation.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Base Building Automation</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{AV.Base_Building_Automation.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{AV.Base_Building_Automation.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{AV.Base_Building_Automation.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

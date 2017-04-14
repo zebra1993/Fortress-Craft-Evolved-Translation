@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Chevron Sign 2</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Chevron_Sign_2.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Chevron Sign 2</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Chevron_Sign_2.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

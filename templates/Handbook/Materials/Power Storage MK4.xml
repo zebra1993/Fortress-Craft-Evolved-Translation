@@ -1,0 +1,55 @@
+<MaterialEntry>
+	<Name>MK4 Battery Component</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Power_Storage_MK4.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Power_Storage_MK4.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{MA.Power_Storage_MK4.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Power_Storage_MK4.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Power_Storage_MK4.04.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Power_Storage_MK4.05.Left}}</Left>
+
+					<Right>{{MA.Power_Storage_MK4.06.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

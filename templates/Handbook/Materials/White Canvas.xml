@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>White Canvas</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.White_Canvas.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>White Canvas</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.White_Canvas.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

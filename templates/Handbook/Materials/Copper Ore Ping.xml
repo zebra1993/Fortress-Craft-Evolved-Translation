@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Copper Ore Ping</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Copper_Ore_Ping.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Copper Ore Ping</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Copper_Ore_Ping.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+
+					</Target>
+
+					<Text>Blank Ore Ping</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+
