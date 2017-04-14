@@ -682,7 +682,7 @@
     <string name="My First Wallpaper_DESC">Knuddelige Flauschfaser Tapete</string>
     <string name="Water">Wasser</string>
     <string name="Water_DESC">Wasser. Neben Luft das Wichtigste zum Überleben. Zum Glück kümmert sich mein Raumanzug darum</string>
-    <string name="Space Bubbles">Weltraum Blasen</string><!-- this sounds horrible-->
+    <string name="Space Bubbles">Weltraumblasen</string><!-- this sounds horrible-->
     <string name="Space Bubbles_DESC">Weltraum Blasen</string>
     <string name="Space Panel">Weltraum Panele</string>
     <string name="Space Panel_DESC"/>
@@ -862,7 +862,7 @@
     <string name="Swampland">Sumpflandschaft</string>
     <string name="Swampland_DESC">Sumpf, vorsicht vor fleischfressenden Planzen</string>
     <string name="Tundra">Tundra</string>
-    <string name="Tundra_DESC">Tundra_DESC</string>
+    <string name="Tundra_DESC"/>
     <string name="Diamond Crystal">Diamantkristall</string>
     <string name="Diamond Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Emerald Crystal">Smaragdkristall</string>
@@ -876,23 +876,23 @@
     <string name="Sugalite Crystal">Sugalitkristall</string>
     <string name="Sugalite Crystal_DESC">Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</string>
     <string name="Rocket Framework">Raketengerüst</string>
-    <string name="Rocket Framework_DESC">Rocket Framework_DESC</string>
+    <string name="Rocket Framework_DESC"/>
     <string name="Basic Rocket Engine">Einfacher Raketenantrieb</string>
-    <string name="Basic Rocket Engine_DESC">Basic Rocket Engine_DESC</string>
+    <string name="Basic Rocket Engine_DESC"/>
     <string name="Basic Fuel Tank">Einfacher Treibstofftank</string>
-    <string name="Basic Fuel Tank_DESC">Basic Fuel Tank_DESC</string>
+    <string name="Basic Fuel Tank_DESC"/>
     <string name="Basic Rocket Stabiliser">Einfache Raketenstabilisierung</string>
-    <string name="Basic Rocket Stabiliser_DESC">Basic Rocket Stabiliser_DESC</string>
+    <string name="Basic Rocket Stabiliser_DESC"/>
     <string name="Basic Rocket Cargo Hold">Einfacher Raketenrachtraum</string>
-    <string name="Basic Rocket Cargo Hold_DESC">Basic Rocket Cargo Hold_DESC</string>
+    <string name="Basic Rocket Cargo Hold_DESC"/>
     <string name="Basic Rocket SRB">Einfacher Feststoffstartrakete</string>
-    <string name="Basic Rocket SRB_DESC">Basic Rocket SRB_DESC</string>
+    <string name="Basic Rocket SRB_DESC"/>
     <string name="Basic Rocket Nosecone">Einfache Raketennase</string>
-    <string name="Basic Rocket Nosecone_DESC">Basic Rocket Nosecone_DESC</string>
+    <string name="Basic Rocket Nosecone_DESC"/>
     <string name="Basic Rocket Fin">Einfache Raketenfinne</string>
-    <string name="Basic Rocket Fin_DESC">Basic Rocket Fin_DESC</string>
+    <string name="Basic Rocket Fin_DESC"/>
     <string name="LaunchPad">Startrampe</string>
-    <string name="LaunchPad_DESC">LaunchPad_DESC</string>
+    <string name="LaunchPad_DESC"/>
     <!-- Flowers and Vegetation--><!-- the names themself cant be translated due to lacking realworld couterparts-->
     <string name="Orange GlowPod">Oranger GlowPod</string><!-- Not the best translation-->
     <string name="Orange GlowPod_DESC">Eine orange Pflanze. Sie scheint ein bisschen Licht von sich zu geben.</string>
@@ -1275,7 +1275,7 @@ Sehr Energie hungrig!</string>
     <string name="Missile Turret MK3_DESC">Schiesst drei Raketen auf bis zu 512m entfernte Ziele!</string>
     <string name="Missile Turret MK4">Raketenturm MK4</string>
     <string name="Missile Turret MK4_DESC">Schiesst vier Raketen auf bis zu 512m entfernte Ziele!</string>
-    <string name="The Itano">The Itano</string><!-- its something like a multimissile launcher but no idea how to translate that-->
+    <string name="The Itano">Der Itano</string><!-- its something like a multimissile launcher but no idea how to translate that-->
     <string name="The Itano_DESC">Mehrfach Raketenwerfer. Der Zirkus ist in der Stadt!</string>
     <string name="Basic Missile Assembler(OLD)">Raketenmontage (ALT)</string>
     <string name="Basic Missile Assembler(OLD)_DESC">Stellt Raketen aus Treibstoff, Röhren und Drähten her.</string>
@@ -1327,26 +1327,26 @@ Sehr Energie hungrig!</string>
     <string name="Advanced Robot Arm Control Module">Verbesserte Roboterarmsteuerung</string>
     <string name="Advanced Robot Arm Control Module_DESC">Erlaubt detailierte Kontrolle über den MK1 Roboterarm.</string>
     <string name="Alien Tendril Spawn">Ausserirdischeranke spawn</string>
-    <string name="Alien Tendril Spawn_DESC">Alien Tendril Spawn_DESC</string>
+    <string name="Alien Tendril Spawn_DESC"/>
     <string name="Alien Tendril">Ausseriridicheranke</string>
-    <string name="Alien Tendril_DESC">Alien Tendril_DESC</string>
+    <string name="Alien Tendril_DESC"/>
     <string name="Hive Core">Stockkern</string>
-    <string name="Hive Core_DESC">Hive Core_DESC</string>
+    <string name="Hive Core_DESC"/>
     <string name="Hardened Resin">Gehärtetes Harz</string>
     <string name="Hardened Resin_DESC">Diese unglaublich harte, organische nicht-Newton\'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
     <string name="MobSpawner">MobSpawner</string>
     <string name="MobSpawner_DESC">Super geeignet um vereidigung zu testen.</string>
     <string name="Insulated Copper Wire">Isoliertes Kupferkabel</string>
-    <string name="Insulated Copper Wire_DESC">Insulated Copper Wire_DESC</string>
+    <string name="Insulated Copper Wire_DESC"/>
 
     <string name="Track Gate">Schinentor</string>
-    <string name="Track Gate_DESC">Track Gate_DESC</string>
+    <string name="Track Gate_DESC"/>
     <string name="Track Terminus">Schinenendbahnhof</string>
-    <string name="Track Terminus_DESC">Track Terminus_DESC</string>
+    <string name="Track Terminus_DESC"/>
     <string name="Track Point">Schinenpunkt</string>
-    <string name="Track Point_DESC">Track Point_DESC</string>
+    <string name="Track Point_DESC"/>
     <string name="Track Station">Schinenstation</string>
-    <string name="Track Station_DESC">Track Station_DESC</string>
+    <string name="Track Station_DESC"/>
 
     <string name="Threat Agitator">Bedrohungsverstärker</string>
     <string name="Threat Agitator_DESC">Erzeugt zusätzliche Bedrohungsstufen.</string>
@@ -1360,20 +1360,20 @@ Sehr Energie hungrig!</string>
     <string name="Rapid Zipper Merge_DESC">Kombiniert schnell 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</string>
 
     <string name="Fusion Reactor Pylon">Fusionsreaktorpfeiler</string>
-    <string name="Fusion Reactor Pylon_DESC">Fusion Reactor Pylon_DESC</string>
+    <string name="Fusion Reactor Pylon_DESC"/>
     <string name="Fusion Reactor Core">Fusionsreaktorkern</string>
-    <string name="Fusion Reactor Core_DESC">Fusion Reactor Core_DESC</string>
+    <string name="Fusion Reactor Core_DESC"/>
     <string name="Fusion Reactor Monitor">Fusionsreaktormonitor</string>
-    <string name="Fusion Reactor Monitor_DESC">Fusion Reactor Monitor_DESC</string>
+    <string name="Fusion Reactor Monitor_DESC"/>
     <string name="Geothermal Generator">Geothermalgenerator</string>
-    <string name="Geothermal Generator_DESC">Geothermal Generator_DESC</string>
+    <string name="Geothermal Generator_DESC"/>
     <string name="Heat Conducting Pipe">Wärmeleitendes Rohr</string><!-- Not optimal-->
-    <string name="Heat Conducting Pipe_DESC">Heat Conducting Pipe_DESC</string>
+    <string name="Heat Conducting Pipe_DESC"/>
 
     <string name="MB Ore Extractor Drill">Mehrteiliger Erzfördererbohrer</string>
-    <string name="MB Ore Extractor Drill_DESC">MB Ore Extractor Drill_DESC</string>
+    <string name="MB Ore Extractor Drill_DESC"/>
     <string name="MB Ore Extractor Motor">Mehrteiliger Erzfürdererantrieb</string>
-    <string name="MB Ore Extractor Motor_DESC">MB Ore Extractor Motor_DESC</string>
+    <string name="MB Ore Extractor Motor_DESC"/>
     <string name="Server Monitor">Server Monitor</string>
     <string name="Server Monitor_DESC">Gibt Echtzeit Informationen über den Server. Kein \"brauchbarer\" Spielgegenstand.</string>
     <string name="Basic Missile Assembler">Einfache Raketenmontage</string>
@@ -1438,7 +1438,7 @@ Sehr Energie hungrig!</string>
     <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryoplasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten.</string>
     <string name="Chromed Block Assembler">Verchromte Blockmontage</string>
     <string name="Chromed Block Assembler_DESC">Verchromt durchtränkte Maschinenblöcke.</string>
-    <string name="Hiemal Block Assembler">Hiemal Block Assembler</string><!-- No idea what that means or is-->
+    <string name="Hiemal Block Assembler">Hiemal Block Fertiger</string><!-- No idea what that means or is-->
     <string name="Hiemal Block Assembler_DESC">Kaltfusioniert Chrom und magnetische Blöcke um einen hitzeresistenten Block zu erhalten.</string>
     <string name="Magnetic Block Assembler">Magnetische Blockmontage</string>
     <string name="Magnetic Block Assembler_DESC">Magnetisiert durchtränkte Maschinenblöcke.</string>
@@ -1465,9 +1465,9 @@ Sehr Energie hungrig!</string>
     <string name="ConstructoBot Arm Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Arms.</string>
 
     <string name="Blast Furnace">Hochofen</string>
-    <string name="Blast Furnace_DESC">Blast Furnace_DESC</string>
+    <string name="Blast Furnace_DESC"/>
     <string name="Continuous Casting Basin">Strangussbecken</string>
-    <string name="Continuous Casting Basin_DESC">Continuous Casting Basin_DESC</string>
+    <string name="Continuous Casting Basin_DESC"/>
     <string name="Casting Pipe (Straight)">Gerades Gussrohr</string>
     <string name="Casting Pipe (Straight)_DESC">Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</string>
     <string name="Casting Pipe (Bend)">Gebogenes Gussrohr</string>
@@ -1550,9 +1550,9 @@ Sehr Energie hungrig!</string>
     <string name="Fuel Compressor.">Treibstoff Komperssor</string>
     <string name="Fuel Compressor._DESC">Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</string>
     <string name="CargoLiftController">Warenliftsteuerung</string>
-    <string name="CargoLiftController_DESC">CargoLiftController_DESC</string>
+    <string name="CargoLiftController_DESC"/>
     <string name="Rack Rail">Zahnstange</string> <!-- Zahnschiene? -->
-    <string name="Rack Rail_DESC">Rack Rail_DESC</string>
+    <string name="Rack Rail_DESC"/>
     <string name="Mass Storage IO Port">Massenlager Ein-/ Ausgang</string>
     <string name="Mass Storage IO Port_DESC">Ein-/Ausgangsport mit grossen Durchsatz.</string>
     <string name="Basic Mass Storage Stocking Port">Einfacher Massenlager einstellbarer Eingang</string><!-- Not optimal, should be changed or better MUST-->
@@ -1564,17 +1564,17 @@ Sehr Energie hungrig!</string>
     <string name="Orbital Strike Controller">Orbitalfeuer Zeilmarkierung</string>
     <string name="Orbital Strike Controller_DESC">Ebne die Gegend durch Orbitalbeschuss ein. Es ist der einzige Weg sicher zugehen. Setzt einen komplett geladenen OET vorauss.</string>
     <string name="SurfaceHiveSpawn">Oberflächen Schwarmstock</string> <!-- Hive = Beehive, but as no Bees com out of it, i used Swarmhive-->
-    <string name="SurfaceHiveSpawn_DESC">SurfaceHiveSpawn_DESC</string>
+    <string name="SurfaceHiveSpawn_DESC"/>
     <string name="Construction Paste">Konstruktionspaste</string>
-    <string name="Construction Paste_DESC">Construction Paste_DESC</string>
+    <string name="Construction Paste_DESC"/>
     <string name="FALCOR MK1">FALCOR MK1</string> <!-- Acronym-->
     <string name="FALCOR MK1_DESC">Sammelt Beute von FALCOR Leuchtfeuern und bringt diese zurück.\nBraucht angrenzenden Lagerhopper.</string>
     <string name="Logistics FALCOR">Logistik FALCOR</string><!-- Acronym-->
     <string name="Logistics FALCOR_DESC">Sammelt Gegenstände von FALCOR Leuchtfeuern an entfernten Lagerhopper'n und brigt diese zurück.\nBraucht angeschlossenen Lagerhopper.</string>
     <string name="FALCOR Beacon">FALCOR Leuchtfeuer</string><!-- Acronym-->
-    <string name="FALCOR Beacon_DESC">FALCOR Beacon_DESC</string>
+    <string name="FALCOR Beacon_DESC"/>
     <string name="SpiderBotBase">Spinnenroboterbasis</string>
-    <string name="SpiderBotBase_DESC">SpiderBotBase_DESC</string>
+    <string name="SpiderBotBase_DESC"/>
     <string name="Laser Resin Ablator">Laserharzabtrager</string>
     <string name="Laser Resin Ablator_DESC">Konvertiert gehärtetes Harz zu abgetragenen Harz um.</string>
     <string name="Laser Resin Liquifier">Laserharzverflüssiger</string>
@@ -1586,11 +1586,11 @@ Sehr Energie hungrig!</string>
     <string name="Liquified Resin">Verflüssigtes Harz</string>
     <string name="Liquified Resin_DESC">Das Harz wurde verflüssigt und kann nun eingesammelt werden.</string>
     <string name="Cold Creep Spawner">Kalter kriecher Erzeuger</string><!-- Not optimal, should be changed-->
-    <string name="Cold Creep Spawner_DESC">Cold Creep Spawner_DESC</string>
+    <string name="Cold Creep Spawner_DESC"/>
     <string name="CryoPlasm">Cryoplasma</string><!-- sticks to ceiling-->
     <string name="CryoPlasm_DESC">Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden</string>
     <string name="Cryoplasm">Cryoplasma</string><!-- laying on the floor-->
-    <string name="Cryoplasm_DESC">Cryoplasm_DESC</string>
+    <string name="Cryoplasm_DESC"/>
 
     <string name="Workfloor Excavator MK1">Arbeitsbodenbagger MK1</string><!--Straight form google :P  -->
     <string name="Workfloor Excavator MK1_DESC">Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus.</string>
@@ -1604,7 +1604,7 @@ Sehr Energie hungrig!</string>
     <string name="Imbued Machine Block_DESC">Produktionskomponente, die für Maschinen der Stufe 4 benötigt wird. Kann auch zum Bauen verwendet werden</string>
     <string name="CryoMine">Cryo Mine</string>
     <string name="CryoMine_DESC">Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird</string>
-    <string name="Bomber FALCOR">Bomber FALCOR</string>
+    <string name="Bomber FALCOR">FALCOR Bomber</string>
     <string name="Bomber FALCOR_DESC">Wirft auf grosse Distanz hergestellte Bomben auf dichtes Cryoplasma ab.</string>
     <string name="Freezon Injector">Freezoneinspritzanlage</string>
     <string name="Freezon Injector_DESC">Nutzt Freezonkartuschen um Leistungsverbesserungen für einige Maschinen bereitzustellen.</string>
