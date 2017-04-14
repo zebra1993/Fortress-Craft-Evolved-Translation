@@ -1173,7 +1173,7 @@ Sehr Energie hungrig!</string>
     <string name="Jet Turbine Generator_DESC">Der Spieler sollte nicht fähig sein dies je zu lesen...</string>
 
     <string name="Advanced Machine Block">Fortgeschrittener Maschinenblock</string>
-    <string name="Advanced Machine Block_DESC">Produktionskomponente welche für 3. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden.</string>
+    <string name="Advanced Machine Block_DESC">Produktionskomponente, die für Maschinen der Stufe 3 benötigt wird. Kann auch zum Bauen verwendet werden</string>
 
     <string name="Red Storage Crate">Rote Lagerkiste</string>
     <string name="Red Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
@@ -1300,21 +1300,21 @@ Sehr Energie hungrig!</string>
     <string name="T4 Turret_DESC">Nicht Wichtig</string>
     <!--Laserlogic, not implemented. Also not aviable anymore as its hidden in terrandata.xml -->
     <string name="Logic Laser Emitter">Logiklasersender</string>
-    <string name="Logic Laser Emitter_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Logic Laser Emitter_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser AND Gate">Laser UND Schaltung</string>
-    <string name="Laser AND Gate_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser AND Gate_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser OR Gate">Laser OR Schaltung</string>
-    <string name="Laser OR Gate_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser OR Gate_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser NOT Gate">Laser NICHT Schaltung</string>
-    <string name="Laser NOT Gate_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser NOT Gate_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser Pressure Pad">Laser Drucklatte</string>
-    <string name="Laser Pressure Pad_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser Pressure Pad_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser Splitter">Laserteiler</string>
-    <string name="Laser Splitter_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser Splitter_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser Mirror">Laserspiegel</string>
-    <string name="Laser Mirror_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser Mirror_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser Receptor">Laserempfänger</string>
-    <string name="Laser Receptor_DESC">Creativ Laser Maschiene.\nNicht Implementiert</string>
+    <string name="Laser Receptor_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
 
     <string name="Lift w/underside Piston">Lift mit unterseiten Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit.</string>
@@ -1417,7 +1417,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="MK5 PowerCore Charger">MK5 Energiekernlader</string>
     <string name="MK5 PowerCore Charger_DESC">Stellt automatisch einen einweg Energiekern her. Gibt ARTHER 2000 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</string>
     <string name="Crystal Clock Maker">Kristalltaktgeberproduktion</string>
-    <string name="Crystal Clock Maker_DESC">Stellt einen Taktgeber auf Kristall her. Wird verwendet um Maschienen auf einer bestimmten Taktrate zu halten.</string>
+    <string name="Crystal Clock Maker_DESC">Stellt einen Taktgeber aus Kristall her. Wird verwendet um Maschinen auf einer bestimmten Taktrate zu halten.</string>
     <string name="OverClocker">Übertakter</string>
     <string name="OverClocker_DESC">Nutzt grosse Megen Energie um Tacktergeber zu übertakten. Dieser wird in Hochstehenden Maschinen genutzt.</string>
     <string name="Crystal Coal Infuser">Kristallkohleneinflöser</string><!-- Not optimal-->
@@ -1431,9 +1431,9 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Steel Alloy Smelter">Legierungsstahlofen</string>
     <string name="Steel Alloy Smelter_DESC">Verhüttet automatisch Nickel und Eisen zu niederwertigen Stahlbarren.</string>
     <string name="Advanced Machine Block Assembler">Fortgeschrittene Maschinenblockmontage</string>
-    <string name="Advanced Machine Block Assembler_DESC">Stellt selbständig verbesserte Maschienenblöcke aus Stahl und Taktgebern her.</string>
+    <string name="Advanced Machine Block Assembler_DESC">Stellt selbständig verbesserte Maschinenblöcke aus Stahl und Taktgebern her.</string>
     <string name="Imbued Machine Block Assembler">Durchtränkte Maschinenblockmontage</string>
-    <string name="Imbued Machine Block Assembler_DESC">Stellt automatisch durchtränkte Maschienenblöcke auf Energiebooster und verbesserten Maschienenblöcken her.</string>
+    <string name="Imbued Machine Block Assembler_DESC">Stellt automatisch durchtränkte Maschinenblöcke aus Energiezellen und verbesserten Maschinenblöcken her.</string>
     <string name="Lens Polisher">Linsenpolierer</string>
     <string name="Lens Polisher_DESC">Nutzt Präzisionstechnoligie um unfokusierte Linsen aus nieder klassigen Linsen herzustellen. Kann verchromt werden um in Laserenergieübertragern verwendet zu werden.</string>
     <string name="Lens Chromer">Linsenverchromer</string>
@@ -1441,15 +1441,15 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Cryo Bomb Assembler">Cryobomben Montage</string>
     <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryoplasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten.</string>
     <string name="Chromed Block Assembler">Verchromte Blockmontage</string>
-    <string name="Chromed Block Assembler_DESC">Verchromt dirchtränkte Maschienenbläcke.</string>
+    <string name="Chromed Block Assembler_DESC">Verchromt durchtränkte Maschinenblöcke.</string>
     <string name="Hiemal Block Assembler">Hiemal Block Assembler</string><!-- No idea what that means or is-->
     <string name="Hiemal Block Assembler_DESC">Kaltfusioniert Chrom und magnetische Blöcke um einen hitzeresistenten Block zu erhalten.</string>
     <string name="Magnetic Block Assembler">Magnetische Blockmontage</string>
-    <string name="Magnetic Block Assembler_DESC">Magnetisert durchtränkte Maschienenblöcke.</string>
+    <string name="Magnetic Block Assembler_DESC">Magnetisiert durchtränkte Maschinenblöcke.</string>
     <string name="Alloyed Block Assembler">Legierte Blockmontage</string>
-    <string name="Alloyed Block Assembler_DESC">Nutz Gold um gehärtete Maschienenblöcke zu beschichten.</string>
+    <string name="Alloyed Block Assembler_DESC">Beschichtet gehärtete Maschinenblöcke mit Gold.</string>
     <string name="HardenedBlock Assembler">Gehärtete Blockmontage</string>
-    <string name="HardenedBlock Assembler_DESC">Nutzt einen Mischung aus Nickel und Titan um gehärtete Maschienenblöcke herzustellen.</string>
+    <string name="HardenedBlock Assembler_DESC">Nutzt eine Mischung aus Nickel und Titan um gehärtete Maschinenblöcke herzustellen.</string>
     <string name="Construction Paste Grinder">Konstruktionspastenmühle</string>
     <string name="Construction Paste Grinder_DESC">Uses 'garbage' blocks to make Construction Paste.</string>
     <string name="Cluster Missile Crafter">Swarmraketenproduktion</string>
@@ -1494,7 +1494,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="MK5 Battery Component">MK5 Batteriekomponente</string>
     <string name="MK5 Battery Component_DESC">Wird in einer 5x5 Konfiguration mit 9 Höhe aufgestellt um die grösste Speicherlösung für Energie darzustellen. (Total 225 Blöcke benötigt)</string>
     <string name="MK2 Solar Panel Component">MK2 Solarpanelekomponente</string>
-    <string name="MK2 Solar Panel Component_DESC">Stelle das Solarpanel in einer 3x3 Grundplatte auf. Kann nur auf Hochstufigen Maschienen gebaut werden.</string>
+    <string name="MK2 Solar Panel Component_DESC">Stelle das Solarpanel in einer 3x3 Grundplatte auf. Kann nur auf Hochstufigen Maschinen gebaut werden.</string>
     <string name="T4 Energy Turret component">T4 Energieturmkomponenter</string>
     <string name="T4 Energy Turret component_DESC">Erzeugt einen 3x3x3 Waffenturm. Grosser Schaden, viel Energieverbrauch.</string>
     <string name="Fusion Reactor Pylon comp.">Fusionsreaktor Säulenkomponente</string>
@@ -1518,7 +1518,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Climate Control Centre">Klimakontrollzentrum</string>
     <string name="Climate Control Centre_DESC">Startet die erwärmung der Cold Cavern um sie für Menschen bewohnbar zu machen. Wird in einer 5x5 Grundplatte mit 7 Höhe aufgebaut. (175 Blöcke im totalen)</string>
     <string name="Hard Rock Grinder">Hartsteinmühle</string>
-    <string name="Hard Rock Grinder_DESC">Einweg, multiblock Maschiene. Ermöglicht es kleinen Mengen Chrom oder Molybdän zu sammeln. wird in einer 3x3 Grundplatte aufgebaut.</string>
+    <string name="Hard Rock Grinder_DESC">Einweg, multiblock Maschine. Ermöglicht es kleinen Mengen Chrom oder Molybdän zu sammeln. Wird in einer 3x3 Grundplatte aufgebaut.</string>
     <string name="MagmaBore Component">Magmabohrerkomponente</string>
     <string name="MagmaBore Component_DESC">Bohrt mit einem enormen Bohrer in die Magamakammern um die Kalten Höhlen mit wärme zu fluten. Wird in einer 33x33 Grundplatte mit 3 Höhe aufgebaut. (3276 Blöcke im totalen) Braucht 8 Meter Freiraum um zu beginnen.</string>
     <string name="Particle Filter">Partikelfilter</string>
@@ -1534,7 +1534,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Ore Thief">Erzdieb</string><!-- Not optimal-->
     <string name="Ore Thief_DESC">Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschliessend in angrenzende Trichter befördert. Wird in einem 3x3 Grundriss gebaut.</string>
     <string name="Magma Storage">Magmaspeicher</string>
-    <string name="Magma Storage_DESC">Erhält flüssige Magam von den zuständigen Maschienen durch Flüssigkeitsrohre.</string>
+    <string name="Magma Storage_DESC">Erhält flüssiges Magma von zuständigen Maschinen durch Flüssigkeitsrohre.</string>
     <string name="Cryo Inferno">Cryo Inferno</string><!-- Not optimal-->
     <string name="Cryo Inferno_DESC">Die ultimative Waffe gegen Creep. Braucht direkte Sicht zum Creepspawner um zu arbeiten.</string>
     <string name="Garbage Thief">Abfalldieb</string><!-- Not optimal-->
@@ -1605,13 +1605,13 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Slime Attractor">Schleimanzieher</string> <!-- Not optimal-->
     <string name="Slime Attractor_DESC">Zeiht Slimes an</string>
     <string name="Imbued Machine Block">Durchttränkter Maschinenblock</string><!-- Not optimal-->
-    <string name="Imbued Machine Block_DESC">Produktionskomponente welche für 4. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden</string>
+    <string name="Imbued Machine Block_DESC">Produktionskomponente, die für Maschinen der Stufe 4 benötigt wird. Kann auch zum Bauen verwendet werden</string>
     <string name="CryoMine">Cryo Mine</string>
     <string name="CryoMine_DESC">Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird</string>
     <string name="Bomber FALCOR">Bomber FALCOR</string>
     <string name="Bomber FALCOR_DESC">Wirft auf grosse Distanz hergestellte Bomben auf dichtes Cryoplasma ab.</string>
     <string name="Freezon Injector">Freezoneinspritzanlage</string>
-    <string name="Freezon Injector_DESC">Nutzt Freezonkartuschen um Leistungsverbesserungen für einige Maschienen bereitzusttellen.</string>
+    <string name="Freezon Injector_DESC">Nutzt Freezonkartuschen um Leistungsverbesserungen für einige Maschinen bereitzustellen.</string>
     <string name="H.E.I.S.T.">H.E.I.S.T.</string>
     <string name="H.E.I.S.T._DESC">Hopper Emptying Inventory Storage Transporter (Hopper leerender Inventar lagerungs Transporter) - Transferiert automatisch gegenstände in das Spielerinventar. H.E.I.S.T. oder H.L.I.L.T für kurz.</string>
     <string name="NanoDisintegrator">Nanozerleger</string>
@@ -1635,9 +1635,9 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Airbone Particulate Extractor">Schwebender Partikelextraktor</string>
     <string name="Airbone Particulate Extractor_DESC">Nicht Wichtig</string>
     <string name="Fluid Pipe (Straight)">Flüssigkeitsrohr (gerade)</string>
-    <string name="Fluid Pipe (Straight)_DESC">Ermöglicht den Anschluss von passenden Maschienen. Kann Gase transportieren.</string>
+    <string name="Fluid Pipe (Straight)_DESC">Ermöglicht den Anschluss von passenden Maschinen. Kann auch Gase transportieren.</string>
     <string name="Fluid Pipe (Bend)">Flüssigkeitsrohr (gebogen)</string>
-    <string name="Fluid Pipe (Bend)_DESC">Ermöglicht den Anschluss von passenden Maschienen. Kann Gase transportieren.</string>
+    <string name="Fluid Pipe (Bend)_DESC">Ermöglicht den Anschluss von passenden Maschinen. Kann auch Gase transportieren.</string>
     <string name="Airbone Particulate Compressor">Schwebender Partikelkompressor</string>
     <string name="Airbone Particulate Compressor_DESC">Nicht Wichtig</string>
     <string name="Compressed Gas Storage">Komprimiertes Gaslager</string>
@@ -1722,23 +1722,23 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Workshop Placement_DESC">Wird diagonal Plaziert\n Erzeugt eine Datailblockwerkstatt\nGrösse von 2x2x2 bis 8x8x8</string>
 
     <!-- Manufacturer and other crafting plant strings -->
-    <string name="Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Braucht freie Sicht zum Himmel.</string>
-    <string name="Solar Panel_CRAFT_HINT">Perfekt um kleinleistungs Maschienen zu versorgen.</string>
-    <string name="Organic Solar Panel_CRAFT_DESC">Solarpanellen versorgen angrenzende Maschienen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei nacht einwenig energie einfangen. Braucht freie Sicht zum Himmel.</string>
+    <string name="Solar Panel_CRAFT_DESC">Solarpaneelen versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tags. Braucht freie Sicht zum Himmel.</string>
+    <string name="Solar Panel_CRAFT_HINT">Perfekt um Kleinleistungsmaschinen zu versorgen.</string>
+    <string name="Organic Solar Panel_CRAFT_DESC">Solarpaneelen versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei Nacht ein wenig Energie einfangen. Braucht freie Sicht zum Himmel.</string>
     <string name="Organic Solar Panel_CRAFT_HINT">Braucht freien Himmel!</string>
     <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt mittelviel Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden.</string>
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
     <string name="MK2 Organic Solar Component_CRAFT_DESC">Sammelt mittelviel Energie am Tag und einen kleinen Teil auch bei Nacht. Hat die selben plazierungs restriktionen wie die normale version.</string>
     <string name="MK2 Organic Solar Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
-    <string name="Pyrothermic Generator_CRAFT_DESC">Verbrennt Resourcen aus angrenzenden Trichtern um angrenzende Maschienen mit Energie zu versorgen. Verliert effizient bei zunemender Tiefe wegen schlechter ventilation. Nutze Laserenergieübertrager um Energie tiefer zu senden.</string>
+    <string name="Pyrothermic Generator_CRAFT_DESC">Verbrennt Ressourcen aus angrenzenden Trichtern um angrenzende Maschinen mit Energie zu versorgen. Verliert bei zunehmender Tiefe Effizienz wegen schlechter Ventilation. Nutze Laserenergieüberträger um Energie tiefer zu senden.</string>
     <string name="Pyrothermic Generator_CRAFT_HINT">Muss mit einem Trichter verbunden sein.</string>
-    <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschienen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um Vertikal Energie zu übertragen.</string>
+    <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Maximale Distanz: 64. Verbessern so bald wie möglich.</string>
-    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschienen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um Vertikal energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK1_CRAFT_HINT">Maximale Distanz: 64.</string>
-    <string name="Laser Energy Transmitter MK2_CRAFT_DESC">Überträgt Energie mittel schnell von einem Generator oder Batterie bis zu 64m weit. Kann Maschienen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um Vertikal Energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK2_CRAFT_DESC">Überträgt Energie mittelschnell von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Überträger versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK2_CRAFT_HINT">Stufe 2 überträgt mehr Energie!</string>
-    <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschienen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um Vertikal energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Überträger versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK3_CRAFT_HINT">Grösster Einzel-Block Energieübertrager.</string>
     <string name="Power Storage Block_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 200 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
     <string name="Power Storage Block_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 200 Energie zu versorgen</string>
@@ -1746,7 +1746,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Power Storage MK2_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 1500 Energie zu versorgen</string>
     <string name="Power Storage MK3_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 5000 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
     <string name="Power Storage MK3_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 5000 Energie zu versorgen</string>
-    <string name="Induction Charger_CRAFT_DESC">Einfache, unkomplizierte Lösung wenig Energie an viele Maschienen zu verteilen. Aufgebaut in einer 5x5 Platte.</string>
+    <string name="Induction Charger_CRAFT_DESC">Einfache, unkomplizierte Lösung, um wenig Energie an viele Maschinen zu verteilen. Wird aufgebaut in einer 5x5 Grundplatte.</string>
     <string name="Induction Charger_CRAFT_HINT">Grossartig für Raketenbatterien, Energiekernlader und Raffinierien und Harzveredelungen!</string>
     <string name="Ore Thief_CRAFT_DESC">Handliche möglichkeit Erz aus dem Invental zu entfernen. Als eine 3x3 Platte aufbauen, draufstehn! Braucht kleine Mengen Energie und einen angrenzenden Trichter.</string>
     <string name="Ore Thief_CRAFT_HINT">Keine Zeit für Faulheit!</string>
@@ -1774,19 +1774,19 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="MiniHopper_CRAFT_HINT">Verteilt Ressourcen sehr langsam.</string>
     <string name="LogisticsHopper_CRAFT_DESC">Anfangs Lagerlösung. Lagert bis zu 2 Ressourcen aber gibt sie schneller ab als der Mini-Trichter. Schnell genug für einen einfachen Erzförderer. Paralellnutzung sollte in betracht gezogen werden.</string>
     <string name="LogisticsHopper_CRAFT_HINT">Verteilt Ressourcen relativ schnell.</string>
-    <string name="Storage Hopper_CRAFT_DESC">Lagert bis zu 100 Ressourcen und gibt diese wieder schnell ab. Nutzen um andere Maschienen zu automatisieren. Befugnisse werden eingesetzt um einen Korrekten Materielfluss zu erhalten. Handbucheintrag beachten.</string>
-    <string name="Storage Hopper_CRAFT_HINT">Kann zur Automation von Maschienen genutzt werden.</string>
+    <string name="Storage Hopper_CRAFT_DESC">Lagert bis zu 100 Ressourcen und gibt diese wieder schnell ab. Nutzen um andere Maschinen zu automatisieren. Befugnisse werden eingesetzt um einen korrekten Materialfluss zu erhalten. Handbucheintrag beachten.</string>
+    <string name="Storage Hopper_CRAFT_HINT">Kann zur Automation von Maschinen genutzt werden.</string>
     <string name="Torch_CRAFT_DESC">Minderwertige Licht- und Wärmequelle.\nNutze dies um deine Basis warum zu halten.</string>
     <string name="Torch_CRAFT_HINT">Vorsicht : Feuer ist heiss!</string>
     <string name="Electric Light_CRAFT_DESC">Gibt ein kalt blaues Licht ab, braucht Energie.</string>
     <string name="Electric Light_CRAFT_HINT">Wirft licht in einem Bogen von 180°</string>
-    <string name="Emergency Siren_CRAFT_DESC">Gibt einen Ton ab wenn angrenzende Maschiene keine Energie mehr hat.</string>
+    <string name="Emergency Siren_CRAFT_DESC">Gibt einen Ton ab, wenn die angrenzende Maschine keine Energie mehr hat.</string>
     <string name="Emergency Siren_CRAFT_HINT">Kann ebenfalls auf Förderbändern und Lagertrichter verwendet werden.</string>
-    <string name="Red Warning Light_CRAFT_DESC">An eine Energiebrauchende Maschiene anschliessen um ein rotes Licht zu erhalten.</string>
+    <string name="Red Warning Light_CRAFT_DESC">An eine energiebrauchende Maschine anschliessen um ein rotes Licht zu erhalten.</string>
     <string name="Red Warning Light_CRAFT_HINT">Nicht zuviele plazieren, wird nervig mti der Zeit.</string>
-    <string name="Warning Strobe_CRAFT_DESC">Beginnt zu blinken wenn angrenzende Maschiene keine Energie mehr hat.</string>
+    <string name="Warning Strobe_CRAFT_DESC">Beginnt zu blinken, wenn die angrenzende Maschine keine Energie mehr hat.</string>
     <string name="Warning Strobe_CRAFT_HINT">Nicht zuviele plazieren, wird nervig mti der Zeit.</string>
-    <string name="Orange Warning Light_CRAFT_DESC">Beginnt zu blinken wenn angrenzende Maschiene keine Energie mehr hat.</string>
+    <string name="Orange Warning Light_CRAFT_DESC">Beginnt zu blinken, wenn die angrenzende Maschine keine Energie mehr hat.</string>
     <string name="Orange Warning Light_CRAFT_HINT">Nicht zuviele plazieren, wird nervig mti der Zeit.</string>
     <string name="Sign_CRAFT_DESC">Nutze dies um dich zu erinnern was du tun wolltest.</string>
     <string name="Sign_CRAFT_HINT">Vielen Dank an die Patreonunterstütze welche das ganze zum Leben gebracht haben!</string>
@@ -2032,7 +2032,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="ARTHER Goblin Mask_CRAFT_DESC">Nutze grüne Leuchtschoten um einen schön grünen Leuchteffekt zu erhalten.</string>
     <string name="ARTHER Goblin Mask_CRAFT_HINT">Dooo-OOOOO-ooooot!</string>
     <string name="ARTHER Santa Mask_CRAFT_DESC">Er weiss das du unartig warst. Aber ud hast das Dapper DLC gekauft, somit bist du offensichtlich nett!</string>
-    <string name="ARTHER Santa Mask_CRAFT_HINT">Jeztz hab ich eine Maschienenpistole. Ho. Ho. Ho.</string>
+    <string name="ARTHER Santa Mask_CRAFT_HINT">Jetzt hab ich eine Maschinenpistole. Ho. Ho. Ho.</string>
     <string name="ARTHER Ghost Costume_CRAFT_DESC">WELCHER TERROR VERBIRGT SICH UNTER DEM LAKEN DES GRAUENS ?!?</string>
     <string name="ARTHER Ghost Costume_CRAFT_HINT">Antwort: Es ist Arther.</string>
     <string name="ARTHER Turret_CRAFT_DESC">Verteidigungsturm der nur Funktionier wenn Arther ihn besetzt hat. Grosse Reichweite von 64m, wenig Energieverbrauch. Ideal für die anfänge von Förderbandverteidigung!</string>
@@ -2139,14 +2139,14 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
 
     <string name="Manufacturing Plant_CRAFT_DESC">Konstruktuinsanlagen erlauben automatische Produktion von Maschinen. Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden!</string>
     <string name="Manufacturing Plant_CRAFT_HINT"> Setzt ein Bauwerkzeug V2 vorraus um bewegt zu werden</string>
-    <string name="Location Marker_CRAFT_DESC">Speichert einen Standort. In Maschienen verwenden welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</string>
+    <string name="Location Marker_CRAFT_DESC">Speichert einen Standort. In Maschinen verwenden, welche einen Standort benötigen. Der Teleporter ist ein Beispiel. Handbuch beachten für weitere Informationen.</string>
     <string name="Location Marker_CRAFT_HINT">Das Auswählen eines Markierers in der Schnellzugriffsleiste zeigt den gespeicherten Standort an.</string>
     <string name="Teleporter_CRAFT_DESC">Um teleportieren zu können müssen genug Energie und ein Standortmakierer vorhanden sein. Springen während man auf dem Teleporter steht.</string>
     <string name="Teleporter_CRAFT_HINT">Springen während man auf dem Teleporter steht!</string>
     <string name="Chargeable Explosive_CRAFT_DESC">Mit Energie versorgen um Zerstörungsradius zu vergrössern. Erhält Energie wenn abgebaut. Aus Sicherheitsbedenken wird empfohlen den Sprengsatz nicht in der Nähe von irgenwas wichtigem zu laden.</string>
     <string name="Chargeable Explosive_CRAFT_HINT">Braucht geladene Energie um zu funktionieren!</string>
     <!-- Usables -->
-    <string name="NanoDisintegrator_CRAFT_DESC">Eine Einwegmaschiene. Kann alles zerstören auf was sie platziert wird. EXTREME VORSICHT BEIM EINSATZ!</string>
+    <string name="NanoDisintegrator_CRAFT_DESC">Eine Einwegmaschine. Kann alles zerstören auf was sie platziert wird. EXTREME VORSICHT BEIM EINSATZ!</string>
     <string name="NanoDisintegrator_CRAFT_HINT">EXTREME-VORSICHT-BEIM-EINSATZ!</string>
     <string name="Blank Ore Ping_CRAFT_DESC">Ein verwendbarer Gegenstand welcher einen Erzping aussendet ohne Energie zu brauchen. Mit Erz kombinieren um Selbstherstellmenu (C) um einen spezifischen Erzping zu erhalten.</string>
     <string name="Blank Ore Ping_CRAFT_HINT">Mit Erz kombinieren um Selbstherstellmenu (C) um einen spezifischen Erzping zu erhalten.</string>
@@ -2186,7 +2186,7 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="MK1 Robot Arm_CRAFT_DESC">Bewegt selbständig einen bestimmten Typ Erz zwischen Förderbändern.</string>
     <string name="MK1 Robot Arm_CRAFT_HINT">Nutze dies um deine Förderbänder zu organisieren.</string>
     <string name="Copper Housing_CRAFT_DESC">Kupferbasiertes Gehäuse.</string>
-    <string name="Copper Housing_CRAFT_HINT">Kann einfache Maschienen sicher behausen.</string>
+    <string name="Copper Housing_CRAFT_HINT">Kann einfache Maschinen sicher behausen.</string>
     <string name="Geological Surveyor_CRAFT_DESC">Gibt Rückmeldung welche Ressourcen sich unter dem Vermesser sind. Wird genutzt um besten Platz für deinen Steinbruch zu finden!</string>
     <string name="Geological Surveyor_CRAFT_HINT">Wird genutzt um besten Platz für deinen Steinbruch zu finden!</string>
     <string name="Basic Quarry_CRAFT_DESC">Gibt alle Ressourcen zurück welche aus dem Schacht gefördert werden.</string>
@@ -2251,8 +2251,8 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="ConstructoBot Leg Assembler_CRAFT_HINT">Montiert T0 Kupferin ConstructoBot Beine.</string>
     <string name="ConstructoBot Arm Assembler_CRAFT_DESC">Montiert T0 Kupferin ConstructoBot Arme.</string>
     <string name="ConstructoBot Arm Assembler_CRAFT_HINT">Montiert T0 Kupferin ConstructoBot Arme.</string>
-    <string name="ConstructoBot Constructor_CRAFT_DESC">Produziert einen Maschienen welche ConstructoBots produziert.</string>
-    <string name="ConstructoBot Constructor_CRAFT_HINT">Produziert einen Maschienen welche ConstructoBots produziert.</string>
+    <string name="ConstructoBot Constructor_CRAFT_DESC">Produziert eine Maschine, die ConstructoBots produziert.</string>
+    <string name="ConstructoBot Constructor_CRAFT_HINT">Produziert eine Maschine, die ConstructoBots produziert.</string>
     <!--Cargo Lifts-->
     <string name="Cargo Lift Controller_CRAFT_DESC">Bauen als eine 3x1x3 Platte über einem 3x3 Schacht um automatisch einen Lift zu bauen.</string>
     <string name="Cargo Lift Controller_CRAFT_HINT">Braucht Energie und Zahnstangen.</string>
@@ -2328,11 +2328,11 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
 
     <string name="Coal Enricher_CRAFT_DESC">Konvertierte einen Zerkleiner und unberührte Drüsen von Wespen oder Slimes um kohle zur doppelten Energierate zu bingen. braucht keines ressourcen wenn fertig, Gib ihm aber ein bischen Energie!</string><!--Not Iptimal, shoudl be changed as it sounds verry bad-->
     <string name="Coal Enricher_CRAFT_HINT">Verdoppelt die Energie die durch das verbrennen von Kohle entsteht.</string>
-    <string name="Crystal Coal Infuser_CRAFT_DESC">Konvertierte einen Zerkleinerer und Kristalltaktgeber zu einer Maschiene welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch einmal zu verdoppeln.</string>
+    <string name="Crystal Coal Infuser_CRAFT_DESC">Konvertiert einen Zerkleinerer und Kristalltaktgeber zu einer Maschine, welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch einmal zu verdoppeln.</string>
     <string name="Crystal Coal Infuser_CRAFT_HINT">Vervierfacht die Energie die durch das verbrennen von Kohle entsteht.</string>
     <string name="Plasma Head Charger_CRAFT_DESC">Fügt einem einfachen Stahlschneidkopf Energie hinzu, um einen leistungsstärkeren Plasmaschneidkopf zu erhalten.</string>
     <string name="Plasma Head Charger_CRAFT_HINT">Vervierfacht die Arbeitsrate bei einem Erzförderer. Ladung hält jedoch nur 2000 Erzextraktionen.</string>
-    <string name="Climate Control Centre_CRAFT_DESC">Das kalte Höhlen Klimakontrollcenter sollte nun beginnen die kalten Höhlen in eine bewohnbare Umgebung umzuwandeln. Alle T4 unterstützungs Maschienen benötigen diese Maschiene um zu funktionieren. 175 Blöcke total</string>
+    <string name="Climate Control Centre_CRAFT_DESC">Das kalte Höhlen Klimakontrollcenter sollte nun beginnen, die kalten Höhlen in eine bewohnbare Umgebung umzuwandeln. Alle T4 Unterstützungsmaschinen benötigen diese Maschine um zu funktionieren. 175 Blöcke total</string>
     <string name="Climate Control Centre_CRAFT_HINT">Aufbau in einer 5x5 Platte mit 7 Höhe.</string>
     <string name="Trencher Drill component_CRAFT_DESC">Stellt den Bohrkopf von einem Schaufelbohrer dar. Wird in einer 3x3x3 Konfiguration vor dem Motor aufgestellt.</string>
     <string name="Trencher Drill component_CRAFT_HINT">Effekivität hängt von der Abdeckung des Bohrkopfs zur Erzader ab.</string>
@@ -2356,19 +2356,19 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Mesh Weaver_CRAFT_HINT">Kein Hinweis verfügbar</string>
     <string name="Pipe Coater_CRAFT_DESC">Stellt Hitzeleitenderohre her, welche bei Geothermalgeneratoren benötig werden.</string>
     <string name="Pipe Coater_CRAFT_HINT">Kein Hinweis verfügbar</string>
-    <string name="Hard Rock Grinder_CRAFT_DESC">Diese Mascheine wird es uns ermöglichen langsam und ineffizient T4 Erze zu zermahlen. Mit dem so gewonnenen Erzen können wir neue, bessere Maschienen bauen. Aufbau in 3x3 Platte.</string>
-    <string name="Hard Rock Grinder_CRAFT_HINT">!EINWEG MASCHIENE!</string>
+    <string name="Hard Rock Grinder_CRAFT_DESC">Diese Maschine wird es uns ermöglichen, langsam und ineffizient T4 Erze zu zermahlen. Mit den so gewonnenen Erzen können wir neue, bessere Maschinen bauen. Aufbau in 3x3 Platte.</string>
+    <string name="Hard Rock Grinder_CRAFT_HINT">!EINWEG MASCHINE!</string>
     <string name="Particle Filter_CRAFT_DESC">Filtert nutzvolle Partikel aus der Luft. Aufbau in einer 5x5 Platte mit 3 Höhe (75 Block total).</string>
     <string name="Particle Filter_CRAFT_HINT">Unwahrscheinlich langfristig Schäden in der Athmosphäre zu hinterlassen.</string>
     <string name="Particle Compressor_CRAFT_DESC">Kühlt und Komprimiert niederdruck Gas. Bereit gelagert udn abgefüllt zu werden. Aufbau in einem 3x3x3 Würfel.</string>
-    <string name="Particle Compressor_CRAFT_HINT">Diese Maschiene kann 4 Filter angeschlossen haben.</string>
+    <string name="Particle Compressor_CRAFT_HINT">Diese Maschine kann 4 Filter angeschlossen haben.</string>
     <string name="Particle Storage_CRAFT_DESC">Lagert komprimiertes Gas welches bereit für die abfüllung ist. Wird in einer 3x3 Platte mit 7 höhe aufgebaut (63 Block in total).</string>
-    <string name="Particle Storage_CRAFT_HINT">Diese Maschiene kann 4 Kompressoren angeschlossen haben.</string>
+    <string name="Particle Storage_CRAFT_HINT">Diese Maschine kann 4 Kompressoren angeschlossen haben.</string>
     <string name="Gas Bottler_CRAFT_DESC">Füllt Komprimiertes Gas in nutzbare Behälter ab. Aufbau in einer 3x9 Platte mit 3 Höhe aufgebaut (81 Block total).</string>
     <string name="Gas Bottler_CRAFT_HINT">Angrenzende Lagertrichter werden mit Behältern befüllt.</string>
-    <string name="Fluid Pipe (Straight)_CRAFT_DESC">Verbindet verschiedene Maschienen zusammen.</string>
+    <string name="Fluid Pipe (Straight)_CRAFT_DESC">Verbindet verschiedene Maschinen zusammen.</string>
     <string name="Fluid Pipe (Straight)_CRAFT_HINT">Wenn's nicht aufleuchtet ists eventuall am falschen Platz!</string>
-    <string name="Fluid Pipe (Bend)_CRAFT_DESC">Verbindet verschiedene Maschienen zusammen.</string>
+    <string name="Fluid Pipe (Bend)_CRAFT_DESC">Verbindet verschiedene Maschinen zusammen.</string>
     <string name="Fluid Pipe (Bend)_CRAFT_HINT">Wenn's nicht aufleuchtet ists eventuall am falschen Platz!</string>
     <string name="MagmaBore Component_CRAFT_DESC">Gräbt ein sehr, sehr, sehr grosses Loch und zieht Magma dadurch. Wird in einer 33x33 Platte mit 3 Höhe gebaut (3267 Blöcke Total). Braucht darüber 100 Blöcke Freiraum.</string>
     <string name="MagmaBore Component_CRAFT_HINT">Magma, besser als es klingt.</string>
@@ -2376,8 +2376,8 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Magma Storage_CRAFT_HINT">Magma, besser als es klingt.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Nutzt herangepumptes Magma um Cryoplasma spawner in Reichweite zu zerstören. Aufgebaut in einem 3x3x3 Würfel.</string>
     <string name="Cryo Inferno_CRAFT_HINT">Das Inferno braucht 15 Minuten Brennzeit und darf für max. 30 Sekunden unterbrochen werden um volle Wirkung zu entfalten. Viel Glück.</string>
-    <string name="Freezon Injector_CRAFT_DESC">Anhängen an einen Lagertricher um komprimiertes Freezon in eine kompatible Maschiene einzuspritzen.</string>
-    <string name="Freezon Injector_CRAFT_HINT">Handbuch beachten um kompatible Maschienen und deren Effekte zu sehn.</string>
+    <string name="Freezon Injector_CRAFT_DESC">An einen Lagertricher anhängen, um komprimiertes Freezon in eine kompatible Maschine einzuspritzen.</string>
+    <string name="Freezon Injector_CRAFT_HINT">Handbuch beachten, um kompatible Maschinen und deren Effekte zu sehen.</string>
     <string name="Laser Borer_CRAFT_DESC">Nutzt HETK um einen BFL Minenlaser zu Turbo-Laden. Schachtet einen 3x3 Vertikalen Schacht extrem schnell aus. Versorgung von HETK via angrenzenden Lagertrichter. Wird in eine 3x3x Würfel aufgebaut.</string>
     <string name="Laser Borer_CRAFT_HINT">Achtung! Gefahr! Platzierung sicherstellen bevor mit Energie versorgt wird.</string>
 
