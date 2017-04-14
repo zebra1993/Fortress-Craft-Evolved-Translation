@@ -669,17 +669,17 @@
     <string name="My First Roof">Meine erste Decke</string>
     <string name="My First Roof_DESC">My First Roof_DESC</string>
     <string name="My First Brick">Mein erster Ziegelstein</string>
-    <string name="My First Brick_DESC"/>
+    <string name="My First Brick_DESC">Hurra, ich hab meinen ersten Backstein platziert</string>
     <string name="My First Window">Mein erstes Fenster</string>
-    <string name="My First Window_DESC"/>
+    <string name="My First Window_DESC">Mein erstes Fenster, schön wie die Sonne durch scheint.</string>
     <string name="My First Basket">Mein erster Korb</string>
-    <string name="My First Basket_DESC"/>
+    <string name="My First Basket_DESC">Weg mit dem nutzlosen Zeug</string>
     <string name="My First Bookcase">Mein erstes Büchergestell</string>
-    <string name="My First Bookcase_DESC"/>
+    <string name="My First Bookcase_DESC">Bücherregal, beinhaltet Bücher</string>
     <string name="My First Closet">Mein erster Schrank</string>
-    <string name="My First Closet_DESC"/>
+    <string name="My First Closet_DESC">Schrank, hat einige alte und müffelige Kleider drin</string>
     <string name="My First Wallpaper">Meine erste Tapete</string>
-    <string name="My First Wallpaper_DESC"/>
+    <string name="My First Wallpaper_DESC">Knuddelige Flauschfaser Tapete</string>
     <string name="Water">Wasser</string>
     <string name="Water_DESC">Wasser. Neben Luft das Wichtigste zum Überleben. Zum Glück kümmert sich mein Raumanzug darum</string>
     <string name="Space Bubbles">Weltraum Blasen</string><!-- this sounds horrible-->
@@ -961,9 +961,9 @@
     <string name="Rough Hewn Rock">Roh gehauner stein</string>
     <string name="Rough Hewn Rock_DESC">Rough Hewn Rock_DESC</string>
     <string name="Chilled Cavern Stone">Gekühlter Höhlenstein</string>
-    <string name="Chilled Cavern Stone_DESC"/>
+    <string name="Chilled Cavern Stone_DESC">Normaler Stein, blos kälter.</string>
     <string name="Toxic Cavern Stone">Giftiger Höhlenstein</string>
-    <string name="Toxic Cavern Stone_DESC"/>
+    <string name="Toxic Cavern Stone_DESC">Normaler Stein, blos giftig.</string>
     <string name="Bare Wood Floor">Unbehandelter Holzboden</string> <!-- Not optimal-->
     <string name="Bare Wood Floor_DESC">Bare Wood Floor_DESC</string>
     <string name="Bare Wood Floor 2">Unbehandelter Holzboden 2</string>
@@ -1066,20 +1066,22 @@
     <string name="Laser Energy Transmitter MK3">Laserenergieübertrager MK3</string>
     <string name="Laser Energy Transmitter MK3_DESC">Größter Einblock Energieüberträger.</string>
     <string name="BFL-9000">BFL-9000</string><!-- BFL means Big Fu**ing laser what would be Scheiss grosser Laser "SGL" but i think BFL is just right :-) -->
-    <string name="BFL-9000_DESC">Massiver Minen Laser.\nSchneidet 5x5 Tunnel.\nMassiv Energie hungrig!</string>
+    <string name="BFL-9000_DESC">Massiver Minen Laser.
+Schneidet 5x5 Tunnel.
+Sehr Energie hungrig!</string>
     <string name="Pyrothermic Generator">Pyrothermischer Generator</string>
     <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
     <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI bewegungs Steuerung</string><!-- Not optimal-->
     <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI Roboter.\nVerschiebt Erze zwischen Hoppern.\nGeringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massebeweger</string>
-    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Dinge/min auf 64m Entfernung</string>
+    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Dinge/min auf 64m Entfernung.</string>
     <string name="Dual Matter Mover">Dual Massebeweger</string>
-    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Dinge/min auf 32m Entfernung</string>
+    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Dinge/min auf 32m Entfernung.</string>
     <string name="Quad Matter Mover">Quad Massebeweger</string>
-    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Dinge/min auf 16m Entfernung</string>
+    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Dinge/min auf 16m Entfernung.</string>
     <string name="Multi Matter Mover">Multi Massebeweger</string>
-    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Dinge/min auf 4m Entfernung</string>
+    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Dinge/min auf 4m Entfernung.</string>
     <!--Ore smelters-->
     <string name="Ore Smelter">Schmelzofen</string>
     <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode Barren aus Ressourcen herzustellen.</string>
@@ -1097,15 +1099,15 @@
     <string name="Transport Pipe Filter">Transportrohrfilter</string>
     <string name="Transport Pipe Filter_DESC">Entfernt Materialien regelbasierend.</string>
     <string name="Stamper Plant">Stempel Maschine</string>
-    <string name="Stamper Plant_DESC">Verarbeitet Barren zu Platten</string>
+    <string name="Stamper Plant_DESC">Verarbeitet Barren zu Platten.</string>
     <string name="Extrusion Plant">Extrudier Maschine</string>
-    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähten</string>
+    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähten.</string>
     <string name="Coiler Plant">Wickelmaschine</string>
     <string name="Coiler Plant_DESC">Verarbeitet Drähte zu Spulen.</string>
     <string name="Pipe Extrusion Plant">Rohrextrudier Maschine</string>
-    <string name="Pipe Extrusion Plant_DESC">Verarbeitet Barren zu Rohren</string>
+    <string name="Pipe Extrusion Plant_DESC">Verarbeitet Barren zu Rohren.</string>
     <string name="PCB Assembling Plant">Leiterplatten Montagemaschine</string>
-    <string name="PCB Assembling Plant_DESC">Verarbeitet Spulen zu Leiterplatten</string>
+    <string name="PCB Assembling Plant_DESC">Verarbeitet Spulen zu Leiterplatten.</string>
     <string name="Conveyor Turntable">Förderbanddrehtisch</string>
     <string name="Conveyor Turntable_DESC">Verteilt Dinge automatisch nach allen Seiten wenn nicht blockiert</string>
     <string name="Advanced Conveyor Filter">Erweiterter Förderbandfilter</string>
@@ -1138,7 +1140,7 @@
     <string name="Turret MK3">Laserturm MK3</string>
     <string name="Turret MK3_DESC">Gut für Grossdistanzverteidigung.</string>
     <string name="Auto Excavator">Automatischer Bagger</string>
-    <string name="Auto Excavator_DESC">Hebt selbständig grosse Schächte von unterher aus.</string>
+    <string name="Auto Excavator_DESC">Hebt selbständig grosse Schächte von unten aus.</string>
     <string name="Teleporter">Teleporter</string>
     <string name="Teleporter_DESC">Versetzt den Benutzer zur gespeicherten Position vom installierten Positionsmarker. Braucht haufenweise Energie!</string>
     <string name="Geological Surveyor">Geologischer Landvermesser</string>
@@ -1149,19 +1151,26 @@
     <string name="3D Printer">3D Drucker</string>
     <string name="3D Printer_DESC">Werkbankmodul\nSchaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Compressor">Verdichter</string>
-    <string name="Compressor_DESC">Werkbankmodul\nSchatet die Verdichter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Compressor_DESC">Werkbankmodul
+Schatet die Verdichter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Extruder Module">Extrudiermodul</string>
-    <string name="Extruder Module_DESC">Werkbankmodul\nSchaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Extruder Module_DESC">Werkbankmodul
+Schaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Chip Etcher">Chipätzer</string>
-    <string name="Chip Etcher_DESC">Werkbankmodul\nSchaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Chip Etcher_DESC">Werkbankmodul
+Schaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Hydrojet Cutter">Wasserstrahlschneider</string>
-    <string name="Hydrojet Cutter_DESC">Werkbankmodul\nSchaltet die Wasserstrahlschneider Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Hydrojet Cutter_DESC">Werkbankmodul
+Schaltet die Wasserstrahlschneider Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Robotic Welder">Schweissroboter</string>
-    <string name="Robotic Welder_DESC">Werkbankmodul\nSchaltet Schweissroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Robotic Welder_DESC">Werkbankmodul
+Schaltet Schweissroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Incubator">Brutschrank</string>
-    <string name="Incubator_DESC">Werkbankmodul\nSchaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Incubator_DESC">Werkbankmodul
+Schaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Assembly Station">Montagestation</string>
-    <string name="Assembly Station_DESC">Werkbankmodul\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Assembly Station_DESC">Werkbankmodul
+Schaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
 
     <string name="Refinery Controller">Raffineriesteuerung</string>
     <string name="Refinery Controller_DESC">Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</string>
@@ -1174,39 +1183,39 @@
     <string name="Advanced Machine Block_DESC">Produktionskomponente welche für 3. Stufige Maschienen benötigt wird. Kann für Konstruktionen verwendet werden.</string>
 
     <string name="Red Storage Crate">Rote Lagerkiste</string>
-    <string name="Red Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Red Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Blue Storage Crate">Blaue Lagerkiste</string>
-    <string name="Blue Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Blue Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Green Storage Crate">Grüne Lagerkiste</string>
-    <string name="Green Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Green Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Yellow Storage Crate">Gelbe Lagerkiste</string>
-    <string name="Yellow Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Yellow Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Orange Storage Crate">Orange Lagerkiste</string>
-    <string name="Orange Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Orange Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Purple Storage Crate">Violette Lagerkiste</string>
-    <string name="Purple Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Purple Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Flesh Color Storage Crate">Fleischfarbene Lagerkiste</string>
-    <string name="Flesh Color Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Flesh Color Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="White Storage Crate">Weisse Lagerkiste</string>
-    <string name="White Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="White Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Grey Storage Crate">Graue Lagerkiste</string>
-    <string name="Grey Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Grey Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Black Storage Crate">Schwarze Lagerkiste</string>
-    <string name="Black Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Black Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Plum Storage Crate">Pflaumenfarbige Lagerkiste</string><!-- Not optimal-->
-    <string name="Plum Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Plum Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Marine Storage Crate">Türkisfarbige Lagerkiste</string>
-    <string name="Marine Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Marine Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Brown Storage Crate">Braune Lagerkiste</string>
-    <string name="Brown Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Brown Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Storage Crate">Lagerkiste</string>
-    <string name="Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Indigo Storage Crate">Indigoblaue Lagerkiste</string>
-    <string name="Indigo Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Indigo Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Lime Yellow Storage Crate">Zitronengelbe Lagerkiste</string>
-    <string name="Lime Yellow Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Lime Yellow Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <string name="Maroon Storage Crate">Kastanienbraune Lagerkiste</string>
-    <string name="Maroon Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar</string>
+    <string name="Maroon Storage Crate_DESC">Einfache Lagerlösung. Nicht automatisierbar.</string>
     <!-- Massstorage blocks-->
     <string name="Mass Storage Block">Massenspeicherkiste</string><!-- Not optimal-->
     <string name="Mass Storage Block_DESC">Einfaches Massenlagerungssystem (25 Kapazität/ Lage)</string>
@@ -1226,7 +1235,7 @@
     <string name="Mass Storage Controller_DESC">Hochregallagerverwaltung für angetriebene Lager</string>
 
     <string name="Macerator">Zerkleinerer</string><!-- Not optimal-->
-    <string name="Macerator_DESC">Durchsucht untenutze Steine nach Erz.</string>
+    <string name="Macerator_DESC">Durchsucht ungenutze Steine nach Erz.</string>
     <string name="ARTHER Charging Station">ARTHER Aufladestation</string>
     <string name="ARTHER Charging Station_DESC">Schnellladestation für die ARTHER-Drohne</string>
     <string name="Auto Builder">Autoplazierer</string>
@@ -1264,7 +1273,7 @@
     <string name="ARTHER Turret">ARTHER Turm</string>
     <string name="ARTHER Turret_DESC">Erlaugt der ARTHER ihren Killertrieb zu stillen.</string>
     <string name="Threat Scanner">Gefahrenstufesensor</string>
-    <string name="Threat Scanner_DESC">Frühwarn system, optimal in der nähe der Basis plazieren.</string>
+    <string name="Threat Scanner_DESC">Frühwarnsystem, optimal in der nähe der Basis plazieren.</string>
     <string name="Missile Turret MK1">Raketenturm MK1</string>
     <string name="Missile Turret MK1_DESC">Schiesst eine Rakete auf bis zu 512m entfernte Ziele!</string>
     <string name="Missile Turret MK2">Raketenturm MK2</string>
@@ -1317,9 +1326,13 @@
     <string name="Lift w/underside Piston">Lift mit unterseiten Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit.</string>
     <string name="Lift Compressor">Lift Kompressor</string>
-    <string name="Lift Compressor_DESC">Braucht Energie.\nErhöht Reichweite auf 256m wenn an Lift angebracht.\nHat keine Funktion als Netzwerkteilnehmer.</string>
+    <string name="Lift Compressor_DESC">Braucht Energie.
+Erhöht Reichweite auf 256m wenn an Lift angebracht.
+Hat keine Funktion als Netzwerkteilnehmer.</string>
     <string name="Lift Manual Control Module">Lifthandsteuerung</string>
-    <string name="Lift Manual Control Module_DESC">Erlaubt die manuelle kontrolle des Lifts.\nNutze Home und End zum Steuern!\nZum nutzen an einen S1 Lift anschliessen.</string>
+    <string name="Lift Manual Control Module_DESC">Erlaubt die manuelle kontrolle des Lifts.
+Nutze Home und End zum Steuern!
+Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="MK1 Robot Arm">MK1 Roboterarm</string>
     <string name="MK1 Robot Arm_DESC">Erlaubt einfaches Sortieren von Gegenständen auf Förderbändern.</string>
     <string name="Advanced Robot Arm Control Module">Verbesserte Roboterarmsteuerung</string>
@@ -1331,7 +1344,7 @@
     <string name="Hive Core">Stockkern</string>
     <string name="Hive Core_DESC">Hive Core_DESC</string>
     <string name="Hardened Resin">Gehärtetes Harz</string>
-    <string name="Hardened Resin_DESC">Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
+    <string name="Hardened Resin_DESC">Diese unglaublich harte, organische nicht-Newton\'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
     <string name="MobSpawner">MobSpawner</string>
     <string name="MobSpawner_DESC">Super geeignet um vereidigung zu testen.</string>
     <string name="Insulated Copper Wire">Isoliertes Kupferkabel</string>
@@ -1373,7 +1386,7 @@
     <string name="MB Ore Extractor Motor">Mehrteiliger Erzfürdererantrieb</string>
     <string name="MB Ore Extractor Motor_DESC">MB Ore Extractor Motor_DESC</string>
     <string name="Server Monitor">Server Monitor</string>
-    <string name="Server Monitor_DESC">Gibt Echtzeit Informationen über den Server. Kein Spielgegenstand.</string>
+    <string name="Server Monitor_DESC">Gibt Echtzeit Informationen über den Server. Kein \"brauchbarer\" Spielgegenstand.</string>
     <string name="Basic Missile Assembler">Einfache Raketenmontage</string>
     <string name="Basic Missile Assembler_DESC">Stellt Raketen aus Treibstoff, Röhren und Drähten her.</string>
     <string name="Organic Reassembler">Organischer Rekombinierer</string>
@@ -1383,7 +1396,7 @@
     <string name="Plasma Head Charger">Plasmakopf Aufladestation</string>
     <string name="Plasma Head Charger_DESC">Durchtränkt Stahlschneidköpfe mit Energie.</string>
     <string name="Pipe Coater">Rohrbeschichter</string>
-    <string name="Pipe Coater_DESC">Erzeugt Wärmeleitenderohre.</string>
+    <string name="Pipe Coater_DESC">Erzeugt wärmeleitende Rohre.</string>
     <string name="Mesh Weaver">Gewebe weber</string>
     <string name="Mesh Weaver_DESC">Webt Gewebe aus Kristallfasern.</string>
     <string name="Empty Missile Assembler">Leere Raketenmontage</string>
@@ -1419,21 +1432,21 @@
     <string name="Fuel Canister Crafter">Treibstoffkanisterproduktion</string>
     <string name="Fuel Canister Crafter_DESC">Nutzt ein einzelnen Eisenrohor um einen leeren Treibstoffbehälter herzustellen.</string>
     <string name="CryoChilled Missile Assembler">Cryogekühlteraketen Montage</string><!-- Not optimal-->
-    <string name="CryoChilled Missile Assembler_DESC">Nutzt Freezonkartuschen um einen verlangsamenden Effekt auf das Ziel zu legen. Gibt zudem 15% mehr Schaden!Uses Freezon Canisters to add a slowing effect to targetted mobs.</string>
+    <string name="CryoChilled Missile Assembler_DESC">Nutzt Freezonkartuschen um einen verlangsamenden Effekt auf das Ziel zu legen. Gibt zudem 15% mehr Schaden!</string>
     <string name="Mephitic Missile Assembler">Gifitge Raketenmontage</string><!-- Not optimal-->
     <string name="Mephitic Missile Assembler_DESC">Nutzt Chlorkarutuschen um Schaden über eine bestimmte Zeit dem Ziel zuzuführen, gibt 50% Schaden über 30s zusätzlich.</string>
     <string name="Steel Alloy Smelter">Legierungsstahlofen</string>
-    <string name="Steel Alloy Smelter_DESC">Verhüttet automatisch Nickel udn Eisen zu niederwertigen Stahlbarren.</string>
+    <string name="Steel Alloy Smelter_DESC">Verhüttet automatisch Nickel und Eisen zu niederwertigen Stahlbarren.</string>
     <string name="Advanced Machine Block Assembler">Fortgeschrittene Maschinenblockmontage</string>
-    <string name="Advanced Machine Block Assembler_DESC">Stellt selbständig Verbesserte Maschienenblöcke aus Stahl und Taktgebern her.</string>
+    <string name="Advanced Machine Block Assembler_DESC">Stellt selbständig verbesserte Maschienenblöcke aus Stahl und Taktgebern her.</string>
     <string name="Imbued Machine Block Assembler">Durchtränkte Maschinenblockmontage</string>
     <string name="Imbued Machine Block Assembler_DESC">Stellt automatisch durchtränkte Maschienenblöcke auf Energiebooster und verbesserten Maschienenblöcken her.</string>
     <string name="Lens Polisher">Linsenpolierer</string>
     <string name="Lens Polisher_DESC">Nutzt Präzisionstechnoligie um unfokusierte Linsen aus nieder klassigen Linsen herzustellen. Kann verchromt werden um in Laserenergieübertragern verwendet zu werden.</string>
     <string name="Lens Chromer">Linsenverchromer</string>
-    <string name="Lens Chromer_DESC">Spiegelbeschichtet hochpräzise unfokusierte linsem um ein brauchbares Upgrade darzustellen.</string>
+    <string name="Lens Chromer_DESC">Spiegelbeschichtet hochpräzise unfokusierte Linse um ein brauchbares Upgrade darzustellen.</string>
     <string name="Cryo Bomb Assembler">Cryobomben Montage</string>
-    <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryo-Plasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten</string>
+    <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryoplasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten.</string>
     <string name="Chromed Block Assembler">Verchromte Blockmontage</string>
     <string name="Chromed Block Assembler_DESC">Verchromt dirchtränkte Maschienenbläcke.</string>
     <string name="Hiemal Block Assembler">Hiemal Block Assembler</string><!-- No idea what that means or is-->
