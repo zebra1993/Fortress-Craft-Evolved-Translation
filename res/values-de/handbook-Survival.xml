@@ -1,237 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?><resources><string name="SU.01Welcome.Title">Starting Guide</string>
-<string name="SU.01Welcome.00.Title">Welcome to FortressCraft Evolved</string>
-<string name="SU.01Welcome.01.Header">Survival Mode</string>
-<string name="SU.01Welcome.02.Paragraph">You have just escaped the Orbital Station on a damaged escape shuttle. It didn&apos;t survive re-entry, but luckily you managed to eject safely. Now you will have to survive on this dreadful alien planet!</string>
-<string name="SU.01Welcome.03.Header">Starting Out</string>
-<string name="SU.01Welcome.04.Paragraph">Your state-of-the-art suit can keep you safe under these cold conditions, but it requires power to do so. The ship&apos;s crash site may give you the resources to see you over on the short term, so you should head out there as soon as you can.</string>
-<string name="SU.01Welcome.05.Header">Controls</string>
-<string name="SU.01Welcome.06.Paragraph">The game controls are listed in a separate guide linked below.</string>
-<string name="SU.01Welcome.07.Header">Survival Tips</string>
-<string name="SU.01Welcome.08.Paragraph">For those who don&apos;t want to read a whole guide, these are some quick gameplay tips. The following pages go into more detail on how to start out.</string>
-<string name="SU.01Welcome.09.Paragraph">- During the day, your suit is designed to power its battery with sunlight.
-- Your starting area has a Central Power Hub, use it to turn harvested resources into power to charge adjacent machinery.
-- You can top off your power suit from the Central Power Hub or pressing &apos;Q&apos; on the Power Storage Block.						
-- Interact (‘E’) with the Manufacturing plant to see what you can make.
-- Craft torches to heat yourself using the Self Crafting window (‘C’).
-- Use the scanning tool (&apos;M&apos;) to Scan blocks and process them at the Research Station for new recipes.
-- The scanning tool can also do environment scans like the Unknown Material ping to find new ores.
-- Pay close attention to the battery discharge rate on your suit, a blue text indicates that extreme cold is affecting your suit and a red text indicates extreme heat. 
-- The headlamp uses power. It’s great for exploring but don’t leave it on!
-- Coal is the best fuel for starting out, but if you&apos;re in a pinch you can burn the local flora.
-- You may have to dig very deep to find the ores you&apos;re looking for.
-- You have a large build reach, so use it to place torches across large caverns.</string>
-<string name="SU.01Welcome.10.Header">Crash site equipment</string>
-<string name="SU.01Welcome.11.Paragraph">The Central Power Hub is your first power generator. It has solar panels, and can burn fuels to generate power. It can only hold one fuel item at a time, so automating the delivery of fuel materials is essential. It has a large internal power storage capacity.</string>
-<string name="SU.01Welcome.12.Paragraph">The Power Storage Block can store 250 power and distribute it to adjacent machines.</string>
-<string name="SU.01Welcome.13.Paragraph">In order to acquire bars useful for crafting new machines, you will need to process ores in the Ore Smelter. You can manually interact with it, or automate the supply of materials. It will only start smelting once it has received enough materials to smelt an ingot.</string>
-<string name="SU.01Welcome.14.Paragraph">You can craft simple things yourself using the crafting window you open with &apos;c&apos;, but for more complex machines and components, you will have to use the Manufacturing Plant. The recipes are divided into categories which you can find by clicking on the coloured squares. At this point in time, the Plant can only use items in your inventory, and crafting things will put them directly back there.</string>
-<string name="SU.01Welcome.15.Paragraph">When you start out, your scanner has no knowledge of any materials found on the planet. Any scans you do can be processed at the Research Station and will yield you research points. You can also undertake various research projects here, and develop new recipes for the Manufacturing Plant by spending research points. The research station requires power to operate.</string>
-<string name="SU.01Welcome.16.Header">Finding your first ores</string>
-<string name="SU.01Welcome.17.Paragraph">Your scanner has the capability to scan for known ore types, but to do this it must know about them first. The key to finding new ores is to use the Unknown Material ping on your scanner. If you use this at first, it will return you all the blocks around you because it doesn&apos;t know about them.</string>
-<string name="SU.01Welcome.18.Paragraph">So your first task will be to scan your surroundings and process these scans at the Research Station. As soon as you&apos;ve scanned all the common dirt and snow around you, the Unknown Ore ping will stat returning useful things around you.</string>
-<string name="SU.01Welcome.19.Paragraph">Once you&apos;ve found an ore vein near you underground, you can scan these and process them to teach them to your scanner. From that moment on, using an Ore ping with your scanner will return veins of that ore type.</string>
-<string name="SU.01Welcome.20.Header">Extracting ore</string>
-<string name="SU.01Welcome.21.Paragraph">Now that you&apos;ve found your first ore vein, you&apos;ll need to extract the ore in order to use it. You can dig it using right click, but this drops only one ore every once in a while and generates rubble for the rest.</string>
-<string name="SU.01Welcome.22.Paragraph">A better option is to use your Super Dig mode, which you activate by holding CTRL while digging. This will quickly dig large amounts of ore, but will drain your power reserves at high speed.</string>
-<string name="SU.01Welcome.23.Paragraph">Watch out when draining all your power on Super Digging an ore vein, your suit also requires power to keep your body warm! Try to set up a safe route back to your power generator, with torches along the way to heat you back up.</string>
-<string name="SU.01Welcome.24.Header">Automating Extraction</string>
-<string name="SU.01Welcome.25.Paragraph">A more sustainable way of mining ore is to use the Ore Extractor. You start out with some, and you can place one down next to a vein and fill it with power to make it start digging. It has a small internal storage space, so until you can offload that somewhere else you&apos;ll have to come by once in a while to pick up the results.</string>
-<string name="SU.01Welcome.26.Paragraph">An ore extractor can mine out an entire vein of ore when it touches a single ore block. Therefore you will not have to move it until the entire vein has been cleared.</string>
-<string name="SU.01Welcome.27.Paragraph">Storage Hoppers will accept ores and items from machines and supply them to other machines. This makes them essential in automating any part of the mining and smelting process.</string>
-<string name="SU.01Welcome.28.Paragraph">Once you have the resources to spare, Conveyors can help you automate bringing the ore from your Extractor to your Ore Smelter. They are cheap, but you will need many of them to connect your mining operations to your main base. They don&apos;t require power to operate.</string>
-<string name="SU.02FirstNight.Title">Surviving the First Night</string>
-<string name="SU.02FirstNight.00.Title">Surviving the first night</string>
-<string name="SU.02FirstNight.01.Paragraph">This is a step by step guide to surviving the first night. If you don&apos;t want to be spoilered, then stop reading now!</string>
-<string name="SU.02FirstNight.02.Header">Completing the Tutorial</string>
-<string name="SU.02FirstNight.03.Paragraph">You wake up next to the crater left by your crashed ship and a basic outpost. Your first task is to complete the brief tutorial. Follow each instruction in turn. When the tutorial is complete the forcefield will be lifted.</string>
-<string name="SU.02FirstNight.04.Header">Take inventory and stay warm</string>
-<string name="SU.02FirstNight.05.Paragraph">Open your inventory by pressing &apos;i&apos;. You start off with 5 torches and 3 Ore Extractors. The latter are valuable machines for mining ore veins, but not of immediate survival use. The first are absolutely essential.</string>
-<string name="SU.02FirstNight.06.Paragraph">Select the hotbar slot containing the torch icon and place one the ground a couple blocks away from your machines. This will supply light, as well as heat when you stand near to them. The suit indicator in the top right of the screen indicates the external temperature and the internal suit temperature. Your suit will automatically keep yourself warm, but this costs energy. If you stand near a torch, you will see the external temperature rising, which means your suit uses less power to keep you warm. Watch out with getting too hot though, that will make your suit spend power to cool you back down!</string>
-<string name="SU.02FirstNight.07.Header">Gather fuel</string>
-<string name="SU.02FirstNight.08.Paragraph">The machine with the big laser on it is your central power hub. This is a power generator, that gathers solar power, as well as containing a small fuel generator that can burn materials for added power. It will supply power to the nearby machines and the power storage block.</string>
-<string name="SU.02FirstNight.09.Paragraph">You can take power directly from the hub by interacting with it (&apos;e&apos;), then pressing &apos;take power&apos;. At the start of the game your fuel reserves are limited to that supplied for the tutorial which will not last long. Therefore your next task is to gather fuel.</string>
-<string name="SU.02FirstNight.10.Paragraph">If you have chosen to play on easy difficulty a coal vein and extractor are provided for you, otherwise you&apos;ll need to search for fuel. If you are extremely lucky, the impact crater will have exposed a coal vein. But the more dependible source of initial fuel are the trees around the crater. Dig up the trunks and collect them. Now head towards the hub, interact with it (&apos;e&apos;) and press &apos;add resources&apos;. This will start burning one of your logs. You will have to manually add more fuel to it, until you have to resources to automate this process.</string>
-<string name="SU.02FirstNight.11.Paragraph">With the hub burning logs, you should quickly notice that the graphic on the Power Storage Block starts spinning, which means it is collecting power. You can draw power from there, or wait until it is full and power starts being stored in the hub.</string>
-<string name="SU.02FirstNight.12.Header">Explore your surroundings</string>
-<string name="SU.02FirstNight.13.Paragraph">Now that you have low but steady supply of power, you can start exploring your surroundings. Any power lost to keeping you suit warm you can replenish at the hub. Keep an eye on the power level on the top left. If the bar is empty, you will quickly start to cool down to the point where you can pass out from hypothermia.</string>
-<string name="SU.02FirstNight.14.Paragraph">Make sure you have enough power to get back to the crash site and power up from the hub.
+<string name="SU.01Welcome.00.Title">Willkommen bei FortressCraft Evolved</string>
+<string name="SU.01Welcome.01.Header">Überlebensmodus</string>
+<string name="SU.01Welcome.02.Paragraph">Du bist gerade mit einem defekten Shuttle von der Orbitalstation geflohen. Es hat den Wiedereintritt nicht überstanden, aber glücklicherweise konntest du das Schiff sicher verlassen. Jetzt musst du auf diesem fürchterlichen Alien Planet überleben!</string>
+<string name="SU.01Welcome.03.Header">Der Anfang</string>
+<string name="SU.01Welcome.04.Paragraph">Dein Überlebensanzug kann dich vor den kalten Umweltbedingungen schützen, aber er benötigt dazu Energie. Bei der Absturzstelle findest du möglicherweise Dinge, die für das längerfristige Dasein wichtig sind, darum solltest du dich sobald wie möglich dorthin aufmachen.</string>
+<string name="SU.01Welcome.05.Header">Steuerung</string>
+<string name="SU.01Welcome.06.Paragraph">Die Spielsteuerung wird in einer separaten Anleitung, die weiter unten verlinkt ist, aufgeführt.</string>
+<string name="SU.01Welcome.07.Header">Überlebenstipps</string>
+<string name="SU.01Welcome.08.Paragraph">Für die, die keine ganze Anleitung lesen möchten, sind hier einige kurze Tipps. Die nachfolgenden Seiten erklären den Anfang detaillierter.</string>
+<string name="SU.01Welcome.09.Paragraph">- Dein Anzug ist dafür ausgelegt seine Batterie tagsüber durch Sonnenlicht aufzuladen.
+- An Deinem Startort befindet sich der Zentrale Energie Verteiler (Central Power Hub (CPH)). Benutze ihn, um gesammelte Ressourcen in Energie für angrenzende Maschinerien umzuwandeln.
+- Du kannst deine Anzugsenergie über den Zentralen Energie Verteiler aufladen, oder mit &apos;Q&apos; an einem Energie Block.						
+- Interagiere (&apos;E&apos;) mit der Konstruktionsanlage, um zu sehen was du herstellen kannst.
+- Stelle Fackeln über das Crafting-Menü (&apos;C&apos;) her, um dich an ihnen zu wärmen.
+- Benutze das Scanner Werkzeug (&apos;M&apos;) um Blöcke zu scannen und sie für neue Rezepte an der Forschungsstation zu erforschen.
+- Mit dem Scanner Werkzeug lässt sich auch die Umgebung auf Unbekannte Materialien scannen, um neue Erze zu finden.
+- Achte auf den Akkustand deines Anzugs, ein blauer Text zeigt an, dass extreme Kälte auf deinen Anzug einwirkt und ein roter Text extreme Hitze. 
+- Die Stirnlampe benötigt Energie. Sie ist großartig für Erkundungen aber vergiss nicht, sie auszuschalten!
+- Kohle ist zu Beginn der beste Energielieferant, aber wenn du dich in einer Notlage befindest, kannst du auch die einheimischen Pflanzen verbrennen.
+- Möglicherweise musst du sehr tief graben um die gewünschten Erze zu finden.
+- Platziere Fackeln, wenn Du an einem größeren Bauabschnitt arbeitest, um große Höhlen auszuleuchten.</string>
+<string name="SU.01Welcome.10.Header">Absturtzstellenausrüstung</string>
+<string name="SU.01Welcome.11.Paragraph">Der Zentrale Energie Verteiler ist dein erster Energiegenerator. Er besitzt Solarzellen und kann aus Brennstoffen Energie erzeugen. Er kann immer nur eine Brennstoffeinheit auf einmal aufnehmen, deshalb ist die automatische Brennstoffzulieferung wichtig. Er hat einen großen Energiespeicher.</string>
+<string name="SU.01Welcome.12.Paragraph">Der Energie Speicherblock kann 250 Energie aufnehmen und sie an angrenzende Maschinen verteilen.</string>
+<string name="SU.01Welcome.13.Paragraph">Um Barren, welche für die Herstellung von Maschinen benötigt werden, herzustellen, musst du Erze in einem Ofen schmelzen. Du kannst dies manuell oder durch Zuführen der Materialen automatisiert tun. Der Schmelzvorgang startet erst, wenn die benötigte Menge Material vorhanden ist um einen Barren zu schmelzen.</string>
+<string name="SU.01Welcome.14.Paragraph">Du kannst einfache Dinge im Crafting-Menü über die Taste &apos;C&apos; selbst herstellen, aber für komplexere Maschinen und Komponenten benötigst du die Konstruktionsanlage. Die Rezepte sind in Kategorien unterteilt, die du findest, wenn du auf die farbigen Kästchen klickst. Zum jetzigen Zeitpunkt kann die Konstruktionsanlage nur Teile aus deinem Inventar benutzen und die hergestellten Dinge werden direkt dorthin zurück gelegt.</string>
+<string name="SU.01Welcome.15.Paragraph">Wenn du beginnst, verfügt dein Scanner über keinerlei Informationen zu Materialien die auf diesem Planeten gefunden werden können. Alle Scans die du tätigst, können an der Forschungsstation verarbeitet werden und geben Forschungspunkte. Du kannst hier auch Forschungsprojekte starten, und neue Rezepte für die Konstruktionsanlage erhalten, indem du Forschungspunkte dafür ausgibst. Die Forschungsstation benötigt Energie um zu funktionieren.</string>
+<string name="SU.01Welcome.16.Header">Suche deine ersten Erze</string>
+<string name="SU.01Welcome.17.Paragraph">Dein Scanner besitzt die Möglichkeit nach bekannten Erzen zu suchen, aber um dies tun zu können, müssen er sie kennen. Um neue Erze zu finden solltest Du die Ping-Funktion nach unbekannten Erzen deines Scanners benutzen. Wenn du die Funktion zum Ersten mal benutzt, werden dir alle umliegenden Blöcke angezeigt, weil sie der Scanner noch nicht kennt.</string>
+<string name="SU.01Welcome.18.Paragraph">Deine erste Aufgabe wird also das Scannen deiner Umgebung und das Verarbeiten dieser Scanns an der Forschungsstation sein. Sobald du den ganzen herkömmlichen Dreck und Schnee um dich herum gescannt hast, wird der Ping nach unbekannten Erzen anfangen, dir Nützliches in der Umgebung anzuzeigen.</string>
+<string name="SU.01Welcome.19.Paragraph">Sobald du eine Erzader in der Erde unter dir gefunden hast, kannst du diese scannen und verarbeiten, um sie deinem Scanner zu lehren. Von diesem Moment an, wird der Scanner mit dem Ping nach bekannten Erzen, Erzadern dieses Typs anzeigen.</string>
+<string name="SU.01Welcome.20.Header">Erzgewinnung</string>
+<string name="SU.01Welcome.21.Paragraph">Jetzt wo du deine erste Erzader gefunden hast, musst du das Erz fördern, um es verwenden zu können. Du kannst es mit der rechten Maustaste abbauen, aber das wird nur ab und zu ein Erz abwerfen, der ganze Rest ist Bruchgestein.</string>
+<string name="SU.01Welcome.22.Paragraph">Eine bessere Möglichkeit ist der Schneller-Graben-Modus, den du aktivierst, indem du während dem abbauen die STRG-Taste gedrückt hältst. Dieser Modus baut sehr schnell viel Erz ab, aber wird deine Energiereserve sehr schnell aufbrauchen.</string>
+<string name="SU.01Welcome.23.Paragraph">Achte darauf nicht deine gesamte Energie wahrend dem Schnellgraben der Erzadern aufzubrauchen, dein Anzug benötigt auch Energie um deinen Körper warm zu halten! Versuche mit Fackeln einen sicheren Rückweg zu deinem Energiegenerator vorzubereiten, um dich auf dem Rückweg aufwärmen zu können.</string>
+<string name="SU.01Welcome.24.Header">Automatisiertes Abbauen</string>
+<string name="SU.01Welcome.25.Paragraph">Ein nachhaltigerer Weg Erz abzubauen, ist der Gebrauch eines Erzförderers. Zu beginn hast du bereits welche und kannst einen einfach auf einer Erzader platzieren und mit Energie aufladen damit er anfängt zu graben. Er hat einen kleinen Laderaum und bis du ihn anders entladen kannst, musst du immer wieder zurückgehen, um in selbst zu leeren.</string>
+<string name="SU.01Welcome.26.Paragraph">Ein Erzförderer kann eine ganze Ader abbauen, wenn er einen einzigen Erzblock berührt. Du musst ihn also nicht bewegen, bis die ganze Ader abgebaut ist.</string>
+<string name="SU.01Welcome.27.Paragraph">Speichertrichter akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für die Automation von Erzförderung und Schmelzprozessen unverzichtbar.</string>
+<string name="SU.01Welcome.28.Paragraph">Sobald du Ressourcen übrig hast, können dir Förderbänder dabei helfen, das Erz automatisch von der Förderstelle zum Schmelzofen zu bringen. Sie sind billig, aber du wirst viele davon brauchen um deine Förderstelle mit deiner Hauptbasis zu verbinden. Sie benötigen keinen Energie um zu funktionieren.</string>
+<string name="SU.02FirstNight.Title">Die erste Nacht überleben</string>
+<string name="SU.02FirstNight.00.Title">Die erste Nacht überleben</string>
+<string name="SU.02FirstNight.01.Paragraph">Dies ist eine Schritt für Schritt Anleitung um die erste Nacht zu überleben. Wenn du nicht gespoilert werden möchtest, dann hör hier auf zu lesen!</string>
+<string name="SU.02FirstNight.02.Header">Das Tutorial abschliessen</string>
+<string name="SU.02FirstNight.03.Paragraph">Du erwachst neben dem Krater welches dein abgestürtztes Schiff hinterlassen hat und einem einfachen Aussenposten. Deine erste Aufgabe besteht darin, die Kurzeinweisung zu absolvieren. Folge einer Anweisung nach der anderen. Wenn das Tutorial beendet ist, wird das Kraftfeld aufgehoben.</string>
+<string name="SU.02FirstNight.04.Header">Nimm dein Inventar und halte dich warmTake inventory and stay warm</string>
+<string name="SU.02FirstNight.05.Paragraph">Öffne dein Inventar durch drücken von (&apos;i&apos;). Du beginnst mit 5 Fackeln und 3 Erzförderer. Letztere sind wertvolle Maschinen um Erzadern abzubauen, aber nicht überlebensnotwendig. Ersteres ist absolut notwendig.</string>
+<string name="SU.02FirstNight.06.Paragraph">Wähle den Schnelleistenplatz mit der Fackel aus und platziere eine, einige Blocks von deinen Maschinen entfernt auf dem Boden. Sie spendet Licht, sowie wärme wenn du in ihrer nähe stehst. Die Anzugsanzeige oben rechts zeigt die Aussentemperatur und die Anzugs Innentemperatur an. Dein Anzug wird dich automatisch warm halten, aber das kostet Energie. Wenn du nahe an einer Fackel steht, wirst du die Aussentemperatur steigen sehen, was heisst dass dein Anzug weniger Energie benötigt um dich warm zu halten. Pass auf nicht zu heiss zu bekommen, sonst braucht dein Anzug Energie um dich wieder abzukühlen!</string>
+<string name="SU.02FirstNight.07.Header">Treibstoff sammeln</string>
+<string name="SU.02FirstNight.08.Paragraph">Die Maschine mit dem grossen Laser darauf ist dein Zentraler Energie Verteiler. Das ist ein Energiegenerator, der Solarenergie bezieht, sowie auch ein kleiner Energiegenerator besitzt der Material verbrennt um Energie zu produzieren. Er gibt Energie an die Machinen in der Nähe und den Energie Speicherblock ab.</string>
+<string name="SU.02FirstNight.09.Paragraph">Du kannst direkt durch die Interaktion mittels (&apos;e&apos;) vom Verteiler Strom beziehen, drücke dann &apos;take power&apos;. Beim Spielstart sind deine Treibstoffreserven auf die für das Tutorial benötigte begrenzt, welche nicht lange halten werden. Demnach ist deine nächste Aufgabe das Treibstoff sammeln.</string>
+<string name="SU.02FirstNight.10.Paragraph">Wenn du dich dazu entschlossen hast auf dem einfachen Schwierigkeitsgrad zu spielen wurde eine Kohleader und ein Erzförderer für dich platziert, ansonsten musst du nach Treibstoff suchen. Wenn du extremes Glück hast, hat der Einschlagkrater eine Kohleader freigelegt. Aber die zuverlässigere Energiequelle für den Anfang sind die Bäume um den Krater herum. Nun gehe zum Verteiler zurück und interagiere mit (&apos;e&apos;) und drücke &apos;add resources&apos;. Nun wird einer deiner Holzblocks verbrannt. Du musst manuell Treibstoff nachlegen, bis du die Mittel hast diesen Vorgang zu automatisieren.</string>
+<string name="SU.02FirstNight.11.Paragraph">Mit dem im Verteiler brennenden Holzblock solltest du rasch bemerken, dass die Grafik des Energie Speicherblocks sich beginnt zu drehen, was bedeutet dass er Energie erhält. Du kannst von dort Energie beziehen oder du wartest bis er voll ist, und die Energie anfängt den Verteiler zu laden.</string>
+<string name="SU.02FirstNight.12.Header">Erforsche deine Umgebung</string>
+<string name="SU.02FirstNight.13.Paragraph">Jetzt wo du eine niedrige aber stabile Energieversorgung hast, kannst du deine Umgebung erkunden. Die Energie welche für das wäremen deines Anzugs verbraucht, kannst du am Verteiler wieder aufladen. Behalte die Energieanzeige oben Links im Auge. Wenn die Anzeige leer ist, wirst du rasch bis zum Punkt auskühlen, wo du wegen Unterkühlung ohnmächtig wirst.</string>
+<string name="SU.02FirstNight.14.Paragraph">Stelle sicher dass du genug Energie hast, um zur Absturtzstelle zurückzukehren und dich vom Verteiler wieder aufzuladen.
 					</string>
-<string name="SU.02FirstNight.15.Paragraph">Your suit comes with a scanner tool, which is invaluable for surviving. You can select the tool by pressing &apos;M&apos;. Now you can scan using the right mouse button, or send out a material ping with the left button. Watch out with using pings unnecessarily, they use a large amount of suit power.</string>
-<string name="SU.02FirstNight.16.Paragraph">Your next exploration task will be to scan your surroundings. Aim at a block you haven&apos;t scanned yet, bring up your scan tool and hold the right mouse button until the popup window in the bottom left tells you the scan is complete. Try to scan all the blocks in your surroundings, including snow, dirt, logs and leaves!</string>
-<string name="SU.02FirstNight.17.Header">Research your surroundings</string>
-<string name="SU.02FirstNight.18.Paragraph">Now that you&apos;ve scanned these blocks, it&apos;s time to process the scans at the research station back at the crash site. Open the interface by pressing &apos;e&apos;. The window will show you a list of your unprocessed scans, followed by how many research points they will grant you once processed. Research points aren&apos;t important for now, so ignore them. Process all the scans you have in your list. Each one takes power to process, but if you&apos;ve been keeping your hub filled with logs or coal, its power bar should be most of the way full, and plenty for processing all your scans.</string>
-<string name="SU.02FirstNight.19.Paragraph">Processing the scans may result in unlocking research projects, but for now you don&apos;t have to worry about that, scanning your surroundings had a more important goal.</string>
-<string name="SU.02FirstNight.20.Header">Ping your surroundings</string>
-<string name="SU.02FirstNight.21.Paragraph">With the blocks around you scanned and processed, your suit now knows its characteristics and this allows you to use your material pings to great effect.</string>
-<string name="SU.02FirstNight.22.Paragraph">In particular, the &apos;unknown material&apos; ping is what we will be using next, in order to find our first ore vein. Switch to your scan tool and with &apos;Unknown Material&apos; ping selected, press the left mouse button. This will highlight any blocks in range of you that have a characteristic your suit doesn&apos;t yet know about.</string>
-<string name="SU.02FirstNight.23.Paragraph">If you didn&apos;t scan all your surroundings, this ping will return the blocks around the crash site such as dirt and rock. If that happens, scan and process those blocks, then try again. </string>
-<string name="SU.02FirstNight.24.Paragraph">If successful, you should see a cluster of unknown signatures somewhere underground or inside nearby hills. Keep an eye on your power levels though, there&apos;s no need to freeze!</string>
-<string name="SU.02FirstNight.25.Header">Dig to the veins</string>
-<string name="SU.02FirstNight.26.Paragraph">Now you will need to dig a path towards those signatures, and see what they are. Scan the ore vein and process it. You will notice that they grant more research points than common materials did. Once you know an ore block, you can go back to the vein and scan it again, and the tool will give you information about this particular vein; how big it is and how much ore it contains (this is not the same).</string>
-<string name="SU.02FirstNight.27.Paragraph">Use your Grappling Hook (&apos;F&apos;) to quickly get back up out of holes you&apos;ve dug.</string>
-<string name="SU.02FirstNight.28.Paragraph">If you are not playing on easy then the first ore you want to find is Coal. If you find Copper, Tin or Iron, this will be great later on, but not of immediate use. Try to remember the location if you can, we will get back to them later. If you don&apos;t remember, that&apos;s fine, we can use the ore ping later to find our way again.</string>
-<string name="SU.02FirstNight.29.Header">Mine Coal</string>
-<string name="SU.02FirstNight.30.Paragraph">Ore veins in FortressCraft Evolved can be massive, containing up to millions of units of ore. Digging them up is not a case of clicking a couple of times; you will need to spend power and probably use machines.</string>
-<string name="SU.02FirstNight.31.Paragraph">With your first coal vein at hand, spend a little time creating a safe path back from the vein to the crash site. You will need to walk this path a lot, so this time will be well spent.</string>
-<string name="SU.02FirstNight.32.Paragraph">Next, you should top up your power from the hub and make your way down to the coal vein. Put a torch down to save on spending too much power staying warm down there. Then dump all of your power into a Super Dig on the coal vein. You do this by holding CTRL while right clicking. This is an inefficient way of mining but it will get you a small quantity of coal to work with.</string>
-<string name="SU.02FirstNight.33.Paragraph">At this point you will be out of power, so quickly make your way back to the hub and top up on power. But now you will have a better source of fuel to put in the hub: Coal! The next time you press &apos;Add resources&apos; it should insert a coal ore block instead of a log. These generate more power, so you will have to do a little less micro management to maintain power levels.</string>
-<string name="SU.02FirstNight.34.Header">Craft it up</string>
-<string name="SU.02FirstNight.35.Paragraph">Coal ore also allows you to use the self-crafting window to create new torches. Press &apos;C&apos; to show this window. It will display all the recipes you can make, and among them are torches. Select the torches and on the right side it should tell you it will require 5 coal to make one torch. Press &apos;Craft&apos; and it will add a torch to your inventory.</string>
-<string name="SU.02FirstNight.36.Paragraph">Torches can also be auto-crafted so long as you have at least 5 coal in your inventory. Just try to place one and if you&apos;ve run out a new one will be crafted for you.</string>
-<string name="SU.02FirstNight.37.Header">Goal complete!</string>
-<string name="SU.02FirstNight.38.Paragraph">With a coal vein at your disposal to fuel your central power hub and supply you with all the torches you need, you should be able to survive on the surface indefinitely. From this point on, you can start mining the other veins you&apos;ve found, or set out to find them if you haven&apos;t. Then you can start feeding the metal ores to the smelter to acquire bars needed for crafting at the Manufacturing plant.</string>
-<string name="SU.02FirstNight.39.Paragraph">You can also think about using your ore extractors to automate the digging. Or, you can spend your research points on some projects to figure out what actually happened to get you on this planet. Or you could brave the challenges of the deep and see what interesting things can be found. It&apos;s up to you!</string>
+<string name="SU.02FirstNight.15.Paragraph">Dein Anzug beseitzt ein Scanner Werkzeug, welches für das Überleben unbezahlbar ist. Du kannst dieses Werkzeug durch drücken von (&apos;M&apos;) auswählen. Jetzt kannst du durch drücken der rechten Maustaste scannen, oder einen Materie Ping mit der linken Taste aussenden. Gib Acht nicht unnötig Pings auszusenden, sie verauchen viel Anzugsenergie.</string>
+<string name="SU.02FirstNight.16.Paragraph">Deine nächste Forschungsaufgabe ist es deine Umgebung zu scannen. Ziele auf einen Block den du noch nicht gescannst hast, benutze dein Scanner Werkzeug und halte die rechte Maustaste gedrückt, bis das Popup Fesnster unten links anzeigt, dass der Scann komplett abgeschlossen ist. Versuche alle Blöcke in deiner Umgebung zu scannen, auch Schnee, Dreck, Holz und Blätter!</string>
+<string name="SU.02FirstNight.17.Header">Erforsche deine Umgebung</string>
+<string name="SU.02FirstNight.18.Paragraph">Jetzt wo du die Blöcke gescannt hast, wird es Zeit die Scanns an der Forschungsstation bei der Absturtzstelle auszuwerten. Öffne das Interface durch drücken von (&apos;e&apos;). Das Fenster zeigt dir eine Liste aller unverarbeiteten Scans an, gefolgt von der Anzahl Forschungspunkte die sie dir nach der Vertarbeitung geben. Forschungspunkte sind noch nicht so wichtig, also ignoriere sie. Verarbeite alle Scanns die du in deiner Liste hast. Jeder braucht Energie für die Verarbeitung, aber wenn du dein Verteiler mit Holz oder Kohle befüllt gehalten hast, wird seine Energieanzeige meistens voll sein und genügend für viele Verarbeitungen haben.</string>
+<string name="SU.02FirstNight.19.Paragraph">Scans verarbeiten könnte Forschungsprojekte freischalten, aber für den Moment musst du dich nicht darum kümmern, deine Umgebung zu scannen ist wichtiger.</string>
+<string name="SU.02FirstNight.20.Header">Pinge deine Umgebung</string>
+<string name="SU.02FirstNight.21.Paragraph">Mit den gesacannten und verarbeiteten Blöcke um dich herum, kennt dein Anzug die Eigenschaften und das ermöglicht dir deine Materie Pings mit grosser Wirkung.</string>
+<string name="SU.02FirstNight.22.Paragraph">Im besonderen, der &apos;unbekannte Materie&apos; Ping ist was wir als nächstes benutzen werden, um unsere erste Erzader zu finden. Wechsle zum Scan Tool und mit &apos;unbekanntes Material&apos; ausgewählt, drücke die linke Maustaste. Das markiert alle Blöcke in deiner Reichweite welche eine Eigenschaft besitzen, die dein Anzug noch nicht kennt.In particular, the &apos;unknown material&apos; ping is what we will be using next, in order to find our first ore vein. Switch to your scan tool and with &apos;Unknown Material&apos; ping selected, press the left mouse button. This will highlight any blocks in range of you that have a characteristic your suit doesn&apos;t yet know about.</string>
+<string name="SU.02FirstNight.23.Paragraph">Wenn du deine Umgebung noch nicht gescannt hast, wird dieser Ping alle Blöcke wie Dreck und Stein um die Absturzstelle anzeigen. Sollte das so sein, scanne und verarbeite diese Blöcke, dann versuche es erneut.</string>
+<string name="SU.02FirstNight.24.Paragraph">Wenn erfolgreich, solltest du eine Anhäufung unbekannter Signaturen irgendwo im Untergrund oder im Inneren von Hügeln in der Nähe sehen. Aber behalte deine Energieanzeige im Auge, es ist nicht nötig zu frieren!</string>
+<string name="SU.02FirstNight.25.Header">Grabe zu den Adern</string>
+<string name="SU.02FirstNight.26.Paragraph">Nun musst du in Richtung dieser Signaturen graben, und nachsehen was sie sind. Scanne die Erzader und verarbeite es. Du wirst bemerken dass es mehr Forschungspunkte gibt als normales Material. Sobald du einen Erzblock kennst, kannst du zurück zur Ader gehen und sie erneut scannen, und das Werkzeug wird dir mehr Informationen zu dieser Ader geben; Wie gross sie ist und wieviel Erz darin ist (das ist nicht dasselbe).</string>
+<string name="SU.02FirstNight.27.Paragraph">Benutze deinen Greifhaken (&apos;F&apos;) um schnell heraus aus den Löchern zu kommen die du gegraben hast.</string>
+<string name="SU.02FirstNight.28.Paragraph">Wenn du nicht auf leicht spielst ist das erste Erz dass du finden möchtest das Kohle. Falls du Kupfer, Zinn oder Eisen findest, wird das grossartig für später sein aber nicht für den momentanen Gebrauch. Versuche dir den Ort zu merken, wir werden später dorthin zurück kommen. Wenn du dich nicht erinnern kannst macht das nichts, wir können später den Erz Ping benutzen um den Weg wieder zu finden.</string>
+<string name="SU.02FirstNight.29.Header">Fördere Kohle</string>
+<string name="SU.02FirstNight.30.Paragraph">Kohleadern in FortressCraft Evolved können gewaltig sein, und bis zu Millionen Einheiten Erz enthalten. Es abzubauen ist keine Sache von ein paar mal klicken; Du wirst Energie verbrauchen und wahrscheinlich Maschinen benutzen.</string>
+<string name="SU.02FirstNight.31.Paragraph">Mit deiner ersten Kohleader an der Hand, investiere etwas Zeit um einen sicheren Rückweg von der Ader zur Absturtzstelle zu gestalten. Du wirst diesen Weg oft benutzen, also ist die Zeit gut investiert.</string>
+<string name="SU.02FirstNight.32.Paragraph">Als nächstes solltest du deine Energie vom Verteiler aufladen und wieder zurück zur kohleader gehen. Platziere dort eine Fackel um sicherzustellen nicht zuviel Enegrie dort unten zu verbrauchen um warm zu behalten. Dann investiere deine ganze Energie in einen Superdig auf die Kohleader. Du kannst das tun wenn du CTRL (STRG) hältst während du rechtsklickst. Das ist ein ineffizienter Weg Erz abzubauen, aber es gibt dir eine kleine Menge Kohle mit der du arbeiten kannst.</string>
+<string name="SU.02FirstNight.33.Paragraph">Nun bist du ohne Energie, so gehe rasch zurück zum Verteiler und lade deine Energie wieder auf. Aber jetzt hast du eine bessere Ressource die du in den Verteiler legen kannst: Kohle! Das nächste mal wo du &apos;Add ressources&apos; drückst, sollte es einen Kohle-Erz Block anstelle von Holz rein legen. Sie generiert mehr Energie, darum wirst du etwas weniger Micromanagement betreiben müssen um die Eenergie aufrecht zu erhalten.</string>
+<string name="SU.02FirstNight.34.Header">Fertige es an</string>
+<string name="SU.02FirstNight.35.Paragraph">Kohle Erz lässt dich auch das selbst-crafting Fenster benutzen um neue Fackeln herzustellen. Drücke (&apos;C&apos;) um dieses Fenster zu öffnen. Es zeigt dir alle Rezepte die du herstellen kannst an, unter ihnen sind die Fackeln. Wähle die Fackeln aus und in der rechten Seite wird dir angezeigt dass du 5 Kohle brauchst um eine Fackel herzustellen. Drücke &apos;Craft&apos; und es fügt eine Fackel deinem Inventar hinzu.</string>
+<string name="SU.02FirstNight.36.Paragraph">Fackeln können auch automatisch hergestellt werden, solange du mindestens 5 Kohle Erz in deinem Inventar hast. Versuche eine neue zu platzieren und sobald du keine mehr hast, wird eine neue für dich hergestellt.</string>
+<string name="SU.02FirstNight.37.Header">Ziel erreicht!</string>
+<string name="SU.02FirstNight.38.Paragraph">Mit einer Kohleader zur Verfügung um deinen Zentralen Energie Verteiler zu versorgen und dich mit all den Fackeln zu beliefern die du brauchst, solltest du an der Oberfläche unbegrent überleben können. Von diesem Zeitpunkt an kannst du anfangen die anderen Adern abzubauen die du gefunden hast, oder anfangen sie zu suchen wenn du noch keine gefunden hast. Danach kannst du anfangen den Schmelzofen mit Erz zu füttern um Barren herzustellen, die du an der Werkbank zu Herstellung benötigst.</string>
+<string name="SU.02FirstNight.39.Paragraph">Du kannst auch darüber nachdenken deine Erzförderer zu benutzen um den Abbau zu automatisieren. Oder, du investierst einige Forschungspunkte in Projekte um herauszufinden was dazu geführt hat dich auf diesen Planeten zu bringen. Oder du stellst dich mutig der Herausforderung der Tiefe um zu sehen welche interessanten Dinge gefunden werden können. Es ist an dir!</string>
 <string name="SU.03Controls.Title">Controls</string>
 <string name="SU.03Controls.00.Title">Controls</string>
-<string name="SU.03Controls.01.Paragraph">This help guide lists all of the controls available in FortressCraft Evolved, don&apos;t worry if you are feeling overwhelmed at first, just refer to the essential controls section to get started.</string>
-<string name="SU.03Controls.02.Paragraph">Some controls are unavailable until you have completed the tutorial.</string>
-<string name="SU.03Controls.03.Header">Essential Controls</string>
-<string name="SU.03Controls.04.Left">W, A, S &amp; D: Movement
-					Space: Jump
-					H: This Help Guide
-					Escape: Main Menu
+<string name="SU.03Controls.01.Paragraph">In dieser Hilfe findest du alle Verfügbaren Steuerungen für FotressCraft Evolved. Keine Angst, wenn dich die Menge der Kontrollen verunsichert, schau dir nur die wichtigsten Funktionen an um loszulegen. </string>
+<string name="SU.03Controls.02.Paragraph">Manche der Stuerungen sind erst verfügbar, wenn du das Tuorial abgeschlossen hast.</string>
+<string name="SU.03Controls.03.Header">Wichtigsten Kontrollen</string>
+<string name="SU.03Controls.04.Left">W, A, S &amp; D: Bewegung
+					Space: Springen
+					H: Diese Hilfe
+					Escape: Hauptmenü
 					
-					X: Switch to Build Gun
-					LMB: Build Block
-					RMB: Remove Block
+					X: Wechsel zur Baupistole
+					LMT: Block setzten
+					RMT: Block entfernen
 					
-					M: Switch to Scanning Tool
-					LMB: Material Ping
-					RMB: Scan Block
+					M: Wechsel zum Scanner
+					LMT: Material Ping
+					RMT: Block scannen
 					</string>
-<string name="SU.03Controls.05.Right">I: Open Inventory
-					C: Open Self Crafting
-					F: Fire Grappling Hook
-					G: Toss Glowstick
+<string name="SU.03Controls.05.Right">I: Inventar öffnen
+					C: Baumenü öffnen
+					F: Greifhaken abfeuern 
+					G: Leuchtstab werfen
 					
-					E: Interact With Machine
-					Q: Extract From Machine
-					R: Rotate Machine
+					E: Maschine benutzen
+					Q: Objekt aus einer Maschine herausnehmen
+					R: Eine Maschine Drehen
 					
-					V: Switch to Ray Gun
-					LMB: Fire
-					RMB: Charged Shot
+					V: Wechsel zur Strahlenpistole
+					LMT: Feuer
+					RMT: Einen Schuss aufladen , zum abfeuern loslassen
 					</string>
-<string name="SU.03Controls.06.Paragraph">(LMB = Left Mouse Button, RMB = Right Mouse Button)</string>
-<string name="SU.03Controls.07.Header">Customising Controls</string>
-<string name="SU.03Controls.08.Paragraph">Most controls can be customised from the game launcher. In-game hints will not reflect these changes.</string>
-<string name="SU.03Controls.09.Header">Movement &amp; View</string>
-<string name="SU.03Controls.10.Left">W: Move Forwards
-					S: Move Backwards
-					A: Strafe Left
-					D: Strafe Right</string>
-<string name="SU.03Controls.11.Right">Space: Jump
-					Mouse: Look Around
-					U: Ride Minecart
+<string name="SU.03Controls.06.Paragraph">(LMT = Linke Maustaste, RMT = Rechte Maustaste)</string>
+<string name="SU.03Controls.07.Header">Steuerungen anpassen</string>
+<string name="SU.03Controls.08.Paragraph">Die meisten Steuerungen können über den Startbildschirm angepasst werden. Im Spiel werde diese Änderungen nicht in den Hilfen angezeigt</string>
+<string name="SU.03Controls.09.Header">Bewegung &amp; Ansicht</string>
+<string name="SU.03Controls.10.Left">W: Vorwärts Bewegen
+					S: Rückwärts Bewegen
+					A: Nach links Neigen
+					D: Nach rechts Neigen</string>
+<string name="SU.03Controls.11.Right">Leertaste: Springen
+					Maus: Sich umsehen
+					U: Auf eine Lohre aufspringen
 					Z: Zoom</string>
-<string name="SU.03Controls.12.Header">Weapons &amp; Tools</string>
-<string name="SU.03Controls.13.Left">X: Switch to Build Gun
-					V: Switch to Ray Gun
-					B: Switch to Steadycam</string>
-<string name="SU.03Controls.14.Right">N: Switch to Paint Gun
-					M: Switch to Scanning Tool
-					Shift + Mouse Wheel: Cycle Tools</string>
-<string name="SU.03Controls.15.Header">Inventory &amp; Hotbar</string>
-<string name="SU.03Controls.16.Left">I: Open Inventory
-					F1-F7: Select Hotbar Tab
-					1-9 &amp; 0: Select Hotbar Slot
-					Q : Drop Highlighted item
+<string name="SU.03Controls.12.Header">Waffen &amp; Werkzeuge</string>
+<string name="SU.03Controls.13.Left">X: Wechsel zur Baupistole
+					V: Wechsel zur Strahlenpistole
+					B: Wechsel zur Kamera</string>
+<string name="SU.03Controls.14.Right">N: Wechsel zur Farbpistole
+					M: Wechsel zum Scanner
+					Umschalt + Mausrad: Werkzeuge durchschalten</string>
+<string name="SU.03Controls.15.Header">Inventar &amp; Schnellwahl Menü</string>
+<string name="SU.03Controls.16.Left">I: Inventar öffnen
+					F1-F7: Schnellwahlblock wählen
+					1-9 &amp; 0: Slot auswählen
+					Q : Objekt wegwerfen
 					</string>
-<string name="SU.03Controls.17.Right">Shift + Drag: Split Stack
-					Control + Wheel: Cycle Tabs
-					Mouse Wheel: Cycle Slots
+<string name="SU.03Controls.17.Right">Umschalt + Ziehen: Stapel aufteilen
+					Steuerung + Mausrad: Schnellwahlmenü 
+					Steuerung + Mausrad: Schnellwahlblock durchschalten
 					--
 					</string>
-<string name="SU.03Controls.18.Header">Suit Functions</string>
-<string name="SU.03Controls.19.Left">C: Open Self Crafting
-					L: Toggle Head Lamp
-					J: Toggle Jetpack (needs crafting)
-					F: Fire Grappling Hook</string>
-<string name="SU.03Controls.20.Right">G: Toss Glowstick
-					K: Toggle Holobase View
-					U: Toggle Holobase Mode
-					Space: Release Grappling Hook</string>
-<string name="SU.03Controls.21.Header">Machines</string>
-<string name="SU.03Controls.22.Left">E: Interact with Machine
-					T: Store in Machine
-					R: Rotate Machine Clockwise
-					]: Rotate Machine Clockwise</string>
-<string name="SU.03Controls.23.Right">Q: Extract from Machine
-					Shift-T: Store 10 Items
+<string name="SU.03Controls.18.Header">Anzugsfunktionen</string>
+<string name="SU.03Controls.19.Left">C: Baumenü öffnen
+					L: Stirnlampe
+					J: Jetpack (muss erst gebaut werden)
+					F: Greifhaken abfeuern </string>
+<string name="SU.03Controls.20.Right">G: Leuchtstab werfen
+					K: Holobase Ansicht öffnen
+					U: Holobase Modus umschalten
+					Leertaste: Greifhaken loslassen</string>
+<string name="SU.03Controls.21.Header">Maschinen</string>
+<string name="SU.03Controls.22.Left">E: Maschinen benutzen
+					T: Objekt in Maschine legen
+					R: Maschine im Uhrzeigersinn drehen
+					]: Maschine im Uhrzeigersinn drehen</string>
+<string name="SU.03Controls.23.Right">Q: Objekt aus einer Maschine nehmen
+					Shift-T: 10 Objekte in eine Maschine legen
 					Shift-E: Hopper Vacuum Mode
-					[: Rotate Machine Anti-clockwise</string>
+					[: Maschine gegen den Uhrzeigersinn drehen</string>
 <string name="SU.03Controls.24.Header">Multiplayer</string>
-<string name="SU.03Controls.25.Paragraph">Enter: Show Chat Window
-					Right Shift: Show Server Information
-					Right Shift + F1, F2 or F3: Set Network Rate</string>
-<string name="SU.03Controls.26.Header">Build Gun</string>
-<string name="SU.03Controls.27.Left">LMB: Build Block
-					RMB: Remove Block
-					MMB : Pick Current Block</string>
-<string name="SU.03Controls.28.Right">Control + LMB: Build-To-Me
-					Control + Hold RMB: Super Dig</string>
-<string name="SU.03Controls.29.Header">Scanning Tool</string>
-<string name="SU.03Controls.30.Paragraph">Left Mouse Button: Ping Surroundings
-					Right Mouse Button: Scan Block
-					Mouse Wheel: Change Ping Setting</string>
-<string name="SU.03Controls.31.Header">Ray Gun</string>
-<string name="SU.03Controls.32.Left">LMB: Fire Single Shot</string>
-<string name="SU.03Controls.33.Right">Hold RMB: Charged Shot</string>
-<string name="SU.03Controls.34.Header">Other</string>
-<string name="SU.03Controls.35.Left">Escape: Main Menu
-					Ctrl-M: Toggle music</string>
-<string name="SU.03Controls.36.Right">Tab: Toggle ARTHER Distance</string>
+<string name="SU.03Controls.25.Paragraph">Enter: Chat Fenster öffnen
+					Rechte Umschalt Taste: Zeige Server Informationen
+					Rechte Umschalt Taste  + F1, F2 or F3: Netzwerk Bandbreite anpassen</string>
+<string name="SU.03Controls.26.Header">Baupistole</string>
+<string name="SU.03Controls.27.Left">LMT: Block setzten
+					RMT: Block entfernen
+					MMT : Block auswählen</string>
+<string name="SU.03Controls.28.Right">Control + LMt: Build-To-Me (zu mir bauen)
+					Steuerung + RMT halten: Super Dig (viel auf einmal Abbauen)</string>
+<string name="SU.03Controls.29.Header">Scanner</string>
+<string name="SU.03Controls.30.Paragraph">LMT: Umgebung Pingen
+					RMT: Block Scannen
+					Mausrad: Ping Einstellungen verändern</string>
+<string name="SU.03Controls.31.Header">Strahlenpistole</string>
+<string name="SU.03Controls.32.Left">LMT: Einzelner Schuss abfeuern</string>
+<string name="SU.03Controls.33.Right">RMT: Einen Schuss aufladen, zum abfeuern loslassen</string>
+<string name="SU.03Controls.34.Header">Anderes</string>
+<string name="SU.03Controls.35.Left">Escape: Hauptmenü
+					Steuerung + M: Musik durschalte</string>
+<string name="SU.03Controls.36.Right">Tabulator: ARTHER Entfernung einstellen</string>
 <string name="SU.04UnknownMaterials.Title">Unknown Materials</string>
-<string name="SU.04UnknownMaterials.00.Title">Unknown Materials</string>
-<string name="SU.04UnknownMaterials.01.Header">What are Unknown Materials?</string>
-<string name="SU.04UnknownMaterials.02.Paragraph">Initially all materials on this planet are unknown. They will appear as a question mark in your inventory - to be of any use they must be identified. Once collected or scanned (using the secondary action of the scanning tool) an unknown material must be taken to the research station to be processed.
-					Until this happens, the material cannot be used for processing or building.
-					</string>
-<string name="SU.04UnknownMaterials.03.Header">Processing Unknown Materials</string>
-<string name="SU.04UnknownMaterials.04.Paragraph">Select the first tab of the research station marked &apos;Scans&apos;; this will list all unknown materials you have encountered, their value in research points, and how much power is required to process them. Press the &apos;Process&apos; button to process the material, the required power will be deducted and the specified number of research points awarded. These can be used to unlock recipes and projects using the second and third tabs of the research station.</string>
-<string name="SU.04UnknownMaterials.05.Header">Progression</string>
-<string name="SU.04UnknownMaterials.06.Paragraph">Once new materials are scanned, they can unlock new machines, recipes and projects.</string>
-<string name="SU.04UnknownMaterials.07.Paragraph">Scanning unknown materials is the best way to earn more Research Points. As we understand more about this strange, blocky planet, we are better equipped to create bigger and better machines to help you survive, and then to escape!</string>
-<string name="SU.04UnknownMaterials.08.Paragraph">Please visit the help guide entry on the research station for more information.</string>
-<string name="SU.05LaboratoryResearch.Title">Laboratory Research</string>
-<string name="SU.05LaboratoryResearch.00.Title">Laboratory Research</string>
-<string name="SU.05LaboratoryResearch.01.Paragraph">This guide is for research projects which require the use of the laboratory. For more information on research in general please visit the research station help entry.</string>
-<string name="SU.05LaboratoryResearch.02.Header">Constructing a Laboratory</string>
-<string name="SU.05LaboratoryResearch.03.Paragraph">The research laboratory must first be unlocked by completing the appropriate projects at the research station. You then need to manufacture 27 laboratory components at the manufacturing plant and place them in a 3 by 3 by 3 configuration.
-					</string>
-<string name="SU.05LaboratoryResearch.04.Header">Powering the Laboratory</string>
-<string name="SU.05LaboratoryResearch.05.Paragraph">The laboratory is designed to use as much power as you can supply it. More power means faster research! At minimum you should consider using several Pyrothermic generators, but there is no need to attempt to fully power the lab.</string>
-<string name="SU.05LaboratoryResearch.06.Header">Starting Projects</string>
-<string name="SU.05LaboratoryResearch.07.Paragraph">Open the laboratory control panel by interacting with the machine (default &apos;E&apos;) and ensure you are in &apos;Experiment&apos; mode. The selected project will be listed first followed by its requirements and any eligible projects below it. To select a new project click it and its requirements will be displayed. Click &apos;Start Project&apos; to begin research.
-					</string>
-<string name="SU.05LaboratoryResearch.08.Header">Supplying Project Requirements</string>
-<string name="SU.05LaboratoryResearch.09.Paragraph">Projects typically require one or more types of experimentation pods. The exact requirements will be listed with the project. These should be placed in a storage hopper attached to any side of the laboratory. If you wish to automate delivery of pods then you should consider using a separate hopper for each type to ensure availability of any pod type.</string>
-<string name="SU.05LaboratoryResearch.10.Paragraph">For more information on creating experimentation pods please read the following guide.</string>
-<string name="SU.06ExperimentalPods.Title">Experimental Pods</string>
-<string name="SU.06ExperimentalPods.00.Title">Experimental Pods</string>
-<string name="SU.06ExperimentalPods.01.Paragraph">Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</string>
-<string name="SU.06ExperimentalPods.02.Header">What are Experimental Pods?</string>
-<string name="SU.06ExperimentalPods.03.Paragraph">Experimental pods are the resource used by the laboratory to perform experiments. Each pods is an intelligent storage device capable of containing and monitoring a variety of substances. The laboratory is responsible for the management of these, you need only supply it with the empty pods.</string>
-<string name="SU.06ExperimentalPods.04.Header">Creating Experimental Pods</string>
-<string name="SU.06ExperimentalPods.05.Paragraph">Experimental pods are unlocked at the same time as the laboratory, only the most basic of these can be crafted in the manufacturing plant. The rest require specialised machinary. Each type of pods requires a different raw material but all use the same machinary to construct them.</string>
-<string name="SU.06ExperimentalPods.06.Paragraph">Each pod is constucted from metal places and printed circuit boards (PCBs) make from the same material. Please review the help entry for the specific pod you require for more information.</string>
-<string name="SU.06ExperimentalPods.07.Header">Creating Metal Plates</string>
-<string name="SU.06ExperimentalPods.08.Paragraph">Metal plates are created in a stamper plant. This is a specialised type of conveyor with the stamper machinary attached to it and can be made in the manfacturing plant. The raw material required is a metal bar.</string>
-<string name="SU.06ExperimentalPods.09.Header">Creating PCBs</string>
-<string name="SU.06ExperimentalPods.10.Paragraph">Creating PCBs is a multi-stage process and requires the use of three machines. First use an &apos;Extrusion Plant&apos; to convert metal bars into wires. Next a &apos;Coiler Plant&apos; to convert wires into coils, and finally a &apos;PCB Assembly Plant&apos; to convert coils into PCBs.</string>
-<string name="SU.06ExperimentalPods.11.Header">Manufacturing Pods</string>
-<string name="SU.06ExperimentalPods.12.Paragraph">Finally use the research assembler to combine the plates and PCBs into an experimental pod. This is not a conveyor based machine and requires power and both input and output storage hoppers. We recommend using two input hoppers to ensure availability of both plates and PCBs. The completed pods can then be delivered to the laboratory.</string>
+<string name="SU.04UnknownMaterials.00.Title">Unbekannte Materialien</string>
+<string name="SU.04UnknownMaterials.01.Header">Was sind Unbekannte Materialien?</string>
+<string name="SU.04UnknownMaterials.02.Paragraph">Zu Beginn sind alle Materialien auf dem Planeten unbekannt. Diese tauchen im Inventar, mit einem Fragezeichen markiert, auf. Bevor man sie für irgendetwas verwenden kann, müssen sie Identifiziert werden. Nach dem Abbauen oder durch das Scannen der Materialien mit dem Scanner (RMT: Block Scannen), müssen diese zum Identifizieren zur Forschungsstation gebracht werden. Erst wenn die Materialien bekannt sind, können sie weiterverarbeitet oder benutzt werden.				</string>
+<string name="SU.04UnknownMaterials.03.Header">Identifizieren von Unbekannten Materialien</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">Damit in der Forschungsstation Materialien identifiziert werden können, findet man diese nach der Entdeckung unter dem Reiter &quot;Scans&quot; . Dort steht auch , wie viele Forschungspunkte man für dieses Material erhält. Ebenso die Menge an Energie die erforderlich ist für die Identifikation. 
+Durch drücken des &quot;Process&quot; Knopf wir die erforderliche Energie abgezogen , und die Menge an Forschungspunkten gutgeschrieben. Diese können dazu verwendet werden , neue Maschinen und Rezepte feizuschalten. Diese findest du im zweiten und dritten Karteireiter der Forschungsstation.</string>
+<string name="SU.04UnknownMaterials.05.Header">Fortschritt</string>
+<string name="SU.04UnknownMaterials.06.Paragraph">Sind die neuen Materialien identifiziert, können damit neue Maschinen, Rezepte und Projekte freigeschalten werden.</string>
+<string name="SU.04UnknownMaterials.07.Paragraph">Unbekannte Materialien identifizieren ist der beste Weg um an Forschungspunkte zu gelangen. Je mehr wir von dieser fremden blockartigen Welt verstehen, desto besser können wir uns ausgerüsten, größere und bessere Maschinen bauen, unsere Chance zum überleben erhöhen und dann endlich fliehen !!!</string>
+<string name="SU.04UnknownMaterials.08.Paragraph">Bitte lest die Hilfe der Forschungsstation für weitere Infomationen.</string>
 <string name="SU.07Mynocks.Title">Mynock Infestation</string>
-<string name="SU.07Mynocks.00.Title">Mynock Infestation</string>
-<string name="SU.07Mynocks.01.Paragraph">This conveyor belt has been infested by an alien lifeform. We have spotted it stealing resources from the belt but those resources do not appear to be remaining within the body of the lifeform itself. Instead they seem to be directed into a root system running through the earth. Our scanners show these roots appear to be heading towards a central core, we should investigate this as a matter of priority.</string>
-<string name="SU.07Mynocks.02.Paragraph">Regardless of whatever the final destination of these stolen resources may be, we want to put a stop to it! The alien structures appear to be susceptible to energy weapons. We should research their vulnerabilities further which should allow us to construct automated base defenses to take them out. Longer term we should look towards researching improved methods of resource distribution which are less vulnerable to attack. As a stop-gap we can kill them using our ray gun (V), but they&apos;ll certainly be back quickly.</string>
-<string name="SU.08VideoTutorials.Title">Video Tutorials!</string>
-<string name="SU.08VideoTutorials.00.Title">Video Tutorials</string>
-<string name="SU.08VideoTutorials.01.Paragraph">Want more tutorials? Let me know on twitter @fortress_craft or the Steam forums! - Dj</string>
-<string name="SU.09CommunityLinks.Title">Community Links!</string>
-<string name="SU.09CommunityLinks.00.Title">Community Links</string>
-<string name="SU.09CommunityLinks.01.Paragraph">Remember you can always talk to me on twitter @fortress_craft or the Steam forums! - Dj</string>
-<string name="SU.Particulate_Filtration.Title">Particulate Filtration</string>
-<string name="SU.Particulate_Filtration.00.Title">Particulate Filtration</string>
-<string name="SU.Particulate_Filtration.01.Paragraph">By studying the suits particle filtration system, we are now able to filter different elements out of the air. Building these systems in the various caverns should allow us to extract, concentrate, and bottle different elements found in air. Due to the average size of these caverns and the density of the particles in the air, there should not be any noticeable long term effects from this process. These systems may lower the hostility of the environment for native flora and fauna, this effect should be negligible since there are no known predominantly hostile flora or fauna. The Cold Caverns will net us Freezon, the Toxic Caverns Chlorine, and the Magma Caverns, Sulphur.</string>
+<string name="SU.07Mynocks.00.Title">Mynock Befall</string>
+<string name="SU.07Mynocks.01.Paragraph">Dieses Förderband wurde von einer fremden Lebensform befallen. Wir haben gesehen, dass es die Ressourcen vom Förderband stiehlt, aber diese Ressourcen scheinen nicht im Körper der Lebensform selbst zu verbleiben. Scheinbar scheinen sie mit einem wurzelartigen Netzwerk verbunden zu sein. Unsere Scanner zeigen, dass diese Wurzeln auf einen zentralen Kern zu zu gehen scheinen,wir sollten das vorrangig untersuchen.</string>
+<string name="SU.07Mynocks.02.Paragraph">Unabhänig davon,was auch immer das entgültige Ziel dieser gestohlenen Ressourcen sein mag, sollten wir es Stoppen! Diese fremden Strukturen scheinen anfällig für Energiewaffen zu sein. Wir sollten ihre Schwachstellen weiterforschen, die es uns erlaubt automatisierte Basisverteidigung zu bauen um sie aufzuhalten. Längerfristig sollten wir auf die Suche nach verbesserten Methoden der Ressourcenverteilung, die weniger anfällig für Angriffe ist. Übergangsweise können wir sie mit unserer Strahlkanone [V] töten, aber sie werden sicherlich schnell zurück kommen.</string>
 </resources>
