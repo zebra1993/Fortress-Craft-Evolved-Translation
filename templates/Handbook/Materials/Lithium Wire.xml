@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Lithium Wire</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Lithium_Wire.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Lithium Wire</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Lithium_Wire.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

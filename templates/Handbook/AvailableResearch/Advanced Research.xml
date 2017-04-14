@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>advanced research</Handle>
+
+	<Title>{{AV.Advanced_Research.Title}}</Title>
+
+	<Icon>Laboratory Component</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{AV.Advanced_Research.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Laboratory Component</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{AV.Advanced_Research.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

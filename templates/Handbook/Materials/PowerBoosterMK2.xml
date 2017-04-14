@@ -1,0 +1,70 @@
+<MaterialEntry>
+	<Name>MK2 Power Booster</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.PowerBoosterMK2.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MK2 Power Booster</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.PowerBoosterMK2.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.PowerBoosterMK2.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.PowerBoosterMK2.03.Left}}</Left>
+<Right>{{MA.PowerBoosterMK2.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>PowerBoosterMK3</Material>
+
+					</Target>
+
+					<Text>ARTHER Power Booster MK3</Text>
+
+				</Link>
+
+					<Link>
+					<Target>
+						<Material>MK2PowerBoosterCharger</Material>
+
+					</Target>
+
+					<Text>Crafted by MK2 Power Booster Charger</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

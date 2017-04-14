@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Gold Plate</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Gold_Plate.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Gold Plate</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Gold_Plate.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

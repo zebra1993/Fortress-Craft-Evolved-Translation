@@ -1,0 +1,55 @@
+<MaterialEntry>
+	<Name>Build Gun V3</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Build_Gun_V3.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Build Gun V3</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Build_Gun_V3.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Build Gun V1</Material>
+
+					</Target>
+
+					<Text>Build Gun V1</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+
+					</Target>
+
+					<Text>Build Gun V2</Text>
+
+				</Link>
+					
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

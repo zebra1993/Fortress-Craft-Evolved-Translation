@@ -1,0 +1,51 @@
+<MaterialEntry>
+	<Name>Mesh Weaver</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Mesh_Weaver.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Mesh Weaver</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Mesh_Weaver.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Crystal Fiber Mesh</Material>
+
+					</Target>
+
+					<Text>Crystal Fiber Mesh</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>Pipe Coater</Material>
+
+					</Target>
+
+					<Text>Pipe Coater</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

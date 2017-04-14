@@ -1,0 +1,72 @@
+<MaterialEntry>
+	<Name>Teleporter</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Teleporter.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Teleporter</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Teleporter.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Teleporter.02.Header}}</Text>
+</Header>
+
+				<Icon>
+					<Name>Location Marker</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+	
+				<Paragraph>
+					<Text>{{MA.Teleporter.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Location Marker</Material>
+
+					</Target>
+
+					<Text>Location Marker</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Teleporter.04.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Teleporter.05.Left}}</Left>
+
+					<Right>{{MA.Teleporter.06.Right}}</Right>
+
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

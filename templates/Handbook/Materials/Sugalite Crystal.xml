@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Name>Sugalite Crystal</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Sugalite_Crystal.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Sugalite Crystal</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Sugalite_Crystal.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Sugalite_Crystal.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph><Text>{{MA.Sugalite_Crystal.03.Paragraph}}</Text>
+</Paragraph>
+
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>

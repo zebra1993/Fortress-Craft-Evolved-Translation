@@ -1,0 +1,37 @@
+<Chapter>
+	<Handle>T4_Particles</Handle>
+
+	<Title>{{SU.Particulate_Filtration.Title}}</Title>
+
+	<Icon>Particulate Filtration</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{SU.Particulate_Filtration.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Particulate Filtration</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{SU.Particulate_Filtration.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

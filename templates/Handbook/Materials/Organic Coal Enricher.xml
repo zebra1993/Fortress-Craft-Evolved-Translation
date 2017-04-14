@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Organic Coal Enricher</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Organic_Coal_Enricher.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Organic Coal Enricher</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Organic_Coal_Enricher.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

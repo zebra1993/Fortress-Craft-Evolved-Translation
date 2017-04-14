@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Conductive PCB</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Conductive_PCB.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Conductive PCB</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Conductive_PCB.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

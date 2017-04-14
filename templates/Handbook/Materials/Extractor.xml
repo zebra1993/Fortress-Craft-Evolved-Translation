@@ -1,0 +1,109 @@
+<MaterialEntry>
+	<Name>Ore Extractor</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Extractor.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Ore Extractor</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.03.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>{{MA.Extractor.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Extractor.05.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.06.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Extractor.07.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.08.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Extractor.09.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.10.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Extractor.11.Paragraph}}</Text>
+
+				</Paragraph>
+					
+			</Paragraphs>
+
+		</Page>
+
+			<Page>
+			<Paragraphs>
+				<Header><Text>{{MA.Extractor.12.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Extractor.13.Left}}</Left>
+
+					<Right>{{MA.Extractor.14.Right}}</Right>
+
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</MaterialEntry>
+

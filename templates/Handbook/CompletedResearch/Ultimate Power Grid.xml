@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>T5 Power</Handle>
+
+	<Title>{{CO.Ultimate_Power_Grid.Title}}</Title>
+
+	<Icon>Ultimate Power Grid</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Ultimate_Power_Grid.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Ultimate Power Grid</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Ultimate_Power_Grid.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

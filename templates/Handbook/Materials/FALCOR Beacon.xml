@@ -1,0 +1,58 @@
+<MaterialEntry>
+	<Name>FALCOR Beacon</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.FALCOR_Beacon.00.Title}}</Text>
+
+				</Title>
+
+		
+						
+				<Icon>
+					<Name>FALCOR Beacon</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+
+
+				<Paragraph>
+					<Text>{{MA.FALCOR_Beacon.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Icon>
+					<Name>FALCOR MK1</Name>
+
+					<Target><Material>FALCOR MK1</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>FALCOR MK1</Material>
+
+					</Target>
+
+					<Text>FALCOR</Text>
+
+				</Link>
+	
+				 
+				<Spacer/>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,73 @@
+<MaterialEntry>
+	<Name>Hard Rock Grinder</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.T4_HardRockGrinder.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>T4_Grinder</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.T4_HardRockGrinder.01.Paragraph}}</Text>
+
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>{{MA.T4_HardRockGrinder.02.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.T4_HardRockGrinder.03.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.T4_HardRockGrinder.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+
+					</Target>
+
+					<Text>NanoDisintegrator</Text>
+
+				</Link>
+
+
+				<Icon>
+					<Name>Trencher Drill component</Name>
+
+					<Target><Material>TrencherDrillPlacement</Material>
+</Target>
+
+				</Icon>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

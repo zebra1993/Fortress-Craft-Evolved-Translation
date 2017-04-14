@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Pristine Phosphorescent Gland</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Pristine_Phosphorescent_Gland.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>WaspGlandPristine</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Pristine_Phosphorescent_Gland.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

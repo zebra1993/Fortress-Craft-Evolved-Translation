@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Soft Resin</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Soft_Resin.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Soft Resin</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Soft_Resin.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

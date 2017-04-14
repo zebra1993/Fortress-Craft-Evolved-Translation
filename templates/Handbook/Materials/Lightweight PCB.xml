@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Lightweight PCB</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Lightweight_PCB.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Lightweight PCB</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Lightweight_PCB.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

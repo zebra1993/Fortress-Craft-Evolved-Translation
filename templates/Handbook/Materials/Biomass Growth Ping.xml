@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Biomass Growth Ping</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Biomass_Growth_Ping.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Biomass_Growth_Ping.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+
+					</Target>
+
+					<Text>Blank Ore Ping</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

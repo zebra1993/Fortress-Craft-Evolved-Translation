@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Massive Faceted Eye</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Massive_Faceted_Eye.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>WaspEyeMassive</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Massive_Faceted_Eye.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

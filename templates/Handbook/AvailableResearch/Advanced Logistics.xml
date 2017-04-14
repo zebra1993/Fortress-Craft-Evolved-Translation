@@ -1,0 +1,42 @@
+<Chapter>
+	<Handle>T2 assist machines</Handle>
+
+	<Title>{{AV.Advanced_Logistics.Title}}</Title>
+
+	<Icon>mk1 robot arm</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{AV.Advanced_Logistics.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>mk1 robot arm</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{AV.Advanced_Logistics.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{AV.Advanced_Logistics.02.Paragraph}}</Text>
+
+				</Paragraph>
+			
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Name>Emerald Crystal</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Emerald_Crystal.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Emerald Crystal</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Emerald_Crystal.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

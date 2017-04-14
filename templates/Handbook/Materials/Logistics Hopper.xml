@@ -1,0 +1,51 @@
+<MaterialEntry>
+	<Name>LogisticsHopper</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Logistics_Hopper.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>LogisticsHopper</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Logistics_Hopper.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Logistics_Hopper.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Page>0</Page>
+
+						<Material>StorageHopper</Material>
+
+					</Target>
+
+					<Text>Storage Hopper</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+
+

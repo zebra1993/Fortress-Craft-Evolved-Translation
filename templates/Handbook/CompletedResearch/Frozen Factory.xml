@@ -1,0 +1,79 @@
+<Chapter>
+	<Handle>T4_start</Handle>
+
+	<Title>{{CO.Frozen_Factory.Title}}</Title>
+
+	<Icon>Local Life Forms</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Frozen_Factory.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MagmaBore Component</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Frozen_Factory.01.Paragraph}}</Text>
+  
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{CO.Frozen_Factory.02.Paragraph}}</Text>
+  
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{CO.Frozen_Factory.03.Paragraph}}</Text>
+  
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Hard Rock Grinder</Material>
+
+					</Target>
+
+					<Text>Hard Rock Grinder</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>NanoDisintegrator</Material>
+
+					</Target>
+
+					<Text>NanoDisintegrator</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>CCCCC_Placement</Material>
+
+					</Target>
+
+					<Text>Cold Cavern Climate Control Centre</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

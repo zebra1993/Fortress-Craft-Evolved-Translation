@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Crystal Clock</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Crystal_Clock.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Crystal Clock</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Crystal_Clock.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Crystal Clock Maker</Material>
+
+					</Target>
+
+					<Text>Crystal Clock Maker</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Sapphire Focusing Lens</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Sapphire_Focusing_Lens.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Sapphire Focusing Lens</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Sapphire_Focusing_Lens.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Sapphire_Focusing_Lens.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Sapphire_Focusing_Lens.03.Left}}</Left>
+
+					<Right>{{MA.Sapphire_Focusing_Lens.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

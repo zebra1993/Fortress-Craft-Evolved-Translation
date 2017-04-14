@@ -1,0 +1,87 @@
+<MaterialEntry>
+	<Name>MagmaBore Component</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.T4_MagmaBore.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MagmaBore Component</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.01.Paragraph}}</Text>
+
+				</Paragraph>
+	
+				<Spacer/>
+			
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.02.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.03.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+			</Paragraphs>
+
+		</Page>
+		
+		<Page>
+			
+			<Paragraphs>
+			<Title>
+				<Text>{{MA.T4_MagmaBore.05.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>MagmaBore Component</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.06.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.T4_MagmaBore.07.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

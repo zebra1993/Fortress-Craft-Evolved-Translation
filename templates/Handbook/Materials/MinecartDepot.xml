@@ -1,0 +1,219 @@
+<MaterialEntry>
+	<Name>Minecart Depot</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.MinecartDepot.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Minecart Depot</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.MinecartDepot.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.MinecartDepot.02.Paragraph}}</Text>
+&gt;
+				</Paragraph>
+
+				<Spacer/>
+
+				<Link>
+					<Target>
+						<Material>Basic Minecart</Material>
+
+					</Target>
+
+					<Text>Basic Minecart</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>Fast Minecart</Material>
+
+					</Target>
+
+					<Text>Fast Minecart</Text>
+
+				</Link>
+
+				<Link>
+					<Target>
+						<Material>Large Minecart</Material>
+
+					</Target>
+
+					<Text>Large Minecart</Text>
+
+				</Link>
+
+					<Link>
+					<Target>
+						<Material>Bulk Minecart</Material>
+
+					</Target>
+
+					<Text>Bulk Minecart</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.MinecartDepot.03.Title}}</Text>
+
+				</Title>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.MinecartDepot.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Icon>
+					<Name>Minecart Load</Name>
+
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+
+					</Target>
+
+					<Text>Minecart Load</Text>
+
+				</Link>
+
+				<Icon>
+					<Name>Minecart Unload</Name>
+
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+
+					</Target>
+
+					<Text>Minecart Unload</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.MinecartDepot.05.Title}}</Text>
+
+				</Title>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.MinecartDepot.06.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+
+					</Target>
+
+					<Text>Minecart Turbo Rail</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+
+					</Target>
+
+					<Text>Minecart Full Gate</Text>
+
+				</Link>
+
+				<Spacer/>
+
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+
+					</Target>
+
+					<Text>Minecart Empty Gate</Text>
+
+				</Link>
+
+				<Spacer/>
+
+
+		
+			</Paragraphs>
+
+		</Page>
+
+	
+	</Pages>
+
+</MaterialEntry>
+
