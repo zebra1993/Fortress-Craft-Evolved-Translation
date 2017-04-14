@@ -663,7 +663,7 @@
     <string name="Maroon Canvas">Kastanienbraune Leinwand</string>
     <string name="Maroon Canvas_DESC">Ein bereits fertig angemalter Leinwandblock. Gut geeignet für bunte Flächen</string>
     <string name="Truss">Gerüst</string>
-    <string name="Truss_DESC">Ein stabiles Metallgerüst. Macht sich bestimmt gut als Stützen</string>
+    <string name="Truss_DESC">Ein stabiles Metallgerüst. Macht sich bestimmt gut als Stütze.</string>
     <string name="My First Flowers">Meine ersten Blumen</string>
     <string name="My First Flowers_DESC">My First Flowers_DESC</string>
     <string name="My First Roof">Meine erste Decke</string>
@@ -740,7 +740,7 @@
     <string name="Super Hard Rock">Sehr hartes Gestein</string>
     <string name="Super Hard Rock_DESC">Scheint stärker komprimiert zu sein als das Gestein an der Oberfläche</string>
     <string name="Magmacite">Magmacite</string>
-    <string name="Magmacite_DESC">Magmacite_DESC</string>
+    <string name="Magmacite_DESC">Gestein, das durch Erstarrung aus Magma gebildet wurde.</string>
     <string name="Uranium">Uran</string>
     <string name="Uranium_DESC">Leicht radioaktiv. Wurde damals zum gelb-färben von Glas und Keramik benutzt</string>
     <string name="Lime Yellow Canvas">Zitronengelbe Leinwand</string>
@@ -764,7 +764,7 @@
     <string name="Celtic Gold Braid Pillar">Keltische Goldflechtensäule</string>
     <string name="Celtic Gold Braid Pillar_DESC">Celtic Gold Braid Pillar_DESC</string>
     <string name="Celtic Concrete Pillar">Keltischer Betonpfeiler</string>
-    <string name="Celtic Concrete Pillar_DESC">Celtic Concrete Pillar_DESC</string>
+    <string name="Celtic Concrete Pillar_DESC">Eine Betonsäule im keltischen Stil.</string>
     <string name="Celtic Cross">Keltisches Kreuz</string>
     <string name="Celtic Cross_DESC">Celtic Cross_DESC</string>
     <string name="Celtic Curved Roof">Gebogene keltische Decke</string>
@@ -1035,7 +1035,7 @@
     <string name="Central Power Hub_DESC">Produziert ein bisschen Energie.\\nKann Ressourcen in Energie umwandeln.\\nVersorgt angrenzende Strukturen.</string>
     <string name="Ore Extractor">Erzförderer</string>
     <string name="Ore Extractor_DESC">Extrahiert effizient Erz.\\nLagert 25 Erz.\\nExtrahiert 1 Erz/min.</string>
-    <string name="Power Storage Block">Energiespeicherblock</string>
+    <string name="Power Storage Block">Energiespeicher</string>
     <string name="Power Storage Block_DESC">Speichert ein bisschen Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
     <string name="Power Storage MK2">Energiespeicher MK2</string>
     <string name="Power Storage MK2_DESC">Speichert mehr Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
@@ -1044,7 +1044,7 @@
     <string name="Organic Power Storage">Organischer Energiespeicher</string>
     <string name="Organic Power Storage_DESC">Kann Energie nur langsam transferieren.</string>
     <string name="StorageHopper">Lagertrichter</string>
-    <string name="StorageHopper_DESC">Lagert 100 Dinge.\nTransferiert selbständig.\nNutze E um Transferverhalten zu ändern.</string>
+    <string name="StorageHopper_DESC">Lagert 100 Dinge.\\nTransferiert selbständig.\\nDrücke E um das Transferverhalten zu ändern.</string>
     <string name="LogisticsHopper">Logistiktrichter</string>
     <string name="LogisticsHopper_DESC">Transferiert automatisch 1 Gegenstand alle 10s.</string>
     <string name="MiniHopper">Minitrichter</string>
@@ -1073,7 +1073,7 @@ Sehr Energie hungrig!</string>
     <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
     <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI bewegungs Steuerung</string><!-- Not optimal-->
-    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI Roboter.\nVerschiebt Erze zwischen Hoppern.\nGeringer Aufwand, wenig Effizienz.</string>
+    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI Roboter.\\nVerschiebt Erze zwischen Hoppern.\\nGeringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massebeweger</string>
     <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Dinge/min auf 64m Entfernung.</string>
     <string name="Dual Matter Mover">Dual Massebeweger</string>
@@ -1122,17 +1122,17 @@ Sehr Energie hungrig!</string>
     <string name="Research Station">Forschungsstation</string>
     <string name="Research Station_DESC">Verarbeitet Scans und Forschung zu Technologien.\\nBraucht Energie.</string>
     <string name="Forced Induction">MK1 Induktionseinheit</string><!-- it means just Inductionunit as the Forced part is kinda hart to describe (just using erzwungenen Induktion would be an option, would sound silly tho)-->
-    <string name="Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="MK2 Forced Induction">MK2 Induktionseinheit</string>
-    <string name="MK2 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="MK2 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="MK3 Forced Induction">MK3 Induktionseinheit</string>
-    <string name="MK3 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="MK3 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="MK4 Forced Induction">MK4 Induktionseinheit</string>
-    <string name="MK4 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="MK4 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="MK5 Forced Induction">MK5 Induktionseinheit</string>
-    <string name="MK5 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="MK5 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="ARC Smelter Upgrade">Lichtbogenschmelzverbesserung</string>
-    <string name="ARC Smelter Upgrade_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\nWird AUF einer Schmelzofen plaziert.</string>
+    <string name="ARC Smelter Upgrade_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="Turret MK1">Laserturm MK1</string>
     <string name="Turret MK1_DESC">Gut für Infrastrukturelleverteidigung.</string>
     <string name="Turret MK2">Laserturm MK2</string>
@@ -1147,30 +1147,23 @@ Sehr Energie hungrig!</string>
     <string name="Geological Surveyor_DESC">Stellt sicher das deine Steinbrüche richtig Plaziert sind.</string>
     <!--Manufacturing plant and Modules for it -->
     <string name="Manufacturing Plant">Konstruktionsanlage</string>
-    <string name="Manufacturing Plant_DESC">Zentrale automatische Werkbank.\nKann durch anbringen von Modulen verbessert werden.\nBraucht Energie für automatische Produktion.</string>
+    <string name="Manufacturing Plant_DESC">Zentrale automatische Werkbank.\\nKann durch Anbringen von Modulen verbessert werden.\\nBraucht Energie für automatische Produktion.</string>
     <string name="3D Printer">3D Drucker</string>
-    <string name="3D Printer_DESC">Werkbankmodul\nSchaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="3D Printer_DESC">Werkbankmodul.\\nSchaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Compressor">Verdichter</string>
-    <string name="Compressor_DESC">Werkbankmodul
-Schatet die Verdichter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Compressor_DESC">Werkbankmodul.\\nSchaltet die Verdichter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Extruder Module">Extrudiermodul</string>
-    <string name="Extruder Module_DESC">Werkbankmodul
-Schaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Extruder Module_DESC">Werkbankmodul.\\nSchaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Chip Etcher">Chipätzer</string>
-    <string name="Chip Etcher_DESC">Werkbankmodul
-Schaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Chip Etcher_DESC">Werkbankmodul.\\nSchaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Hydrojet Cutter">Wasserstrahlschneider</string>
-    <string name="Hydrojet Cutter_DESC">Werkbankmodul
-Schaltet die Wasserstrahlschneider Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Hydrojet Cutter_DESC">Werkbankmodul.\\nSchaltet die Wasserstrahlschneider Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Robotic Welder">Schweissroboter</string>
-    <string name="Robotic Welder_DESC">Werkbankmodul
-Schaltet Schweissroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Robotic Welder_DESC">Werkbankmodul.\\nSchaltet Schweißroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Incubator">Brutschrank</string>
-    <string name="Incubator_DESC">Werkbankmodul
-Schaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Incubator_DESC">Werkbankmodul.\\nSchaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Assembly Station">Montagestation</string>
-    <string name="Assembly Station_DESC">Werkbankmodul
-Schaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Assembly Station_DESC">Werkbankmodul.\\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
 
     <string name="Refinery Controller">Raffineriesteuerung</string>
     <string name="Refinery Controller_DESC">Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</string>
@@ -1667,26 +1660,26 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Critter">Critter</string>
     <string name="Critter_DESC">Notice my Oppai!</string>
     <string name="Waypoint Machine">Wegpunktanzeige</string>
-    <string name="Waypoint Machine_DESC">Wenn Plaziert und mit Energie versorgt wird ein Wegpunkt erzeugt. Kann durch plazieren eines Schildes an der Maschiene angepasst werden.</string>
+    <string name="Waypoint Machine_DESC">Wenn platziert und mit Energie versorgt wird ein Wegpunkt erzeugt. Kann durch platzieren eines Schildes an der Maschine angepasst werden.</string>
 
     <string name="ConstructoBot Direction">ConstructoBot Wegweiser</string>
-    <string name="ConstructoBot Direction_DESC">Forces ConstructoBots to head in this direction.</string>
+    <string name="ConstructoBot Direction_DESC">Zwingt ConstructoBots in diese Richtung zu gehen.</string>
     <string name="ConstructoBot Cargo Control">ConstructoBot Ladungskontrolle</string>
-    <string name="ConstructoBot Cargo Control_DESC">ConstructoBots with cargo will head in the the direction of the GREEN arrow.</string>
+    <string name="ConstructoBot Cargo Control_DESC">Beladene ConstructoBots werden in die Richtung des GRÜNEN Pfeils gehen.</string>
     <string name="ConstructoBot Loaded Control">ConstructoBot Geladenkontrolle</string>
-    <string name="ConstructoBot Loaded Control_DESC">Full ConstructoBots will head in this direction.</string>
+    <string name="ConstructoBot Loaded Control_DESC">Volle ConstructoBots werden in diese Richtung gehen.</string>
     <string name="ConstructoBot Unloaded Control">ConstructoBot Entladenkontrolle</string>
-    <string name="ConstructoBot Unloaded Control_DESC">Empty ConstructoBots will head in this direction.</string>
+    <string name="ConstructoBot Unloaded Control_DESC">Leere ConstructoBots werden in diese Richtung gehen.</string>
     <string name="ConstructoBot Power Control">ConstructoBot Energiekontrolle</string>
-    <string name="ConstructoBot Power Control_DESC">Low-power ConstructoBots will head in this direction.</string>
+    <string name="ConstructoBot Power Control_DESC">ConstructoBots mit wenig Energie werden in diese Richtung gehen.</string>
     <string name="ConstructoBot T-junction">ConstructoBot T-Kreuzung</string>
-    <string name="ConstructoBot T-junction_DESC">ConstructoBots will alternate Left/Right on hitting this.</string>
+    <string name="ConstructoBot T-junction_DESC">ConstructoBots werden abwechselnd nach links und rechts abbiegen, wenn sie hier vorbei kommen.</string>
     <string name="ConstructoBot Sprayer">ConstructoBot Lackierer</string>
-    <string name="ConstructoBot Sprayer_DESC">Randomise ConstructoBots paint schemes.</string>
+    <string name="ConstructoBot Sprayer_DESC">Färbt ConstructoBots in zufälligen Farben.</string>
     <string name="ConstructoBot Cold Protector">ConstructoBot Kälteschutz</string>
-    <string name="ConstructoBot Cold Protector_DESC">Applies Cold Protection to ConstructoBots.</string>
+    <string name="ConstructoBot Cold Protector_DESC">Trägt Kälteschutz auf einen ConstructoBot auf.</string>
     <string name="ConstructoBot Charger">ConstructoBot Ladestation</string>
-    <string name="ConstructoBot Charger_DESC">Charges a ConstructoBot.</string>
+    <string name="ConstructoBot Charger_DESC">Lädt einen ConstructoBot auf.</string>
     <string name="ConstructoBot Constructor">ConstructoBot Konstrukteur</string>
     <string name="ConstructoBot Constructor_DESC">Builds a ConstructoBot from input conveyors with Arm, Body and Legs.</string>
 
@@ -1709,22 +1702,22 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="CRP DLC KEY_DESC">Placeholder</string>
 
     <string name="Emergency Siren">Notfallsirene</string>
-    <string name="Emergency Siren_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
+    <string name="Emergency Siren_DESC">An einer Maschine anbringen, um diese zu überwachen.</string>
     <string name="Orange Warning Light">Oranges Warnlicht</string>
-    <string name="Orange Warning Light_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
+    <string name="Orange Warning Light_DESC">An einer Maschine anbringen, um diese zu überwachen.</string>
     <string name="Red Warning Light">Rotes Warnlicht</string>
-    <string name="Red Warning Light_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
+    <string name="Red Warning Light_DESC">An einer Maschine anbringen, um diese zu überwachen.</string>
     <string name="Warning Strobe">Warn Blitzlicht</string>
-    <string name="Warning Strobe_DESC">An einer Maschiene anbringen um diese zu Überwachen.</string>
+    <string name="Warning Strobe_DESC">An einer Maschine anbringen, um diese zu überwachen.</string>
 
     <string name="Organic MK2">Organische Solarpanele MK2</string>
-    <string name="Organic Solar Panel MK2_DESC">Nicht Wichtig</string>
+    <string name="Organic Solar Panel MK2_DESC">Nicht wichtig</string>
     <string name="Glow Tubes">Leuchtröhren</string>
-    <string name="Glow Tubes_DESC">Diese massiven leuchtenden Röhren scheinen aus nutzvollen Fasern zu bestehen.</string>
+    <string name="Glow Tubes_DESC">Diese massiven leuchtenden Röhren scheinen aus nützlichen Fasern zu bestehen.</string>
     <string name="Never Visibole">Niemals Sichtbar</string>
-    <string name="Never Visibole_DESC">Wenn du das siehst liegt ein Fehler vor. Bitte melde ihn and den Entwickler weiter</string>
+    <string name="Never Visibole_DESC">Wenn du das siehst liegt ein Fehler vor. Bitte melde ihn an den Entwickler weiter</string>
     <string name="Large Rocks">Grosse Steine</string>
-    <string name="Large Rocks_DESC">Grosse Steine die ander Oberfläche vorkommen, welche Spuren von Erz enthalten.</string>
+    <string name="Large Rocks_DESC">Grosse Steine, die an der Oberfläche vorkommen und Spuren von Erz enthalten.</string>
     <string name="Workshop Placement">Werkstattplazierung</string>
     <string name="Workshop Placement_DESC">Wird diagonal Plaziert\n Erzeugt eine Datailblockwerkstatt\nGrösse von 2x2x2 bis 8x8x8</string>
 
@@ -1747,12 +1740,12 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Laser Energy Transmitter MK2_CRAFT_HINT">Stufe 2 überträgt mehr Energie!</string>
     <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschienen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um Vertikal energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK3_CRAFT_HINT">Grösster Einzel-Block Energieübertrager.</string>
-    <string name="Power Storage Block_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 200 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeicherblöcken geteilt.</string>
-    <string name="Power Storage Block_CRAFT_HINT">Mit Maschienen verbinden um sie mit 200 Energie zu versorgen</string>
-    <string name="Power Storage MK2_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 1500 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeicherblöcken geteilt.</string>
-    <string name="Power Storage MK2_CRAFT_HINT">Mit Maschienen verbinden um sie mit 1500 Energie zu versorgen</string>
-    <string name="Power Storage MK3_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 5000 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeicherblöcken geteilt.</string>
-    <string name="Power Storage MK3_CRAFT_HINT">Mit Maschienen verbinden um sie mit 5000 Energie zu versorgen</string>
+    <string name="Power Storage Block_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 200 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
+    <string name="Power Storage Block_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 200 Energie zu versorgen</string>
+    <string name="Power Storage MK2_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 1500 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
+    <string name="Power Storage MK2_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 1500 Energie zu versorgen</string>
+    <string name="Power Storage MK3_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 5000 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
+    <string name="Power Storage MK3_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 5000 Energie zu versorgen</string>
     <string name="Induction Charger_CRAFT_DESC">Einfache, unkomplizierte Lösung wenig Energie an viele Maschienen zu verteilen. Aufgebaut in einer 5x5 Platte.</string>
     <string name="Induction Charger_CRAFT_HINT">Grossartig für Raketenbatterien, Energiekernlader und Raffinierien und Harzveredelungen!</string>
     <string name="Ore Thief_CRAFT_DESC">Handliche möglichkeit Erz aus dem Invental zu entfernen. Als eine 3x3 Platte aufbauen, draufstehn! Braucht kleine Mengen Energie und einen angrenzenden Trichter.</string>
@@ -1773,8 +1766,8 @@ Zum nutzen an einen S1 Lift anschliessen.</string>
     <string name="Conduit_CRAFT_HINT">Nicht direkt im Strahl aufhalten.</string>
     <string name="MK5 Battery Component_CRAFT_DESC">Speichert bis zu 4.5 Mio Energie. Muss in einer 5x5 Grundplatte mit 9 Höhe gebaut werden (225 Block total). Akzeptiert keine Energie von angrenzenden Energiespeichern.</string>
     <string name="MK5 Battery Component_CRAFT_HINT">Vierfache Dichte von T3 Batterien!</string>
-    <string name="Organic Power Storage_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 8'500 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeicherblöcken geteilt.</string>
-    <string name="Organic Power Storage_CRAFT_HINT">Langsam dafür grosse Kapazität.</string>
+    <string name="Organic Power Storage_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 8\'500 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
+    <string name="Organic Power Storage_CRAFT_HINT">Langsam, dafür große Kapazität.</string>
     <string name="Ore Extractor_CRAFT_DESC">Entzieht automatisch Erz aus einer angrenzenden Erzader. Interne Lagerkapazität kann mit Lagertrichtern erweitert werden. Braucht Energie, kann verbessert werden.</string>
     <string name="Ore Extractor_CRAFT_HINT">Mit Lagertrichtern verbinden für automatisierte Lagerverwaltung.</string>
     <string name="MiniHopper_CRAFT_DESC">Anfangs Lagerlösung. Lagert bis zu 10 Ressourcen, gibt diese aber nur langsam wieder ab.</string>
