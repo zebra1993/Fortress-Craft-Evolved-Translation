@@ -950,7 +950,7 @@
     <string name="Peeling Paint">Peeling Paint</string>
     <string name="Peeling Paint_DESC"/>
     <string name="Cement Garden Tile 2">Cement Garden Tile 2</string>
-    <string name="Cement Garden Tile 2_DESC"></string>
+    <string name="Cement Garden Tile 2_DESC"/>
     <string name="Cement Garden Tile 3">Cement Garden Tile 3</string>
     <string name="Cement Garden Tile 3_DESC">Cement Garden Tile 3_DESC</string>
     <string name="Cement Garden Tile 4">Cement Garden Tile 4</string>
@@ -1046,11 +1046,11 @@
     <string name="Basic Matter Mover">Basic Matter Mover</string>
     <string name="Basic Matter Mover_DESC">Transmits upto 150 items/min at a range of 64m</string>
     <string name="Dual Matter Mover">Dual Matter Mover</string>
-    <string name="Dual Matter Mover_DESC">Tranmits upto 300 items/min at a range of 32m</string>
+    <string name="Dual Matter Mover_DESC">Transmits upto 300 items/min at a range of 32m</string>
     <string name="Quad Matter Mover">Quad Matter Mover</string>
-    <string name="Quad Matter Mover_DESC">Tranmits upto 600 items/min at a range of 16m</string>
+    <string name="Quad Matter Mover_DESC">Transmits upto 600 items/min at a range of 16m</string>
     <string name="Multi Matter Mover">Multi Matter Mover</string>
-    <string name="Multi Matter Mover_DESC">Tranmits upto 4800 items/min at a range of 4m</string>
+    <string name="Multi Matter Mover_DESC">Transmits upto 4800 items/min at a range of 4m</string>
     <string name="Ore Smelter">Ore Smelter</string>
     <string name="Ore Smelter_DESC">This is your primary method for generating Ingots of resources.</string>
     <string name="Basic Ore Smelter">Basic Ore Smelter</string>
