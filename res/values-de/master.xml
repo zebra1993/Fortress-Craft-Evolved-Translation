@@ -21,7 +21,7 @@
     <string name="Power_Level">Energie</string>
     <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
     <string name="Day_Night_Cycle">Tag-/Nachtzyklus</string>
-    <string name="Mob_Difficulty">Mob Schwierigkeit</string>
+    <string name="Mob_Difficulty">Gegner Schwierigkeitsgrad</string>
     <string name="Death_Mode">Todesmodus</string><!-- Should be changed doesnt sound well, but maybe a start point -->
     <string name="Rush_Mode">Schnelles Spiel</string>
     <string name="Flatland">Flachland</string>
@@ -2478,7 +2478,7 @@ Sehr Energie hungrig!</string>
     <string name="Simplified Experimental Pod_CRAFT_DESC">Zinnplatten und primäre Leiterplatten werden zu vereinfachten Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Simplified Experimental Pod_CRAFT_HINT">Zinnplatten und primäre Leiterplatten werden zu vereinfachten Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Intermediate Experimental Pod_CRAFT_DESC">Eisenplatten und gehärtete Leiterplatten werden zu vmittleren Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
-    <string name="Intermediate Experimental Pod_CRAFT_HINT">Eisenplatten und gehärtete Leiterplatten werden zu vmittleren Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
+    <string name="Intermediate Experimental Pod_CRAFT_HINT">Eisenplatten und gehärtete Leiterplatten werden zu mittleren Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Complex Experimental Pod_CRAFT_DESC">Lithiumplatten und geladene Leiterplatten werden zu komplexen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Complex Experimental Pod_CRAFT_HINT">Lithiumplatten und geladene Leiterplatten werden zu komplexen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
     <string name="Advanced Experimental Pod_CRAFT_DESC">Goldplatten und leitende Leiterplatten werden zu fortgeschritenen Experimentalkanistern verarbeitet welche für Forschung verwendet werden können.</string>
@@ -2526,26 +2526,26 @@ Sehr Energie hungrig!</string>
     <!-- Name is already done-->
     <string name="Power">Energie</string>    <!-- Fairly generic -->
     <string name="Drill_Stuck">Bohrer festgefressen</string>
-    <string name="Offline_Warning">Offline Warning</string>
+    <string name="Offline_Warning">Offline Warnung</string>
     <string name="Cant_Dig">Kann nicht graben.</string>
     <string name="Fit_Head">Besseren Bohrkopf ausrüsten!</string>
-    <string name="OE_Searching">Suche Erz...</string>
+    <string name="OE_Searching">Suche nach Erzen...</string>
     <string name="Next">Nächstes</string><!-- Next [ORE_NAME] in [TIME]-->
     <string name="In">In</string><!-- No I don't think it'll make a lot of sense in most languages-->
     <string name="Total_Stored">Total gelagert</string>
     <string name="Drill_Rate">Bohrrate</string>
     <string name="Durability">Lebensdauer</string>
-    <string name="Ore_Per_Min">Erz pro minute</string>
+    <string name="Ore_Per_Min">Erz pro Minute</string>
     <string name="Demand">Nachfage</string>
     <string name="PPS">EPS</string><!-- This is unlikely to make a lot of sense when translated-->
-    <string name="Power_Per_Second">Energie pro sekunde</string>
+    <string name="Power_Per_Second">Energie Pro Sekunde</string>
     <string name="Efficiency">Effizienz</string>
-    <string name="Work_Efficiency">Arbeits Effizienz</string>
+    <string name="Work_Efficiency">Arbeitseffizienz</string>
     <string name="Q_Reset">(Q zum zurücksetzen)</string>
-    <string name="Average_PPS">Durschnitts EPS</string>
+    <string name="Average_PPS">Durschnittliche EPS</string>
     <!-- Defaults for when we don't have anything fitted-->
-    <string name="Economy_Drill_Motor">Economy Bohrantrieb</string>
-    <string name="Standard_Cutter_Head">Standart Bohrkopf</string>
+    <string name="Economy_Drill_Motor">Ökonomischer Bohrantrieb</string>
+    <string name="Standard_Cutter_Head">Standard Bohrkopf</string>
     <!-- Popup Window -->
     <string name="Add_Power">Energie hinzufügen</string>
     <string name="Click_UG">Icon anklicken zum verbessern</string>
