@@ -29,8 +29,8 @@ STRG + Linke Maustaste: Bau-zu-mir-Funktion. Platziert Blöcke bis zur aktuellen
 STRG + rechte Maustaste: Schnell abbauen</string>
 <string name="CR.01Welcome.07.Title">Kreativmodus Bauwerkzeuge</string>
 <string name="CR.01Welcome.08.Paragraph">In FortressCraft Evolved besitzt du mehrere mächtige Werkzeuge für kreatives Bauen, die im folgenden beschrieben werden. Wir werden in Zukunft Links zur genaueren Erklärung der Werkzeuge bereitstellen.</string>
-<string name="CR.01Welcome.09.Header">Bauwerkzeug</string>
-<string name="CR.01Welcome.10.Paragraph">Beim verwenden des Bauwerkzeugs (auswählen mit X) kannst du mit der linken Maustaste Blöcke platzieren während die rechte Maustaste die Blöcke wieder löscht. Du hast mit der grossen Reichweite vom Bauwerkzeug bis zu 64 Blöcke entfernt etwas ab-/abbauen.</string>
+<string name="CR.01Welcome.09.Header">Konstruktor</string>
+<string name="CR.01Welcome.10.Paragraph">Beim Verwenden des Konstruktors (auswählen mit [X]) kannst du mit \"Bauen\" (Standard: [Linke Maustaste]) Blöcke platzieren, während \"Entfernen\" (Standard: [Rechte Maustaste]) die Blöcke wieder löscht. Du kannst mit der großen Reichweite vom Konstruktur bis zu 64 Blöcke entfernt etwas ab-/abbauen.</string>
 <string name="CR.01Welcome.11.Header">Schnellabbau</string>
 <string name="CR.01Welcome.12.Paragraph">Halte STRG gedrückt, während du Blöcke abbaust, um den Schnellabbau zu aktivieren. Dies wird deine Abbaugeschwindigkeit sehr viel schneller machen, was gut ist für das ausheben von grösseren Flächen ist. Sei vorsichtig beim Schnellabbau, damit du nicht deine bereits fertige Arbeit aus Versehen zerstörst.</string>
 <string name="CR.01Welcome.13.Header">Baue-zu-mir-Funktion</string>
