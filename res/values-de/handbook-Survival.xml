@@ -65,7 +65,7 @@
 <string name="SU.02FirstNight.20.Header">Pinge deine Umgebung</string>
 <string name="SU.02FirstNight.21.Paragraph">Mit den gescannten und verarbeiteten Blöcken um dich herum, kennt dein Anzug die Eigenschaften und das ermöglicht dir deine Materie Ping mit großer Wirkung.</string>
 <string name="SU.02FirstNight.22.Paragraph">Im besonderen, der \'unbekannte Materie\' Ping ist was wir als nächstes benutzen werden, um unsere erste Erzader zu finden. Wechsel zum Scanner, wähle mit dem Mausrad \'unbekanntes Material\' aus, und drücke die linke Maustaste. Das markiert alle Blöcke in deiner Reichweite, welche eine Eigenschaft besitzen, die dein Anzug noch nicht kennt.</string>
-<string name="SU.02FirstNight.23.Paragraph">Wenn du deine Umgebung noch nicht gescannt hast, wird dieser Ping alle Blöcke wie Dreck und Stein um die Absturzstelle anzeigen. Sollte das so sein, scanne und verarbeite diese Blöcke, dann versuche es erneut.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Wenn du deine Umgebung noch nicht gescannt hast, wird dieser Ping alle Blöcke wie Dreck und Stein um die Absturzstelle anzeigen. Sollte das so sein, scanne und verarbeite diese Blöcke. Dann versuche es erneut. "</string>
 <string name="SU.02FirstNight.24.Paragraph">War der Scann erfolgreich, solltest du eine Anhäufung unbekannter Signaturen irgendwo im Untergrund oder im Inneren von Hügeln in der Nähe sehen. Aber behalte deine Energieanzeige im Auge, es ist nicht nötig zu frieren!</string>
 <string name="SU.02FirstNight.25.Header">Grabe zu den Adern</string>
 <string name="SU.02FirstNight.26.Paragraph">Nun musst du in Richtung dieser Signaturen graben, und nachsehen was sie sind. Scanne die Erzader und verarbeite es. Du wirst bemerken dass es mehr Forschungspunkte gibt als normales Material. Sobald du einen Erzblock kennst, kannst du zurück zur Ader gehen und sie erneut scannen um mehr Informationen zu dieser Ader zu erhalten. Wie groß sie ist und wie viel Erz darin ist (das ist nicht dasselbe).</string>
@@ -115,7 +115,7 @@
  "</string>
 <string name="SU.03Controls.06.Paragraph">(LMT = Linke Maustaste, RMT = Rechte Maustaste)</string>
 <string name="SU.03Controls.07.Header">Steuerungen anpassen</string>
-<string name="SU.03Controls.08.Paragraph">Die meisten Steuerungen können über den Startbildschirm angepasst werden. Im Spiel werde diese Änderungen nicht in den Hilfen angezeigt</string>
+<string name="SU.03Controls.08.Paragraph">Die meisten Steuerungen können über den Startbildschirm angepasst werden. Im Spiel werde diese Änderungen nicht in den Hilfen angezeigt.</string>
 <string name="SU.03Controls.09.Header">Bewegung &amp; Ansicht</string>
 <string name="SU.03Controls.10.Left">W: Vorwärts Bewegen
 					S: Rückwärts Bewegen
