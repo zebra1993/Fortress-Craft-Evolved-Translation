@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">K.I. Butler</string>
-<string name="MA.AI_Mover_Control.01.Paragraph">Dieser kleine Roboter transportiert eine einzelne Ressource zwischen zwei Trichtern. Die gegebenen Trichter-Einstellungen werden dabei berücksichtigt.</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Dieser kleine Roboter transportiert ein einzelnes Objekt zwischen zwei Containern. Die gegebenen Container-Einstellungen werden dabei berücksichtigt.</string>
 <string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Batterie</string>
 <string name="MA.ARTHER_Battery_Core.01.Paragraph">Erlaubt es deinem Gehilfen ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh als möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">ARTHER Ladestation</string>
-<string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von Arther schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem "ARTHER Energiekern".</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von ARTHER schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem ARTHER Energiekern.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Spezifikationen</string>
 <string name="MA.ARTHER_Charging_Station.03.Left">ARTHER Aufladerate:
  Stations-Energiekapazität:
@@ -13,11 +13,11 @@
  1500
  10 pro Sekunde</string>
 <string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER Zylinder</string>
-<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Halte Arther stets trocken und elegant. Benötigt "Dapper Indie Supporter DLC". Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Halte ARTHER stets trocken und elegant. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER Elegantes Monokel</string>
-<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Verbessert die Sicht von Arther. Benötigt "Dapper Indie Supporter DLC". Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Verbessert die Sicht von Arther. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER Eleganter Schnurrbart</string>
-<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Lust auf einen Ritt?. Benötigt "Dapper Indie Supporter DLC". Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Lust auf einen Ritt?. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Gentlemen Starter Kit</string>
 <string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Komprimierte Eleganz für echte Gentlemen die gerne leicht reisen. Verwende dieses Kit um alle bisherigen eleganten Upgrades zu vereinen. Muss im Inventar aufbewahrt werden.</string>
 <string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Elegantes Upgrade Paket</string>
@@ -43,10 +43,10 @@
  10 Sekunden
  1 (ARTHER)</string>
 <string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Upgrade Paket</string>
-<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte von Sollarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte von Solarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
 <string name="MA.Advanced_Experimental_Pod.00.Title">Fortgeschrittenes Experiment</string>
 <string name="MA.Advanced_Experimental_Pod.01.Paragraph">Das Fortgeschrittene Experiment wird im Labor verwendet um die Forschung voranzutreiben. Es wird aus Gold hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
-<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zum herstellen von Experimenten klicke auf folgenden Link.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zum Herstellen von Experimenten klicke auf folgenden Link.</string>
 <string name="MA.Advanced_machine_block.00.Title">Fortgeschrittener Maschinenblock</string>
 <string name="MA.Advanced_machine_block.01.Paragraph">Hauptbestandteil vieler fortschrittlicher Maschinen.</string>
 <string name="MA.Advanced_machine_block.02.Header">Diese Blöcke sind ein Hauptbestandteil bestimmter Multiblock-Maschinen.</string>
@@ -59,14 +59,14 @@
 <string name="MA.Auto_Builder.01.Paragraph">Kann selbstständig Förderbänder in eine der vier Himmelsrichtungen verlegen. Benötigt Trichter.</string>
 <string name="MA.Auto_Builder.02.Header">Tipps und Tricks!</string>
 <string name="MA.Auto_Builder.03.Paragraph">- Diese Maschine benötigt einiges an Energie um auf voller Leistung zu funktionieren!</string>
-<string name="MA.Auto_Builder.04.Paragraph">- Ein Trichter wird benötigt um Förderbänder einzuspeisen.</string>
+<string name="MA.Auto_Builder.04.Paragraph">- Ein Container wird benötigt um Förderbänder einzuspeisen.</string>
 <string name="MA.Auto_Builder.05.Paragraph">- Verwende keine anderen Blöcke! Kann nur Förderbänder platzieren!</string>
 <string name="MA.Auto_Builder.06.Header">Vorsicht!</string>
-<string name="MA.Auto_Builder.07.Paragraph">- Das Anbringen eines Trichters mit Transport-Rohren verlegt keine Rohre sondern Förderbänder!</string>
+<string name="MA.Auto_Builder.07.Paragraph">- Das Anbringen eines Containers mit Transport-Rohren verlegt keine Rohre sondern Förderbänder!</string>
 <string name="MA.Auto_Excavator.00.Title">Auto Bagger</string>
 <string name="MA.Auto_Excavator.01.Paragraph">Der Auto Bagger ist eine Maschine um vertikale Schächte von unten nach oben zu graben. Das Material fällt dabei zu Boden. Ist nicht in der Lage Erze abzubauen.</string>
 <string name="MA.Auto_Excavator.02.Header">Verwendung</string>
-<string name="MA.Auto_Excavator.03.Paragraph">Grabe einen Schacht und platziere den Autobagger an der geplanten tiefsten Stelle. Muss mit Strom von Laser Transmittern oder einer anderen Stromquelle versorgt werden.</string>
+<string name="MA.Auto_Excavator.03.Paragraph">Grabe einen Schacht und platziere den Autobagger an der geplanten tiefsten Stelle. Muss mit Strom von Lasertransmittern oder einer anderen Stromquelle versorgt werden.</string>
 <string name="MA.Auto_Excavator.04.Header">Spezifikationen</string>
 <string name="MA.Auto_Excavator.05.Left">Schaftgröße:
  Max. Schafthöhe:
@@ -96,9 +96,8 @@
  2560 pro Sekunde
  0,2 Meter pro Sekunde</string>
 <string name="MA.Bar_Keeper.00.Title">Cyberdyne Barren Rücknahmestation</string>
-<string name="MA.Bar_Keeper.01.Paragraph">Die Cyberdyne Barren Rücknahmestation ist eine Maschine die verwendet wird um Metallbarren aus dem Inventar des Spielers zu entfernen. Diese Maschine soll einen unbeabsichtigten Diebstahl von Ressourcen verhindern, wenn sich ein Spieler ausloggt. Im Gegensatz zum Erz und Müll-Schlucker ist diese Maschine in zentralen großen Räumen eher hinderlich. In einem Mehrspieler-Game sollte diese Maschine zwar leicht zugänglich aber offensichtlich beschriftet sein, um nicht aus versehen aktiviert zu werden.
-						Baue einfach unsere Brandneue Barren-Rücknahmestation (tm) in einer 3x3 Konfiguration und versorge sie mit Strom. Die Barren werden in angrenzende Trichter gelegt. 5 Energie pro Barren.
-					</string>
+<string name="MA.Bar_Keeper.01.Paragraph">Die Cyberdyne Barren Rücknahmestation ist eine Maschine, die verwendet wird, um Metallbarren aus dem Inventar des Spielers zu entfernen. Diese Maschine soll einen unbeabsichtigten Diebstahl von Ressourcen verhindern, wenn sich ein Spieler ausloggt. Im Gegensatz zum Erz und Müll-Schlucker ist diese Maschine in zentralen großen Räumen eher hinderlich. In einem Mehrspieler-Game sollte diese Maschine zwar leicht zugänglich aber offensichtlich beschriftet sein, um nicht aus Versehen aktiviert zu werden.
+ Baue einfach unsere brandneue Barren-Rücknahmestation (tm) in einer 3x3 Konfiguration und versorge sie mit Strom. Stelle dich auf sie und lass SIE die Arbeit für dich tun! Die Barren werden in angrenzende Container gelegt. 5 Energie pro Barren.</string>
 <string name="MA.Bar_Keeper.02.Header">Spezifikationen</string>
 <string name="MA.Bar_Keeper.03.Left">"Barren-Sammelgeschwindigkeit:
  Lagerkapazität:
@@ -109,14 +108,14 @@
  Nur 5 Energie pro Barren!
  "</string>
 <string name="MA.Basic_Conveyor_Belt.00.Title">Einfaches Förderband</string>
-<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist "Kohle zum Zentralen Energieverteiler zu bewegen" und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Speichertrichter angeschlossen sind.</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist Kohle zum Zentralen Energieverteiler zu bewegen und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Lagercontainer angeschlossen sind.</string>
 <string name="MA.Basic_Conveyor_Belt.02.Header">Verwendung</string>
-<string name="MA.Basic_Conveyor_Belt.03.Paragraph">Förderbänder werden automatisch Ressourcen von angrenzenden Trichtern nehmen, wenn sie von diesem wegzeigen. Die Ressourcen werden stets in Laufrichtung des Förderbandes transportiert. Du kannst die Richtung der Förderbänder durch "rotieren" ändern. Möchtest du Ressourcen an die Oberfläche transportieren so kannst du auch Förderbänder an der Wand verlegen. Speicher-Trichter sind nur erforderlich, um mit benachbarten Maschinen am Ende der Linie zu interagieren.</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">Förderbänder werden automatisch Ressourcen von angrenzenden Lagercontainern nehmen, wenn sie von diesem weg zeigen. Die Ressourcen werden stets in Laufrichtung des Förderbandes transportiert. Du kannst die Richtung der Förderbänder durch Rotieren ändern. Möchtest du Ressourcen an die Oberfläche transportieren so kannst du auch Förderbänder an der Wand verlegen. Lagercontainer sind nur erforderlich, um mit benachbarten Maschinen am Ende der Linie zu interagieren.</string>
 <string name="MA.Basic_Conveyor_Belt.04.Header">Einschränkungen</string>
 <string name="MA.Basic_Conveyor_Belt.05.Paragraph">Förderbänder sind billig und benötigen keine Energie. Aber sie haben eine Reihe von Nachteilen. Sie sind empfindlich gegen kalte und toxische Umgebungen und die Ressourcen sind gegen Diebstahl ungeschützt. Alternative Transportmöglichkeiten sollten sobald als möglich erforscht werden.</string>
 <string name="MA.Basic_Conveyor_Belt.06.Paragraph">Das einfache Förderband ist billiger als das normale Förderband, aber ist VIEL langsamer. Einsatz nur bei früher Automatisierung sinnvoll.</string>
 <string name="MA.Basic_Conveyor_Belt.07.Header">Filtern</string>
-<string name="MA.Basic_Conveyor_Belt.08.Paragraph">Die Verwendung des Förderband-Filters ermöglicht uns eine exaktere Verteilung unserer Ressourcen. Diese Art von Filter wird genutzt um zu bestimmen welche Ressourcen aus einem Trichter entfernt werden. Du kannst den Filter auf folgende Einstellungen setzen: "Müll", "Organisches", "Edelsteine", "Kohle", "Biomasse", "Schmelzbares", "Brennbares", "Hergestellte Items" sowie "Kristalle und Barren".</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"Die Verwendung des Förderband-Filters ermöglicht uns eine exaktere Verteilung unserer Ressourcen. Diese Art von Filter wird genutzt um zu bestimmen welche Ressourcen aus einem Container entfernt werden. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTES sowie KRISTALLE und BARREN. "</string>
 <string name="MA.Basic_Conveyor_Belt.09.Header">Spezifikationen</string>
 <string name="MA.Basic_Conveyor_Belt.10.Left">Max. Transportrate (schnell):
  Max. Transportrate (langsam):
@@ -129,11 +128,11 @@
 <string name="MA.Basic_Drill_Motor.00.Title">Einfacher Bohrmotor</string>
 <string name="MA.Basic_Drill_Motor.01.Paragraph">Verbessert die Rate (Erz pro Minute) eines Erzbohrers auf Kosten des Energieverbrauchs.</string>
 <string name="MA.Basic_Drill_Motor.02.Header">Spezifikationen</string>
-<string name="MA.Basic_Drill_Motor.03.Left">Förder-Rate:</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Förderrate:</string>
 <string name="MA.Basic_Drill_Motor.04.Right">200%</string>
 <string name="MA.Basic_Experimental_Pod.00.Title">Einfaches Experiment</string>
-<string name="MA.Basic_Experimental_Pod.01.Paragraph">Das einfache Experiment wird im Labor verwendet um die Forschung voranzutreiben. Es wird aus Kupfer hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link</string>
-<string name="MA.Basic_Experimental_Pod.02.Paragraph">Für weitere Informationen zum herstellen von Experimenten klicke auf folgenden Link..</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">Das einfache Experiment wird im Labor verwendet um die Forschung voranzutreiben. Es wird aus Kupfer hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">Für weitere Informationen zum Herstellen von Experimenten klicke auf folgenden Link..</string>
 <string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Einfacher Laser Energie Transmitter</string>
 <string name="MA.Basic_Laser_Energy_Transmitter.01.Paragraph">Als der einfachste und billigste Transmitter ist dieser einfache Laser für jedwede Aufgabe ungeeignet und sollte nur verwendet werden wenn sonst keine Alternative besteht.</string>
 <string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">Der einfache Laser Energie Transmitter kann nur zwei unaufgerüstete Erzbohrer betreiben. Wegen seiner außerordentlich niedrigen Übertragungsgeschwindigkeit wird ein Upgrade auf fortschrittlichere Transmitter empfohlen sobald dies möglich ist.</string>
@@ -547,4 +546,123 @@
 <string name="MA.Rock.00.Title">Fels</string>
 <string name="MA.Rock.01.Paragraph">Gestein das meist als oberste Schicht auf Bergen zu finden ist. Kann zerkleinert werden um eventuell nützliche Materialien zu erhalten.</string>
 <string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Einfacher Massenlager Einlagerungsport</string>
+<string name="MA.FastMinecart.00.Title">Schnelle Lore</string>
+<string name="MA.FastMinecart.02.Header">Spezifikationen</string>
+<string name="MA.Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.Fusion_Drill_Motor.02.Header">Spezifikationen</string>
+<string name="MA.Garbage_Thief.02.Header">Spezifikationen</string>
+<string name="MA.Geological_Surveyor.02.Header">Spezifikationen</string>
+<string name="MA.ImprovedCargoLift.02.Header">Spezifikationen</string>
+<string name="MA.Induction_Charger.02.Header">Spezifikationen</string>
+<string name="MA.Jet_Turbine_Generator_Housing.04.Header">Spezifikationen</string>
+<string name="MA.Jet_Turbine_Generator_Intake.04.Header">Spezifikationen</string>
+<string name="MA.LargeMinecart.02.Header">Spezifikationen</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.03.Header">Spezifikationen</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.03.Header">Spezifikationen</string>
+<string name="MA.Laser_Energy_Transmitter.03.Header">Spezifikationen</string>
+<string name="MA.Lift_Compressor.02.Header">Spezifikationen</string>
+<string name="MA.MK2_Solar_Panel_Component.03.Header">Spezifikationen</string>
+<string name="MA.Magnetic_Drill_Motor.02.Header">Spezifikationen</string>
+<string name="MA.Matter_Mover.02.Header">Spezifikationen</string>
+<string name="MA.MinecartTurboRail.02.Header">Spezifikationen</string>
+<string name="MA.Missile_Turret_MK1.02.Header">Spezifikationen</string>
+<string name="MA.Missile_Turret_MK2.02.Header">Spezifikationen</string>
+<string name="MA.Missile_Turret_MK3.02.Header">Spezifikationen</string>
+<string name="MA.Missile_Turret_MK4.02.Header">Spezifikationen</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.04.Header">Spezifikationen</string>
+<string name="MA.Ore_Thief.02.Header">Spezifikationen</string>
+<string name="MA.Organic_Cutter_Head.03.Header">Spezifikationen</string>
+<string name="MA.Organic_Lens.02.Header">Spezifikationen</string>
+<string name="MA.Organic_Power_Storage.04.Header">Spezifikationen</string>
+<string name="MA.Power_Storage_Block.04.Header">Spezifikationen</string>
+<string name="MA.Power_Storage_MK2.03.Header">Spezifikationen</string>
+<string name="MA.Power_Storage_MK3.03.Header">Spezifikationen</string>
+<string name="MA.Power_Storage_MK4.04.Header">Spezifikationen</string>
+<string name="MA.Power_Storage_MK5.04.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterChargerMK1.02.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterMK1.02.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterMK2.02.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterMK3.02.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterMK4.02.Header">Spezifikationen</string>
+<string name="MA.PowerBoosterMK5.02.Header">Spezifikationen</string>
+<string name="MA.Pyrothermic_Generator.03.Header">Spezifikationen</string>
+<string name="MA.Rack_Railer.02.Header">Spezifikationen</string>
+<string name="MA.Refinery_Controller.03.Header">Spezifikationen</string>
+<string name="MA.Research_Assembler.02.Header">Spezifikationen</string>
+<string name="MA.Ruby_Focusing_Lens.02.Header">Spezifikationen</string>
+<string name="MA.Sapphire_Focusing_Lens.02.Header">Spezifikationen</string>
+<string name="MA.Slime_Attractor.03.Header">Spezifikationen</string>
+<string name="MA.Solar_Panel.03.Header">Spezifikationen</string>
+<string name="MA.Steel_Cutter_Head.02.Header">Spezifikationen</string>
+<string name="MA.Sugalite_Focusing_Lens.02.Header">Spezifikationen</string>
+<string name="MA.T1_Lift.03.Header">Spezifikationen</string>
+<string name="MA.T2_Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.T3_Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.T4_Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.T5_Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.T6_Forced_Induction.03.Header">Spezifikationen</string>
+<string name="MA.Teleporter.04.Header">Spezifikationen</string>
+<string name="MA.The_Itano.02.Header">Spezifikationen</string>
+<string name="MA.Threat_Agitator.02.Header">Spezifikationen</string>
+<string name="MA.Threat_Reducer.03.Header">Spezifikationen</string>
+<string name="MA.Threat_Scanner.02.Header">Spezifikationen</string>
+<string name="MA.Topaz_Focusing_Lens.02.Header">Spezifikationen</string>
+<string name="MA.Turret_MK1.02.Header">Spezifikationen</string>
+<string name="MA.Turret_MK2.02.Header">Spezifikationen</string>
+<string name="MA.Turret_MK3.02.Header">Spezifikationen</string>
+<string name="MA.WorkFloorExcavatorMK1.02.Header">Spezifikationen</string>
+<string name="MA.WorkFloorExcavatorMK2.02.Header">Spezifikationen</string>
+<string name="MA.Freezon_Injector.02.Header">Effekte</string>
+<string name="MA.Glow_Stick.00.Title">Leuchtstab</string>
+<string name="MA.Gold_Bar.00.Title">Goldbarren</string>
+<string name="MA.Gold_Coil.00.Title">Goldspule</string>
+<string name="MA.Gold_Plate.00.Title">Goldplatte</string>
+<string name="MA.Gold_Wire.00.Title">Golddraht</string>
+<string name="MA.Green_Canvas.00.Title">Grüne Leinwand</string>
+<string name="MA.Hydrojet_Cutter.00.Title">Wasserstrahlschneider</string>
+<string name="MA.Iron_Bar.00.Title">Eisenbarren</string>
+<string name="MA.Iron_Coil.00.Title">Eisenspule</string>
+<string name="MA.Iron_Gear.00.Title">Eisenzahnrad</string>
+<string name="MA.Iron_Ore.00.Title">Eisenerz</string>
+<string name="MA.Iron_Plate.00.Title">Eisenplatte</string>
+<string name="MA.Iron_Wire.00.Title">Eisendraht</string>
+<string name="MA.LargeMinecart.00.Title">Große Lore</string>
+<string name="MA.Liquified_Resin.00.Title">Verflüssigtes Harz</string>
+<string name="MA.Lithium_Bar.00.Title">Lithiumbarren</string>
+<string name="MA.Lithium_Coil.00.Title">Lithiumspulen</string>
+<string name="MA.Lithium_Ore.00.Title">Lithiumerz</string>
+<string name="MA.Lithium_Plate.00.Title">Lithiumplatte</string>
+<string name="MA.Lithium_Wire.00.Title">Lithiumdraht</string>
+<string name="MA.Logistics_Hopper.00.Title">Logistikcontainer</string>
+<string name="MA.Macerator.02.Left">Benötigt Energie:</string>
+<string name="MA.Macerator.03.Right">ja</string>
+<string name="MA.Macerator.04.Header">Tipps und Tricks!</string>
+<string name="MA.Manufacturing_Plant.09.Header">Module</string>
+<string name="MA.Mass_Storage_Block.02.Header">Vorsicht!</string>
+<string name="MA.Mass_Storage_Block.03.Paragraph">Hat nichts mit dem Lagercontainer zu tun!</string>
+<string name="MA.Mass_Storage_Input_Port.02.Header">Vorsicht!</string>
+<string name="MA.Mass_Storage_Input_Port.03.Paragraph">Hat nichts mit dem Lagercontainer zu tun!</string>
+<string name="MA.Mass_Storage_Output_Port.05.Header">Vorsicht!</string>
+<string name="MA.Torch.02.Paragraph"/>
+<string name="MA.Location_Marker.00.Title">Standortmarker</string>
+<string name="MA.Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.Location_Marker.02.Header">Verwendung</string>
+<string name="MA.PCB_Assembling_Plant.02.Header">Verwendung</string>
+<string name="MA.Pipe_Extrusion_Plant.02.Header">Verwendung</string>
+<string name="MA.Stamper_Plant.02.Header">Verwendung</string>
+<string name="MA.Transport_Pipe.03.Header">Verwendung</string>
+<string name="MA.T6_Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.T5_Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.T4_Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.T3_Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.T2_Forced_Induction.04.Left">Schmelzgeschwindigkeit:
+ Energiebedarf:</string>
+<string name="MA.Slime_Attractor.06.Title">"Fehlersuche "</string>
+<string name="MA.Snow.00.Title">Schnee</string>
+<string name="MA.Solar_Panel.00.Title">Solarpaneele</string>
 </resources>
