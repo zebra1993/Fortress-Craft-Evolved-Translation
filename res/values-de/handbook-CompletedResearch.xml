@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><resources><string name="CO.Advanced_Defence.Title">Advanced Defence</string>
-<string name="CO.Advanced_Defence.00.Title">Verbesserte Verteidigung</string>
-<string name="CO.Advanced_Defence.01.Paragraph">Wir haben Verbesserungen an den Energietürmen vorgenommen und einen neuartigen Raketenwerfer entwickelt. Wir können nun auch die dafür notwendigen Raketen herstellen und mit neuartigen Treibstoffen befüllen.</string>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Fortgeschrittene Verteidigung</string>
+<string name="CO.Advanced_Defence.00.Title">Fortgeschrittene Verteidigung</string>
+<string name="CO.Advanced_Defence.01.Paragraph">Wir haben Verbesserungen an den Geschütztürmen vorgenommen und einen neuartigen Raketenwerfer entwickelt. Die notwendigen Raketen können wir nun auch herstellen und mit neuartigen Treibstoffen befüllen.</string>
 <string name="CO.Advanced_Logistics.Title">Advanced Logistics</string>
 <string name="CO.Advanced_Logistics.00.Title">Verbesserte Logistik</string>
 <string name="CO.Advanced_Logistics.01.Paragraph">Wir haben nun ein neues Massenspeichersystem und einen Roboterarm zum bewegen von Erz zwischen Förderbändern.</string>
@@ -42,11 +43,11 @@
 <string name="CO.Black_Box_Data.00.Title">Black Box Data</string>
 <string name="CO.Black_Box_Data.01.Paragraph">Eine tiefgründige Analyse der Daten auf der Blackbox ist nun beendet. Sie bestätigt das ein fremdes Objekt, vermutlich einen Meteoriten, die Station getroffen hat wärend du am Docken warst. Die resultierende Explosion hat die Steuertriebwerke beschädigt, was einen Absturz auf diesen fremden Planeten zur Folge hatte. Keine anderen Überlebenden wurde bist jetzt entdeckt.</string>
 <string name="CO.Black_Box_Data.02.Paragraph">Es ist unbekannt warum der Meteorit nicht von den Stationssensoren schon auf grosser distanz erkannt wurde. Vermutlich entweder Systemfehler oder ein Sabotageackt.</string>
-<string name="CO.Black_Box_Data.03.Paragraph">Jedoch hat es, in einem glücklichen Umstand der Aussenpostenkonstruktions Pod überlebt und hat sich zum Absturtzort und deinem Notsignal begeben. Er ist direkt daneben runtergekommen. Es ist nur ein Standard &quot;Vortox X103 MK V&quot; Pod welcher den Zentralen Energieverteiler umgeben von Erzofen, Produktionseinheit und Forschungsstation. Zudem wurde der ZEV mit einem Automatischen Verteidigungsroboter System ausgestattet, welches frühe Angriffe abwehrt, sollte auf diesem Planeten angriffslustiges Leben zu finden sein.</string>
+<string name="CO.Black_Box_Data.03.Paragraph">Jedoch hat es, in einem glücklichen Umstand der Aussenpostenkonstruktions Pod überlebt und hat sich zum Absturtzort und deinem Notsignal begeben. Er ist direkt daneben runtergekommen. Es ist nur ein Standard "Vortox X103 MK V" Pod welcher den Zentralen Energieverteiler umgeben von Erzofen, Produktionseinheit und Forschungsstation. Zudem wurde der ZEV mit einem Automatischen Verteidigungsroboter System ausgestattet, welches frühe Angriffe abwehrt, sollte auf diesem Planeten angriffslustiges Leben zu finden sein.</string>
 <string name="CO.Frozen_Factory.Title">The Frozen Factory!</string>
 <string name="CO.Frozen_Factory.00.Title">Lokale Lebensformen</string>
 <string name="CO.Frozen_Factory.01.Paragraph">Nun, da diese Forschung abgeschlossen ist, können wir das Klimakontrollzentrum errichten. Einmal in den kalten Tiefen errichtet und mit Energie versorgt, verändert es die Umweltbedingungen langsam zu einem lebensfreundlicheren Klima. Hier können wir, richtig eingerichtet, auf die Verstärkung warten.</string>
-<string name="CO.Frozen_Factory.02.Paragraph"></string>
+<string name="CO.Frozen_Factory.02.Paragraph"/>
 <string name="CO.Frozen_Factory.03.Paragraph">Wenn wir einen Harterz-Schürfer in einem 3x3-Feldkonstrukt auf Chrom oder Molybden errichten, sollten wir in der Lage sein, einen neuen Bohrer herstellen zu können. Der Nanodesintegrator, oder der BFL-9000, kann uns dabei behilflich sein, eine 3x3 flache Fläche dieser Harterze zu formen.</string>
 <string name="CO.Improved_Ore_Scanning.Title">Improved Ore Scanning</string>
 <string name="CO.Improved_Ore_Scanning.00.Title">Verbesserte Erzsuche</string>
