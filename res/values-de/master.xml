@@ -1072,16 +1072,16 @@ Sehr Energie hungrig!</string>
     <string name="Pyrothermic Generator">Pyrothermischer Generator</string>
     <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
     <!-- not Conveyorbased transport-->
-    <string name="AI Mover Control">KI bewegungs Steuerung</string><!-- Not optimal-->
-    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI Roboter.\\nVerschiebt Erze zwischen Hoppern.\\nGeringer Aufwand, wenig Effizienz.</string>
+    <string name="AI Mover Control">KI Bewegungssteuerung</string><!-- Not optimal-->
+    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI-Roboter.\\nVerschiebt Erze zwischen Hoppern.\\nGeringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massebeweger</string>
-    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Dinge/min auf 64m Entfernung.</string>
-    <string name="Dual Matter Mover">Dual Massebeweger</string>
-    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Dinge/min auf 32m Entfernung.</string>
-    <string name="Quad Matter Mover">Quad Massebeweger</string>
-    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Dinge/min auf 16m Entfernung.</string>
-    <string name="Multi Matter Mover">Multi Massebeweger</string>
-    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Dinge/min auf 4m Entfernung.</string>
+    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Gegenstände/min auf 64m Entfernung.</string>
+    <string name="Dual Matter Mover">Doppel-Massetransmitter</string>
+    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Gegenstände/min auf 32m Entfernung</string>
+    <string name="Quad Matter Mover">Quad Massetransmitter</string>
+    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Gegenstände/min auf 16m Entfernung</string>
+    <string name="Multi Matter Mover">Multi Massetransmitter</string>
+    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Gegenstände/min auf 4m Entfernung</string>
     <!--Ore smelters-->
     <string name="Ore Smelter">Schmelzofen</string>
     <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode Barren aus Ressourcen herzustellen.</string>
@@ -1097,19 +1097,19 @@ Sehr Energie hungrig!</string>
     <string name="Transport Pipe">Transportrohr</string>
     <string name="Transport Pipe_DESC">Erlaubt den Transport in alle Richtungen.</string>
     <string name="Transport Pipe Filter">Transportrohrfilter</string>
-    <string name="Transport Pipe Filter_DESC">Entfernt Materialien regelbasierend.</string>
+    <string name="Transport Pipe Filter_DESC">Entfernt nach definierten Filtern Materialien</string>
     <string name="Stamper Plant">Stempel Maschine</string>
-    <string name="Stamper Plant_DESC">Verarbeitet Barren zu Platten.</string>
+    <string name="Stamper Plant_DESC">Verarbeitet Barren zu Platten</string>
     <string name="Extrusion Plant">Extrudier Maschine</string>
-    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähten.</string>
+    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähte</string>
     <string name="Coiler Plant">Wickelmaschine</string>
-    <string name="Coiler Plant_DESC">Verarbeitet Drähte zu Spulen.</string>
+    <string name="Coiler Plant_DESC">Verarbeitet Drähte zu Spulen</string>
     <string name="Pipe Extrusion Plant">Rohrextrudier Maschine</string>
-    <string name="Pipe Extrusion Plant_DESC">Verarbeitet Barren zu Rohren.</string>
+    <string name="Pipe Extrusion Plant_DESC">Verarbeitet Barren zu Rohre</string>
     <string name="PCB Assembling Plant">Leiterplatten Montagemaschine</string>
-    <string name="PCB Assembling Plant_DESC">Verarbeitet Spulen zu Leiterplatten.</string>
+    <string name="PCB Assembling Plant_DESC">Verarbeitet Spulen zu Platinen</string>
     <string name="Conveyor Turntable">Förderbanddrehtisch</string>
-    <string name="Conveyor Turntable_DESC">Verteilt Dinge automatisch nach allen. Seiten wenn nicht blockiert.</string>
+    <string name="Conveyor Turntable_DESC">Verteilt Gegenstände automatisch in alle Richtungen. Blockiert nicht, wenn eine Seite belegt ist</string>
     <string name="Advanced Conveyor Filter">Erweiterter Förderbandfilter</string>
     <string name="Advanced Conveyor Filter_DESC">Filtert spezifische Dinge mit T2 Rohr Geschwindigkeit</string>
     <string name="Up Sloped Conveyor">Aufwärtsgeneigtes Förderband</string>
@@ -1228,13 +1228,13 @@ Sehr Energie hungrig!</string>
     <string name="Mass Storage Controller_DESC">Hochregallagerverwaltung für angetriebene Lager</string>
 
     <string name="Macerator">Zerkleinerer</string><!-- Not optimal-->
-    <string name="Macerator_DESC">Durchsucht ungenutze Steine nach Erz.</string>
+    <string name="Macerator_DESC">Zerkleinert Materialien und bringt verborgene Rohstoffe zum Vorschein</string>
     <string name="ARTHER Charging Station">ARTHER Aufladestation</string>
     <string name="ARTHER Charging Station_DESC">Schnellladestation für die ARTHER-Drohne</string>
     <string name="Auto Builder">Autoplazierer</string>
-    <string name="Auto Builder_DESC">Baut selbständig einfache Logistikeinrichtungen.</string>
+    <string name="Auto Builder_DESC">Verbessert vorhandene Transportbänder oder baut neu. ACHTUNG: Bei Verbesserungen werden die alten Transportbänder ersetzt</string>
     <string name="Deployed Explosive">Plkazierter Sprengsatz</string>
-    <string name="Deployed Explosive_DESC">Mit Energie versorgen um Zerstörungsradius zu vergrössern.</string>
+    <string name="Deployed Explosive_DESC">Mit Energie versorgen um Zerstörungsradius zu vergrössern</string>
     <string name="Laboratory">Labor</string>
     <string name="Laboratory_DESC">Nicht relevant</string>
     <string name="Research Assembler">Forschungsmontage</string>
@@ -1288,7 +1288,7 @@ Sehr Energie hungrig!</string>
     <string name="Orbital Energy Transmitter_DESC">Nicht wichtig</string>
 
     <string name="Auto Upgrader">Autoverbesserer</string>
-    <string name="Auto Upgrader_DESC">Verbessert automatisch die Stufe der Förderbänder.</string>
+    <string name="Auto Upgrader_DESC">Ersetzt Förderbänderlinien mit besseren Modellen.</string>
     <string name="T4 Power Storage">T4 Energiespeicher</string>
     <string name="T4 Power Storage_DESC">Nicht Wichtig</string>
     <string name="T5 Power Storage">T5 Energiespeicher</string>
@@ -1300,7 +1300,7 @@ Sehr Energie hungrig!</string>
     <string name="T4 Turret_DESC">Nicht Wichtig</string>
     <!--Laserlogic, not implemented. Also not aviable anymore as its hidden in terrandata.xml -->
     <string name="Logic Laser Emitter">Logiklasersender</string>
-    <string name="Logic Laser Emitter_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
+    <string name="Logic Laser Emitter_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert</string>
     <string name="Laser AND Gate">Laser UND Schaltung</string>
     <string name="Laser AND Gate_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser OR Gate">Laser OR Schaltung</string>
@@ -1317,11 +1317,11 @@ Sehr Energie hungrig!</string>
     <string name="Laser Receptor_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
 
     <string name="Lift w/underside Piston">Lift mit unterseiten Zylinder</string>
-    <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit.</string>
+    <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit</string>
     <string name="Lift Compressor">Lift Kompressor</string>
-    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite auf 256m wenn an Lift angebracht.\\nHat keine Funktion als Netzwerkteilnehmer.</string>
-    <string name="Lift Manual Control Module">Lifthandsteuerung</string>
-    <string name="Lift Manual Control Module_DESC">Erlaubt die manuelle Kontrolle des Lifts.\\nNutze Home und End zum Steuern!\\nZum Benutzen an einen S1 Lift anschliessen.</string>
+    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nHat keine Funktionalität auf einem Mehrspielerserver.</string>
+    <string name="Lift Manual Control Module">Manuelle Liftsteuerung</string>
+    <string name="Lift Manual Control Module_DESC">Ermöglichst manuelles Bedienen des Lifts.\\nNutze Home und End zum Steuern!\\nZum Benutzen an einen Lift anschliessen.</string>
     <string name="MK1 Robot Arm">MK1 Roboterarm</string>
     <string name="MK1 Robot Arm_DESC">Erlaubt einfaches Sortieren von Gegenständen auf Förderbändern.</string>
     <string name="Advanced Robot Arm Control Module">Verbesserte Roboterarmsteuerung</string>
@@ -1333,7 +1333,7 @@ Sehr Energie hungrig!</string>
     <string name="Hive Core">Stockkern</string>
     <string name="Hive Core_DESC"/>
     <string name="Hardened Resin">Gehärtetes Harz</string>
-    <string name="Hardened Resin_DESC">Diese unglaublich harte, organische nicht-Newton\'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
+    <string name="Hardened Resin_DESC">Dieses unglaublich harte, organische Material beschützt einen weichen verletzlichen Kern. Alleine ein Nanozerleger scheint diesem Material den Garaus machen zu können.</string>
     <string name="MobSpawner">MobSpawner</string>
     <string name="MobSpawner_DESC">Super geeignet um vereidigung zu testen.</string>
     <string name="Insulated Copper Wire">Isoliertes Kupferkabel</string>
@@ -1399,9 +1399,9 @@ Sehr Energie hungrig!</string>
     <string name="SpiderBot Core Charger">SpiderBot Energiekernlader</string>
     <string name="SpiderBot Core Charger_DESC">Durchtränkt Lithiumspulen mit Energie. Der Spiderbot Verbesserungs- und Aufladestation zuführen durch einen Lagertrichter.</string>
     <string name="Liquid Resin Refiner">Verflüssiges Harzraffinierie</string>
-    <string name="Liquid Resin Refiner_DESC">Raffiniert Verflüssiges Harz zu Spektatulär nutzvollem Raffiniertem Harz.</string>
-    <string name="Rack Railer">Zahnstangenmontage</string>
-    <string name="Rack Railer_DESC">Stellt Zahnradschienen für Warenlifte her.</string>
+    <string name="Liquid Resin Refiner_DESC">Verarbeitet verflüssigtes Harz zu raffiniertem Harz.</string>
+    <string name="Rack Railer">Schienenschneider</string>
+    <string name="Rack Railer_DESC">Stellt Schienen für Warenlifte her</string>
     <string name="MK1 PowerCore Charger">MK1 Energiekernlader</string>
     <string name="MK1 PowerCore Charger_DESC">Stellt automatisch einen einweg Energiekern her. Gibt ARTHER 100 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</string>
     <string name="MK2 PowerCore Charger">MK2 Energiekernlader</string>
@@ -1447,9 +1447,9 @@ Sehr Energie hungrig!</string>
     <string name="HardenedBlock Assembler">Gehärtete Blockmontage</string>
     <string name="HardenedBlock Assembler_DESC">Nutzt eine Mischung aus Nickel und Titan um gehärtete Maschinenblöcke herzustellen.</string>
     <string name="Construction Paste Grinder">Konstruktionspastenmühle</string>
-    <string name="Construction Paste Grinder_DESC">Uses 'garbage' blocks to make Construction Paste.</string>
+    <string name="Construction Paste Grinder_DESC">Verarbeitet nicht gebrauchte Materialien weiter zu Konstruktionspaste.</string>
     <string name="Cluster Missile Crafter">Swarmraketenproduktion</string>
-    <string name="Cluster Missile Crafter_DESC">Wandelt eine durchtränkte Raktet in 8 Schnellfeuer Rakete um, jede teilt zwar nut 1/4 des originalen Schadens aus, was aber im gesamten zu einer verdoppelung des Schadens führt.</string>
+    <string name="Cluster Missile Crafter_DESC">Wandelt eine plasmaverstärkte Rakete in acht Schwarmraketen um, welche nur ein viertel des ursprünglichen Schadens anrichten.</string>
 
     <string name="ConstructoBot Coppator Chassis Assembler">ConstructoBot Coppator Gehäusemontage</string><!-- Not optimal-->
     <string name="ConstructoBot Coppator Chassis Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Chassis.</string>
@@ -1469,15 +1469,15 @@ Sehr Energie hungrig!</string>
     <string name="Continuous Casting Basin">Strangussbecken</string>
     <string name="Continuous Casting Basin_DESC"/>
     <string name="Casting Pipe (Straight)">Gerades Gussrohr</string>
-    <string name="Casting Pipe (Straight)_DESC">Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</string>
+    <string name="Casting Pipe (Straight)_DESC">Ermöglicht es geschmolzenes Metall vom Hochofen zum Gießbecken fliessen zu lassen</string>
     <string name="Casting Pipe (Bend)">Gebogenes Gussrohr</string>
-    <string name="Casting Pipe (Bend)_DESC">Ermöglicht es flüssiges Metal vom Hochofen zum Strangussbecken fliessen zu lassen.</string>
+    <string name="Casting Pipe (Bend)_DESC">Ermöglicht es geschmolzenes Metall vom Hochofen zum Gießbecken fliessen zu lassen</string>
     <!--MachinePlacement-->
     <string name="Refinery Reactor Vat Component">Raffineriekesselkomponente</string>
-    <string name="Refinery Reactor Vat Component_DESC">Beinhaltet Biochemischereaktionen die unter Hochdruck stehen. In einem 3x3x3 Würfel plazieren um einen Reaktorkessel zu formen. Raffineriekontrollstation anbauen um zu nutzen.</string>
+    <string name="Refinery Reactor Vat Component_DESC">Beinhaltet biochemische Reaktionen unter Hochdruck. In einem 3x3x3 Würfel platzieren um einen Reaktorkessel zu formen, Raffineriesteuerung hinzufügen und nutzen.</string>
     <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
-    <string name="Jet Turbine Generator Housing_DESC">Verbrennt HEC Treistoff um eine Turbine anzutreiben die massig Energie Liefert. Aufbau: 3x4 Grundfläche, 3 hoch. Einlass an der Vorderseite plazieren um Bau zu beenden.</string>
-    <string name="Jet Turbine Generator Intake">Turbinengeneratorlufteinlass</string>
+    <string name="Jet Turbine Generator Housing_DESC">Verbrennt HEC Treibstoff um eine Turbine anzutreiben, die massig Energie liefert. Aufbau: 3x4 Grundfläche und 3 Blöcke hoch. An der langen Seite (3x3) noch eine Ebene Turbineneinlässe hinzufügen, sodass die Turbine eine endgültige Länge von 5 Blöcken hat.</string>
+    <string name="Jet Turbine Generator Intake">Turbineneinlass</string>
     <string name="Jet Turbine Generator Intake_DESC">Der Turbineneinlass ist auf der Frontseite in einem senkrechten 3x3 Aufbau anzubringen.</string>
     <string name="Laboratory Component">Laborkomponente</string>
     <string name="Laboratory Component_DESC">Führt automatisch Experimente druch. In einem 3x3x3 Würfel plazieren um das Labor zu erzeugen. (27 Blöcke insgesamt benütigt)</string>
@@ -1547,7 +1547,7 @@ Sehr Energie hungrig!</string>
     <string name="Laser Borer_DESC">HEFC-betriebene Laserbohrvorrichtung. Gräbt zügig einen 3x3 Schacht ins Zentrum der kalten Höhlen. Wird in einem 3x3x3 Würfel aufgebaut.</string>
     <string name="High Orbital Debris Object Reclaimer">Hochorbitaler Trümmerobjektfänger</string> <!-- Acronym--> <!--Not Optimal, short is now HT or HOTOF, both sounds bad in comparison to HODOR -->
     <string name="High Orbital Debris Object Reclaimer_DESC">Ermöglicht es Raketengestützt Trümmer aus dem Orbit zur Oberfläche zu bringen. Wird in einer 3x3 Grundplatte aufgbaut</string>
-    <string name="Fuel Compressor.">Treibstoff Komperssor</string>
+    <string name="Fuel Compressor.">Treibstoffkompressor.</string>
     <string name="Fuel Compressor._DESC">Verdichtet Kohlenstoffpartikel mit Hochenergetischem Treibstoff zu einen extrem agressiven und energiereichen Treibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</string>
     <string name="CargoLiftController">Warenliftsteuerung</string>
     <string name="CargoLiftController_DESC"/>
@@ -1588,9 +1588,9 @@ Sehr Energie hungrig!</string>
     <string name="Cold Creep Spawner">Kalter kriecher Erzeuger</string><!-- Not optimal, should be changed-->
     <string name="Cold Creep Spawner_DESC"/>
     <string name="CryoPlasm">Cryoplasma</string><!-- sticks to ceiling-->
-    <string name="CryoPlasm_DESC">Diese unglaublich harte, organische nicht-Newton'sche Flüssigkeit wurde erweckt durch unser Klimakontrollcenter Wir werden spezialisierte Waffen brauchen um damit fertig zu werden</string>
+    <string name="CryoPlasm_DESC">Diese unglaublich harte, organische nicht-Newton\'sche Flüssigkeit wurde durch unser Klimakontrollcenter erweckt. Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
     <string name="Cryoplasm">Cryoplasma</string><!-- laying on the floor-->
-    <string name="Cryoplasm_DESC"/>
+    <string name="Cryoplasm_DESC">Diese unglaublich harte, organische nicht-Newton\'sche Flüssigkeit wurde durch unser Klimakontrollcenter erweckt. Wir werden spezialisierte Waffen brauchen um damit fertig zu werden!</string>
 
     <string name="Workfloor Excavator MK1">Arbeitsbodenbagger MK1</string><!--Straight form google :P  -->
     <string name="Workfloor Excavator MK1_DESC">Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus.</string>
@@ -1612,8 +1612,8 @@ Sehr Energie hungrig!</string>
     <string name="H.E.I.S.T._DESC">Hopper Emptying Inventory Storage Transporter (Hopper leerender Inventar lagerungs Transporter) - Transferiert automatisch gegenstände in das Spielerinventar. H.E.I.S.T. oder H.L.I.L.T für kurz.</string>
     <string name="NanoDisintegrator">Nanozerleger</string>
     <string name="NanoDisintegrator_DESC">Nano Disintegrator. Genutzt um sogar das härteste Material in einem 3x3x3 Raum auszuheben. Vorsicht beim Einsatz.</string>
-    <string name="Ruined Organic Thief">Ruined Organic Thief</string>
-    <string name="Ruined Organic Thief_DESC">Entfernt automatisch ruinierte Teile aus deinem Inventar.</string>
+    <string name="Ruined Organic Thief">Organischer Dieb</string>
+    <string name="Ruined Organic Thief_DESC">Entfernt ruiniertes organisches Material aus dem Inventar.</string>
     <string name="T4 Power Conduit">T4 Energieleitung</string>
     <string name="T4 Power Conduit_DESC">Nicht Wichtig</string>
     <string name="Cold Cavern Climate Control Centre">Kaltehöhlenklimasteurrungszentrum</string><!-- Use less long word, not optimal -->
