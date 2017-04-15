@@ -1597,7 +1597,7 @@ Sehr Energie hungrig!</string>
     <string name="Workfloor Excavator MK2">Arbeitsbodenbagger MK2</string><!--Straight form google :P  -->
     <string name="Workfloor Excavator MK2_DESC">Hebt einen 3m hohen, 16m im Durchmesser (33m insgesamt) messenden Arbeitsraum aus. Braucht doppelt soviel Energie wie der MK1, entfernt aber Erze ebenfalls.</string>
     <string name="Workfloor Excavator MK3">Arbeitsbodenbagger MK3</string><!--Straight form google :P  -->
-    <string name="Workfloor Excavator MK3_DESC">Ein Blitzschnlles Rad des Aushebens - 4x schneller als die MK2 Version! Entfernt Erz.</string>
+    <string name="Workfloor Excavator MK3_DESC">Ein Blitzschnelles Rad des Aushebens - 4x schneller als die MK2 Version! Entfernt Erz.</string>
     <string name="Slime Attractor">Schleimanzieher</string> <!-- Not optimal-->
     <string name="Slime Attractor_DESC">Zeiht Slimes an</string>
     <string name="Imbued Machine Block">Durchttränkter Maschinenblock</string><!-- Not optimal-->
@@ -1605,7 +1605,7 @@ Sehr Energie hungrig!</string>
     <string name="CryoMine">Cryo Mine</string>
     <string name="CryoMine_DESC">Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird</string>
     <string name="Bomber FALCOR">FALCOR Bomber</string>
-    <string name="Bomber FALCOR_DESC">Wirft auf grosse Distanz hergestellte Bomben auf dichtes Cryoplasma ab.</string>
+    <string name="Bomber FALCOR_DESC">Wirft auf grosse Distanz Bomben auf dichtes Cryoplasma ab.</string>
     <string name="Freezon Injector">Freezoneinspritzanlage</string>
     <string name="Freezon Injector_DESC">Nutzt Freezonkartuschen um Leistungsverbesserungen für einige Maschinen bereitzustellen.</string>
     <string name="H.E.I.S.T.">H.E.I.S.T.</string>
@@ -1680,10 +1680,10 @@ Sehr Energie hungrig!</string>
     <string name="ConstructoBot Constructor_DESC">Builds a ConstructoBot from input conveyors with Arm, Body and Legs.</string>
 
     <string name="H.O.D.O.R.">H.O.D.O.R.</string>
-    <string name="H.O.D.O.R._DESC">High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.</string>
+    <string name="H.O.D.O.R._DESC">Der Hoch Orbit Trümmer Objekt Rückbringer ermöglicht das Zurückbringen von orbitalem Schrott. Dieser kann mit Glück Forschungsteile erhalten. Wird als 3x1x3 gebaut.</string>
 
     <string name="Orbital RailGun Controller">Orbital Scheinengeschütz Steuerung</string>
-    <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt richtung Norden.</string>
+    <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt Richtung Norden.</string>
     <string name="Orbital RailGun Induction Ring">Orbital Scheinengeschütz Induktionsring</string>
     <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt richtung Norden.</string>
 
@@ -1720,21 +1720,21 @@ Sehr Energie hungrig!</string>
     <!-- Manufacturer and other crafting plant strings -->
     <string name="Solar Panel_CRAFT_DESC">Solarpaneelen versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tags. Braucht freie Sicht zum Himmel.</string>
     <string name="Solar Panel_CRAFT_HINT">Perfekt um Kleinleistungsmaschinen zu versorgen.</string>
-    <string name="Organic Solar Panel_CRAFT_DESC">Solarpaneelen versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tags. Und kann mit Sternenlicht auch bei Nacht ein wenig Energie einfangen. Braucht freie Sicht zum Himmel.</string>
+    <string name="Organic Solar Panel_CRAFT_DESC">Organische Solarpaneele versorgen angrenzende Maschinen mit einer guten Menge Energie während des Tages. Und kann mit Sternenlicht auch bei Nacht ein wenig Energie einfangen. Braucht freie Sicht zum Himmel.</string>
     <string name="Organic Solar Panel_CRAFT_HINT">Braucht freien Himmel!</string>
-    <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt mittelviel Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden.</string>
+    <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt eine akzeptable Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden</string>
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
-    <string name="MK2 Organic Solar Component_CRAFT_DESC">Sammelt mittelviel Energie am Tag und einen kleinen Teil auch bei Nacht. Hat die selben plazierungs restriktionen wie die normale version.</string>
+    <string name="MK2 Organic Solar Component_CRAFT_DESC">Sammelt beachtliche Energie am Tag Energie am Tag und einen kleinen Teil auch bei Nacht. Wird gleich zum MK2 Solarpaneel gebaut</string>
     <string name="MK2 Organic Solar Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
     <string name="Pyrothermic Generator_CRAFT_DESC">Verbrennt Ressourcen aus angrenzenden Containern um angrenzende Maschinen mit Energie zu versorgen. Verliert bei zunehmender Tiefe Effizienz wegen schlechter Ventilation. Nutze Laserenergieüberträger um Energie tiefer zu senden.</string>
     <string name="Pyrothermic Generator_CRAFT_HINT">Muss mit einem Container verbunden sein.</string>
-    <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
+    <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Maximale Distanz: 64. Verbessern so bald wie möglich.</string>
-    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Übertrager versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK1_CRAFT_HINT">Maximale Distanz: 64.</string>
-    <string name="Laser Energy Transmitter MK2_CRAFT_DESC">Überträgt Energie mittelschnell von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Überträger versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK2_CRAFT_DESC">Überträgt Energie mittelschnell von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK2_CRAFT_HINT">Tier 2 überträgt mehr Energie!</string>
-    <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Überträger versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK3_CRAFT_HINT">Grösster Einzel-Block Energieübertrager.</string>
     <string name="Power Storage Block_CRAFT_DESC">Agiert als ein Puffer zwischen Generatoren und Leistungsbeziehern indem 200 Energie gespeichert wird. Energie wird mit angrenzenden Energiespeichern geteilt.</string>
     <string name="Power Storage Block_CRAFT_HINT">Mit Maschinen verbinden, um sie mit 200 Energie zu versorgen</string>
@@ -1748,7 +1748,7 @@ Sehr Energie hungrig!</string>
     <string name="Ore Thief_CRAFT_HINT">Keine Zeit für Faulheit!</string>
     <string name="Garbage Thief_CRAFT_DESC">Handliche Möglichkeit nutzloses Zeug aus dem Inventar zu entfernen. Als eine 3x3 Platte aufbauen, draufstehn! Braucht kleine Mengen Energie und einen angrenzenden Container.</string>
     <string name="Garbage Thief_CRAFT_HINT">Keine Zeit für Faulheit!</string>
-    <string name="Bar Keeper_CRAFT_DESC">Entnimmt einem server verlassenden Spieler alle Barren. Bedingt nutzlos in Einzelspieler, funktioniert wie ein Erzdieb blos für Barren. Plazieren in einer 3x3 Platte.</string>
+    <string name="Bar Keeper_CRAFT_DESC">Entfernt automatisch die Barren aus dem Inventar von Spielern, die das Netzwerkspiel verlassen. Funktioniert wie ein Erzdieb, nur mit geschmolzenen Barren. Wird in einem 3x3 Grundriss gebaut.</string>
     <string name="Bar Keeper_CRAFT_HINT">Keine Zeit für Faulheit!</string>
     <string name="Auto Organic Thief_CRAFT_DESC">Handliche Möglichkeit ungewollte, organische Teile aus dem Inventar zu entfernen. Als eine 3x3 Platte aufbauen, drauf stehen! Braucht kleine Mengen Energie und einen angrenzenden Container.</string>
     <string name="Auto Organic Thief_CRAFT_HINT">Keine Zeit für Faulheit!</string>
@@ -1890,7 +1890,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="FALCOR MK1_CRAFT_HINT">Ideal für Überbleibsel von Wespen!</string>
     <string name="Logistics FALCOR_CRAFT_DESC">Sammelt automatisch Gegenstände von FALCOR Leuchtfeuern, welche auf Container platziert wurden.</string>
     <string name="Logistics FALCOR_CRAFT_HINT">Ideal für den Transport von kleinen Mengen über große Distanz.</string>
-    <string name="FALCOR Bomber_CRAFT_DESC">Liefert selbständig Cryobomben zu Cryoplasma.</string>
+    <string name="FALCOR Bomber_CRAFT_DESC">Liefert selbständig Cryobomben zum Cryoplasma.</string>
     <string name="FALCOR Bomber_CRAFT_HINT">Bomben müssen in angrenzendem Container sein.</string>
     <string name="Cryo Bomb Assembler_CRAFT_DESC">Stellt Cryobomben her.</string>
     <string name="Cryo Bomb Assembler_CRAFT_HINT">Explosive Eillieferung für Cryoplasma.</string>
@@ -2282,13 +2282,13 @@ Billig und hässlich, dafür verlässlich*
     <string name="DapperFrame_CRAFT_HINT">Setzt das Dapper DLC voraus!</string><!--not optimal-->
     <string name="DapperScale_CRAFT_DESC">Ein dekorativer Goldblock - Danke das Unterstützen von FortressCraft!</string>
     <string name="DapperScale_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string><!--not optimal-->
-    <string name="DapperWall_CRAFT_DESC">Ein dekorativer Goldblock- Danke das Unterstützen von FortressCraft!</string>
+    <string name="DapperWall_CRAFT_DESC">Ein dekorativer Goldblock- Danke für das Unterstützen von FortressCraft!</string>
     <string name="DapperWall_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string><!--not optimal-->
     <string name="Pumpkin Torch_CRAFT_DESC">Schwarze Katzen sind freiwillig</string>
     <string name="Pumpkin Torch_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string>
     <string name="Halloween Cauldron_CRAFT_DESC">Schlimmste Beleuchtung für ewig</string>
     <string name="Halloween Cauldron_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string>
-    <string name="Snowman_CRAFT_DESC">Wird nicht schmelzen, wiedersteht sogar Magma.</string>
+    <string name="Snowman_CRAFT_DESC">Wird nicht schmelzen, widersteht sogar Magma.</string>
     <string name="Snowman_CRAFT_HINT">Du hast kein Dapper DLC? Du wirst dies vorbeizeihen lassen müssen.</string>
 
     <string name="Celtic Braid Pillar_CRAFT_DESC">Danke ButcherBoyToma für die darüberhinaus gehende Unterstützung des Spiels. Du willst helfen?      www.patreon.com/FortressCraft</string>
@@ -2321,15 +2321,15 @@ Billig und hässlich, dafür verlässlich*
     <string name="Massive Faceted Eye_CRAFT_DESC">Wird in einigen nutzvollen Rezepten verwendet.</string>
     <string name="Massive Faceted Eye_CRAFT_HINT">Ruinierte Teile müssen gekühlt werden!</string>
     <!--Loot handling-->
-    <string name="CryoHopper_CRAFT_DESC">Lagert bis zu 50 Gegenstände. Braucht Engergie um gelagerte Gegenstände kühl zu halten. Dies wird die ruinierten Teile massive länger hatlbar machen.</string>
-    <string name="CryoHopper_CRAFT_HINT">Wenn an einem Kühlenort platziert, wird weniger ENergie für das kühlen verbraucht.</string>
-    <string name="Organic Reassembler_CRAFT_DESC">Füttere dieser Maschine 10 ruinierte organische Teile und erhalt dafür eine rekombinierte organische Komponente.</string>
-    <string name="Organic Reassembler_CRAFT_HINT">Rekombinierte organische Komponenten können im selbstherstellungsmenu (C) zu tadellosen organischen Teilen verarbeitet werden.</string>
+    <string name="CryoHopper_CRAFT_DESC">Lagert bis zu 50 Gegenstände. Braucht Energie um gelagerte Gegenstände kühl zu halten. Dies wird die ruinierten Teile massive länger haltbar machen.</string>
+    <string name="CryoHopper_CRAFT_HINT">Wenn an einem kühlen Ort platziert, wird weniger Energie für das Kühlen verbraucht.</string>
+    <string name="Organic Reassembler_CRAFT_DESC">Füttere diese Maschine 10 ruinierte organische Teile und erhalte dafür eine rekombinierte organische Komponente.</string>
+    <string name="Organic Reassembler_CRAFT_HINT">Rekombinierte organische Komponenten können im Selbstherstellungsmenu (C) zu tadellosen organischen Teilen verarbeitet werden.</string>
 
-    <string name="Coal Enricher_CRAFT_DESC">Konvertierte einen Zerkleiner und unberührte Drüsen von Wespen oder Slimes um kohle zur doppelten Energierate zu bingen. braucht keines ressourcen wenn fertig, Gib ihm aber ein bischen Energie!</string><!--Not Iptimal, shoudl be changed as it sounds verry bad-->
-    <string name="Coal Enricher_CRAFT_HINT">Verdoppelt die Energie die durch das verbrennen von Kohle entsteht.</string>
-    <string name="Crystal Coal Infuser_CRAFT_DESC">Konvertiert einen Zerkleinerer und Kristalltaktgeber zu einer Maschine, welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch einmal zu verdoppeln.</string>
-    <string name="Crystal Coal Infuser_CRAFT_HINT">Vervierfacht die Energie die durch das verbrennen von Kohle entsteht.</string>
+    <string name="Coal Enricher_CRAFT_DESC">Kombiniere einen Zerkleiner mit phosphorisierenden Drüsen um die Kohle qualitativ anzureichern. Damit erhöht man den Energiegewinn bis auf das doppelte!</string><!--Not Iptimal, shoudl be changed as it sounds verry bad-->
+    <string name="Coal Enricher_CRAFT_HINT">Verdoppelt die Energie, die durch das Verbrennen von Kohle entsteht.</string>
+    <string name="Crystal Coal Infuser_CRAFT_DESC">Konvertiert einen Zerkleinerer und Kristalltaktgenerator zu einer Maschine, welche angereicherte Kohle noch weiter veredelt, um ihren Energiegehalt noch ein weiteres mal zu verdoppeln.</string>
+    <string name="Crystal Coal Infuser_CRAFT_HINT">Vervierfacht die Energie, die durch das verbrennen von Kohle entsteht.</string>
     <string name="Plasma Head Charger_CRAFT_DESC">Fügt einem einfachen Stahlschneidkopf Energie hinzu, um einen leistungsstärkeren Plasmaschneidkopf zu erhalten.</string>
     <string name="Plasma Head Charger_CRAFT_HINT">Vervierfacht die Arbeitsrate bei einem Erzförderer. Ladung hält jedoch nur 2000 Erzextraktionen.</string>
     <string name="Climate Control Centre_CRAFT_DESC">Das kalte Höhlen Klimakontrollcenter sollte nun beginnen, die kalten Höhlen in eine bewohnbare Umgebung umzuwandeln. Alle T4 Unterstützungsmaschinen benötigen diese Maschine um zu funktionieren. 175 Blöcke total</string>
@@ -2342,11 +2342,11 @@ Billig und hässlich, dafür verlässlich*
     <string name="Trencher Drill Mk3 component_CRAFT_HINT">Effekivität hängt von der Abdeckung des Bohrkopfs zur Erzader ab.</string>
     <string name="Trencher Motor component_CRAFT_DESC">Stellt den Antrieb des Schaufelbohrers dar. Wird in einer 3x3x3 Konfiguration hinter dem Bohrkopf aufgestellt (27 Blöcke im totalen).</string>
     <string name="Trencher Motor component_CRAFT_HINT">Akzeptiert Energie und wirft Erz vom Bohrkopf aus.</string>
-    <string name="Geothermal Generator comp._CRAFT_DESC">Geotehrmal Energie. Platzieren in kalter Umgebung und mit hitzeleitenden Rohren versorgen. Aufbau in 5x5 Platte mit 3 Höhe (75 Block Total).</string>
+    <string name="Geothermal Generator comp._CRAFT_DESC">Geothermische Energie. Platzieren in kalter Umgebung und mit hitzeleitenden Rohren versorgen. Aufbau in 5x5 Platte mit 3 Höhe (75 Block Total).</string>
     <string name="Geothermal Generator comp._CRAFT_HINT">Generiert eine Menge Energie.</string>
-    <string name="Casting Basin component_CRAFT_DESC">Wandelt flüssige Metallschlacke in Barren in hohem Tempo um. Fähig Chrom und Molybdän zuverarbeiten. Aufbau in 5x5 Platte mit 3 Höhe (75 Block Total).</string>
+    <string name="Casting Basin component_CRAFT_DESC">Gießt geschmolzenes Metall zu Barren im hohem Tempo. Ist in der Lage Chrom und Molybdän zu schmelzen. Aufbau in 5x5 Platte mit 3 Höhe (75 Block Total).</string>
     <string name="Casting Basin component_CRAFT_HINT">An 4 Schmelzöfen anschliessen für höchste Effizienz.</string>
-    <string name="Blast Furnace component_CRAFT_DESC">Schmeltzt rohes Erz zu flüssiger Schlacke in hohem Tempo. Fähig Chrom und Molybdän zuverarbeiten. Aufbau in 3x3 Platte mit 7 Höhe.</string>
+    <string name="Blast Furnace component_CRAFT_DESC">Schmelzt rohes Erz zu flüssiger Schlacke in hohem Tempo. Fähig Chrom und Molybdän zuverarbeiten. Aufbau in 3x3 Platte mit 7 Höhe.</string>
     <string name="Blast Furnace component_CRAFT_HINT">Nutze Rohre um dies zu verbinden.</string>
     <string name="Casting Pipe (Straight)_CRAFT_DESC">Verbinde den Hochofen mit dem Stranggussbecken mit diesen Rohren.</string>
     <string name="Casting Pipe (Straight)_CRAFT_HINT">Nutze Rohre um dies zu verbinden.</string>
