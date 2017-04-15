@@ -30,9 +30,9 @@ STRG + rechte Maustaste: Schnell abbauen</string>
 <string name="CR.01Welcome.07.Title">Kreativmodus Bauwerkzeuge</string>
 <string name="CR.01Welcome.08.Paragraph">In FortressCraft Evolved besitzt du mehrere mächtige Werkzeuge für kreatives Bauen, die im folgenden beschrieben werden. Wir werden in Zukunft Links zur genaueren Erklärung der Werkzeuge bereitstellen.</string>
 <string name="CR.01Welcome.09.Header">Bauwerkzeug</string>
-<string name="CR.01Welcome.10.Paragraph">Beim verwenden des Bauwerkzeugs (auswählen mit X) kannst du mit der linken Maustaste Blöcke platzieren während die rechte Maustaste die Blöcke wieder löscht.</string>
+<string name="CR.01Welcome.10.Paragraph">Beim verwenden des Bauwerkzeugs (auswählen mit X) kannst du mit der linken Maustaste Blöcke platzieren während die rechte Maustaste die Blöcke wieder löscht. Du hast mit der grossen Reichweite vom Bauwerkzeug bis zu 64 Blöcke entfernt etwas ab-/abbauen.</string>
 <string name="CR.01Welcome.11.Header">Schnellabbau</string>
-<string name="CR.01Welcome.12.Paragraph">Halte "STRG" gedrückt, während du Blöcke abbaust, um den Schnellabbau zu aktivieren. Sei Vorsichtig beim Schnellabbau, damit du nicht deine bereits fertige Arbeit aus Versehen zerstörst. </string>
+<string name="CR.01Welcome.12.Paragraph">Halte STRG gedrückt, während du Blöcke abbaust, um den Schnellabbau zu aktivieren. Dies wird deine Abbaugeschwindigkeit sehr viel schneller machen, was gut ist für das ausheben von grösseren Flächen ist. Sei vorsichtig beim Schnellabbau, damit du nicht deine bereits fertige Arbeit aus Versehen zerstörst.</string>
 <string name="CR.01Welcome.13.Header">Baue-zu-mir-Funktion</string>
 <string name="CR.01Welcome.14.Paragraph">Halte STRG beim Bauen gedrückt, um eine Reihe Blöcke in deine Richtung zu bauen, ausgehend von der markierten Fläche.</string>
 <string name="CR.01Welcome.15.Header">Der Workshop</string>
@@ -52,10 +52,10 @@ I: Zeige Detailfenster
 O: Zeige Verhaltensfenster (derzeit gesperrt)
 [: vorheriges Design
 ]: Nächstes Design</string>
-<string name="CR.01Welcome.26.Paragraph">Beim Betreten eines neuen Workshops wird automatisch ein neues Design erstellt. \'Y\' muss nicht mehr zum initialisieren gedrückt werden.</string>
-<string name="CR.01Welcome.27.Paragraph">To design your first detail block, simply start building in the highlighted workshop area. The wall made from Reinforced Wood will be the front of your block. You can use any block you want to construct your design, but any blocks that have models will not show up in the detail block. Painted blocks will remain painted.</string>
-<string name="CR.01Welcome.28.Paragraph">Once you're happy with your design, simply exiting the workshop will save it and create the detail block to build with. To select it, open up your Block Select screen ('=') and select your new design to a hotbar slot. You can quickly find all detail block designs by filtering for 'detail block' in the filter list. You can now start a new design in the workshop by pressing 'Y', or by building a new workshop. You can have up to 16384 detail block designs in one world!</string>
-<string name="CR.01Welcome.29.Header">Placing detail blocks</string>
+<string name="CR.01Welcome.26.Paragraph">Beim Betreten eines neuen Workshops wird automatisch ein neues Design erstellt. \'Y\' muss nicht mehr zum initialisieren gedrückt werden nachdem das erste Design erstellt wurde.</string>
+<string name="CR.01Welcome.27.Paragraph">Um deinen ersten Detailblock zu erstellen, bauen ihn einfach in der markierten Zone. Die Wand, welche asu verstärktem Holz besteht wird die Frontseite von deinem Block sein. Du kannst alle Blöcke verwenden die du sonst auch verwenden würdest, jedoch Blöcke die ein Model haben werden nicht angezeigt. Gefärbte Blöcke werden mit ihrer Farbe abgespeichert.</string>
+<string name="CR.01Welcome.28.Paragraph">Wenn du zufrieden bist mit deinem Design, verlassen das Workshops wird den Detailblock speichern um damit bauen zu können. Um den Block nun bauen zu können öffne den Blockauswahl Bildschirm (=) und wähle deinen Block aus und ziehe ihn in deine Schnellzugriffsleiste. Du kannst Detailblöcke schneller finden inden du Rechts den Filter \'Detail Block\' auswählst. Du kannst nun ein neues Design beginnen indem du Y Drückst oder indem du einen neuen Workshop baust. Insgesammt kannst du bis zu 16\'384 einzigartige Designs für Detailblocks haben!</string>
+<string name="CR.01Welcome.29.Header">Detailblöcke platzieren</string>
 <string name="CR.01Welcome.30.Paragraph">To place a detail block, build it like you would any other block. The design will attach to the face you have selected, and be rotated to face towards you. This allows you to place detail blocks in any orientation you want.</string>
 <string name="CR.01Welcome.31.Paragraph">If you use thousands of detail blocks in the same area, you will notice significant performance drops. This is because all those details have to be rendered by your graphics card. To alleviate this, use detail blocks of lower resolutions and use normal blocks where ever you can.</string>
 <string name="CR.01Welcome.32.Header">Super Build</string>
