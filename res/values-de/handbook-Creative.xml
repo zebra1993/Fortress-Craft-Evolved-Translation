@@ -61,13 +61,13 @@ O: Zeige Verhaltensfenster (derzeit gesperrt)
 <string name="CR.01Welcome.32.Header">Super Konstruktor</string>
 <string name="CR.01Welcome.33.Paragraph">Durch Drücken von F8 wird das Super Bau Tafel auf der rechten Seite des Bildschirms geöffnet</string>
 <string name="CR.01Welcome.34.Paragraph">Dies ermöglicht es Ihnen, schnell einfache geometrische Formen mit jedem Block, den Sie ausgewählt haben, aufzubauen. Um den Super Konstruktor zu verwenden, wähle zuerst eine Form, um mit F9 zu bauen. Mit F10 kannst du wählen, ob es eine solide oder hohle Form bauen soll. Mit F11 schalten Sie den Bau-Modus um. Sofort erhalten Sie das schnellste Ergebnis, kann aber in einigen Löchern für sehr große Formen führen. End schaltet zwischen dem Anker der Form zentriert oder auf der unteren Mitte der Form.</string>
-<string name="CR.01Welcome.35.Paragraph">X, Y and Z allow you to change the size of the shape. Pressing them increases that dimension by 1. Hold shift and press X, Y or Z to decrease by one. You can additionally hold ALT to change the size by 16 at a time.</string>
-<string name="CR.01Welcome.36.Paragraph">Once you've chosen a shape, size and location, press Ins to build the shape, or Del to dig it out. You will then have to reselect a shape to dig or build again.</string>
-<string name="CR.01Welcome.37.Header">Copy Paste</string>
-<string name="CR.01Welcome.38.Paragraph">The Copy Paste tool allows you to quickly copy part of a design you've made, rotate or flip it around, and paste it back into the world in whatever place you want. Open the copy paste panel by pressing F11.
-The Copy Paste panel is currently UNDER CONSTRUCTION, which is why it doesn't look like the rest of the interface.</string>
-<string name="CR.01Welcome.39.Header">Copy Paste Controls</string>
-<string name="CR.01Welcome.40.Paragraph">Press Ins to place the first corner of the rectangular part you want to copy.</string>
+<string name="CR.01Welcome.35.Paragraph">X, Y und Z erlauben es Ihnen, die Größe der Form zu ändern. Wenn Sie sie drücken, erhöht sich diese Dimension um 1. Halten Sie die Verschiebung und drücken Sie X, Y oder Z, um eins zu senken. Sie können zusätzlich ALT halten, um die Größe um 16 zu einer Zeit zu ändern.</string>
+<string name="CR.01Welcome.36.Paragraph">Sobald Sie eine Form, Größe und Standort gewählt haben, drücken Sie Ins, um die Form zu erstellen, oder Del, um es auszudrücken. Sie müssen dann eine Form wiederherstellen, um wieder zu graben oder zu bauen.</string>
+<string name="CR.01Welcome.37.Header">Kopieren Einfügen</string>
+<string name="CR.01Welcome.38.Paragraph">Mit dem Kopieren Einfügen-Tool können Sie schnell einen Teil eines Designs kopieren, den Sie gemacht haben, drehen oder umdrehen und ihn in die Welt einfügen wo Sie wollen. Öffnen Sie die Kopier/Einfügen Funktion durch Drücken von F11.
+Die Kopieren Einfügen Funktion ist derzeit UNTER KONSTRUKTION, weshalb es nicht wie der Rest der Schnittstelle aussieht.</string>
+<string name="CR.01Welcome.39.Header">Kopieren Einfügen Einstellungen</string>
+<string name="CR.01Welcome.40.Paragraph">Drücken Sie Ins, um die erste Ecke des rechteckigen Teils zu platzieren, den Sie kopieren möchten.</string>
 <string name="CR.01Welcome.41.Paragraph">Press Del to place the second corner of the rectangular part you want to copy. The area to be copied will now be highlighted.</string>
 <string name="CR.01Welcome.42.Paragraph">Once an area has been selected, you can press End to grab it. At this point, a preview of the copied area will be shown on top of your block selection.</string>
 <string name="CR.01Welcome.43.Paragraph">With an area grabbed, there are three things you can do to alter the way the area is pasted: Rotate with R, move anchor point with Shift, flip with CTRL.</string>
