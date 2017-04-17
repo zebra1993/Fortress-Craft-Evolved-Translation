@@ -21,8 +21,8 @@
     <string name="Power_Level">Energie</string>
     <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
     <string name="Day_Night_Cycle">Tag-/Nachtzyklus</string>
-    <string name="Mob_Difficulty">Gegner Schwierigkeitsgrad</string>
-    <string name="Death_Mode">Todesmodus</string><!-- Should be changed doesnt sound well, but maybe a start point -->
+    <string name="Mob_Difficulty">Gegner</string>
+    <string name="Death_Mode">Schwierigkeitsgrad</string><!-- Should be changed doesnt sound well, but maybe a start point -->
     <string name="Rush_Mode">Schnelles Spiel</string>
     <string name="Flatland">Flachland</string>
     <string name="Care_Package">Erstausrüstung</string>
@@ -70,9 +70,9 @@
     <string name="Normal">Normal</string>
     <string name="Eternal Night">Ewige Nacht</string>
 
-    <string name="Trivial Mobs">Triviale Gegner</string>
-    <string name="Normal Mobs">Normal Gegner</string>
-    <string name="Hard Mobs">Schwere Gegner</string>
+    <string name="Trivial Mobs">Trivial</string>
+    <string name="Normal Mobs">Normal</string>
+    <string name="Hard Mobs">Schwer</string>
 
     <string name="None">Keine</string>
     <string name="Clumsy">Tollpatschig</string>
@@ -102,16 +102,20 @@
     <string name="Scarce_Power_Info">Empfohlener Modus. Diese Auswahl wird den Spielstart eher verlangsamen.</string>
 
     <string name="Eternal_Day_Info">Ewiger Tag bedeutet, dass die Solarpaneele zu jederzeit Energie liefern und dass der Temparaturabfall über Nacht nicht eintritt. Diese Auswahl wird zudem den Fortschritt deutlich verschnellern - Solarpaneele ergeben dadurch 4x mehr Energie!</string>
-    <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit wirst du extreme Temparaturstürze, agressivere Gegner und schlechtere Sichtweite als normal erleiden.</string>
+    <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit wirst du extreme Temperaturstürze, aggressivere Gegner und schlechtere Sichtweite als normal erleiden.</string>
     <string name="Eternal_Night_Info">Ewige Nacht bedeutet, dass du dich nicht von den kalten Nächten in der Tagessonne erholen kannst, nur Organische Solarpaneele minimal Energie produzieren, mit welchen dein ZEV nicht ausgestattet ist. Das ganze wird eine gute Herausforderung sein.</string>
 
     <string name="Death_Default_Info">Standardmodus. Keine Strafe bei Tod ausser niedrige Lebenspukte und ein langer Fussmarsch. Das macht das Spiel extrem einfach da du dich nicht vor den zahlreichen interessanten Möglichkeiten zu sterben fürchten musst.</string>
     <string name="Death_Clumsy_Info">Tollpatschig wird empfohlen, wenn du eine annehmbare Herausforderung willst und einen guten Grund nicht zu sterben. Wenn du stirbst werden alle Gegenstände in deinem Inventar auf dem Boden verteilt!</string>
-    <string name="Death_Ironman_Info">NICHT FÜR ANFÄNGER!&#13;&#13; Iron Man ist nur für gläubige, dumme und mutige. Wenn du stirbst ist dein Inventar VERLOREN. Für IMMER!</string>
-    <string name="Death_SquishCore_Info">FÜR NIEMANDEM EMPFOHLEN!
+    <string name="Death_Ironman_Info">NICHT FÜR ANFÄNGER!
+
+ Iron Man ist nur für Dumme und Waghalsige. Wenn du stirbst ist dein Inventar VERLOREN. Für IMMER!</string>
+    <string name="Death_SquishCore_Info">FÜR NIEMANDEN EMPFOHLEN!
 
  Extrem Hart ist einfach: Du stirbst, du bleibst tot</string>
-    <string name="Death_Hardcore_Info">FÜR NIEMANDEM EMPFOHLEN!&#13;&#13; Brutal ist der schwerste Modus, wenn du oder dein ZEV stirbt, heisst es GAME OVER! Der ZEV repariert sich zudem nicht wie in den anderen Modi.</string>
+    <string name="Death_Hardcore_Info">FÜR NIEMANDEN EMPFOHLEN!
+
+ Brutal ist der schwerste Modus, wenn du oder dein ZEV stirbt, heißt es GAME OVER! Der ZEV repariert sich zudem nicht wie in den anderen Modi.</string>
 
     <string name="Care_Package_Locked">Das Versorungspacket wird freigeschaltet sobald du ein Klimakontrollzentrum gebaut hast.</string>
     <string name="Care_Package_Disabled">Versorgungspacket deaktiviert.</string>
@@ -125,11 +129,13 @@
 
     <string name="Rushmode_Locked">Sturmmodus wird freigeschaltet wenn du erfolgreich den Orbitalen Energie Transmitter aufgeladen hast.</string>
     <string name="Rushmode_Disabled">Sturmmodus deaktivert.</string>
-    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus einen Orbitalen Energie Transmitter zu bauen und aufzuladen in möglichst kurzer Zeit. Diese Auswahl wird die Energieerzeugung etwa 10x verschnellern, Erzsammlung und Schemlzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
+    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus, in möglichst kurzer Zeit einen Orbitalen Energie Transmitter zu bauen und aufzuladen. Diese Auswahl wird die Energieerzeugung etwa um 10x verschnellern. Erzsammlung und -schmelzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
 
-    <string name="Trivial_Mobs_Info">Triviale Gegner ist nicht empfohlen. Gegner werden den vollen Fortschritt nicht verhindern, sind aber keine Herausforderung mehr, was einen Grossteil des Spiels entfernt. Du wirst reduzierten Wachstum der Schwarmintelligenzen und weniger Bedrohung durch andere Gegner haben</string>
+    <string name="Trivial_Mobs_Info">Triviale Gegner:
+Nicht empfohlen. Zwar wird der Spielfluss nicht beeinträchtigt, jedoch stellt das Spiel keine Herausforderung mehr dar (und ein Großteil des Spielspaßes fällt hierdurch weg). 
+Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwarmintelligenzen und anderer Gegner vermindern.</string>
     <string name="Normal_Mobs_Info">Normale Gegner - Wie es sein sollte. Gute Wahl!</string>
-    <string name="Hard_Mobs_Info">Schwere Gegner - Wähle dies und du wirst mit agressiveren, schwereren Gegnern zu kämpfen haben. Diese Auswahl ist nur für SEHR ERFAHRENE Spieler gedacht!</string>
+    <string name="Hard_Mobs_Info">Schwere Gegner - Wähle dies und du wirst mit aggressiveren, schwereren Gegnern zu kämpfen haben. Diese Auswahl ist nur für SEHR ERFAHRENE Spieler gedacht!</string>
 
     <string name="OrbitalPar">Spielzeit bis OET einmalig geladen wurde</string>
     <string name="FFPar">Spielzeit bis Frozen Factory durchgespielt ist</string><!--No idea what that means-->
@@ -247,34 +253,34 @@
     <string name="Chargeable Explosive">Aufladbarer Sprengsatz</string>
     <string name="Chargeable Explosives">Aufladbare Sprengsätze</string>
     <!-- Ping -->
-    <string name="Blank Ore Ping">Bodenradar</string>
-    <string name="Blank Ore Pings">Bodenradare</string><!-- Pinge or Pings, what sounds better? -->
-    <string name="Coal Ping">Kohleradar</string>
-    <string name="Coal Pings">Kohleradare</string>
-    <string name="Iron Ore Ping">Eisenerzradar</string>
-    <string name="Iron Ore Pings">Eisenerzradare</string>
-    <string name="Copper Ore Ping">Kupfererzradar</string>
-    <string name="Copper Ore Pings">Kupfererzradare</string>
-    <string name="Tin Ore Ping">Zinnerzradar</string>
-    <string name="Tin Ore Pings">Zinnerzradare</string>
-    <string name="Lithium Ore Ping">Lithiumerzradar</string>
-    <string name="Lithium Ore Pings">Lithiumerzradare</string>
-    <string name="Gold Ore Ping">Golderzradar</string>
-    <string name="Gold Ore Pings">Golderzradare</string>
-    <string name="Nickel Ore Ping">Nickelerzradar</string>
-    <string name="Nickel Ore Pings">Nickelerzradare</string>
-    <string name="Titanium Ore Ping">Titanerzradar</string>
-    <string name="Titanium Ore Pings">Titanerzradare</string>
-    <string name="Crystal Deposit Ping">Kristallradar</string>
-    <string name="Crystal Deposit Pings">Kristallradare</string>
-    <string name="Biomass Growth Ping">Biomasseradar</string>
-    <string name="Biomass Growth Pings">Biomasseradare</string>
-    <string name="Resin Ping">Harzradar</string>
-    <string name="Resin Pings">Harzradare</string>
-    <string name="Chromium Ping">Chromradar</string>
-    <string name="Chromium Pings">Chromradare</string>
-    <string name="Molybdenum Ping">Molybdänradar</string>
-    <string name="Molybdenum Pings">Molybdänradare</string>
+    <string name="Blank Ore Ping">Erzping</string>
+    <string name="Blank Ore Pings">Erzpings</string><!-- Pinge or Pings, what sounds better? -->
+    <string name="Coal Ping">Kohleping</string>
+    <string name="Coal Pings">Kohlepings</string>
+    <string name="Iron Ore Ping">Eisenping</string>
+    <string name="Iron Ore Pings">Eisenpings</string>
+    <string name="Copper Ore Ping">Kupferping</string>
+    <string name="Copper Ore Pings">Kupferpings</string>
+    <string name="Tin Ore Ping">Zinnping</string>
+    <string name="Tin Ore Pings">Zinnpings</string>
+    <string name="Lithium Ore Ping">Lithiumping</string>
+    <string name="Lithium Ore Pings">Lithiumpings</string>
+    <string name="Gold Ore Ping">Goldping</string>
+    <string name="Gold Ore Pings">Goldpings</string>
+    <string name="Nickel Ore Ping">Nickelping</string>
+    <string name="Nickel Ore Pings">Nickelpings</string>
+    <string name="Titanium Ore Ping">Titanping</string>
+    <string name="Titanium Ore Pings">Titanpings</string>
+    <string name="Crystal Deposit Ping">Kristallping</string>
+    <string name="Crystal Deposit Pings">Kristallpings</string>
+    <string name="Biomass Growth Ping">Biomasseping</string>
+    <string name="Biomass Growth Pings">Biomassepings</string>
+    <string name="Resin Ping">Harzping</string>
+    <string name="Resin Pings">Harzpings</string>
+    <string name="Chromium Ping">Chromping</string>
+    <string name="Chromium Pings">Chrompings</string>
+    <string name="Molybdenum Ping">Molybdänping</string>
+    <string name="Molybdenum Pings">Molybdänpings</string>
     <!-- Experimental Pods -->
     <string name="Basic Experimental Pod">Einfache Experimentierhülse</string>
     <string name="Basic Experimental Pods">Einfache Experimentierhülsen</string>
@@ -1101,7 +1107,7 @@ Sehr Energie hungrig!</string>
     <string name="Stamper Plant">Stempel Maschine</string>
     <string name="Stamper Plant_DESC">Verarbeitet Barren zu Platten</string>
     <string name="Extrusion Plant">Extrudier Maschine</string>
-    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähte</string>
+    <string name="Extrusion Plant_DESC">Verarbeitet Barren zu Drähten</string>
     <string name="Coiler Plant">Wickelmaschine</string>
     <string name="Coiler Plant_DESC">Verarbeitet Drähte zu Spulen</string>
     <string name="Pipe Extrusion Plant">Rohrextrudier Maschine</string>
@@ -1215,17 +1221,17 @@ Sehr Energie hungrig!</string>
     <string name="Basic Mass Storage Input Port">Einfacher Massenspeichereingang</string>
     <string name="Basic Mass Storage Input Port_DESC">Wird genutz um Ressourcen im Hochregallager zu einzulagern. Lagert 5 Ressourcen gleichzeitig ein.</string>
     <string name="Mass Storage Input Port">Massenspeichereingang</string>
-    <string name="Mass Storage Input Port_DESC">Wird genutz um Ressourcen im Hochregallager zu einzulagern. Lagert 12 Ressourcen gleichzeitig ein.</string>
+    <string name="Mass Storage Input Port_DESC">Wird genutzt, um Ressourcen dem Massenlager hinzuzufügen. Lagert 12 Ressourcen gleichzeitig ein.</string>
     <string name="Bulk Mass Storage Input Port">Schüttgut Massenspeichereingang</string>
-    <string name="Bulk Mass Storage Input Port_DESC">Wird genutz um Ressourcen im Hochregallager zu einzulagern. Lagert 25 Ressourcen gleichzeitig ein.</string>
+    <string name="Bulk Mass Storage Input Port_DESC">Wird genutzt, um Ressourcen dem Massenlager hinzuzufügen. Lagert 25 Ressourcen gleichzeitig ein.</string>
     <string name="Basic Mass Storage Output Port">Einfacher Massenspeicherausgang</string>
-    <string name="Basic Mass Storage Output Port_DESC">Wird genutz um Ressourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 5 Ressourcen gleichzeitig.</string>
+    <string name="Basic Mass Storage Output Port_DESC">Wird genutzt, um Ressourcen aus dem Massenlager zu entnehmen. Entnimmt bis zu 5 Ressourcen gleichzeitig.</string>
     <string name="Mass Storage Output Port">Massenspeicherausgang</string>
-    <string name="Mass Storage Output Port_DESC">Wird genutz um Ressourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 12 Ressourcen gleichzeitig.</string>
+    <string name="Mass Storage Output Port_DESC">Wird genutzt, um Ressourcen aus dem Massenlager zu entnehmen. Entnimmt bis zu 12 Ressourcen gleichzeitig.</string>
     <string name="Bulk Mass Storage Output Port">Schüttgut Massenspeicherausgang</string>
-    <string name="Bulk Mass Storage Output Port_DESC">Wird genutz um Ressourcen aus dem Hochregallager zu entnehmen. Entnimmt bis zu 25 Ressourcen gleichzeitig.</string>
+    <string name="Bulk Mass Storage Output Port_DESC">Wird genutzt, um Ressourcen aus dem Massenlager zu entnehmen. Entnimmt bis zu 25 Ressourcen gleichzeitig.</string>
     <string name="Mass Storage Controller">Massenspeichersteuerung</string>
-    <string name="Mass Storage Controller_DESC">Hochregallagerverwaltung für angetriebene Lager</string>
+    <string name="Mass Storage Controller_DESC">Massenspeicherverwaltung für angetriebene Lager</string>
 
     <string name="Macerator">Zerkleinerer</string><!-- Not optimal-->
     <string name="Macerator_DESC">Zerkleinert Materialien und bringt verborgene Rohstoffe zum Vorschein</string>
@@ -1398,7 +1404,7 @@ Sehr Energie hungrig!</string>
     <string name="Warhead Imbuer_DESC">Durchtränkt Grundlegende Raketen mit Plasma angereicherter Energie.</string>
     <string name="SpiderBot Core Charger">SpiderBot Energiekernlader</string>
     <string name="SpiderBot Core Charger_DESC">Durchtränkt Lithiumspulen mit Energie. Der Spiderbot Verbesserungs- und Aufladestation zuführen durch einen Container.</string>
-    <string name="Liquid Resin Refiner">Verflüssiges Harzraffinierie</string>
+    <string name="Liquid Resin Refiner">Flüssigharzraffinierie</string>
     <string name="Liquid Resin Refiner_DESC">Verarbeitet verflüssigtes Harz zu raffiniertem Harz.</string>
     <string name="Rack Railer">Schienenschneider</string>
     <string name="Rack Railer_DESC">Stellt Schienen für Warenlifte her</string>
@@ -1452,17 +1458,17 @@ Sehr Energie hungrig!</string>
     <string name="Cluster Missile Crafter_DESC">Wandelt eine plasmaverstärkte Rakete in acht Schwarmraketen um, welche nur ein viertel des ursprünglichen Schadens anrichten.</string>
 
     <string name="ConstructoBot Coppator Chassis Assembler">ConstructoBot Coppator Gehäusemontage</string><!-- Not optimal-->
-    <string name="ConstructoBot Coppator Chassis Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Chassis.</string>
+    <string name="ConstructoBot Coppator Chassis Assembler_DESC">Baut Tier 0 (Coppator) ConstructoBot-Gehäuse.</string>
     <string name="ConstructoBot Tindron Chassis Assembler">ConstructoBot Tindron Gehäusemontage</string><!-- Not optimal-->
-    <string name="ConstructoBot Tindron Chassis Assembler_DESC">Constructs Tier 1 (Tindron) ConstructoBot Chassis.</string>
+    <string name="ConstructoBot Tindron Chassis Assembler_DESC">Baut Tier 1 (Tindron) ConstructoBot-Gehäuse.</string>
     <string name="ConstructoBot Bronzite Chassis Assembler">ConstructoBot Bronzite Gehäusemontage</string><!-- Not optimal-->
-    <string name="ConstructoBot Bronzite Chassis Assembler_DESC">Constructs Tier 2 (Bronzite) ConstructoBot Chassis.</string>
+    <string name="ConstructoBot Bronzite Chassis Assembler_DESC">Baut Tier 2 (Bronzit) ConstructoBot-Gehäuse.</string>
     <string name="ConstructoBot Ironide Chassis Assembler">ConstructoBot Ironide Gehäusemontage</string><!-- Not optimal-->
-    <string name="ConstructoBot Ironide Chassis Assembler_DESC">Constructs Tier 2 (Ironide) ConstructoBot Chassis.</string>
+    <string name="ConstructoBot Ironide Chassis Assembler_DESC">Baut Tier 2 (Ferrit) ConstructoBot-Gehäuse.</string>
     <string name="ConstructoBot Leg Assembler">ConstructoBot Beinmontage</string><!-- Not optimal-->
-    <string name="ConstructoBot Leg Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Legs.</string>
+    <string name="ConstructoBot Leg Assembler_DESC">Baut Tier 0 (Coppator) ConstructoBot-Beine.</string>
     <string name="ConstructoBot Arm Assembler">ConstructoBot Armmotnage</string><!-- Not optimal-->
-    <string name="ConstructoBot Arm Assembler_DESC">Constructs Tier 0 (Coppator) ConstructoBot Arms.</string>
+    <string name="ConstructoBot Arm Assembler_DESC">Baut Tier 0 (Coppator) ConstructoBot-Arme.</string>
 
     <string name="Blast Furnace">Hochofen</string>
     <string name="Blast Furnace_DESC"/>
@@ -1625,7 +1631,7 @@ Sehr Energie hungrig!</string>
     <string name="CryoPlasm Dazzler Turret">Cryoplasma Blenderturm</string><!--not optimal -->
     <string name="CryoPlasm Dazzler Turret_DESC">Schnelle Verteidigung gegen CryoPlasma auf große Distanz. Funktioniert nur in gerader Linie. Braucht 250k Energie um zu feuern.</string>
     <string name="Single-Use Hard Rock Grinder">Einweg Hartgesteinsmühle</string>
-    <string name="Single-Use Hard Rock Grinder_DESC">Nicht Wichtig</string>
+    <string name="Single-Use Hard Rock Grinder_DESC">Nicht Wichtig.</string>
     <string name="Magma Bore">Magma Bohrer</string>
     <string name="Magma Bore_DESC">Nicht Wichtig.</string>
     <string name="Airbone Particulate Extractor">Schwebender Partikelextraktor</string>
@@ -1677,7 +1683,7 @@ Sehr Energie hungrig!</string>
     <string name="ConstructoBot Charger">ConstructoBot Ladestation</string>
     <string name="ConstructoBot Charger_DESC">Lädt einen ConstructoBot auf.</string>
     <string name="ConstructoBot Constructor">ConstructoBot Konstrukteur</string>
-    <string name="ConstructoBot Constructor_DESC">Builds a ConstructoBot from input conveyors with Arm, Body and Legs.</string>
+    <string name="ConstructoBot Constructor_DESC">Baut einen ConstructoBot aus Armen, Beinen und Gehäusen von angeschlossenen Förderbändern.</string>
 
     <string name="H.O.D.O.R.">H.O.D.O.R.</string>
     <string name="H.O.D.O.R._DESC">Der Hoch Orbit Trümmer Objekt Rückbringer ermöglicht das Zurückbringen von orbitalem Schrott. Dieser kann mit Glück Forschungsteile erhalten. Wird als 3x1x3 gebaut.</string>
@@ -1685,12 +1691,12 @@ Sehr Energie hungrig!</string>
     <string name="Orbital RailGun Controller">Orbital Scheinengeschütz Steuerung</string>
     <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt Richtung Norden.</string>
     <string name="Orbital RailGun Induction Ring">Orbital Scheinengeschütz Induktionsring</string>
-    <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt richtung Norden.</string>
+    <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt Richtung Norden.</string>
 
     <string name="Hydroponics Bay">Hydroponikeinheit</string>
     <string name="Hydroponics Bay_DESC">Züchtet automatisch Pflanzen. Setzt eine Abdeckung voraus.</string>
     <string name="Hydroponics Canopy">Hydroponikeinheit Abdeckung</string>
-    <string name="Hydroponics Canopy_DESC">Wird über einer hydroponischen Einheit plaziert um die Wachstumsrate massiv zu steigern.</string>
+    <string name="Hydroponics Canopy_DESC">Wird über einer hydroponischen Einheit platziert, um die Wachstumsrate massiv zu steigern.</string>
 
     <string name="Adventures Pack DLC">Abenteuerpacket DLC</string>
     <string name="Adventures Pack DLC_DESC">Das zweite DLC zu FCE</string>
@@ -2354,12 +2360,12 @@ Billig und hässlich, dafür verlässlich*
     <string name="Casting Pipe (Bend)_CRAFT_HINT">Nutze Rohre um dies zu verbinden.</string>
     <string name="Mesh Weaver_CRAFT_DESC">Stellt Kristallgewebe her.</string>
     <string name="Mesh Weaver_CRAFT_HINT">Kein Hinweis verfügbar</string>
-    <string name="Pipe Coater_CRAFT_DESC">Stellt Hitzeleitenderohre her, welche bei Geothermalgeneratoren benötig werden.</string>
+    <string name="Pipe Coater_CRAFT_DESC">Stellt Hitze leitende Rohre her, welche bei Geothermalgeneratoren benötigt werden.</string>
     <string name="Pipe Coater_CRAFT_HINT">Kein Hinweis verfügbar</string>
     <string name="Hard Rock Grinder_CRAFT_DESC">Diese Maschine wird es uns ermöglichen, langsam und ineffizient T4 Erze zu zermahlen. Mit den so gewonnenen Erzen können wir neue, bessere Maschinen bauen. Aufbau in 3x3 Platte.</string>
     <string name="Hard Rock Grinder_CRAFT_HINT">!EINWEG MASCHINE!</string>
-    <string name="Particle Filter_CRAFT_DESC">Filtert nutzvolle Partikel aus der Luft. Aufbau in einer 5x5 Platte mit 3 Höhe (75 Block total).</string>
-    <string name="Particle Filter_CRAFT_HINT">Unwahrscheinlich langfristig Schäden in der Athmosphäre zu hinterlassen.</string>
+    <string name="Particle Filter_CRAFT_DESC">Filtert nützliche Partikel aus der Luft. Aufbau in einer 5x5 Platte mit 3 Höhe (75 Blöcke insgesamt).</string>
+    <string name="Particle Filter_CRAFT_HINT">Unwahrscheinlich langfristig Schäden in der Atmosphäre zu hinterlassen.</string>
     <string name="Particle Compressor_CRAFT_DESC">Kühlt und Komprimiert niederdruck Gas. Bereit gelagert udn abgefüllt zu werden. Aufbau in einem 3x3x3 Würfel.</string>
     <string name="Particle Compressor_CRAFT_HINT">Diese Maschine kann 4 Filter angeschlossen haben.</string>
     <string name="Particle Storage_CRAFT_DESC">Lagert komprimiertes Gas welches bereit für die abfüllung ist. Wird in einer 3x3 Platte mit 7 höhe aufgebaut (63 Block in total).</string>
