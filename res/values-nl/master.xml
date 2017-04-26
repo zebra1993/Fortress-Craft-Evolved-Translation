@@ -31,7 +31,7 @@
     <string name="Reset_World">Reset Wereld</string>
 
 
-    <string name="Creative_New">Creatieve Modus geeft je een oneindigende kans om alles te bouwen, hoge-resolutie detail blokken, extensieve wereld verander tools, schematen, blauwprinten en kopieër-plak systemen. Het heeft niet de meeste elementen van overleving, en zou niet moeten worden beschouwt als \'cheat modus\' voor Overleving</string>
+    <string name="Creative_New">Creatieve Modus geeft je een oneindigende kans om alles te bouwen, hoge-resolutie detail blokken, extensieve wereld verander tools, schematen, blauwprinten en kopieër-plak systemen. Het heeft niet de meeste elementen van overleving, en zou niet moeten worden beschouwt als \'cheat modus\' voor Overleving!</string>
     <string name="Creative_Info">Dit is een al bestaande Creatieve wereld, maar, treurig, heb ik niet coole statestieken om je te laten zien hier. Zou je anders een plaatje van een kat willen zien?</string>
 
     <string name="Mod_Management">Mod Beheren</string>
@@ -40,9 +40,9 @@
     <string name="Version">Versie</string>
     <string name="Lock">Blokeer</string>
     <string name="Status">Status</string>
-    <string name="Workshop">Workshop</string>
+    <string name="Workshop">Werkplaats</string>
 
-    <string name="Workshop_Mod">Workshop Mod</string>
+    <string name="Workshop_Mod">Werkplaats Mod</string>
     <string name="Update_Pending">Update komt eraan</string>
     <string name="Downloading">Aan Het Downloaden</string>
 
@@ -75,4 +75,10 @@
     <string name="Survival">Overleving</string>
     <string name="Creative">creatief</string>
 
+    <string name="Default_Settings_Info">De standaard instellingen staan op super-snel en super-makkelijk voor nieuwe spelers! Als je het nog SNELLER wil, moet je kiezen voor Altijd dag voor Dag/Nacht cyclus. Als je het moeilijker wilt, klooi met de instelling zoals jouw hart dat wil.
+Onthoud deze instellingen zijn vast op de duratie van je wereld en onthoud de ... tijden!</string>
+    <string name="Previous_Visit">Je bent al eerder in deze Overleving wereld geweest!</string>
+    <string name="Play_time">Speeltijd</string>
+    <string name="Mod_Selected">mod geselecteerd.</string>
+    <string name="Mods_Selected">mods geselecteerd.</string>
     </resources>
