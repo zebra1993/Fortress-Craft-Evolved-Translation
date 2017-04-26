@@ -1,2 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Gegroet! Jouw taal is alleen gedeeltelijk-ondersteund. Als je terug wil gaan naar Engels, druk dan op \'Engels\' beneden!</string>
+    <string name="Translation_Incomplete">Vertaling incompleet!</string>
+    <string name="Language_Name">Engels</string><string name="Frozen_Factory">Bevroren Fabriek</string>
+    <string name="Dapper_Pack"/>
+    <string name="Skin_Pack"/>
+    <string name="Installed">Geïnstalleerd</string>
+    <string name="Not_Installed">Niet Geïnstalleerd</string>
+    <string name="Multiplayer_Sign">&lt;Meerdere spelers</string>
+    <string name="Quit_Sign">Stoppen</string>
+    <string name="World_Sign">Wereld Selecteren</string>
+    <string name="Create_World">Wereld Maken</string>
+    <string name="Spacebar">Ruimtebar</string>
+    <string name="Resource_Level">Grondstoffen Niveau</string>
+    <string name="Power_Level">Stroom Niveau</string>
+    <string name="Conveyor_Speed">Lopende Band Snelheid</string>
+    <string name="Day_Night_Cycle">Dag/Nacht Cyclus</string>
+    <string name="Mob_Difficulty">... Moeilijkheid</string>
+    <string name="Death_Mode">Dodelijkheid Modus</string>
+    <string name="Rush_Mode">Snelle Modus</string>
+    <string name="Flatland">Plat land</string>
+    <string name="Care_Package">Zorg Pakket</string>
+    <string name="Survival_Options">Overlevings Opties</string>
+    <string name="Seed"/>
+    <string name="Mode">Modus</string>
+    <string name="Select_Mods">Selecteer Mods</string>
+    <string name="Back">Terug</string>
+    <string name="Mutators">Mutators</string>
+
+    <string name="Enter_World">Ga Naar De Wereld</string>
+    <string name="Reset_World">Reset Wereld</string>
+
+
+    <string name="Creative_New">Creatieve Modus geeft je een oneindigende kans om alles te bouwen, hoge-resolutie detail blokken, extensieve wereld verander tools, schematen, blauwprinten en kopieër-plak systemen. Het heeft niet de meeste elementen van overleving, en zou niet moeten worden beschouwt als \'cheat modus\' voor Overleving</string>
+    <string name="Creative_Info">Dit is een al bestaande Creatieve wereld, maar, treurig, heb ik niet coole statestieken om je te laten zien hier. Zou je anders een plaatje van een kat willen zien?</string>
+
+    <string name="Mod_Management">Mod Beheren</string>
+    <string name="Mod_Name">Mod Naam</string>
+    <string name="Active">Actief</string>
+    <string name="Version">Versie</string>
+    <string name="Lock">Blokeer</string>
+    <string name="Status">Status</string>
+    <string name="Workshop">Workshop</string>
+
+    <string name="Workshop_Mod">Workshop Mod</string>
+    <string name="Update_Pending">Update komt eraan</string>
+    <string name="Downloading">Aan Het Downloaden</string>
+
+    <string name="On">Aan</string>
+    <string name="Off">Uit</string>
+    <string name="Locked">Geblokeerd</string>
+
+    <string name="Plentiful">genoeg</string>
+    <string name="Scarce">raar</string>
+    <string name="Rapid">Vaak</string>
+
+    <string name="Greg"/>
+    <string name="Fast">Snel</string>
+    <string name="Slow">Langzaam</string>
+
+    <string name="Eternal Day">Altijd Dag</string>
+    <string name="Normal">Normaal</string>
+    <string name="Eternal Night">Altijd Nacht</string>
+
+    <string name="Trivial Mobs">Makkelijke ...</string>
+    <string name="Normal Mobs">Normale ...</string>
+    <string name="Hard Mobs">Moeilijke ...</string>
+
+    <string name="None">Geen</string>
+    <string name="Clumsy">Onhandig</string>
+    <string name="Iron Man">Iron man</string>
+    <string name="SquishCore"/>
+    <string name="Hardcore">Heel moeilijk</string>
+
+    <string name="Survival">Overleving</string>
+    <string name="Creative">creatief</string>
+
+    </resources>
