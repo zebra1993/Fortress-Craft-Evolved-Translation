@@ -6,7 +6,7 @@
     <string name="Translation_Incomplete">Käännös vaillinainen!</string>
     <string name="Language_Name">Suomi</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
-    <string name="Frozen_Factory">Jäinen Tehdas</string>
+    <string name="Frozen_Factory">Jäinen tehdas</string>
     <string name="Dapper_Pack">Siloituspakkaus</string>
     <string name="Skin_Pack">Näöstepakkaus</string>
     <string name="Installed">Asennettu</string>
@@ -18,8 +18,8 @@
     <string name="Spacebar">Välilyönti</string>
 
     <string name="Resource_Level">Resurssien riittoisuus</string>
-    <string name="Power_Level">Voiman Riittoisuus</string>
-    <string name="Conveyor_Speed">Kuljettimien Nopeus</string>
+    <string name="Power_Level">Voiman riittoisuus</string>
+    <string name="Conveyor_Speed">Kuljettimien nopeus</string>
     <string name="Day_Night_Cycle">Päivärytmi</string>
     <string name="Mob_Difficulty">Olentojen haastavuus</string>
     <string name="Death_Mode">Kuolinlinja</string>
@@ -36,7 +36,7 @@
     <string name="Enter_World">Mene maailmaan</string>
     <string name="Reset_World">Nollaa maailma</string>
 
-    <string name="Creative_New">Luova muoto antaa rajoittamattoman kyvyn rakentaa, korkea resoluutiooisia yksityiskohtapalikoita, laajat maailmanmuokkaustyökalut, kaavat, sinikopiot ja leikkaa-liimaa -järjelstelmän. Siinä ei ole useimpia sinnittelyelementtejä, eikä sitä pitäisi ajatella "huijausmoodiksi" Sinnittelylle!</string>
+    <string name="Creative_New">Luova muoto antaa rajoittamattoman kyvyn rakentaa, korkearesoluutioisia yksityiskohtapalikoita, laajat maailmanmuokkaustyökalut, kaavat, sinikopiot ja leikkaa-liimaa -järjelstelmän. Siinä ei ole useimpia sinnittelyelementtejä, eikä sitä pitäisi ajatella huijausmoodiksi Sinnittelylle!</string>
     <string name="Creative_Info">Tämä on olemassoleva Luova maailma, mutta valitettavasti minulla ei ole siistejä tilastoja mitä näyttää. Haluaisitko kissakuvan sen sijaan?</string>
 
     <string name="Mod_Management">Muokkeitten hallinta</string>
