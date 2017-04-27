@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources><string name="CO.Advanced_Defence.Title">Advanced Defence</string>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Advanced Defence</string>
 <string name="CO.Advanced_Defence.00.Title">Advanced Defence</string>
 <string name="CO.Advanced_Defence.01.Paragraph">We have successfully designed a missile turrets and make further improvements to the energy turret. We will need to manufacture missiles and this will require a supply of fuel!</string>
 <string name="CO.Advanced_Logistics.Title">Advanced Logistics</string>
@@ -34,7 +35,7 @@
 <string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">We can now construct a basic ore smelter. This does not support any upgrades and is slower and less efficient than the regular smelter supplied with the outpost pod but it should help eliminate that bottleneck for now.</string>
 <string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">Most of the resources we have found near the surface are not well suited for constructing ore smelters, however scans have shown some small rock formations which may have the properties required.</string>
 <string name="CO.Basic_Mining_Upgrades_I.05.Header">Forced Induction</string>
-<string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Forced induction modules can be placed on top of regular smelters to improve the smelting rate at the cost of more power. The basic smelter doesn&apos;t support these.</string>
+<string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Forced induction modules can be placed on top of regular smelters to improve the smelting rate at the cost of more power. The basic smelter doesn't support these.</string>
 <string name="CO.Basic_Mining_Upgrades_I.07.Header">Drill Motors</string>
 <string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Drill motors can be inserted into an ore extractor to improve their extraction speed at the cost of more power.</string>
 <string name="CO.Basic_Mining_Upgrades_II.Title">Basic Miner Upgrades II</string>
@@ -42,17 +43,17 @@
 <string name="CO.Basic_Mining_Upgrades_II.01.Paragraph">Further improvements for our ore extractors and smelters are now available.</string>
 <string name="CO.Black_Box_Data.Title">Black Box Data</string>
 <string name="CO.Black_Box_Data.00.Title">Black Box Data</string>
-<string name="CO.Black_Box_Data.01.Paragraph">A thorough analysis of the black box data recorded by your suit has now been completed. It confirms your visual analysis that a foreign object, believed to be a meteor, hit the station as you were preparing to dock. The resulting explosion damaged your ship&apos;s manoeuvring thrusters causing a crash landing on this alien plant. No other survivors have been detected at this time.</string>
+<string name="CO.Black_Box_Data.01.Paragraph">A thorough analysis of the black box data recorded by your suit has now been completed. It confirms your visual analysis that a foreign object, believed to be a meteor, hit the station as you were preparing to dock. The resulting explosion damaged your ship's manoeuvring thrusters causing a crash landing on this alien plant. No other survivors have been detected at this time.</string>
 <string name="CO.Black_Box_Data.02.Paragraph">It is not known why the meteor remained undetected by the stations long range scanners, possible causes include a system fault or sabotage.</string>
-<string name="CO.Black_Box_Data.03.Paragraph">In a fortunate turn of events an outpost construction pod survived the explosion and locked on to your ship&apos;s distress signal. It has landed next to the crash site. It is a standard Vortox X103 MK V pod containing a Central Power Hub surrounded by an Ore Smelter, Manufacturing Plant and Research Station. It has also come equipped with an Autonomous Robotic Defense System which should help us to survive any early attacks should we find any hostile life on this planet.</string>
+<string name="CO.Black_Box_Data.03.Paragraph">In a fortunate turn of events an outpost construction pod survived the explosion and locked on to your ship's distress signal. It has landed next to the crash site. It is a standard Vortox X103 MK V pod containing a Central Power Hub surrounded by an Ore Smelter, Manufacturing Plant and Research Station. It has also come equipped with an Autonomous Robotic Defense System which should help us to survive any early attacks should we find any hostile life on this planet.</string>
 <string name="CO.Frozen_Factory.Title">The Frozen Factory!</string>
 <string name="CO.Frozen_Factory.00.Title">Local Life Forms</string>
-<string name="CO.Frozen_Factory.01.Paragraph">TNow this research is completed, we can progress onto build the Cold Cavern Climate Control Centre (CCCCC or C5 for short!). We&apos;ll need to build this machine in the Cold Cavern, feed it power, and then it should just simply, slowly, convert the cavern into a wonderful balmy area, where we can setup properly and await rescue.</string>
-<string name="CO.Frozen_Factory.02.Paragraph">This new machine is significantly more advanced (and fragile!) than the old CPH - we should be able to design, research and build much larger, faster and more complicated mining and resource machines. First of all, we&apos;re going to need some more advanced materials, and for this, we&apos;ll need a special machine to deal with the super-hardened ores.</string>
+<string name="CO.Frozen_Factory.01.Paragraph">TNow this research is completed, we can progress onto build the Cold Cavern Climate Control Centre (CCCCC or C5 for short!). We\'ll need to build this machine in the Cold Cavern, feed it power, and then it should just simply, slowly, convert the cavern into a wonderful balmy area, where we can setup properly and await rescue.</string>
+<string name="CO.Frozen_Factory.02.Paragraph">This new machine is significantly more advanced (and fragile!) than the old CPH - we should be able to design, research and build much larger, faster and more complicated mining and resource machines. First of all, we're going to need some more advanced materials, and for this, we'll need a special machine to deal with the super-hardened ores.</string>
 <string name="CO.Frozen_Factory.03.Paragraph">If we construct the Hard Rock Grinder on a suitable 3x3 piece of Chromium and Molybdenum, we should be able to construct a new type of drill. Nano-disintegrators will be ideal for making the flat surface needed.</string>
 <string name="CO.Improved_Ore_Scanning.Title">Improved Ore Scanning</string>
 <string name="CO.Improved_Ore_Scanning.00.Title">Improved Ore Scanning</string>
-<string name="CO.Improved_Ore_Scanning.01.Paragraph">We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit&apos;s self crafting capability (C).</string>
+<string name="CO.Improved_Ore_Scanning.01.Paragraph">We have successfully upgraded the ore scanner to support filtering. To do this create a blank ore ping at the manufacturing plant then convert it into the required ore ping filter using your suit's self crafting capability (C).</string>
 <string name="CO.Improved_Ore_Scanning.02.Paragraph">Place the ore ping filter into your hotbar, select it, then activate (LMB). This will feed it into the ore scanner and a filtered ping will be dispatched by the ore scanner. The filter is consumed.</string>
 <string name="CO.Intermediate_Miner_Upgrades_I.Title">Intermediate Miner Upgrades I</string>
 <string name="CO.Intermediate_Miner_Upgrades_I.00.Title">Intermediate Miner Upgrades I</string>
@@ -73,7 +74,7 @@
 <string name="CO.Power_Grid.05.Paragraph">Place next to a power generator or battery to transmit power up to 64m to a battery, power comsumer or another Laser Energy Transmitter. We can use this to send power to our deeper mining operations.</string>
 <string name="CO.Suit_Upgrading.Title">Suit Upgrading</string>
 <string name="CO.Suit_Upgrading.00.Title">Suit Upgrading</string>
-<string name="CO.Suit_Upgrading.01.Paragraph">With some minor adjustments, it should be possible to produce suit upgrades from basic machinery design, miniaturised to be wearable. The most obvious upgrades are a better solar cell and cold insulation to operate at higher efficiency on this hostile planet. You&apos;re going to need to use a Hydrojet Cutter upgrade on your Manufacturing Plant for this!</string>
+<string name="CO.Suit_Upgrading.01.Paragraph">With some minor adjustments, it should be possible to produce suit upgrades from basic machinery design, miniaturised to be wearable. The most obvious upgrades are a better solar cell and cold insulation to operate at higher efficiency on this hostile planet. You're going to need to use a Hydrojet Cutter upgrade on your Manufacturing Plant for this!</string>
 <string name="CO.Suit_Upgrading.02.Paragraph">To use a suit upgrade simply craft one and keep it in your inventory.</string>
 <string name="CO.Ultimate_Power_Grid.Title">Ultimate Power Grid</string>
 <string name="CO.Ultimate_Power_Grid.00.Title">Ultimate Power Grid</string>
