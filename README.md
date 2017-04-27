@@ -1,28 +1,32 @@
 # Fortress-Craft-Evolved-Translation
-One Project more who is trying to translate FC:E to another Language this time German :-)
+This is a translation project for the game FortressCraft Evolved made to its goal to manage all active translations in one project and in one system.
+At the moment we get the master-language-file from the developer and change it manualy to a valid Android-xml-translation format.
+The handbook language-files are generated with the tool [fcHelper](https://github.com/Fjolnir-Dvorak/fcHelper).
 
-Da dieses Spiel sich immer wieder verändert und bis jetzt (Meines Wissens) noch niemand eine übersetzung beendet hat, möchte ich dies umsetzen. 
-Mit zusätzlicher Hilfe ginge das ganze natürlich schneller. Wer interesse hat, kann sich bei mir melden oder einfach einen Fork erstellen und so die Dateien übersetzen. 
+For translation we are using a platform called [weblate](https://github.com/WeblateOrg/weblate), which is hosted privately.
+To join the translation please contact us at [Discord FortressCraft#translation](https://discord.gg/EHbmn5r).
 
-Status:
-In Progress
-
-Originale sind von Contentbuild ID 1540042 (Patch 15/Stablebuild) (Mi 28.12.16)
-
-Installation: Die Dateien im German ordner in das Installationsverzeichniss von FCE rein kopieren wo auch die restlichen Dateien sind. Es hat bereits je ein Ordern mit "Data" und "Helpbook". Die Begriffe.txt muss nicht beachtet werden da diese lediglich ein paar begriffe beinhaltet um überall die selben Begriffe zu nutzen.
-
-
-Direkt Kontakt: 
-streupfeffer@gmx.ch
-
-Teammitglieder:
-- Zebra
-- Kamaling, Thomas "Hador" Scheer
-- DarkNova
-- Scabank
-- Sedel
+German Team:
+- [Zebra](https://github.com/zebra1993)
+- [Kamaling, Thomas "Hador" Scheer](https://github.com/Kamaling)
+- [DarkNova](https://github.com/xXDarkNovaXx)
+- [Scabank](https://github.com/Scabank)
+- [Sedel](https://github.com/Sedel)
 - Sir Failalot/Lars
-- CDJM
-- Fjolnir_Dvorak
+- [CDJM](https://github.com/cdjm)
+- [Fjolnir-Dvorak](https://github.com/Fjolnir-Dvorak)
 
-Vielen Dank an alle schon mal im Voraus!
+Finnish Team:
+- [Shalkka](https://github.com/Shalkka)
+
+Frensh Team:
+- Sapartan
+
+Dutch Team:
+- [minestarnl](https://github.com/minestarnl)
+
+---
+
+The Weblate installation is managed and administrated by:
+- [CDJM](https://github.com/cdjm)
+- [Fjolnir-Dvorak](https://github.com/Fjolnir-Dvorak)
