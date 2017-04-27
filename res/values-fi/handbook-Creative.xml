@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><resources><string name="CR.01Welcome.Title">Aloitusopas</string>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.Title">Aloitusopas</string>
 <string name="CR.01Welcome.00.Title">Tervetuloa FortressCraft Evolved:iin</string>
 <string name="CR.01Welcome.01.Header">Luova muoto</string>
 <string name="CR.01Welcome.02.Paragraph">Tervetuloa luovaan muotoomme! Ohjaimet ovat alla, työkaluoppaat ovat seuraavilla sivuilla.</string>
 <string name="CR.01Welcome.03.Header">Ohjaimet</string>
 <string name="CR.01Welcome.04.Left">W,A,S,D: Liikkuminen
 Välilyönti: Hyppy
-Space x 2: Rakettireppu moodi päälle
-    Q: Lennä alas
-    Shift: Nopeutus
-    Laskeudu kytkeäksesi pois päältä
+Välilyönti x 2: Rakettireppu moodi päälle
+ Q: Lennä alas
+ Shift: Nopeutus
+ Laskeudu kytkeäksesi pois päältä
 Esc: Taukovalikko
 H: Apuruutu</string>
 <string name="CR.01Welcome.05.Right">Z: Lähennä
@@ -16,90 +17,90 @@ X: Rakennuspyssy
 C: Sääsauva
 N: Maalipyssy
 F10: Mene superrakennus moodiin
-F11: Mene Leikkaa/Liimaa moodiin
+F11: Mene leikkaa/liimaa moodiin
 =: Palikan valintaruutu
 F1-F7: Valitse pikapalkin välilehti
 1-10: Valitse pikapalkin kolo</string>
 <string name="CR.01Welcome.06.Paragraph">Vasen hiiri: Rakenna/Ensisijainen työkalun toiminto
 Oikea hiiri: Poista/Vaihtoehtoinen työkalun toiminto
 Keskihiiri: Näytteistä korostettu palikka
-Hiirenrulla Wheel: Seuraava/Edellinen palikka tai kierrätä työkalun toimintoa.
+Hiirenrulla: Seuraava/Edellinen palikka tai kierrätä työkalun toimintoa.
 CTRL + vasen hiiri: Rakenna-tänne
 CTRL + oikea hiiri: Superkaivuu</string>
 <string name="CR.01Welcome.07.Title">Luovat rakennuskalut</string>
 <string name="CR.01Welcome.08.Paragraph">FortressCraft Evolved:ssa on paljon voimallisia työkaluja luovalle rakentamiselle. Alla lyhyesti kuvailemme jokaisen työkalun ja tulevaisuudessa sisältää linkin tietyn työkalun oppaaseen.</string>
 <string name="CR.01Welcome.09.Header">Rakennnuspyssy</string>
-<string name="CR.01Welcome.10.Paragraph">Käytettäessä rakennuspyssyä (valitse painamalla &apos;X&apos;), Vasen hiiren painike rakentaa valitun palikan ja Oikea hiiren nappi poistaa. SInulla on pitkä rakennuskantama joten voit rakentaa palikoita jopa 64 metrin päähän.</string>
+<string name="CR.01Welcome.10.Paragraph">Käytettäessä rakennuspyssyä (valitse painamalla \'X\'), Vasen hiiren painike rakentaa valitun palikan ja Oikea hiiren nappi poistaa. Sinulla on pitkä rakennuskantama joten voit rakentaa palikoita jopa 64 metrin päähän.</string>
 <string name="CR.01Welcome.11.Header">Superkaivuu</string>
-<string name="CR.01Welcome.12.Paragraph">Pitämällä CTRL kun kaivat käyttää Superkaivuu moodia. Tämä lisää merkittävästi kaivuunopeutta mikä on hyvä nopeaan alueen raivaukseen. Huomioi mihin tähtäät sillä on helppoa kaivaa omaa työtä.</string>
+<string name="CR.01Welcome.12.Paragraph">Pitämällä CTRL kun kaivat käyttät Superkaivuu moodia. Tämä lisää merkittävästi kaivuunopeutta mikä on hyvä nopeaan alueen raivaukseen. Huomioi mihin tähtäät sillä on helppoa kaivaa omaa työtä.</string>
 <string name="CR.01Welcome.13.Header">Rakenna-tänne</string>
-<string name="CR.01Welcome.14.Paragraph">Pitämällä CTRL kun rakennat käytää Tänne-rakentamista. Valittua palikaa rakennetaan valitulta tahkolta takaisin kohti paikaasi suorassa linjassa.</string>
+<string name="CR.01Welcome.14.Paragraph">Pitämällä CTRL kun rakennat käytät tänne-rakentamista. Valittua palikkaa rakennetaan valitulta tahkolta takaisin kohti paikaasi suorassa linjassa.</string>
 <string name="CR.01Welcome.15.Header">Työpaja</string>
 <string name="CR.01Welcome.16.Paragraph">Työpaja on kaikkein voimallisin luova työkalu FortressCraft Evolved:n arsenaalissa yksityiskohtaisten luomusten tekemiseen. Käyttämällä sitä voit suunnitella omat palikkasi rakentamalla laajemman mallikappaleen joka kutistetaan yhden palikan kokoiseksi.
-Työpajoja voi rakentaa minne tahansa maailmaan. Tehdäksesi sellaisen aloitat avaamalla Palikanvalinta paneelin  (&apos;paina &apos;=&apos;&apos;) ja valitsemalla Työpajansijoituspalikan:</string>
-<string name="CR.01Welcome.17.Paragraph">Sitten valitsen paikan johon rakentaa työpaja-. Voidaksesi määritellä työpajan tarvitsee sinun asetta vain 2 (kaksi) Työpajansijoituspalikkaa. Sijoitat ne niin että ne ovat vastakkaisilla kulmilla lattiassa mihin haluat työpajan tulevan. Yksinkertaisilla ohjeilla:</string>
-<string name="CR.01Welcome.18.Paragraph">1. Valitse tasainen alue. Aseta ewnsimmäinen työpajansijoituspalikka.</string>
-<string name="CR.01Welcome.19.Paragraph">2. Siitten mene kulmittain mihin tahansa suuntaan pysyen samalla tasolla.</string>
+Työpajoja voi rakentaa minne tahansa maailmaan. Tehdäksesi sellaisen aloitat avaamalla palikanvalinta paneelin (\'paina \'=\'\') ja valitsemalla työpajansijoituspalikan:</string>
+<string name="CR.01Welcome.17.Paragraph">Sitten valitset paikan johon rakentaa työpaja. Voidaksesi määritellä työpajan tarvitsee sinun asetta vain 2 (kaksi) työpajansijoituspalikkaa. Sijoitat ne niin että ne ovat vastakkaisilla kulmilla lattiassa mihin haluat työpajan tulevan. Yksinkertaisilla ohjeilla:</string>
+<string name="CR.01Welcome.18.Paragraph">1. Valitse tasainen alue. Aseta ensimmäinen työpajansijoituspalikka.</string>
+<string name="CR.01Welcome.19.Paragraph">2. Sitten mene kulmittain mihin tahansa suuntaan pysyen samalla tasolla.</string>
 <string name="CR.01Welcome.20.Paragraph">3. Aseta toinen palikka mihin haluat työpajan toisen kulman tulevan.</string>
-<string name="CR.01Welcome.21.Paragraph">4. Jos kaksi palikaa ovat viistottain ja 7 palikan etäällä toisistaan työpaja tehdään niiden välille käyttäen vahvistettua kiveä ja vahvistettua puuta.</string>
-<string name="CR.01Welcome.22.Paragraph">Työpajoja voi tehdä eri kokoisina alkaen 2x2 (kaksi palikka suorasi viistottain) jopa 8x8 kokoon (6 tyhjää palikkaa ensimmäisen ja toisen palikan välissä).</string>
-<string name="CR.01Welcome.23.Header">Yksityiskohta palikan luonti työpajassa.</string>
-<string name="CR.01Welcome.24.Paragraph">Kun olet rakentanut ensimmäisen työpajasi mene siihen aloittaaksesi ensimmäisen yhksityiskohtapalasi luonnin. Kun olet työpajassa kaksi asiaa tapahtuu: Työpajan ulkoreuna hohtaa säihkehtivillä hiukkasilla ja työpajakäyttöliittymä ilmestyy.</string>
+<string name="CR.01Welcome.21.Paragraph">4. Jos kaksi palikkaa ovat viistottain ja 7 palikan etäällä toisistaan työpaja tehdään niiden välille käyttäen vahvistettua kiveä ja vahvistettua puuta.</string>
+<string name="CR.01Welcome.22.Paragraph">Työpajoja voi tehdä eri kokoisina alkaen 2x2 (kaksi palikka suorasti viistottain) jopa 8x8 kokoon (6 tyhjää palikkaa ensimmäisen ja toisen palikan välissä).</string>
+<string name="CR.01Welcome.23.Header">Yksityiskohtapalikan luonti työpajassa.</string>
+<string name="CR.01Welcome.24.Paragraph">Kun olet rakentanut ensimmäisen työpajasi mene siihen aloittaaksesi ensimmäisen yksityiskohtapalasi luonnin. Kun olet työpajassa kaksi asiaa tapahtuu: Työpajan ulkoreuna hohtaa säihkehtivillä hiukkasilla ja työpajakäyttöliittymä ilmestyy.</string>
 <string name="CR.01Welcome.25.Paragraph">Tiettyjä näppäimiä käytetään työpajan toimintojen valitsemiseen:
-Y: Aloita uusi suunnittelu
+Y: Aloita uusi sommitelma
 U: Käytä nykyistä (ei vielä toteutettu)
 I: Näytä yksityiskohtaikkuna
 O: Näytä käytösikkuna (nykyisellään pois päältä)
 [: Edellinen suunnitelma
 ]: Seuraava suunnitelma</string>
-<string name="CR.01Welcome.26.Paragraph">Kun olet mennyt uuteen työpajaan, uusi suunnittelu on automaattisesti aloitettu joten &apos;Y&apos;:n painaminen tekee vasta tehtyäsi ensimmäisen suunnitelmasi jotain.</string>
-<string name="CR.01Welcome.27.Paragraph">Suunnitellaksesi ensimmäisen yksityiskohtapalikan yksinkertaises ala rakentamaan korostetulle työpaja alueelle. Vahvistetusta puusta tehty seinä on palikkasi etureuna. Voit käyttää kaikkia palikoita mitä haluat suunitelmasi rakentamisessa, mutta palikat joilla on malli eivät näy yksityiskohtapalikassa. Maalatut palikat pysyvät maalattuina.</string>
-<string name="CR.01Welcome.28.Paragraph">Kun olet tyytyväinen suunnitelmaasi poistu työpajasta tallentaaksesi sen ja luodaksesi yksityiskohta palikan jolla rakentaa. Valitaksesi sen avaa Palikanvalintaruutu (&apos;=&apos;) ja valitse uusi suunitelma pikapalkki koloon. Voit nopeasti löytää kaikki yksityiskohtapalikka suunitelmasi suodattamalla  &apos;yksityiskohtapalikka&apos; suodatinlistasta. Voit nyt aloittaa uuden suunnitelman työpajassa painamalla &apos;Y&apos; tai rakentamalla uuden työpajan. Maailmassa voi olla korkeintaan 16384 yksityiskohtapalikkasuunnitelmaa!</string>
+<string name="CR.01Welcome.26.Paragraph">Kun olet mennyt uuteen työpajaan, uusi suunnittelu on automaattisesti aloitettu joten \'Y\':n painaminen tekee jotain vasta tehtyäsi ensimmäisen sommitelmasi.</string>
+<string name="CR.01Welcome.27.Paragraph">Suunnitellaksesi ensimmäisen yksityiskohtapalikan yksinkertaisesti ala rakentamaan korostetulle työpajaalueelle. Vahvistetusta puusta tehty seinä on palikkasi etureuna. Voit käyttää kaikkia palikoita mitä haluat suunnitelmasi rakentamisessa, mutta palikat joilla on malli eivät näy yksityiskohtapalikassa. Maalatut palikat pysyvät maalattuina.</string>
+<string name="CR.01Welcome.28.Paragraph">Kun olet tyytyväinen sommitelmaasi poistu työpajasta tallentaaksesi sen ja luodaksesi yksityiskohtapalikan jolla rakentaa. Valitaksesi sen avaa palikanvalintaruutu (\'=\') ja valitse uusi sommitelma pikapalkki koloon. Voit nopeasti löytää kaikki yksityiskohtapalikkasommitelmasi suodattamalla \'yksityiskohtapalikka\' suodatinlistasta. Voit nyt aloittaa uuden suunnitelman työpajassa painamalla \'Y\' tai rakentamalla uuden työpajan. Maailmassa voi olla korkeintaan 16384 yksityiskohtapalikkasommitelmatyyppiä!</string>
 <string name="CR.01Welcome.29.Header">Yksityiskohtapalikan asettaminen</string>
-<string name="CR.01Welcome.30.Paragraph">Asettaaksesi yksityiskohtapalikan rakenna se kuten rakentaisit minkä tahansa muun palikan. Suunitelma tarttu tahkoon jonka olet valinnut ja pyöritetään nenäkkäin kanssasi. Tämä mahdollistaa yksityikohtapalikoiden asettamisen mihin tahansa asentoon kuin haluat.</string>
-<string name="CR.01Welcome.31.Paragraph">Jos käytät tuhansia yksityiskohtapalikkaa samalla alueella huomaat perkittävän suorituskyvyn laskun. Tämän johtuu kaikista yksityiskohdista jotka grafiikkakorttisi täytyy piirtää. Helpottaaksesi tätä käytä pienemmän tarkkuuden yksityiskohtapalikoita ja käytä normaaleja palikoita missä voit.</string>
+<string name="CR.01Welcome.30.Paragraph">Asettaaksesi yksityiskohtapalikan rakenna se kuten rakentaisit minkä tahansa muunkin palikan. Sommmitelma tarttuu tahkoon jonka olet valinnut ja pyöritetään nenäkkäin kanssasi. Tämä mahdollistaa yksityikohtapalikoiden asettamisen mihin tahansa haluamaasi asentoon.</string>
+<string name="CR.01Welcome.31.Paragraph">Jos käytät tuhansia yksityiskohtapalikoita samalla alueella huomaat merkittävän suorituskyvyn laskun. Tämän johtuu kaikista yksityiskohdista jotka grafiikkakorttisi täytyy piirtää. Helpottaaksesi tätä käytä pienemmän tarkkuuden yksityiskohtapalikoita ja käytä normaaleja palikoita missä voit.</string>
 <string name="CR.01Welcome.32.Header">Superrakennus</string>
-<string name="CR.01Welcome.33.Paragraph">Painamalla F8 avaat Superrakennuspaneelin ruudun oikealle laidalle. open the Super Build panel on the right side of your screen</string>
-<string name="CR.01Welcome.34.Paragraph">Tämä mahdollistaa nopean yksinkertaisten goemetristen muotujen rakentamisen käyttäen palikkaa jonka olet rakentanut. Käyttääksesi Superrakennusta ensin valitse muoto käyttämällä F9. F10:llä voit valita rakennetaanko täytetty vai ontto muoto. F11 kytket rakennustavan. Välitön antaa nopeimman lopputuloksen mutta voi kohtaa reikiin hyvin suurissa muodoissa. &apos;End&apos; kytkee ankkuroidaanko muoto keskelle vai pohjan keskelle.</string>
+<string name="CR.01Welcome.33.Paragraph">Painamalla F8 avaat superrakennuspaneelin ruudun oikealle laidalle.</string>
+<string name="CR.01Welcome.34.Paragraph">Tämä mahdollistaa nopean yksinkertaisten goemetristen muotujen rakentamisen käyttäen palikkaa jonka olet valinnut. Käyttääksesi superrakennusta ensin valitse muoto käyttämällä F9. F10:llä voit valita rakennetaanko täytetty vai ontto muoto. F11:llä kytket rakennustavan. Välitön antaa nopeimman lopputuloksen mutta voi johtaa reikiin hyvin suurissa muodoissa. \'End\' kytkee ankkuroidaanko muoto keskelle vai pohjan keskelle.</string>
 <string name="CR.01Welcome.35.Paragraph">X, Y ja Z mahdollistavat muodon koon muuttamisen. Painamalla niitä lisäät sitä ulottuvuutta yhdellä. Pidä shift ja paina X, Y tai Z vähentääksesi yhdellä. Voit lisäksi pitää ALT vaihtaaksesi kokoa 16 kerrallaan.</string>
-<string name="CR.01Welcome.36.Paragraph">Kun olet valinnut muodon, koon ja paikan, paina &apos;Ins&apos;
-rakentaaksesi muodon tai &apos;Del&apos; kaivaaksesi sen. Sinun täytyy sitten valita muyoto uudestaan kaivaaksesi tai rakentaaksesi uudelleen.</string>
+<string name="CR.01Welcome.36.Paragraph">Kun olet valinnut muodon, koon ja paikan, paina \'Ins\'
+rakentaaksesi muodon tai \'Del\' kaivaaksesi sen. Sinun täytyy sitten valita muoto uudestaan kaivaaksesi tai rakentaaksesi uudelleen.</string>
 <string name="CR.01Welcome.37.Header">Kopioi-liimaa</string>
-<string name="CR.01Welcome.38.Paragraph">Kopioi-liimaa työkalu mahdollistaa nopeasti kopioida osan sommitelmasta jonka olet tehnyt pyörittää tai kääntää sen ympäri ja liimata se takaisin maailmaan mihin ikinä haluatkaan. Avaa kopioi-liimaapaneeli painamalla F11.
-Kopio-liimapaneeli on nykyään TYÖNALLA, siksi se ei näytä kuten muu käyttöliittymä.</string>
+<string name="CR.01Welcome.38.Paragraph">Kopioi-liimaa työkalu mahdollistaa nopeasti kopioida osan sommitelmasta jonka olet tehnyt, pyörittää tai kääntää sen ympäri ja liimata se takaisin maailmaan mihin ikinä haluatkaan. Avaa kopioi-liimaapaneeli painamalla F11.
+Kopio-liimapaneeli on nykyään TYÖNALLA, siksi se ei näytä siltä miltä muu käyttöliittymä.</string>
 <string name="CR.01Welcome.39.Header">Kopio-liimaa ohjaimet</string>
-<string name="CR.01Welcome.40.Paragraph">Paina &apos;Ins&apos; asettaaksesi ensimmäisen suorasärmiön kulman jonka haluat kopioida.</string>
-<string name="CR.01Welcome.41.Paragraph">Paina &apos;Del&apos; asettaksesi toisen suorasärmiön kulman jonka haluat kopioda. Nyt kopioitava alue korostetaan.</string>
-<string name="CR.01Welcome.42.Paragraph">Kun alue on valittu voit painaa &apos;End&apos; ottaaksesi siitä kiinni. Tässä kohtaa, kopiodun alueen esikatselu näytetään palikanvalinnan päällä.</string>
-<string name="CR.01Welcome.43.Paragraph">Alue kiinnitettynä on kolme asiaa voit tehdä kolme asiaa vaikuttaaksesi miten alue liimataan: Pyöritä R:llä, liikuta ankkuripistettä Shift:llä käännä CTRL:lla.</string>
-<string name="CR.01Welcome.44.Paragraph">&apos;R&apos; pyörittää aluetta 90 astetta myötäpäivään.</string>
-<string name="CR.01Welcome.45.Paragraph">Painamall Shift kerran mahdollistaa ankkuripisteen siirtämisen X, Y ja Z napeilla. Painamalla SHIFT + X, Y or Z vähennät ankkuripaikkaa</string>
-<string name="CR.01Welcome.46.Paragraph">Painamalla CTRL kerran mahdollistuu sommittelman kääntäminen X, Y ja Z napeilla. Jokainen nappi kääntää sommmitelman sillä akselilla.</string>
-<string name="CR.01Welcome.47.Paragraph">Ja lopuksi painammalla &apos;Home&apos; liimaat alueen valittuun paikkaan.</string>
+<string name="CR.01Welcome.40.Paragraph">Paina 'Ins' asettaaksesi ensimmäisen suorasärmiön kulman jonka haluat kopioida.</string>
+<string name="CR.01Welcome.41.Paragraph">Paina 'Del' asettaksesi toisen suorasärmiön kulman jonka haluat kopioda. Nyt kopioitava alue korostetaan.</string>
+<string name="CR.01Welcome.42.Paragraph">Kun alue on valittu voit painaa 'End' ottaaksesi siitä kiinni. Tässä kohtaa, kopiodun alueen esikatselu näytetään palikanvalinnan päällä.</string>
+<string name="CR.01Welcome.43.Paragraph">Alue kiinnitettynä on kolme asiaa joita voit tehdä vaikuttaaksesi miten alue liimataan: Pyöritä R:llä, liikuta ankkuripistettä Shift:llä, käännä CTRL:lla.</string>
+<string name="CR.01Welcome.44.Paragraph">'R' pyörittää aluetta 90 astetta myötäpäivään.</string>
+<string name="CR.01Welcome.45.Paragraph">Painamalla Shift kerran mahdollistat ankkuripisteen siirtämisen X, Y ja Z napeilla. Painamalla SHIFT + X, Y or Z vähennät ankkuripaikkaa</string>
+<string name="CR.01Welcome.46.Paragraph">Painamalla CTRL kerran mahdollistat sommittelman kääntämisen X, Y ja Z napeilla. Jokainen nappi kääntää sommmitelman sillä akselilla.</string>
+<string name="CR.01Welcome.47.Paragraph">Ja lopuksi painammalla 'Home' liimaat alueen valittuun paikkaan.</string>
 <string name="CR.01Welcome.48.Header">Kopio-liimaa suunnitelmien tallennus</string>
-<string name="CR.01Welcome.49.Paragraph">On myös mahdollista taltioida suunnitelmia myöhempää käyttöä varten käyttämällä &apos;&lt;&apos; näppäintä ja ladata niitä käyttämällä &apos;?&apos;. Voit vaihtaa tallennettuja suunnitelmia muiden ihmisten kanssa. Mutta tämä ominaisuus on vielä kehityksessä joten emme voi taata että se toimii.</string>
+<string name="CR.01Welcome.49.Paragraph">On myös mahdollista taltioida suunnitelmia myöhempää käyttöä varten käyttämällä '&lt;' näppäintä ja ladata niitä käyttämällä '?'. Voit vaihtaa tallennettuja suunnitelmia muiden ihmisten kanssa. Mutta tämä ominaisuus on vielä kehityksessä joten emme voi taata että se toimii.</string>
 <string name="CR.01Welcome.50.Header">Maalipyssy</string>
-<string name="CR.01Welcome.51.Paragraph">Voit valita maalipyssyn painamalla &apos;N&apos;. Se mahdollistaa tiettyjen materiaalien maalamisen halutun väriseksi. Maalipyssy valittuna, VHP maalaa kohdistetun palikan, OHP avaa värivalintaikkunan ja KHP 
+<string name="CR.01Welcome.51.Paragraph">Voit valita maalipyssyn painamalla 'N'. Se mahdollistaa tiettyjen materiaalien maalamisen halutun väriseksi. Maalipyssy valittuna, VHP maalaa kohdistetun palikan, OHP avaa värivalintaikkunan ja KHP 
 näytteistää värin valitusta palikasta jos valittua palikaa voi maalata. Maalipyssy näyttää värin joka on valittu pyssyssä itsessään.</string>
 <string name="CR.01Welcome.52.Header">Maalattavien materiaalien löytäminen</string>
-<string name="CR.01Welcome.53.Paragraph">Vain tietyt palikat voidaan maalata. Löytääsesi nopeasti mitkä avaa palikanvalintaruutu (&apos;=&apos;) ja ruksita &apos;maalattava&apos; suodatin. Kaikki näytettävät palikat voidaan asettaa mailmaan ja maalata.</string>
+<string name="CR.01Welcome.53.Paragraph">Vain tietyt palikat voidaan maalata. Löytääsesi nopeasti mitkä avaa palikanvalintaruutu ('=') ja ruksita 'maalattava' suodatin. Kaikki näytettävät palikat voidaan asettaa mailmaan ja maalata.</string>
 <string name="CR.01Welcome.54.Header">Sääsauva</string>
-<string name="CR.01Welcome.55.Paragraph">Sääsauva mahdollistaa sään ja päivänvaiheen hallinnan ja heittää meteoreja ympäriinsä. Valitse se painamalla &apos;C&apos;. Kun menet maailmaan yksi titalstotiedoista näyttää kuinka monta meteoria FortressCraft Evolved:ssa on heitetty.</string>
+<string name="CR.01Welcome.55.Paragraph">Sääsauva mahdollistaa sään ja päivänvaiheen hallinnan ja heittää meteoreja ympäriinsä. Valitse se painamalla \'C\'. Kun menet maailmaan yksi tilastotiedoista näyttää kuinka monta meteoria FortressCraft Evolved:ssa on heitetty.</string>
 <string name="CR.01Welcome.56.Header">Sääsauva moodit</string>
 <string name="CR.01Welcome.57.Paragraph">eSun: Lopettaa sateen tai lumen ja pistää auringon paistamaan (tai kuun jos on yö)</string>
 <string name="CR.01Welcome.58.Paragraph">eLightning: Tekee raskaan myrskyn. VHN antaa salaman iskeä.</string>
 <string name="CR.01Welcome.59.Paragraph">eSnow: Luo lumisateen</string>
 <string name="CR.01Welcome.60.Paragraph">eRain: Luo sateen</string>
-<string name="CR.01Welcome.61.Paragraph">eDayNight: Kierrättä aikaa eteen tai taaksepäin nopeasti</string>
-<string name="CR.01Welcome.62.Paragraph">eMeteor: Kutsuu meteoreita. VHN kutsuu meteorin korkealta tailvaalta iskemään johonkin lähelläsi. OHN kutsuu meteosin sääsauvastasi tähdättynä valittuun palikkaan. Molemmilla toiminnoilla on pieni viive joten klikkausten ylenpalttinen painelu ei välttämättä tuota niin montaa meteoria kuin haluaisit :). Kun viskailet meteoreita varo avaruusasemia!</string>
-<string name="CR.02HowToPlaySurvival.Title">Kuinka pelata sinnittely muotoa?</string>
-<string name="CR.02HowToPlaySurvival.00.Title">Kuinka pelata sinnittely muotoa</string>
-<string name="CR.02HowToPlaySurvival.01.Paragraph">Tämä on luovan muodon peli. Aloittaksesi sinnitely maailman:</string>
-<string name="CR.02HowToPlaySurvival.02.Paragraph">Mene takaisin päävalikkoon. Mene maailmanvalintahouneeseen ja valitse tyhjä paikka (oikea nuoli tai klikkaa pöytiä). Pelimuotoilmaisimen vieressä on nuolia joita voit klikata vaihtaaksesi pelimuodon sinnittelyksi. Paina &apos;Luo maailma&apos; aloittaaksesi pelaamisen</string>
+<string name="CR.01Welcome.61.Paragraph">eDayNight: Kierrättää aikaa eteen tai taaksepäin nopeasti</string>
+<string name="CR.01Welcome.62.Paragraph">eMeteor: Kutsuu meteoreita. VHN kutsuu meteorin korkealta taivaalta iskemään johonkin lähelläsi. OHN kutsuu meteorin sääsauvastasi tähdättynä valittuun palikkaan. Molemmilla toiminnoilla on pieni viive joten klikkausten ylenpalttinen painelu ei välttämättä tuota niin montaa meteoria kuin haluaisit :). Kun viskailet meteoreita varo avaruusasemia!</string>
+<string name="CR.02HowToPlaySurvival.Title">Kuinka pelata sinnittelymuotoa?</string>
+<string name="CR.02HowToPlaySurvival.00.Title">Kuinka pelata sinnittelymuotoa</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">Tämä on luovan muodon peli. Aloittaksesi sinnitelymaailman:</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">Mene takaisin päävalikkoon. Mene maailmanvalintahouneeseen ja valitse tyhjä paikka (oikea nuoli tai klikkaa pöytiä). Pelimuotoilmaisimen vieressä on nuolia joita voit klikata vaihtaaksesi pelimuodon sinnittelyksi. Paina 'Luo maailma' aloittaaksesi pelaamisen</string>
 <string name="CR.02HowToPlaySurvival.03.Header">En voi valita pelimuotoa?</string>
-<string name="CR.02HowToPlaySurvival.04.Paragraph">Et voi vaihtaa olemassaolevan maailman pelimuotoa. valitse tyhjä paikka.</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">Et voi vaihtaa olemassaolevan maailman pelimuotoa. Valitse tyhjä paikka.</string>
 <string name="CR.02HowToPlaySurvival.05.Header">Kaikki maailmapaikkani ovat täynnä!</string>
-<string name="CR.02HowToPlaySurvival.06.Paragraph">Voit nollata maailman maailmanvalintahouneesta. Kaikki tähän maailmaan liittyvät tiedot poistetaan. Jos haluat varmuuskopioida maailmasi Windowsin uusimmalla versiolla ne löydetään seuravasta kansiosta: %AppData%\..\LocalLow\ProjectorGames\FortressCraft\Worlds.</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">Voit nollata maailman maailmanvalintahouneesta. Kaikki tähän maailmaan liittyvät tiedot poistetaan. Jos haluat varmuuskopioida maailmasi, Windowsin uusimmalla versiolla, ne löydetään seuravasta kansiosta: %AppData%.ocalLowrojectorGamesortressCraftorlds.</string>
 <string name="CR.02HowToPlaySurvival.07.Header">Se ei toimi!</string>
-<string name="CR.02HowToPlaySurvival.08.Paragraph">Jos sinulla on silti hankaluuksia aloittaa sinnittelymuoto, ole hyvä ja kirjoita viestin Steamin keskustelupalstalle.</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">Jos sinulla on silti hankaluuksia aloittaa sinnittelymuoto, ole hyvä ja kirjoita viesti Steamin keskustelupalstalle.</string>
 </resources>
