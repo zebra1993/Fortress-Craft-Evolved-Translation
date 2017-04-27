@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>aesthetics</Handle>
+
+	<Title>{{CO.Aesthetics.Title}}</Title>
+
+	<Icon>Hello_Kitty1</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{CO.Aesthetics.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Hello_Kitty1</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{CO.Aesthetics.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

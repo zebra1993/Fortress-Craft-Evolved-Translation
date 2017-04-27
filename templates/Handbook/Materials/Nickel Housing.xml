@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Nickel Housing</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Nickel_Housing.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Nickel Housing</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Nickel_Housing.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>ARTHER Upgrade Pack</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.ARTHER_Upgrade_Pack.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.ARTHER_Upgrade_Pack.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Titanium Plate</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Titanium_Plate.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Titanium Plate</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Titanium_Plate.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

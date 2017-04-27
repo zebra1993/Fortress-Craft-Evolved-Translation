@@ -1,0 +1,93 @@
+<Chapter>
+	<Handle>unknown materials</Handle>
+
+	<Title>{{SU.04UnknownMaterials.Title}}</Title>
+
+	<Icon>Unknown</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{SU.04UnknownMaterials.00.Title}}</Text>
+
+				</Title>
+
+				<Header>
+					<Text>{{SU.04UnknownMaterials.01.Header}}</Text>
+
+				</Header>
+
+				<Icon>
+					<Name>Unknown</Name>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{SU.04UnknownMaterials.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.04UnknownMaterials.03.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.04UnknownMaterials.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>{{SU.04UnknownMaterials.05.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.04UnknownMaterials.06.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.04UnknownMaterials.07.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{SU.04UnknownMaterials.08.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Icon>
+					<Name>Research Station</Name>
+
+				</Icon>
+
+				<Link>
+					<Target>
+						<Page>0</Page>
+
+						<Material>Research Station</Material>
+
+					</Target>
+
+					<Text>Research Station</Text>
+
+				</Link>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

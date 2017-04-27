@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Charged PCB</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Charged_PCB.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Charged PCB</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Charged_PCB.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Pristine Faceted Eye</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Pristine_Faceted_Eye.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>WaspEyePristine</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Pristine_Faceted_Eye.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

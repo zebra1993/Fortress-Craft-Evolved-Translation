@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Name>Titanium Bar</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Titanium_Bar.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Titanium Bar</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Icon>
+					<Name>Titanium Ore</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Titanium_Bar.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,60 @@
+<MaterialEntry>
+	<Name>Transport Pipe</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Transport_Pipe.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Transport Pipe</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Transport_Pipe.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{MA.Transport_Pipe.02.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Transport_Pipe.03.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Transport_Pipe.04.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Material>Conveyor Belt</Material>
+
+					</Target>
+
+					<Text>Conveyor Belt</Text>
+
+				</Link>
+
+				<Spacer/>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

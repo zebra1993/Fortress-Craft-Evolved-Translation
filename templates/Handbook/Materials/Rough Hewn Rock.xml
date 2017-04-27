@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Rough Hewn Rock</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Rough_Hewn_Rock.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Rough Hewn Rock</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Rough_Hewn_Rock.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Name>Hard Resin Detector</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.HardResinDetector.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Hard Resin Detector</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.HardResinDetector.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

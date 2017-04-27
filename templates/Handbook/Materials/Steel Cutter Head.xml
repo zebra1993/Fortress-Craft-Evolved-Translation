@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Steel Cutter Head</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Steel_Cutter_Head.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Steel Cutter Head</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Steel_Cutter_Head.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Steel_Cutter_Head.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Steel_Cutter_Head.03.Left}}</Left>
+
+					<Right>{{MA.Steel_Cutter_Head.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

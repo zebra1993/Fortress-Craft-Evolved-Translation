@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.Title">Starte Hilfe</string>
+<string name="CR.01Welcome.00.Title">Willkommen bei FortressCraft Evolved</string>
+<string name="CR.01Welcome.01.Header">Kreativ-Modus</string>
+<string name="CR.01Welcome.02.Paragraph">Willkommen im Kreativ-Modus! Einstellungen sind unten, Leitfaden für Werkzeuge befinden sich auf der nächsten Seite.</string>
+<string name="CR.01Welcome.03.Header">Einstellungen</string>
+<string name="CR.01Welcome.04.Left">W,A,S,D: Charakter bewegen
+Leertaste: Springen
+Leertaste x 2: Aktiviere Jetpack Modus
+ Q: nach unten fliegen
+ Shift: Schub
+ Landen zum deaktivieren
+Esc: Hauptmenü
+H: Hilfe</string>
+<string name="CR.01Welcome.05.Right">Z: Zoom
+X: Konstruktor
+C: Wetter-Stab
+N: Pinsel
+F10: Aktiviere den Super bau Modus
+F11: Aktiviere Kopieren/Einfügen Modus
+=: Block-Auswahl
+F1-F7: Wähle Schnellzugriffsleiste
+1-10: Tastenkürzel auswählen</string>
+<string name="CR.01Welcome.06.Paragraph">Linke Maustaste: Bauen/Primäre Gerätefunktion
+Rechte Maustaste: Löschen/Alternative Gerätefunktion
+Mittlere Maustaste: Aktuell angesehenen Block auswählen
+Mausrad: Nächsten Block auswählen oder durch die Gerätefunktionen scrollen
+STRG + Linke Maustaste: Bau-zu-mir-Funktion. Platziert Blöcke bis zur aktuellen Position des Charakters
+STRG + rechte Maustaste: Schnell abbauen</string>
+<string name="CR.01Welcome.07.Title">Kreativmodus Bauwerkzeuge</string>
+<string name="CR.01Welcome.08.Paragraph">In FortressCraft Evolved besitzt du mehrere mächtige Werkzeuge für kreatives Bauen, die im folgenden beschrieben werden. Wir werden in Zukunft Links zur genaueren Erklärung der Werkzeuge bereitstellen.</string>
+<string name="CR.01Welcome.09.Header">Konstruktor</string>
+<string name="CR.01Welcome.10.Paragraph">Beim Verwenden des Konstruktors (auswählen mit [X]) kannst du mit \"Bauen\" (Standard: [Linke Maustaste]) Blöcke platzieren, während \"Entfernen\" (Standard: [Rechte Maustaste]) die Blöcke wieder löscht. Du kannst mit der großen Reichweite vom Konstruktur bis zu 64 Blöcke entfernt etwas be-/abbauen.</string>
+<string name="CR.01Welcome.11.Header">Schnellabbau</string>
+<string name="CR.01Welcome.12.Paragraph">Halte STRG gedrückt, während du Blöcke abbaust, um den Schnellabbau zu aktivieren. Dies wird deine Abbaugeschwindigkeit sehr viel schneller machen, was gut ist für das ausheben von grösseren Flächen ist. Sei vorsichtig beim Schnellabbau, damit du nicht deine bereits fertige Arbeit aus Versehen zerstörst.</string>
+<string name="CR.01Welcome.13.Header">Baue-zu-mir-Funktion</string>
+<string name="CR.01Welcome.14.Paragraph">Halte STRG beim Bauen gedrückt, um eine Reihe Blöcke in deine Richtung zu bauen, ausgehend von der markierten Fläche.</string>
+<string name="CR.01Welcome.15.Header">Die Werkstatt</string>
+<string name="CR.01Welcome.16.Paragraph">Die Werkstatt ist ein mächtiges kreatives Werkzeug für die Gestaltung detaillierter Würfel. Du kannst deine eigenen Blöcke entwerfen, indem du großformatige Entwürfe baust und diese dann zur Größe eines Blockes schrumpfst. Die Werkstatt kann überall auf der Welt gebaut werden. Um die Werkstatt zu erstellen, öffne das Blockauswahlmenü (=) und wähle die Werkstatt aus:</string>
+<string name="CR.01Welcome.17.Paragraph">Platziere den Block in den gegenüberliegenden Ecken, wo du die Werkstatt haben möchtest. Schritt für Schritt Anleitung:</string>
+<string name="CR.01Welcome.18.Paragraph">1. Suche eine freie Fläche und platziere einen Werkstatt-Block.</string>
+<string name="CR.01Welcome.19.Paragraph">2. Bleibe auf der selben Höhe diagonal vom ersten Werkstatt-Block.</string>
+<string name="CR.01Welcome.20.Paragraph">3. Platziere den zweiten Werkstatt-Block um deine Werkstatt abzustecken.</string>
+<string name="CR.01Welcome.21.Paragraph">4. Sofern sich die beiden Blöcke auf derselben Höhe, diagonal zueinander und in einem maximalen Abstand von 7 Blöcken befinden, wird eine Werkstatt aus Verstärktem Stein und Holz errichtet</string>
+<string name="CR.01Welcome.22.Paragraph">Die Werkstatt kann in Größen zwischen 2x2 (Zwei Blöcke direkt diagonal nebeneinander)und 8x8 (Sechs leere Blöcke dazwischen) gebaut werden.</string>
+<string name="CR.01Welcome.23.Header">Erstellen eines Detail-Blocks in der Werkstatt</string>
+<string name="CR.01Welcome.24.Paragraph">Sobald du deine Werkstatt errichtet hast, kannst du beginnen einen Detail-Block zu entwerfen. Die Werkstatt wird, während du dich in dieser befindest, mittels leuchtenden Funken an der Außenkante hervorgehoben. Zudem erscheint ein Werkstatt-Overlay.</string>
+<string name="CR.01Welcome.25.Paragraph">Es gibt einige Tasten, mit denen Funktionen aus der Werkstatt ausgewählt werden können:
+Y: Beginne neues Design
+U: Nutze aktuelles Design (noch nicht implementiert)
+I: Zeige Detailfenster
+O: Zeige Verhaltensfenster (derzeit gesperrt)
+[: vorheriges Design
+]: Nächstes Design</string>
+<string name="CR.01Welcome.26.Paragraph">Beim Betreten einer neuen Werkstatt wird automatisch ein neues Design erstellt. \'Y\' muss nicht mehr zum initialisieren gedrückt werden nachdem das erste Design erstellt wurde.</string>
+<string name="CR.01Welcome.27.Paragraph">Um deinen ersten Detailblock zu erstellen, bauen ihn einfach in der markierten Zone. Die Wand, welche aus verstärktem Holz besteht wird die Frontseite von deinem Block sein. Du kannst alle Blöcke verwenden die du sonst auch verwenden würdest, jedoch Blöcke die ein Model haben werden nicht angezeigt. Gefärbte Blöcke werden mit ihrer Farbe abgespeichert.</string>
+<string name="CR.01Welcome.28.Paragraph">Wenn du zufrieden bist mit deinem Design, verlassen die Werkstatt und sie wird den Detailblock speichern um damit bauen zu können. Um den Block nun bauen zu können, öffne den Blockauswahl-Bildschirm (=) und wähle deinen Block aus und ziehe ihn in deine Schnellzugriffsleiste. Du kannst Detailblöcke schneller finden in den du Rechts den Filter \'Detail Block\' auswählst. Du kannst nun ein neues Design beginnen indem du ´Y` drückst oder indem du eine neue Werkstatt baust. Insgesammt kannst du bis zu 16.384 einzigartige Designs für Detailblocks haben!</string>
+<string name="CR.01Welcome.29.Header">Detailblöcke platzieren</string>
+<string name="CR.01Welcome.30.Paragraph">Um einen Detailblock zu platzieren, baue es wie du einen anderen Block baust. Das Design wird an das Gesicht, das du ausgewählt hast, anhängen und gedreht werden. So können Sie Detailblöcke in beliebiger Ausrichtung platzieren.</string>
+<string name="CR.01Welcome.31.Paragraph">Wenn Sie Tausende von Detailblöcken im selben Bereich verwenden, werden Sie signifikante Leistungsverluste feststellen. Dies ist, weil alle diese Details von Ihrer Grafikkarte gerendert werden müssen. Um dies zu lindern, verwenden Sie Detailblöcke von niedrigeren Auflösungen und verwenden Sie normale Blöcke, wo immer Sie können.</string>
+<string name="CR.01Welcome.32.Header">Super Konstruktor</string>
+<string name="CR.01Welcome.33.Paragraph">Durch Drücken von F8 wird das Super Bau Tafel auf der rechten Seite des Bildschirms geöffnet</string>
+<string name="CR.01Welcome.34.Paragraph">Dies ermöglicht es Ihnen, schnell einfache geometrische Formen mit jedem Block, den Sie ausgewählt haben, aufzubauen. Um den Super Konstruktor zu verwenden, wähle zuerst eine Form, um mit F9 zu bauen. Mit F10 kannst du wählen, ob es eine solide oder hohle Form bauen soll. Mit F11 schalten Sie den Bau-Modus um. Sofort erhalten Sie das schnellste Ergebnis, kann aber in einigen Löchern für sehr große Formen führen. End schaltet zwischen dem Anker der Form zentriert oder auf der unteren Mitte der Form.</string>
+<string name="CR.01Welcome.35.Paragraph">X, Y und Z erlauben es Ihnen, die Größe der Form zu ändern. Wenn Sie sie drücken, erhöht sich diese Dimension um 1. Halten Sie die Verschiebung und drücken Sie X, Y oder Z, um eins zu senken. Sie können zusätzlich ALT halten, um die Größe um 16 zu einer Zeit zu ändern.</string>
+<string name="CR.01Welcome.36.Paragraph">Sobald Sie eine Form, Größe und Standort gewählt haben, drücken Sie Ins, um die Form zu erstellen, oder Del, um es auszudrücken. Sie müssen dann eine Form wiederherstellen, um wieder zu graben oder zu bauen.</string>
+<string name="CR.01Welcome.37.Header">Kopieren Einfügen</string>
+<string name="CR.01Welcome.38.Paragraph">Mit dem Kopieren Einfügen-Tool können Sie schnell einen Teil eines Designs kopieren, den Sie gemacht haben, drehen oder umdrehen und ihn in die Welt einfügen wo Sie wollen. Öffnen Sie die Kopier/Einfügen Funktion durch Drücken von F11.
+Die Kopieren Einfügen Funktion ist derzeit UNTER KONSTRUKTION, weshalb es nicht wie der Rest der Schnittstelle aussieht.</string>
+<string name="CR.01Welcome.39.Header">Kopieren Einfügen Einstellungen</string>
+<string name="CR.01Welcome.40.Paragraph">Drücken Sie Ins, um die erste Ecke des rechteckigen Teils zu platzieren, den Sie kopieren möchten.</string>
+<string name="CR.01Welcome.41.Paragraph">Drücken Sie Del, um die zweite Ecke des rechteckigen Teils zu platzieren, den Sie kopieren möchten. Der zu kopierende Bereich wird nun hervorgehoben.</string>
+<string name="CR.01Welcome.42.Paragraph">Sobald ein Bereich ausgewählt wurde, kannst du Ende drücken, um ihn zu packen. An dieser Stelle wird eine Vorschau des kopierten Bereichs oben auf Ihrer Blockauswahl angezeigt.</string>
+<string name="CR.01Welcome.43.Paragraph">Wenn ein Bereich gepackt ist, gibt es drei Dinge die du tun kannst, um die Art und Weise, wie die Fläche eingefügt wird, zu ändern: Mit R drehen, Ankerpunkt mit Umschalt bewegen, mit STRG umdrehen.</string>
+<string name="CR.01Welcome.44.Paragraph">\'R\' dreht den Griff um 90 Grad im Uhrzeigersinn.</string>
+<string name="CR.01Welcome.45.Paragraph">Wenn Sie einmal gedrückt werden, können Sie den Ankerpunkt mit den Tasten X, Y und Z ändern. Durch Drücken von SHIFT + X, Y oder Z verringert sich die Ankerposition</string>
+<string name="CR.01Welcome.46.Paragraph">Drücken Sie einmal STRG, um das Design mit den Tasten X, Y und Z zu kippen. Jede Taste wird das Design entlang dieser Achse umdrehen.</string>
+<string name="CR.01Welcome.47.Paragraph">Schließlich wird das Drücken von Home den Bereich in die ausgewählte Position einfügen.</string>
+<string name="CR.01Welcome.48.Header">Kopieren Einfügen von Schaltplänen</string>
+<string name="CR.01Welcome.49.Paragraph">Es ist auch möglich, Schaltpläne für die spätere Verwendung mit der Taste \'&lt;\' zu speichern und mit \'?\' Zu laden. Sie können die gespeicherten Schaltpläne mit anderen Personen austauschen. Aber diese Funktion ist noch in der Entwicklung, so können wir dir nicht garantieren, dass es funktionieren wird.</string>
+<string name="CR.01Welcome.50.Header">Pinsel</string>
+<string name="CR.01Welcome.51.Paragraph">Sie können den Pinsel durch Drücken von \'N\' auswählen. Mit ihm kannst du bestimmte Materialien, die färbbar sind, in jeder beliebigen Farbe zu bemalen. Wenn der Pinsel ausgewählt ist, malt LMB den gezielten Block, RMB öffnet das Farbauswahlfenster und MMB tastet die Farbe aus dem ausgewählten Block ab, wenn der ausgewählte Block gemalt werden kann. Das Vorschaubild zeigt an, welche Farbe auf dem Pinsel selbst gewählt wird.</string>
+<string name="CR.01Welcome.52.Header">Finde färbbare Materialien</string>
+<string name="CR.01Welcome.53.Paragraph">Nur bestimmte Blöcke können angemalt werden. Um schnell zu finden welche, öffnen Sie den Block Select Bildschirm (\'=\') und überprüfen Sie die \'Streichbar\' Filter. Alle dort angezeigten Blöcke können in die Welt gelegt und angemalt werden.</string>
+<string name="CR.01Welcome.54.Header">Wetterpersonal</string>
+<string name="CR.01Welcome.55.Paragraph">Das Wetterpersonal erlaubt dir, das Wetter, die Tageszeit zu kontrollieren und Meteore herum zu werfen. Wählen Sie es mit \'C\' aus. Wenn du deine Welt betrittst, ist eine der Statistiken, die es zeigt, die Gesamtmenge der Meteore, die Menschen in FortressCraft Evolved herumgeworfen haben.</string>
+<string name="CR.01Welcome.56.Header">Wetterpersonal Modus</string>
+<string name="CR.01Welcome.57.Paragraph">ESun: Macht den aktuellen Regen oder Schnee auf und macht die Sonne leuchten (oder der Mond, wenn es Nacht ist</string>
+<string name="CR.01Welcome.58.Paragraph">ELightning: Schafft einen schweren Sturm. LMB löst Blitz aus</string>
+<string name="CR.01Welcome.59.Paragraph">eSnow: Schaffe Schneefall</string>
+<string name="CR.01Welcome.60.Paragraph">eRain: Schaffe Regen</string>
+<string name="CR.01Welcome.61.Paragraph">EDayNight: Zyklus die Zeit vorwärts oder rückwärts schnell</string>
+<string name="CR.01Welcome.62.Paragraph">EMeteor: beschwört Meteore. LMB beschwört einen Meteor hoch im Himmel, um irgendwo in deiner Nähe zu schlagen. RMB ruft einen Meteor von den Wetterpersonen an, die auf den ausgewählten Block gerichtet sind. Es gibt eine kurze Abklingzeit bei diesen beiden Aktionen, also kann der Spam-Klick nicht so viele Meteore beschwören, wie du es möchtest :) Beim Umschalten von Meteoren achten Sie auf Orbital-Stationen!</string>
+<string name="CR.02HowToPlaySurvival.Title">Wie man den Überlebensmodus spielt</string>
+<string name="CR.02HowToPlaySurvival.00.Title">Wie man den Überlebensmodus spielt</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">Dies ist ein Creative-Modus-Spiel. Um eine Überlebenswelt zu beginnen:</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">Gehe zurück zum Hauptmenü. Gebe den Welt auswählen Raum ein und wählen Sie einen leeren Slot (Pfeil rechts oder klicken Sie auf die Tabellen). Neben dem Spielmodus-Indikator sind Pfeile, die du anklicken kannst, um den Spielmodus auf Survival zu ändern. Drücken Sie Welt erstellen, um die Wiedergabe zu starten</string>
+<string name="CR.02HowToPlaySurvival.03.Header">Ich kann keinen Spielmodus auswählen?</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">Du kannst den Gamemode nicht auf eine bestehende Welt wechseln. Wählen Sie einen leeren Steckplatz aus.</string>
+<string name="CR.02HowToPlaySurvival.05.Header">Alle meine Weltschlitze sind voll!</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">Sie können eine Welt aus dem World Select Room zurücksetzen, alle Daten, die mit dieser Welt verknüpft sind, werden gelöscht. Wenn Sie Ihre Welten dann auf der aktuellen Version von Windows sichern möchten, können sie im folgenden Ordner gefunden werden:% AppData% .ocalLowrojectorGamesortressCraftorlds.</string>
+<string name="CR.02HowToPlaySurvival.07.Header">Es funktioniert nicht!</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">Wenn du immer noch Schwierigkeiten hast, den Survival-Modus zu starten, poste bitte eine Nachricht auf dem Dampf-Diskussionsforum.</string>
+</resources>

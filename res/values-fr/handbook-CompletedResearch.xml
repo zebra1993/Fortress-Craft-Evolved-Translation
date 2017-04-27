@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Défense avancé</string>
+<string name="CO.Advanced_Defence.00.Title">Défense avancé</string>
+<string name="CO.Advanced_Defence.01.Paragraph">Nous avons avec succès conçus une tourelle missiles et fait de bon avancement dans l’amélioration de la tourelle a énergie. nous allons avoir besoin de fabriquer des missiles qui vont demander un ravitaillement en carburant !</string>
+<string name="CO.Advanced_Logistics.Title">Logistique avancé</string>
+<string name="CO.Advanced_Logistics.00.Title">Logistique avancé</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">Nous avons maintenant un stockage de mass et un mécanisme de tri pour déplacer les minerais entre les convoyeurs.</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">Amélioration de minage avancé</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">Amélioration de minage avancé</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">Des amélioration additionnel pour l\'extracteur de minerai et la fonderie sont maintenant disponible. Nous avons enfin perfectionné le système de carrière. Utiliser une sonde géothermique pour identifier une bonne position puis placer la carrière pour commencer l’opération de minage.</string>
+<string name="CO.Advanced_Power_Grid.Title">Réseau d\'énergie avancé</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Réseau d\'énergie avancé</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">Nous avons fait des amélioration additionnel à notre système d\'énergie incluant un bloc de stockage d\'énergie et de transmetteur d’énergie.</string>
+<string name="CO.Advanced_Power_Grid.02.Paragraph">Nous avons aussi conçus un nouveau type de générateur d\'énergie provisoire, Cependant pour compléter cette recherche nous aurons besoin de trouver une source d\'énergie plus dense que le charbon.</string>
+<string name="CO.Advanced_Research.Title">Recherche avancé</string>
+<string name="CO.Advanced_Research.00.Title">Recherche avancé</string>
+<string name="CO.Advanced_Research.01.Paragraph">Nous avons conçus un laboratoire de recherche et une machine d\'assemblage nécessaire pour fournir les capsules expérimentale.</string>
+<string name="CO.Advanced_Research.02.Paragraph">Le laboratoire est requis pour rechercher des projets avancé qui va augmenter notre niveau de recherche débloquant d\'autres projet et des recettes. Un total de 27 composants de laboratoire sont requis ( fabrication de 9 à chaque recette) et doit être construit en configuration 3x3x3.</string>
+<string name="CO.Advanced_Research.03.Paragraph">Pour plus d\'information sur comment utiliser le laboratoire utiliser le guide suivant :</string>
+<string name="CO.Aesthetics.Title">Esthétique</string>
+<string name="CO.Aesthetics.00.Title">Esthétique</string>
+</resources>

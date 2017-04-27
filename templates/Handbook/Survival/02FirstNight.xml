@@ -1,0 +1,247 @@
+<Chapter>
+	<Handle>first night</Handle>
+
+	<Title>{{SU.02FirstNight.Title}}</Title>
+
+	<Icon>Torch</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{SU.02FirstNight.00.Title}}</Text>
+
+				</Title>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.04.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.05.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.06.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>{{SU.02FirstNight.07.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.08.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.09.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.10.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.11.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.12.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.13.Paragraph}}</Text>
+
+				</Paragraph>
+	
+			</Paragraphs>
+				
+		</Page>
+
+		<Page>				
+			<Paragraphs>
+				<Paragraph>
+					<Text>{{SU.02FirstNight.14.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.15.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.16.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.17.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.18.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.19.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>{{SU.02FirstNight.20.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.21.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.22.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.23.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.24.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.25.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.26.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.27.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Paragraph>
+					<Text>{{SU.02FirstNight.28.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.29.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.30.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.31.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.32.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.33.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>{{SU.02FirstNight.34.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.35.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.36.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{SU.02FirstNight.37.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.38.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Paragraph>
+					<Text>{{SU.02FirstNight.39.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</Chapter>

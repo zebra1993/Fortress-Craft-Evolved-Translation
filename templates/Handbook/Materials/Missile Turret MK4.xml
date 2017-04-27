@@ -1,0 +1,51 @@
+<MaterialEntry>
+	<Name>Missile Turret MK4</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Missile_Turret_MK4.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Missile Turret MK4</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>{{MA.Missile_Turret_MK4.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Missile_Turret_MK4.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Missile_Turret_MK4.03.Left}}</Left>
+
+					<Right>{{MA.Missile_Turret_MK4.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

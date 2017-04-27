@@ -1,0 +1,74 @@
+<MaterialEntry>
+	<Name>Conveyor Belt</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Conveyor_Belt.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Conveyor Belt</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Conveyor_Belt.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+				<Header>
+					<Text>{{MA.Conveyor_Belt.02.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Conveyor_Belt.03.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Header>
+					<Text>{{MA.Conveyor_Belt.04.Header}}</Text>
+
+				</Header>
+
+				<Paragraph>
+					<Text>{{MA.Conveyor_Belt.05.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>{{MA.Conveyor_Belt.06.Header}}</Text>
+</Header>
+
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Conveyor_Belt.07.Paragraph}}</Text>
+
+				</Paragraph>
+	
+				<Spacer/>
+
+			</Paragraphs>
+
+		</Page>
+					
+	</Pages>
+
+</MaterialEntry>
+

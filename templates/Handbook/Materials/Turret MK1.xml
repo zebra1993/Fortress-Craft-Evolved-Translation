@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Turret MK1</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Turret_MK1.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Pop Up Turret</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Turret_MK1.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Turret_MK1.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Turret_MK1.03.Left}}</Left>
+
+					<Right>{{MA.Turret_MK1.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

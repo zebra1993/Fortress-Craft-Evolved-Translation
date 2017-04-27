@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Name>Sand</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Sand.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Sand</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Sand.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

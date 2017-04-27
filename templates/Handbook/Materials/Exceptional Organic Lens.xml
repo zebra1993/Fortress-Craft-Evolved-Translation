@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Name>Exceptional Organic Lens</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Exceptional_Organic_Lens.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Exceptional Organic Lens</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Exceptional_Organic_Lens.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Header><Text>{{MA.Exceptional_Organic_Lens.02.Header}}</Text>
+</Header>
+
+				<TwoColumnParagraph>
+					<Left>{{MA.Exceptional_Organic_Lens.03.Left}}</Left>
+
+					<Right>{{MA.Exceptional_Organic_Lens.04.Right}}</Right>
+
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+
+		</Page>
+		
+	</Pages>
+
+</MaterialEntry>
+

@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Name>Lithium Bar</Name>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{MA.Lithium_Bar.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Lithium Bar</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Icon>
+					<Name>Lithium Ore_Sparse</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{MA.Lithium_Bar.01.Paragraph}}</Text>
+
+				</Paragraph>
+				
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+
+</MaterialEntry>
+

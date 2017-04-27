@@ -1,0 +1,35 @@
+<Chapter>
+	<Handle>suit upgrades</Handle>
+
+	<Title>{{AV.Suit_Upgrading.Title}}</Title>
+
+	<Icon>Suit Upgrading</Icon>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{AV.Suit_Upgrading.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>SuitUpgrades</Name>
+
+					<Alignment>Center</Alignment>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{AV.Suit_Upgrading.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+

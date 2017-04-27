@@ -1,0 +1,42 @@
+<Chapter>
+	<Handle>Mynocks</Handle>
+
+	<Title>{{SU.07Mynocks.Title}}</Title>
+
+	<Icon>Local Life Forms</Icon>
+
+	<Hidden>true</Hidden>
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{SU.07Mynocks.00.Title}}</Text>
+
+				</Title>
+
+				<Icon>
+					<Name>Local Life Forms</Name>
+
+				</Icon>
+
+				<Paragraph>
+					<Text>{{SU.07Mynocks.01.Paragraph}}</Text>
+
+				</Paragraph>
+
+				<Spacer/>
+
+				<Paragraph>
+					<Text>{{SU.07Mynocks.02.Paragraph}}</Text>
+
+				</Paragraph>
+			
+			</Paragraphs>
+
+		</Page>
+
+	</Pages>
+
+</Chapter>
+
