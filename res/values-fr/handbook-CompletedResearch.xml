@@ -19,4 +19,35 @@
 <string name="CO.Advanced_Research.03.Paragraph">Pour plus d\'information sur comment utiliser le laboratoire utiliser le guide suivant :</string>
 <string name="CO.Aesthetics.Title">Esthétique</string>
 <string name="CO.Aesthetics.00.Title">Esthétique</string>
+<string name="CO.Aesthetics.01.Paragraph">Dans ce malheureux événement nous avons du temps pour rendre la base plus agréable avec une variété de caisse de stockage et de toile.</string>
+<string name="CO.Base_Building_Automation.Title">Construction de base automatique</string>
+<string name="CO.Base_Building_Automation.00.Title">Construction de base automatique</string>
+<string name="CO.Base_Building_Automation.01.Paragraph">Nous avons maintenant une large variété de nouvelle machine disponible pour automatiser notre base. Utiliser le macérateur pour broyer les pierres inutile en échange de minerai. L’extracteur automatique peut creuser des puits au dessus de lui pendant que le constructeur automatique construit des lignes de convoyeur à notre place.</string>
+<string name="CO.Base_Building_Automation.02.Paragraph">Utiliser les ascenseur pour voyager de façon prudente entre les surface de la base et les mines plus profondes. Utiliser les explosif pour nettoyer de large zone ou détruire les cibles hostile.</string>
+<string name="CO.Base_Defence.Title">Défense de la base</string>
+<string name="CO.Base_Defence.00.Title">Défense de la base</string>
+<string name="CO.Base_Defence.01.Paragraph">Nous pouvons maintenant amener la liberté a cette planète !</string>
+<string name="CO.Base_Defence.02.Paragraph">Notre recherche de défense de base est un succès, nous avons maintenant 3 tourelles disponible à fabriquer. La tourelle ARTHER est économique en énergie et a une grande portée, mais doit être utiliser par ARTHER vous devrez alors la positionner sagement pour protéger vos ressource est infrastructure pendant que vous récoltez les ressources nécessaire pour les tourelles autonome.</string>
+<string name="CO.Basic_Mining_Upgrades_I.Title">Amélioration de minage basique I</string>
+<string name="CO.Basic_Mining_Upgrades_I.00.Title">Amélioration de minage basique I</string>
+<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">Nous avons avec succès rechercher plusieurs amélioration pour perfectionner notre capacité à collecté des ressources.</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">Fonderie basique</string>
+<string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">Nous pouvons maintenant construire une fonderie basique. Elle ne supporte pas les amélioration ,lente et est moins efficace que la fonderie fournie avec le CEP mais il devrait aider à éliminer ce goulet d\'étranglement pour le moment.</string>
+<string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">"La plupart des ressources que nous avons trouvé prés de la surface ne sont pas bien pour  la fonderie de minerai, cependant les scan montre certaine petite formations de pierre qui peuvent avoir les 
+propriétés voulus."</string>
+<string name="CO.Basic_Mining_Upgrades_I.05.Header">Induction forcé</string>
+<string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Les modules pour forcé l\'induction peuvent être placé au dessus des fonderies pour améliorer la vitesse de fonte et le prix en énergie. la fonderie basique ne supporte pas c\'est amélioration.</string>
+<string name="CO.Basic_Mining_Upgrades_I.07.Header">Moteur de foreuse</string>
+<string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Les moteurs de foreuse peuvent être inséré dans un extracteur de minerai pour améliorer la vitesse d\'extraction et le prix en énergie.</string>
+<string name="CO.Basic_Mining_Upgrades_II.Title">Amélioration de minage basique II</string>
+<string name="CO.Basic_Mining_Upgrades_II.00.Title">Amélioration de minage basique II</string>
+<string name="CO.Basic_Mining_Upgrades_II.01.Paragraph">Des améliorations additionnel pour nos extracteurs de minerai et fonderies sont maintenant disponible.</string>
+<string name="CO.Black_Box_Data.Title">Boite noire de donné</string>
+<string name="CO.Black_Box_Data.00.Title">Boite noire de donné</string>
+<string name="CO.Black_Box_Data.01.Paragraph">Une analyse minutieuse des donné de la boite noire enregistré par votre combinaison est maintenant terminé. Il confirme l\'analyse d\'un corps étranger, Nous pensons que c\'est une météorite, elle a heurter la station quand vous alliez vous mettre a quai. Résultant d\'une explosion qui à endommagé les propulseurs de manœuvre causant le crash du vaisseaux sur cette planète extraterrestre. Aucun autre survivant ont était détecter a ce jour.</string>
+<string name="CO.Black_Box_Data.02.Paragraph">Nous ne savons pas pourquoi la météorite est rester indétectable pour les scanner long porté de la station, une défaillance du système ou un sabotage est plausible.</string>
+<string name="CO.Black_Box_Data.03.Paragraph">Heureusement malgré cette événement une capsule d\'avant poste a survécu à l\'explosion et c\'est verrouiller sur la balise de détresse de notre vaisseau. Il a atterris prés du site du crash. C\'est un model standard Vortox X103 MK V contenant un Centre d\'Énergie Principale entouré d\'une fonderie, une usine de fabrication et une station de recherche. Il est aussi équiper d\'un robot de défense autonome qui vous aideras à survivre au menace rencontrer, nous devrions trouver des formes de vie hostile sur cette plante.</string>
+<string name="CO.Frozen_Factory.Title">The Frozen Factory !</string>
+<string name="CO.Frozen_Factory.00.Title">The Frozen Factory !</string>
+<string name="CO.Frozen_Factory.01.Paragraph">Maintenant que cette recherche est finis, Nous pouvons construire un Centre de Contrôle du Climat des Cavernes Froid. Nous avons besoin de construire cette machine pour les cavernes froide, donner lui de l\'énergie et il devrais simplement, lentement, convertir la caverne en une magnifique zone, Où nous pouvons nous installer et attendre les secours.</string>
 </resources>
