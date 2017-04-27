@@ -1,121 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><resources><string name="SU.01Welcome.Title">Aloitusopas</string>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">Aloitusopas</string>
 <string name="SU.01Welcome.00.Title">Tervetuloa FortressCraft Evolved:iin</string>
 <string name="SU.01Welcome.01.Header">Sinnittelymuoto</string>
-<string name="SU.01Welcome.02.Paragraph">Olet juuri paennut avaruusasemalta vahingoittuneella pakosukkulalla. Se ei selvinnyt laskusta, mutta onneksi sinä onnistuit putkatamaan siitä pois turvallisesti. Nyt sinun tulee selvitä tällä kamalalla muukalaisplaneetalla!</string>
+<string name="SU.01Welcome.02.Paragraph">Olet juuri paennut avaruusasemalta vahingoittuneella pakosukkulalla. Se ei selvinnyt laskusta, mutta onneksi sinä onnistuit putkahtamaan siitä pois turvallisesti. Nyt sinun tulee selvitä tällä kamalalla muukalaisplaneetalla!</string>
 <string name="SU.01Welcome.03.Header">Aloitus</string>
-<string name="SU.01Welcome.04.Paragraph">Sinun viimeistä huutoa oleva pukusi pitää sinut turvassa näissä kylmissä oloissa, mutta vaatii virtaa siihen. Aluksesi törmäysalue voi antaa sinulle resursseja pärjätäksesi lyhyellä tähtäimellä joten sinun pitäisi tutkia maailmaa heti kun voit.</string>
+<string name="SU.01Welcome.04.Paragraph">Sinun viimeistä huutoa oleva pukusi pitää sinut turvassa näissä kylmissä oloissa, mutta käyttää siihen virtaa. Aluksesi törmäysalue voi antaa sinulle resursseja pärjätäksesi lyhyellä tähtäimellä, joten sinun pitäisi tutkia maailmaa heti kun voit.</string>
 <string name="SU.01Welcome.05.Header">Ohjaimet</string>
-<string name="SU.01Welcome.06.Paragraph">Tämän pelin nappulat on listattu erillisessä oppassaa joka on linkitetty alla.</string>
+<string name="SU.01Welcome.06.Paragraph">Tämän pelin nappulat on listattu erillisessä opaassa joka on linkitetty alla.</string>
 <string name="SU.01Welcome.07.Header">Sinnittelyvinkkejä</string>
-<string name="SU.01Welcome.08.Paragraph">Niille jota eivät halua lukea kokonaista opasta tässä on vähän pelinikkejä. Seuraavat sivut menevät yksityiskohtiin kuinka aloittaa.</string>
-<string name="SU.01Welcome.09.Paragraph">- Päivällä pukusi on suunnitely lataamaan akkunsa auringonvalosta.
-- Aloitusalueellasi on Keskusvoimala käytä sitä muuttaaksesi kerätyt resurssit virraksi viereiset koneet.
-- Voit ladata pukusi Keskusvoimalasta tai painamalla &apos;Q&apos; Voimavarastolohkosta.						
-- Vuorovaikuta (‘E’) Valmistusaseman kanssa katsoaksesi mitä voit tehdä.
-- Tee soihtuja lämmittääsesi itseäsi käyttäen Itsevalmistusikkunaa (‘C’).
-- Käytä luotaintyökalua (&apos;M&apos;) Luodataksesi palikoita ja käsitelläksesi niitä tutkimusasemalla saadaksesi uusia reseptejä.
-- Luotainta voi käytää myös ympäristlluotaukseen kuten Tuntemattoman materiaalin luotaukseen löytääksesi uusia malmeja.
-- Seuraa akkusi purkautumistahtia sininen teksti tarkoittaa että äärimmäinen kymä vaikuttaa pukuusi ja punianen teksti ilmaisee äärimmäistää kuumuutta. 
-- Otsalammppu käyttää virtaa. Se on mahtava tutkimusmatkailuun mutta älä jätä sitä päälle!
+<string name="SU.01Welcome.08.Paragraph">Niille jotka eivät halua lukea kokonaista opasta tässä on vähän pelivinkkejä. Seuraavat sivut menevät yksityiskohtiin kuinka aloittaa.</string>
+<string name="SU.01Welcome.09.Paragraph">- Päivällä pukusi on suunniteltu lataamaan akkunsa auringonvalosta.
+- Aloitusalueellasi on päävirtakeskus, käytä sitä muuttaaksesi kerätyt resurssit virraksi ladataksesi viereiset koneet.
+- Voit ladata pukusi päävirtakeskuksesta tai painamalla \'Q\' virtavarastolohkolle. 
+- Vuorovaikuta (‘E’) valmistusaseman kanssa katsoaksesi mitä voit tehdä.
+- Tee soihtuja lämmittääksesi itseäsi käyttäen itsevalmistusikkunaa (‘C’).
+- Käytä luotaintyökalua (\'M\') luodataksesi palikoita ja käsitelläksesi niitä tutkimusasemalla saadaksesi uusia reseptejä.
+- Luotainta voi käytää myös ympäristöluotaukseen kuten tuntemattoman materiaalin sysäykseen löytääksesi uusia malmeja.
+- Seuraa akkusi purkautumistahtia, sininen teksti tarkoittaa että äärimmäinen kylmä vaikuttaa pukuusi ja punainen teksti ilmaisee äärimmäistä kuumuutta. 
+- Otsalammpu käyttää virtaa. Se on mahtava tutkimusmatkailuun mutta älä jätä sitä päälle!
 - Hiili on paras polttoaine aloituksessa, mutta tiukassa paikassa voit polttaa kasveja.
 - Voit juotua kaivamaan syvällekin ennen kuin löydät haluamasi malmit.
-- Rakennnuskantama on pitkä joten käytä sitä asettamaan soihtuja pitkin suuria luolia</string>
+- Rakennnuskantama on pitkä joten käytä sitä asettamaan soihtuja pitkin suuria luolia.</string>
 <string name="SU.01Welcome.10.Header">Törmäysalueen laitteet</string>
-<string name="SU.01Welcome.11.Paragraph">Keskusvoimala on ensimäinen voimalaitoksesi. Siinä on aurinkopaneelit ja se voi polttaa polttoaineita tehdäkseen virtaa. Se voi pitää vain yhtä esinettä kerralla joten polttoaineen toimituksen automatisointi on oleellista. Sillä on iso sisäinen voimavarastointikapasitettti.</string>
-<string name="SU.01Welcome.12.Paragraph">Voimavarastointilohko säilöö 250 virtaa ja jakaa sen viereisille koneille.</string>
-<string name="SU.01Welcome.13.Paragraph">Saadaksesi uusien koneiden valmistuksessa tarpeellisia harkkoja  malmit täytyy käsitellä Malmisulattamossa. Voit vuorovaikutta sen kanssa käsin tai automatisoida materiaalien toimituksen. Sulatus alkaa vasta kun tarpeeksi materiaaleja harkon tekemiseen on saapunut.</string>
-<string name="SU.01Welcome.14.Paragraph">Voit tehdä itse yksinkertaisia asioita Itsevalmistusikkunassa joka avataan &apos;c&apos;:llä, mutta monimutkaisempiin koneisiin ja osiin täytyy käyttää Valmistusasemaa. Reseptit on jaoteltu kategorioihin jotka voit löytää klikkaamalla väritettyjä laatikkoja. Tällä hetkellä asema voi käyttää vain tavaraluettelossasi olevia esineitä ja esineiden tekemisnen asettaa ne suoraan takaisin sinne.</string>
-<string name="SU.01Welcome.15.Paragraph">Aloittaessasi luotaimesi ei tiedä mitään planeetalta löytyvistä materiaaleista. Kaikki tekemäsi luotauksen voidaan käsitellä Tutkimusasemalla ja niistä saa Tutkimuspisteitä. You can also undertake various research projects here, and develop new recipes for the Manufacturing Plant by spending research points. Tutkimusasema vaatii virtaa toimiakseen.</string>
+<string name="SU.01Welcome.11.Paragraph">Päävirtakeskus on ensimmäinen voimalaitoksesi. Siinä on aurinkopaneelit ja se voi polttaa polttoaineita tehdäkseen virtaa. Se voi pitää vain yhtä esinettä kerralla, joten polttoaineen toimituksen automatisointi on oleellista. Sillä on iso sisäinen voimavarastointikapasitettti.</string>
+<string name="SU.01Welcome.12.Paragraph">Virtavarastolohko säilöö 250 virtaa ja jakaa sen viereisille koneille.</string>
+<string name="SU.01Welcome.13.Paragraph">Saadaksesi uusien koneiden valmistuksessa tarpeellisia harkkoja, malmit täytyy käsitellä malmisulattamossa. Voit vuorovaikuttaa sen kanssa käsin tai automatisoida materiaalien toimituksen. Sulatus alkaa vasta kun tarpeeksi materiaaleja harkon tekemiseen on saapunut.</string>
+<string name="SU.01Welcome.14.Paragraph">Voit tehdä itse yksinkertaisia asioita itsevalmistusikkunassa joka avataan \'c\':llä, mutta monimutkaisempiin koneisiin ja osiin täytyy käyttää valmistusasemaa. Reseptit on jaoteltu kategorioihin jotka voit löytää klikkaamalla väritettyjä laatikkoja. Tällä hetkellä asema voi käyttää vain tavaraluettelossasi olevia esineitä ja esineiden tekeminen asettaa ne suoraan takaisin sinne.</string>
+<string name="SU.01Welcome.15.Paragraph">Aloittaessasi luotaimesi ei tiedä mitään planeetalta löytyvistä materiaaleista. Kaikki tekemäsi luotaukset voidaan käsitellä tutkimusasemalla ja niistä saa tutkimuspisteitä. Voit myös aloittaa erinäisiä kehitysprojekteja täällä ja kehittää uusia reseptejä valmistusasemalle käyttämällä tutkimuspisteitä. Tutkimusasema vaatii virtaa toimiakseen.</string>
 <string name="SU.01Welcome.16.Header">Ensimmäisten malmien löytäminen</string>
-<string name="SU.01Welcome.17.Paragraph">Luotaimesi no varustettu kyvyllä luodata tunnettuja malmityyppejä, mutta tehdäksesi näin sen täytyy tietää niistä ensin. Uusien malmien löytämisen avain on käyttää Tuntematon materiaali luotausta luotaimessa. Jos käytät tätä ensin se kertoo sinulle kaikki palikat ympärillä joita se ei tunne.</string>
-<string name="SU.01Welcome.18.Paragraph">Ensimmäinen tehtäväsi on luodata ympäristösi ja käsitellä ne Tutkimusasemalla. Heti kun olet luodannut tavallisen mullan ja lumen ympäriltäsi, Tuntematon malmi luotaus paikantaa hyödyllisiä malmeja ympäriltäsi.</string>
-<string name="SU.01Welcome.19.Paragraph">Kun olet löytänyt maanalaisen suonen läheltä voit luodata sen ja käsitellä ne opettaksesi ne luotaimellesi. Tästä lähtien Malmiluotauksen käyttäminen luotaimella paikantaa sen malmityypin suonet.</string>
+<string name="SU.01Welcome.17.Paragraph">Luotaimesi on varustettu kyvyllä luodata tunnettuja malmityyppejä, mutta näin tehdäkseen sen täytyy tietää niistä ensin. Uusien malmien löytämisen avain on käyttää tuntematon materiaali -sysäystä luotaimessa. Jos käytät tätä ensin, se kertoo sinulle kaikki palikat ympärillä, joita se ei tunne.</string>
+<string name="SU.01Welcome.18.Paragraph">Ensimmäinen tehtäväsi on luodata ympäristösi ja käsitellä ne tutkimusasemalla. Heti kun olet luodannut tavallisen mullan ja lumen ympäriltäsi, tuntematon malmi -sysäys paikantaa hyödyllisiä malmeja ympäriltäsi.</string>
+<string name="SU.01Welcome.19.Paragraph">Kun olet löytänyt maanalaisen suonen läheltä voit luodata sen ja käsitellä ne opettaaksesi ne luotaimellesi. Tästä lähtien malmiluotauksen käyttäminen luotaimella paikantaa sen malmityypin suonet.</string>
 <string name="SU.01Welcome.20.Header">Malminirroitus</string>
-<string name="SU.01Welcome.21.Paragraph">Kun olemme löytäneet ensimmäisen suonen, meidän tarvitsee irroittaa malmi käyttääksemme sitä. Voit kaivaa sitä käyttämällä oikeanpuoleista klikkausta muytta tämä tiputtaa vain yhden malmin joskus ja tekee soraa muulloin.</string>
-<string name="SU.01Welcome.22.Paragraph">Parempi vaihtoehto on käyttää superkaivamista mikä aktivoidaan pitämällä CTRL pohjassa kun kaivat. Tämä kaivaa nopeasti ison määrän malmia mutta kuluttaa virtavarastojasi nopeasti.</string>
-<string name="SU.01Welcome.23.Paragraph">Varo ettet käytä kaikkea virtaa suonen superkaivamiseen, pukusi vaatii virtaa myös ruumiinlämpösi ylläpitämiseen! Yritä pitää turvallinen lyhdytetty reitti takaisin voimalallesi lämmitääksesi itseäsi.</string>
+<string name="SU.01Welcome.21.Paragraph">Kun olemme löytäneet ensimmäisen suonen, meidän tarvitsee irroittaa malmi käyttääksemme sitä. Voit kaivaa sitä käyttämällä oikeanpuoleista klikkausta mutta tämä tiputtaa vain yhden malmin joskus ja tekee soraa muulloin.</string>
+<string name="SU.01Welcome.22.Paragraph">Parempi vaihtoehto on käyttää superkaivamista joka aktivoidaan pitämällä CTRL pohjassa kun kaivat. Tämä kaivaa nopeasti ison määrän malmia mutta kuluttaa virtavarastojasi nopeasti.</string>
+<string name="SU.01Welcome.23.Paragraph">Varo ettet käytä kaikkea virtaa suonen superkaivamiseen, pukusi vaatii virtaa myös ruumiinlämpösi ylläpitämiseen! Yritä pitää turvallinen soihdutettu reitti takaisin voimalallesi lämmitääksesi itseäsi.</string>
 <string name="SU.01Welcome.24.Header">Irroittamisen automaatio</string>
-<string name="SU.01Welcome.25.Paragraph">Kestävämpi tapa luohia malmia oin käyttää Malminlouhinta. Aloitat muutamalla ja voit asettaa sellaisen suonen viereen ja täyttä sen virralla aloittaaksesi kaivuun. Sillä on pieni sisäinen varastotila joten kunnes voit purkaa sen jonnekin muualle sinun täytyy silloin tällöin tulla noutamaan tuotteet.</string>
-<string name="SU.01Welcome.26.Paragraph">Malminlouhin voi louhia kokonaisen suonen malmia kun se koskee yhtee malmipalikkaan. Niinpä sitä ei tarvitse siirtää ennen kuin koko suoni on raivattu.</string>
-<string name="SU.01Welcome.27.Paragraph">Varastohypyttimet hyväksyvät malmeja ja esineitä koneitasi ja antavat niitä toisille koneille. Tämä tekee niistä oleellisen minkä tahansa luohinta- ja sulatustoimintaosan automatisoinnissa.</string>
-<string name="SU.01Welcome.28.Paragraph">Kun on resursesseja käyttää, Kuljettimet voivat auttaa automaatiota tuomalla malmit Luohimelta Malminsulattamolle. Ne ovat halpoja, mutta tarvitset montaa yhdistääksesi luohintatoimintosi päätukikohtaasi. Ne eivät vaadi virtaa toimiakseen.</string>
+<string name="SU.01Welcome.25.Paragraph">Kestävämpi tapa luohia malmia on käyttää malmilouhinta. Aloitat muutamalla ja voit asettaa sellaisen suonen viereen ja täyttää sen virralla aloittaaksesi kaivuun. Sillä on pieni sisäinen varastotila, joten kunnes voit purkaa sen jonnekin muualle sinun täytyy silloin tällöin tulla noutamaan tuotteet.</string>
+<string name="SU.01Welcome.26.Paragraph">Malmilouhin voi louhia kokonaisen suonen malmia kun se koskee yhteen malmipalikkaan. Niinpä sitä ei tarvitse siirtää ennen kuin koko suoni on raivattu.</string>
+<string name="SU.01Welcome.27.Paragraph">Varastohypyttimet hyväksyvät malmeja ja esineitä koneiltasi ja antavat niitä toisille koneille. Tämä tekee niistä oleellisen minkä tahansa luohinta- ja sulatustoimintaosan automatisoinnissa.</string>
+<string name="SU.01Welcome.28.Paragraph">Kun on resursesseja liikenee, kuljettimet voivat auttaa automaatiota tuomalla malmit luohimelta malmisulattamolle. Ne ovat halpoja, mutta tarvitset montaa yhdistääksesi luohintatoimintosi päätukikohtaasi. Ne eivät vaadi virtaa toimiakseen.</string>
 <string name="SU.02FirstNight.Title">Ensimmäisestä illasta selviytyminen</string>
 <string name="SU.02FirstNight.00.Title">Ensimmäisestä illasta selviytyminen</string>
 <string name="SU.02FirstNight.01.Paragraph">Tämä on askelittainen opas ensimmäisestä illasta selviytymiseen. Jos et halua paljastuksia lopeta lukeminen nyt!</string>
 <string name="SU.02FirstNight.02.Header">Opastuksen suorittaminen</string>
-<string name="SU.02FirstNight.03.Paragraph">Heräät aluksesi törmäyksestä syntyneen kraaterin ja perusaseman vierestät. Ensimmäinen tehtäväsi on suorittaa lyhyt opastus. Seuraa jokaista ohjetta kerallaan. Kun opastus on suoritettu voimakenttä poistetaan.</string>
+<string name="SU.02FirstNight.03.Paragraph">Heräät aluksesi törmäyksestä syntyneen kraaterin ja perusaseman vierestä. Ensimmäinen tehtäväsi on suorittaa lyhyt opastus. Seuraa jokaista ohjetta kerallaan. Kun opastus on suoritettu voimakenttä poistetaan.</string>
 <string name="SU.02FirstNight.04.Header">Kerää kamppeesi ja pysy lämpimänä</string>
-<string name="SU.02FirstNight.05.Paragraph">Avaa tavaraluettelosi painamalla &apos;i&apos;. Aloitat 5 soihdulla ja 3 malminluohimella. Viimeksi mainitut ovat arvokkaita koneita koneita malmisuonien louhimiseen mutta eivät hyödytä välitöntä selvitymistä. Ensin mainitut ovat oleellisen tärkeitä.</string>
-<string name="SU.02FirstNight.06.Paragraph">Valitse pikapalkin kolo jossa soihtujen ikoni on ja aseta sellainen muutaman palikan päähän koneista. Lähellä seisominen antaa valoa kuin myös lämpöä. Pukuilmaisin yläoikeassa ruudunnurkassa ilmaisee ulkoisen lämpötilan ja puvun sisäisen lämpötilan. Pukusi pitää sinut automattisesti lämpimänä mutta tämä maksaa energiaa. Jos seisot soihdun lähellä voi huomata ulkoisen lämpötilan nousevan mikä tarkoittaa että pukusi käyttää vähemmän voimaa pitääkseen sinut lämpimänä. Varo kuumenemasta liikaa  sillä pukusi rupeaa viilentämään sinua!</string>
+<string name="SU.02FirstNight.05.Paragraph">Avaa tavaraluettelosi painamalla \'i\'. Aloitat 5 soihdulla ja 3 malminluohimella. Viimeksi mainitut ovat arvokkaita koneita malmisuonien louhimiseen mutta eivät hyödytä välitöntä selvitymistä. Ensin mainitut ovat oleellisen tärkeitä.</string>
+<string name="SU.02FirstNight.06.Paragraph">Valitse pikapalkin kolo, jossa soihtujen ikoni on, ja aseta sellainen muutaman palikan päähän koneista. Lähellä seisominen antaa sekä valoa että myös lämpöä. Pukuilmaisin yläoikeassa ruudunnurkassa ilmaisee ulkoisen lämpötilan ja puvun sisäisen lämpötilan. Pukusi pitää sinut automattisesti lämpimänä mutta tämä maksaa energiaa. Jos seisot soihdun lähellä voit huomata ulkoisen lämpötilan nousevan mikä tarkoittaa että pukusi käyttää vähemmän virtaa pitääkseen sinut lämpimänä. Varo kuumenemasta liikaa sillä pukusi rupeaa viilentämään sinua!</string>
 <string name="SU.02FirstNight.07.Header">Kerää polttoainetta</string>
-<string name="SU.02FirstNight.08.Paragraph">Kone jossa on iso laset on keskusvoimalasi. Se on voimala joka kerää aurinkoenergiaa ja pitää sisällään pienen aggregaatin joka polttaa materiaaleja tehdäkseen virtaa. Se syöttää virtaa lähikoneille ja voimavarastolohkolle.</string>
-<string name="SU.02FirstNight.09.Paragraph">Voit ottaa virtaa suoraan keskuksesta vuorovaikuttamalla sen kanssa painamlla (&apos;e&apos;) ja sitten painamlla &apos;Ota virtaa&apos;. Pelin alussa polttoainevarasi ovat rajattu mitä opastuksesta saa ja eivät kestä kauaa. Siksi uusi tehtäväsi on kerätä polttoainetta.</string>
-<string name="SU.02FirstNight.10.Paragraph">Jos olet valinnnut helpon vaikeusasteen saat hiilisuonen ja malmiluohimen. Muutin sinun tarvitsee löytää polttoainetta. Jos olet erittäin onnekas iskeytymiskraateri on paljastanut hiilisuonen. Mutta luotettavampi lähdepolttoaineelle on läheiset puut kraaterin ympärillä. Kaiva rungot ja kerää ne. Nyt mene keskukselle, vuorovaikuta (&apos;e&apos;):llä ja paina &apos;Lisää resursseja&apos;. Tämä aloittaa yhden tukin polttamisen. Polttoainetta pitää lisätä käsin kunnes sinulla on resursseja automatisoida tämä prosessi.</string>
-<string name="SU.02FirstNight.11.Paragraph">Tukkeja polttamalla sinun pitäisi nopeasti huomata että Voimavarastolohkon grafiikka alkaa pyöriä, mikä tarkoittaa että se kerää voimaa. Voit vetää virtaa sieltä tai odottaa että se on täysi joilloin virtaa säilötään keskuksessa.</string>
+<string name="SU.02FirstNight.08.Paragraph">Kone jossa on iso laaser on päävirtakeskuksesi. Se on voimala, joka kerää aurinkoenergiaa ja pitää sisällään pienen aggregaatin joka polttaa materiaaleja tehdäkseen virtaa. Se syöttää virtaa lähikoneille ja voimavarastolohkoille.</string>
+<string name="SU.02FirstNight.09.Paragraph">Voit ottaa virtaa suoraan keskuksesta vuorovaikuttamalla sen kanssa painamlla (\'e\') ja sitten painamlla \'Ota virtaa\'. Pelin alussa polttoainevarasi ovat rajattu siihen mitä opastuksesta saa ja eivät kestä kauaa. Siksi uusi tehtäväsi on kerätä polttoainetta.</string>
+<string name="SU.02FirstNight.10.Paragraph">Jos olet valinnnut helpon vaikeusasteen saat hiilisuonen ja malmiluohimen. Muutoin sinun tarvitsee löytää polttoainetta. Jos olet erittäin onnekas iskeytymiskraateri on paljastanut hiilisuonen. Mutta luotettavampi lähde polttoaineelle on läheiset puut kraaterin ympärillä. Kaiva rungot ja kerää ne. Nyt mene keskukselle, vuorovaikuta (\'e\'):llä ja paina \'Lisää resursseja\'. Tämä aloittaa yhden tukin polttamisen. Polttoainetta pitää lisätä käsin kunnes sinulla on resursseja automatisoida tämä prosessi.</string>
+<string name="SU.02FirstNight.11.Paragraph">Tukkeja polttamalla sinun pitäisi nopeasti huomata että voimavarastolohkon grafiikka alkaa pyöriä, mikä tarkoittaa että se kerää virtaa. Voit vetää virtaa sieltä tai odottaa että se on täysi joilloin virtaa säilötään keskukseen.</string>
 <string name="SU.02FirstNight.12.Header">Tutki ympäristöäsi</string>
-<string name="SU.02FirstNight.13.Paragraph">Nyt kun sinulla on tasainen virtalähde voit alkaa tutkia ympäristöäsi. Virran jonka kulutat pukusi lämpimänä pitämiseen voit täydentää keskuksesta. Tarkkaile virtatasoja ylävasemmassa kulmassa. Jos palkki on tyhjä, alat nopeasti viiletä siihen pisteeseen että voit pyörtyä hypotermiaan.</string>
-<string name="SU.02FirstNight.14.Paragraph">Varmista että sinulla on tarpeeksi voimaa päästä takaisin törmäyspaikkalle ja ladata keskuksesta.
-					</string>
-<string name="SU.02FirstNight.15.Paragraph">Pukuvussasi on luotain joka on korvaamaton selviytymiseen. Voit valita työkalun painamalla &quot;M&quot;. Voit nyt luodata painamalla oikeaa hiirenpainiketta tai lähettää materiaalisykäyksen vasemmalla painikkeella. Varo käyttämästä sykäyksiä tarpeettomasti, ne käyttävät suuren määrän pukusi virtaa.</string>
-<string name="SU.02FirstNight.16.Paragraph">Seuraava tutkimustehtäväsi on luodata ympäristösi. Tähtää palikkaa jota et ole luodannut vielä, ota luotain esille ja pidä oikea hiirenpainike painettuna kunnes ponnahdusikkuna vasemmallaalhaalla kertoo luotauksen valmistuneen. Yritä luodata kaikki palikat ympäristöstäsi mukaanlukien lumi, multa, tukit ja lehdet!</string>
+<string name="SU.02FirstNight.13.Paragraph">Nyt kun sinulla on tasainen virtalähde voit alkaa tutkia ympäristöäsi. Virran jonka kulutat pukusi lämpimänä pitämiseen voit täydentää keskuksesta. Tarkkaile virtatasoja ylävasemmassa kulmassa. Jos palkki on tyhjä, alat nopeasti viiletä siihen pisteeseen että voit pyörtyä hypotermiasta.</string>
+<string name="SU.02FirstNight.14.Paragraph">"Varmista että sinulla on tarpeeksi virtaa päästä takaisin törmäyspaikkalle ja ladata keskuksesta.
+ "</string>
+<string name="SU.02FirstNight.15.Paragraph">Puvussasi on luotain joka on korvaamaton selviytymiseen. Voit valita työkalun painamalla M. Voit nyt luodata painamalla oikeaa hiirenpainiketta tai lähettää materiaalisysäyksen vasemmalla painikkeella. Varo käyttämästä sysäyksiä tarpeettomasti, ne käyttävät suuren määrän pukusi virtaa.</string>
+<string name="SU.02FirstNight.16.Paragraph">Seuraava tutkimustehtäväsi on luodata ympäristösi. Tähtää palikkaa jota et ole luodannut vielä, ota luotain esille ja pidä oikea hiirenpainike painettuna kunnes ponnahdusikkuna vasemmalla-alhaalla kertoo luotauksen valmistuneen. Yritä luodata kaikki palikat ympäristöstäsi mukaanlukien lumi, multa, tukit ja lehdet!</string>
 <string name="SU.02FirstNight.17.Header">Tutki ympäristöäsi</string>
-<string name="SU.02FirstNight.18.Paragraph">Nyt kun olet luodannut nämä palikat on aika prosessoida luotaukset tutkimusasemalla törmäysalueella. Avaa liittymä painammalla &apos;e&apos;. Ikkuna näyttää sinulle listan käsittelemättömistä luotauksista joiden perässä ilmenee kuinka monta tutkimuspistettä ne antavat tullessaan käsitellyksi. Tutkimuspisteet eivät ole tärkeitä nyt joten älä kiinnitä niihin huomiota. Käsittele kaikki luotaukset joita sinulla on listassa. Jokainen vaatii virtaa käsittelyyn, mutta jos olet pitänyt keskuksesi täytettynä tukeilla tai hiilellä coal sen virtapalkki pitäisi olla enimmäkseen täynnä ja riittävästi käsitellä kaikki luotauksesi.</string>
-<string name="SU.02FirstNight.19.Paragraph">Luotauksien käsittely voi avata joitakin tutkimusprojekteja mutta nyt sinun ei tarvitse huolehtia siitä, but for now you don&apos;t have to worry about that, scanning your surroundings had a more important goal.</string>
+<string name="SU.02FirstNight.18.Paragraph">Nyt kun olet luodannut nämä palikat on aika prosessoida luotaukset tutkimusasemassa törmäysalueella. Avaa liittymä painammalla \'e\'. Ikkuna näyttää sinulle listan käsittelemättömistä luotauksista joiden perässä ilmenee kuinka monta tutkimuspistettä ne antavat tullessaan käsitellyiksi. Tutkimuspisteet eivät ole tärkeitä nyt joten älä kiinnitä niihin huomiota. Käsittele kaikki luotaukset joita sinulla on listassa. Jokainen vaatii virtaa käsittelyyn, mutta jos olet pitänyt keskuksesi täytettynä tukeilla tai hiilellä sen virtapalkki pitäisi olla enimmäkseen täynnä ja riittää kaikkien luotausten käsittelyyn.</string>
+<string name="SU.02FirstNight.19.Paragraph">Luotauksien käsittely voi avata joitakin tutkimusprojekteja mutta nyt sinun ei tarvitse huolehtia siitä, ympäristösi luotauksella oli tärkeämpi päämäärä.</string>
 <string name="SU.02FirstNight.20.Header">Sysäyksetä ympäristösi</string>
-<string name="SU.02FirstNight.21.Paragraph">Palikoista jotak olet luodannut ja käsitellyt pukusi tietää sen ominaisuudet tämä mahdollistaa materiaalien käytön  materiaalisysäyksissä suurin vaikutuksin.</string>
-<string name="SU.02FirstNight.22.Paragraph">Erityisesti &apos;tuntematon materiaali&apos;-sysäystä käytämme löytääksemme seuraavan suonen. Vaihda luotaimeen ja &apos;tuntematon materiaali&apos; sysäys valittuna, paina vasenta hiiirenpainiketta. Tämåä korostaa palikat kantamalla joiden ominaisuuksia pukusi ei vielä tiedä.</string>
-<string name="SU.02FirstNight.23.Paragraph">Jos et luodannut kaikkea ympäristöäsi tämä sysäys palauttaa kaikki törmäysalueella kuten mullan ja kiven. Jos näin tapahtuu, luotaa ja käsittele nämä palikat ja sitten yritä uudestaan. </string>
-<string name="SU.02FirstNight.24.Paragraph">Jos onnistuit sinun pitäisi nähdä rykelmä tuntemattomia signatures jossain maanalla tai läheisillä kukkuloilla. Seuraa virtatasoja kuitenkin, ei ole tarvetta jäätyä!</string>
+<string name="SU.02FirstNight.21.Paragraph">Pukusi tietää palikat jotka olet luodannut ja käsitellyt ja niiden ominaisuudet. Tämä mahdollistaa materiaalien käytön materiaalisysäyksissä merkittävin vaikutuksin.</string>
+<string name="SU.02FirstNight.22.Paragraph">Erityisesti \'tuntematon materiaali\'-sysäystä käytämme löytääksemme seuraavan suonen. Vaihda luotaimeen ja \'tuntematon materiaali\' sysäys valittuna, paina vasenta hiiirenpainiketta. Tämä korostaa palikat joiden ominaisuuksia pukusi ei vielä tiedä kantamalla.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Jos et luodannut kaikkea ympäristöäsi tämä sysäys palauttaa kaiken törmäysalueella kuten mullan ja kiven. Jos näin tapahtuu, luotaa ja käsittele nämä palikat ja sitten yritä uudestaan. "</string>
+<string name="SU.02FirstNight.24.Paragraph">Jos onnistuit sinun pitäisi nähdä rykelmä tuntemattomia lukemia jossain maan alla tai läheisillä kukkuloilla. Seuraa virtatasoja kuitenkin, ei ole tarvetta jäätyä!</string>
 <string name="SU.02FirstNight.25.Header">Kaiva suonille</string>
-<string name="SU.02FirstNight.26.Paragraph">Nyt sinun täytyy kaivaa reitti noille signatures ja katsoa mitä ne ovat. Luotaa malmisuoni ja käsittele se. Huomaat että ne antavat enemmän tutkimuspisteitä kuin tavalliset materiaalit. Kun tiedät malmipalikan voit mennä takaisin suonelle ja luodata sen uudestaan ja työkalu kertoo tietoa tästä nimenomaisesta suonesta; kuinka suuri se on ja kuinka plajon malmia se sisältää (tämä ei ole sama).</string>
-<string name="SU.02FirstNight.27.Paragraph">Käytä Tartuntakoukkuasi (&apos;F&apos;) päästäksesi nopeasti pois reistä joihin tiput to quickly get back up out of holes you&apos;ve dug.</string>
-<string name="SU.02FirstNight.28.Paragraph">Jos et pelaa helpolla sitten ensimmäinen malmi jonka haluat löytää on hiili. Jos löydät Kuparin, Tinan tai Raudan, tämä on mahtavaa myöhemmin mutta ei välittömästi käytettävissä. Yritä muistaa paikka jos voit palaamme niihin myöhemmin. Jos et muistam, ei sen niin väliä, voimme käyttää malmisysäystä myöhemmin.</string>
+<string name="SU.02FirstNight.26.Paragraph">Nyt sinun täytyy kaivaa reitti noille lukemille ja katsoa mitä ne ovat. Luotaa malmisuoni ja käsittele se. Huomaat että ne antavat enemmän tutkimuspisteitä kuin tavalliset materiaalit. Kun tiedät malmipalikan voit mennä takaisin suonelle ja luodata sen uudestaan ja työkalu kertoo tietoa tästä nimenomaisesta suonesta; kuinka suuri se on ja kuinka paljon malmia se sisältää (tämä ei ole sama).</string>
+<string name="SU.02FirstNight.27.Paragraph">Käytä tartuntakoukkuasi (\'F\') päästäksesi nopeasti pois rei\'istä joihin tiput.</string>
+<string name="SU.02FirstNight.28.Paragraph">Jos et pelaa helpolla vaikeustasolla ensimmäinen malmi jonka haluat löytää on hiili. Jos löydät kuparin, tinan tai raudan, tämä on mahtavaa myöhemmin mutta ei välittömästi käytettävissä. Yritä muistaa paikka jos voit, palaamme niihin myöhemmin. Jos et muista, ei sen niin väliä, voimme käyttää malmisysäystä myöhemmin.</string>
 <string name="SU.02FirstNight.29.Header">Louhi hiiltä</string>
-<string name="SU.02FirstNight.30.Paragraph">Malmisuonet FortressCraft Evolved voivat olla massivisia, sisältäen jopa miljooni yksiköitä malmia. Niiden kaivaminen ei ole muutaman naksautuksen tapaus; sinun täytyy päyttää voimaa ja luultavasti käyttää koneita.</string>
-<string name="SU.02FirstNight.31.Paragraph">Ensmmäinen hiilisuoni käsilläsi vietä hieman aikaa tehdäksesi turvallisen polun suonelta takaisin törmäysalueelle. Sinun täytyy kävellä tätä polkua paljon, joten tämä on hyvin käytetyä aikaa.</string>
+<string name="SU.02FirstNight.30.Paragraph">Malmisuonet FortressCraft Evolved:ssa voivat olla massivisia, sisältäen jopa miljoonia yksiköitä malmia. Niiden kaivaminen ei ole muutaman naksautuksen tapaus; sinun täytyy käyttää virtaa ja luultavasti käyttää koneita.</string>
+<string name="SU.02FirstNight.31.Paragraph">Ensimmäinen hiilisuoni käsilläsi vietä hieman aikaa tehdäksesi turvallisen polun suonelta takaisin törmäysalueelle. Sinun täytyy kävellä tätä polkua paljon, joten tämä on hyvin käytettyä aikaa.</string>
 <string name="SU.02FirstNight.32.Paragraph">Seuraavaksi sinun tulisi ladata virtasi keskuksesta ja mennä hiilisuonelle. Aseta soihtu säästääksesi lämpimänä pysyttelemisen virtakulua. Sitten tyhjennä virtasi Superkaivaaksesi hiilisuonta. Tee se pitämällä CTRL nappi pohjassa kun klikkaat oikealla hiiren näppäimellä. Tämä on tehoton tapa louhia mutta saat siitä pienen määrän hiiltä millä toimia.</string>
-<string name="SU.02FirstNight.33.Paragraph">Tässä vaiheessa virtasi on kulunut joten palaa nopeasti keskukselle ja lataa akkusi. Mutta nyt sinulla on parempi polttoaine lähde pistää keskukseen: Hiili! Seuraavan kerran kun painat &apos;Lisää resursseja&apos; tukin sijasta pitäisi hiilimalmin ilmestyä pesään. Tämä tuottaa enemmän virtaa, joten sinun tarvitsee tehdä vähän vähemmän pikkusäätöä ylläpitääksesi voimatasot.</string>
+<string name="SU.02FirstNight.33.Paragraph">Tässä vaiheessa virtasi on kulunut joten palaa nopeasti keskukselle ja lataa akkusi. Mutta nyt sinulla on parempi polttoaine pistää keskukseen: Hiili! Seuraavan kerran kun painat \'Lisää resursseja\' tukin sijasta pitäisi hiilimalmin ilmestyä pesään. Tämä tuottaa enemmän virtaa, joten sinun tarvitsee tehdä vähän vähemmän pikkusäätöä ylläpitääksesi voimatasot.</string>
 <string name="SU.02FirstNight.34.Header">Työstä</string>
-<string name="SU.02FirstNight.35.Paragraph">Hiilimalmi mahdollistaa itsevalmistusikkunan käytön uusien soihtujen tekemiseen. Paina &apos;C&apos; näyttääksesi tämän ikkunan. Tämä näyttää kaikki reseptit jotka voit tehdä ja niiden muassa ovat soihdut. Valitse soihdut ja oikealla puolella kerrotaan sen vaativan 5 hiiltä yhteen soihtuun. Paina &apos;Valmista&apos; ja soihtu lisätään tavaraluetteloosi.</string>
-<string name="SU.02FirstNight.36.Paragraph">Sihtuja voi myös automaattisesti valmistaa kunhan sinulla on vähintään 5 hiiltä tavaraluettelossasi. Yritä vain asettaa sellainen ja jos ne ovat loppuneet sellainen valmistetaan.</string>
+<string name="SU.02FirstNight.35.Paragraph">Hiilimalmi mahdollistaa itsevalmistusikkunan käytön uusien soihtujen tekemiseen. Paina 'C' näyttääksesi tämän ikkunan. Tämä näyttää kaikki reseptit jotka voit tehdä ja niiden muassa ovat soihdut. Valitse soihdut ja oikealla puolella kerrotaan sen vaativan 5 hiiltä yhteen soihtuun. Paina 'Valmista' ja soihtu lisätään tavaraluetteloosi.</string>
+<string name="SU.02FirstNight.36.Paragraph">Soihtuja voi myös automaattisesti valmistaa kunhan sinulla on vähintään 5 hiiltä tavaraluettelossasi. Yritä vain asettaa sellainen ja jos ne ovat loppuneet sellainen valmistetaan.</string>
 <string name="SU.02FirstNight.37.Header">Päämäärä saavutettu!</string>
-<string name="SU.02FirstNight.38.Paragraph">Hiilimalmi käsilläsi keskusvoimalan ruokkimiseen ja soihtujen hankkimiseen sinun pitäisi pystytä selviämään pinnalla loputtomasti. Tästä eteenpäin voit aloittaa toisten löydettyjen suonien luohimisen tai lähteä etsimään niitä joita et ole löytänyt. Sitten voit aloittaa metallimalmien syöttämisen sulattamolle saadaksesi harkkoja Valmistusasemalle.</string>
-<string name="SU.02FirstNight.39.Paragraph">Voit myös ajatella käyttäväsi malminluohijoitasi automatisoidaksesi kaivuun. Tai voit käyttää tutkimuspisteesi projekteihin selvittääksesi mitä tapahtui että päädyit planeetalle. Tai voit vastata syvännön haasteisiin ja tutkia mitä mielenkiintoisuuksia löytyy. Kaikki on sinun käsissäsi!</string>
+<string name="SU.02FirstNight.38.Paragraph">Hiilimalmi käsilläsi päävirtakeskuksen ruokkimiseen ja soihtujen hankkimiseen sinun pitäisi pystyä selviämään pinnalla loputtomasti. Tästä eteenpäin voit aloittaa toisten löydettyjen suonien luohimisen tai lähteä etsimään niitä joita et ole löytänyt. Sitten voit aloittaa metallimalmien syöttämisen sulattamolle saadaksesi harkkoja valmistusasemalle.</string>
+<string name="SU.02FirstNight.39.Paragraph">Voit myös ajatella käyttäväsi malmiluohijoitasi automatisoidaksesi kaivuun. Tai voit käyttää tutkimuspisteesi projekteihin selvittääksesi mitä tapahtui että päädyit planeetalle. Tai voit vastata syvännön haasteisiin ja tutkia mitä mielenkiintoisuuksia sieltä löytyy. Kaikki on sinun käsissäsi!</string>
 <string name="SU.03Controls.Title">Ohjaimet</string>
 <string name="SU.03Controls.00.Title">Ohjaimet</string>
-<string name="SU.03Controls.01.Paragraph">Tämä opas listaa kaikki käytössä olevat ohjaimet FOrtressCraft Evolved:ssa. Älä välitä vaikka ne tuntuisivat ylenpalttisilta tarkista vain oleelliset ohjaimet aloittaaksesi</string>
+<string name="SU.03Controls.01.Paragraph">Tämä opas listaa kaikki käytössä olevat ohjaimet FortressCraft Evolved:ssa. Älä välitä vaikka ne tuntuisivat ylenpalttisilta, tarkista vain oleelliset ohjaimet aloittaaksesi.</string>
 <string name="SU.03Controls.02.Paragraph">Jotkin ohjaimet ovat lukittuja opastuksen aikana.</string>
 <string name="SU.03Controls.03.Header">Oleelliset ohjaimet</string>
-<string name="SU.03Controls.04.Left">W, A, S &amp; D: Liikkuminen
-					Välilyönti: Hyppy
-					H: Tämä opaste
-					Escape: Päävalikko
-					
-					X: Vaihda rakennnuspyssyyn
-					VHN: Rakenna palikka
-					OHN: Poista palikka
-					
-					M: Vaiha luotaustyökaluun
-					VHN: Materiaalisysäys
-					OHN: Luotaa palikka
-					</string>
-<string name="SU.03Controls.05.Right">I: Avaa tavaravalikko
-					C: Avaa Itsevalmistus
-					F: Ammu tartuntakoukku
-					G: Heitä  valotikku
-					
-					E: Vuorovaikuta koneen kanssa
-					Q: Ota koneesta
-					R: pyöritä konetta
-					
-					V: Vaihda sädepyssyyn
-					LMB: Ammu
-					RMB: Ladattu laukaus
-					</string>
-<string name="SU.03Controls.06.Paragraph">(VHN = Vasen hiiren nappi, RMB = Oikea hiiren nappi)</string>
+<string name="SU.03Controls.04.Left">"W, A, S &amp; D: Liikkuminen
+ Välilyönti: Hyppy
+ H: Tämä opaste
+ Escape: Päävalikko
+ 
+ X: Vaihda rakennuspyssyyn
+ VHN: Rakenna palikka
+ OHN: Poista palikka
+ 
+ M: Vaiha luotaustyökaluun
+ VHN: Materiaalisysäys
+ OHN: Luotaa palikka
+ "</string>
+<string name="SU.03Controls.05.Right">"I: Avaa tavaravalikko
+ C: Avaa itsevalmistus
+ F: Ammu tartuntakoukku
+ G: Heitä valotikku
+ 
+ E: Vuorovaikuta koneen kanssa
+ Q: Ota koneesta
+ R: Pyöritä konetta
+ 
+ V: Vaihda sädepyssyyn
+ VHN: Ammu
+ OHN: Ladattu laukaus
+ "</string>
+<string name="SU.03Controls.06.Paragraph">(VHN = Vasen hiiren nappi, OHN = Oikea hiiren nappi)</string>
 <string name="SU.03Controls.07.Header">Ohjaimien vaihto</string>
-<string name="SU.03Controls.08.Paragraph">Useimmat ohjaimet voidaan vaihtaa laukaisimesta. Pelin sisäiset vinkit In-game hints will not reflect these changes.</string>
-<string name="SU.03Controls.09.Header">Movement &amp; View</string>
+<string name="SU.03Controls.08.Paragraph">Useimmat ohjaimet voidaan vaihtaa laukaisimesta. Pelin sisäiset vinkit eivät noudata näitä muutoksia.</string>
+<string name="SU.03Controls.09.Header">Liikkuminen &amp; katseleminen</string>
 <string name="SU.03Controls.10.Left">W: Liiku eteenpäin
 					S: Liiku taaksepäin
 					A: Liiku sivuttain vasemmale
@@ -124,52 +125,52 @@
 					Hiiri: Katso ympäriinsä
 					U: Matkusta kaivosvaunulla
 					Z: Lähennä</string>
-<string name="SU.03Controls.12.Header">Aseet &amp; Työkalut</string>
+<string name="SU.03Controls.12.Header">Aseet &amp; työkalut</string>
 <string name="SU.03Controls.13.Left">X: Vaihda rakennuspyssyyn
 					V: Vaihda sädepyssyyn
 					B: Vaihda käsikameraan</string>
 <string name="SU.03Controls.14.Right">N: Vaihda maalipyssyyn
-					M: Vaihda luotaustyökaluun
-					Shift + hiiren rulla: kierrätä työkaluja</string>
+ M: Vaihda luotaustyökaluun
+ Shift + hiiren rulla: Kierrätä työkaluja</string>
 <string name="SU.03Controls.15.Header">Tavaraluettelo &amp; pikapalkki</string>
-<string name="SU.03Controls.16.Left">I: Avaa tavaraluettelo
-					F1-F7: Valitse pikaplakin välilehti
-					1-9 &amp; 0: Valitse pikapalkin kolo
-					Q : Tiputa korostettu esine
-					</string>
-<string name="SU.03Controls.17.Right">Shift + rahaa: Jaa pino
-					Control + rulla: Kierrätä välilehtiä
-					Hiiren rulla: Kierrätä koloja
-					--
-					</string>
+<string name="SU.03Controls.16.Left">"I: Avaa tavaraluettelo
+ F1-F7: Valitse pikapalkin välilehti
+ 1-9 &amp; 0: Valitse pikapalkin kolo
+ Q : Tiputa korostettu esine
+ "</string>
+<string name="SU.03Controls.17.Right">"Shift + rahaa: Jaa nippu
+ Control + rulla: Kierrätä välilehtiä
+ Hiiren rulla: Kierrätä koloja
+ --
+ "</string>
 <string name="SU.03Controls.18.Header">Puvun toiminnot</string>
-<string name="SU.03Controls.19.Left">C: avaa Itsevalmistus (Crafting)
-					L: Kytke Otsalamppu (light)
-					J: Kytke Rakettireppu (jetpack, tarvitsee osan)
-					F: Ammu Tartuntakoukku</string>
+<string name="SU.03Controls.19.Left">C: Avaa itsevalmistus (Crafting)
+ L: Kytke otsalamppu (Light)
+ J: Kytke rakettireppu (jetpack, tarvitsee osan)
+ F: Ammu tartuntakoukku</string>
 <string name="SU.03Controls.20.Right">G: Heitä valotikku (glowstick)
-					K: Kytke Holotukikohtanäkymä
-					U: Kytke Holotukikohtatapa
-					Välilyönti: Vapauta tartuntakoukku</string>
+ K: Kytke holotukikohtanäkymä
+ U: Kytke holotukikohtatapa
+ Välilyönti: Vapauta tartuntakoukku</string>
 <string name="SU.03Controls.21.Header">Koneet</string>
 <string name="SU.03Controls.22.Left">E: Vuorovaikuta koneen kanssa
-					T: Varastoi koneeseen
-					R: Pyöritä konetta
-					]: Pyöritä myötäpäiään</string>
+ T: Varastoi koneeseen
+ R: Pyöritä konetta
+ ]: Pyöritä myötäpäivään</string>
 <string name="SU.03Controls.23.Right">Q: Ota koneesta
-					Shift-T: Varastoi 10 esinettä
-					Shift-E: Hypyttimen imurikytkös
-					[: Pyöritä vastapäivään</string>
-<string name="SU.03Controls.24.Header">Multiplayer</string>
-<string name="SU.03Controls.25.Paragraph">Enter: Näytä puheluikkuna
-					Oikea Shift: Näytä palvelintiedot
-					Oikea Shift + F1, F2 tai F3: Aseta verkkotahti</string>
+ Shift-T: Varastoi 10 esinettä
+ Shift-E: Hypyttimen imurikytkös
+ [: Pyöritä vastapäivään</string>
+<string name="SU.03Controls.24.Header">Moninpeli</string>
+<string name="SU.03Controls.25.Paragraph">Enter: Näytä jutteluikkuna
+ Oikea Shift: Näytä palvelintiedot
+ Oikea Shift + F1, F2 tai F3: Aseta verkkotahti</string>
 <string name="SU.03Controls.26.Header">Rakennuspyssy</string>
 <string name="SU.03Controls.27.Left">VHN: rakenna palikka
 					OHN: Poista palikka
 					KHN : Valitse nykyinen palikka</string>
-<string name="SU.03Controls.28.Right">Control + VHN: Rakenna-tänne
-					Control + pidä OHN: Superkaivaminen</string>
+<string name="SU.03Controls.28.Right">Control + VHN: Tänne-rakennus
+ Control + pidä OHN: Superkaivaminen</string>
 <string name="SU.03Controls.29.Header">Luotaintyökalu</string>
 <string name="SU.03Controls.30.Paragraph">Vasen hiiren nappi: Sysäytä ympäristöä
 					Oikea hiiren nappi: Luotaa palikka
@@ -183,48 +184,48 @@
 <string name="SU.03Controls.36.Right">Tab: Kytke AVUTIN:n etäisyys</string>
 <string name="SU.04UnknownMaterials.Title">Tuntemattomat materiaalit</string>
 <string name="SU.04UnknownMaterials.00.Title">Tuntemattomat materiaalit</string>
-<string name="SU.04UnknownMaterials.01.Header">Mitä ovat Tuntemattomat materiaalit?</string>
+<string name="SU.04UnknownMaterials.01.Header">Mitä ovat tuntemattomat materiaalit?</string>
 <string name="SU.04UnknownMaterials.02.Paragraph">Aluksi kaikki planeetan materiaalit ovat tuntemattomia. Ne näkyvät tavaraluettelossa kysymysmerkkinä - ollakseen hyödyksi ne pitää tunnistaa. Kerättyäsi tai luodattusi (käyttäen luotaustyökalun toissijaistomintoa) tuntemattoman materiaalin se täytyy käsitellä tutkimusasemalla.
 					Ennen tätä materiaalia ei voi käyttää käsittelyyn tai rakentamiseen.
 					</string>
 <string name="SU.04UnknownMaterials.03.Header">Tuntemattomien materiaalien käsittely</string>
-<string name="SU.04UnknownMaterials.04.Paragraph">Valitse tutkimusaseman ensimmäinen välilehti nimltään &quot;luotaukset&quot;; Täällä on lista kaikista untemattomista materiaaleista jotka olet kohdannut niiden arvo tutkimuspisteissä ja kuinka paljon voimaa vaditaan niiden käsittelyyn. Paina &apos;Käsittele&apos; nappia käsitelläksesi materiaalin. Vaadittu voima vähennetään ja määrätty määrä tutkimuspisteitä saavutetaan. Näitä voi käyttää reseptien ja projektien avaamiseen käyttäen toista ja kolmatta tutkimusaseman välilehteä.</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">Valitse tutkimusaseman ensimmäinen välilehti nimltään luotaukset; Täällä on lista kaikista tuntemattomista materiaaleista jotka olet kohdannut, niiden arvo tutkimuspisteissä ja kuinka paljon virtaa vaaditaan niiden käsittelyyn. Paina \'Käsittele\' nappia käsitelläksesi materiaalin. Vaadittu voima vähennetään ja määrätty määrä tutkimuspisteitä saavutetaan. Näitä voi käyttää reseptien ja projektien avaamiseen käyttäen toista ja kolmatta tutkimusaseman välilehteä.</string>
 <string name="SU.04UnknownMaterials.05.Header">Edistyminen</string>
 <string name="SU.04UnknownMaterials.06.Paragraph">Kun uusia materiaaleja on luodattu ne avaavat uusia koneita, reseptejä ja projekteja.</string>
 <string name="SU.04UnknownMaterials.07.Paragraph">Uusien tuntemattomien materiaalien luotaus on paras tapa saada tutkimuspisteitä. Ymmärtäessämme enemmän tästä oudosta, kulmikkaasta planeetasta pystymme varustautumaan paremmin luodaksemme isompia ja isompia koneita selviytyäksemme ja sitten paetaksemme!</string>
 <string name="SU.04UnknownMaterials.08.Paragraph">Käy tutkimusaseman oppaalla saadaksesi lisätietoja.</string>
 <string name="SU.05LaboratoryResearch.Title">Laboratoriotutkimus</string>
-<string name="SU.05LaboratoryResearch.00.Title">Laboratotiotutkimus</string>
-<string name="SU.05LaboratoryResearch.01.Paragraph">Tämä opas on tutkimusprojekteille jotka vaativat laboratorion käyttöä. Lisätietoa tutkimuksesta yleensä käy tutkimusaseman opassivulla.</string>
+<string name="SU.05LaboratoryResearch.00.Title">Laboratoriotutkimus</string>
+<string name="SU.05LaboratoryResearch.01.Paragraph">Tämä opas on tutkimusprojekteille jotka vaativat laboratorion käyttöä. Lisätietoa tutkimuksesta yleensä tutkimusaseman opassivulla.</string>
 <string name="SU.05LaboratoryResearch.02.Header">Laboratorion rakentaminen</string>
 <string name="SU.05LaboratoryResearch.03.Paragraph">Tutkimuslaboratorio täytyy ensin avata tekemällä asianmukaiset projektit tutkimusasemalla. Sitten tarvitaan 27 laboratorio-osan valmistus valmistusasemalla ja niiden asettaminen 3 kertaa 3 kertaa 3 asetelmaan.
 					</string>
 <string name="SU.05LaboratoryResearch.04.Header">Laboratorion virroittaminen</string>
-<string name="SU.05LaboratoryResearch.05.Paragraph">Laboratorio on suunniteltu käyttämään niin paljon virtaa kuin sille voidaan antaa. Lisävirta tarkoittaa nopeampaa tutkimusta! Vähitään usean Pyrotermisen agregaatin käyttämistä suositellaan mutta ei ole tarpeellista yrittää laboratorion täyttä virroittamista.</string>
+<string name="SU.05LaboratoryResearch.05.Paragraph">Laboratorio on suunniteltu käyttämään niin paljon virtaa kuin sille voidaan antaa. Lisävirta tarkoittaa nopeampaa tutkimusta! Vähintään usean polttovoimalan käyttämistä suositellaan mutta ei ole tarpeellista yrittää laboratorion täyttä virroittamista.</string>
 <string name="SU.05LaboratoryResearch.06.Header">Aloitusprojektit</string>
-<string name="SU.05LaboratoryResearch.07.Paragraph">Avaa laboratorion objainpaneeli vuorovaikuttamalla koneen kanssa (oletus &apos;E&apos;) ja varmista että olet &apos;kokeilu&apos; moodissa. Valittu projekti esitetään ensin ja kaikki sen tarvikkeet sitten ja muut aloitettavissa olevat proketit sen alla. Valitaksesi uuden projektin napsauta sitä ja sen tarvikkeet näytetään. Napsauta &apos;Aloita projekti&apos; aloittaaksesi tutkimuksen.
-					</string>
+<string name="SU.05LaboratoryResearch.07.Paragraph">"Avaa laboratorion ohjainpaneeli vuorovaikuttamalla koneen kanssa (oletus \'E\') ja varmista että olet \'kokeilu\' moodissa. Valittu projekti esitetään ensin ja kaikki sen tarvikkeet sitten ja muut aloitettavissa olevat projektit sen alla. Valitaksesi uuden projektin napsauta sitä ja sen tarvikkeet näytetään. Napsauta \'Aloita projekti\' aloittaaksesi tutkimuksen.
+ "</string>
 <string name="SU.05LaboratoryResearch.08.Header">Projektitarvikkeiden syöttäminen</string>
-<string name="SU.05LaboratoryResearch.09.Paragraph">Projektit tyypillisesti tarvitsevat yhtä tai useampaa kokeilukapseli tyyppiä. Tarkat vaatimukset esitetään projektissa. Nämä tulisi asettaa laboratorion sivuun kiinnitettyyn varastohypyttimeen. Jos haluat automatisoida kapselien kuljettamisen harkitse erillisen hypyttimen käyttämistä jokaiselle tyypille varmistaaksesi kaikkien kapselityyppien saatavuuden.</string>
-<string name="SU.05LaboratoryResearch.10.Paragraph">Lisätietoa kokeilukapselien tekemisestä seuraavassa oppassa.</string>
-<string name="SU.06ExperimentalPods.Title">Kokeilukapselit</string>
-<string name="SU.06ExperimentalPods.00.Title">Kokeilukapselit</string>
-<string name="SU.06ExperimentalPods.01.Paragraph">Kokeilukapseleitä käytetään laboratoriossa kokeiden ja tutkimusprojektien tekemiseen. Lisätietoa laboratorio tutkimuksesta sen opassivulla.</string>
-<string name="SU.06ExperimentalPods.02.Header">Mitä ovat Koekapselit?</string>
-<string name="SU.06ExperimentalPods.03.Paragraph">Koekapselit ovat resurssi  jota laboratorio käyttää kokeiden tekemiseen. Jokainen kapseli on älykäs varasto joka pystyy säilömään ja valvomaan monenlaisia aineita. Laboratio vastaa näiden hallinnoista sinun täytyy vain antaa sille tyhjiä kapseleita.</string>
+<string name="SU.05LaboratoryResearch.09.Paragraph">Projektit tyypillisesti tarvitsevat yhtä tai useampaa koekapseli tyyppiä. Tarkat vaatimukset esitetään projektissa. Nämä tulisi asettaa laboratorion sivuun kiinnitettyyn varastohypyttimeen. Jos haluat automatisoida kapselien kuljettamisen harkitse erillisen hypyttimen käyttämistä jokaiselle tyypille varmistaaksesi kaikkien kapselityyppien saatavuuden.</string>
+<string name="SU.05LaboratoryResearch.10.Paragraph">Lisätietoa koekapselien tekemisestä seuraavassa oppassa.</string>
+<string name="SU.06ExperimentalPods.Title">Koekapselit</string>
+<string name="SU.06ExperimentalPods.00.Title">Koekapselit</string>
+<string name="SU.06ExperimentalPods.01.Paragraph">Koekapseleitä käytetään laboratoriossa kokeiden ja tutkimusprojektien tekemiseen. Lisätietoa laboratoriotutkimuksesta sen opassivulla.</string>
+<string name="SU.06ExperimentalPods.02.Header">Mitä ovat koekapselit?</string>
+<string name="SU.06ExperimentalPods.03.Paragraph">Koekapselit ovat resurssi joita laboratorio käyttää kokeiden tekemiseen. Jokainen kapseli on älykäs varasto joka pystyy säilömään ja valvomaan monenlaisia aineita. Laboratio vastaa näiden hallinnoinista; sinun täytyy vain antaa sille tyhjiä kapseleita.</string>
 <string name="SU.06ExperimentalPods.04.Header">Koekapselien tekeminen</string>
-<string name="SU.06ExperimentalPods.05.Paragraph">Koekapseli avataan laboratorion yhteydessä, vain kaikkein yksinkertaisimmat voihdaan tehdä valmistusasemalla. Muut vaativat erikoitunutta koneistoa. Jokainen kapselityyppi vaatii eri raaka-ainetta mutta kaikki käyttävät samaa koneistoa rakentamiseen.</string>
+<string name="SU.06ExperimentalPods.05.Paragraph">Koekapseli avataan laboratorion yhteydessä, vain kaikkein yksinkertaisimmat voidaan tehdä valmistusasemalla. Muut vaativat erikoistunutta koneistoa. Jokainen kapselityyppi vaatii eri raaka-ainetta mutta kaikki käyttävät samaa koneistoa rakentamiseen.</string>
 <string name="SU.06ExperimentalPods.06.Paragraph">Jokainen kapseli rakennetaan metallilaatoista ja piirilevyistä jotka tehdään samasta materiaalista. Katso lisätietoa tietyn kapselin apulistauksesta.</string>
-<string name="SU.06ExperimentalPods.07.Header">Metallilaatoojen teko</string>
-<string name="SU.06ExperimentalPods.08.Paragraph">Metallilaatat tehdään leimausasemmalla. Tämä on erikoistunutkuljetin leimauskoneistolla ja voidaan tehdä valmistusasemlla. Raakamateriaalina on metalliharkot.</string>
+<string name="SU.06ExperimentalPods.07.Header">Metallilaattojen teko</string>
+<string name="SU.06ExperimentalPods.08.Paragraph">Metallilaatat tehdään leimausasemmalla. Tämä on erikoistunut kuljetin leimauskoneistolla ja voidaan tehdä valmistusasemlla. Raakamateriaalina ovat metalliharkot.</string>
 <string name="SU.06ExperimentalPods.09.Header">Piirilevyjen teko</string>
-<string name="SU.06ExperimentalPods.10.Paragraph">Piirilevyjen teko on moniosainen prosessi ja vaatii kolmen koneen käyttöä. Ensin käytä &apos;Venytysasemaa&apos; muntaaksesi metalliharkot johdoiksi. Seuraavaki &apos;Kelaasema&apos; muntaa johdot keloiksi ja lopuksi &apos;Piirilevyasema&apos; muntaa kelat piirilevyiksi</string>
+<string name="SU.06ExperimentalPods.10.Paragraph">Piirilevyjen teko on moniosainen prosessi ja vaatii kolmen koneen käyttöä. Ensin käytä \'pursotusasemaa\' muuntaaksesi metalliharkot johdoiksi. Seuraavaksi \'kelausasema\' muntaa johdot keloiksi ja lopuksi \'piirilevyasema\' muntaa kelat piirilevyiksi.</string>
 <string name="SU.06ExperimentalPods.11.Header">Kapselien valmistus</string>
-<string name="SU.06ExperimentalPods.12.Paragraph">Viimein käytä tutkimuskokoajaa yhdistääksesi laatat ja piirilevyt koekapseliksi. Tämä ei ole kuljetinpohjainen kone ja vaatii virtaa ja sisään- ja ulostulovarastohypyttimet. Suosittelemme käyttämään kahta sisääntulohypytintä sekä laattojen että piirilevyjen saatavuuden takaamiseksi. Valmiit kapseit ovat siten valmiita laboratorioon vietäviksi.</string>
+<string name="SU.06ExperimentalPods.12.Paragraph">Viimein käytä tutkimuskokoajaa yhdistääksesi laatat ja piirilevyt koekapseliksi. Tämä ei ole kuljetinpohjainen kone ja vaatii virtaa ja sisään- ja ulostulovarastohypyttimet. Suosittelemme käyttämään kahta sisääntulohypytintä sekä laattojen että piirilevyjen saatavuuden takaamiseksi. Valmiit kapselit ovat sitten valmiita laboratorioon vietäviksi.</string>
 <string name="SU.07Mynocks.Title">Mynocktartunta</string>
 <string name="SU.07Mynocks.00.Title">Mynocktartunta</string>
-<string name="SU.07Mynocks.01.Paragraph">Tämä kuljetinhihha on saanut muukaliastartunnan. Muukalianen näytää varastavan resursseja hihnalta mutta resurssit eivät näytä jäävän sen kehon sisään. Sen sijaan ne näyttävät suuntautuvan juuristoon maassa. Luotaimemme näyttävät näiden juurien johtavan kohti keskusydintä. Meidän pitäisi tutkia tämä asia kiirellisenä.</string>
-<string name="SU.07Mynocks.02.Paragraph">Riippumatta siitä mihin nämä varastetut resurssit menevät haluamme lopettaa sen. Muukalaisten rakenne näyttää olevan heikko energia-aseille. Meidän tulisi tutkia niiden heikkouksia lisää minkä pitäisi mahdollistaa automatisoidun puolustuksen rakentamisen niitä vastaan. Pitkällä tähtäimellä meidän tulisi tutkia resurssikuljetus menetelmiä jotka eivät ole yhtä avoimia hyökkäyksille. Nyt voimme tappaa ne sädepyssyllä (V) mutta ne luultavasti tulevat takaisin nopeasti.</string>
+<string name="SU.07Mynocks.01.Paragraph">Tämä kuljetinhihna on saanut muukalaistartunnan. Muukalainen näyttää varastavan resursseja hihnalta mutta resurssit eivät näytä jäävän sen kehon sisään. Sen sijaan ne näyttävät suuntautuvan juuristoon maassa. Luotaimemme näyttävät näiden juurien johtavan kohti keskusydintä. Meidän pitäisi tutkia tämä asia kiirellisenä.</string>
+<string name="SU.07Mynocks.02.Paragraph">Riippumatta siitä mihin nämä varastetut resurssit menevät haluamme lopettaa sen. Muukalaisten rakenne näyttää olevan heikko energia-aseille. Meidän tulisi tutkia niiden heikkouksia lisää minkä pitäisi mahdollistaa automatisoidun puolustuksen rakentamisen niitä vastaan. Pitkällä tähtäimellä meidän tulisi tutkia resurssikuljetusmenetelmiä jotka eivät ole yhtä avoimia hyökkäyksille. Nyt voimme tappaa ne sädepyssyllä (V) mutta ne luultavasti tulevat takaisin nopeasti.</string>
 <string name="SU.08VideoTutorials.Title">Video-oppaat!</string>
 <string name="SU.08VideoTutorials.00.Title">Video-oppaat</string>
 <string name="SU.08VideoTutorials.01.Paragraph">Haluatko lisää oppaita? Kerro meille twitterissä @fortress_craft tai Steam forumeilla! - Dj</string>
@@ -233,5 +234,5 @@
 <string name="SU.09CommunityLinks.01.Paragraph">Muista että voit aina puhua minulle twitterissä @fortress_craft tai Steam foorumeilla! - Dj</string>
 <string name="SU.Particulate_Filtration.Title">Hiukkassuodatus</string>
 <string name="SU.Particulate_Filtration.00.Title">Hiukkassuodatus</string>
-<string name="SU.Particulate_Filtration.01.Paragraph">Tutkimalla puvun suodatinjärjestelmiä pystymme nyt suodattamaan erilaisia aineita ilmasta. Rakentamalla näitä järjestemiä erilaisiin luoliin pitäisi mahdollistaa ottaa, tiivistää ja pullottaa erilaisia ilmasta löyhtyviä aineita. Luolien sekimääräisen koon ja hiukkasten tiheyden takia tällä ei pitäisi olla houmattavia pitkän aikavälin vaikutuksia ilmanlaatuun. Nämä järjestelmät voivat vähentää paikallisen eliöstön vihamielisyyttä. Tämän vaikutuksen pitäisi olla pieni koska ei ole tunnettuja pääosin vihamielisiä eliöitä. Kylmäluolasta saa Freezonia, Myrkkyluolista Klooria ja Magmaluolista Rikkiä.</string>
+<string name="SU.Particulate_Filtration.01.Paragraph">Tutkimalla puvun suodatinjärjestelmiä pystymme nyt suodattamaan erilaisia aineita ilmasta. Rakentamalla näitä järjestemiä erilaisiin luoliin pitäisi olla mahdollistaa ottaa, tiivistää ja pullottaa erilaisia ilmasta löytyviä aineita. Luolien keskiimääräisen koon ja hiukkasten tiheyden takia tällä ei pitäisi olla huomattavia pitkän aikavälin vaikutuksia ilmanlaatuun. Nämä järjestelmät voivat vähentää paikallisen eliöstön vihamielisyyttä. Tämän vaikutuksen pitäisi olla pieni koska ei ole tunnettuja pääosin vihamielisiä eliöitä. Kylmäluolasta saa freezonia, myrkkyluolista klooria ja magmaluolista rikkiä.</string>
 </resources>
