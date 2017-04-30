@@ -1090,7 +1090,7 @@ Sehr Energie hungrig!</string>
     <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Gegenstände/min auf 4m Entfernung</string>
     <!--Ore smelters-->
     <string name="Ore Smelter">Schmelzofen</string>
-    <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode Barren aus Ressourcen herzustellen.</string>
+    <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode, um Barren aus Ressourcen herzustellen.</string>
     <string name="Basic Ore Smelter">Einfacher Schmelzofen</string>
     <string name="Basic Ore Smelter_DESC">Halb so schnell und Effizient wie der normale Schmelzofen. Kann nicht verbessert werden</string>
     <!--inline production and conveyors -->
@@ -1325,7 +1325,7 @@ Sehr Energie hungrig!</string>
     <string name="Lift w/underside Piston">Lift mit unterseitigem Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit</string>
     <string name="Lift Compressor">Lift Kompressor</string>
-    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nHat keine Funktionalität auf einem Mehrspielerserver.</string>
+    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nFunktioniert nicht auf einem Mehrspielerserver.</string>
     <string name="Lift Manual Control Module">Manuelle Liftsteuerung</string>
     <string name="Lift Manual Control Module_DESC">Ermöglichst manuelles Bedienen des Lifts.\\nNutze Home und End zum Steuern!\\nZum Benutzen an einen Lift anschliessen.</string>
     <string name="MK1 Robot Arm">MK1 Roboterarm</string>
