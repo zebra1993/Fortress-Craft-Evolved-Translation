@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Здраститя! Ваш язык поддерживается только частично. Если желаете переключиться на английский, нажмите кнопку \"Английский\" внизу.</string>
     <string name="Installed">Установлено</string>
+    <string name="Translation_Incomplete">Перевод незакончен!</string>
     </resources>
