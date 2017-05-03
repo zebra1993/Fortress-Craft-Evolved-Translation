@@ -526,17 +526,18 @@
 
     <!-- Terrain entries. Names, plurals and descriptions-->
     <string name="Air">Air</string>
-    <string name="Air_DESC"/>
+    <string name="Air_DESC">Air_DESC</string>
     <string name="Grass">Grass</string>
-    <string name="Grass_DESC"/>
+    <string name="Grass_DESC">Grass_DESC</string>
     <string name="Rock">Rock</string>
     <string name="Rock_DESC"/>
     <string name="Dirt">Dirt</string>
-    <string name="Dirt_DESC"/>
+    <string name="Dirt_DESC">Dirt_DESC</string>
     <string name="Wooden Planks">Wooden Planks</string>
-    <string name="Wooden Planks_DESC"/>
+    <string name="Wooden Planks_DESC">Wooden Planks_DESC</string>
     <string name="Rubble">Rubble</string>
-    <string name="Rubble_DESC"/>
+    <string name="Rubble_DESC">Rubble_DESC
+ Kopírovat →↵…“”‘’-–—</string>
     <string name="Brick">Brick</string>
     <string name="Brick_DESC"/>
     <string name="TNT">TNT</string>
