@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Приветствие!</string>
+<resources><string name="Partial_Language_Support">Приветствуем! Ваш язык поддерживается лишь частично. Если желаете переключиться на Английский, нажмите кнопку \"Английский\" внизу.</string>
     <string name="Installed">Установлено</string>
     <string name="Translation_Incomplete">Перевод незавершён!</string>
     <string name="Language_Name">Английский</string><string name="Frozen_Factory">Морозная фабрика</string>
