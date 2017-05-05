@@ -1,16 +1,166 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Приветствуем! Ваш язык поддерживается лишь частично. Если желаете переключиться на Английский, нажмите кнопку \"Английский\" внизу.</string>
+<resources><string name="Partial_Language_Support">Здравствуйте! Ваш язык поддерживается лишь частично. Если хотите перейти на Английский, нажмите кнопку \"Английский\" снизу!</string>
     <string name="Installed">Установлено</string>
-    <string name="Translation_Incomplete">Перевод незавершён!</string>
-    <string name="Language_Name">Английский</string><string name="Frozen_Factory">Морозная фабрика</string>
-    <string name="Skin_Pack">Пакет \"скинов\".</string>
-    <string name="Dapper_Pack">Пакет \"Dapper\"</string>
+    <string name="Translation_Incomplete">Перевод не закончен!</string>
+    <string name="Language_Name">Английский</string><string name="Frozen_Factory">Морозная Фабрика</string>
+    <string name="Skin_Pack">Комплект Скинов</string>
+    <string name="Dapper_Pack">Элегантный комплект</string>
     <string name="Not_Installed">Не установлено</string>
     <string name="Multiplayer_Sign">&lt;Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
     <string name="Create_World">Создать Мир</string>
-    <string name="Resource_Level">Уровень ресурсов</string>
-    <string name="Power_Level">Уровень энергии</string>
+    <string name="Resource_Level">Уровень Ресурсов</string>
+    <string name="Power_Level">Уровень Энергии</string>
     <string name="Conveyor_Speed">Скорость конвейеров</string>
-    <string name="Day_Night_Cycle">Цикл День/Ночь</string>
+    <string name="Day_Night_Cycle">Цикл день/ночь</string>
+    <string name="World_Sign">Выбор Мира</string>
+    <string name="Spacebar">Пробел</string>
+    <string name="Mob_Difficulty">Сложность противников</string>
+    <string name="Death_Mode">Режим смерти</string>
+    <string name="Mode">Режим</string>
+    <string name="Select_Mods">Выбор модов</string>
+    <string name="Back">Назад</string>
+    <string name="Mutators">Модификаторы</string>
+
+    <string name="Enter_World">Войти в Мир</string>
+    <string name="Reset_World">Сброс Мира</string>
+
+
+    <string name="Creative_New">Режим Творчества даёт неограниченную возможность строить что угодно, использовать высокодетализированные строительные блоки и инструменты для редактирования мира, чертежи и систему быстрого копирования и вставки. В этом режиме не представлены основные моменты Выживания, так что не стоит считать его \"читерским\" по отношению к последнему!</string>
+    <string name="Mod_Management">Управление модами</string>
+    <string name="Mod_Name">Название Мода</string>
+    <string name="Active">Активен</string>
+    <string name="Version">Версия</string>
+    <string name="Lock">Блокировка</string>
+    <string name="Status">Статус</string>
+    <string name="Workshop">Мастерская</string>
+
+    <string name="Workshop_Mod">Мод из Мастерской</string>
+    <string name="Downloading">Скачивается</string>
+
+    <string name="On">Вкл.</string>
+    <string name="Off">Выкл.</string>
+    <string name="Locked">Заблокировано</string>
+
+    <string name="Scarce">Скудно</string>
+    <string name="Greg">Грег</string>
+    <string name="Plentiful">Изобильно</string>
+    <string name="Rapid">Стремительно</string>
+
+    <string name="Fast">Быстро</string>
+    <string name="Slow">Медленно</string>
+
+    <string name="Eternal Day">Вечный день</string>
+    <string name="Normal">Нормально</string>
+    <string name="Eternal Night">Вечная ночь</string>
+
+    <string name="Trivial Mobs">Лёгкие противники</string>
+    <string name="Normal Mobs">Нормальные противники</string>
+    <string name="Hard Mobs">Тяжёлые противники</string>
+
+    <string name="None">Нет</string>
+    <string name="Clumsy">Неуклюжий</string>
+    <string name="Iron Man">Железный Человек</string>
+    <string name="SquishCore">Месиво</string>
+    <string name="Hardcore">Хардкор</string>
+
+    <string name="Survival">Выживание</string>
+    <string name="Creative">Творчество</string>
+
+    <string name="Default_Settings_Info">Настройки по-умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё больше ускорить развитие игрока - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
+Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен и обратите внимание на {par times}!</string>
+    <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
+    <string name="Play_time">Время игры</string>
+    <string name="Mod_Selected">мод выбран.</string>
+    <string name="Mods_Selected">модов выбрано.</string>
+    <string name="Resources_Plentiful_Info">Изобильный уровень ресурсов даёт огромное количество ресурсов и значительно ускоряет прогресс в игре на всем её протяжении. Подходит для терпеливых и новых игроков.</string>
+    <string name="Resources_Scarce_Info">Скудный уровень ресурсов приведёт к медленной и вдумчивой игре, даст много времени на исследования и для размышлений об оптимизации базы. Не рекомендуется для новых игроков!</string>
+    <string name="Resources_Greg_Info">Уровень ресурсов \"Грег\" круто снизит скорость развития в игре. Такой уровень предназначен для тех, кто будет играть круглосуточно и для ВЕСЬМА терпеливых игроков!</string>
+    <string name="Resources_Rapid_Info">Стремительный уровень ресурсов предназначен для людей с личной жизнью, детьми, работой или тех, кто будет стримить игру на выходных. Прекрасно подходит для быстрого ознакомления с игрой, перед тем, как окунуться в большую сложность.</string>
+
+
+    <string name="Conveyor_Slow_Info">Медленные конвейеры хорошо сбалансированы и подчёркивают важность высокоуровневых конвейеров.</string>
+    <string name="Conveyor_Fast_Info">Быстрые конвейеры означают меньшее время ожидания. Они примерно вдвое быстрее Медленных.</string>
+
+    <string name="Plentiful_Power_Info">Изобильный уровень Энергии даёт улучшенный сбор энергии от всех генераторов энергии. Заметно влияет на прогресс на ранних этапах игры.</string>
+    <string name="Scarce_Power_Info">Скудный уровень Энергии означает сбалансированную генерацию энергии. Замедляет развитие на начальной стадии.</string>
+
+    <string name="Eternal_Day_Info">Вечный день означает, что система сбора солнечной энергии будет работать постоянно, и вы не будете страдать от ночного понижения температуры. Это позволяет развиваться намного быстрее - сбор солнечной энергии будет в среднем в 4 раза быстрее!</string>
+    <string name="Day_Night_Info">Нормальный цикл смены дня и ночи длится 24 минуты. В течение 12 минут темноты вы будете страдать от резкого падения температуры, увеличенной агрессии противников и уменьшенной видимости.</string>
+    <string name="Eternal_Night_Info">Вечная Ночь - это отсутствие дневной передышки от замерзания и доступа к солнечной энергии; включая ваш ЦУП. Это серьёзное испытание.</string>
+
+    <string name="Death_Default_Info">Это режим по-умолчанию. Нет штрафов за смерть, за исключением низкого уровня здоровья и длинных прогулок. Делает игру исключительно лёгкой, отсутствуют штрафы за любые виды смерти.</string>
+    <string name="Death_Clumsy_Info">Неуклюжий режим рекомендован, если вам нужны разумное испытание и хорошая причина постараться не умереть! Вы будете выбрасывать содержимое инвентаря во время смерти!</string>
+    <string name="Death_Ironman_Info">НЕ ДЛЯ НОВИЧКОВ!
+Режим \"Железный Человек\" - только для храбрых, тупых или упёртых. Умирая, Вы будете НАВСЕГДА ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
+    <string name="Death_SquishCore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
+
+Месиво - это очень просто - если вы умираете, то это навсегда</string>
+    <string name="Death_Hardcore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
+
+Хардкор - сложнейший режим. Если вы умрёте, или погибнет ваш ЦУП - это окончательный конец игры! А ещё ваш ЦУП не восстанавливается.</string>
+
+    <string name="Flatland_Disabled">Плоский режим отключен.</string>
+    <string name="Flatland_Enabled">Делает ландшафт плоским - отсюда и название!</string>
+
+    <string name="Needs_FF">Требуется дополнение \"Морозная Фабрика\".</string>
+
+    <string name="Care_Package_Enabled">Гуманитарная помощь включена! Придаёт значительный импульс в начале игры, с самого начала предоставляя строительную пушку МК3, аккумулятор костюма большей ёмкости, солнечную панель и обогреватель костюма. Халява! .</string>
+
+    <string name="Flatland_Locked">Плоский режим будет доступен после уничтожения Источника КриоПлазмы.</string>
+    <string name="Rush_Mode">Режим \"Натиск\"</string>
+    <string name="Flatland">Плоский режим</string>
+    <string name="Care_Package">Гуманитарная помощь</string>
+    <string name="Survival_Options">Параметры Выживания</string>
+    <string name="Creative_Info">Это уже существующий Творческий Мир, но, к сожалению, тут нет никакой особо крутой статистики, которую можно отразить. Может, вместо этого хотите картинку с котиком?</string>
+
+    <string name="Update_Pending">Ожидает обновления</string>
+    <string name="Care_Package_Locked">Гуманитарная помощь разблокируется, как только вы сможете построить Центр Климатического Контроля (ЦКК).</string>
+    <string name="Care_Package_Disabled">Гуманитарная помощь отключена.</string>
+    <string name="Rushmode_Locked">Режим Натиска будет разблокирован после постройки Орбитального Передатчика Энергии.</string>
+    <string name="Rushmode_Disabled">Режим Натиска отключён.</string>
+    <string name="Hours">час</string>
+
+    <string name="Edit">Редактировать</string>
+    <string name="Delete">Удалить</string>
+    <string name="Add_New">Добавить</string>
+    <string name="Mods">Моды</string>
+    <string name="Page">Стр.</string>
+
+    <string name="Iron Bar">Железный слиток</string>
+    <string name="Iron Bars">Железные слитки</string>
+    <string name="MK1 Power Booster">Усилитель мощности МК1</string>
+    <string name="MK1 Power Boosters">Усилители мощности МК1</string>
+    <string name="MK2 Power Booster">Усилитель мощности МК2</string>
+    <string name="MK2 Power Boosters">Усилители мощности МК2</string>
+    <string name="MK3 Power Booster">Усилитель мощности МК3</string>
+    <string name="MK3 Power Boosters">Усилители мощности МК3</string>
+    <string name="MK4 Power Booster">Усилитель мощности МК4</string>
+    <string name="MK4 Power Boosters">Усилители мощности МК4</string>
+    <string name="MK5 Power Booster">Усилитель мощности МК5</string>
+    <string name="MK5 Power Boosters">Усилители мощности МК5</string>
+    <string name="Copper Bar">Медный слиток</string>
+    <string name="Copper Bars">Медные слитки</string>
+    <string name="Lithium Bar">Литиевый слиток</string>
+    <string name="Lithium Bars">Литиевые слитки</string>
+    <string name="Chromium Bar">Хром</string>
+    <string name="Chromium Bars">Хром</string>
+    <string name="Molybdenum Bar">Молибденовый слиток</string>
+    <string name="Molybdenum Bars">Молибденовые слитки</string>
+    <string name="Plastic Pellet">Пластиковая гранула</string>
+    <string name="Plastic Pellets">Пластиковые гранулы</string>
+    <string name="High Energy Composite Fuel">Высокоэнерегетическое композитное топливо</string>
+    <string name="Empty Metal Tube">Пустая металлическая труба</string>
+    <string name="Empty Metal Tubes">Пустые металлические трубы</string>
+    <string name="Empty Fuel Canister">Пустая металлическая канистра</string>
+    <string name="Empty Fuel Canisters">Пустые металлические канистры</string>
+    <string name="High Octane Fuel">Высокооктановое топливо</string>
+    <string name="Gold Bar">Золотой слиток</string>
+    <string name="Gold Bars">Золотые слитки</string>
+    <string name="Tin Bar">Оловянный слиток</string>
+    <string name="Tin Bars">Оловянные слитки</string>
+    <string name="Nickel Bar">Никелевый слиток</string>
+    <string name="Nickel Bars">Никелевые слитки</string>
+    <string name="Titanium Bar">Титановый слиток</string>
+    <string name="Titanium Bars">Титановые слитки</string>
     </resources>
