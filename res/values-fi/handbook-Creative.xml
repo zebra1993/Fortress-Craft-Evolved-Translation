@@ -44,7 +44,7 @@ Työpajoja voi rakentaa minne tahansa maailmaan. Tehdäksesi sellaisen aloitat a
 <string name="CR.01Welcome.20.Paragraph">3. Aseta toinen palikka mihin haluat työpajan toisen kulman tulevan.</string>
 <string name="CR.01Welcome.21.Paragraph">4. Jos kaksi palikkaa ovat viistottain ja 7 palikan etäällä toisistaan työpaja tehdään niiden välille käyttäen vahvistettua kiveä ja vahvistettua puuta.</string>
 <string name="CR.01Welcome.22.Paragraph">Työpajoja voi tehdä eri kokoisina alkaen 2x2 (kaksi palikka suorasti viistottain) jopa 8x8 kokoon (6 tyhjää palikkaa ensimmäisen ja toisen palikan välissä).</string>
-<string name="CR.01Welcome.23.Header">Yksityiskohtapalikan luonti työpajassa.</string>
+<string name="CR.01Welcome.23.Header">Yksityiskohtapalikan luonti työpajassa</string>
 <string name="CR.01Welcome.24.Paragraph">Kun olet rakentanut ensimmäisen työpajasi mene siihen aloittaaksesi ensimmäisen yksityiskohtapalasi luonnin. Kun olet työpajassa kaksi asiaa tapahtuu: Työpajan ulkoreuna hohtaa säihkehtivillä hiukkasilla ja työpajakäyttöliittymä ilmestyy.</string>
 <string name="CR.01Welcome.25.Paragraph">Tiettyjä näppäimiä käytetään työpajan toimintojen valitsemiseen:
 Y: Aloita uusi sommitelma
@@ -93,7 +93,7 @@ näytteistää värin valitusta palikasta jos valittua palikaa voi maalata. Maal
 <string name="CR.01Welcome.60.Paragraph">eRain: Luo sateen</string>
 <string name="CR.01Welcome.61.Paragraph">eDayNight: Kierrättää aikaa eteen tai taaksepäin nopeasti</string>
 <string name="CR.01Welcome.62.Paragraph">eMeteor: Kutsuu meteoreita. VHN kutsuu meteorin korkealta taivaalta iskemään johonkin lähelläsi. OHN kutsuu meteorin sääsauvastasi tähdättynä valittuun palikkaan. Molemmilla toiminnoilla on pieni viive joten klikkausten ylenpalttinen painelu ei välttämättä tuota niin montaa meteoria kuin haluaisit :). Kun viskailet meteoreita varo avaruusasemia!</string>
-<string name="CR.02HowToPlaySurvival.Title">Kuinka pelata sinnittelymuotoa?</string>
+<string name="CR.02HowToPlaySurvival.Title">Kuinka pelata sinnittelymuotoa</string>
 <string name="CR.02HowToPlaySurvival.00.Title">Kuinka pelata sinnittelymuotoa</string>
 <string name="CR.02HowToPlaySurvival.01.Paragraph">Tämä on luovan muodon peli. Aloittaksesi sinnitelymaailman:</string>
 <string name="CR.02HowToPlaySurvival.02.Paragraph">Mene takaisin päävalikkoon. Mene maailmanvalintahouneeseen ja valitse tyhjä paikka (oikea nuoli tai klikkaa pöytiä). Pelimuotoilmaisimen vieressä on nuolia joita voit klikata vaihtaaksesi pelimuodon sinnittelyksi. Paina 'Luo maailma' aloittaaksesi pelaamisen</string>
