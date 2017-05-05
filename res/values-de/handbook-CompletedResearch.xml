@@ -26,17 +26,17 @@
 <string name="CO.Base_Defence.00.Title">Stützpunkt Verteidigung</string>
 <string name="CO.Base_Defence.01.Paragraph">Wir können diesem Planeten nun die Demokratie bringen!</string>
 <string name="CO.Base_Defence.02.Paragraph">Die Forschung war erfolgreich! Wir verfügen nun über drei verschiedene Türme zur Herstellung. Das ARTHER-Geschütz ist energieeffizient und hat eine lange Reichweite, muss aber von ARTHER betrieben werden. Besonders geeignet, wenn sonst keine Verteidigung vorhanden ist und erst Ressourcen für die Verteidigungstürme gesammelt werden müssen.</string>
-<string name="CO.Basic_Mining_Upgrades_I.Title">Basic Mining Upgrades I</string>
+<string name="CO.Basic_Mining_Upgrades_I.Title">Einfache Tagebauverbesserungen I</string>
 <string name="CO.Basic_Mining_Upgrades_I.00.Title">Bergbau I</string>
 <string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">Wir haben erfolgreich eine Reihe von Verbesserungen erforscht, um unsere Ressourcenerzeugung zu erhöhen.</string>
-<string name="CO.Basic_Mining_Upgrades_I.02.Header">Basic Ore Smelter</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">einfache Erzschmelze</string>
 <string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">Wir können jetzt einfache Schmelzöfen errichten. Einfache Schmelzöfen unterstützen keine Zwangsinduktoren, sind langsamer und weniger effizient als die normalen Schmelzöfen. Es sollte dennoch dabei helfen, diesen Notsituation zu bewältigen.</string>
 <string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">Die meisten Ressourcen die wir nahe der Oberfläche gefunden haben, eignen sich nicht für den Bau von normalen Schmelzöfen, doch haben Scans ergeben, dass einige Felsformationen im Untergrund die gewünschten Eigenschaften haben können.</string>
-<string name="CO.Basic_Mining_Upgrades_I.05.Header">Forced Induction</string>
+<string name="CO.Basic_Mining_Upgrades_I.05.Header">erzwungene Induktionseinheit</string>
 <string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Zwangsinduktoren können auf normalen Schmelzöfen platziert werden, um die Schmelzrate zu verbessern. Der Stromverbrauch steigt dabei enorm an. Einfache Schmelzöfen unterstützen keine Zwangsinduktion.</string>
-<string name="CO.Basic_Mining_Upgrades_I.07.Header">Drill Motors</string>
+<string name="CO.Basic_Mining_Upgrades_I.07.Header">Bohrerantriebe</string>
 <string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Erzbohrer können mit verbesserten Motoren ausgestattet werden, um die Extraktionsgeschwindigkeit zulasten der Energiekosten zu erhöhen.</string>
-<string name="CO.Basic_Mining_Upgrades_II.Title">Basic Miner Upgrades II</string>
+<string name="CO.Basic_Mining_Upgrades_II.Title">Einfache Tagebauverbesserungen II</string>
 <string name="CO.Basic_Mining_Upgrades_II.00.Title">Bergbau II</string>
 <string name="CO.Basic_Mining_Upgrades_II.01.Paragraph">Weitere Verbesserungen für unsere Bohrer und Schmelzöfen sind nun verfügbar!.</string>
 <string name="CO.Black_Box_Data.Title">BlackBox-Daten</string>
@@ -87,4 +87,5 @@
 <string name="CO.Advanced_Research.03.Paragraph">Mehr Informationen zum Labor gibt es in der folgenden Anleitung:</string>
 <string name="CO.Local_Life_Forms.01.Paragraph">Auf diesem Planeten scheint es eine große Auswahl and pflanzlichem und tierischem Leben zu geben. Allerdings ist uns nicht alles davon freundlich gesonnen.</string>
 <string name="CO.Local_Life_Forms.02.Paragraph">Unsere Scanner machen eine Menge fliegende Lebensformen in der Nähe aus, die ein potenzielles Risiko darstellen. Wir haben Pläne für einen Gefahrenstufesensor, der die Bedrohung überwachen kann. Wir sollten außerdem herausfinden, wie wir ein grundlegendes Abwehrnetz errichten. Wahrscheinlich noch mehr Sorgen sollten uns die großen, organischen Strukturen im Untergrund bereiten, die unseren geregelten Nachschub an Ressourcen unterbrechen könnten.</string>
+<string name="CO.Advanced_Research.02.Paragraph">Das Labo wird benütig um fortgeschrittene Projekte zu erforschen, um unsere Technologiekentnisse zu erweiter und neue Projekte und Rezepte freizuschalten. Eine gesamt Zahl von 27 Laborkomponenten werden benötig (3 Flächen zu je 9 Komponenten) und müssen in einem 3x3x3 Würfel angeordnet sein.</string>
 </resources>
