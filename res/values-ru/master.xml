@@ -233,4 +233,17 @@
     <string name="Existing_Seed">Текущее начальное число</string>
 
     <string name="TriSeed">Тризерн</string>
+    <string name="OrbitalPar">Ожидаемое время Орбитальной Зарядки</string>
+    <string name="FFPar">Ожидаемое время Морозной Фабрики</string>
+    <string name="Dedicated">Выделенный</string>
+    <string name="Players">Игроки</string>
+    <string name="Ping">Пинг</string>
+    <string name="Hide_Host_Address">Скрыть Адрес Сервера</string>
+    <string name="Host_Address">Адрес Сервера</string>
+    <string name="Unable_To_Join">Невозможно подключиться</string>
+
+    <string name="Join">Подключиться</string>
+    <string name="Low Grade Steel Bar">Стальная Плита Низкого Качества</string>
+    <string name="Low Grade Steel Bars">Стальные Плиты Низкого Качества</string>
+    <string name="Steel Ball Bearing">Стальной Шаровой Подшипник</string>
     </resources>
