@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>T2 assist machines</Handle>
 
-	<Title>{{CO.Advanced_Logistics.Title}}</Title>
+	<Title>{{ index .Data "CO.Advanced_Logistics.Title" }}</Title>
 
 	<Icon>mk1 robot arm</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Advanced_Logistics.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Advanced_Logistics.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Advanced_Logistics.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Advanced_Logistics.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

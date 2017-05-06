@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>SolarCellMK1</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Solar_Cell_MK1.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Solar Cell MK1</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Solar_Cell_MK1.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

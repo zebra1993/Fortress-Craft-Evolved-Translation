@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>NickelBar</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Nickel_Bar.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Nickel Bar</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Icon>
+					<Name>Nickel Ore</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Nickel_Bar.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

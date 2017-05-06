@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>RedCanvas</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Red_Canvas.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Red Canvas</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Red_Canvas.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

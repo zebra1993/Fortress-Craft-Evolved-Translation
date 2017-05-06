@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>SuitHeadlightMK1</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Suit_Headlight_MK1.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Suit Headlight MK1</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Suit_Headlight_MK1.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

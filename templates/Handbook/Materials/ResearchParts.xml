@@ -1,45 +1,63 @@
 <MaterialEntry>
-	<Name>Research Parts</Name>
+	<Key>DeOrbitContainerContennts</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.ResearchParts.00.Title}}</Text>
+					<Text>{{ index .Data "MA.ResearchParts.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Lightweight PCB</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.ResearchParts.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.ResearchParts.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Spacer/>
+
 
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
 
+
 						<Page>0</Page>
+
 
 					</Target>
 
+
 					<Text>Laboratory Research</Text>
+
 
 				</Link>
 
+
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

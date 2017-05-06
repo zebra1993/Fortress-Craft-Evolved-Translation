@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Rubble</Name>
+	<Key>Rubble</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Rubble.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Rubble.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Rubble</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Rubble.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Rubble.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

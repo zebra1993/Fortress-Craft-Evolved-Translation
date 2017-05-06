@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>mining upgrade 1</Handle>
 
-	<Title>{{CO.Basic_Mining_Upgrades_I.Title}}</Title>
+	<Title>{{ index .Data "CO.Basic_Mining_Upgrades_I.Title" }}</Title>
 
 	<Icon>Magnetic Drill Motor</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Basic_Mining_Upgrades_I.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,11 +21,11 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Basic_Mining_Upgrades_I.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
-				<Header><Text>{{CO.Basic_Mining_Upgrades_I.02.Header}}</Text>
+				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.02.Header" }}</Text>
 </Header>
 
 				<Icon>
@@ -36,18 +36,18 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Basic_Mining_Upgrades_I.03.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.03.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{CO.Basic_Mining_Upgrades_I.04.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.04.Paragraph" }}</Text>
 
 				</Paragraph>
 
-				<Header><Text>{{CO.Basic_Mining_Upgrades_I.05.Header}}</Text>
+				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.05.Header" }}</Text>
 </Header>
 
 				<Icon>
@@ -58,7 +58,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Basic_Mining_Upgrades_I.06.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.06.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -68,7 +68,7 @@
 
 		<Page>
 			<Paragraphs>
-				<Header><Text>{{CO.Basic_Mining_Upgrades_I.07.Header}}</Text>
+				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.07.Header" }}</Text>
 </Header>
 
 				<Icon>
@@ -79,7 +79,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Basic_Mining_Upgrades_I.08.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.08.Paragraph" }}</Text>
 
 				</Paragraph>
 					

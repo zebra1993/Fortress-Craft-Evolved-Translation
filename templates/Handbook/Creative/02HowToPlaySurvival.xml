@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>findingSurvival</Handle>
 
-	<Title>{{CR.02HowToPlaySurvival.Title}}</Title>
+	<Title>{{ index .Data "CR.02HowToPlaySurvival.Title" }}</Title>
 
 	<Icon>Unknown</Icon>
 
@@ -9,17 +9,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CR.02HowToPlaySurvival.00.Title}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.00.Title" }}</Text>
 
 				</Title>
 
 				<Paragraph>
-					<Text>{{CR.02HowToPlaySurvival.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Paragraph>
-					<Text>{{CR.02HowToPlaySurvival.02.Paragraph}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.02.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -30,36 +30,36 @@
 				<Spacer/>
 
 				<Header>
-					<Text>{{CR.02HowToPlaySurvival.03.Header}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.03.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{CR.02HowToPlaySurvival.04.Paragraph}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.04.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Header>
-					<Text>{{CR.02HowToPlaySurvival.05.Header}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.05.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{CR.02HowToPlaySurvival.06.Paragraph}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.06.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Header>
-					<Text>{{CR.02HowToPlaySurvival.07.Header}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.07.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{CR.02HowToPlaySurvival.08.Paragraph}}</Text>
+					<Text>{{ index .Data "CR.02HowToPlaySurvival.08.Paragraph" }}</Text>
 
 				</Paragraph>
 				

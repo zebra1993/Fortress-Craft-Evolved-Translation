@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>DapperWall</Name>
+	<Key>DapperWall</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.DapperWall.00.Title}}</Text>
+					<Text>{{ index .Data "MA.DapperWall.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>DapperWall</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.DapperWall.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.DapperWall.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

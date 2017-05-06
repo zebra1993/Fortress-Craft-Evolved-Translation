@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>PipeCoater</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Pipe_Coater.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Pipe Coater</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Pipe_Coater.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Link>
+					<Target>
+						<Material>Heat Conducting Pipe</Material>
+
+
+					</Target>
+
+
+					<Text>Heat Conducting Pipe</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Geothermal Generator comp.</Material>
+
+
+					</Target>
+
+
+					<Text>Geothermal Generator comp.</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

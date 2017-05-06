@@ -1,15 +1,15 @@
 <Chapter>
 	<Handle>Advanced Defence</Handle>
 
-	<Title>{{AV.Advanced_Defence.Title}}</Title>
+	<Title>{{ index .Data "AV.Advanced_Defence.Title" }}</Title>
 
-	<Icon>&gt;Missile Turret MK1</Icon>
+	<Icon>>Missile Turret MK1</Icon>
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Advanced_Defence.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Advanced_Defence.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Advanced_Defence.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Advanced_Defence.01.Paragraph" }}</Text>
   
 				</Paragraph>
 

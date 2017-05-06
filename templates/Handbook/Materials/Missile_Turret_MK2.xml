@@ -1,0 +1,69 @@
+<MaterialEntry>
+	<Key>MissileTurretMK2</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Missile_Turret_MK2.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Missile Turret MK2</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>{{ index .Data "MA.Missile_Turret_MK2.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Missile_Turret_MK2.02.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Missile_Turret_MK2.03.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Missile_Turret_MK2.04.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

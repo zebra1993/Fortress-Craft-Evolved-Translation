@@ -1,109 +1,153 @@
 <MaterialEntry>
-	<Name>Ore Extractor</Name>
+	<Key>OreExtractor</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Extractor.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Extractor.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Ore Extractor</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.02.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.02.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.03.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.03.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 		<Page>
 			<Paragraphs>
 				<Paragraph>
-					<Text>{{MA.Extractor.04.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.04.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Header>
-					<Text>{{MA.Extractor.05.Header}}</Text>
+					<Text>{{ index .Data "MA.Extractor.05.Header" }}</Text>
+
 
 				</Header>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.06.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.06.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Header>
-					<Text>{{MA.Extractor.07.Header}}</Text>
+					<Text>{{ index .Data "MA.Extractor.07.Header" }}</Text>
+
 
 				</Header>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.08.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.08.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Header>
-					<Text>{{MA.Extractor.09.Header}}</Text>
+					<Text>{{ index .Data "MA.Extractor.09.Header" }}</Text>
+
 
 				</Header>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.10.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.10.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.Extractor.11.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Extractor.11.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 					
 			</Paragraphs>
 
+
 		</Page>
+
 
 			<Page>
 			<Paragraphs>
-				<Header><Text>{{MA.Extractor.12.Header}}</Text>
+				<Header><Text>{{ index .Data "MA.Extractor.12.Header" }}</Text>
+
 </Header>
 
-				<TwoColumnParagraph>
-					<Left>{{MA.Extractor.13.Left}}</Left>
 
-					<Right>{{MA.Extractor.14.Right}}</Right>
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Extractor.13.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Extractor.14.Right" }}</Right>
+
 
 				</TwoColumnParagraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 
 	</Pages>
 
+
 </MaterialEntry>
+
 

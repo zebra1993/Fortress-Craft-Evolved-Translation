@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>Local Life Forms</Handle>
 
-	<Title>{{AV.Local_Life_Forms.Title}}</Title>
+	<Title>{{ index .Data "AV.Local_Life_Forms.Title" }}</Title>
 
 	<Icon>Local Life Forms</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Local_Life_Forms.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Local_Life_Forms.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Local_Life_Forms.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Local_Life_Forms.01.Paragraph" }}</Text>
   
 				</Paragraph>
 

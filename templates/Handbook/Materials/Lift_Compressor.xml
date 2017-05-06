@@ -1,0 +1,61 @@
+<MaterialEntry>
+	<Key>LiftCompressor</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Lift_Compressor.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Lift Compressor</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Lift_Compressor.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Lift_Compressor.02.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Lift_Compressor.03.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Lift_Compressor.04.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

@@ -1,0 +1,88 @@
+<MaterialEntry>
+	<Key>RefineryController</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Refinery_Controller.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Refinery Controller</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Refinery_Controller.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Link>
+					<Target>
+						<Material>Refinery Reactor Vat Component</Material>
+
+
+					</Target>
+
+
+					<Text>Refinery Reactor Vat Component</Text>
+
+
+				</Link>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Refinery_Controller.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+		<Page>
+			<Paragraphs>
+				<Header><Text>{{ index .Data "MA.Refinery_Controller.03.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Refinery_Controller.04.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Refinery_Controller.05.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+
+

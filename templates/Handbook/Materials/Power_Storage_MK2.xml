@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>PowerStorageMK2</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Power_Storage_MK2.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>PowerStorageBlockT2</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Power_Storage_MK2.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Power_Storage_MK2.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Power_Storage_MK2.03.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Power_Storage_MK2.04.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Power_Storage_MK2.05.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

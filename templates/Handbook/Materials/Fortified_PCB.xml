@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>FortifiedPCB</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Fortified_PCB.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Fortified PCB</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Fortified_PCB.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

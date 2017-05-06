@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>RuinedLightChitin</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Ruined_Light_Chitin.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>WaspLightChitinRuined</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Ruined_Light_Chitin.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

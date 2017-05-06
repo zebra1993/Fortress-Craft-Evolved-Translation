@@ -1,53 +1,75 @@
 <MaterialEntry>
-	<Name>Macerator</Name>
+	<Key>Macerator</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Macerator.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Macerator.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Macerator</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Macerator.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Macerator.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Spacer/>
 
-				<TwoColumnParagraph>
-					<Left>{{MA.Macerator.02.Left}}</Left>
 
-					<Right>{{MA.Macerator.03.Right}}</Right>
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Macerator.02.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Macerator.03.Right" }}</Right>
+
 
 				</TwoColumnParagraph>
 
-				<Spacer/>
 
 				<Spacer/>
+
+
+				<Spacer/>
+
 
 				<Header>
-					<Text>{{MA.Macerator.04.Header}}</Text>
+					<Text>{{ index .Data "MA.Macerator.04.Header" }}</Text>
+
 
 				</Header>
 
-				<Paragraph><Text>{{MA.Macerator.05.Paragraph}}</Text>
+
+				<Paragraph><Text>{{ index .Data "MA.Macerator.05.Paragraph" }}</Text>
+
 </Paragraph>
+
 
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 
 

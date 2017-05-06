@@ -5,7 +5,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Build_Gun_V1.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Build_Gun_V1.00.Title" }}</Text>
 
 				</Title>
 
@@ -17,7 +17,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{MA.Build_Gun_V1.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Build_Gun_V1.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

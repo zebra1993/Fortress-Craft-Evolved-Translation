@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>PristineStinger</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Pristine_Stinger.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>WaspStingerPristine</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Pristine_Stinger.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

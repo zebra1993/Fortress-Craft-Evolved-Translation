@@ -1,0 +1,70 @@
+<MaterialEntry>
+	<Key>LaboratoryPlacement</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Laboratory_Component.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Laboratory Component</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Laboratory_Component.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Laboratory_Component.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+
+
+						<Page>0</Page>
+
+
+					</Target>
+
+
+					<Text>Laboratory Research Guide</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

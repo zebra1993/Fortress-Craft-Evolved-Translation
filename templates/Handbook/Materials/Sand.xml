@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Sand</Name>
+	<Key>SandNonFluid</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Sand.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Sand.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Sand</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Sand.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Sand.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

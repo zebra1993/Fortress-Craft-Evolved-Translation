@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>T4_start</Handle>
 
-	<Title>{{CO.Frozen_Factory.Title}}</Title>
+	<Title>{{ index .Data "CO.Frozen_Factory.Title" }}</Title>
 
 	<Icon>Local Life Forms</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Frozen_Factory.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Frozen_Factory.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,21 +21,21 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Frozen_Factory.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Frozen_Factory.01.Paragraph" }}</Text>
   
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{CO.Frozen_Factory.02.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Frozen_Factory.02.Paragraph" }}</Text>
   
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{CO.Frozen_Factory.03.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Frozen_Factory.03.Paragraph" }}</Text>
   
 				</Paragraph>
 

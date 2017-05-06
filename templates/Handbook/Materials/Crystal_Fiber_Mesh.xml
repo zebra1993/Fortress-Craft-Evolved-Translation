@@ -1,0 +1,60 @@
+<MaterialEntry>
+	<Key>CrystalFiberMesh</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Crystal_Fiber_Mesh.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Crystal Fiber Mesh</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Crystal_Fiber_Mesh.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Link>
+					<Target>
+						<Material>Mesh Weaver</Material>
+
+
+					</Target>
+
+
+					<Text>Crystal Mesh Weaver</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>GoldHousing</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Gold_Housing.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Gold Housing</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Gold_Housing.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

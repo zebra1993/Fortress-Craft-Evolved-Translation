@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>suit upgrades</Handle>
 
-	<Title>{{CO.Suit_Upgrading.Title}}</Title>
+	<Title>{{ index .Data "CO.Suit_Upgrading.Title" }}</Title>
 
 	<Icon>Suit Upgrading</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Suit_Upgrading.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Suit_Upgrading.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,14 +21,14 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Suit_Upgrading.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Suit_Upgrading.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{CO.Suit_Upgrading.02.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Suit_Upgrading.02.Paragraph" }}</Text>
 
 				</Paragraph>
 

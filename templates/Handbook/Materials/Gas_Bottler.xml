@@ -1,0 +1,99 @@
+<MaterialEntry>
+	<Key>GasBottlerPlacement</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Gas_Bottler.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>T4_Gas_Bottler</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Gas_Bottler.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Link>
+					<Target>
+						<Chapter>T4_Particles</Chapter>
+
+
+					</Target>
+
+
+					<Text>Particulate Filtration System</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Particle Filter</Material>
+
+
+					</Target>
+
+
+					<Text>Particle Filter</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Particle Compressor</Material>
+
+
+					</Target>
+
+
+					<Text>Particle Compressor</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Particle Storage</Material>
+
+
+					</Target>
+
+
+					<Text>Particle Storage</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

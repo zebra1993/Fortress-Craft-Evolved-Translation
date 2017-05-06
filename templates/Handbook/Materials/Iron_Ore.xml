@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>IronOre</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Iron_Ore.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Iron Ore_Sparse</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Iron_Ore.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Iron_Ore.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

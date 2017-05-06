@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ToxicCavernStone</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Toxic_Cavern_Stone.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Toxic Cavern Flora 4</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Toxic_Cavern_Stone.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

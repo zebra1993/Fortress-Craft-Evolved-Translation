@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>IronCoil</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Iron_Coil.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Iron Coil</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Iron_Coil.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

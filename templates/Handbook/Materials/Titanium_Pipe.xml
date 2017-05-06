@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>TitaniumPipe</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Titanium_Pipe.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Titanium Pipe</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Titanium_Pipe.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

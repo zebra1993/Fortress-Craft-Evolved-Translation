@@ -1,15 +1,15 @@
 <Chapter>
 	<Handle>black box</Handle>
 
-	<Title>{{AV.Black_Box_Data.Title}}</Title>
+	<Title>{{ index .Data "AV.Black_Box_Data.Title" }}</Title>
 
-	<Icon>&gt;Black Box Data</Icon>
+	<Icon>>Black Box Data</Icon>
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Black_Box_Data.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Black_Box_Data.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Black_Box_Data.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Black_Box_Data.01.Paragraph" }}</Text>
   
 				</Paragraph>
 

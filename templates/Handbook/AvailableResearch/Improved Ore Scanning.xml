@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>ore pings</Handle>
 
-	<Title>{{AV.Improved_Ore_Scanning.Title}}</Title>
+	<Title>{{ index .Data "AV.Improved_Ore_Scanning.Title" }}</Title>
 
 	<Icon>Improved Ore Scanning</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Improved_Ore_Scanning.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Improved_Ore_Scanning.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,14 +21,14 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Improved_Ore_Scanning.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Improved_Ore_Scanning.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{AV.Improved_Ore_Scanning.02.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Improved_Ore_Scanning.02.Paragraph" }}</Text>
 
 				</Paragraph>
 

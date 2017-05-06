@@ -1,0 +1,130 @@
+<MaterialEntry>
+	<Key>BasicConveyorBelt</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Basic Conveyor Belt</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+				<Header>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.02.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.03.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Header>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.04.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.05.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.06.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+		
+		<Page>
+			<Paragraphs>
+				<Header><Text>{{ index .Data "MA.Basic_Conveyor_Belt.07.Header" }}</Text>
+
+</Header>
+
+
+				<Icon>
+					<Name>Conveyor Belt Filter</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Basic_Conveyor_Belt.08.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Basic_Conveyor_Belt.09.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Basic_Conveyor_Belt.10.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Basic_Conveyor_Belt.11.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+	
+			</Paragraphs>
+
+
+		</Page>
+
+					
+	</Pages>
+
+
+</MaterialEntry>
+
+

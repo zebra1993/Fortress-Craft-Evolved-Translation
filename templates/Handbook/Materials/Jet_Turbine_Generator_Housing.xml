@@ -1,0 +1,76 @@
+<MaterialEntry>
+	<Key>JetTurbineGeneratorHousingPlacement</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Housing.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Space Panel</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Housing.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Jet_Turbine_Generator_Housing.02.Header" }}</Text>
+
+</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Housing.03.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Jet_Turbine_Generator_Housing.04.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Jet_Turbine_Generator_Housing.05.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Jet_Turbine_Generator_Housing.06.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

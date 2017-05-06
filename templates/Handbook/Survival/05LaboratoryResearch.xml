@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>laboratory research</Handle>
 
-	<Title>{{SU.05LaboratoryResearch.Title}}</Title>
+	<Title>{{ index .Data "SU.05LaboratoryResearch.Title" }}</Title>
 
 	<Icon>Laboratory Component</Icon>
 
@@ -14,7 +14,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.05LaboratoryResearch.00.Title}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.00.Title" }}</Text>
 
 				</Title>
 
@@ -24,7 +24,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.01.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -41,22 +41,22 @@
 				</Link>
 				
 				<Header>
-					<Text>{{SU.05LaboratoryResearch.02.Header}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.02.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.03.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.03.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.05LaboratoryResearch.04.Header}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.04.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.05.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.05.Paragraph" }}</Text>
 
 				</Paragraph>
 				
@@ -68,18 +68,18 @@
 		<Page>
 			<Paragraphs>
 			<Header>
-					<Text>{{SU.05LaboratoryResearch.06.Header}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.06.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.07.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.07.Paragraph" }}</Text>
 
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.05LaboratoryResearch.08.Header}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.08.Header" }}</Text>
 
 				</Header>
 
@@ -89,14 +89,14 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.09.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.09.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.05LaboratoryResearch.10.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.05LaboratoryResearch.10.Paragraph" }}</Text>
 
 				</Paragraph>
 				

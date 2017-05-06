@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>experimental pods</Handle>
 
-	<Title>{{SU.06ExperimentalPods.Title}}</Title>
+	<Title>{{ index .Data "SU.06ExperimentalPods.Title" }}</Title>
 
 	<Icon>ResearchPod_Basic</Icon>
 
@@ -14,7 +14,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.06ExperimentalPods.00.Title}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.00.Title" }}</Text>
 
 				</Title>
 
@@ -24,7 +24,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.01.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -41,29 +41,29 @@
 				</Link>
 						
 				<Header>
-					<Text>{{SU.06ExperimentalPods.02.Header}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.02.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.03.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.03.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.06ExperimentalPods.04.Header}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.04.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.05.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.05.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.06.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.06.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -74,7 +74,7 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.06ExperimentalPods.07.Header}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.07.Header" }}</Text>
 
 				</Header>
 
@@ -84,12 +84,12 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.08.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.08.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.06ExperimentalPods.09.Header}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.09.Header" }}</Text>
 
 				</Header>
 
@@ -99,7 +99,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.10.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.10.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -110,7 +110,7 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.06ExperimentalPods.11.Header}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.11.Header" }}</Text>
 
 				</Header>
 
@@ -120,7 +120,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.06ExperimentalPods.12.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.06ExperimentalPods.12.Paragraph" }}</Text>
 
 				</Paragraph>
 

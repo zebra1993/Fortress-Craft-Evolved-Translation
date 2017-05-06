@@ -1,49 +1,69 @@
 <MaterialEntry>
-	<Name>SpiderBot Blaster</Name>
+	<Key>SpiderBotBlaster</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.SpiderBotBlaster.00.Title}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBlaster.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>SpiderBot Defences 3</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.SpiderBotBlaster.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBlaster.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Spacer/>
 
+
 				<Header>
-					<Text>{{MA.SpiderBotBlaster.02.Header}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBlaster.02.Header" }}</Text>
+
 
 				</Header>
 
+
 				<Spacer/>
+
 
 				<Link>
 					<Target>
 						<Material>SpiderBot Base Component</Material>
 
+
 					</Target>
+
 
 					<Text>More information regarding SpiderBot!</Text>
 
+
 				</Link>
+
 
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+

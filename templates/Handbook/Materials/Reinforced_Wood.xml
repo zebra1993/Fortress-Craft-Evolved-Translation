@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ReinforcedWood</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Reinforced_Wood.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Reinforced Wood</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Reinforced_Wood.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

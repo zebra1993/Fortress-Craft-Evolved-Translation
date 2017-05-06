@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>aesthetics</Handle>
 
-	<Title>{{CO.Aesthetics.Title}}</Title>
+	<Title>{{ index .Data "CO.Aesthetics.Title" }}</Title>
 
 	<Icon>Hello_Kitty1</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Aesthetics.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Aesthetics.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Aesthetics.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Aesthetics.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

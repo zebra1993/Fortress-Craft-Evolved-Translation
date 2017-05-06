@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ARTHERDapperMonocle</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.ARTHER_Dapper_Monocle.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>ARTHER Dapper Monocle</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.ARTHER_Dapper_Monocle.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

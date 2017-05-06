@@ -1,0 +1,99 @@
+<MaterialEntry>
+	<Key>ThreatReducer</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Threat_Reducer.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Threat Reducer</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Threat_Reducer.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Threat_Reducer.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Link>
+					<Target>
+						<Material>Threat Scanner</Material>
+
+
+					</Target>
+
+
+					<Text>Threat Scanner</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Threat Agitator</Material>
+
+
+					</Target>
+
+
+					<Text>Threat Agitator</Text>
+
+
+				</Link>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Threat_Reducer.03.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Threat_Reducer.04.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Threat_Reducer.05.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

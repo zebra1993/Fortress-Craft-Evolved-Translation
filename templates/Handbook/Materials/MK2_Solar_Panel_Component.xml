@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>SolarPanelMK2Placement</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.MK2_Solar_Panel_Component.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>MK2 Solar Panel Component</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.MK2_Solar_Panel_Component.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.MK2_Solar_Panel_Component.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.MK2_Solar_Panel_Component.03.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.MK2_Solar_Panel_Component.04.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.MK2_Solar_Panel_Component.05.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+					
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

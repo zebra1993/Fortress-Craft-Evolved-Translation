@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ServoMotor</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Servo_Motor.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Servo Motor</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Servo_Motor.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

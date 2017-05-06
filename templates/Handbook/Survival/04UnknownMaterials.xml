@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>unknown materials</Handle>
 
-	<Title>{{SU.04UnknownMaterials.Title}}</Title>
+	<Title>{{ index .Data "SU.04UnknownMaterials.Title" }}</Title>
 
 	<Icon>Unknown</Icon>
 
@@ -9,12 +9,12 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.04UnknownMaterials.00.Title}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.00.Title" }}</Text>
 
 				</Title>
 
 				<Header>
-					<Text>{{SU.04UnknownMaterials.01.Header}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.01.Header" }}</Text>
 
 				</Header>
 
@@ -24,17 +24,17 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.04UnknownMaterials.02.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.02.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.04UnknownMaterials.03.Header}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.03.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.04UnknownMaterials.04.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.04.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -45,24 +45,24 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.04UnknownMaterials.05.Header}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.05.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.04UnknownMaterials.06.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.06.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Paragraph>
-					<Text>{{SU.04UnknownMaterials.07.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.07.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.04UnknownMaterials.08.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.04UnknownMaterials.08.Paragraph" }}</Text>
 
 				</Paragraph>
 

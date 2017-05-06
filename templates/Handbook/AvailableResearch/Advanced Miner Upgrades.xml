@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>mining upgrade 5</Handle>
 
-	<Title>{{AV.Advanced_Miner_Upgrades.Title}}</Title>
+	<Title>{{ index .Data "AV.Advanced_Miner_Upgrades.Title" }}</Title>
 
 	<Icon>Magnetic Drill Motor</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Advanced_Miner_Upgrades.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Advanced_Miner_Upgrades.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Advanced_Miner_Upgrades.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Advanced_Miner_Upgrades.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

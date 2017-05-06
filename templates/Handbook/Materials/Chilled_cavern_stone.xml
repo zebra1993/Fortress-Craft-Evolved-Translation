@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ChilledCavernStone</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Chilled_cavern_stone.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Chilled Cavern Stone</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Chilled_cavern_stone.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

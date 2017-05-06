@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Truss</Name>
+	<Key>Truss</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Truss.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Truss.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Truss</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Truss.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Truss.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

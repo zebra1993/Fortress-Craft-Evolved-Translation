@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Leaves</Name>
+	<Key>Leaves</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Leaves.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Leaves.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Leaves</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Leaves.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Leaves.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

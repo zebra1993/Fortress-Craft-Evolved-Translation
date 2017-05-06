@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Sign</Name>
+	<Key>Sign</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Sign.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Sign.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Sign</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Sign.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Sign.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>ConductivePCB</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Conductive_PCB.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Conductive PCB</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Conductive_PCB.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

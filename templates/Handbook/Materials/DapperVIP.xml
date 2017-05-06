@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>DapperVIP</Name>
+	<Key>DapperVIP</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.DapperVIP.00.Title}}</Text>
+					<Text>{{ index .Data "MA.DapperVIP.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>DapperVIP</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.DapperVIP.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.DapperVIP.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

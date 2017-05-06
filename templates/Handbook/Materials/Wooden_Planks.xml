@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>WoodenPlanks</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Wooden_Planks.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Wooden Planks</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Wooden_Planks.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

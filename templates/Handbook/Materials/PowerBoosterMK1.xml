@@ -1,70 +1,100 @@
 <MaterialEntry>
-	<Name>MK1 Power Booster</Name>
+	<Key>PowerBoosterMK1</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.PowerBoosterMK1.00.Title}}</Text>
+					<Text>{{ index .Data "MA.PowerBoosterMK1.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>MK1 Power Booster</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.PowerBoosterMK1.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.PowerBoosterMK1.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
-				<Spacer/>
 
 				<Spacer/>
 
-				<Header><Text>{{MA.PowerBoosterMK1.02.Header}}</Text>
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.PowerBoosterMK1.02.Header" }}</Text>
+
 </Header>
 
+
 				<TwoColumnParagraph>
-					<Left>{{MA.PowerBoosterMK1.03.Left}}</Left>
-<Right>{{MA.PowerBoosterMK1.04.Right}}</Right>
+					<Left>{{ index .Data "MA.PowerBoosterMK1.03.Left" }}</Left>
+
+<Right>{{ index .Data "MA.PowerBoosterMK1.04.Right" }}</Right>
+
 
 				</TwoColumnParagraph>
 
-				<Spacer/>
 
 				<Spacer/>
+
+
+				<Spacer/>
+
 
 				<Link>
 					<Target>
 						<Material>PowerBoosterMK2</Material>
 
+
 					</Target>
+
 
 					<Text>ARTHER Power Booster MK2</Text>
 
+
 				</Link>
+
 
 				<Link>
 					<Target>
 						<Material>MK1PowerBoosterCharger</Material>
 
+
 					</Target>
+
 
 					<Text>Crafted by MK1 Power Booster Charger</Text>
 
+
 				</Link>
+
 
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

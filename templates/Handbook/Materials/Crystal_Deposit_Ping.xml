@@ -1,0 +1,60 @@
+<MaterialEntry>
+	<Key>CrystalDepositPing</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Crystal_Deposit_Ping.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Crystal Deposit Ping</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Crystal_Deposit_Ping.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+
+
+					</Target>
+
+
+					<Text>Blank Ore Ping</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+		
+	</Pages>
+
+
+</MaterialEntry>
+
+

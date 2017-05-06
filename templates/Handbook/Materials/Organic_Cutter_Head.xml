@@ -1,0 +1,71 @@
+<MaterialEntry>
+	<Key>OrganicCutterHead</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Organic_Cutter_Head.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Organic Cutter Head</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Organic_Cutter_Head.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Organic_Cutter_Head.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Organic_Cutter_Head.03.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Organic_Cutter_Head.04.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Organic_Cutter_Head.05.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+		
+	</Pages>
+
+
+</MaterialEntry>
+
+

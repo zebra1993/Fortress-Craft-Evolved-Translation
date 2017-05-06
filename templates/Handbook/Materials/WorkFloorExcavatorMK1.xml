@@ -1,45 +1,64 @@
 <MaterialEntry>
-	<Name>Workfloor Excavator MK1</Name>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.WorkFloorExcavatorMK1.00.Title}}</Text>
+					<Text>{{ index .Data "MA.WorkFloorExcavatorMK1.00.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Icon>
-					<Name>&gt;Workfloor Excavator MK1</Name>
+					<Name>>Workfloor Excavator MK1</Name>
+
 
 					<Alignment>Center</Alignment>
 
+
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.WorkFloorExcavatorMK1.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.WorkFloorExcavatorMK1.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Spacer/>
 
-				<Header><Text>{{MA.WorkFloorExcavatorMK1.02.Header}}</Text>
+
+				<Header><Text>{{ index .Data "MA.WorkFloorExcavatorMK1.02.Header" }}</Text>
+
 </Header>
+
 
 				<TwoColumnParagraph>
 					<Alignment>Center</Alignment>
 
-					<Left>{{MA.WorkFloorExcavatorMK1.03.Left}}</Left>
 
-					<Right>{{MA.WorkFloorExcavatorMK1.04.Right}}</Right>
+					<Left>{{ index .Data "MA.WorkFloorExcavatorMK1.03.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.WorkFloorExcavatorMK1.04.Right" }}</Right>
+
 
 				</TwoColumnParagraph>
 
+
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

@@ -1,0 +1,97 @@
+<MaterialEntry>
+	<Key>LaserResinAblator</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Hard_Resin_Ablator.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Laser Resin Ablator</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Hard_Resin_Ablator.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Hard_Resin_Ablator.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+
+				<Link>
+					<Target>
+						<Material>Laser Resin Liquifier</Material>
+
+
+					</Target>
+
+
+					<Text>Laser Resin Liquifier</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Material>Liquid Resin Refiner</Material>
+
+
+					</Target>
+
+
+					<Text>Liquid Resin Refiner</Text>
+
+
+				</Link>
+
+
+					<Link>
+					<Target>
+						<Material>Refined Liquid Resin</Material>
+
+
+					</Target>
+
+
+					<Text>Refined Liquid Resin</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

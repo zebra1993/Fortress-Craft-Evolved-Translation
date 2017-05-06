@@ -1,0 +1,50 @@
+<MaterialEntry>
+	<Key>JetPack</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Jet_Pack.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Jet Pack</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Jet_Pack.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+			
+				<Paragraph>
+					<Text>{{ index .Data "MA.Jet_Pack.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+			
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

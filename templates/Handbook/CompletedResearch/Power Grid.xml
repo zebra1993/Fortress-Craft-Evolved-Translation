@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>T1 Power</Handle>
 
-	<Title>{{CO.Power_Grid.Title}}</Title>
+	<Title>{{ index .Data "CO.Power_Grid.Title" }}</Title>
 
 	<Icon>Power Grid</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Power_Grid.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Power_Grid.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,13 +21,13 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Power_Grid.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Power_Grid.01.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
-				<Header><Text>{{CO.Power_Grid.02.Header}}</Text>
+				<Header><Text>{{ index .Data "CO.Power_Grid.02.Header" }}</Text>
 </Header>
 
 				<Icon>
@@ -38,11 +38,11 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Power_Grid.03.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Power_Grid.03.Paragraph" }}</Text>
 
 				</Paragraph>
 
-				<Header><Text>{{CO.Power_Grid.04.Header}}</Text>
+				<Header><Text>{{ index .Data "CO.Power_Grid.04.Header" }}</Text>
 </Header>
 
 				<Icon>
@@ -53,7 +53,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Power_Grid.05.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Power_Grid.05.Paragraph" }}</Text>
 
 				</Paragraph>
 					

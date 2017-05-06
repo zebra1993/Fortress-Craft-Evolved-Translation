@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>welcome</Handle>
 
-	<Title>{{SU.01Welcome.Title}}</Title>
+	<Title>{{ index .Data "SU.01Welcome.Title" }}</Title>
 
 	<Icon>Solar Panel-old</Icon>
 
@@ -9,37 +9,37 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.01Welcome.00.Title}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.00.Title" }}</Text>
 
 				</Title>
 
 				<Header>
-					<Text>{{SU.01Welcome.01.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.01.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.02.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.02.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.01Welcome.03.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.03.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.04.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.04.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.01Welcome.05.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.05.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.06.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.06.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -85,7 +85,7 @@
 			<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.01Welcome.07.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.07.Header" }}</Text>
 
 				</Header>
 
@@ -94,14 +94,14 @@
 
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.08.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.08.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.09.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.09.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -112,7 +112,7 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.01Welcome.10.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.10.Header" }}</Text>
 
 				</Header>
 
@@ -122,7 +122,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.11.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.11.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -146,7 +146,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.12.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.12.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -172,7 +172,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.13.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.13.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -198,7 +198,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.14.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.14.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -218,7 +218,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.15.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.15.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -239,48 +239,48 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.01Welcome.16.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.16.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.17.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.17.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.18.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.18.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.19.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.19.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Header>
-					<Text>{{SU.01Welcome.20.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.20.Header" }}</Text>
 
 				</Header>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.21.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.21.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.22.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.22.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.23.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.23.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -291,7 +291,7 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>{{SU.01Welcome.24.Header}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.24.Header" }}</Text>
 
 				</Header>
 
@@ -301,14 +301,14 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.25.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.25.Paragraph" }}</Text>
 
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.26.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.26.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -330,7 +330,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.27.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.27.Paragraph" }}</Text>
 
 				</Paragraph>
 
@@ -356,7 +356,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{SU.01Welcome.28.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.01Welcome.28.Paragraph" }}</Text>
 
 				</Paragraph>
 

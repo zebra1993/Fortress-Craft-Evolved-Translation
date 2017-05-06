@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>VideoTutorials</Handle>
 
-	<Title>{{SU.08VideoTutorials.Title}}</Title>
+	<Title>{{ index .Data "SU.08VideoTutorials.Title" }}</Title>
 
 	<Icon>ARTHER Dapper Pack</Icon>
 
@@ -11,7 +11,7 @@
 		<Page>
       <Paragraphs>
         <Title>
-          <Text>{{SU.08VideoTutorials.00.Title}}</Text>
+          <Text>{{ index .Data "SU.08VideoTutorials.00.Title" }}</Text>
 
         </Title>
 
@@ -68,7 +68,7 @@
         <Spacer/>
 
         <Paragraph>
-          <Text>{{SU.08VideoTutorials.01.Paragraph}}</Text>
+          <Text>{{ index .Data "SU.08VideoTutorials.01.Paragraph" }}</Text>
 
         </Paragraph>
 

@@ -1,0 +1,126 @@
+<MaterialEntry>
+	<Key>ChargeableExplosive</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Chargeable_Explosive.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Chargeable Explosive</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Chargeable_Explosive.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Chargeable_Explosive.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header>
+					<Text>{{ index .Data "MA.Chargeable_Explosive.03.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.04.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.05.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.06.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.07.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.08.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.09.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.10.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.11.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.12.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.13.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+				<Header>
+					<Text>{{ index .Data "MA.Chargeable_Explosive.14.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph><Text>{{ index .Data "MA.Chargeable_Explosive.15.Paragraph" }}</Text>
+
+</Paragraph>
+
+
+	
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

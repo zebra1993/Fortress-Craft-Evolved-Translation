@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>mining upgrade 4</Handle>
 
-	<Title>{{AV.Intermediate_Miner_Upgrades_II.Title}}</Title>
+	<Title>{{ index .Data "AV.Intermediate_Miner_Upgrades_II.Title" }}</Title>
 
 	<Icon>Enhanced Drill Motor</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{AV.Intermediate_Miner_Upgrades_II.00.Title}}</Text>
+					<Text>{{ index .Data "AV.Intermediate_Miner_Upgrades_II.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{AV.Intermediate_Miner_Upgrades_II.01.Paragraph}}</Text>
+					<Text>{{ index .Data "AV.Intermediate_Miner_Upgrades_II.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

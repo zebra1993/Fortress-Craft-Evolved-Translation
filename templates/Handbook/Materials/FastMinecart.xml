@@ -1,200 +1,284 @@
 <MaterialEntry>
-	<Name>Fast Minecart</Name>
+	<Key>FastMinecart</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.FastMinecart.00.Title}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Minecart_T2</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.FastMinecart.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
-				<Spacer/>
 
 				<Spacer/>
 
-				<Header><Text>{{MA.FastMinecart.02.Header}}</Text>
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.FastMinecart.02.Header" }}</Text>
+
 </Header>
 
-				<TwoColumnParagraph>
-					<Left>{{MA.FastMinecart.03.Left}}</Left>
 
-					<Right>{{MA.FastMinecart.04.Right}}</Right>
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.FastMinecart.03.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.FastMinecart.04.Right" }}</Right>
+
 
 				</TwoColumnParagraph>
 
+
 				<Spacer/>
+
 
 				<Paragraph>
-					<Text>{{MA.FastMinecart.05.Paragraph}}</Text>
-&gt;
+					<Text>{{ index .Data "MA.FastMinecart.05.Paragraph" }}</Text>
+
+>
 				</Paragraph>
 
+
 				<Spacer/>
+
 
 				<Link>
 					<Target>
 						<Material>Minecart Depot</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Depot</Text>
 
+
 				</Link>
+
 
 			</Paragraphs>
 
+
 		</Page>
+
 				
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.FastMinecart.06.Title}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.06.Title" }}</Text>
+
 
 				</Title>
 
 
+
 				<Paragraph>
-					<Text>{{MA.FastMinecart.07.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.07.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 				<Spacer/>
+
 
 				<Icon>
 					<Name>Minecart Load</Name>
 
+
 					<Target><Material>MinecartLoadStation</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Link>
 					<Target>
 						<Material>MinecartLoadStation</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Load</Text>
 
+
 				</Link>
+
 
 				<Icon>
 					<Name>Minecart Unload</Name>
 
+
 					<Target><Material>MinecartUnloadStation</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Link>
 					<Target>
 						<Material>MinecartUnloadStation</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Unload</Text>
 
+
 				</Link>
+
 
 			</Paragraphs>
 
+
 		</Page>
+
 
 			<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.FastMinecart.08.Title}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.08.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.FastMinecart.09.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.FastMinecart.09.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 
 				<Icon>
 					<Name>Minecart Turbo Rail</Name>
 
+
 					<Target><Material>Minecart Turbo Rail</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Link>
 					<Target>
 						<Material>Minecart Turbo Rail</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Turbo Rail</Text>
 
+
 				</Link>
 
+
 				<Spacer/>
+
 
 				<Icon>
 					<Name>MinecartBufferFull</Name>
 
+
 					<Target><Material>MinecartBufferFull</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Link>
 					<Target>
 						<Material>Minecart Full Gate</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Full Gate</Text>
 
+
 				</Link>
 
+
 				<Spacer/>
+
 
 				<Icon>
 					<Name>MinecartBufferEmpty</Name>
 
+
 					<Target><Material>MinecartBufferEmpty</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Link>
 					<Target>
 						<Material>Minecart Empty Gate</Material>
 
+
 					</Target>
+
 
 					<Text>Minecart Empty Gate</Text>
 
+
 				</Link>
 
+
 				<Spacer/>
+
 
 
 		
 			</Paragraphs>
 
+
 		</Page>
+
 
 	
 	</Pages>
 
+
 </MaterialEntry>
+
 

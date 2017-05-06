@@ -1,31 +1,43 @@
 <MaterialEntry>
-	<Name>Window</Name>
+	<Key>Window</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.Window.00.Title}}</Text>
+					<Text>{{ index .Data "MA.Window.00.Title" }}</Text>
+
 
 				</Title>
+
 
 				<Icon>
 					<Name>Window</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.Window.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.Window.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 				
 			</Paragraphs>
 
+
 		</Page>
+
 				
 	</Pages>
 
+
 </MaterialEntry>
+
 

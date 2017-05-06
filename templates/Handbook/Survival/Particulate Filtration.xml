@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>T4_Particles</Handle>
 
-	<Title>{{SU.Particulate_Filtration.Title}}</Title>
+	<Title>{{ index .Data "SU.Particulate_Filtration.Title" }}</Title>
 
 	<Icon>Particulate Filtration</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.Particulate_Filtration.00.Title}}</Text>
+					<Text>{{ index .Data "SU.Particulate_Filtration.00.Title" }}</Text>
 
 				</Title>
 
@@ -23,7 +23,7 @@
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.Particulate_Filtration.01.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.Particulate_Filtration.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

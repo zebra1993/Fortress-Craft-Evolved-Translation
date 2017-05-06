@@ -1,15 +1,15 @@
 <Chapter>
 	<Handle>Base Defence</Handle>
 
-	<Title>{{CO.Base_Defence.Title}}</Title>
+	<Title>{{ index .Data "CO.Base_Defence.Title" }}</Title>
 
-	<Icon>&gt;ARTHER Turret</Icon>
+	<Icon>>ARTHER Turret</Icon>
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Base_Defence.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Base_Defence.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,14 +21,14 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Base_Defence.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Base_Defence.01.Paragraph" }}</Text>
   
 				</Paragraph>
 
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{CO.Base_Defence.02.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Base_Defence.02.Paragraph" }}</Text>
   
 				</Paragraph>
 

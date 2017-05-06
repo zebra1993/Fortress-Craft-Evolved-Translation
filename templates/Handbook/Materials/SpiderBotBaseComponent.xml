@@ -5,7 +5,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.SpiderBotBaseComponent.00.Title}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBaseComponent.00.Title" }}</Text>
 
 				</Title>
 
@@ -17,7 +17,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{MA.SpiderBotBaseComponent.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBaseComponent.01.Paragraph" }}</Text>
 
 				</Paragraph>
 				
@@ -28,7 +28,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.SpiderBotBaseComponent.02.Title}}</Text>
+					<Text>{{ index .Data "MA.SpiderBotBaseComponent.02.Title" }}</Text>
 
 				</Title>
 

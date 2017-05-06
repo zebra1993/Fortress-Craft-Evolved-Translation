@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>CommunityLinks</Handle>
 
-	<Title>{{SU.09CommunityLinks.Title}}</Title>
+	<Title>{{ index .Data "SU.09CommunityLinks.Title" }}</Title>
 
 	<Icon>ARTHER Dapper Monocle</Icon>
 
@@ -11,7 +11,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{SU.09CommunityLinks.00.Title}}</Text>
+					<Text>{{ index .Data "SU.09CommunityLinks.00.Title" }}</Text>
 
 				</Title>
 
@@ -63,7 +63,7 @@
 				<Spacer/>
 
 				<Paragraph>
-					<Text>{{SU.09CommunityLinks.01.Paragraph}}</Text>
+					<Text>{{ index .Data "SU.09CommunityLinks.01.Paragraph" }}</Text>
 
 				</Paragraph>
 			

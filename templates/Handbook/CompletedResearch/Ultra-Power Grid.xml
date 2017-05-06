@@ -1,7 +1,7 @@
 <Chapter>
 	<Handle>T4 Power</Handle>
 
-	<Title>{{CO.Ultra-Power_Grid.Title}}</Title>
+	<Title>{{ index .Data "CO.Ultra-Power_Grid.Title" }}</Title>
 
 	<Icon>Ultra-Power Grid</Icon>
 
@@ -9,7 +9,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{CO.Ultra-Power_Grid.00.Title}}</Text>
+					<Text>{{ index .Data "CO.Ultra-Power_Grid.00.Title" }}</Text>
 
 				</Title>
 
@@ -21,7 +21,7 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>{{CO.Ultra-Power_Grid.01.Paragraph}}</Text>
+					<Text>{{ index .Data "CO.Ultra-Power_Grid.01.Paragraph" }}</Text>
 
 				</Paragraph>
 

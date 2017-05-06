@@ -1,0 +1,177 @@
+<MaterialEntry>
+	<Key>ResearchStation</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Research_Station.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Research Station</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Header>
+					<Text>{{ index .Data "MA.Research_Station.03.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.04.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.05.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>{{ index .Data "MA.Research_Station.06.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.07.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+	
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.08.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.09.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Header>
+					<Text>{{ index .Data "MA.Research_Station.10.Header" }}</Text>
+
+
+				</Header>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Research_Station.11.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Paragraph>
+					<ResearchRequirements>{{ index .Data "MA.Research_Station.12.Paragraph" }}<Research>Advanced Research</Research>
+
+
+					</ResearchRequirements>
+
+
+					<Text>For more information on Laboratory research projects please visit the following guide.</Text>
+
+
+				</Paragraph>
+
+					
+				<Link>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+
+
+					</ResearchRequirements>
+
+				
+					<Target>
+						<Chapter>laboratory research</Chapter>
+
+
+						<Page>0</Page>
+
+
+					</Target>
+
+
+					<Text>Laboratory Research Guide</Text>
+
+
+				</Link>
+
+
+				<Link>
+					<Target>
+						<Chapter>unknown materials</Chapter>
+
+
+						<Page>0</Page>
+
+
+					</Target>
+
+
+					<Text>Unknown Materials</Text>
+
+
+				</Link>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+		
+	</Pages>
+
+
+</MaterialEntry>
+
+
+

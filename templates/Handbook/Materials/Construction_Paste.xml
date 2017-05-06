@@ -1,0 +1,60 @@
+<MaterialEntry>
+	<Key>ConstructionPaste</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Construction_Paste.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Construction Paste</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Construction_Paste.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Link>
+					<Target>
+						<Material>Construction Paste Grinder</Material>
+
+
+					</Target>
+
+
+					<Text>Construction Paste Grinder</Text>
+
+
+				</Link>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

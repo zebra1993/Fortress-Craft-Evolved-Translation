@@ -1,0 +1,67 @@
+<MaterialEntry>
+	<Key>CopperOre</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Copper_Ore.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Copper Ore_Sparse</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Copper_Ore.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+				<Spacer/>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Copper_Ore.02.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+        <Icon>
+          <Name>Ore Extractor</Name>
+
+
+          <Target>
+            <Material>OreExtractor</Material>
+
+
+          </Target>
+
+
+        </Icon>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

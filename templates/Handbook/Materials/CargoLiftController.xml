@@ -1,142 +1,200 @@
 <MaterialEntry>
-	<Name>Cargo Lift Controller</Name>
+	<Key>CargoLiftControllerPlacement</Key>
+
 
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.CargoLiftController.00.Title}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.00.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Spacer/>
+
 
 				<Icon>
 					<Name>Cargo Lift Controller</Name>
 
+
 					<Alignment>Center</Alignment>
+
 
 				</Icon>
 
+
 				<Paragraph>
-					<Text>{{MA.CargoLiftController.01.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.01.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
-				<Spacer/>
 
 				<Spacer/>
+
+
+				<Spacer/>
+
 
 				<Icon>
 					<Name>Auto Excavator</Name>
 
+
 					<Target><Material>AutoExcavator</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 	
 			</Paragraphs>
 
+
 		</Page>
+
 				
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.CargoLiftController.02.Title}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.02.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Spacer/>
 
+
 				<Paragraph>
-					<Text>{{MA.CargoLiftController.03.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.03.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 
 				<Icon>
 					<Name>3D Printer</Name>
 
+
 					<Target><Material>RackRailer</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				<Spacer/>
 
 
+
 			</Paragraphs>
 
+
 		</Page>
+
 
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.CargoLiftController.04.Title}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.04.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Paragraph>
-					<Text>{{MA.CargoLiftController.05.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.05.Paragraph" }}</Text>
+
 
 				</Paragraph>
+
 
 
 				<Icon>
 					<Name>Basic Cargo Lift</Name>
 
+
 					<Target><Material>CargoLiftBasic</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 			 
 				<Spacer/>
 
+
 				<Icon>
 					<Name>Improved Cargo Lift</Name>
 
+
 					<Target><Material>CargoLiftImproved</Material>
+
 </Target>
+
 
 				</Icon>
 
+
 				 
 				<Spacer/>
+
 
 				<Icon>
 					<Name>Bulk Cargo Lift</Name>
 
+
 					<Target><Material>CargoLiftBulk</Material>
+
 </Target>
 
+
 				</Icon>
+
 
 				 
 				<Spacer/>
 
 
+
 			</Paragraphs>
 
+
 		</Page>
+
 
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>{{MA.CargoLiftController.06.Title}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.06.Title" }}</Text>
+
 
 				</Title>
 
+
 				<Paragraph>
-					<Text>{{MA.CargoLiftController.07.Paragraph}}</Text>
+					<Text>{{ index .Data "MA.CargoLiftController.07.Paragraph" }}</Text>
+
 
 				</Paragraph>
 
+
 			</Paragraphs>
+
 
 			</Page>
 
+
 	</Pages>
 
+
 </MaterialEntry>
+
 

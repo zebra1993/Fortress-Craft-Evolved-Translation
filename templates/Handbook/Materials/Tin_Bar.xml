@@ -1,0 +1,53 @@
+<MaterialEntry>
+	<Key>TinBar</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Tin_Bar.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Tin Bar</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Icon>
+					<Name>Tin Ore_Sparse</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Tin_Bar.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+				
+			</Paragraphs>
+
+
+		</Page>
+
+				
+	</Pages>
+
+
+</MaterialEntry>
+
+

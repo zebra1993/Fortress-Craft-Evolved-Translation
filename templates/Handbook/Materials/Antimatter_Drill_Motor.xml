@@ -1,0 +1,61 @@
+<MaterialEntry>
+	<Key>AntimatterDrillMotor</Key>
+
+
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>{{ index .Data "MA.Antimatter_Drill_Motor.00.Title" }}</Text>
+
+
+				</Title>
+
+
+				<Icon>
+					<Name>Antimatter Drill Motor</Name>
+
+
+					<Alignment>Center</Alignment>
+
+
+				</Icon>
+
+
+				<Paragraph>
+					<Text>{{ index .Data "MA.Antimatter_Drill_Motor.01.Paragraph" }}</Text>
+
+
+				</Paragraph>
+
+
+				<Spacer/>
+
+
+				<Header><Text>{{ index .Data "MA.Antimatter_Drill_Motor.02.Header" }}</Text>
+
+</Header>
+
+
+				<TwoColumnParagraph>
+					<Left>{{ index .Data "MA.Antimatter_Drill_Motor.03.Left" }}</Left>
+
+
+					<Right>{{ index .Data "MA.Antimatter_Drill_Motor.04.Right" }}</Right>
+
+
+				</TwoColumnParagraph>
+
+
+			</Paragraphs>
+
+
+		</Page>
+
+		
+	</Pages>
+
+
+</MaterialEntry>
+
+
