@@ -15,7 +15,7 @@
     <string name="Day_Night_Cycle">Цикл день/ночь</string>
     <string name="World_Sign">Выбор Мира</string>
     <string name="Spacebar">Пробел</string>
-    <string name="Mob_Difficulty">Сложность противников</string>
+    <string name="Mob_Difficulty">Сложность врагов</string>
     <string name="Death_Mode">Режим смерти</string>
     <string name="Mode">Режим</string>
     <string name="Select_Mods">Выбор модов</string>
@@ -54,9 +54,9 @@
     <string name="Normal">Нормально</string>
     <string name="Eternal Night">Вечная ночь</string>
 
-    <string name="Trivial Mobs">Лёгкие противники</string>
-    <string name="Normal Mobs">Нормальные противники</string>
-    <string name="Hard Mobs">Тяжёлые противники</string>
+    <string name="Trivial Mobs">Банальные враги</string>
+    <string name="Normal Mobs">Нормальные враги</string>
+    <string name="Hard Mobs">Тяжёлые враги</string>
 
     <string name="None">Нет</string>
     <string name="Clumsy">Неуклюжий</string>
@@ -68,7 +68,7 @@
     <string name="Creative">Творчество</string>
 
     <string name="Default_Settings_Info">Настройки по-умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё больше ускорить развитие игрока - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
-Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен и обратите внимание на {par times}!</string>
+Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен и обращайте внимание на ожидаемое время по критическим событиям!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
     <string name="Mod_Selected">мод выбран.</string>
@@ -98,7 +98,7 @@
 Месиво - это очень просто - если вы умираете, то это навсегда</string>
     <string name="Death_Hardcore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
 
-Хардкор - сложнейший режим. Если вы умрёте, или погибнет ваш ЦУП - это окончательный конец игры! А ещё ваш ЦУП не восстанавливается.</string>
+Хардкор - сложнейший режим. Если вы умрёте, или погибнет ваш ЦЭК - это окончательный конец игры! А ещё ваш ЦЭК не восстанавливается.</string>
 
     <string name="Flatland_Disabled">Плоский режим отключен.</string>
     <string name="Flatland_Enabled">Делает ландшафт плоским - отсюда и название!</string>
@@ -171,7 +171,7 @@
     <string name="Glow Stick">Светящаяся Палочка</string>
     <string name="Glow Sticks">Светящиеся Палочки</string>
     <string name="Chargeable Explosive">Заряжаемая Взрывчатка</string>
-    <string name="Chargeable Explosives">Заряжаемые Взрывчатки</string>
+    <string name="Chargeable Explosives">Заряжаемая Взрывчатка</string>
     <string name="Basic Experimental Pod">Базовая Экспериментальная Ячейка</string>
     <string name="Basic Experimental Pods">Базовые Экспериментальные Ячейки</string>
     <string name="Simplified Experimental Pod">Упрощённая Экспериментальная Ячейка</string>
@@ -229,4 +229,8 @@
     <string name="Blank Ore Ping">Пустой Рудный Пробник</string>
     <string name="Blank Ore Pings">Пустые Рудные Пробники</string>
     <string name="Coal Ping">Пробник Угля</string>
+    <string name="Seed">Начальное число</string>
+    <string name="Existing_Seed">Текущее начальное число</string>
+
+    <string name="TriSeed">Тризерн</string>
     </resources>
