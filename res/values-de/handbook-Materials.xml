@@ -783,4 +783,35 @@
 <string name="MA.Ultimate_Experimental_Pod.01.Paragraph">Die ultimative Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Titan hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.XL_Experimental_Pod.01.Paragraph">Die XL Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Nickel hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">Die Massenlager Laderampe ermöglicht die kontrollierte zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">"Die Massenlager Laderampe muss an ein Massenlager angrenzend aufgebaut werde. E öffnet die Oberfläche wo gelagerte Gegenstände und das Inventarlimit gesetzt werden kann. Die Laderampe wird nur Gegenstände einlagern wenn der gesetzte Mindestwert unterschritten wird. Andere Gegenstände werden weiterhin eingelagert also ob es eine normale Laderampe wäre.
+Halte Steuerung, Feststell oder Alt um die Limiten in 10er, 100er oder 1000er Schritten zu verändern.
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Du kannst den leeren Eintrag anklicken um den Gegenstand nach seinem Namen zu suchen um die einstellugn einfach zu verändern oder den Knopf drücken um den Gegenstand zu wählen. Mehrblockbauten können nicht einfach gefunden werden. Nutze Multi, Placement oder Component um eine Liste dieser Blöcke zu erhalten.
+
+Der Rampen interne Speicher kann über den dazugehörigen Knopf gesperrt werden. Dies verhindert das weiter Gegenstände intern gelagert werden sobald das Limit erreicht wurde. Diese Funktion ist dafür vorgeshen um zu verhinder das eine grosse Anzahl teurer Dinge gepuffert werden.
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"Die Massenlager Laderampe ermöglicht die kontrollierte zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden 
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"Die Massenlager Laderampe muss an ein Massenlager angrenzend aufgebaut werde. E öffnet die Oberfläche wo gelagerte Gegenstände und das Inventarlimit gesetzt werden kann. Die Laderampe wird nur Gegenstände einlagern wenn der gesetzte Mindestwert unterschritten wird. Andere Gegenstände werden weiterhin eingelagert also ob es eine normale Laderampe wäre.
+Halte Steuerung, Feststell oder Alt um die Limiten in 10er, 100er oder 1000er Schritten zu verändern.
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Du kannst den leeren Eintrag anklicken um den Gegenstand nach seinem Namen zu suchen um die einstellugn einfach zu verändern oder den Knopf drücken um den Gegenstand zu wählen. Mehrblockbauten können nicht einfach gefunden werden. Nutze Multi, Placement oder Component um eine Liste dieser Blöcke zu erhalten.
+
+Der Rampen interne Speicher kann über den dazugehörigen Knopf gesperrt werden. Dies verhindert das weiter Gegenstände intern gelagert werden sobald das Limit erreicht wurde. Diese Funktion ist dafür vorgeshen um zu verhinder das eine grosse Anzahl teurer Dinge gepuffert werden.
+ "</string>
+<string name="MA.FastMinecart.03.Left">"Höchst Geschwindigkeit:
+Max. Lagerkapazität:
+Beschleinigung
+ "</string>
+<string name="MA.FastMinecart.04.Right">2m/s
+25 Gegenstände
+1m/s²
+16
+15 sekunden</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">schüttgut Massenlager Laderampe</string>
+<string name="MA.FastMinecart.01.Paragraph">Minenloren sind für Schüttgut transporte von Gegenständen mit einer durchschnittlichen Rate.</string>
+<string name="MA.FastMinecart.05.Paragraph">Die nutzugn von Minenloren ist recht simpel. Sie erweitert die funktion Container -&gt; Förderband welche bis jetzt angewendet wurde. Loren werden mithilfe eines Depots in das Netzwerk eingebracht.</string>
+<string name="MA.FastMinecart.06.Title">Mienenloren Rescourcenhandhabung</string>
 </resources>
