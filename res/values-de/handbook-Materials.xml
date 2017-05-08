@@ -547,7 +547,7 @@
 					</string>
 <string name="MA.Rock.00.Title">Fels</string>
 <string name="MA.Rock.01.Paragraph">Gestein das meist als oberste Schicht auf Bergen zu finden ist. Kann zerkleinert werden um eventuell nützliche Materialien zu erhalten.</string>
-<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title"/>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Basis Massenlager Laderampe</string>
 <string name="MA.FastMinecart.00.Title">Schnelle Lore</string>
 <string name="MA.FastMinecart.02.Header">Spezifikationen</string>
 <string name="MA.Forced_Induction.03.Header">Spezifikationen</string>
@@ -782,4 +782,5 @@
 <string name="MA.Simplified_Experimental_Pod.01.Paragraph">Die vereinfachte Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Zinn hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Ultimate_Experimental_Pod.01.Paragraph">Die ultimative Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Titan hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.XL_Experimental_Pod.01.Paragraph">Die XL Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Nickel hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">Die Massenlager Laderampe ermöglicht die kontrollierte zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden</string>
 </resources>
