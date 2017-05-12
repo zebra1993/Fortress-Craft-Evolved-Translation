@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
@@ -642,7 +642,7 @@ Souvenez-vous que ses option sont verrouiller pour la durée de votre monde et p
     <string name="Beige Canvas">Toile beige</string>
     <string name="Beige Canvas_DESC">Toile beige_DESC</string>
     <string name="Indigo Canvas">Toile indigo</string>
-    <string name="Indigo Canvas_DESC">>Toile indigo_DESC</string>
+    <string name="Indigo Canvas_DESC">&gt;Toile indigo_DESC</string>
     <string name="Maroon Canvas">Toile bordeaux</string>
     <string name="Maroon Canvas_DESC">Toile bordeaux_DESC</string>
     <string name="Truss">Support</string>
@@ -2471,4 +2471,5 @@ Tête de foreuse</string><!-- Very little space for this-->
     <string name="Next_Ore">Minerai suivant</string>
     <string name="Clearing_Vein">Veine nettoyer</string>
     <string name="Cant_Find_Ore">Pas de minerai</string>
-</resources>
+<string name="Suggested_Guide"></string>
+    </resources>
