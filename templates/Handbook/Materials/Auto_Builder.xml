@@ -1,77 +1,34 @@
 <MaterialEntry>
 	<Key>AutoBuilder</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Auto_Builder.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Auto Builder</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Auto_Builder.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.Auto_Builder.02.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Paragraph><Text>{{ index .Data "MA.Auto_Builder.03.Paragraph" }}</Text>
-
 </Paragraph>
-
-
 				<Paragraph><Text>{{ index .Data "MA.Auto_Builder.04.Paragraph" }}</Text>
-
 </Paragraph>
-
-
 				<Paragraph><Text>{{ index .Data "MA.Auto_Builder.05.Paragraph" }}</Text>
-
 </Paragraph>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.Auto_Builder.06.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Paragraph><Text>{{ index .Data "MA.Auto_Builder.07.Paragraph" }}</Text>
-
 </Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

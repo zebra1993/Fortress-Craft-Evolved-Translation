@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>ARTHERDapperPack</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.ARTHER_Dapper_Pack.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>ARTHER Dapper Pack</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.ARTHER_Dapper_Pack.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

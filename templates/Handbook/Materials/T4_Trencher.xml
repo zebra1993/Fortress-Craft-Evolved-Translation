@@ -1,56 +1,28 @@
 <MaterialEntry>
 	<Key>TrencherDrillPlacement</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.T4_Trencher.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Trencher Drill component</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.T4_Trencher.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 	
 				<Spacer/>
-
 			
 				<Paragraph>
 					<Text>{{ index .Data "MA.T4_Trencher.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 				<Spacer/>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

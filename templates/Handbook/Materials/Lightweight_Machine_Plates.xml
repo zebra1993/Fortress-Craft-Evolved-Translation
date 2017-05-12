@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>LightweightMachinePlates</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Lightweight_Machine_Plates.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Lightweight Machine Plates</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Lightweight_Machine_Plates.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

@@ -1,78 +1,36 @@
 <MaterialEntry>
 	<Key>ResearchAssembler</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Research_Assembler.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Research Assembler</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Research_Assembler.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Research_Assembler.02.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Research_Assembler.03.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Research_Assembler.04.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 		
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
-
-
 						<Page>0</Page>
-
-
 					</Target>
-
-
 					<Text>Laboratory Research</Text>
-
-
 				</Link>
-
 			
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

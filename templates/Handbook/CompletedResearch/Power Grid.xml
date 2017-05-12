@@ -1,67 +1,41 @@
 <Chapter>
 	<Handle>T1 Power</Handle>
-
 	<Title>{{ index .Data "CO.Power_Grid.Title" }}</Title>
-
 	<Icon>Power Grid</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "CO.Power_Grid.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Power Grid</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Power_Grid.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header><Text>{{ index .Data "CO.Power_Grid.02.Header" }}</Text>
 </Header>
-
 				<Icon>
 					<Name>Pyrothermic Generator</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Power_Grid.03.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header><Text>{{ index .Data "CO.Power_Grid.04.Header" }}</Text>
 </Header>
-
 				<Icon>
 					<Name>Laser Energy Transmitter</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Power_Grid.05.Paragraph" }}</Text>
-
 				</Paragraph>
 					
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

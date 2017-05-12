@@ -1,35 +1,21 @@
 <Chapter>
 	<Handle>aesthetics</Handle>
-
 	<Title>{{ index .Data "AV.Aesthetics.Title" }}</Title>
-
 	<Icon>Hello_Kitty1</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "AV.Aesthetics.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Hello_Kitty1</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Aesthetics.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

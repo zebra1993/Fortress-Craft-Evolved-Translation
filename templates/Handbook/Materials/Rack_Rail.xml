@@ -1,91 +1,39 @@
 <MaterialEntry>
 	<Key>RackRail</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Rack_Rail.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Spacer/>
-
-
 				<Icon>
 					<Name>Rack Rail</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Rack_Rail.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target>
 						<Material>Rack Railer</Material>
-
-
 					</Target>
-
-
 					<Text>Rack Railer</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Rack_Rail.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target><Material>Cargo Lift Controller</Material>
-
 </Target>
-
-
 					<Text>Cargo Lift Controller</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

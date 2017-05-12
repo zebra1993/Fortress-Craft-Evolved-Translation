@@ -1,50 +1,24 @@
 <MaterialEntry>
 	<Key>ElectricLight</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Electric_Light.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Electric Light</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Electric_Light.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Electric_Light.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 					
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

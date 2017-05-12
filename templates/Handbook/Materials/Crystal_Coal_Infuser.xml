@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>CoalInfuser</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Crystal_Coal_Infuser.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Crystal Coal Infuser</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Crystal_Coal_Infuser.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

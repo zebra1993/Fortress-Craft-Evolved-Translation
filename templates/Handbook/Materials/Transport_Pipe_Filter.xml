@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>TransportPipeFilter</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Transport_Pipe_Filter.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Transport Pipe Filter</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Transport_Pipe_Filter.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

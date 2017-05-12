@@ -1,69 +1,31 @@
 <MaterialEntry>
 	<Key>SpiderBotCannon</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.SpiderBotCannon.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>SpiderBot Defences 2</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.SpiderBotCannon.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.SpiderBotCannon.02.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target>
 						<Material>SpiderBot Base Component</Material>
-
-
 					</Target>
-
-
 					<Text>More information regarding SpiderBot!</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-

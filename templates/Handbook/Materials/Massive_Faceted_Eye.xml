@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>MassiveFacetedEye</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Massive_Faceted_Eye.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>WaspEyeMassive</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Massive_Faceted_Eye.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

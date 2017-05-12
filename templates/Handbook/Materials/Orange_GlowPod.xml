@@ -1,53 +1,26 @@
 <MaterialEntry>
 	<Key>OrangeGlowPod</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Orange_GlowPod.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Orange GlowPod</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Orange_GlowPod.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 		
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Orange_GlowPod.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 		
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

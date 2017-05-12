@@ -1,53 +1,26 @@
 <MaterialEntry>
 	<Key>ToxicCavernFlora6</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Toxic_Cavern_Flora_6.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Toxic Cavern Flora 6</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Toxic_Cavern_Flora_6.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 		
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Toxic_Cavern_Flora_6.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 		
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

@@ -1,73 +1,44 @@
 <Chapter>
 	<Handle>findingSurvival</Handle>
-
 	<Title>{{ index .Data "CR.02HowToPlaySurvival.Title" }}</Title>
-
 	<Icon>Unknown</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.00.Title" }}</Text>
-
 				</Title>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.02.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Spacer/>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.03.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.04.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.05.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.06.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.07.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.02HowToPlaySurvival.08.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

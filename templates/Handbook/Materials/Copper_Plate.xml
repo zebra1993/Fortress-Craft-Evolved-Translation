@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>CopperPlate</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Copper_Plate.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Copper Plate</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Copper_Plate.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

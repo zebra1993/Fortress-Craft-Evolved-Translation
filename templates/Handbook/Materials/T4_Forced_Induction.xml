@@ -1,71 +1,31 @@
 <MaterialEntry>
 	<Key>ForcedInductionMK4</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.T4_Forced_Induction.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Forced InductionT4</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.T4_Forced_Induction.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.T4_Forced_Induction.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.T4_Forced_Induction.03.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.T4_Forced_Induction.04.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.T4_Forced_Induction.05.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

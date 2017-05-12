@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>ARTHERSolarPanel</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.ARTHER_Solar_Panel.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>ARTHER Solar Panel</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.ARTHER_Solar_Panel.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

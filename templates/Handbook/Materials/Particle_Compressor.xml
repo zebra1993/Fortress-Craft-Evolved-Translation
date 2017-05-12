@@ -1,99 +1,44 @@
 <MaterialEntry>
 	<Key>ParticleCompressorPlacement</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Particle_Compressor.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Particle Compressor</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Particle_Compressor.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Link>
 					<Target>
 						<Chapter>T4_Particles</Chapter>
-
-
 					</Target>
-
-
 					<Text>Particulate Filtration System</Text>
-
-
 				</Link>
-
-
 				<Link>
 					<Target>
 						<Material>Particle Filter</Material>
-
-
 					</Target>
-
-
 					<Text>Particle Filter</Text>
-
-
 				</Link>
-
-
 				<Link>
 					<Target>
 						<Material>Particle Storage</Material>
-
-
 					</Target>
-
-
 					<Text>Particle Storage</Text>
-
-
 				</Link>
-
-
 				<Link>
 					<Target>
 						<Material>Gas Bottler</Material>
-
-
 					</Target>
-
-
 					<Text>Gas Bottler</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

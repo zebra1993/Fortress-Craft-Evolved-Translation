@@ -1,41 +1,26 @@
 <MaterialEntry>
 	<Name>Organic Coal Enricher</Name>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Coal_Enricher.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Coal Enricher</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Coal_Enricher.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Crystal Coal Infuser</Material>
-
 					</Target>
-
 					<Text>Crystal Coal Infuser</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
 				
 	</Pages>
-
 </MaterialEntry>
-

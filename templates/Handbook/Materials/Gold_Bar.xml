@@ -1,53 +1,25 @@
 <MaterialEntry>
 	<Key>GoldBar</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Gold_Bar.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Gold Bar</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Icon>
 					<Name>Gold Ore_Sparse</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Gold_Bar.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

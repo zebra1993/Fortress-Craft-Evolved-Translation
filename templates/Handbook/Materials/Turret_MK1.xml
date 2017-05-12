@@ -1,61 +1,27 @@
 <MaterialEntry>
 	<Key>TurretMK1</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Turret_MK1.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Pop Up Turret</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Turret_MK1.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Turret_MK1.02.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Turret_MK1.03.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Turret_MK1.04.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

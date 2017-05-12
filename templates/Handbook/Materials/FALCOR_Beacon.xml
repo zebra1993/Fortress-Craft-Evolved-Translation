@@ -1,80 +1,38 @@
 <MaterialEntry>
 	<Key>FALCORBeacon</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.FALCOR_Beacon.00.Title" }}</Text>
-
-
 				</Title>
-
-
 		
 						
 				<Icon>
 					<Name>FALCOR Beacon</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
-
 
 				<Paragraph>
 					<Text>{{ index .Data "MA.FALCOR_Beacon.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Icon>
 					<Name>FALCOR MK1</Name>
-
-
 					<Target><Material>FALCOR MK1</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>FALCOR MK1</Material>
-
-
 					</Target>
-
-
 					<Text>FALCOR</Text>
-
-
 				</Link>
-
 	
 				 
 				<Spacer/>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

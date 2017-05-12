@@ -1,122 +1,77 @@
 <Chapter>
 	<Handle>laboratory research</Handle>
-
 	<Title>{{ index .Data "SU.05LaboratoryResearch.Title" }}</Title>
-
 	<Icon>Laboratory Component</Icon>
-
 	<ResearchRequirements>
 		<Research>Advanced Research</Research>
-
 	</ResearchRequirements>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Laboratory Component</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Page>0</Page>
-
 						<Material>Research Station</Material>
-
 					</Target>
-
 					<Text>Research Station</Text>
-
 				</Link>
 				
 				<Header>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.02.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.03.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.04.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.05.Paragraph" }}</Text>
-
 				</Paragraph>
 				
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 			<Header>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.06.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.07.Paragraph" }}</Text>
 
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.08.Header" }}</Text>
-
 				</Header>
-
 				<Icon>
 					<Name>ResearchPod_Basic</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.09.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.05LaboratoryResearch.10.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 				<Link>
 					<Target>
 						<Chapter>experimental pods</Chapter>
-
 						<Page>0</Page>
-
 					</Target>
-
 					<Text>Experimental Pods</Text>
-
 				</Link>
 			
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

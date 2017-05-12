@@ -1,63 +1,29 @@
 <MaterialEntry>
 	<Key>HiveBrainMatter</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Hive_Brain_Matter.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Brain Matter</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Hive_Brain_Matter.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
 rte
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
-
-
 						<Page>0</Page>
-
-
 					</Target>
-
-
 					<Text>Laboratory Research</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

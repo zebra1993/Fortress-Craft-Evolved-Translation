@@ -1,61 +1,28 @@
 <MaterialEntry>
 	<Key>ARTHERChargingStation</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.ARTHER_Charging_Station.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>ARTHER Charging Station</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.ARTHER_Charging_Station.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.ARTHER_Charging_Station.02.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.ARTHER_Charging_Station.03.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.ARTHER_Charging_Station.04.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 					
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

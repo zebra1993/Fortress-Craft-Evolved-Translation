@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>DapperFrame</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.DapperFrame.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>DapperFrame</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.DapperFrame.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

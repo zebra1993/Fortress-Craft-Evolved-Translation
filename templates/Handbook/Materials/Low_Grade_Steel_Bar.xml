@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>LowGradeSteelBar</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Low_Grade_Steel_Bar.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Steel Bar</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Low_Grade_Steel_Bar.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

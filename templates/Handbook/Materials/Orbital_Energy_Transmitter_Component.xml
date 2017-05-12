@@ -1,79 +1,35 @@
 <MaterialEntry>
 	<Key>OrbitalEnergyTransmitterPlacement</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Orbital Energy Transmitter</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.02.Header" }}</Text>
-
 </Header>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.04.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.05.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Orbital_Energy_Transmitter_Component.06.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 					
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

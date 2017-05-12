@@ -1,78 +1,34 @@
 <MaterialEntry>
 	<Key>BlankOrePing</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Blank_Ore_Ping.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Blank Ore Ping</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Blank_Ore_Ping.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Blank_Ore_Ping.02.Header" }}</Text>
-
 </Header>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Blank_Ore_Ping.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Blank_Ore_Ping.04.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Blank_Ore_Ping.05.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

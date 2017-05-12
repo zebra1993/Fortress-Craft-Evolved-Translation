@@ -1,93 +1,57 @@
 <Chapter>
 	<Handle>mining upgrade 1</Handle>
-
 	<Title>{{ index .Data "CO.Basic_Mining_Upgrades_I.Title" }}</Title>
-
 	<Icon>Magnetic Drill Motor</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Magnetic Drill Motor</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.02.Header" }}</Text>
 </Header>
-
 				<Icon>
 					<Name>Basic Ore Smelter</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.03.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.04.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.05.Header" }}</Text>
 </Header>
-
 				<Icon>
 					<Name>Forced Induction</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.06.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header><Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.07.Header" }}</Text>
 </Header>
-
 				<Icon>
 					<Name>Basic Drill Motor</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Basic_Mining_Upgrades_I.08.Paragraph" }}</Text>
-
 				</Paragraph>
 					
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

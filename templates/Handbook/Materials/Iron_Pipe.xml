@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>IronPipe</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Iron_Pipe.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Iron Pipe</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Iron_Pipe.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

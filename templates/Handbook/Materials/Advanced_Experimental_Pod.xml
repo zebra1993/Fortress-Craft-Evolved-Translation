@@ -1,87 +1,40 @@
 <MaterialEntry>
 	<Key>AdvancedExperimentalPod</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Advanced_Experimental_Pod.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>ResearchPod_Advanced</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Advanced_Experimental_Pod.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
-
-
 						<Page>0</Page>
-
-
 					</Target>
-
-
 					<Text>Laboratory Research</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Advanced_Experimental_Pod.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 				<Link>
 					<Target>
 						<Chapter>experimental pods</Chapter>
-
-
 						<Page>0</Page>
-
-
 					</Target>
-
-
 					<Text>Experimental Pods</Text>
-
-
 				</Link>
-
 		
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-
