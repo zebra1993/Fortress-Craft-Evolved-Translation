@@ -2411,8 +2411,8 @@ Billig und hässlich, dafür verlässlich*
     <string name="BFL-9000_CRAFT_HINT">Wird genutzt, um große, waagerechte Tunnel auszubohren.</string>
     <string name="Fuel Compressor._CRAFT_DESC">Verdichtet Kohle und Hochenergietreibstoff zu Hochoktantreibstoff. Wird in einem 3x3x3 Würfel aufgebaut.</string>
     <string name="Fuel Compressor._CRAFT_HINT">Treibstoff wird für HOTOR benötigt.</string>
-    <string name="High Orbital Debris Object Reclaimer_CRAFT_DESC">Der Hoch Orbit Trümmer Objekt Rückbringer (H.O.T.O.R)(englisch High Orbital Debris Object Reclaimer (oder H.O.D.O.R) wird genutz um, sich im Orbit befindenen Überbleibsel in die Athmosphäre zu stossen um diese danach zu nutzen. In einer 3x3 Platte aufbauen.</string>
-    <string name="High Orbital Debris Object Reclaimer_CRAFT_HINT">Sicherstellen das Weg nach oben frei ist. Also wirklick FREI. Wirklich sicherstellen das nach oben frei ist. Nur so zur Info. Grosses BEDDABOOM.</string>
+    <string name="High Orbital Debris Object Reclaimer_CRAFT_DESC">Der Hoch Orbit Trümmer Objekt Rückbringer (H.O.T.O.R)(englisch High Orbital Debris Object Reclaimer (oder H.O.D.O.R)) wird genutz um, sich im Orbit befindenen Trümmer in die Athmosphäre zu stossen um diese danach zu nutzen. In einer 3x3 Platte aufbauen.</string>
+    <string name="High Orbital Debris Object Reclaimer_CRAFT_HINT">Sicherstellen das Weg zum Himmel offen ist. Also wirklick FREI. Wirklich sicherstellen das nach oben frei ist. Nur so zur Info. Grosses BADDABOOM.</string>
     <!--DESC from beta build may change on release -->
     <string name="Orbital RailGun Controller_CRAFT_DESC">Diese 9x9x9 Block grosse Maschine wird automatisch 1 Kilometer an Beschleunigungsschiene verlegen. NACH DEM BAU KANN SIE NICHT MEHR ENTFERNT WERDEN. DENKE GRÜNDLICH ÜBER DIE PLATZIERUNG NACH!</string>
     <string name="Orbital RailGun Controller_CRAFT_HINT">Das Startgebiet ist 5x5x1000 Blöcke. Das ist KEIN Schreibfehler.</string>
