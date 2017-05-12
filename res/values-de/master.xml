@@ -2374,7 +2374,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Gas Bottler_CRAFT_HINT">Angrenzende Container werden mit Behältern befüllt.</string>
     <string name="Fluid Pipe (Straight)_CRAFT_DESC">Verbindet verschiedene Maschinen zusammen. Gerades Rohr welches Flüssigkeiten transportieren kann.</string>
     <string name="Fluid Pipe (Straight)_CRAFT_HINT">Wenn\'s nicht aufleuchtet ist\'s eventuell am falschen Platz!</string>
-    <string name="Fluid Pipe (Bend)_CRAFT_DESC">Verbindet verschiedene Maschinen zusammen.</string>
+    <string name="Fluid Pipe (Bend)_CRAFT_DESC">Verbindet verschiedene Maschinen zusammen, um Flüssigkeiten zu transferieren.</string>
     <string name="Fluid Pipe (Bend)_CRAFT_HINT">Wenn\'s nicht aufleuchtet ist\'s eventuell am falschen Platz!</string>
     <string name="MagmaBore Component_CRAFT_DESC">Gräbt ein sehr, sehr, sehr großes Loch und zieht Magma dadurch. Wird in einer 33x33 Platte mit 3 Höhe gebaut (3267 Blöcke insgesamt). Braucht darüber 100 Blöcke Freiraum.</string>
     <string name="MagmaBore Component_CRAFT_HINT">Magma, besser als es klingt.</string>
@@ -2405,7 +2405,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="OverClocker_CRAFT_HINT">Nützliche Herstellungskomponente.</string>
     <string name="Lens Polisher_CRAFT_DESC">Nutzt Präzisionstechnologie um unfokussierte Linsen aus einer beliebigen minderwertigen Linse herzustellen. Kann danach verchromt werden, um im Laserenergieüberträger eingesetzt zu werden.</string>
     <string name="Lens Polisher_CRAFT_HINT">Nützliche Herstellungskomponente.</string>
-    <string name="Lens Chromer_CRAFT_DESC">Spiegelbeschichtet eine unfokusierte hochpräzisions Linse um sie zu einer nutzvollen Verbesserung zumachen.</string>
+    <string name="Lens Chromer_CRAFT_DESC">Spiegelbeschichtet eine unfokussierte, Hochpräzisionslinse mit Chrom.</string>
     <string name="Lens Chromer_CRAFT_HINT">Nützliche Herstellungskomponente.</string>
     <string name="BFL-9000_CRAFT_DESC">Massiver horizontaler Minenlaser. Wird genutzt um gerade 5x5 Tunnel auszuheben. Massiver Energiefresser.</string>
     <string name="BFL-9000_CRAFT_HINT">Wird genutzt, um große, waagerechte Tunnel auszubohren.</string>
