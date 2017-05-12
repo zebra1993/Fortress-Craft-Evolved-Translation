@@ -42,7 +42,7 @@
  150
  10 Sekunden
  1 (ARTHER)</string>
-<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Upgrade Paket</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Aufwertungs-Paket</string>
 <string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte von Solarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
 <string name="MA.Advanced_Experimental_Pod.00.Title">Fortgeschrittene Forschungskapsel</string>
 <string name="MA.Advanced_Experimental_Pod.01.Paragraph">Die fortgeschrittene Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Gold hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
@@ -215,10 +215,10 @@
  16
  15 Sekunden</string>
 <string name="MA.BasicMinecart.05.Paragraph">Die Verwendung von Loren ist einfach und erweitert das Konzept Container -&gt; Förderband. Loren werden über das Loren-Depot in das Loren-Netzwerk geladen.</string>
-<string name="MA.BasicMinecart.06.Title">Loren Ressourcen Handling</string>
-<string name="MA.BasicMinecart.07.Paragraph">Einmal im Schienennetz, werden Loren bei allen Lade und Entlade Stationen stehen bleiben, um ihre Ressourcen abzuladen oder aufzunehmen.</string>
+<string name="MA.BasicMinecart.06.Title">Loren Ressourcen Handhabung</string>
+<string name="MA.BasicMinecart.07.Paragraph">Einmal im Loren-Netzwerk, werden Loren bei allen Lade und Entlade Stationen stehen bleiben, um ihre Ressourcen abzuladen oder aufzunehmen.</string>
 <string name="MA.BasicMinecart.08.Title">Fortgeschrittene Loren Steuerung</string>
-<string name="MA.BasicMinecart.09.Paragraph">Um die Kontrolle der Loren zu verfeinern haben wir eine Reihe von Möglichkeiten,  über die wir das Verhalten der Loren besser beeinflussen zu können.</string>
+<string name="MA.BasicMinecart.09.Paragraph">Um die Kontrolle der Loren zu verfeinern haben wir eine Reihe von Möglichkeiten, über die wir das Verhalten der Loren besser beeinflussen können.</string>
 <string name="MA.BaubleBerry.00.Title">Flitterbeere</string>
 <string name="MA.BaubleBerry.01.Paragraph">Eine unscheinbare Pflanze, die auf der Oberfläche und in den Höhlen dieses Planeten gefunden werden kann.</string>
 <string name="MA.BaubleBerry.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
@@ -241,10 +241,10 @@
 <string name="MA.Build_Gun_V1.01.Paragraph">Das Bauwerkzeug besteht hauptsächlich aus Schrott des abgestürzten Schiffes, der wiederverwendet wurde. Das Bauwerkzeug ermöglicht schnelles Auf- und Abbauen der Umgebung. Das Bauwerkzeug wurde noch nicht ausreichend an diese Außerirdische Welt angepasst und hat daher noch extreme Einschränkungen der Funktionalität. Aufgrund der rudimänteren Kühlung des Enterhakens können rapide Luftdruckveränderungen eine Abklingzeit verursachen, in der die Verwendung des Enterhakens für einen kurzen Moment unmöglich wird.</string>
 <string name="MA.Build_Gun_V2.00.Title">Bauwerkzeug V2</string>
 <string name="MA.Build_Gun_V2.01.Paragraph">"Der Konstruktor V2 ist eine verbesserte Version des ersten Konstruktors, der besser für die außerirdische Umgebung geeignet ist. Die Verbesserungen am Konstruktor erlauben es uns, nun härteres Material abzubauen und verbesserte Maschinen zu bauen. Trotz dieser Verbesserung sind die Kühlsysteme für den Enterhaken noch unzureichend. Für den schnellen Einsatz in den Frosthöhlen und anderen Bereichen mit schlechter Luftqualität benötigen wir einen besseren Wärmeleiter. Nur eine dieser Verbesserungen ist notwendig, um die Funktionalität des Konstruktors zu verbessern. Zu diesem Zeitpunkt sind keine weiteren Verbesserungen ohne größte Anstrengungen möglich. "</string>
-<string name="MA.Build_Gun_V3.00.Title">Bauwerkzeug V3</string>
-<string name="MA.Build_Gun_V3.01.Paragraph">Das Bauwerkzeug V3 ist eine verbesserte Version des zweiten Bauwerkzeugs. Dieses Upgrade bietet eine geeignete Kühlung, um eine schnelle, kontinuierliche Aktivierung der Greiferfunktion zu ermöglichen. Neben der Erhöhung der Kühlleistung ermöglicht das Bauwerkzeug V3 die Zerstörung von härteren Materialien und die Demontage von fortschrittlicheren Maschinen. Nur eine dieser Verbesserungen ist notwendig, um die Funktionalität des Bauwerkzeugs zu verbessern. Zu diesem Zeitpunkt sind keine weiteren Verbesserungen ohne größte Anstrengungen möglich.</string>
-<string name="MA.BulkCargoLift.00.Title">Schüttgut Schwerlast Aufzug</string>
-<string name="MA.BulkCargoLift.01.Paragraph">Der Größte aller Schwerlastaufzüge (Frozen Factory). Dieser Aufzug ist ideal etwa zum Transport von Chrom und Molybdän zu den gefrorenen Höhlen. Dieser Schwerlastaufzug hat eine enorme Kapazität und ist extrem schnell!</string>
+<string name="MA.Build_Gun_V3.00.Title">Konstruktor V3</string>
+<string name="MA.Build_Gun_V3.01.Paragraph">Der Konstruktor V3 ist eine verbesserte Version des zweiten Konstruktors. Dieses Upgrade bietet eine geeignete Kühlung, um eine schnelle, kontinuierliche Aktivierung der Enterhaken zu ermöglichen. Neben der Erhöhung der Kühlleistung ermöglicht der Konstruktor V3 die Zerstörung von härteren Materialien und die Demontage von fortschrittlicheren Maschinen. Nur eine dieser Verbesserungen ist notwendig, um die Funktionalität des Konstruktors zu verbessern. Zu diesem Zeitpunkt sind keine weiteren Verbesserungen ohne größte Anstrengungen möglich.</string>
+<string name="MA.BulkCargoLift.00.Title">Riesiger Warenlift</string>
+<string name="MA.BulkCargoLift.01.Paragraph">Der Größte aller Warenlifte (Frozen Factory). Dieser Aufzug ist Ideal zum Transportieren von Chrom und Molybdän zu den Frosthöhlen. Dieser Warenlifte hat eine enorme Kapazität und ist extrem schnell!</string>
 <string name="MA.BulkCargoLift.02.Header">Spezifikationen</string>
 <string name="MA.BulkCargoLift.03.Left">"Reichweite:
  Maximalgeschwindigkeit:
@@ -258,11 +258,11 @@
  3000
  850 EPS
  "</string>
-<string name="MA.BulkMinecart.00.Title">Schütt Lore</string>
-<string name="MA.BulkMinecart.01.Paragraph">Diese Loren sind für den Transport von Schüttgut mit schneller Rate.
+<string name="MA.BulkMinecart.00.Title">Riesige Lore</string>
+<string name="MA.BulkMinecart.01.Paragraph">"Diese Loren sind gut für den Transport von riesigen Mengen an Ressourcen.
 
-					Diese Lore ist teil der "Frozen Factory" Erweiterung
-					</string>
+ Diese Lore ist Teil der Frozen Factory Erweiterung
+ "</string>
 <string name="MA.BulkMinecart.02.Header">Spezifikationen</string>
 <string name="MA.BulkMinecart.03.Left">"Maximalgeschwindkeit:
  Kapazität:
@@ -272,12 +272,12 @@
 					50
 					1.0m/s/s
 					</string>
-<string name="MA.BulkMinecart.05.Paragraph">Die Verwendung von Loren ist einfach und erweitert das Konzept Trichter-Förderband. Loren werden über das Loren-Depot in das Loren-Netzwerk geladen..</string>
-<string name="MA.BulkMinecart.06.Title">Loren Ressourcen Handling</string>
-<string name="MA.BulkMinecart.07.Paragraph">Einmal im Schienennetz, werden Loren bei allen Lade und Entlade Stationen stehen bleiben, um ihre Ressourcen abzuladen oder aufzunehmen.</string>
+<string name="MA.BulkMinecart.05.Paragraph">Die Verwendung von Loren ist einfach und erweitert das Konzept Lagercontainer -&gt; Förderband. Loren werden über das Loren-Depot in das Loren-Netzwerk geladen.</string>
+<string name="MA.BulkMinecart.06.Title">Loren Ressourcen Handhabung</string>
+<string name="MA.BulkMinecart.07.Paragraph">Einmal im Schienennetz, werden Loren bei allen Lade- und Entlade Stationen stehen bleiben, um ihre Ressourcen abzuladen oder aufzunehmen.</string>
 <string name="MA.BulkMinecart.08.Title">Fortgeschrittene Loren Steuerung</string>
 <string name="MA.BulkMinecart.09.Paragraph">Um das Verhalten der Loren (wie Bewegung und Erztransport) zu verfeinern, haben wir eine Menge an Möglichkeiten.</string>
-<string name="MA.CargoLiftController.00.Title">Lastenaufzugssteuerung</string>
+<string name="MA.CargoLiftController.00.Title">Warenliftsteuerung</string>
 <string name="MA.CargoLiftController.01.Paragraph">
  Wird verwendet um Schwerlastaufzüge zu platzieren und muss in einer 3x1x3 Konfiguration gebaut werden.
  Ist eine Ideale Ergänzung für Loren und die bevorzugte Methode, um große Mengen an Ressourcen aus der Tiefe ans Tageslicht zu befördern.
@@ -296,28 +296,26 @@
 
  Für kürzere Entfernungen benutze Massetransmitter oder Förderbänder.</string>
 <string name="MA.CargoLiftController.04.Title">Aufbau</string>
-<string name="MA.CargoLiftController.05.Paragraph">
-					Sobald dein Schwerlast Aufzug eine gültige Tiefe ermittelt hat, kannst du den Aufzug einsetzen.
-					Öffne dazu einfach das Bedienfeld der Aufzug Aufhängung indem du "E" drückst und den Aufzug in das dafür vorgesehene Feld ziehst.
-					Du kannst den Schwerlast Aufzug auch wieder ausbauen und verbessern, aber der Aufzug muss leer sein bevor du das tun kannst.
-					
-					</string>
+<string name="MA.CargoLiftController.05.Paragraph">"Sobald dein Warenlift eine gültige Tiefe ermittelt hat, kannst du den Aufzug einsetzen.
+ Öffne dazu einfach das Bedienfeld der Lift-Aufhängung indem du E drückst und den Lift in das dafür vorgesehene Feld ziehst.
+ Du kannst den Warenlift auch wieder ausbauen und verbessern, aber der Lift muss leer sein, bevor du das tun kannst.
+ "</string>
 <string name="MA.CargoLiftController.06.Title">Verwendung</string>
-<string name="MA.CargoLiftController.07.Paragraph">"Dein Aufzug wird automatisch auf und ab fahren solange er genug Energie bekommt, und dabei entsprechend seinen Befehlen Ressourcen einladen und ausladen. Um die Befehle zu ändern drücke \"Interagieren\" (Standard [E]) um das Bedienfeld des Aufzuges zu öffnen und wähle den benötigten Befehl.
- Sobald der Aufzug am unteren oder oberen Ende deines Schachtes ankommt versucht er seine Lade- und Entladebefehle auszuführen. Platziere die Lagercontainer einfach so, das sie Kontakt zum angehaltenen Aufzug haben.
+<string name="MA.CargoLiftController.07.Paragraph">"Dein Warenlift wird automatisch auf und ab fahren solange er genug Energie bekommt, und dabei entsprechend seinen Befehlen Ressourcen einladen und ausladen. Um die Befehle zu ändern drücke \"Interagieren\" (Standard [E]) um das Bedienfeld des Warenlifts zu öffnen und wähle den benötigten Befehl.
+ Sobald der Lift am unteren oder oberen Ende deines Schachtes ankommt versucht er seine Lade- und Entladebefehle auszuführen. Platziere die Lagercontainer einfach so, dass sie Kontakt zum angehaltenen Lift haben.
  "</string>
 <string name="MA.Central_Power_Hub.00.Title">Zentraler Energieverteiler</string>
-<string name="MA.Central_Power_Hub.01.Paragraph">Der Zentrale Energieverteiler ist die wichtigste Maschine in deiner Basis. Er ist zu fortgeschritten als das er repliziert werden könnte. Du kannst auf diesem Planeten nicht ohne ihn überleben also schütze ihn um jeden Preis.</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">Der Zentrale Energieverteiler (ZEV, auch CPH genannt) ist die wichtigste Maschine in deiner Basis. Er ist zu fortgeschritten, als das er repliziert werden könnte. Du kannst auf diesem Planeten nicht ohne ihn überleben. Also schütze ihn um jeden Preis.</string>
 <string name="MA.Central_Power_Hub.02.Header">Energieproduktion</string>
 <string name="MA.Central_Power_Hub.03.Paragraph">Der Zentrale Energieverteiler enthält eine große, interne Batterie welche Energie speichern kann. Durch seine Solarzellen und seinen internen Generator kann der Zentrale Energieverteiler diese Batterie auffüllen.
  Leider ist im Generator nur Platz für eine einzige Einheit Treibstoff. Darum solltest du dich so früh wie möglich darum kümmern die Energieproduktion zu automatisieren, indem du einen Lagercontainer verwendest.</string>
-<string name="MA.Central_Power_Hub.04.Paragraph">Der Zentrale Energiekern verteilt seine Energie automatisch auf umliegende Maschinen, die sie benötigen. Du kannst auch direkt Energie in den Zentralen Energieverteiler einspeisen oder extrahieren, wenn du das Bedienfeld mit "E" öffnest.
-					Das Bedienfeld erlaubt es dir außerdem Brennmaterial in den Generator einzubringen.</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">Der Zentrale Energiekern verteilt seine Energie automatisch auf umliegende Maschinen, die sie benötigen. Du kannst auch direkt Energie in den Zentralen Energieverteiler einspeisen oder extrahieren, wenn du das Bedienfeld mit E öffnest.
+ Das Bedienfeld erlaubt es dir außerdem Brennmaterial in den Generator zu legen.</string>
 <string name="MA.Central_Power_Hub.05.Header">Orbitaler Laser</string>
 <string name="MA.Central_Power_Hub.06.Paragraph">Der Laserstrahl an der Oberseite des Zentralen Energieverteilers kann als Leuchtfeuer genutzt werden. Pass auf das du keine Blöcke zu nahe am Strahl platzierst, da diese zerstört werden.</string>
 <string name="MA.Central_Power_Hub.07.Header">ZEV Computer Systeme</string>
-<string name="MA.Central_Power_Hub.08.Paragraph">Der Zentrale Energieverteiler enthält die meißten unserer Computersysteme, die unsere Basis koordinieren. Die übertragung der Signale erfolg entweder Kabellos, entlang Förderbändern, kodiert in Energielasern und Materiestrahlen.
-					Die Kabellose Verbindung wird durch deinen Anzug verstärkt. Solltest du dennoch isolierte Maschinen in großer Entfernung finden, die sich abschalten so solltest du in Betracht ziehen eine Grundlegende Versorgung mit Laser Energie Transmittern bereit zu stellen.</string>
+<string name="MA.Central_Power_Hub.08.Paragraph">Der Zentrale Energieverteiler enthält die meisten unserer Computersysteme, die unsere Basis koordinieren. Die Übertragung der Signale erfolgt entweder kabellos, entlang Förderbändern, kodiert in Energieübertrager und Massetransmittern.
+ Die Kabellose Verbindung wird durch deinen Anzug verstärkt. Solltest du dennoch isolierte Maschinen in großer Entfernung finden die sich abschalten, so solltest du in Betracht ziehen eine Grundlegende Versorgung mit Laser Energie Transmittern bereit zu stellen.</string>
 <string name="MA.Chargeable_Explosive.00.Title">Aufladbarer Sprengsatz</string>
 <string name="MA.Chargeable_Explosive.01.Paragraph">Ein aufladbarer Sprengsatz, der mit jeder Ladungsstufe stärker wird. Dieser Sprengsatz kann mit einem benachbarten Speicherblock, Energietransmitter oder Generator aufgeladen werden und wird seine Ladung beibehalten. Du kannst den Sprengsatz nach dem Aufladen zum Einsatzort bringen, indem du ihn einfach abbaust. Drücke \"alternative Interaktion\" (Standard [Shift]+[E]) um die Lunte zu entzünden. Danach bleibt dir nicht mehr viel Zeit!</string>
 <string name="MA.Chargeable_Explosive.02.Paragraph">"Für jede Stufe erhöht sich die benötigte Lademenge um das 10fache. "</string>
@@ -329,9 +327,9 @@
 <string name="MA.Chargeable_Explosive.08.Paragraph">- Level 4 = 100 000 Energie.</string>
 <string name="MA.Chargeable_Explosive.09.Paragraph">- Level 5 = 1 000 000 Energie.</string>
 <string name="MA.Chargeable_Explosive.10.Paragraph">- Level 6 = 10 000 000 Energie.</string>
-<string name="MA.Chargeable_Explosive.11.Paragraph">- u.s.w.</string>
-<string name="MA.Chargeable_Explosive.12.Paragraph">- Zwischenstufen beim aufladen der Bombe geben keinen zusätzlichen Radius!</string>
-<string name="MA.Chargeable_Explosive.13.Paragraph">- Mit unserer derzeitigen Technik wird das aufladen der Bombe auf Stufe 6 eine ziemliche Herausforderung sein!</string>
+<string name="MA.Chargeable_Explosive.11.Paragraph">- Und so weiter...</string>
+<string name="MA.Chargeable_Explosive.12.Paragraph">- Zwischenstufen beim Aufladen der Bombe geben keinen zusätzlichen Radius!</string>
+<string name="MA.Chargeable_Explosive.13.Paragraph">- Mit unserer derzeitigen Technik wird das Aufladen der Bombe auf Stufe 6 eine ziemliche Herausforderung sein!</string>
 <string name="MA.Chargeable_Explosive.14.Header">Vorsicht!</string>
 <string name="MA.Chargeable_Explosive.15.Paragraph">Hat eine sehr kurze Lunte! Pass auf, dass du nicht aus Versehen deine Basis zerstörst!</string>
 <string name="MA.Charged_PCB.00.Title">Geladene Leiterplatte</string>
@@ -340,50 +338,50 @@
 <string name="MA.Chevron_Sign_2.01.Paragraph">Gelb-Schwarze Warnmarkierung nach DIN-3070 in 45° fallenden Winkelstreifen. Kann überall hergestellt werden. Öffne dafür die integrierte Werkbank deines Anzuges (Standard [C]).</string>
 <string name="MA.Chevron_Sign.00.Title">Warnstreifen DIN-30710 Rot-Weiß</string>
 <string name="MA.Chevron_Sign.01.Paragraph">Rot-Weiße Warnmarkierung nach DIN-3070 in 45° fallenden Winkelstreifen. Kann überall hergestellt werden. Öffne dafür die integrierte Werkbank deines Anzuges (Standard [C]).</string>
-<string name="MA.Chilled_cavern_stone.00.Title">Unterkühlter Höhlenstein</string>
-<string name="MA.Chilled_cavern_stone.01.Paragraph">Hauptblock zwischen -215 und -270 Metern Tiefe. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen. Dieser Block kann platziert werden.</string>
-<string name="MA.Coal_Enricher.00.Title">Kohleanreicherung</string>
-<string name="MA.Coal_Enricher.01.Paragraph">Die Kohlenwäsche nutzt eine geringe Menge an Energie um die Kohle zu reinigen. Dadurch reichert sich reinste Kohle an, die mehr Energie bei der Verbrennung erzeugt. Angereicherte Kohle kann später noch weiter verbessert werden. Die Kohlenwäsche benötigt 0.4 Energie pro Minute.</string>
+<string name="MA.Chilled_cavern_stone.00.Title">Gekühlter Höhlenstein</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">Hauptblock zwischen 215 und 270 Metern Tiefe. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu gewinnen. Dieser Block kann platziert werden.</string>
+<string name="MA.Coal_Enricher.00.Title">Kohleanreicherer</string>
+<string name="MA.Coal_Enricher.01.Paragraph">Die Kohleanreicherung nutzt eine geringe Menge an Energie um die Kohle zu reinigen. Dadurch reichert sich reinste Kohle an, die mehr Energie bei der Verbrennung erzeugt. Angereicherte Kohle kann später noch weiter verbessert werden. Die Kohlenwäsche benötigt 0.4 Energie pro Minute.</string>
 <string name="MA.Coal_Ore_Ping.00.Title">Kohleping</string>
 <string name="MA.Coal_Ore_Ping.01.Paragraph">Der Kohleping wird verwendet, um neue oder zusätzliche Vorkommen zu finden. Weitere Informationen findest du in der Anleitung zum Erzping.</string>
 <string name="MA.Coal_Ore.00.Title">Kohle</string>
 <string name="MA.Coal_Ore.01.Paragraph">Kohle kann im ZEV oder in Generatoren verbrannt werden.</string>
 <string name="MA.Coal_Ore.02.Paragraph">Kohle kann mit einem Erzbohrer gefördert werden.</string>
-<string name="MA.Coiler_Plant.00.Title">Spulenwickler</string>
-<string name="MA.Coiler_Plant.01.Paragraph">Der Spulenwickler ist ein normales Förderband das mit einem Aufbau zum wickeln von Spulen versehen wurde.</string>
+<string name="MA.Coiler_Plant.00.Title">Wickelmaschine</string>
+<string name="MA.Coiler_Plant.01.Paragraph">Die Wickelmaschine ist ein normales Förderband das mit einem Aufbau zum wickeln von Spulen versehen wurde.</string>
 <string name="MA.Coiler_Plant.02.Header">Verwendung</string>
-<string name="MA.Coiler_Plant.03.Paragraph">Nutze ein Förderband um Drähte einzuspeisen, oder gleich einen Extruder. Der Spulenwickler macht daraus Spulen die in der weiteren Produktion benötigt werden.</string>
-<string name="MA.Coiler_Plant.04.Paragraph">Der Spulenwickler ist für die Automatisierung unserer Forschung unerlässlich.</string>
-<string name="MA.Cold_Cavern_Flora_1.00.Title">Kalte Höhlen Flora 1</string>
+<string name="MA.Coiler_Plant.03.Paragraph">Nutze ein Förderband um Drähte einzuspeisen, oder gleich einen Extruder. Die Wickelmaschine macht daraus Spulen die in der weiteren Produktion benötigt werden.</string>
+<string name="MA.Coiler_Plant.04.Paragraph">Die Wickelmaschine ist für die Automatisierung unserer Forschung unerlässlich.</string>
+<string name="MA.Cold_Cavern_Flora_1.00.Title">Frosthöhlen Flora 1</string>
 <string name="MA.Cold_Cavern_Flora_1.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_1.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_2.00.Title">Kalte Höhlen Flora 2</string>
+<string name="MA.Cold_Cavern_Flora_2.00.Title">Frosthöhlen Flora 2</string>
 <string name="MA.Cold_Cavern_Flora_2.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_2.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_3.00.Title">Kalte Höhlen Flora 3</string>
+<string name="MA.Cold_Cavern_Flora_3.00.Title">Frosthöhlen Flora 3</string>
 <string name="MA.Cold_Cavern_Flora_3.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_3.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_4.00.Title">Kalte Höhlen Flora 4</string>
+<string name="MA.Cold_Cavern_Flora_4.00.Title">Frosthöhlen Flora 4</string>
 <string name="MA.Cold_Cavern_Flora_4.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_4.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_5.00.Title">Kalte Höhlen Flora 5</string>
+<string name="MA.Cold_Cavern_Flora_5.00.Title">Frosthöhlen Flora 5</string>
 <string name="MA.Cold_Cavern_Flora_5.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_5.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_6.00.Title">Kalte Höhlen Flora 6</string>
+<string name="MA.Cold_Cavern_Flora_6.00.Title">Frosthöhlen Flora 6</string>
 <string name="MA.Cold_Cavern_Flora_6.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_6.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
-<string name="MA.Cold_Cavern_Flora_7.00.Title">Kalte Höhlen Flora 7</string>
+<string name="MA.Cold_Cavern_Flora_7.00.Title">Frosthöhlen Flora 7</string>
 <string name="MA.Cold_Cavern_Flora_7.01.Paragraph">Diese unglaubliche Pflanze kann in dieser Extrem kalten Umgebung überleben.</string>
 <string name="MA.Cold_Cavern_Flora_7.02.Paragraph">Diese Pflanze kann verbrannt werden um Energie zu gewinnen.</string>
 <string name="MA.Complex_Experimental_Pod.00.Title">Komplexe Forschungskapsel</string>
 <string name="MA.Complex_Experimental_Pod.01.Paragraph">Die komplexe Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Lithium hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Complex_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</string>
-<string name="MA.Conductive_PCB.00.Title">Leitfähige Leiterplatte</string>
-<string name="MA.Conductive_PCB.01.Paragraph">Eine Goldbasierte Leiterplatte hergestellt aus Goldspulen in einer Leiterplattenfabrik.</string>
-<string name="MA.Construction_Paste_Grinder.00.Title">Betonmischer</string>
-<string name="MA.Construction_Paste_Grinder.01.Paragraph">Der Betonmischer nutzt eine simple Technik die auch in deinem Anzug verbaut ist. Durch den anorganischen Re-Assembler kannst du Baupaste (Beton) aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Der Betonmischer selbst kann aus einfachsten Materialen hergestellt werden die wir an der Oberfläche finden. Der Mischer benötigt keinerlei Energie. Kombiniere den Mischer mit einem Müllschlucker in einem stark frequentierten Bereich.</string>
-<string name="MA.Construction_Paste.00.Title">Beton</string>
-<string name="MA.Construction_Paste.01.Paragraph">Beton ist ein Material das dazu genutzt werden kann, eine Vielzahl an nützlichen Blöcken herzustellen, wie etwa Warnstreifen. Der anorganische Re-Assembler deines Anzuges dient eigentlich dazu, im Vakuum des Raums kleinste Verletzungen zu reparieren um die Dichtheit des Raumanzuges zu gewährleisten. Diese Technik kann mit mikroben dieses Planeten kombiniert werden um einen art Betonmischer herzustellen. Durch den anorganischen Re-Assembler kannst du Beton (Construction Paste) aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Ein weiterer Vorteil von Beton ist, das er im Inventar so gut wie keinen Platz benötigt.</string>
+<string name="MA.Conductive_PCB.00.Title">Leitfähige Platine</string>
+<string name="MA.Conductive_PCB.01.Paragraph">Eine Goldbasierte Platine hergestellt aus Goldspulen in einer Leiterplattenfabrik.</string>
+<string name="MA.Construction_Paste_Grinder.00.Title">Konstruktionspastenmühle</string>
+<string name="MA.Construction_Paste_Grinder.01.Paragraph">Die Konstruktionspastenmühle nutzt eine simple Technik die auch in deinem Anzug verbaut ist. Durch den anorganischen Re-Assembler kannst du Baupaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Die Mühle selbst kann aus einfachsten Materialen hergestellt werden die wir an der Oberfläche finden. Der Mischer benötigt keinerlei Energie. Kombiniere den Mischer mit einem Müllschlucker in einem stark begangenem Bereich.</string>
+<string name="MA.Construction_Paste.00.Title">Konstruktionspaste</string>
+<string name="MA.Construction_Paste.01.Paragraph">Konstruktionspaste ist ein Material das dazu genutzt werden kann, eine Vielzahl an nützlichen Blöcken herzustellen, wie etwa Warnstreifen. Der anorganische Re-Assembler deines Anzuges dient eigentlich dazu, im Vakuum des Raums kleinste Verletzungen zu reparieren um die Dichtheit des Raumanzuges zu gewährleisten. Diese Technik kann mit Mikroben dieses Planeten kombiniert werden . Mit der Konstruktionspastenmühle kannst du die Konstruktionspaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Ein weiterer Vorteil von Beton ist, das er im Inventar so gut wie keinen Platz benötigt.</string>
 <string name="MA.Conveyor_Belt_Filter.00.Title">Förderband Filter</string>
 <string name="MA.Conveyor_Belt_Filter.01.Paragraph">Die Verwendung eines Förderbandfilters ermöglicht es dir den Materialfluss genauer zu kontrollieren. Diese Art von Filter wird verwendet um die Materialien zu steuern die einen Trichter verlassen. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ERZ, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTE GEGENSTÄNDE sowie "KRISTALL UND BARREN"</string>
 <string name="MA.Conveyor_Belt.00.Title">Förderband</string>
@@ -395,35 +393,35 @@
 <string name="MA.Conveyor_Belt.06.Header">Filtern</string>
 <string name="MA.Conveyor_Belt.07.Paragraph">"Die Verwendung des Förderband-Filters ermöglicht uns eine exaktere Verteilung unserer Ressourcen. Diese Art von Filter wird genutzt, um zu bestimmen welche Ressourcen aus einem Trichter entfernt werden. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTES sowie KRISTALLE und BARREN. "</string>
 <string name="MA.Conveyor_Turntable.00.Title">Förderband Drehscheibe</string>
-<string name="MA.Conveyor_Turntable.01.Paragraph">Die Förderband Drehscheibe kann dazu verwendet werden um Ressourcen zwischen mehreren Förderbänbdern aufzuteilen. Um sicherstellen das kein Chaos eintritt, solltest du es vermeiden Drehscheiben an Trichtern oder anderen Drehscheiben anzubringen.</string>
+<string name="MA.Conveyor_Turntable.01.Paragraph">Die Förderband Drehscheibe kann dazu verwendet werden um Ressourcen zwischen mehreren Förderbändern aufzuteilen. Um sicher zu gehen, dass kein Chaos eintritt, solltest du es vermeiden Drehscheiben an Trichtern oder anderen Drehscheiben anzubringen.</string>
 <string name="MA.Copper_Bar.00.Title">Kupfer Barren</string>
 <string name="MA.Copper_Bar.01.Paragraph">Kupferbarren werden in der Regel in einer Vielzahl von Rezepten und Prozessen verwendet. Sie werden aus Kupfer Erz hergestellt, welches sich in der Nähe der Oberfläche befindet.</string>
 <string name="MA.Copper_Coil.00.Title">Kupfer Spule</string>
-<string name="MA.Copper_Coil.01.Paragraph">Eine simple Kupferspule, hergestellt im Spulenwickler.</string>
-<string name="MA.Copper_Housing.00.Title">Kupfer Gehäuse</string>
-<string name="MA.Copper_Housing.01.Paragraph">Ein simples Kupfergehäuse hergestellt aus Kupferplatten.</string>
+<string name="MA.Copper_Coil.01.Paragraph">Eine einfache Kupferspule, hergestellt in der Wickelmaschine.</string>
+<string name="MA.Copper_Housing.00.Title">Kupfergehäuse</string>
+<string name="MA.Copper_Housing.01.Paragraph">Ein einfaches Kupfergehäuse, hergestellt aus Kupferplatten.</string>
 <string name="MA.Copper_Ore_Ping.00.Title">Kupferping</string>
 <string name="MA.Copper_Ore_Ping.01.Paragraph">Der Kupferping wird verwendet um neue oder zusätzliche Vorkommen zu finden. Weitere Informationen findest du in der Anleitung zum Erzping.</string>
 <string name="MA.Copper_Ore.00.Title">Kupfer Erz</string>
 <string name="MA.Copper_Ore.01.Paragraph">Kann bereits nahe der Oberfläche gefunden werden und in Barren geschmolzen werden. Nutze dazu den Schmelzer. Kupferbarren werden in einer Vielzahl von Rezepten und Prozessen benötigt.</string>
 <string name="MA.Copper_Ore.02.Paragraph">Kupfererz kann mit einem Erzbohrer abgebaut werden.</string>
-<string name="MA.Copper_Pipe.00.Title">Kupfer Rohr</string>
-<string name="MA.Copper_Pipe.01.Paragraph">Ein einfaches Kupferrohr hergestellt aus einem Barren Kupfer in einem Rohrextruder. Wird zum herstellen von Raketen benötigt.</string>
-<string name="MA.Copper_Plate.00.Title">Kupfer Platte</string>
-<string name="MA.Copper_Plate.01.Paragraph">Eine einfache Kupferplatte hergestellt in der Plattenpresse.</string>
-<string name="MA.Copper_Wire.00.Title">Kupfer Draht</string>
+<string name="MA.Copper_Pipe.00.Title">Kupferrohr</string>
+<string name="MA.Copper_Pipe.01.Paragraph">Ein einfaches Kupferrohr hergestellt aus einem Barren Kupfer in einem Rohrextruder. Wird zum Herstellen von Raketen benötigt.</string>
+<string name="MA.Copper_Plate.00.Title">Kupferplatte</string>
+<string name="MA.Copper_Plate.01.Paragraph">Eine einfache Kupferplatte, hergestellt in der Plattenpresse.</string>
+<string name="MA.Copper_Wire.00.Title">Kupferdraht</string>
 <string name="MA.Copper_Wire.01.Paragraph">Ein einfacher Kupferdraht für elektrische Komponenten. Wird im Extruder hergestellt.</string>
 <string name="MA.Crude_Organic_Lens.00.Title">Grobe organische Linse</string>
-<string name="MA.Crude_Organic_Lens.01.Paragraph">Setze diese Linse in einen Lasertransmitter ein um die Übertragungsrate zu erhöhen.</string>
+<string name="MA.Crude_Organic_Lens.01.Paragraph">Setze diese Linse in einen Energieübertrager ein um die Übertragungsrate zu erhöhen.</string>
 <string name="MA.Crude_Organic_Lens.02.Header">Spezifikationen</string>
 <string name="MA.Crude_Organic_Lens.03.Left">Übertragungsrate:</string>
 <string name="MA.Crude_Organic_Lens.04.Right">125%</string>
-<string name="MA.Crystal_Clock.00.Title">Kristalluhr</string>
-<string name="MA.Crystal_Clock.01.Paragraph">Kristalluhren werden häufig als Teil eines Rezeptes für höherwertige Technologie verwendet. Das Einbinden von Kristalluhren als Taktgeber in Maschinen erlaubt es uns präziseres Timing als normalerweise möglich. Kristalluhren können so, wie die meisten Chips übertaktet werden, um noch effizientere Uhren für fortschrittliche Maschinen zu erhalten.</string>
-<string name="MA.Crystal_Coal_Infuser.00.Title">Kristallkohlen-Presse</string>
-<string name="MA.Crystal_Coal_Infuser.01.Paragraph">Die Kristallkohlen-Presse nutzt eine geringe Menge Energie um Kristallkohle herzustellen. Kristallkohle erzeugt im Generator mehr Energie als angereicherte Kohle. Die Kohlenpresse benötigt 0.4 Energie pro Minute.</string>
+<string name="MA.Crystal_Clock.00.Title">Kristalltaktgenerator</string>
+<string name="MA.Crystal_Clock.01.Paragraph">Kristalltaktgenerator werden häufig als Teil eines Rezeptes für höherwertige Technologie verwendet. Das Einbinden von Taktgebern in Maschinen erlaubt uns präziseres Timing als normalerweise möglich. Kristalltaktgeneratoren können, so wie die meisten elektronischen Bauteile, übertaktet werden, um noch genauere Uhren für fortschrittliche Maschinen zu erhalten.</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">Kristallkohleneinflöser</string>
+<string name="MA.Crystal_Coal_Infuser.01.Paragraph">Der Kristallkohleneinflöser nutzt eine geringe Menge Energie um Kristallkohle herzustellen. Kristallkohle erzeugt im Generator mehr Energie als angereicherte Kohle. Die Maschine benötigt 0.4 Energie pro Minute.</string>
 <string name="MA.Crystal_Cutter_Head.00.Title">Kristallbohrkopf</string>
-<string name="MA.Crystal_Cutter_Head.01.Paragraph">Verringert den Ausschuss beim Abbau von Erzen und erlaubt das gewinnen von härteren Materialien. Bohrköpfe nutzen sich mit der Zeit ab.</string>
+<string name="MA.Crystal_Cutter_Head.01.Paragraph">Verringert den Ausschuss beim Abbau von Erzen und erlaubt das Gewinnen von härteren Materialien. Bohrköpfe nutzen sich mit der Zeit ab.</string>
 <string name="MA.Crystal_Cutter_Head.02.Paragraph">Der Kristallbohrkopf ist effizienter als der Stahlbohrkopf aber nutzt sich schneller ab.</string>
 <string name="MA.Crystal_Cutter_Head.03.Header">Spezifikationen</string>
 <string name="MA.Crystal_Cutter_Head.04.Left">Effizienz:
@@ -440,7 +438,7 @@
 <string name="MA.DapperFrame.01.Paragraph">Kosmetischer Block aus dem DAPPER Indie Support Pack. Vielen Dank für deine Unterstützung von Fortresscraft Evolved!</string>
 <string name="MA.DapperScale.00.Title">Dapper Schuppen</string>
 <string name="MA.DapperScale.01.Paragraph">Kosmetischer Block aus dem DAPPER Indie Support Pack. Vielen Dank für deine Unterstützung von Fortresscraft Evolved!</string>
-<string name="MA.DapperVIP.00.Title">Dapper V.I.P.</string>
+<string name="MA.DapperVIP.00.Title">Dapper VIP.</string>
 <string name="MA.DapperVIP.01.Paragraph">Kosmetischer Block aus dem DAPPER Indie Support Pack. Vielen Dank für deine Unterstützung von Fortresscraft Evolved!</string>
 <string name="MA.DapperWall.00.Title">Dapper Wand</string>
 <string name="MA.DapperWall.01.Paragraph">Kosmetischer Block aus dem DAPPER Indie Support Pack. Vielen Dank für deine Unterstützung von Fortresscraft Evolved!</string>
@@ -791,10 +789,10 @@ Halte Steuerung, Feststell oder Alt um die Limiten in 10er, 100er oder 1000er Sc
 
 Der Rampen interne Speicher kann über den dazugehörigen Knopf gesperrt werden. Dies verhindert das weiter Gegenstände intern gelagert werden sobald das Limit erreicht wurde. Diese Funktion ist dafür vorgeshen um zu verhinder das eine grosse Anzahl teurer Dinge gepuffert werden.
  "</string>
-<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"Die Massenlager Laderampe ermöglicht die kontrollierte zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden 
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"Die Massenlager Ladestation ermöglicht die kontrollierte Zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden. 
  "</string>
-<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"Die Massenlager Laderampe muss an ein Massenlager angrenzend aufgebaut werde. E öffnet die Oberfläche wo gelagerte Gegenstände und das Inventarlimit gesetzt werden kann. Die Laderampe wird nur Gegenstände einlagern wenn der gesetzte Mindestwert unterschritten wird. Andere Gegenstände werden weiterhin eingelagert also ob es eine normale Laderampe wäre.
-Halte Steuerung, Feststell oder Alt um die Limiten in 10er, 100er oder 1000er Schritten zu verändern.
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"Die Massenlager Ladestation muss an ein Massenlager angrenzend aufgebaut werde. E öffnet die Oberfläche wo gelagerte Gegenstände und das Inventarlimit gesetzt werden kann. Die Ladestation wird nur Gegenstände einlagern, wenn der gesetzte Mindestwert unterschritten wird. Andere Gegenstände werden weiterhin eingelagert also ob es eine normale Laderampe wäre.
+Halte Steuerung, Feststell oder Alt um die Grenzwerte in 10er, 100er oder 1000er Schritten zu verändern.
  "</string>
 <string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
  Du kannst den leeren Eintrag anklicken um den Gegenstand nach seinem Namen zu suchen um die einstellugn einfach zu verändern oder den Knopf drücken um den Gegenstand zu wählen. Mehrblockbauten können nicht einfach gefunden werden. Nutze Multi, Placement oder Component um eine Liste dieser Blöcke zu erhalten.
@@ -810,8 +808,11 @@ Beschleinigung
 1m/s²
 16
 15 sekunden</string>
-<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">schüttgut Massenlager Laderampe</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">Riesiges Massenlager Ladestation</string>
 <string name="MA.FastMinecart.01.Paragraph">Minenloren sind für Schüttgut transporte von Gegenständen mit einer durchschnittlichen Rate.</string>
 <string name="MA.FastMinecart.05.Paragraph">Die nutzugn von Minenloren ist recht simpel. Sie erweitert die funktion Container -&gt; Förderband welche bis jetzt angewendet wurde. Loren werden mithilfe eines Depots in das Netzwerk eingebracht.</string>
 <string name="MA.FastMinecart.06.Title">Mienenloren Rescourcenhandhabung</string>
+<string name="MA.FastMinecart.07.Paragraph">Sind die Loren erst einmal auf den Schienen werden diese an den Lade- und Entladestationen halten und dort ihre Ressourcen ein- bzw. ausladen.</string>
+<string name="MA.FastMinecart.08.Title">Erweiterte Lorenkontrolle</string>
+<string name="MA.FastMinecart.09.Paragraph">Für eine genauere Steuerung deiner Loren hast du unterschiedliche Werkzeuge zur Verfügung, vom Ladeverhalten bis hin zur Entscheidungsfindung.</string>
 </resources>
