@@ -1679,4 +1679,39 @@
     <string name="Workshop Placement_DESC">Разместите попарно по диагонали\\nСоздаёт Мастерскую детализированных блоков\\nРазмер от 2x2x2 до 8x8x8</string>
 
     <string name="Airbone Particulate Extractor">Экстрактор воздушных примесей</string>
+    <string name="Suggested_Guide">Предлагаемое Руководство</string>
+    <string name="Eligible_Research_Project">Подходящий Исследовательский Проект</string>
+    <string name="Completed_Research_Project">Законченный Исследовательский Проект</string>
+    <string name="Selected_Block">Выбранный Блок</string>
+    <string name="Selected_Hotbar">Выбор на Быстрой панели</string>
+    <string name="OE_Output">Выход Экстрактора Руды</string>
+    <string name="OS_Ingredient">Ингредиент в Плавильне</string>
+    <string name="Resource">Ресурс</string>
+    <string name="Selected_Machine">Выбранная Машина</string>
+    <string name="Selected_Recipe">Выбранный Рецепт</string>
+    <string name="Highlighted_In_Hotbar">Подсвечено в Быстрой панели</string>
+    <string name="Highlighted_In_Inventory">Подсвечено в Инвентаре</string>
+    <string name="Highlighted_In_Storage_Crate">Подсвечено в Ящике</string>
+    <string name="Unknown_Materials">Неизвестные Материалы</string>
+    <string name="OS_Output">Выход Плавильни</string>
+    <string name="Installed_Lift">Установленный Лифт</string>
+
+    <string name="MISSION_(R)otate the LPT towards the PSB">Повернуть (\'R\') ЛПЭ в направлении ЦЭК!</string>
+    <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Учебный Лазерный Передатчик</string>
+    <string name="MISSION_Place Tutorial Storage Hopper">Разместите Учебный Накопительный Бункер</string>
+    <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите Бункеры рядом с Плавильней.</string>
+    <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на \'Только Добавить\'.</string>
+    <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на \'Только Удалить\'</string>
+    <string name="MISSION_Minecart derailed">Вагонетка сошла с рельсов!</string>
+    <string name="MISSION_Place Ore Extractor on Copper Ore">Поместите Экстрактор Руды на Медную жилу.</string>
+    <string name="MISSION_Find Copper Ore with Ping Unknown">Найдите Медную жилу. Сканер -&gt; \'Искать Неизвестное\'.</string>
+    <string name="MISSION_Use Scanner(M) to Find Copper Ore">Используйте Сканер (\'M\'), чтобы отыскать Медную Руду.</string>
+    <string name="MISSION_Place Ore Extractor on Tin Ore">Поместите Экстрактор Руды на Оловянную жилу.</string>
+    <string name="MISSION_Find Tin Ore with Ping Unknown">Найдите Оловянную жилу. Сканер -&gt; \'Искать Неизвестное\'.</string>
+    <string name="MISSION_Use Scanner(M) to Find Tin Ore">Используйте Сканер (\'M\'), чтобы отыскать Оловянную Руду.</string>
+    <string name="MISSION_Extract or Smelt Lithium">Добудьте или выплавьте Литий.</string>
+    <string name="MISSION_Extract or Smelt Nickel">Добудьте или Выплавьте Никель.</string>
+    <string name="MISSION_Extract or Smelt Gold">Добудьте или выплавите Золото.</string>
+    <string name="MISSION_Extract or Smelt Titanium">Добудьте или выплавите Титан.</string>
+    <string name="MISSION_Extract Crystal Ore">Добудьте Кристаллы.</string>
     </resources>
