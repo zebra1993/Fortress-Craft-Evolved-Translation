@@ -1,2 +1,602 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.Auto_Excavator.00.Title">Авто-экскаватор</string>
+<string name="MA.Auto_Excavator.01.Paragraph">Автоматически роет вертикальные шахты снизу-вверх. Выкопанный материал падает вниз. Не может копать руду.</string>
+<string name="MA.Auto_Excavator.02.Header">Применение</string>
+<string name="MA.Auto_Excavator.03.Paragraph">Выройте небольшой тоннель к основанию предполагаемой шахты и разместите авто-экскаватор, после чего подведите к нему энергию.</string>
+<string name="MA.Auto_Excavator.04.Header">Характеристики</string>
+<string name="MA.Ultimate_Experimental_Pod.00.Title">Совершенная Экспериментальная Ячейка</string>
+<string name="MA.Auto_Builder.00.Title">Авто-строитель</string>
+<string name="MA.Auto_Builder.01.Paragraph">Строит конвейерные линии в любом основном направлении при подаче блоков Конвейера.</string>
+<string name="MA.Auto_Builder.02.Header">Советы и хитрости!</string>
+<string name="MA.Auto_Builder.03.Paragraph">- Этой машине нужна энергия, чтобы работать на полной скорости!</string>
+<string name="MA.Auto_Builder.04.Paragraph">- Для подачи конвейерных блоков необходим Бункер.</string>
+<string name="MA.Auto_Builder.05.Paragraph">- Не используйте другие блоки! Авто-строитель не сможет разместить другие блоки!</string>
+<string name="MA.Auto_Builder.06.Header">Внимание!</string>
+<string name="MA.Auto_Builder.07.Paragraph">- Прикрепив Бункер с транспортными трубами, вы будете получать обычные конвейерные линии, а не транспортные трубы!</string>
+<string name="MA.Threat_Scanner.00.Title">Сканер Угроз</string>
+<string name="MA.AI_Mover_Control.00.Title">ИИ-носильщик</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">Батарея ARTHER</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">Зарядная станция ARTHER</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Щегольская шляпа ARTHER</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Щегольский монокль ARTHER</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">Щегольские усы ARTHER</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">Щегольский набор ARTHER</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Обновление Щегольского набора ARTHER</string>
+<string name="MA.ARTHER_Power_Core.00.Title">Силовое ядро ARTHER</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">Солнечная панель ARTHER</string>
+<string name="MA.ARTHER_Turret.00.Title">Турель для ARTHER</string>
+<string name="MA.ARTHER_Turret.03.Header">Характеристики</string>
+<string name="MA.ARTHER_Turret.04.Left">"Дальность:
+  Урон (за выстрел):
+  Энергия (за выстрел):
+  Энергоёмкость:
+  Время перезарядки:
+  Экипаж:"</string>
+<string name="MA.ARTHER_Turret.05.Right">64 м
+ 33
+ 5
+ 150
+ 10 секунд
+ 1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">Модуль обновления ARTHER</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Продвинутая Экспериментальная Ячейка</string>
+<string name="MA.Advanced_machine_block.00.Title">Усовершенствованный машинный блок</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Антиматериальный Буровой Привод</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">Характеристики</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">Скорость Добычи:</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Excavator.05.Left">"Поперечные размеры шахты:
+  Максимальная высота шахты:
+  Требуемая энергия:
+  Энергоёмкость:
+  Скорость перезарядки:
+  Скорость копания:"</string>
+<string name="MA.Auto_Excavator.06.Right">"3 м x 3 м
+  512 м
+  20 на 1 кубометр
+  160
+  -
+  40 блоков в секунду"</string>
+<string name="MA.BFL-9000.00.Title">БЕЛ-9000</string>
+<string name="MA.BFL-9000.02.Header">Характеристики</string>
+<string name="MA.BFL-9000.03.Left">"Размер туннеля:
+  Максимальная длина туннеля:
+  Требуемая энергия:
+  Энергоёмкость:
+  Скорость перезарядки:
+  Скорость бурения:"</string>
+<string name="MA.BFL-9000.04.Right">"5м x 5м
+  неограниченно
+  1280 за метр
+  2560
+  2560 в секунду
+  0,2 метра в секунду"</string>
+<string name="MA.Bar_Keeper.00.Title">Система Приёма Слитков \"Кибердайн\"</string>
+<string name="MA.Bar_Keeper.02.Header">Характеристики</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">Базовый конвейер</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">Применение</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Ограничения</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Фильтрация</string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">Характеристики</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Базовый Буровой Привод</string>
+<string name="MA.Basic_Drill_Motor.02.Header">Характеристики</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Скорость добычи:</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Базовая Экспериментальная Ячейка</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">Базовая Экспериментальная Ячейка применяется в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Эти ячейки делаются из Меди. Для более подробной информации обратитесь к следующему руководству.</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Базовый Лазерный Передатчик Энергии</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">Характеристики</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.03.Right">"25
+ 5
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.02.Left">"Вместительность Порта:
+  Вместительность Дрона:
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Базовый Накопительный Порт Склада</string>
+<string name="MA.Basic_Missile_Assembler.00.Title">Базовый Сборщик Ракет</string>
+<string name="MA.Basic_Missile_Assembler.01.Paragraph">Базовый Сборщик Ракет автоматизирует производство Базовых Ракет.</string>
+<string name="MA.Basic_Missile_Assembler.02.Header">Использование</string>
+<string name="MA.Basic_Missile_Assembler.04.Paragraph">Для каждой создаваемой ракеты потребуется 1 Медная Труба, 1 Золотой Провод и Высокоэнергетическое Композитное Топливо.</string>
+<string name="MA.Basic_Missile.00.Title">Базовая Ракета</string>
+<string name="MA.Basic_Missile.02.Header">Характеристики</string>
+<string name="MA.Basic_Missile.03.Left">Урон:</string>
+<string name="MA.Basic_Missile.04.Right">70000</string>
+<string name="MA.Basic_Ore_Smelter.00.Title">Базовая Плавильня</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">Автоматизация</string>
+<string name="MA.Basic_Ore_Smelter.05.Paragraph">Плавильня должна быть автоматизирована как можно скорее с добавлением Накопительных Бункеров для ресурсов на входе и на выходе. У Бункера на входе должно быть установлен режим ввода-вывода «Только выгрузка». При этом Бункер на входе должен быть достаточно большим, чтобы содержать минимальное количество руды для создания одного слитка в подсоединенной Плавильне.</string>
+<string name="MA.Basic_PCB.00.Title">Базовая ПП</string>
+<string name="MA.Basic_PCB.01.Paragraph">Медная ПП, созданная из Медных Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.Basic_Quarry.00.Title">Базовый Карьер</string>
+<string name="MA.Basic_Quarry.02.Header">Характеристики</string>
+<string name="MA.Basic_Quarry.01.Paragraph">Карьер выкапывает землю под собой, возвращая все найденные ресурсы. Может быть построен только выше уровня -25 м. Ресурсы будут размещены в прикрепленных Бункерах.</string>
+<string name="MA.BasicCargoLift.00.Title">Базовый Грузовой Лифт</string>
+<string name="MA.BasicCargoLift.02.Header">Характеристики</string>
+<string name="MA.BasicCargoLift.01.Paragraph">Самый маленький из имеющихся грузовых лифтов, это идеальный вариант для массовой поставки таких материалов, как железо и литий.</string>
+<string name="MA.BasicCargoLift.03.Left">"Максимальное расстояние:
+  Максимальная скорость:
+  Ускорение:
+  Энергоёмкость:
+  Потребляемая энергия (при перемещении):
+ "</string>
+<string name="MA.BasicCargoLift.04.Right">"Неограниченно
+  5 м/с
+  0,5 м/с^2
+  300
+  35 Э/с
+ "</string>
+<string name="MA.BasicMinecart.00.Title">Базовая Вагонетка</string>
+<string name="MA.BasicMinecart.01.Paragraph">Вагонетки нужны для массового перемещения предметов со средней скоростью.</string>
+<string name="MA.BasicMinecart.02.Header">Характеристики</string>
+<string name="MA.BaubleBerry.00.Title">Бездельягода</string>
+<string name="MA.BaubleBerry.01.Paragraph">Невзрачное растение, обнаруживаемое на поверхности и в пещерах этой планеты.</string>
+<string name="MA.BaubleBerry.02.Paragraph">Это растение можно сжечь для выработки энергии.</string>
+<string name="MA.Bedrock.00.Title">Коренная Порода</string>
+<string name="MA.Biomass_Growth_Ping.00.Title">Пробник Биомассы</string>
+<string name="MA.Biomass_Growth_Ping.01.Paragraph">Пробник Биомассы используется для поиска дополнительной биомассы, когда та, что находится при поиске неизвестных материалов, почти исчерпана или недостаточна. Дополнительную информацию см. в справочном руководстве по Пустым Рудным Пробникам.</string>
+<string name="MA.Blank_Ore_Ping.00.Title">Пустой Рудный Пробник</string>
+<string name="MA.Blank_Ore_Ping.01.Paragraph">Пустой Рудный Пробник применяется в сочетании с образцом руды для поиска конкретной руды Сканером. Рудные Пробники разных типов руды предназначены для поиска рудных жил того же типа, когда разрабатываемые жилы истощились или слишком малы.</string>
+<string name="MA.Blank_Ore_Ping.02.Header">Использование</string>
+<string name="MA.Blue_Canvas.00.Title">Синий Холст</string>
+<string name="MA.Blue_GlowPod.00.Title">Синий световой стручок</string>
+<string name="MA.Blue_GlowPod.02.Paragraph">Это растение можно сжечь для выработки энергии.</string>
+<string name="MA.Build_Gun_V1.00.Title">Строительная Пушка В1</string>
+<string name="MA.Build_Gun_V2.00.Title">Строительная Пушка В2</string>
+<string name="MA.Build_Gun_V3.00.Title">Строительная Пушка В3</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">Вместительный Накопительный Порт Склада</string>
+<string name="MA.BulkCargoLift.00.Title">Вместительный Грузовой Лифт</string>
+<string name="MA.BulkCargoLift.02.Header">Характеристики</string>
+<string name="MA.BulkMinecart.02.Header">Характеристики</string>
+<string name="MA.CargoLiftController.00.Title">Контроллер Грузового Лифта</string>
+<string name="MA.CargoLiftController.02.Title">Конфигурация шахты</string>
+<string name="MA.CargoLiftController.04.Title">Размещение</string>
+<string name="MA.CargoLiftController.06.Title">Использование</string>
+<string name="MA.Central_Power_Hub.00.Title">Центральный Энергетический Концентратор</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">Центральный Энергетический Концентратор (ЦЭК) - самое главная машина вашей базы. Подобное оборудование сложно воспроизвести, и вы не выживете без него на этой планете, поэтому защищайте его любой ценой.</string>
+<string name="MA.Central_Power_Hub.02.Header">Генерация Энергии</string>
+<string name="MA.Central_Power_Hub.05.Header">Орбитальный Лазер</string>
+<string name="MA.Central_Power_Hub.07.Header">Компьютерные системы</string>
+<string name="MA.Chargeable_Explosive.00.Title">Заряжаемая Взрывчатка</string>
+<string name="MA.Chargeable_Explosive.01.Paragraph">"Заряжаемая Взрывчатка обладает свойством увеличения радиуса взрыва в зависимости от уровня заряда. Это взрывчатое вещество может заряжаться с использованием подсоединенного Блока Хранения Энергии, Генератора энергии  или Лазерного Передатчика Энергии. Эта взрывчатка сохраняет свой заряд, пока её переносят к месту взрыва. После чего её можно взорвать с помощью клавиши альтернативного взаимодействия (по умолчанию «Shift + E»)."</string>
+<string name="MA.Chargeable_Explosive.02.Paragraph">"Каждый раз, когда запас энергии умножается на 10, уровень заряда увеличивается на 1! "</string>
+<string name="MA.Chargeable_Explosive.03.Header">Советы и Хитрости!</string>
+<string name="MA.Chargeable_Explosive.04.Paragraph">- Требуемая энергия увеличивается в геометрической прогрессии!</string>
+<string name="MA.Chargeable_Explosive.05.Paragraph">- Уровень 1 заряда = 100 Энергии.</string>
+<string name="MA.Chargeable_Explosive.06.Paragraph">- Уровень 2 заряда = 1000 Энергии.</string>
+<string name="MA.Chargeable_Explosive.07.Paragraph">- Уровень 3 заряда = 10000 Энергии.</string>
+<string name="MA.Chargeable_Explosive.08.Paragraph">- Уровень 4 заряда = 100 000 Энергии.</string>
+<string name="MA.Chargeable_Explosive.09.Paragraph">- Уровень 5 заряда = 1 000 000 Энергии.</string>
+<string name="MA.Chargeable_Explosive.10.Paragraph">- Уровень 6 заряда = 10 000 000 Энергии.</string>
+<string name="MA.Chargeable_Explosive.11.Paragraph">- И так далее!</string>
+<string name="MA.Chargeable_Explosive.12.Paragraph">- Промежуточные уровни энергии не дают дополнительного радиуса взрыва!</string>
+<string name="MA.Chargeable_Explosive.13.Paragraph">- Достижение 6-го уровня с существующим производством энергии уже будет проблемой!</string>
+<string name="MA.Chargeable_Explosive.14.Header">Осторожно!</string>
+<string name="MA.Chargeable_Explosive.15.Paragraph">" Имеет очень короткий \"запал\"! Случайно взорвать свою базу - как два пальца!"</string>
+<string name="MA.BasicMinecart.06.Title">Работа с ресурсами в Вагонетке</string>
+<string name="MA.BasicMinecart.08.Title">Продвинутое управление Вагонетками</string>
+<string name="MA.Charged_PCB.00.Title">Заряженная ПП</string>
+<string name="MA.Charged_PCB.01.Paragraph">Изготовленная из Лития Печатная Плата (ПП) из Литиевых Катушек производится на Заводе ПП.</string>
+<string name="MA.Chevron_Sign_2.00.Title">Шеврон 2</string>
+<string name="MA.Chevron_Sign_2.01.Paragraph">Желто-черный блок, обозначающий опасность, который можно сделать в любое время. Откройте интерфейс изготовления вручную (по умолчанию «C») для изготовления этих блоков.</string>
+<string name="MA.Chevron_Sign.00.Title">Шеврон</string>
+<string name="MA.Chevron_Sign.01.Paragraph">Блок с красно-белыми стрелками, который можно сделать в любое время. Откройте интерфейс изготовления вручную (по умолчанию «C») для изготовления этих блоков.</string>
+<string name="MA.Chilled_cavern_stone.00.Title">Холодный Камень</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">Такой блок находится между на глубине между -215 и -270 метрами. Сам-то камень не холодный, хотя пещеры, в которых вы их находите, очень холодные. Может быть измельчён в Измельчителе с шансом извлечь полезную руду. Блок может быть размещен для строительства.</string>
+<string name="MA.Coal_Enricher.00.Title">Органический Обогатитель Угля</string>
+<string name="MA.Coal_Ore_Ping.00.Title">Пробник Угля</string>
+<string name="MA.Coal_Ore.00.Title">Уголь</string>
+<string name="MA.Coiler_Plant.00.Title">Намотчик</string>
+<string name="MA.Coiler_Plant.02.Header">Использование</string>
+<string name="MA.Cold_Cavern_Flora_1.00.Title">Растение холодных пещер 1</string>
+<string name="MA.Cold_Cavern_Flora_2.00.Title">Растение холодных пещер 2</string>
+<string name="MA.Cold_Cavern_Flora_3.00.Title">Растение холодных пещер 3</string>
+<string name="MA.Cold_Cavern_Flora_4.00.Title">Растение холодных пещер 4</string>
+<string name="MA.Cold_Cavern_Flora_5.00.Title">Растение холодных пещер 5</string>
+<string name="MA.Cold_Cavern_Flora_6.00.Title">Растение холодных пещер 6</string>
+<string name="MA.Cold_Cavern_Flora_7.00.Title">Растение холодных пещер 7</string>
+<string name="MA.Cold_Cavern_Flora_1.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_2.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_3.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_4.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_5.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_6.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_7.01.Paragraph">Это невероятное растение может выжить в экстремальных условиях холодных пещер.</string>
+<string name="MA.Cold_Cavern_Flora_4.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_3.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_2.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_1.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_5.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_6.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Cold_Cavern_Flora_7.02.Paragraph">Это растение можно сжечь для получения Энергии.</string>
+<string name="MA.Complex_Experimental_Pod.00.Title">Сложная Экспериментальная Ячейка</string>
+<string name="MA.Conductive_PCB.00.Title">Проводящая ПП</string>
+<string name="MA.Construction_Paste_Grinder.00.Title">Дробилка Строительной Пасты</string>
+<string name="MA.Construction_Paste.00.Title">Строительная Паста</string>
+<string name="MA.Conveyor_Belt_Filter.00.Title">Конвейерный фильтр</string>
+<string name="MA.Conveyor_Belt.00.Title">Конвейер</string>
+<string name="MA.Conveyor_Belt.02.Header">Использование</string>
+<string name="MA.Conveyor_Belt.01.Paragraph">Конвейеры - относительно дешевый и простой способ перемещения ресурсов. Первым применением, вероятно, будет перемещение материала из Бункера, прикрепленного к рудному или угольному Экстрактору, в другой Бункер, присоединенный к Плавильне или генераторам энергии, таким как Центральный Энергетический Концентратор или Пиротермический Генератор.</string>
+<string name="MA.Conveyor_Belt.03.Paragraph">Конвейеры автоматически извлекают ресурсы из любого подсоединенного Бункера, если лента конвейера направлена в любом направлении от Бункера, и перемещают его вдоль своего направления, помещая его на другой конвейер или Бункер, при условии наличия свободного пространства на ленте или в Бункере. Вы можете изменить направление конвейерной линии, поворачивая конвейер. Вы можете размещать его на стене для вертикального перемещения ресурсов. Бункеры нужны для загрузки ресурсов в оборудование, куда идёт конвейер.</string>
+<string name="MA.Conveyor_Belt.04.Header">Ограничения</string>
+<string name="MA.Conveyor_Belt.05.Paragraph">Конвейеры дешевы и не требуют подведения энергии, однако у них есть ряд недостатков. Они уязвимы к воздействию экстремально холодных / токсичных сред, а открытый дизайн делает их особенно уязвимыми для нападений. Поэтому необходимо изучать альтернативные методы транспортировки ресурсов.</string>
+<string name="MA.Conveyor_Belt.06.Header">Фильтрация</string>
+<string name="MA.Conveyor_Turntable.00.Title">Конвейерный Поворотный Стол</string>
+<string name="MA.Conveyor_Turntable.01.Paragraph">Конвейерный Поворотный Стол используется для равномерного распределения предметов в двух или трёх направлениях. Чтобы убедиться, что предметы подаются корректно избегайте непосредственного присоединения Бункеров или других Поворотных Столов.</string>
+<string name="MA.Copper_Bar.00.Title">Медный Слиток</string>
+<string name="MA.Copper_Coil.00.Title">Медная Катушка</string>
+<string name="MA.Copper_Housing.00.Title">Медный Корпус</string>
+<string name="MA.BulkMinecart.00.Title">Вместительная Вагонетка</string>
+<string name="MA.Copper_Ore_Ping.00.Title">Пробник Медной Руды</string>
+<string name="MA.Copper_Ore.00.Title">Медная Руда</string>
+<string name="MA.Copper_Pipe.00.Title">Медная Труба</string>
+<string name="MA.Copper_Plate.00.Title">Медная Пластина</string>
+<string name="MA.Copper_Wire.00.Title">Медный Провод</string>
+<string name="MA.Crude_Organic_Lens.00.Title">Грубая Органическая Линза</string>
+<string name="MA.Crude_Organic_Lens.02.Header">Характеристики</string>
+<string name="MA.Crude_Organic_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Crude_Organic_Lens.04.Right">125%</string>
+<string name="MA.Crystal_Clock.00.Title">Кристаллические Тактовые Генераторы</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">Кристаллический Насытитель Угля</string>
+<string name="MA.Crystal_Cutter_Head.00.Title">Кристаллическая Режущая Головка</string>
+<string name="MA.Crystal_Cutter_Head.03.Header">Характеристики</string>
+<string name="MA.Crystal_Cutter_Head.04.Left">"Эффективность:
+  Максимальная твердость:
+  Прочность:"</string>
+<string name="MA.Crystal_Cutter_Head.05.Right">30%
+ 250
+ 5000</string>
+<string name="MA.Crystal_Deposit_Ping.00.Title">Пробник Кристаллов</string>
+<string name="MA.Crystal_Fiber_Mesh.00.Title">Сеть из Кристаллического волокна</string>
+<string name="MA.DapperFrame.00.Title">Щегольский Каркас</string>
+<string name="MA.DapperScale.00.Title">Щегольская Чешуя</string>
+<string name="MA.DapperVIP.00.Title">Щегольский VIP-блок</string>
+<string name="MA.DapperWall.00.Title">Щегольская Стена</string>
+<string name="MA.Deep_Stone.00.Title">Глубинный Камень</string>
+<string name="MA.Deployed_Explosive.00.Title">Установленная Взрывчатка</string>
+<string name="MA.Deployed_Explosive.02.Header">Советы и Хитрости!</string>
+<string name="MA.Deployed_Explosive.04.Paragraph">- Уровень 1 заряда = 100 Энергии.</string>
+<string name="MA.Deployed_Explosive.05.Paragraph">- Уровень 2 заряда = 1000 Энергии.</string>
+<string name="MA.Deployed_Explosive.06.Paragraph">- Уровень 3 заряда = 10000 Энергии.</string>
+<string name="MA.Deployed_Explosive.07.Paragraph">- Уровень 4 заряда = 100 000 Энергии.</string>
+<string name="MA.Deployed_Explosive.08.Paragraph">- Уровень 5 заряда = 1 000 000 Энергии.</string>
+<string name="MA.Deployed_Explosive.09.Paragraph">- Уровень 6 заряда = 10 000 000 Энергии.</string>
+<string name="MA.Deployed_Explosive.10.Paragraph">- И так далее!</string>
+<string name="MA.Deployed_Explosive.11.Paragraph">- Промежуточные уровни энергии не дают дополнительного радиуса взрыва!</string>
+<string name="MA.Deployed_Explosive.12.Paragraph">- Достижение 6-го уровня с существующим производством энергии уже будет проблемой!</string>
+<string name="MA.Deployed_Explosive.13.Header">Внимание!</string>
+<string name="MA.Deployed_Explosive.14.Paragraph">" Имеет очень короткий \"запал\"! Случайно взорвать свою базу - как два пальца!"</string>
+<string name="MA.Diamond_Crystal.00.Title">Алмазный Кристалл</string>
+<string name="MA.Diamond_Crystal.02.Header">Советы и хитрости.</string>
+<string name="MA.Diamond_Focusing_Lens.00.Title">Алмазная Фокусирующая Линза</string>
+<string name="MA.Diamond_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Характеристики</string>
+<string name="MA.Emerald_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.Enhanced_Drill_Motor.02.Header">Характеристики</string>
+<string name="MA.Exceptional_Organic_Lens.02.Header">Характеристики</string>
+<string name="MA.FastMinecart.02.Header">Характеристики</string>
+<string name="MA.Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.Fusion_Drill_Motor.02.Header">Характеристики</string>
+<string name="MA.Garbage_Thief.02.Header">Характеристики</string>
+<string name="MA.Geological_Surveyor.02.Header">Характеристики</string>
+<string name="MA.ImprovedCargoLift.02.Header">Характеристики</string>
+<string name="MA.Induction_Charger.02.Header">Характеристики</string>
+<string name="MA.Jet_Turbine_Generator_Housing.04.Header">Характеристики</string>
+<string name="MA.Jet_Turbine_Generator_Intake.04.Header">Характеристики</string>
+<string name="MA.LargeMinecart.02.Header">Характеристики</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.03.Header">Характеристики</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.03.Header">Характеристики</string>
+<string name="MA.Laser_Energy_Transmitter.03.Header">Характеристики</string>
+<string name="MA.Lift_Compressor.02.Header">Характеристики</string>
+<string name="MA.MK2_Solar_Panel_Component.03.Header">Характеристики</string>
+<string name="MA.Magnetic_Drill_Motor.02.Header">Характеристики</string>
+<string name="MA.Matter_Mover.02.Header">Характеристики</string>
+<string name="MA.MinecartTurboRail.02.Header">Характеристики</string>
+<string name="MA.Missile_Turret_MK1.02.Header">Характеристики</string>
+<string name="MA.Missile_Turret_MK2.02.Header">Характеристики</string>
+<string name="MA.Missile_Turret_MK3.02.Header">Характеристики</string>
+<string name="MA.Missile_Turret_MK4.02.Header">Характеристики</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.04.Header">Характеристики</string>
+<string name="MA.Ore_Thief.02.Header">Характеристики</string>
+<string name="MA.Organic_Cutter_Head.03.Header">Характеристики</string>
+<string name="MA.Organic_Lens.02.Header">Характеристики</string>
+<string name="MA.Organic_Power_Storage.04.Header">Характеристики</string>
+<string name="MA.Power_Storage_Block.04.Header">Характеристики</string>
+<string name="MA.Power_Storage_MK2.03.Header">Характеристики</string>
+<string name="MA.Power_Storage_MK3.03.Header">Характеристики</string>
+<string name="MA.Power_Storage_MK4.04.Header">Характеристики</string>
+<string name="MA.Power_Storage_MK5.04.Header">Характеристики</string>
+<string name="MA.PowerBoosterChargerMK1.02.Header">Характеристики</string>
+<string name="MA.PowerBoosterMK1.02.Header">Характеристики</string>
+<string name="MA.PowerBoosterMK2.02.Header">Характеристики</string>
+<string name="MA.PowerBoosterMK3.02.Header">Характеристики</string>
+<string name="MA.PowerBoosterMK4.02.Header">Характеристики</string>
+<string name="MA.PowerBoosterMK5.02.Header">Характеристики</string>
+<string name="MA.Pyrothermic_Generator.03.Header">Характеристики</string>
+<string name="MA.Rack_Railer.02.Header">Характеристики</string>
+<string name="MA.Refinery_Controller.03.Header">Характеристики</string>
+<string name="MA.Research_Assembler.02.Header">Характеристики</string>
+<string name="MA.Ruby_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.Sapphire_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.Slime_Attractor.03.Header">Характеристики</string>
+<string name="MA.Solar_Panel.03.Header">Характеристики</string>
+<string name="MA.Steel_Cutter_Head.02.Header">Характеристики</string>
+<string name="MA.Sugalite_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.T1_Lift.03.Header">Характеристики</string>
+<string name="MA.T2_Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.T3_Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.T4_Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.T5_Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.T6_Forced_Induction.03.Header">Характеристики</string>
+<string name="MA.Teleporter.04.Header">Характеристики</string>
+<string name="MA.The_Itano.02.Header">Характеристики</string>
+<string name="MA.Threat_Agitator.02.Header">Характеристики</string>
+<string name="MA.Threat_Reducer.03.Header">Характеристики</string>
+<string name="MA.Threat_Scanner.02.Header">Характеристики</string>
+<string name="MA.Topaz_Focusing_Lens.02.Header">Характеристики</string>
+<string name="MA.Turret_MK1.02.Header">Характеристики</string>
+<string name="MA.Turret_MK2.02.Header">Характеристики</string>
+<string name="MA.Turret_MK3.02.Header">Характеристики</string>
+<string name="MA.WorkFloorExcavatorMK1.02.Header">Характеристики</string>
+<string name="MA.WorkFloorExcavatorMK2.02.Header">Характеристики</string>
+<string name="MA.Sugalite_Crystal.02.Header">Советы и хитрости.</string>
+<string name="MA.Mass_Storage_Output_Port.02.Header">Советы и хитрости!</string>
+<string name="MA.Macerator.04.Header">Советы и хитрости!</string>
+<string name="MA.Empty_Fuel_Canister.01.Paragraph">УДАЛИИИИ МЕНЯЯЯ</string>
+<string name="MA.Forced_Induction.00.Title">Усиливающий Индуктор</string>
+<string name="MA.T2_Forced_Induction.00.Title">Усиливающий Индуктор МК2</string>
+<string name="MA.T3_Forced_Induction.00.Title">Усиливающий Индуктор МК3</string>
+<string name="MA.T4_Forced_Induction.00.Title">Усиливающий Индуктор МК4</string>
+<string name="MA.T5_Forced_Induction.00.Title">Усиливающий Индуктор МК5</string>
+<string name="MA.T6_Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.T5_Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.T4_Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.T3_Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.T2_Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.Forced_Induction.02.Paragraph">Базовая Плавильня не поддерживает установку Усиливающего Индуктора.</string>
+<string name="MA.Induction_Charger.00.Title">Индукционный Зарядник</string>
+<string name="MA.Forced_Induction.01.Paragraph">Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.</string>
+<string name="MA.T2_Forced_Induction.01.Paragraph">Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.</string>
+<string name="MA.T3_Forced_Induction.01.Paragraph">Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.</string>
+<string name="MA.T4_Forced_Induction.01.Paragraph">Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.
+
+ Усиливающий Индуктор МК4 удваивает скорость загрузки руды из Бункера.</string>
+<string name="MA.T5_Forced_Induction.01.Paragraph">Усиливающие Индукторы являются модулями, увеличивающими скорость плавки руда за счет значительного увеличения потребления энергии. Чтобы использовать модуль, поместите его поверх Плавильни.
+
+ Усиливающий Индуктор МК5 повышает в 4 раза скорость загрузки руды из Бункера.</string>
+<string name="MA.Ore_Smelter.07.Paragraph">Скорость (и потребление энергии) Плавильни можно увеличить за счет исследуемых машин для форсирования индукции. После создания эти так называемые Усиливающие Индукторы нужно прикрепить поверх Плавильни.</string>
+<string name="MA.Basic_Ore_Smelter.01.Paragraph">Плавильня выплавляет из сырой руды готовые слитки, которые широко используются в производстве. Базовая Плавильня обладает половиной от эффективности и скорости от Плавильни, и не может улучшена путём установки Усиливающего Индуктора.</string>
+<string name="MA.Gold_Bar.00.Title">Золотой Слиток</string>
+<string name="MA.Iron_Bar.00.Title">Железный Слиток</string>
+<string name="MA.Lithium_Bar.00.Title">Литиевый Слиток</string>
+<string name="MA.Low_Grade_Steel_Bar.00.Title">Слиток Стали Низкого Качества</string>
+<string name="MA.Low_Grade_Steel_Bar.01.Paragraph">Слиток Стали Низкого Качества изготавливается из комбинации Железа и Никеля на Заводе. Он является необходимым компонентом для создания высокотехнологичных изделий.</string>
+<string name="MA.Nickel_Bar.00.Title">Никелевый Слиток</string>
+<string name="MA.Tin_Bar.00.Title">Оловянный Слиток</string>
+<string name="MA.Titanium_Bar.00.Title">Титановый Слиток</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"Использование Конвейерного Фильтра позволяет вам более точно контролировать распределение ресурсов. Этот тип фильтра используется для управления содержимым выгружаемым из Бункеров на конвейер. Вы можете установить фильтр для удаления МУСОРА, РУДЫ, ОРГАНИКИ, САМОЦВЕТОВ, УГЛЯ, БИОМАССЫ, ВЫПЛАВЛЯЕМОГО, СЖИГАЕМОГО, СОЗДАННЫХ ПРЕДМЕТОВ, КРИСТАЛЛОВ и СЛИТКОВ. "</string>
+<string name="MA.Conveyor_Belt_Filter.01.Paragraph">"Использование Конвейерного Фильтра позволяет вам более точно контролировать распределение ресурсов. Этот тип фильтра используется для управления содержимым выгружаемым из Бункеров на конвейер. Вы можете установить фильтр для удаления МУСОРА, РУДЫ, ОРГАНИКИ, САМОЦВЕТОВ, УГЛЯ, БИОМАССЫ, ВЫПЛАВЛЯЕМОГО, СЖИГАЕМОГО, СОЗДАННЫХ ПРЕДМЕТОВ, КРИСТАЛЛОВ и СЛИТКОВ. "</string>
+<string name="MA.Conveyor_Belt.07.Paragraph">"Использование Конвейерного Фильтра позволяет вам более точно контролировать распределение ресурсов. Этот тип фильтра используется для управления содержимым выгружаемым из Бункеров на конвейер. Вы можете установить фильтр для удаления МУСОРА, РУДЫ, ОРГАНИКИ, САМОЦВЕТОВ, УГЛЯ, БИОМАССЫ, ВЫПЛАВЛЯЕМОГО, СЖИГАЕМОГО, СОЗДАННЫХ ПРЕДМЕТОВ, КРИСТАЛЛОВ и СЛИТКОВ. "</string>
+<string name="MA.Copper_Plate.01.Paragraph">Простая медная пластина, изготовленная в Штампе из медных слитков.</string>
+<string name="MA.Gold_Plate.01.Paragraph">Простая золотая пластина, изготовленная в Штампе из золотых слитков.</string>
+<string name="MA.Iron_Plate.01.Paragraph">Простая железная пластина, изготовленная в Штампе из железных слитков.</string>
+<string name="MA.Lithium_Plate.01.Paragraph">Простая литиевая пластина, изготовленная в Штампе из литиевых слитков.</string>
+<string name="MA.Nickel_Plate.01.Paragraph">Простая никелевая пластина, изготовленная в Штампе из никелевых слитков.</string>
+<string name="MA.Stamper_Plant.00.Title">Штамп</string>
+<string name="MA.Tin_Plate.01.Paragraph">Простая оловянная пластина, изготовленная в Штампе из оловянных слитков.</string>
+<string name="MA.Titanium_Plate.01.Paragraph">Простая титановая пластина, изготовленная в Штампе из титановых слитков.</string>
+<string name="MA.Stamper_Plant.01.Paragraph">Штамп это обычная лента конвейера совмещенная со штампующей машиной для превращения Слитков в Пластины.</string>
+<string name="MA.Extrusion_Plant.00.Title">Экструдер</string>
+<string name="MA.Titanium_Wire.01.Paragraph">Простой титановый провод, изготовляемый из титановых слитков в Экструдере.</string>
+<string name="MA.Titanium_Pipe.01.Paragraph">Простая титановая труба, изготовляемая из титановых слитков в Экструдере Труб.</string>
+<string name="MA.Tin_Wire.01.Paragraph">Простой оловянный провод, изготовляемый из оловянных слитков в Экструдере.</string>
+<string name="MA.Nickel_Wire.01.Paragraph">Простой никелевый провод, изготовляемый из никелевых слитков в Экструдере.</string>
+<string name="MA.Lithium_Wire.01.Paragraph">Простой литиевый провод, изготовляемый из литиевых слитков в Экструдере.</string>
+<string name="MA.Iron_Wire.01.Paragraph">Простой железный провод, изготовляемый из железных слитков в Экструдере.</string>
+<string name="MA.Gold_Wire.01.Paragraph">Золотой провод, изготовляемый из золотых слитков в Экструдере.</string>
+<string name="MA.Copper_Wire.01.Paragraph">Медный провод, изготовляемый из медных слитков в Экструдере. Используется в электронных компонентах.</string>
+<string name="MA.Tin_Pipe.01.Paragraph">Простая оловянная труба, изготовляемая из оловянных слитков в Экструдере Труб.</string>
+<string name="MA.Pipe_Extrusion_Plant.00.Title">Экструдер Труб</string>
+<string name="MA.Nickel_Pipe.01.Paragraph">Простая никелевая труба, изготовляемая из никелевых слитков в Экструдере Труб.</string>
+<string name="MA.Lithium_Pipe.01.Paragraph">Простая литиевая труба, изготовляемая из литиевых слитков в Экструдере Труб.</string>
+<string name="MA.Iron_Pipe.01.Paragraph">Простая железная труба, изготовляемая из железных слитков в Экструдере Труб.</string>
+<string name="MA.Gold_Pipe.01.Paragraph">Простая золотая труба, изготовляемая из золотых слитков в Экструдере Труб.</string>
+<string name="MA.Extrusion_Plant.04.Paragraph">Экструдер необходим для автоматизации исследований в Лаборатории.</string>
+<string name="MA.Extrusion_Plant.01.Paragraph">Экструдер - обычный конвейер, совмещенный с машиной экструдирующей провода из слитков.</string>
+<string name="MA.Copper_Pipe.01.Paragraph">Простая медная труба, изготовляемая из медных слитков в Экструдере Труб. Применяется в изготовлении Базовых Ракет.</string>
+<string name="MA.Pipe_Extrusion_Plant.04.Paragraph">Экструдер Труб необходим для автоматизации производства ракет.</string>
+<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">Экструдер Труб - обычный конвейер, совмещенный с машиной экструдирующей трубы из слитков.</string>
+<string name="MA.Pipe_Extrusion_Plant.03.Paragraph">Загружайте Слитки в Экструдер Труб с конвейера, конвейерной машины или Поворотного Стола. Экструдер Труб изготавливает Трубы из Слитков. Трубы потом используются в производстве других предметов.</string>
+<string name="MA.Extrusion_Plant.03.Paragraph">Загружайте Слитки в Экструдер с конвейера, конвейерной машины или Поворотного Стола. Экструдер изготавливает Трубы из Слитков. Провода потом используются в производстве других предметов.</string>
+<string name="MA.Conductive_PCB.01.Paragraph">Золотая ПП, созданная из Золотых Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.Fortified_PCB.01.Paragraph">Никелевая ПП, созданная из Никелевых Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.Hardened_PCB.01.Paragraph">Железная ПП, созданная из Железных Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.Lightweight_PCB.01.Paragraph">Титановая ПП, созданная из Титановых Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.PCB_Assembling_Plant.00.Title">Завод Печатных Плат</string>
+<string name="MA.PCB_Assembling_Plant.01.Paragraph">Завод Печатных Плат - обычный конвейер, совмещенный с машиной для производства печатных плат из катушек и проводов.</string>
+<string name="MA.Primary_PCB.01.Paragraph">Оловянная ПП, созданная из Оловянных Катушек на Заводе Печатных Плат (ПП).</string>
+<string name="MA.Coiler_Plant.01.Paragraph">Намотчик - обычный конвейер, совмещенный с намоточной машиной, создающей Катушки из Проводов.</string>
+<string name="MA.Coiler_Plant.03.Paragraph">Загружайте Провода в Намотчик с Конвейера, конвейерной машины или Поворотного Стола. Намотчик изготавливает Катушки из Проводов. Катушки потом используются в производстве других предметов.</string>
+<string name="MA.Coiler_Plant.04.Paragraph">Намотчик необходим для автоматизации исследований в Лаборатории.</string>
+<string name="MA.Copper_Coil.01.Paragraph">Обычная медная катушка, изготовленная из Медных Проводов в Намотчике.</string>
+<string name="MA.Gold_Coil.01.Paragraph">Обычная Золотая Катушка, изготовленная из Золотых Проводов в Намотчике.</string>
+<string name="MA.Iron_Coil.01.Paragraph">Обычная Железная Катушка, изготовленная из Железных Проводов в Намотчике.</string>
+<string name="MA.Lithium_Coil.01.Paragraph">Обычная Литиевая Катушка, изготовленная из Литиевых Проводов в Намотчике.</string>
+<string name="MA.Nickel_Coil.01.Paragraph">Обычная Никелевая Катушка, изготовленная из Никелевых Проводов в Намотчике.</string>
+<string name="MA.Tin_Coil.01.Paragraph">Обычная Оловянная Катушка, изготовленная из Оловянных Проводов в Намотчике.</string>
+<string name="MA.Titanium_Coil.01.Paragraph">Обычная Титановая Катушка, изготовленная из Титановых Проводов в Намотчике.</string>
+<string name="MA.Dirt.00.Title">Грязь</string>
+<string name="MA.Diamond_Focusing_Lens.04.Right">115%</string>
+<string name="MA.Crude_Organic_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Diamond_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Emerald_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Exceptional_Organic_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Organic_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Ruby_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Sapphire_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Sugalite_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Topaz_Focusing_Lens.01.Paragraph">Вставьте в Лазерный Передатчик Энергии для увеличения скорости передачи энергии.</string>
+<string name="MA.Topaz_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Sugalite_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Sapphire_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Ruby_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Organic_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Exceptional_Organic_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Emerald_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Diamond_Focusing_Lens.03.Left">Скорость передачи энергии:</string>
+<string name="MA.Missile_Turret_MK1.03.Left">"Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:"</string>
+<string name="MA.Missile_Turret_MK2.03.Left">"Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:"</string>
+<string name="MA.Missile_Turret_MK3.03.Left">"Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:"</string>
+<string name="MA.Missile_Turret_MK4.03.Left">"Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:"</string>
+<string name="MA.The_Itano.03.Left">"Минимальное расстояние:
+  Максимальное расстояние:
+  Урон (на 1 ракету):
+  Ракет в залпе:
+  Время перезарядки:"</string>
+<string name="MA.Copper_Ore.02.Paragraph">Медную Руду можно добыть с помощью Экстрактора Руды.</string>
+<string name="MA.Tin_Ore.02.Paragraph">Оловянную Руду можно добыть с помощью Экстрактора Руды.</string>
+<string name="MA.Extractor.00.Title">Экстрактор Руды</string>
+<string name="MA.Coal_Ore.02.Paragraph">Уголь можно добыть с помощью Экстрактора Руды.</string>
+<string name="MA.Iron_Ore.02.Paragraph">Железо можно добыть с помощью Экстрактора Руды.</string>
+<string name="MA.Lithium_Ore.02.Paragraph">Литий можно добыть с помощью Экстрактора Руды.</string>
+<string name="MA.Basic_Ore_Smelter.03.Paragraph">Кроме минимального количества руды Плавильне для работы необходима подача энергии от присоединенных Энергетического Хранилища или Генератора, либо дистанционная подача энергии от Лазерного Передатчика Энергии. Как только в Плавильне температура повысится до температуры плавления руды, Руда будет литься в Слитки, которые можно будет собирать щелчком на слоте выгрузки в низу контрольной панели.</string>
+<string name="MA.Ore_Smelter.03.Paragraph">Кроме минимального количества руды Плавильне для работы необходима подача энергии от присоединенных Энергетического Хранилища или Генератора, либо дистанционная подача энергии от Лазерного Передатчика Энергии. Как только в Плавильне температура повысится до температуры плавления руды, Руда будет литься в Слитки, которые можно будет собирать щелчком на слоте выгрузки в низу контрольной панели.</string>
+<string name="MA.Stamper_Plant.03.Paragraph">Загружайте Слитки в Штамп с конвейера, конвейерной машины или Поворотного Стола. Штамп изготавливает Пластины из Слитков. Пластины потом используются в производстве других предметов.</string>
+<string name="MA.Tin_Bar.01.Paragraph">Оловянные Слитки в основном используются в базовых машинах, изготавливаемых из лёгких материалов. Эти Слитки льются из Оловянной Руды, которую можно найти вблизи поверхности планеты.</string>
+<string name="MA.Copper_Bar.01.Paragraph">Медные Слитки широко используются в различных машинах и оборудовании с электронными компонентами. Эти Слитки льются из Медной Руды, которую можно найти вблизи поверхности планеты.</string>
+<string name="MA.Logistics_Hopper.00.Title">Логистический Бункер</string>
+<string name="MA.Logistics_Hopper.01.Paragraph">Логистический Бункер - дешевая версия Накопительного Бункера, позволяющая хранить до 2 предметов и перемещающая по предмету за 10 секунд. Логистический Бункер подходит для сбора руды из Экстрактора Руды без улучшений. Заменяйте Логистический Бункер на что-нибудь получше, если он становится узким местом в инфраструктуре.</string>
+<string name="MA.Logistics_Hopper.02.Paragraph">За подробностями по Бункерам, пожалуйста, обратитесь к справке по Накопительным Бункерам.</string>
+<string name="MA.Macerator.05.Paragraph">- Подача материалов в эту машину происходит с конвейерной ленты. Выгружает она любую добытую руду в подсоединенный Бункер.</string>
+<string name="MA.Manufacturing_Plant.07.Paragraph">Создание предметов на Заводе при ручном запуске не требует энергии и почти мгновенно, потому что оно взаимодействует с вашим костюмом и строительным инструментом. Если вы хотите непрерывно производить изделия на Заводе, это можно сделать, используя только оборудование Завода, но за счет как времени, так и энергии. Выберите предмет для производства, введите необходимое количество или выберите «Повторить», чтобы производство продолжалось неограниченно долго, и нажмите кнопку «Автоматизация». Необходимые материалы должны находиться в подсоединенном Бункере с разрешениями ввода-вывода, установленными либо на «Добавить / Удалить», либо «Только Удалить» (рекомендуется). Изготовленные элементы будут помещены в Бункер, который должен иметь статус ввод-вывода «Только Добавить».</string>
+<string name="MA.Basic_Missile_Assembler.03.Paragraph">Как и для всех автономных производственных машин, вы должны присоединить один Накопительный Бункер на каждый ингредиент, со статусом «Только Удалять», и один Накопительный Бункер для хранения продукции, помеченный как «Только Добавлять». Это гарантирует, что производство не остановится из-за нехватки какого-либо одного ингредиента.</string>
+<string name="MA.Mini_Hopper.02.Paragraph">За подробностями по Бункерам, пожалуйста, обратитесь к справке по Накопительным Бункерам.</string>
+<string name="MA.Storage_Hopper.00.Title">Накопительный Бункер</string>
+<string name="MA.Storage_Hopper.01.Paragraph">Накопительный Бункер - важнейшее оборудование для автоматизации базы. Его вместимость – 100 предметов, и он может быстро перемещать их. Более дешевые альтернативы с меньшими объемом и скоростью доступны с самого начала и полезны на первых порах.</string>
+<string name="MA.Storage_Hopper.03.Paragraph">У Накопительный Бункера есть несколько режимов ввода/вывода (загрузки/выгрузки) продукции. Они следующие: Добавить/Удалить; Только Удалить; Только Добавить; Блокировка. Режим можно циклически менять, нажимая кнопку «Взаимодействие» (по умолчанию - «E»). Эти режимы учитываются только по отношению автономным машинам, таким как Завод или сборочные машины. Режимы не влияют на конвейеры или конвейерные сборочные машины с единственным исключением - заблокированный бункер не выгружает предметы на конвейер.</string>
+<string name="MA.Pyrothermic_Generator.01.Paragraph">Пиротермический Генератор - это самый ранний способ генерации энергии, когда вы перерастаете возможности ЦЭКа. Генератор будет искать прикрепленный Бункер, содержащий горючий материал, и сжигать его для выработки электроэнергии. Сама машина способна хранить до 1000 единиц Энергии, которые он будет отдавать любой машине или Хранилищу Энергии, прикрепленным к нему.</string>
+<string name="MA.Missile_Turret_MK4.01.Paragraph">Выстреливает одноразовые ракеты по большим целям. Ракеты должны храниться в смежном Накопительном Бункере.</string>
+<string name="MA.Missile_Turret_MK3.01.Paragraph">Выстреливает одноразовые ракеты по большим целям. Ракеты должны храниться в смежном Накопительном Бункере.</string>
+<string name="MA.Missile_Turret_MK2.01.Paragraph">Выстреливает одноразовые ракеты по большим целям. Ракеты должны храниться в смежном Накопительном Бункере.</string>
+<string name="MA.Missile_Turret_MK1.01.Paragraph">Выстреливает одноразовые ракеты по большим целям. Ракеты должны храниться в смежном Накопительном Бункере. Ракетным Турелям требуется прямая видимость для запуска ракеты по цели, так что устанавливайте в места с лучшим обзором.</string>
+<string name="MA.MinecartUnloadStation.01.Paragraph">Выгружает ресурсы из Вагонеток в подсоединенные Накопительные Бункеры.</string>
+<string name="MA.MinecartLoadStation.01.Paragraph">Перемещает ресурсы из Накопительных Бункеров в пристыкованные Вагонетки.</string>
+<string name="MA.Basic_Missile_Assembler.06.Paragraph">Хранилища Энергии и Накопительные Бункеры могут быть размещены и над, и под машиной, и по бокам.</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Конвейеры - относительно дешевый и простой способ перемещения ресурсов. Первым применением для них, вероятно, будет перемещение материала из Накопительного Бункера, прикрепленного к Экстрактору Руды, к другому Бункеру, присоединенному к Плавильне или генератору энергии, такому как Центральный Энергетический Концентратор или Пиротермический Генератор.</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">Конвейеры автоматически захватывают ресурсы из любого Бункера, если они обращены в любом направлении от бункера. Ресурс перемещается по ленте конвейера до другого конвейера или Бункера (при условии наличия свободного места в Бункере). Вы можете изменить направление конвейерной линии, поворачивая конвейер. Его можно размещать на стене для вертикального перемещения ресурсов. Бункеры нужны конвейеру для взаимодействия с машинами, так как конвейер подаёт предметы к оборудованию только через Бункеры.</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">Энергоэффективная турель дальнего действия с таким недостатком, что она должна управляться ARTHER. Для использования выделите турель и нажмите кнопку взаимодействия (по умолчанию \'E\'), чтобы состыковать ARTHER с турелью.</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">Подача энергии к Турели может быть либо от внешнего источника, либо с использованием резервов энергии ARTHER. Если турель питается от внешнего источника, ARTHER получит достаточный заряд, чтобы оставаться там на неопределенно долгое время. Если энергия у ARTHER закончится, он отстыкуется и вернется к пользователю.</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Устраняет повреждения у ARTHER, восстанавливая его подвижность. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Увеличивает скорость, с которой ARTHER восстанавливает энергию на солнечном свету. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Окончательное обновление до Совершенного Щеголя! Экономит место в инвентаре. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Настоящий Щеголь! Экономит место в инвентаре, совмещая в себе все предыдущие отдельные Щёгольские улучшения. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Гусары, молчать! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Улучшает зрение ARTHER! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Пусть ARTHER станет Щеголем, да ещё и с защитой от дождя! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Позволяет ARTHER накапливать в 8 раз больше Энергии, которую он может передать вам, когда в вашем костюме она кончается. Изготовьте как можно скорее! Достаточно одного устройства, и оно должно храниться в вашем инвентаре, чтобы работать.</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Этот робот будет перемещать один ресурс за один раз из одного соседнего Бункера в другой, учитывая режимы ввода/вывода Бункеров.</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Быстро перезаряжайте ARTHER от энергосети вашей базы. Лучше всего сочетать с обновлением Батареи ARTHER.</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">Скорость перезарядки ARTHER:
+ Ёмкость станции:
+ Скорость накопления энергии самой станции:</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 в секунду
+ 1500
+ 10 в секунду</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Сочетает в себе Солнечную Панель, Силовое Ядро и Батарею. Экономит место, объединяя улучшения ARTHER. Достаточно одного устройства, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Complex_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Intermediate_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Simplified_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Ultimate_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.XL_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
+<string name="MA.Gold_Coil.00.Title">Золотая Катушка</string>
+<string name="MA.Iron_Coil.00.Title">Железная Катушка</string>
+<string name="MA.Lithium_Coil.00.Title">Литиевая Катушка</string>
+<string name="MA.Nickel_Coil.00.Title">Никелевая Катушка</string>
+<string name="MA.Tin_Coil.00.Title">Оловянная Катушка</string>
+<string name="MA.Titanium_Coil.00.Title">Титановая Катушка</string>
+<string name="MA.PowerBoosterMK1.00.Title">Усилитель мощности ARTHER МК1</string>
+<string name="MA.PowerBoosterMK2.00.Title">Усилитель мощности ARTHER МК2</string>
+<string name="MA.PowerBoosterMK3.00.Title">Усилитель мощности ARTHER МК3</string>
+<string name="MA.PowerBoosterMK4.00.Title">Усилитель мощности ARTHER МК4</string>
+<string name="MA.PowerBoosterMK5.00.Title">Усилитель мощности ARTHER МК5</string>
+<string name="MA.PowerBoosterChargerMK1.00.Title">Зарядник Усилителей Мощности МК1</string>
+<string name="MA.PowerBoosterChargerMK1.01.Paragraph">Эта машина автоматически изготавливает и заряжает Усилителей Мощности МК1. Использует Медные Катушки и потребляет энергию.</string>
+<string name="MA.Induction_Charger.03.Left">"Внутренняя ёмкость:
+  Потребляемая энергия:
+  Выходная энергия: 
+ "</string>
+<string name="MA.Induction_Charger.04.Right">"1500
+ 7500 Э/с на сторону
+ 1250 Э/с на машину
+ "</string>
+<string name="MA.PowerBoosterChargerMK1.04.Right">100</string>
+<string name="MA.PowerBoosterChargerMK1.03.Left">Хранимая Энергия:</string>
+<string name="MA.PowerBoosterMK1.03.Left">Хранимая Энергия:</string>
+<string name="MA.PowerBoosterMK2.03.Left">Хранимая Энергия:</string>
+<string name="MA.PowerBoosterMK3.03.Left">Хранимая Энергия:</string>
+<string name="MA.PowerBoosterMK4.03.Left">Хранимая Энергия:</string>
+<string name="MA.PowerBoosterMK5.03.Left">Хранимая Энергия:</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">ЦЭК автоматически передает Энергию подсоединенным машинам, которые в ней нуждаются. Вы также можете добавлять или извлекать Энергию из ЦЭК напрямую, взаимодействуя с ним (по умолчанию \'E\'). Панель управления ЦЭК позволяет вам добавлять сжигаемое топливо в генератор.</string>
+<string name="MA.Central_Power_Hub.03.Paragraph">ЦЭК имеет внутреннюю батарею, которая может хранить энергию, собранную солнечными батареями, и небольшой генератор, работающий на сжигаемом топливе. За один раз можно поместить только одну единицу топлива, поэтому вам следует как можно скорее автоматизировать подачу топлива с помощью Накопительного Бункера или Мини-Бункера.</string>
+<string name="MA.Extractor.14.Right">"Работает
+  Нет Энергии
+  Нет места
+  Вхолостую
+  Бур застрял"</string>
+<string name="MA.Organic_Power_Storage.00.Title">Органическое Хранилище Энергии</string>
+<string name="MA.Power_Storage_Block.00.Title">Хранилище Энергии МК1</string>
+<string name="MA.Power_Storage_MK2.00.Title">Хранилище Энергии МК2</string>
+<string name="MA.Power_Storage_MK3.00.Title">Хранилище Энергии МК3</string>
+<string name="MA.Power_Storage_MK4.00.Title">Хранилище Энергии МК4</string>
+<string name="MA.Power_Storage_MK5.00.Title">Хранилище Энергии МК5</string>
+<string name="MA.Power_Storage_MK5.03.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Power_Storage_MK4.03.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Power_Storage_MK3.02.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Power_Storage_MK2.02.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Power_Storage_Block.02.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Organic_Power_Storage.02.Paragraph">Энергию можно извлечь из Хранилища Энергии, нажимая Извлечь (\'Q\' по-умолчанию). Энергию можно закачать в Хранилище, нажимая клавишу Взаимодействия (\'E\' по-умолчанию).</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.00.Title">Лазерный Передатчик Энергии МК2</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.00.Title">Лазерный Передатчик Энергии МК3</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">Базовый Лазерный Передатчик Энергии может передавать количество Энергии достаточное для питания двух Экстракторов Руды без улучшений. В связи с низкой скоростью передачи Энергии рекомендуется использовать более продвинутое оборудование для передачи Энергии, как только это станет возможным.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.01.Paragraph">Лазерные Передатчики Энергии (ЛПЭ) - основа энергетической инфраструктуры. Они могут передавать энергию на расстояния до 64 метров машинам, в хранилища энергии и другим ЛПЭ.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.01.Paragraph">Лазерные Передатчики Энергии (ЛПЭ) - основа энергетической инфраструктуры. Они могут передавать энергию на расстояния до 64 метров машинам, в хранилища энергии и другим ЛПЭ.</string>
+<string name="MA.Laser_Energy_Transmitter.01.Paragraph">Лазерные Передатчики Энергии (ЛПЭ) - основа энергетической инфраструктуры. Они могут передавать энергию на расстояния до 64 метров машинам, в хранилища энергии и другим ЛПЭ.</string>
+<string name="MA.Laser_Energy_Transmitter.00.Title">Лазерный Передатчик Энергии</string>
+<string name="MA.Stamper_Plant.04.Paragraph">Штамп необходим для автоматизации лабораторных исследований.</string>
+<string name="MA.Plastic_Pellet.00.Title">Пластиковая Гранула</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.03.Paragraph">Чтобы открыть панель управления ЛПЭ, нажмите клавишу \'Взаимодействие\' (по умолчанию \'E\'). Там вы можете модернизировать линзу, что увеличит скорость передачи энергии. Вы также можете переключить режим передачи энергии так, чтобы ЛПЭ ожидал полной зарядки батареи перед отдачей Энергии. У батареи ЛПЭ небольшая энергоёмкость - подумайте о том, чтобы подсоединять к ЛПЭ Хранилища Энергии, чтобы создать буфер и обеспечить надежное снабжение электроэнергией, поскольку спрос и предложение могут меняться.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.02.Paragraph">Чтобы открыть панель управления ЛПЭ, нажмите клавишу \'Взаимодействие\' (по умолчанию \'E\'). Там вы можете модернизировать линзу, что увеличит скорость передачи энергии. Вы также можете переключить режим передачи энергии так, чтобы ЛПЭ ожидал полной зарядки батареи перед отдачей Энергии. У батареи ЛПЭ небольшая энергоёмкость - подумайте о том, чтобы подсоединять к ЛПЭ Хранилища Энергии, чтобы создать буфер и обеспечить надежное снабжение электроэнергией, поскольку спрос и предложение могут меняться.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.02.Paragraph">Чтобы открыть панель управления ЛПЭ, нажмите клавишу \'Взаимодействие\' (по умолчанию \'E\'). Там вы можете модернизировать линзу, что увеличит скорость передачи энергии. Вы также можете переключить режим передачи энергии так, чтобы ЛПЭ ожидал полной зарядки батареи перед отдачей Энергии. У батареи ЛПЭ небольшая энергоёмкость - подумайте о том, чтобы подсоединять к ЛПЭ Хранилища Энергии, чтобы создать буфер и обеспечить надежное снабжение электроэнергией, поскольку спрос и предложение могут меняться.</string>
+<string name="MA.Laser_Energy_Transmitter.02.Paragraph">Чтобы открыть панель управления ЛПЭ, нажмите клавишу \'Взаимодействие\' (по умолчанию \'E\'). Там вы можете модернизировать линзу, что увеличит скорость передачи энергии. Вы также можете переключить режим передачи энергии так, чтобы ЛПЭ ожидал полной зарядки батареи перед отдачей Энергии. У батареи ЛПЭ небольшая энергоёмкость - подумайте о том, чтобы подсоединять к ЛПЭ Хранилища Энергии, чтобы создать буфер и обеспечить надежное снабжение электроэнергией, поскольку спрос и предложение могут меняться.</string>
+<string name="MA.XL_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Ultimate_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Simplified_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Intermediate_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Complex_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Экспериментальные Ячейки используются в Лаборатории для проведения экспериментов и завершения исследовательских проектов. Более подробную информацию о лабораторных исследованиях можно найти в следующем руководстве.</string>
+<string name="MA.Intermediate_Experimental_Pod.00.Title">Промежуточная Экспериментальная Ячейка</string>
+<string name="MA.Simplified_Experimental_Pod.00.Title">Упрощённая Экспериментальная Ячейка</string>
+<string name="MA.XL_Experimental_Pod.00.Title">XL Экспериментальная Ячейка</string>
+<string name="MA.Green_GlowPod.00.Title">Зелёный световой стручок</string>
+<string name="MA.Orange_GlowPod.00.Title">Оранжевый световой стручок</string>
+<string name="MA.Purple_GlowPod.00.Title">Фиолетовый мерцающий стручок</string>
+<string name="MA.Extractor.05.Header">Улучшение Экстракторов</string>
+<string name="MA.Extractor.01.Paragraph">Экстрактор Руды - основная машина для добычи ресурсов. Когда вы копаете с помощью Строительной Пушки, каждая попытка раскопать блок руды уменьшает количество доступной руды в данном блоке, при этом вероятность добычи руды очень маленькая, и одновременно получается много отходов - щебня. Вы также можете копать Руду Пушкой, удерживая клавишу \'Control\'. Это быстро даст вам небольшое количество Руды за счет большого количества потраченной энергии, при крайне низкой эффективности процесса. По возможности избегайте добычи руды с помощью Строительной Пушки.</string>
+<string name="MA.Extractor.02.Paragraph">Чтобы автоматизировать сбор руды, используйте кстрактор руды. Вы можете поместить экстрактор против рудного блока, и он будет потреблять энергию для автоматического извлечения ресурсов. Вы можете открыть панель управления экстрактором руды, нажав кнопку «Interact» (по умолчанию «E»). Это позволяет вам добавлять энергию в машину из своего костюма, собирать руду из ее внутренней памяти и обновлять машину. Стартовые экстракторы значительно более ресурсосберегающие, чем суперкопки, и их можно оставить без присмотра.</string>
+</resources>
