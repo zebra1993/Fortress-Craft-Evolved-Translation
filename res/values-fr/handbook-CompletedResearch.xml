@@ -72,4 +72,11 @@ propriétés voulus."</string>
 <string name="CO.Power_Grid.02.Header">Générateur pyro thermique</string>
 <string name="CO.Power_Grid.03.Paragraph">Cette machine va convertir les ressources lié à un entonnoir en énergie. Il a besoin de beaucoup d\'aire et perd donc de l’efficacité avec la profondeur.</string>
 <string name="CO.Power_Grid.04.Header">Transmetteur d’énergie laser</string>
+<string name="CO.Power_Grid.05.Paragraph">À placer prés d\'une batterie ou d\'un générateur d\'énergie pour la transmettre jusqu’à 64m dans une batterie, machine qui consomme de l\'énergie ou un autre transmetteur d’énergie laser. Nous pouvons utiliser ceci pour envoyer plus profondément dans nos opération de minage.</string>
+<string name="CO.Suit_Upgrading.Title">Amélioration de combinaison</string>
+<string name="CO.Suit_Upgrading.00.Title">Amélioration de combinaison</string>
+<string name="CO.Suit_Upgrading.01.Paragraph">Avec qu\'elle que petit ajustement, il devrais être possible de produire des amélioration de combinaison à partir de plan pour machine basique, miniaturisé pour être portable. L’amélioration la plus évidente sont des meilleur cellule d\'énergie et une isolation au froid pour opérer avec plus d’efficacité sur cette planète hostile. Vous allez avoir besoin d\'un découpeur à hydrojet sur l\'usine de fabrication pour ça !</string>
+<string name="CO.Suit_Upgrading.02.Paragraph">Pour utiliser une amélioration de combinaison, fabriquer la et garder la dans votre inventaire.</string>
+<string name="CO.Ultimate_Power_Grid.Title">Grille d\'énergie ultime</string>
+<string name="CO.Ultimate_Power_Grid.00.Title">Grille d\'énergie ultime</string>
 </resources>
