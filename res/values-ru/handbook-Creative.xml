@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.04.Left">W,A,S,D: Движение
+Space: Прыжок
+ Q: Вверх при полете в креативе
+ Shift: Ускорение
+ Прикосновение к земле отключает
+Esc: Меню (пауза)
+H: Помощь</string>
+<string name="CR.01Welcome.05.Right">Z: Увеличение
+X: Строительная пушка
+C: Посох погоды (креатив)
+N: Краскопульт
+F10: Режим СуперСтройка (креатив)
+F11: Режим Копировать/Вставить (креатив)
+=: Меню выбора блока (креатив)
+F1-F7: Выбор вкладки быстрого доступа
+1-10: Выбор ячейки быстрого доступа</string>
+<string name="CR.01Welcome.01.Header">Творческий режим</string>
+<string name="CR.01Welcome.02.Paragraph">Добро пожаловать в Творческий режим! Ниже описаны элементы управления, на других страницах находится описание инструментов.</string>
+<string name="CR.01Welcome.Title">Руководство</string>
+</resources>
