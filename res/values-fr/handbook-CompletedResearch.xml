@@ -55,4 +55,21 @@ propriétés voulus."</string>
 <string name="CO.Improved_Ore_Scanning.Title">Amélioration du scanneur de minerai</string>
 <string name="CO.Improved_Ore_Scanning.00.Title">Amélioration du scanneur de minerai</string>
 <string name="CO.Improved_Ore_Scanning.01.Paragraph">Nous avons avec succès améliorer le scanner de minerai pour avoir un filtre. Pour faire ça, fabriquer une balise vierge dans l\'usine de fabrication puis transformer la dans la balise requise en utilisant la capacité de création de la combinaison (C).</string>
+<string name="CO.Improved_Ore_Scanning.02.Paragraph">Placer la balise de minerai dans votre barre de raccourcis, Activer la (clique gauche). Cela va nourrir le scanner de minerai et une balise filtré devrais apparaître. le filtre est consommer.</string>
+<string name="CO.Intermediate_Miner_Upgrades_I.Title">Amélioration de minage intermédiaire I</string>
+<string name="CO.Intermediate_Miner_Upgrades_I.00.Title">Amélioration de minage intermédiaire I</string>
+<string name="CO.Intermediate_Miner_Upgrades_I.01.Paragraph">Nous avons avec succès conçus une nouvelle fonderie. Cela va exiger des matériaux avancé que nous trouvons pas sur la surface.</string>
+<string name="CO.Intermediate_Miner_Upgrades_II.Title">Amélioration de minage intermédiaire II</string>
+<string name="CO.Intermediate_Miner_Upgrades_II.00.Title">Amélioration de minage intermédiaire II</string>
+<string name="CO.Intermediate_Miner_Upgrades_II.01.Paragraph">Des amélioration plus avancé pour l\'extracteur de minerai sont maintenant disponible. nous avons aussi recherché une nouvelle sonde géothermique qui peut être utiliser pour identifier l\'emplacement des dépôts de minerai. Nous devrions identifier des emplacement important pendant que nous continuons à rechercher notre nouveau système de carrière.</string>
+<string name="CO.Local_Life_Forms.Title">Formes de vie local</string>
+<string name="CO.Local_Life_Forms.00.Title">Formes de vie local</string>
+<string name="CO.Local_Life_Forms.01.Paragraph">Cette planète semble contenir certaine variété de plante et de vie animale, toute ne sont pas amicale.</string>
+<string name="CO.Local_Life_Forms.02.Paragraph">Les scanner ont détecté plusieurs formes de vie volante a proximité qui représente un risque. La conception d\'un scanner à menace est disponible pour surveiller leur progression.Nous devrions investir dans la défense de la base. potentiellement plus important, nous avons détecté plusieurs grosse structure organique sous la surface qui pourrait interférer avec nos effort pour sécuriser le ravitaillement des ressources.</string>
+<string name="CO.Power_Grid.Title">Grille d\'alimentation</string>
+<string name="CO.Power_Grid.00.Title">Grille d\'alimentation</string>
+<string name="CO.Power_Grid.01.Paragraph">Nous avons maintenant une nouvelle méthode pour générer et transporter de l’énergie. ce projet va aussi concevoir de nouvelle amélioration pour ARTHER et une nouvelle machine, le déplaceur de matière, capable de transporter des ressources d\'entonnoir a entonnoir.</string>
+<string name="CO.Power_Grid.02.Header">Générateur pyro thermique</string>
+<string name="CO.Power_Grid.03.Paragraph">Cette machine va convertir les ressources lié à un entonnoir en énergie. Il a besoin de beaucoup d\'aire et perd donc de l’efficacité avec la profondeur.</string>
+<string name="CO.Power_Grid.04.Header">Transmetteur d’énergie laser</string>
 </resources>

@@ -49,27 +49,27 @@
 <string name="CO.Frozen_Factory.01.Paragraph">Nun, da diese Forschung abgeschlossen ist, können wir das Klimakontrollzentrum errichten. Einmal in den kalten Tiefen errichtet und mit Energie versorgt, verändert es die Umweltbedingungen langsam zu einem lebensfreundlicheren Klima. Hier können wir, richtig eingerichtet, auf Verstärkung warten.</string>
 <string name="CO.Frozen_Factory.02.Paragraph">Diese neue Maschine ist weitaus fortschrittlicher (und zerbrechlicher) als das alte ZEV. Damit sollten wir in der Lage zu sein, viel größere, schnellere und kompliziertere Maschinen zur Förderung und Verarbeitung zu bauen. Erstmal brauchen wir etwas mehr fortschrittlicheres Material und dafür brauchen wir eine Maschine, die die super harten Erze verarbeiten kann.</string>
 <string name="CO.Frozen_Factory.03.Paragraph">Wenn wir einen Harterz-Schürfer in einem 3x3-Feldkonstrukt auf Chrom oder Molybden errichten, sollten wir in der Lage sein, einen neuen Bohrer herstellen zu können. Der Nanodesintegrator, oder der BFL-9000, kann uns dabei behilflich sein, eine 3x3 flache Fläche dieser Harterze zu formen.</string>
-<string name="CO.Improved_Ore_Scanning.Title">Improved Ore Scanning</string>
+<string name="CO.Improved_Ore_Scanning.Title">Verberssertes Erzradar</string>
 <string name="CO.Improved_Ore_Scanning.00.Title">Verbesserte Erzsuche</string>
 <string name="CO.Improved_Ore_Scanning.01.Paragraph">Wir haben erfolgreich unseren Erzscanner aufgerüstet, der nun in der Lage ist, Erzvarianten zu filtern. Um dies zu tun, erstellen wir einen Leeren Erz-Ping, dann erstellen wir den jeweiligen spezifischen Erz-Ping im Manuellen Herstellungsmenü (C).</string>
 <string name="CO.Improved_Ore_Scanning.02.Paragraph">Plaziere den Erz-Ping in der Schnellauswahl-Leiste unten, wähl ihn aus, dann aktiviere ihn mit der linken Maustaste (LMB). Dies wird die Ortinformation in den Erzscanner speichern. Der Erz-Ping wird dabei verbraucht.</string>
-<string name="CO.Intermediate_Miner_Upgrades_I.Title">Intermediate Miner Upgrades I</string>
+<string name="CO.Intermediate_Miner_Upgrades_I.Title">Mittlere Tagebauverbesserung I</string>
 <string name="CO.Intermediate_Miner_Upgrades_I.00.Title">Fortgeschrittener Bergbau I</string>
 <string name="CO.Intermediate_Miner_Upgrades_I.01.Paragraph">Wir haben erfolgreich einen neuen Schmelzofen designed. Dieser wird Erze benötigen, die man nicht unmittelbar an der Oberfläche finden kann.</string>
-<string name="CO.Intermediate_Miner_Upgrades_II.Title">Intermediate Miner Upgrades II</string>
-<string name="CO.Intermediate_Miner_Upgrades_II.00.Title">Intermediate Miner Upgrades II</string>
+<string name="CO.Intermediate_Miner_Upgrades_II.Title">Fortgeschrittener Bergbau II</string>
+<string name="CO.Intermediate_Miner_Upgrades_II.00.Title">Fortgeschrittener Bergbau II</string>
 <string name="CO.Intermediate_Miner_Upgrades_II.01.Paragraph">Weitere Verbesserungen für die Erzförderer sind nun verfügbar. Wir haben zudem den Gelogischen Landvermesser erforscht, welcher für die identifikation reichhaltiger Erzvorkommen genutzt wird. Wir sollten einige optimale Positionen markeiren währen deas neue Steinbruchsystem erforscht wird.</string>
-<string name="CO.Local_Life_Forms.Title">Local Life Forms</string>
+<string name="CO.Local_Life_Forms.Title">Lokale Lebensformen</string>
 <string name="CO.Local_Life_Forms.00.Title">Lokale Lebensformen/Text&gt;
 				</string>
 <string name="CO.Power_Grid.Title">Energienetz</string>
 <string name="CO.Power_Grid.00.Title">Energienetz</string>
 <string name="CO.Power_Grid.01.Paragraph">Wir haben nun neue Möglichkeiten, Energie zu produzieren und zu transportieren. Diese Forschung enthält auch neue Verbesserungen für ARTHER und eine neue Technologie, den Materie-Teleporter.</string>
-<string name="CO.Power_Grid.02.Header">Pyrothermic Generator</string>
+<string name="CO.Power_Grid.02.Header">Kohle Generator</string>
 <string name="CO.Power_Grid.03.Paragraph">Dieser Generator konvertiert brennbare Ressourcen eines angeschlossenen Speicher-Trichters zu nutzbarer Energie.</string>
-<string name="CO.Power_Grid.04.Header">Laser Energy Transmitter</string>
+<string name="CO.Power_Grid.04.Header">Laser Energieübertrager</string>
 <string name="CO.Power_Grid.05.Paragraph">Neben Energiespeicher oder Generator platzieren, um Energie bis zu einer Entfernung von 64m zu transportieren. Mögliche Empfänger sind Energiespeicher, jegliche Verbraucher und weitere Transmitter. Dies kann dazu genutzt werden, die tiefer liegenden Minen mit Energie zu versorgen.</string>
-<string name="CO.Suit_Upgrading.Title">Suit Upgrading</string>
+<string name="CO.Suit_Upgrading.Title">Anzugsverbesserung</string>
 <string name="CO.Suit_Upgrading.00.Title">Verbesserter Raumanzug</string>
 <string name="CO.Suit_Upgrading.01.Paragraph">Mit einigen kleinen Anpassungen sollte es uns möglich sein, nützliche Module für unseren Raumanzug herzustellen. Allen voran die tragbaren Solarzellen und eine verbesserte Heizung um diesen unwirtlichen Temperaturen besser trotzen zu können. Dazu müssen wir allerdings zuerst eine Wasserstrahl-Schneidemaschine herstellen!</string>
 <string name="CO.Suit_Upgrading.02.Paragraph">Um ein Modul für deinen Raumanzug zu verwenden, behalte es einfach in deinem Inventar, oder verschiebe es in den extra vorhandenen Raumanzugsbereich des Inventares, auf dass du mit (S) Zugriff bekommst, während du dich im Inventar befindest.</string>
@@ -87,5 +87,5 @@
 <string name="CO.Advanced_Research.03.Paragraph">Mehr Informationen zum Labor gibt es in der folgenden Anleitung:</string>
 <string name="CO.Local_Life_Forms.01.Paragraph">Auf diesem Planeten scheint es eine große Auswahl and pflanzlichem und tierischem Leben zu geben. Allerdings ist uns nicht alles davon freundlich gesonnen.</string>
 <string name="CO.Local_Life_Forms.02.Paragraph">Unsere Scanner machen eine Menge fliegende Lebensformen in der Nähe aus, die ein potenzielles Risiko darstellen. Wir haben Pläne für einen Gefahrenstufesensor, der die Bedrohung überwachen kann. Wir sollten außerdem herausfinden, wie wir ein grundlegendes Abwehrnetz errichten. Wahrscheinlich noch mehr Sorgen sollten uns die großen, organischen Strukturen im Untergrund bereiten, die unseren geregelten Nachschub an Ressourcen unterbrechen könnten.</string>
-<string name="CO.Advanced_Research.02.Paragraph">Das Labo wird benütig um fortgeschrittene Projekte zu erforschen, um unsere Technologiekentnisse zu erweiter und neue Projekte und Rezepte freizuschalten. Eine gesamt Zahl von 27 Laborkomponenten werden benötig (3 Flächen zu je 9 Komponenten) und müssen in einem 3x3x3 Würfel angeordnet sein.</string>
+<string name="CO.Advanced_Research.02.Paragraph">Das Labor wird benötigt, um fortgeschrittene Projekte zu erforschen welche durch das freischalten neuer Projekte und Rezepte deinen Technologie Level erhöhen. Insgesamt werden 27 Labor Komponenten benötigt (gebaut in 3 Stapeln mit je 9 Komponenten) und diese müssen in einer 3 mal 3 mal 3 Konfiguration angeordnet werden.</string>
 </resources>
