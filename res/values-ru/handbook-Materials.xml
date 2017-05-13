@@ -15,16 +15,16 @@
 <string name="MA.Auto_Builder.07.Paragraph">- Прикрепив Бункер с транспортными трубами, вы будете получать обычные конвейерные линии, а не транспортные трубы!</string>
 <string name="MA.Threat_Scanner.00.Title">Сканер Угроз</string>
 <string name="MA.AI_Mover_Control.00.Title">ИИ-носильщик</string>
-<string name="MA.ARTHER_Battery_Core.00.Title">Батарея ARTHER</string>
-<string name="MA.ARTHER_Charging_Station.00.Title">Зарядная станция ARTHER</string>
-<string name="MA.ARTHER_Dapper_Hat.00.Title">Щегольская шляпа ARTHER</string>
-<string name="MA.ARTHER_Dapper_Monocle.00.Title">Щегольский монокль ARTHER</string>
-<string name="MA.ARTHER_Dapper_Moustache.00.Title">Щегольские усы ARTHER</string>
-<string name="MA.ARTHER_Dapper_Pack.00.Title">Щегольский набор ARTHER</string>
-<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Обновление Щегольского набора ARTHER</string>
-<string name="MA.ARTHER_Power_Core.00.Title">Силовое ядро ARTHER</string>
-<string name="MA.ARTHER_Solar_Panel.00.Title">Солнечная панель ARTHER</string>
-<string name="MA.ARTHER_Turret.00.Title">Турель для ARTHER</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">Батарея АРЧЕРа</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">Зарядная станция АРЧЕРа</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Щегольская шляпа АРЧЕРа</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Щегольский монокль АРЧЕРа</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">Щегольские усы АРЧЕРа</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">Щегольский набор АРЧЕРа</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Обновление Щегольского набора АРЧЕРа</string>
+<string name="MA.ARTHER_Power_Core.00.Title">Силовое ядро АРЧЕРа</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">Солнечная панель АРЧЕРа</string>
+<string name="MA.ARTHER_Turret.00.Title">Турель для АРЧЕРа</string>
 <string name="MA.ARTHER_Turret.03.Header">Характеристики</string>
 <string name="MA.ARTHER_Turret.04.Left">"Дальность:
   Урон (за выстрел):
@@ -37,11 +37,11 @@
  5
  150
  10 секунд
- 1 (ARTHER)</string>
-<string name="MA.ARTHER_Upgrade_Pack.00.Title">Модуль обновления ARTHER</string>
+ 1 (АРЧЕР)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">Модуль обновления АРЧЕРа</string>
 <string name="MA.Advanced_Experimental_Pod.00.Title">Продвинутая Экспериментальная Ячейка</string>
 <string name="MA.Advanced_machine_block.00.Title">Усовершенствованный машинный блок</string>
-<string name="MA.Antimatter_Drill_Motor.00.Title">Антиматериальный Буровой Привод</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Антиматериальный Буровой Двигатель</string>
 <string name="MA.Antimatter_Drill_Motor.02.Header">Характеристики</string>
 <string name="MA.Antimatter_Drill_Motor.03.Left">Скорость Добычи:</string>
 <string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
@@ -78,7 +78,7 @@
 <string name="MA.Basic_Conveyor_Belt.04.Header">Ограничения</string>
 <string name="MA.Basic_Conveyor_Belt.07.Header">Фильтрация</string>
 <string name="MA.Basic_Conveyor_Belt.09.Header">Характеристики</string>
-<string name="MA.Basic_Drill_Motor.00.Title">Базовый Буровой Привод</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Базовый Буровой Двигатель</string>
 <string name="MA.Basic_Drill_Motor.02.Header">Характеристики</string>
 <string name="MA.Basic_Drill_Motor.03.Left">Скорость добычи:</string>
 <string name="MA.Basic_Drill_Motor.04.Right">200%</string>
@@ -499,25 +499,25 @@
 <string name="MA.Basic_Missile_Assembler.06.Paragraph">Хранилища Энергии и Накопительные Бункеры могут быть размещены и над, и под машиной, и по бокам.</string>
 <string name="MA.Basic_Conveyor_Belt.01.Paragraph">Конвейеры - относительно дешевый и простой способ перемещения ресурсов. Первым применением для них, вероятно, будет перемещение материала из Накопительного Бункера, прикрепленного к Экстрактору Руды, к другому Бункеру, присоединенному к Плавильне или генератору энергии, такому как Центральный Энергетический Концентратор или Пиротермический Генератор.</string>
 <string name="MA.Basic_Conveyor_Belt.03.Paragraph">Конвейеры автоматически захватывают ресурсы из любого Бункера, если они обращены в любом направлении от бункера. Ресурс перемещается по ленте конвейера до другого конвейера или Бункера (при условии наличия свободного места в Бункере). Вы можете изменить направление конвейерной линии, поворачивая конвейер. Его можно размещать на стене для вертикального перемещения ресурсов. Бункеры нужны конвейеру для взаимодействия с машинами, так как конвейер подаёт предметы к оборудованию только через Бункеры.</string>
-<string name="MA.ARTHER_Turret.01.Paragraph">Энергоэффективная турель дальнего действия с таким недостатком, что она должна управляться ARTHER. Для использования выделите турель и нажмите кнопку взаимодействия (по умолчанию \'E\'), чтобы состыковать ARTHER с турелью.</string>
-<string name="MA.ARTHER_Turret.02.Paragraph">Подача энергии к Турели может быть либо от внешнего источника, либо с использованием резервов энергии ARTHER. Если турель питается от внешнего источника, ARTHER получит достаточный заряд, чтобы оставаться там на неопределенно долгое время. Если энергия у ARTHER закончится, он отстыкуется и вернется к пользователю.</string>
-<string name="MA.ARTHER_Power_Core.01.Paragraph">Устраняет повреждения у ARTHER, восстанавливая его подвижность. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
-<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Увеличивает скорость, с которой ARTHER восстанавливает энергию на солнечном свету. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">Энергоэффективная турель дальнего действия с таким недостатком, что она должна управляться непосредственно АРЧЕРом. Для использования выделите турель и нажмите кнопку взаимодействия (по умолчанию \'E\'), чтобы состыковать АРЧЕРа с турелью.</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">Подача энергии к Турели может быть либо от внешнего источника, либо с использованием аккумулятора самого АРЧЕРа. Если турель питается от внешнего источника, АРЧЕР получит достаточный заряд, чтобы оставаться там на неопределенно долгое время. Если энергия у АРЧЕРа закончится, он отстыкуется и вернется к игроку.</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Устраняет повреждения у АРЧЕРа, восстанавливая его подвижность. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Увеличивает скорость, с которой АРЧЕР восстанавливает энергию на солнечном свету. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</string>
 <string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Окончательное обновление до Совершенного Щеголя! Экономит место в инвентаре. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
 <string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Настоящий Щеголь! Экономит место в инвентаре, совмещая в себе все предыдущие отдельные Щёгольские улучшения. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
 <string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Гусары, молчать! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
-<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Улучшает зрение ARTHER! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
-<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Пусть ARTHER станет Щеголем, да ещё и с защитой от дождя! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужно только одно такое устройство, и оно должно храниться в вашем инвентаре.</string>
-<string name="MA.ARTHER_Battery_Core.01.Paragraph">Позволяет ARTHER накапливать в 8 раз больше Энергии, которую он может передать вам, когда в вашем костюме она кончается. Изготовьте как можно скорее! Достаточно одного устройства, и оно должно храниться в вашем инвентаре, чтобы работать.</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Улучшает зрение АРЧЕРа! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Пусть АРЧЕР станет Щеголем, да ещё и с защитой от дождя! Возможно только в том случае, если у вас есть Dapper Indie Supporter DLC. Вам нужен только один элемент, и он должен храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Позволяет АРЧЕРу накапливать в 8 раз больше Энергии, которую он может передать вам, когда в вашем костюме она кончается. Изготовьте как можно скорее! Достаточно одного устройства, и оно должно храниться в вашем инвентаре, чтобы работать.</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Этот робот будет перемещать один ресурс за один раз из одного соседнего Бункера в другой, учитывая режимы ввода/вывода Бункеров.</string>
-<string name="MA.ARTHER_Charging_Station.01.Paragraph">Быстро перезаряжайте ARTHER от энергосети вашей базы. Лучше всего сочетать с обновлением Батареи ARTHER.</string>
-<string name="MA.ARTHER_Charging_Station.03.Left">Скорость перезарядки ARTHER:
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Быстро заряжайте АРЧЕРа от энергосети вашей базы. Лучше всего сочетать с улучшенной батареей АРЧЕРа.</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">Скорость зарядки АРЧЕРа:
  Ёмкость станции:
  Скорость накопления энергии самой станции:</string>
 <string name="MA.ARTHER_Charging_Station.04.Right">25 в секунду
  1500
  10 в секунду</string>
-<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Сочетает в себе Солнечную Панель, Силовое Ядро и Батарею. Экономит место, объединяя улучшения ARTHER. Достаточно одного устройства, и оно должно храниться в вашем инвентаре.</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Сочетает в себе Солнечную Панель, Силовое Ядро и Батарею. Экономит место, объединяя улучшения АРЧЕРа. Достаточно одного устройства, и оно должно храниться в вашем инвентаре.</string>
 <string name="MA.Advanced_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
 <string name="MA.Complex_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
 <string name="MA.Intermediate_Experimental_Pod.02.Paragraph">Для более подробной информации по производству Экспериментальных Ячеек см. следующее руководство.</string>
@@ -530,11 +530,11 @@
 <string name="MA.Nickel_Coil.00.Title">Никелевая Катушка</string>
 <string name="MA.Tin_Coil.00.Title">Оловянная Катушка</string>
 <string name="MA.Titanium_Coil.00.Title">Титановая Катушка</string>
-<string name="MA.PowerBoosterMK1.00.Title">Усилитель мощности ARTHER МК1</string>
-<string name="MA.PowerBoosterMK2.00.Title">Усилитель мощности ARTHER МК2</string>
-<string name="MA.PowerBoosterMK3.00.Title">Усилитель мощности ARTHER МК3</string>
-<string name="MA.PowerBoosterMK4.00.Title">Усилитель мощности ARTHER МК4</string>
-<string name="MA.PowerBoosterMK5.00.Title">Усилитель мощности ARTHER МК5</string>
+<string name="MA.PowerBoosterMK1.00.Title">Усилитель мощности АРЧЕРа МК1</string>
+<string name="MA.PowerBoosterMK2.00.Title">Усилитель мощности АРЧЕРа МК2</string>
+<string name="MA.PowerBoosterMK3.00.Title">Усилитель мощности АКРЧЕРа МК3</string>
+<string name="MA.PowerBoosterMK4.00.Title">Усилитель мощности АРЧЕРа МК4</string>
+<string name="MA.PowerBoosterMK5.00.Title">Усилитель мощности АРЧЕРа МК5</string>
 <string name="MA.PowerBoosterChargerMK1.00.Title">Зарядник Усилителей Мощности МК1</string>
 <string name="MA.PowerBoosterChargerMK1.01.Paragraph">Эта машина автоматически изготавливает и заряжает Усилителей Мощности МК1. Использует Медные Катушки и потребляет энергию.</string>
 <string name="MA.Induction_Charger.03.Left">"Внутренняя ёмкость:
@@ -746,4 +746,46 @@
  50
  1.0 м/с^2
  "</string>
+<string name="MA.BulkMinecart.08.Title">Продвинутое управление вагонеткой</string>
+<string name="MA.Emerald_Focusing_Lens.04.Right">130%</string>
+<string name="MA.Empty_Fuel_Canister.00.Title">Пустая канистра</string>
+<string name="MA.Empty_Metal_Tube.00.Title">Пустая металлическая труба</string>
+<string name="MA.Enhanced_Drill_Motor.00.Title">Улучшенный Буровой Двигатель</string>
+<string name="MA.Enhanced_Drill_Motor.03.Left">Скорость добычи:</string>
+<string name="MA.Enhanced_Drill_Motor.04.Right">400%</string>
+<string name="MA.Enriched_Coal.00.Title">Обогащенный уголь</string>
+<string name="MA.Enriched_Coal.01.Paragraph">Обогащенный уголь - продукт получаемый в Обогатителе угля, путем обогащения простого угля. По сравнению с простым углем производит в 2 раза больше энергии за тот же отрезок времени.</string>
+<string name="MA.Exceptional_Organic_Lens.00.Title">Отличная органическая линза</string>
+<string name="MA.Organic_Lens.00.Title">Органическая линза</string>
+<string name="MA.Extractor.07.Header">Двигатель</string>
+<string name="MA.Extractor.08.Paragraph">Новый двигатель Буровой ускоряет добычу руды в минуту, в то же время он увеличивает потребление энергии. Перед установкой убедитесь что ваша энергосеть готова к такой модернизации.</string>
+<string name="MA.Extractor.06.Paragraph">Буровая - полезная машина, но она далека от своей максимальной мощности. Она может быть модернизирована двумя способами - двигатель и режущая головка. Открываем панель управления буровой и щелкаем по ячейке модернизации, будет установлено лучшее улучшение (не смотря на установленное) из инвентаря, так же можно в ручную перетащить нужное улучшение.</string>
+<string name="MA.Extractor.04.Paragraph">Скорость и Эффективность Буровой присутствуют на панели управления, без модернизации эффективность составляет 10% от количества руды в жиле, а извлекается 9 руды за раз.</string>
+<string name="MA.Extractor.11.Paragraph">Режущие головки со временем будут изнашиваться, их ресурс будет отображен в панели управления Буровой.</string>
+<string name="MA.FALCOR_Beacon.00.Title">Маяк Дронов</string>
+<string name="MA.FALCOR.00.Title">Дроны</string>
+<string name="MA.FastMinecart.00.Title">Вагонетка быстрая</string>
+<string name="MA.FastMinecart.03.Left">"Максимальная скорость:
+ Максимальный обьем:
+ Ускорение:
+ "</string>
+<string name="MA.FastMinecart.04.Right">2метр/сек
+ 25
+ 1.0метр/с/с
+ 16
+ 15 сек</string>
+<string name="MA.Forced_Induction.05.Right">200%
+ 800%</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">Дв</string>
+<string name="MA.Magnetic_Drill_Motor.00.Title">Магнитный Буровой Двигатель</string>
+<string name="MA.Fusion_Drill_Motor.03.Left">Скорость добычи:</string>
+<string name="MA.Fusion_Drill_Motor.04.Right">1600%</string>
+<string name="MA.Glow_Stick.00.Title">Светящаяся палочка</string>
+<string name="MA.Glow_Stick.01.Paragraph">Светящаяся палочка автоматически генерируются вашим костюмом и потребляют 5 энергии, нажмите \"G\" чтобы бросить!</string>
+<string name="MA.PowerBoosterMK1.04.Right">100</string>
+<string name="MA.PowerBoosterMK1.01.Paragraph">Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзарядить машины.</string>
+<string name="MA.PowerBoosterMK2.01.Paragraph">Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзарядить машины.</string>
+<string name="MA.PowerBoosterMK3.01.Paragraph">Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзарядить машины.</string>
+<string name="MA.PowerBoosterMK4.01.Paragraph">Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзарядить машины.</string>
+<string name="MA.PowerBoosterMK5.01.Paragraph">Использование данного предмета позволит мгновенно подзарядить батарею АРЧЕРа. Запаситесь ими заранее, это позволит вам дольше путешествовать под землей и подзарядить машины.</string>
 </resources>
