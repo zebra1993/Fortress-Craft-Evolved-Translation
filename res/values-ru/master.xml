@@ -68,7 +68,7 @@
     <string name="Creative">Творчество</string>
 
     <string name="Default_Settings_Info">Настройки по-умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё больше ускорить развитие игрока - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
-Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен и обращайте внимание на ожидаемое время по критическим событиям!</string>
+Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен, и обратите внимание на ожидаемое время по критическим событиям!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
     <string name="Mod_Selected">мод выбран.</string>
@@ -90,7 +90,7 @@
     <string name="Eternal_Night_Info">Вечная Ночь - это отсутствие дневной передышки от замерзания и доступа к солнечной энергии; включая ваш ЦУП. Это серьёзное испытание.</string>
 
     <string name="Death_Default_Info">Это режим по-умолчанию. Нет штрафов за смерть, за исключением низкого уровня здоровья и длинных прогулок. Делает игру исключительно лёгкой, отсутствуют штрафы за любые виды смерти.</string>
-    <string name="Death_Clumsy_Info">Неуклюжий режим рекомендован, если вам нужны разумное испытание и хорошая причина постараться не умереть! Вы будете выбрасывать содержимое инвентаря во время смерти!</string>
+    <string name="Death_Clumsy_Info">Неуклюжий режим подойдёт, если вам нужна хорошая причина, чтобы постараться не умереть! Вы будете выбрасывать содержимое инвентаря во время смерти!</string>
     <string name="Death_Ironman_Info">НЕ ДЛЯ НОВИЧКОВ!
 Режим \"Железный Человек\" - только для храбрых, тупых или упёртых. Умирая, Вы будете НАВСЕГДА ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
     <string name="Death_SquishCore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
@@ -163,7 +163,7 @@
     <string name="Nickel Bars">Никелевые слитки</string>
     <string name="Titanium Bar">Титановый слиток</string>
     <string name="Titanium Bars">Титановые слитки</string>
-    <string name="Rushmode_Enabled">Режим спешки включен! Этот режим потребует от вас за минимальное время построить и полностью зарядить Орбитальный Передатчик Энергии! В этом режиме выработка энергии увеличивается в 10 раз, а добыча и переплавка руды в 5. Враги также появляются намного чаще...</string>
+    <string name="Rushmode_Enabled">Режим спешки включен! Этот режим потребует от вас за минимальное время построить и полностью зарядить Орбитальный Передатчик Энергии! В этом режиме выработка энергии увеличивается в 10 раз, а добыча и переплавка руды в 5 раз. Враги также появляются намного чаще...</string>
 
     <string name="Organic Cutter Head">Органическая Режущая Головка</string>
     <string name="Plasma Cutter Head">Плазменная Режущая Головка</string>
@@ -791,7 +791,7 @@
     <string name="Toxic Cavern Flora 5_DESC">Это растение хорошо растёт в токсичной атмосфере.</string>
     <string name="Toxic Cavern Flora 6_DESC">Это растение хорошо растёт в токсичной атмосфере.</string>
     <string name="Toxic Cavern Flora 7_DESC">Это растение хорошо растёт в токсичной атмосфере.</string>
-    <string name="Organic Rock">Органический камень</string>
+    <string name="Organic Rock">Органический Камень</string>
     <string name="Organic Rock_DESC">" "</string>
     <string name="Electric Light">Электрическое освещение</string>
     <string name="Electric Light_DESC">" "</string>
@@ -1007,14 +1007,14 @@
     <string name="Incubator">Инкубатор</string>
     <string name="Incubator_DESC">Модуль Завода.\\nВключает рецепты Инкубатора при подключении к Заводу.</string>
     <string name="Assembly Station">Монтажная станция</string>
-    <string name="Assembly Station_DESC">Модуль Завода.\\nВключает рецепты Монтажной станции при подключении к Заводу.</string>
-    <string name="Refinery Controller_DESC">Контролирует процессы реакции, которые позволяют рекомбинировать углеводы в другие формы.</string>
-    <string name="Refinery Controller">Контроллер очистителя</string>
-    <string name="Refinery Reactor Vat">Котёл реактора очистителя</string>
+    <string name="Assembly Station_DESC">Модуль Завода.\\nВключает рецепты Сборочной станции при подключении к Заводу.</string>
+    <string name="Refinery Controller_DESC">Управляет химическими реакциями преобразования углеводов.</string>
+    <string name="Refinery Controller">Контроллер Очистителя</string>
+    <string name="Refinery Reactor Vat">Котёл реактора Очистителя</string>
     <string name="Refinery Reactor Vat_DESC">Игрок не должен это прочесть...</string>
-    <string name="Jet Turbine Generator_DESC">Игрок не должен это прочесть...</string>
-    <string name="Jet Turbine Generator">Генератор реактивной турбины</string>
-    <string name="Advanced Machine Block">Усовершенствованный машинный блок</string>
+    <string name="Jet Turbine Generator_DESC">Игрок не должен это прочесть…</string>
+    <string name="Jet Turbine Generator">Газотурбинный Генератор</string>
+    <string name="Advanced Machine Block">Усовершенствованный Машинный Блок</string>
     <string name="Advanced Machine Block_DESC">Производственный компонент оборудования 3 уровня. Можно использовать для строительства</string>
     <string name="Red Storage Crate">Красный ящик</string>
     <string name="Blue Storage Crate">Синий ящик</string>
@@ -1424,9 +1424,9 @@
     <string name="Casting Pipe (Bend)">Литьевая труба (Гнутая)</string>
     <string name="Refinery Reactor Vat Component">Компонент очистного реактора</string>
     <string name="Refinery Reactor Vat Component_DESC">Реактор обеспечивает протекание биохимических реакций под высоким давлением. Для изготовления очистного реактора расположите компоненты в виде куба 3х3х3. Подсоедините к нему Контроллер Очистки для запуска в работу.</string>
-    <string name="Jet Turbine Generator Housing">Корпус газотурбинного генератора</string>
+    <string name="Jet Turbine Generator Housing">Корпус Газотурбинного Генератора</string>
     <string name="Jet Turbine Generator Housing_DESC">Газотурбинный генератор сжигает высокоэнергетическое композитное топливо для интенсивной выработки энергии. Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Оборудуйте входной патрубок ГТ-генератора на стороне 3х3, чтобы собрать генератор.</string>
-    <string name="Jet Turbine Generator Intake">Входной патрубок газотурбинного генератора</string>
+    <string name="Jet Turbine Generator Intake">Входной патрубок Газотурбинного Генератора</string>
     <string name="Jet Turbine Generator Intake_DESC">Входной патрубок газотурбинного генератора подсоединяется к вертикальной стороне 3х3 корпуса газотурбинного генератора.</string>
     <string name="Laboratory Component">Компонент Лаборатории</string>
     <string name="Laboratory Component_DESC">Постройте куб 3x3x3, чтобы создать Лабораторию. В ней автоматически проводятся эксперименты.</string>
@@ -1719,24 +1719,25 @@
     <string name="MISSION_Game Complete Purchase Expansion Pack">Игра завершена! Купите Expansion Pack!</string>
     <string name="MISSION_Locate Chromium">Найти : Хром.</string>
     <string name="MISSION_Locate Molybdenum">Найти : Молибден.</string>
-    <string name="MISSION_Overminds left to destroy">Осталось уничтожить Overminds!</string>
-    <string name="MISSION_Charge Orbital Energy Transmitter">Зарядите Orbital Energy Transmitter!</string>
-    <string name="MISSION_Rush Mode">Режим Прорыва</string>
+    <string name="MISSION_Overminds left to destroy">Осталось уничтожить Сверхразумов!</string>
+    <string name="MISSION_Charge Orbital Energy Transmitter">Зарядите Орбитальный Передатчик Энергии!</string>
+    <string name="MISSION_Rush Mode">Режим Спешки</string>
  
-<string name="MISSION_Build Orbital Energy Transmitter">Постройте Orbital Energy Transmitter!</string>
-    <string name="MISSION_Search for nearby Organic Rock">Найдите по близости Органический камень.</string>
-    <string name="MISSION_Search for Organic Rock">Найдите Органический камень.</string>
-    <string name="MISSION_Locate Surface Organic Rock">Найти : Органическую скалу на поверхности.</string>
+<string name="MISSION_Build Orbital Energy Transmitter">Постройте Орбитальный Передатчик Энергии!</string>
+    <string name="MISSION_Search for nearby Organic Rock">Найдите Органический Камень поблизости.</string>
+    <string name="MISSION_Search for Organic Rock">Найдите Органический Камень.</string>
+    <string name="MISSION_Locate Surface Organic Rock">Найти : Органический Камень на поверхности.</string>
     <string name="MISSION_Critical Research Resin Handling">Критическое исповедование : Обработка смолы.</string>
     <string name="MISSION_Build a Hard Resin Detector">Постройте Детектор смолы.</string>
     <string name="MISSION_Traverse the Cold Caverns">Пересеките Холодные пещеры.</string>
     <string name="MISSION_Construct Cargo Lifts for T2 lifting">Постройте грузовой лифт для подъема руды Т2.</string>
     <string name="MISSION_Critical Research Alloys">Критическое исповедование : Выплавка металла.</string>
     <string name="MISSION_Build Solar Panels">Постройте солнечные панели.</string>
-    <string name="MISSION_Build FALCORs">Постройте FALCORs!</string>
-    <string name="MISSION_Build FALCOR Beacons">Постройте FALCOR Beacons!</string>
-    <string name="MISSION_Improve FALCOR Network">Улучшите сеть FALCOR!</string>
+    <string name="MISSION_Build FALCORs">Постройте ФАЛЬКОРы!</string>
+    <string name="MISSION_Build FALCOR Beacons">Постройте Маяки ФАЛЬКОРов!</string>
+    <string name="MISSION_Improve FALCOR Network">Улучшите сеть ФАЛЬКОРов!</string>
     <string name="MISSION_Critical Research Hydrocarbons">Критическое исследование : Углеводороды.</string>
     <string name="MISSION_Build Refinery">Постройте Нефтепереработку.</string>
-    <string name="MISSION_Build a Jet Turbine">Постройте Jet Turbine.</string>
+    <string name="MISSION_Build a Jet Turbine">Постройте Газотурбинный Генератор.</string>
+    <string name="MISSION_Explore remote surface for Organic Rock">Поищите Органический Камень в отдаленных областях.</string>
     </resources>
