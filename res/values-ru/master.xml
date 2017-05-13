@@ -1712,6 +1712,31 @@
     <string name="MISSION_Extract or Smelt Lithium">Добудьте или выплавьте Литий.</string>
     <string name="MISSION_Extract or Smelt Nickel">Добудьте или Выплавьте Никель.</string>
     <string name="MISSION_Extract or Smelt Gold">Добудьте или выплавите Золото.</string>
-    <string name="MISSION_Extract or Smelt Titanium">Добудьте или выплавите Титан.</string>
+    <string name="MISSION_Extract or Smelt Titanium">Добудьте или выплавите Титан</string>
     <string name="MISSION_Extract Crystal Ore">Добудьте Кристаллы.</string>
+    <string name="MISSION_Reminder">Напоминание</string>
+    <string name="MISSION_Terraform the Cold Cavern">Измените климат в Холодных Пещерах.</string>
+    <string name="MISSION_Game Complete Purchase Expansion Pack">Игра завершена! Купите Expansion Pack!</string>
+    <string name="MISSION_Locate Chromium">Найти : Хром.</string>
+    <string name="MISSION_Locate Molybdenum">Найти : Молибден.</string>
+    <string name="MISSION_Overminds left to destroy">Осталось уничтожить Overminds!</string>
+    <string name="MISSION_Charge Orbital Energy Transmitter">Зарядите Orbital Energy Transmitter!</string>
+    <string name="MISSION_Rush Mode">Режим Прорыва</string>
+ 
+<string name="MISSION_Build Orbital Energy Transmitter">Постройте Orbital Energy Transmitter!</string>
+    <string name="MISSION_Search for nearby Organic Rock">Найдите по близости Органический камень.</string>
+    <string name="MISSION_Search for Organic Rock">Найдите Органический камень.</string>
+    <string name="MISSION_Locate Surface Organic Rock">Найти : Органическую скалу на поверхности.</string>
+    <string name="MISSION_Critical Research Resin Handling">Критическое исповедование : Обработка смолы.</string>
+    <string name="MISSION_Build a Hard Resin Detector">Постройте Детектор смолы.</string>
+    <string name="MISSION_Traverse the Cold Caverns">Пересеките Холодные пещеры.</string>
+    <string name="MISSION_Construct Cargo Lifts for T2 lifting">Постройте грузовой лифт для подъема руды Т2.</string>
+    <string name="MISSION_Critical Research Alloys">Критическое исповедование : Выплавка металла.</string>
+    <string name="MISSION_Build Solar Panels">Постройте солнечные панели.</string>
+    <string name="MISSION_Build FALCORs">Постройте FALCORs!</string>
+    <string name="MISSION_Build FALCOR Beacons">Постройте FALCOR Beacons!</string>
+    <string name="MISSION_Improve FALCOR Network">Улучшите сеть FALCOR!</string>
+    <string name="MISSION_Critical Research Hydrocarbons">Критическое исследование : Углеводороды.</string>
+    <string name="MISSION_Build Refinery">Постройте Нефтепереработку.</string>
+    <string name="MISSION_Build a Jet Turbine">Постройте Jet Turbine.</string>
     </resources>
