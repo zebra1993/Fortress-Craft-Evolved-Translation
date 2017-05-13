@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>TitaniumHousing</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Titanium_Housing.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Titanium Housing</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Titanium_Housing.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

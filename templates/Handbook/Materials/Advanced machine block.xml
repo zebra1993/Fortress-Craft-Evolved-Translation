@@ -1,37 +1,24 @@
 <MaterialEntry>
 	<Name>Advanced machine block</Name>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Advanced_machine_block.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Advanced machine block</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Advanced_machine_block.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "MA.Advanced_machine_block.02.Header" }}</Text>
-
 				</Header>
-
 			</Paragraphs>
-
 		</Page>
 				
 	</Pages>
-
 </MaterialEntry>
-
 

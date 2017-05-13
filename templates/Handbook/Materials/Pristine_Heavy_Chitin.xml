@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>PristineHeavyChitin</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Pristine_Heavy_Chitin.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>WaspHeavyChitinPristine</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Pristine_Heavy_Chitin.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

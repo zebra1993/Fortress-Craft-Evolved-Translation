@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>ChevronSign</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Chevron_Sign.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Chevron Sign</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Chevron_Sign.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

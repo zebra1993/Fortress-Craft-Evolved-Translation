@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>NickelWire</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Nickel_Wire.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Nickel Wire</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Nickel_Wire.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

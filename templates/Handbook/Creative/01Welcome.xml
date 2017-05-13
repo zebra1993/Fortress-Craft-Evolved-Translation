@@ -1,199 +1,121 @@
 <Chapter>
 	<Handle>welcome</Handle>
-
 	<Title>{{ index .Data "CR.01Welcome.Title" }}</Title>
-
 	<Icon>Grass</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<HelpImage>
 					<Name>FCevolvelogo-01</Name>
-
 				</HelpImage>
-
 				<Title>
 					<Text>{{ index .Data "CR.01Welcome.00.Title" }}</Text>
-
 				</Title>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.01.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.02.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Link>
 					<Target>
 						<Chapter>findingSurvival</Chapter>
-
 						<Page>0</Page>
-
 					</Target>
-
 					<Text>Looking for Survival Mode?</Text>
-
 				</Link>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.03.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 <Left>{{ index .Data "CR.01Welcome.04.Left" }}</Left>
-
 <Right>{{ index .Data "CR.01Welcome.05.Right" }}</Right>
-
 				</TwoColumnParagraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.06.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "CR.01Welcome.07.Title" }}</Text>
-
 				</Title>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.08.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.09.Header" }}</Text>
-
 				</Header>
-
 				<Icon>
 					<Name>Build Gun V2</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.10.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.11.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.12.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.13.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.14.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.15.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.16.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Icon>
 					<Name>Workshop Placement</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Quote>
 					<Text>Workshop Placement block</Text>
-
 				</Quote>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.17.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.18.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.19.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.20.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.21.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>				
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.22.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.23.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.24.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<!--
 				<HelpImage>
 					<Name>Workshop Overlay</Name>
@@ -201,40 +123,26 @@
 				-->
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.25.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.26.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.27.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.28.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.29.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.30.Paragraph" }}</Text>
-
 				</Paragraph>
 		
 <!--				
@@ -244,27 +152,20 @@
 				-->
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.31.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
 		</Page>
-
 		
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.32.Header" }}</Text>
-
 				</Header>
 		
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.33.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<!--
 				<HelpImage>
 					<Name>Super Build panel</Name>
@@ -272,21 +173,17 @@
 				-->
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.34.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.35.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.36.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 			</Paragraphs>
-
 		</Page>
 		
 		
@@ -294,92 +191,60 @@
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.37.Header" }}</Text>
-
 				</Header>
 		
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.38.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.39.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.40.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.41.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.42.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.43.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.44.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.45.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.46.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.47.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 			</Paragraphs>
-
 		</Page>
-
 		
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.48.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.49.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.50.Header" }}</Text>
-
 				</Header>
 		
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.51.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<!--
 				<HelpImage>
 					<Name>Paint Gun window</Name>
@@ -387,72 +252,46 @@
 				-->
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.52.Header" }}</Text>
-
 				</Header>
 		
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.53.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.54.Header" }}</Text>
-
 				</Header>
 		
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.55.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Header>
 					<Text>{{ index .Data "CR.01Welcome.56.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.57.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.58.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.59.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.60.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.61.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "CR.01Welcome.62.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
 		
 	</Pages>
-
 </Chapter>
-

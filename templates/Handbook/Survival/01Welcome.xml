@@ -1,383 +1,237 @@
 <Chapter>
 	<Handle>welcome</Handle>
-
 	<Title>{{ index .Data "SU.01Welcome.Title" }}</Title>
-
 	<Icon>Solar Panel-old</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "SU.01Welcome.00.Title" }}</Text>
-
 				</Title>
-
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.01.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.02.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.03.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.04.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.05.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.06.Paragraph" }}</Text>
-
 				</Paragraph>
-
 
 				<Link>
 					<Target>
 						<Chapter>controls</Chapter>
-
 						<Page>0</Page>
-
 					</Target>
-
 					<Text>Controls Guide</Text>
-
 				</Link>
-
 
 				<Link>
 					<Target>
 						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
 <!-- Full screen, auto-playing URL-->
 					</Target>
-
 					<Text>Prefer a video? Click here for the FortressCraft Tutorial</Text>
-
 				</Link>
-
 				<Link>
 					<Target>
 						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
 <!-- Full screen, auto-playing URL-->
 					</Target>
-
 					<Text>Click here to watch a tutorial on the Crystal Scanner</Text>
-
 				</Link>
 
-
 			</Paragraphs>
-
 		</Page>
-
 			<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.07.Header" }}</Text>
-
 				</Header>
-
 
 			
 
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.08.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.09.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.10.Header" }}</Text>
-
 				</Header>
-
 				<Icon>
 					<Name>Central Power Hub</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.11.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Central Power Hub</Material>
-
 					</Target>
-
 					<Text>Central Power Hub</Text>
-
 				</Link>
-
 				<Spacer/>
 <Spacer/>
 <Spacer/>
-
 				<Icon>
 					<Name>PowerStorageBlock</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.12.Paragraph" }}</Text>
-
 				</Paragraph>
-
 					<Link>
 					<Target>
 						<Material>PowerStorageBlock</Material>
-
 					</Target>
-
 					<Text>PowerStorageBlock</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Icon>
 					<Name>Ore Smelter</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.13.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Ore Smelter</Material>
-
 					</Target>
-
 					<Text>Ore Smelter</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Icon>
 					<Name>Manufacturing Plant</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.14.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Manufacturing Plant</Material>
-
 					</Target>
-
 					<Text>Manufacturing Plant</Text>
-
 				</Link>
-
 				<Icon>
 					<Name>Research Station</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.15.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Research Station</Material>
-
 					</Target>
-
 					<Text>Research Station</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.16.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.17.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.18.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.19.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.20.Header" }}</Text>
-
 				</Header>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.21.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.22.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.23.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.01Welcome.24.Header" }}</Text>
-
 				</Header>
-
 				<Icon>
 					<Name>Ore Extractor</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.25.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.26.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Ore Extractor</Material>
-
 					</Target>
-
 					<Text>Ore Extractor</Text>
-
 				</Link>
-
 				<Spacer/>
-
 				<Icon>
 					<Name>StorageHopper</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.27.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Storage Hopper</Material>
-
 					</Target>
-
 					<Text>Storage Hopper</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 			</Page>
-
 			<Page>
 			<Paragraphs>
 				<Icon>
 					<Name>Conveyor Belt</Name>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.01Welcome.28.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Link>
 					<Target>
 						<Material>Conveyor Belt</Material>
-
 					</Target>
-
 					<Text>Conveyor Belt</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
 		
 	</Pages>
-
 </Chapter>
-
-
 
 		

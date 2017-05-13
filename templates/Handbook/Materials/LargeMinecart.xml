@@ -1,284 +1,124 @@
 <MaterialEntry>
 	<Key>LargeMinecart</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.LargeMinecart.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Minecart_T3</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.LargeMinecart.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.LargeMinecart.02.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.LargeMinecart.03.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.LargeMinecart.04.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.LargeMinecart.05.Paragraph" }}</Text>
-
->
+&gt;
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target>
 						<Material>Minecart Depot</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Depot</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.LargeMinecart.06.Title" }}</Text>
-
-
 				</Title>
-
-
 
 				<Paragraph>
 					<Text>{{ index .Data "MA.LargeMinecart.07.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Icon>
 					<Name>Minecart Load</Name>
-
-
 					<Target><Material>MinecartLoadStation</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>MinecartLoadStation</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Load</Text>
-
-
 				</Link>
-
-
 				<Icon>
 					<Name>Minecart Unload</Name>
-
-
 					<Target><Material>MinecartUnloadStation</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>MinecartUnloadStation</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Unload</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
-
 			<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.LargeMinecart.08.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.LargeMinecart.09.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Icon>
 					<Name>Minecart Turbo Rail</Name>
-
-
 					<Target><Material>Minecart Turbo Rail</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>Minecart Turbo Rail</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Turbo Rail</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 				<Icon>
 					<Name>MinecartBufferFull</Name>
-
-
 					<Target><Material>MinecartBufferFull</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>Minecart Full Gate</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Full Gate</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 				<Icon>
 					<Name>MinecartBufferEmpty</Name>
-
-
 					<Target><Material>MinecartBufferEmpty</Material>
-
 </Target>
-
-
 				</Icon>
-
-
 				<Link>
 					<Target>
 						<Material>Minecart Empty Gate</Material>
-
-
 					</Target>
-
-
 					<Text>Minecart Empty Gate</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 
 		
 			</Paragraphs>
-
-
 		</Page>
-
-
 	
 	</Pages>
-
-
 </MaterialEntry>
-
-

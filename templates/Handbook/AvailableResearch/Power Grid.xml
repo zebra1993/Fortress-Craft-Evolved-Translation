@@ -1,35 +1,21 @@
 <Chapter>
 	<Handle>T1 Power</Handle>
-
 	<Title>{{ index .Data "AV.Power_Grid.Title" }}</Title>
-
 	<Icon>Power Grid</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "AV.Power_Grid.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Power Grid</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Power_Grid.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

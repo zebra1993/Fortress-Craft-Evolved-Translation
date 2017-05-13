@@ -1,65 +1,30 @@
 <MaterialEntry>
 	<Key>RefineryReactorVatPlacement</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Refinery_Reactor_Vat.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Metal Siding 1</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Refinery_Reactor_Vat.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Link>
 					<Target>
 						<Material>Refinery Controller</Material>
-
-
 					</Target>
-
-
 					<Text>Refinery Controller</Text>
-
-
 				</Link>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Refinery_Reactor_Vat.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-
 

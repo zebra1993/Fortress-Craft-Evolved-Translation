@@ -1,35 +1,21 @@
 <Chapter>
 	<Handle>T3 Power</Handle>
-
 	<Title>{{ index .Data "AV.Advanced_Power_Grid.Title" }}</Title>
-
 	<Icon>Advanced Power Grid</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "AV.Advanced_Power_Grid.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Advanced Power Grid</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Advanced_Power_Grid.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

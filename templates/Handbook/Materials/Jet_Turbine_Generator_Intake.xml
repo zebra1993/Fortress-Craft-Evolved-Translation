@@ -1,76 +1,34 @@
 <MaterialEntry>
 	<Key>JetTurbineGeneratorIntakePlacement</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Intake.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Drain Grate</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Intake.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Jet_Turbine_Generator_Intake.02.Header" }}</Text>
-
 </Header>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Jet_Turbine_Generator_Intake.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Jet_Turbine_Generator_Intake.04.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Jet_Turbine_Generator_Intake.05.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Jet_Turbine_Generator_Intake.06.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

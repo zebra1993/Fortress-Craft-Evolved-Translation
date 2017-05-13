@@ -1,189 +1,128 @@
 <Chapter>
 	<Handle>controls</Handle>
-
 	<Title>{{ index .Data "SU.03Controls.Title" }}</Title>
-
 	<Icon>Build Gun V2</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "SU.03Controls.00.Title" }}</Text>
-
 				</Title>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.02.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.03.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.04.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.05.Right" }}</Right>
-
 				</TwoColumnParagraph>
-
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.06.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.07.Header" }}</Text>
-
 				</Header>
 				
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.08.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.09.Header" }}</Text>
-
 				</Header>
 		
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.10.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.11.Right" }}</Right>
-
 				</TwoColumnParagraph>
 				
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.12.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.13.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.14.Right" }}</Right>
-
 				</TwoColumnParagraph>
 					
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.15.Header" }}</Text>
-
 				</Header>
 	
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.16.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.17.Right" }}</Right>
-
 				</TwoColumnParagraph>
 					
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.18.Header" }}</Text>
-
 				</Header>
 	
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.19.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.20.Right" }}</Right>
-
 				</TwoColumnParagraph>
 		
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.21.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.22.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.23.Right" }}</Right>
-
 				</TwoColumnParagraph>
 					
 			</Paragraphs>
-
 		</Page>
-
 		<Page>
 			<Paragraphs>
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.24.Header" }}</Text>
-
 				</Header>
 	
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.25.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.26.Header" }}</Text>
-
 				</Header>
 	
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.27.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.28.Right" }}</Right>
-
 				</TwoColumnParagraph>
 				
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.29.Header" }}</Text>
-
 				</Header>
 	
 				<Paragraph>
 					<Text>{{ index .Data "SU.03Controls.30.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.31.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.32.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.33.Right" }}</Right>
-
 				</TwoColumnParagraph>
 	
 				<Header>
 					<Text>{{ index .Data "SU.03Controls.34.Header" }}</Text>
-
 				</Header>
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "SU.03Controls.35.Left" }}</Left>
-
 					<Right>{{ index .Data "SU.03Controls.36.Right" }}</Right>
-
 				</TwoColumnParagraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>

@@ -1,103 +1,46 @@
 <MaterialEntry>
 	<Key>Teleporter</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Teleporter.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Teleporter</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Teleporter.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Teleporter.02.Header" }}</Text>
-
 </Header>
-
-
 				<Icon>
 					<Name>Location Marker</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
 	
 				<Paragraph>
 					<Text>{{ index .Data "MA.Teleporter.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target>
 						<Material>Location Marker</Material>
-
-
 					</Target>
-
-
 					<Text>Location Marker</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Teleporter.04.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Teleporter.05.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Teleporter.06.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 	
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

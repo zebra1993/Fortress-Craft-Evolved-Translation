@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>ARTHERPowerCore</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.ARTHER_Power_Core.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>ARTHER Power Core</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.ARTHER_Power_Core.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

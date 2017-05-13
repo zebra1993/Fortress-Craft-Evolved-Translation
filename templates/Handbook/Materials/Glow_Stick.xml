@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>GlowStick</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Glow_Stick.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Glow Stick</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Glow_Stick.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

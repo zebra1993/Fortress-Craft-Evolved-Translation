@@ -1,68 +1,31 @@
 <MaterialEntry>
 	<Key>LocationMarker</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Location_Marker.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Location Marker</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Location_Marker.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Location_Marker.02.Header" }}</Text>
-
 </Header>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Location_Marker.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 					<Paragraph>
 					<Text>{{ index .Data "MA.Location_Marker.04.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 					
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

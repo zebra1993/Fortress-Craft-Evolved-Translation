@@ -1,78 +1,35 @@
 <MaterialEntry>
 	<Key>AutoExcavator</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Auto_Excavator.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Auto Excavator</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Auto_Excavator.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.Auto_Excavator.02.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Auto_Excavator.03.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Auto_Excavator.04.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Auto_Excavator.05.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Auto_Excavator.06.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
 					
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

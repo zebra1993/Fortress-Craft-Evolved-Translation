@@ -1,43 +1,21 @@
 <MaterialEntry>
 	<Key>Bedrock</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Bedrock.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Bedrock</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Bedrock.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
 				
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

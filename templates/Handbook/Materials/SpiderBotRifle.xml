@@ -1,69 +1,31 @@
 <MaterialEntry>
 	<Key>SpiderBotParticleRifle</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.SpiderBotRifle.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>SpiderBot Defences 1</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.SpiderBotRifle.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.SpiderBotRifle.02.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Spacer/>
-
-
 				<Link>
 					<Target>
 						<Material>SpiderBot Base Component</Material>
-
-
 					</Target>
-
-
 					<Text>More information regarding SpiderBot!</Text>
-
-
 				</Link>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-

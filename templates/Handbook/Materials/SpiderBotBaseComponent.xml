@@ -1,91 +1,57 @@
 <MaterialEntry>
 	<Name>SpiderBot Base Component</Name>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.SpiderBotBaseComponent.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>SpiderBot Core Charger</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.SpiderBotBaseComponent.01.Paragraph" }}</Text>
-
 				</Paragraph>
 				
 			</Paragraphs>
-
 		</Page>
 		
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.SpiderBotBaseComponent.02.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>SpiderBot</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Spacer/>
-
 				<Link>
 					<Target>
 						<Material>SpiderBot Core Charger</Material>
-
 					</Target>
-
 					<Text>SpiderBot Core Charger</Text>
-
 				</Link>
-
 				<Link>
 					<Target>
 						<Material>SpiderBot Blaster</Material>
-
 					</Target>
-
 					<Text>SpiderBot Blaster</Text>
-
 				</Link>
-
 				<Link>
 					<Target>
 						<Material>SpiderBot Cannon</Material>
-
 					</Target>
-
 					<Text>SpiderBot Cannon</Text>
-
 				</Link>
-
 					<Link>
 					<Target>
 						<Material>SpiderBot Particle Rifle</Material>
-
 					</Target>
-
 					<Text>SpiderBot Particle Rifle</Text>
-
 				</Link>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </MaterialEntry>
-

@@ -1,84 +1,37 @@
 <MaterialEntry>
 	<Key>TransportPipe</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Transport_Pipe.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Transport Pipe</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Transport_Pipe.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Transport_Pipe.02.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.Transport_Pipe.03.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Transport_Pipe.04.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Link>
 					<Target>
 						<Material>Conveyor Belt</Material>
-
-
 					</Target>
-
-
 					<Text>Conveyor Belt</Text>
-
-
 				</Link>
-
-
 				<Spacer/>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

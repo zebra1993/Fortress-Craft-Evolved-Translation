@@ -1,35 +1,21 @@
 <Chapter>
 	<Handle>mining upgrade 3</Handle>
-
 	<Title>{{ index .Data "CO.Intermediate_Miner_Upgrades_I.Title" }}</Title>
-
 	<Icon>Ore Smelter</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "CO.Intermediate_Miner_Upgrades_I.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Ore Smelter</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "CO.Intermediate_Miner_Upgrades_I.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

@@ -1,35 +1,22 @@
 <Chapter>
 	<Handle>Local Life Forms</Handle>
-
 	<Title>{{ index .Data "AV.Local_Life_Forms.Title" }}</Title>
-
 	<Icon>Local Life Forms</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "AV.Local_Life_Forms.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Local Life Forms</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Local_Life_Forms.01.Paragraph" }}</Text>
   
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

@@ -1,61 +1,27 @@
 <MaterialEntry>
 	<Key>InductionCharger</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Induction_Charger.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Induction Charger</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Induction_Charger.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Spacer/>
-
-
 				<Header><Text>{{ index .Data "MA.Induction_Charger.02.Header" }}</Text>
-
 </Header>
-
-
 				<TwoColumnParagraph>
 					<Left>{{ index .Data "MA.Induction_Charger.03.Left" }}</Left>
-
-
 					<Right>{{ index .Data "MA.Induction_Charger.04.Right" }}</Right>
-
-
 				</TwoColumnParagraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 		
 	</Pages>
-
-
 </MaterialEntry>
-
-

@@ -1,43 +1,20 @@
 <MaterialEntry>
 	<Key>NickelCoil</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Nickel_Coil.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Nickel Coil</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Nickel_Coil.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-

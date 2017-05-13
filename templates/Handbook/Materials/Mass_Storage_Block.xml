@@ -1,56 +1,26 @@
 <MaterialEntry>
 	<Key>MassStorageBlock</Key>
-
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "MA.Mass_Storage_Block.00.Title" }}</Text>
-
-
 				</Title>
-
-
 				<Icon>
 					<Name>Bound Metal Crate</Name>
-
-
 					<Alignment>Center</Alignment>
-
-
 				</Icon>
-
-
 				<Paragraph>
 					<Text>{{ index .Data "MA.Mass_Storage_Block.01.Paragraph" }}</Text>
-
-
 				</Paragraph>
-
-
 				<Header>
 					<Text>{{ index .Data "MA.Mass_Storage_Block.02.Header" }}</Text>
-
-
 				</Header>
-
-
 				<Paragraph><Text>{{ index .Data "MA.Mass_Storage_Block.03.Paragraph" }}</Text>
-
 </Paragraph>
-
-
 			</Paragraphs>
-
-
 		</Page>
-
 				
 	</Pages>
-
-
 </MaterialEntry>
-
-
 

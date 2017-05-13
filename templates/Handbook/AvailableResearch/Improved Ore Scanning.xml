@@ -1,42 +1,25 @@
 <Chapter>
 	<Handle>ore pings</Handle>
-
 	<Title>{{ index .Data "AV.Improved_Ore_Scanning.Title" }}</Title>
-
 	<Icon>Improved Ore Scanning</Icon>
-
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
 					<Text>{{ index .Data "AV.Improved_Ore_Scanning.00.Title" }}</Text>
-
 				</Title>
-
 				<Icon>
 					<Name>Improved Ore Scanning</Name>
-
 					<Alignment>Center</Alignment>
-
 				</Icon>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Improved_Ore_Scanning.01.Paragraph" }}</Text>
-
 				</Paragraph>
-
 				<Spacer/>
-
 				<Paragraph>
 					<Text>{{ index .Data "AV.Improved_Ore_Scanning.02.Paragraph" }}</Text>
-
 				</Paragraph>
-
 			</Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-

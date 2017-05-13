@@ -1,10 +1,7 @@
 <Chapter>
 	<Handle>VideoTutorials</Handle>
-
 	<Title>{{ index .Data "SU.08VideoTutorials.Title" }}</Title>
-
 	<Icon>ARTHER Dapper Pack</Icon>
-
 	<Hidden>false</Hidden>
 <!-- ?? -->
 	<Pages>
@@ -12,71 +9,42 @@
       <Paragraphs>
         <Title>
           <Text>{{ index .Data "SU.08VideoTutorials.00.Title" }}</Text>
-
         </Title>
-
         <Icon>
           <Name>ARTHER Dapper Pack</Name>
-
         </Icon>
-
         <Spacer/>
-
         <Spacer/>
-
         <Spacer/>
-
         <Link>
           <Target>
             <URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
-
             <!-- Full screen, auto-playing URL-->
           </Target>
-
           <Text> Click here for the FortressCraft Tutorial</Text>
-
         </Link>
-
         <Spacer/>
-
         <Link>
           <Target>
             <URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
-
             <!-- Full screen, auto-playing URL-->
           </Target>
-
           <Text>Click here to watch a tutorial on the Crystal Scanner</Text>
-
         </Link>
-
         <Spacer/>
-
         <Link>
           <Target>
             <URL>www.youtube.com/tv#/watch?v=t8l_UFXOyZM</URL>
-
             <!-- Full screen, auto-playing URL-->
           </Target>
-
           <Text>Click here to watch a tutorial on SuperBuild</Text>
-
         </Link>
-
         <Spacer/>
-
         <Spacer/>
-
         <Paragraph>
           <Text>{{ index .Data "SU.08VideoTutorials.01.Paragraph" }}</Text>
-
         </Paragraph>
-
       </Paragraphs>
-
 		</Page>
-
 	</Pages>
-
 </Chapter>
-
