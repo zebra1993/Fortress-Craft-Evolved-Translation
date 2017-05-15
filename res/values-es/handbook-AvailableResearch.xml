@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AV.Advanced_Defence.Title">Defensa Avanzada</string>
+<string name="AV.Advanced_Defence.00.Title">Defensa Avanzada</string>
+<string name="AV.Advanced_Defence.01.Paragraph">¡Tenemos que construir defensas de la base más potentes para aniquilar enemigos mayores!</string>
+<string name="AV.Advanced_Logistics.Title">Logítica Avanzada</string>
+<string name="AV.Advanced_Logistics.00.Title">Logística Avanzada</string>
+<string name="AV.Advanced_Logistics.02.Paragraph">Esta investigación se centrará en mejoras de almacenamiento, clasificación y herramientas adicionales para la construcción de la base.</string>
+<string name="AV.Advanced_Power_Grid.Title">Red Eléctrica Avanzada</string>
+<string name="AV.Advanced_Power_Grid.00.Title">Red Eléctrica Avanzada</string>
+<string name="AV.Advanced_Logistics.01.Paragraph">Optimizar nuestra operación minera requiere bisturí, no martillo. (Por supuesto, martillos disponibles como una mejora aparte).</string>
+<string name="AV.Advanced_Power_Grid.01.Paragraph">Podremos mejorar aún más nuestra infraestructura de energía gracias a los materiales avanzados descubiertos recientemente.</string>
+<string name="AV.Advanced_Research.Title">Investigación Avanzada</string>
+<string name="AV.Advanced_Research.00.Title">Investigación Avanzada</string>
+<string name="AV.Advanced_Research.01.Paragraph">Nuestra capacidad de investigación se ve limitada por las restricciones de la estación de investigación. ¡Necesitamos diseñar un nuevo laboratorio para continuar con proyectos más avanzados!</string>
+<string name="AV.Aesthetics.Title">Estética</string>
+<string name="AV.Aesthetics.00.Title">Estética</string>
+<string name="AV.Aesthetics.01.Paragraph">En el improbable caso de que tengamos algo de tiempo libre podemos embellecer nuestra base con una variedad de cajas de almacenamiento y lienzos de colores.</string>
+<string name="AV.Base_Building_Automation.Title">Automatización de la construcción de la base</string>
+<string name="AV.Base_Building_Automation.00.Title">Automatización de la construcción de la base</string>
+<string name="AV.Base_Building_Automation.01.Paragraph">Construir una operación minera enorme es un trabajo para las máquinas, ¡No para los humanos!</string>
+</resources>
