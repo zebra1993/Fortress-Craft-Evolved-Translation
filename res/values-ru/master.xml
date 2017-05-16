@@ -147,8 +147,8 @@
     <string name="Chromium Bars">Хром</string>
     <string name="Molybdenum Bar">Молибденовый слиток</string>
     <string name="Molybdenum Bars">Молибденовые слитки</string>
-    <string name="Plastic Pellet">Пластиковая гранула</string>
-    <string name="Plastic Pellets">Пластиковые гранулы</string>
+    <string name="Plastic Pellet">Пластиковая Гранула</string>
+    <string name="Plastic Pellets">Пластиковые Гранулы</string>
     <string name="High Energy Composite Fuel">Высокоэнергетическое Композитное Топливо</string>
     <string name="Empty Metal Tube">Пустая металлическая труба</string>
     <string name="Empty Metal Tubes">Пустые металлические трубы</string>
@@ -380,8 +380,8 @@
     <string name="V3 Build Guns">Строительные пушки В3</string>
     <string name="MK1 Suit Upgrade Module">Модуль усовершенствования костюма МК1</string>
     <string name="MK1 Suit Upgrade Modules">Модули усовершенствования костюма МК1</string>
-    <string name="Suit Power Pack MK2">Энергетический модуль костюма МК2</string>
-    <string name="Suit Power Packs MK2">Энергетические модули костюма МК2</string>
+    <string name="Suit Power Pack MK2">Энергетический комплект костюма МК2</string>
+    <string name="Suit Power Packs MK2">Энергетические комплекты костюма МК2</string>
     <string name="ARTHER Power Core">Силовое ядро АРЧЕРа</string>
     <string name="ARTHER Power Cores">Силовые ядра АРЧЕРа</string>
     <string name="ARTHER Solar Panel">Солнечная Батарея АРЧЕРа</string>
@@ -418,8 +418,8 @@
     <string name="SpiderBot Cannons">Пушки ПаукоБота</string>
     <string name="SpiderBot Particle Rifle">Корпускулярная Винтовка ПаукоБота</string>
     <string name="SpiderBot Particle Rifles">Корпускулярные Винтовки ПаукоБота</string>
-    <string name="SpiderBot Power Core">Силовое ядро ПаукоБота</string>
-    <string name="SpiderBot Power Cores">Силовые ядра ПаукоБота</string>
+    <string name="SpiderBot Power Core">Энергоядро ПаукоБота</string>
+    <string name="SpiderBot Power Cores">Энергоядра ПаукоБота</string>
     <string name="Basic Drill Motor">Базовый Буровой Привод</string>
     <string name="Basic Drill Motors">Базовые Буровые Приводы</string>
     <string name="Enhanced Drill Motor">Улучшенный буровой привод</string>
@@ -1228,8 +1228,8 @@
     <string name="Armour Piercing Warhead Fitter_DESC">Использует Жала для монтажа бронебойных зарядов.</string>
     <string name="Warhead Imbuer">Усилитель боеголовок</string>
     <string name="Warhead Imbuer_DESC">Наполняет обычные ракеты энергией плазмы.</string>
-    <string name="SpiderBot Core Charger">Зарядное ядро ПаукоБота</string>
-    <string name="SpiderBot Core Charger_DESC">Наполняет литиевые катушки энергией. Загружайте их в Док-станцию ПаукоБота через Накопительный Бункер.</string>
+    <string name="SpiderBot Core Charger">Зарядник ПаукоБота</string>
+    <string name="SpiderBot Core Charger_DESC">Наполняет литиевые катушки энергией. Загружайте их в Док-станцию ПаукоБота.</string>
     <string name="Liquid Resin Refiner">Очиститель Текучей Смолы</string>
     <string name="Liquid Resin Refiner_DESC">"  "</string>
     <string name="Rack Railer">Установщик Зубчатых Рельсов</string>
@@ -1470,7 +1470,7 @@
     <string name="Geothermal Generator comp.">Компонент Геотермального Генератора</string>
     <string name="Geothermal Generator comp._DESC">Производит энергию за счёт перепада температур. Строится в конфигурации 5х5х3.</string>
     <string name="Trencher Drill component">Компонент Траншейного Бура</string>
-    <string name="Trencher Drill component_DESC">Формирует бур траншейного бура. Сформируйте конфигурацию 3х3х3, соединяя с приводом бура</string>
+    <string name="Trencher Drill component_DESC">Формирует рабочую часть траншейного бура. Сформируйте конфигурацию 3х3х3, соединяя с приводом бура</string>
     <string name="Trencher Motor component">Компонент Привода Траншейного Бура</string>
     <string name="Trencher Motor component_DESC">Формирует Привод Траншейного Бура. Сформируйте конфигурацию 3х3х3, соединяя с Буром.</string>
     <string name="Blast Furnace component">Компонент Доменной печи</string>
@@ -1486,7 +1486,7 @@
     <string name="Climate Control Centre">Центр Климатического Контроля</string>
     <string name="Cargo Lift Controller_DESC">Размещает Зубчатые Рельсы и обеспечивает функционирование грузового лифта. Строить площадку 3х3</string>
     <string name="Spiderbot Base Component">Компонент Док-станции ПаукоБота</string>
-    <string name="Spiderbot Base Component_DESC">Док-станция позволяет обновлять, перезаряжать и снабжать ПаукоБота. Строить площадку 15х15.</string>
+    <string name="Spiderbot Base Component_DESC">Док-станция позволяет обновлять, перезаряжать и снабжать ПаукоБота. Строить в виде площадки 15х15.</string>
     <string name="MK2 Organic Solar Component">Компонент Органической Солнечной Батареи МК2</string>
     <string name="MK2 Organic Solar Component_DESC">Создаёт Солнечную Батарею в конфигурации 3х3х1. Генерирует небольшое количество энергии ночью.</string>
     <string name="Hard Rock Grinder">Дробилка Твердой Породы</string>
@@ -1501,7 +1501,7 @@
     <string name="Particle Storage_DESC">Хранилище для сжатого газа, подготовленного под заправку контейнеров. Строится в конфигурации 3х3х7. (всего 63)</string>
     <string name="Gas Bottler">Газовый Заправщик</string>
     <string name="Gas Bottler_DESC">Впрыскивает сжатый газ в контейнеры. Строится в конфигурации 3х3х9. (всего 81)</string>
-    <string name="Magma Storage">Хранилище магмы</string>
+    <string name="Magma Storage">Хранилище Магмы</string>
     <string name="Magma Storage_DESC">Принимает жидкую магму от соответствующих машин через Трубы Для Жидкости.</string>
     <string name="Cryo Inferno">Криоинферно</string>
     <string name="Cryo Inferno_DESC">Радикальное решение против ползунов. Необходимо свободное пространство между Источником ползунов и устройством.</string>
@@ -1659,8 +1659,8 @@
     <string name="Airbone Particulate Compressor">Компрессор воздушных примесей</string>
     <string name="Compressed Gas Storage">Хранилище сжатого газа</string>
     <string name="Compressed Gas Bottler">Заправщик Сжатым Газом</string>
-    <string name="Compressed Magma Storage">Хранилище сжатой магмы</string>
-    <string name="Creep Inferno">Ползунное инферно</string>
+    <string name="Compressed Magma Storage">Хранилище Сжатой Магмы</string>
+    <string name="Creep Inferno">Ползунное Инферно</string>
     <string name="LaserBorer">Лазерный бурилщик</string>
     <string name="Chilled Reinforced Rock">Усиленный Морозный камень</string>
     <string name="Waypoint Machine">Отметочная Машина</string>
@@ -1774,7 +1774,7 @@
     <string name="MISSION_Critical Research Base Defence">Критическое исследование : Оборона Базы.</string>
     <string name="MISSION_Build Defence Turrets">Постройте Защитную турель.</string>
     <string name="MISSION_Critical Research SpiderBot">Ключевое исследование : ПаукоБот.</string>
-    <string name="MISSION_Build a SpiderBot Base">Постройте док-станцию ПаукоБота!</string>
+    <string name="MISSION_Build a SpiderBot Base">Постройте Док-станцию ПаукоБота!</string>
     <string name="MISSION_SpiderBot Low on Power">У ПаукоБота мало энергии!</string>
     <string name="MISSION_Fit SpiderBot Under-Blasters">Установите Бластеры на ПаукоБота!</string>
     <string name="MISSION_Fit SpiderBot Cannons">Установите Пушки на ПаукоБота!</string>
