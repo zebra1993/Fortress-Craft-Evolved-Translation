@@ -2,7 +2,7 @@
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
-    <string name="Partial_Language_Support">Salutations ! Votre langage est partiellement supporté. Si vous voulez le remettre en anglais, Vous devez appuyer sur \"English\" ci-dessous !</string>
+    <string name="Partial_Language_Support">Salutations ! Votre langue est partiellement supportée. Si vous souhaitez repasser le jeu en anglais, Vous devez appuyer sur \"English\" ci-dessous !</string>
     <string name="Translation_Incomplete">Traduction incomplète !</string>
     <string name="Language_Name">Français</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
@@ -13,37 +13,37 @@
     <string name="Not_Installed">Non Installé</string>
     <string name="Multiplayer_Sign">Multijoueur</string>
     <string name="Quit_Sign">Quitter</string>
-    <string name="World_Sign">Sélection Monde</string>
-    <string name="Create_World">Créer Monde</string>
-    <string name="Spacebar">Barre Espace</string>
+    <string name="World_Sign">Sélection du Monde</string>
+    <string name="Create_World">Création d\'un Monde</string>
+    <string name="Spacebar">Barre d\'Espace</string>
     <!-- World Creation Menu -->
-    <string name="Resource_Level">Niveau de Ressources</string>
-    <string name="Power_Level">Niveau d\'Énergie</string>
-    <string name="Conveyor_Speed">Vitesse Convoyeur</string>
+    <string name="Resource_Level">Difficulté des Ressources</string>
+    <string name="Power_Level">Difficulté de l\'Énergie</string>
+    <string name="Conveyor_Speed">Vitesse des Convoyeurs</string>
     <string name="Day_Night_Cycle">Cycle Jour/Nuit</string>
-    <string name="Mob_Difficulty">Difficulté Ennemis</string>
+    <string name="Mob_Difficulty">Difficulté des Ennemis</string>
     <string name="Death_Mode">Type de Mort</string>
-    <string name="Rush_Mode">Mode Ruée</string>
+    <string name="Rush_Mode">Contre la montre</string>
     <string name="Flatland">Terrain Plat</string>
     <string name="Care_Package">Care Package</string>
-    <string name="Survival_Options">Options de Survie</string>
-    <string name="Seed">Graine</string>
+    <string name="Survival_Options">Type de Survie</string>
+    <string name="Seed">Seed</string>
     <string name="Mode">Mode</string>
-    <string name="Select_Mods">Sélection Mods</string>
+    <string name="Select_Mods">Sélection des Mods</string>
     <string name="Back">Retour</string>
-    <string name="Mutators">Mutators</string>
+    <string name="Mutators">Mutateur</string>
 
-    <string name="Enter_World">Entrer Monde</string>
-    <string name="Reset_World">Réinitialiser Monde</string>
+    <string name="Enter_World">Lancement du Monde</string>
+    <string name="Reset_World">Réinitialiser le Monde</string>
 
 
-    <string name="Creative_New">Le mode créatif n\'a pas de limite pour construire, Détails des blocs en haute-résolution, Outils d\'édition de monde, Schémas, Plans et système de copier/coller. Il ne possède pas la plupart des éléments du mode survie et ne doit pas être pensé comme étant un mode triche pour la survie !</string>
-    <string name="Creative_Info">Ceci est un monde créatif existant, mais, malheureusement, je n\'ai pas de stats cool à vous montrer. Voulez-vous une photo de chat à la place ?</string>
+    <string name="Creative_New">Il n\'y en a pas de limite en mode Création, Détails des blocs en haute-résolution, Outils d\'édition de monde, Schémas, Plans et système de copier/coller. C\'est un peu comme un mode où la triche est autorisé, la plupart des mécaniques de survie ne sont pas présentes. Amusez-Vous !</string>
+    <string name="Creative_Info">C\'est un monde existant en mode Créatif. Cependant, je ne peut pas vous montrer de statistiques sympas ... Voulez-vous une image de chat à la place ?</string>
 
     <!-- Mod Menu -->
-    <string name="Mod_Management">Gestion Mod</string>
-    <string name="Mod_Name">Nom Mod</string>
-    <string name="Active">Active</string>
+    <string name="Mod_Management">Gestion des Mods</string>
+    <string name="Mod_Name">Nom du Mod</string>
+    <string name="Active">Actif</string>
     <string name="Version">Version</string>
     <string name="Lock">Verrouiller</string>
     <string name="Status">Statut</string>
@@ -71,13 +71,13 @@
     <string name="Normal">Normal</string>
     <string name="Eternal Night">Nuit Éternelle</string>
 
-    <string name="Trivial Mobs">Mobs Insignifiants</string>
-    <string name="Normal Mobs">Mobs Normaux</string>
-    <string name="Hard Mobs">Mobs Difficiles</string>
+    <string name="Trivial Mobs">Monstres Insignifiants</string>
+    <string name="Normal Mobs">Monstres Normaux</string>
+    <string name="Hard Mobs">Monstres Difficiles</string>
 
     <string name="None">Aucune</string>
     <string name="Clumsy">Débutant</string>
-    <string name="Iron Man">Homme de Fer</string>
+    <string name="Iron Man">Endurance</string>
     <string name="SquishCore">Infernal</string>
     <string name="Hardcore">Hardcore</string>
 
@@ -87,20 +87,20 @@
     <!-- Difficulty Readbacks -->
     <string name="Default_Settings_Info">"Les options par défaut sont faites pour être très rapides et très faciles pour les nouveaux joueurs ! Si vous voulez encore plus rapide, choisissez Jour éternel pour le cycle Jour/Nuit. Si vous voulez plus de challenge, modifiez les options selon vos envies !
 Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde et prenez note du temps indiqué  !"</string>
-    <string name="Previous_Visit">Vous avez déjà joué sur ce monde survie !</string>
+    <string name="Previous_Visit">Vous avez déjà joué sur ce monde en survie !</string>
     <string name="Play_time">Temps joué</string>
     <string name="Mod_Selected">mod sélectionné.</string>
     <string name="Mods_Selected">mods sélectionnés.</string>
-    <string name="Existing_Seed">Graine Actuelle</string>
+    <string name="Existing_Seed">Seed Actuelle</string>
 
-    <string name="Resources_Plentiful_Info">\"Ressources abondantes\" va vous donner beaucoup de ressources, et va massivement accélérer votre progression de début et de fin de jeu. C\'est un bon début les joueurs impatients et débutants.</string>
+    <string name="Resources_Plentiful_Info">\"Ressources abondantes\" va vous faciliter l\'accès aux ressources et va grandement accélérer le début et la fin de la partie. Si vous débutez, c\'est un bon point de départ.</string>
     <string name="Resources_Scarce_Info">\"Ressources Rares\" va vous donner une partie plus lente et réfléchie, avec beaucoup de temps pour explorer et optimiser votre base. Non conseillé pour les joueurs débutants !</string>
     <string name="Resources_Greg_Info">\"Greg Ressources\" va drastiquement réduire votre vitesse de progression. Celui-ci est fait pour les serveurs dédiés ou les personnes très patientes !</string>
-    <string name="Resources_Rapid_Info">\"Ressources Rapides\" est fait pour les personnes qui n\'ont pas le temps, ont des enfants, un travail, ou qui veulent bâcher le jeu en un weekend ! C\'est aussi une excellente façon pour apprendre le jeu rapidement avant de recommencer avec une difficulté plus élevée.</string>
+    <string name="Resources_Rapid_Info">\"Ressources Rapides\" est fait pour les personnes qui n\'ont pas le temps, ont des enfants, un travail, ou qui veulent découvrir le jeu sur un weekend ! C\'est aussi une excellente façon pour apprendre les bases rapidement avant de vous attaquer aux difficultés plus élevées.</string>
 
 
-    <string name="Conveyor_Slow_Info">Les \"Convoyeurs Lents\" sont bien équilibrés, et incitent à passer sur des convoyeurs de tier plus élevé. Cette option va rendre la progression beaucoup plus lente.</string>
-    <string name="Conveyor_Fast_Info">Les \"Convoyeurs Rapides\" permettent d\'attendre moins. Ils sont deux fois plus rapides que les convoyeurs lents.</string>
+    <string name="Conveyor_Slow_Info">Les \"Convoyeurs Lents\" sont bien équilibrés, et incitent à passer sur des convoyeurs de technologie plus élevé. Cette option va rendre la progression beaucoup plus lente.</string>
+    <string name="Conveyor_Fast_Info">Les \"Convoyeurs Rapides\" réduisent l\'attente. Ils sont deux fois plus rapides que les convoyeurs lents.</string>
 
     <string name="Plentiful_Power_Info">Une énergie abondante va grandement améliorer la génération d\'énergie de toute les sources. Cela va grandement affecter la vitesse de début de jeu.</string>
     <string name="Scarce_Power_Info">Une \"Énergie Rare\" va équilibrer votre génération d\'énergie. Cela va ralentir la progression en début de jeu.</string>
@@ -524,10 +524,10 @@ Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde e
     <string name="Ruined Phosphorescent Glands">Glande Phosphorescentes Abîmées</string>
     <string name="Perfect Faceted Eye">Œil à Facettes Pur</string>
     <string name="Perfect Faceted Eyes">Yeux à Facettes Purs</string>
-    <string name="Massive Faceted Eye">Œil à Facettes Énorme</string>
-    <string name="Massive Faceted Eyes">Yeux à Facettes Énormes</string>
-    <string name="Hive Brain Matter">Substance du Cerveau-Ruche</string>
-    <string name="Research Parts">Parties de Recherche</string>
+    <string name="Massive Faceted Eye">Œil à Facettes Massif</string>
+    <string name="Massive Faceted Eyes">Yeux à Facettes Massifs</string>
+    <string name="Hive Brain Matter">Matière Grise de Ruche</string>
+    <string name="Research Parts">Composants de Recherche</string>
     <string name="Refined Liquid Resin">Résine Liquide Raffinée</string>
     <string name="Spoiled Organic Remains">Restes Organiques Pourris</string>
     <string name="Recombined Organic Matter">Matière Organique Recombinée</string>
@@ -1375,7 +1375,7 @@ Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde e
     <string name="Crystal Clock Maker_DESC">Crée une horloge faite de cristal. À utiliser pour faire fonctionner l’électronique à une vitesse précise.</string>
     <string name="OverClocker">OverClocker</string>
     <string name="OverClocker_DESC">Utilise de grosses quantités d\'énergie pour Overclocker soigneusement les Horloges de Cristal. S\'utilise dans les machines de fin.</string>
-    <string name="Crystal Coal Infuser">Infuseur de Cristal dans Charbon</string>
+    <string name="Crystal Coal Infuser">Infuseur de Cristal au Charbon</string>
     <string name="Crystal Coal Infuser_DESC">Infuseur du charbon enrichi avec du cristal.</string>
     <string name="Fuel Canister Crafter">Constructeur de Cartouches à Carburant</string>
     <string name="Fuel Canister Crafter_DESC">Utilise un seul tuyau en fer pour faire une Cartouche de Carburant Vide.</string>
