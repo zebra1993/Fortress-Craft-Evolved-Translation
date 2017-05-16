@@ -1,3 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="CR.01Welcome.Title">Guide de démarrage</string>
+<string name="CR.01Welcome.00.Title">Bienvenu dans FortressCraft Evolved</string>
+<string name="CR.01Welcome.01.Header">Mode Créative</string>
+<string name="CR.01Welcome.02.Paragraph">Bienvenu dans notre mode créative ! Les contrôle sont ci-dessous, Le guide pour les outils est sur la page suivante.</string>
+<string name="CR.01Welcome.03.Header">Contrôles</string>
+<string name="CR.01Welcome.04.Left">"W,A,S,D : ce déplacer
+Espace : Sauter
+Espace x 2 : activer le mode JetPack
+Q : Voler plus bas
+Maj : Boost
+Toucher le sol pour désactiver
+Echap : Menu pause
+H :  Ecran d\'aide"</string>
+<string name="CR.01Welcome.05.Right">Z : Zoomer
+X : Fusil de construction
+C : Bâton météo
+N : Pistolet à peinture
+F10 :Entrer en mode super construction
+F11 : Entrer en mode copier/coller
+= : Écran de sélection de bloc
+F1-F7 : Sélection d\'attache rapide
+1-10 : Sélection d\'emplacement rapide</string>
+<string name="CR.01Welcome.06.Paragraph">Clique gauche : Construire/Fonction principale de l\'outil
+Clique droit : Supprimer/Fonction alternative de l\'outil
+Clique molette : Bloc échantillon actuelle
+Molette : Suivant/Précédent bloc ou fonction cycle de l\'outil
+CTRL + Clique gauche : Construire jusqu’à moi
+CTRL + Clique droit : Super construction</string>
+<string name="CR.01Welcome.07.Title">Outil de construction créative</string>
+<string name="CR.01Welcome.08.Paragraph">Dans FortressCraft Evolved, vous avez plusieurs outil puissant pour construction en créative. Plus bas nous allons décrire brièvement chaque outil et dans le futur fournir un lien pour un guide spécifique de chaque outil.</string>
+<string name="CR.01Welcome.09.Header">Fusil de construction</string>
+<string name="CR.01Welcome.10.Paragraph">Quand le fusil de construction est utilisé (sélectionner en appuyant sur \"X\"), Le clique gauche construis le bloc sélectionner et le clique droit les supprime. Vous avez une long portée, vous pouvez construire des bloc a 64m de distance.</string>
+<string name="CR.01Welcome.11.Header">Super creusage</string>
+<string name="CR.01Welcome.12.Paragraph">Maintenir CTRL pendant que vous creuser activera le mod super creusage. Cela va grandement augmenter la vitesse de minage, ce qui est bien pour rapidement faire de la place. Faite attention ou vous viser il est très facile d’accidentellement creuser votre travaille.</string>
+<string name="CR.01Welcome.13.Header">Construis jusqu\'à moi</string>
+<string name="CR.01Welcome.14.Paragraph">Maintenir CTRL pour activer \"construis jusqu\'à moi\". le bloc sélectionner va être construis et va faire face à votre position dans une ligne droite.</string>
+<string name="CR.01Welcome.15.Header">L’atelier</string>
+<string name="CR.01Welcome.16.Paragraph">L\'atelier est l\'outil le plus puissant dans l\'arsenal de FortressCrat Evolved pour construire des création détaillé.Vous pouvez concevoir vos propre bloc par construire des modèles à grande échelle qui diminuent jusqu\'à la taille d\'un bloc.
+L\'atelier peut être construit n\'importe ou dans le monde. pour en faire un, commencer par ouvrir le panneau de sélection des blocs (presse \"=\") et sélectionner le bloc de placement d\'atelier :</string>
+<string name="CR.01Welcome.17.Paragraph">Puis vous choisissez un emplacement pour construire l\'atelier. Pour définir un atelier vous avez besoin de seulement 2 blocs atelier. Vous les placer de façon à qu\'il soi dans les coins opposer et sur le sol ou vous voulez que l\'atelier soit. Pour faire ça des instruction simple :</string>
+<string name="CR.01Welcome.18.Paragraph">1. Choisissez une zone plate. Placer le premier bloc de placement d\'atelier.</string>
+<string name="CR.01Welcome.19.Paragraph">2. De la, déplacer vous diagonalement dans n\'importe qu\'elle direction tout en rester au même niveau.</string>
+<string name="CR.01Welcome.20.Paragraph">3. Placer le deuxième bloc ou vous voulez qu\'un autre coin de l\'atelier soit.</string>
+<string name="CR.01Welcome.21.Paragraph">4. Si les 2 blocs sont en diagonale et à moin de 7 blocs l\'un de l\'autre, un atelier sera crée utilisant de la pierre et du bois renforcé</string>
+<string name="CR.01Welcome.22.Paragraph">L\'atelier peut être construis en taille allant de 2x2 (deux bloc en diagonale) à 8x8 (6 blocs vide entre le premier et le second bloc).</string>
 </resources>
