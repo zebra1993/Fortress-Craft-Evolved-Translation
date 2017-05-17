@@ -2726,7 +2726,7 @@ Each vat contains many electrical conduits as well as many transport pipes. Beca
 <string name="MA.Space_Window.01.Paragraph">Perusrakennusmateriaali jota voidaan tehdä kaikialla tarvitsematta valmistusaseman palveluja. Avaa itsevalmistuskäyttöliittymä (oletus \'C\') valmistaaksesi näitä.</string>
 <string name="MA.SpaceWindow.00.Title">Space Window</string>
 <string name="MA.SpaceWindow.01.Paragraph">A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default 'C') to manufacture these.</string>
-<string name="MA.SpiderBotBaseComponent.00.Title">SpiderBot-tukikohta</string>
+<string name="MA.SpiderBotBaseComponent.00.Title">Robohäkkitukikohta</string>
 <string name="MA.SpiderBotBaseComponent.01.Paragraph">"SpiderBot-tukikohta on ensisijainen tapa vuorovaikuttaa liikkuvan tukikohdanpuolustusrobottisi kanssa. Tuttavallisemmin tunnetaan myös SpiderBro:na tai Henriettana riippuen kumman sukupuolen olet valinnut.
 
  Kaikki Spiderbot virta ja päivitykset toimitetaan Spiderbot-tukikohtaan logistisilla hypyttimillä. Jokainen liitetty hypytin pystyy toimittamaan 1 esineen joka 1,2 sekuntti. Käytä paljon sivun tilaa maksiminopeuden saavuttamiseksi.
@@ -2738,16 +2738,16 @@ Each vat contains many electrical conduits as well as many transport pipes. Beca
  Vain yksi jokaista asepäivitystä tarvitaan; kopiot jätetään huomiotta.
  "</string>
 <string name="MA.SpiderBotBaseComponent.02.Title">Saatavilla olevat asennettavat päivitykset</string>
-<string name="MA.SpiderBotBlaster.00.Title">SpiderBot-pyssy</string>
+<string name="MA.SpiderBotBlaster.00.Title">Robohäkkipyssy</string>
 <string name="MA.SpiderBotBlaster.01.Paragraph">Tämä alta-ammuttava ase tähtää yhteen viholliseen ja antaa pienen määrän sarjatulipuolustusta nopeasti liikkuvia pieniä kohteita vastaan. Ole tietoinen että tämän asentaminen voi aiheuttaa suurta vahinkoa pintakerrokselle. Ole varautunut sota-alueeseen ennen kuin asennat tämän tuhotoosan!</string>
 <string name="MA.SpiderBotBlaster.02.Header">Vain yhden asentaminen on tarpeellista!</string>
-<string name="MA.SpiderBotCannon.00.Title">SpiderBot-kanuunat</string>
+<string name="MA.SpiderBotCannon.00.Title">Robohäkkikanuunat</string>
 <string name="MA.SpiderBotCannon.01.Paragraph">Tämä pari etuliitettyjä kanuunoita pystyy hoitelemaan keskikokoiset ja isot kohteet. Ne tähtäävät itsenäisesti ja älykkäästi jättävät pienet kohteet huomiotta keskittyen isompiin panssaroituihin kohteisiin.</string>
 <string name="MA.SpiderBotCannon.02.Header">Vain yhden asentaminen on tarpeellista - ne tulevat kokonaisuutena!</string>
 <string name="MA.SpiderBotParticleRifle.00.Title">SpiderBot Particle Rifles</string>
 <string name="MA.SpiderBotParticleRifle.01.Paragraph">This pair of shoulder-mounted particle rifles are capable of dealing heavy damage to the very largest of targets. They are independently targetting, and will intelligently ignore smaller targets and focus on boss-class mobs.</string>
 <string name="MA.SpiderBotParticleRifle.02.Header">You only need to craft and fit one of these - they come as a set!</string>
-<string name="MA.SpiderBotRifle.00.Title">SpiderBot-hiukkaskivääri</string>
+<string name="MA.SpiderBotRifle.00.Title">Robohäkkihiukkaskivääri</string>
 <string name="MA.SpiderBotRifle.01.Paragraph">Tämä pari olkaliitettyjä hiukkaskiväärejä pystyy tuottamaa raskasta vahinoa suurimpiin kohteisiin. Ne tähtäävät itsenäisesti ja älykkästi ohittavat pienet kohteet keskittyen pomo-luokan kohteisiin.</string>
 <string name="MA.SpiderBotRifle.02.Header">Vain yksi tarvitaan - ne tulevat kokonaisuutena!</string>
 <string name="MA.Stamper_Plant.00.Title">Leimasinasema</string>
