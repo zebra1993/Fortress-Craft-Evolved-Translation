@@ -800,7 +800,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Reinforced Concrete Wall">Verstärkte Betonwand</string>
     <string name="Reinforced Concrete Wall_DESC"/>
     <string name="Lava">Lava</string>
-    <string name="Lava_DESC"/>
+    <string name="Lava_DESC">Lava, schmiltzt alles was reinfällt. Ausser Blöcke</string>
     <string name="Scorched Earth">Verbrannte Erge</string>
     <string name="Scorched Earth_DESC"/>
     <string name="Metal Siding 2">Metal Gehsteig 2</string>
@@ -1558,7 +1558,7 @@ Sehr Energie hungrig!</string>
     <string name="CargoLiftController">Warenliftsteuerung</string>
     <string name="CargoLiftController_DESC"/>
     <string name="Rack Rail">Zahnstange</string> <!-- Zahnschiene? -->
-    <string name="Rack Rail_DESC"/>
+    <string name="Rack Rail_DESC">Zahnstange</string>
     <string name="Mass Storage IO Port">Massenlager Ein-/ Ausgang</string>
     <string name="Mass Storage IO Port_DESC">Ein-/Ausgangsport mit großem Durchsatz</string>
     <string name="Basic Mass Storage Stocking Port">Einfacher Massenlager einstellbarer Eingang</string><!-- Not optimal, should be changed or better MUST-->
