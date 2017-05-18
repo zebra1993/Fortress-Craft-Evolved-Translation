@@ -815,4 +815,17 @@ Beschleinigung
 <string name="MA.FastMinecart.07.Paragraph">Sind die Loren erst einmal auf den Schienen werden diese an den Lade- und Entladestationen halten und dort ihre Ressourcen ein- bzw. ausladen.</string>
 <string name="MA.FastMinecart.08.Title">Erweiterte Lorenkontrolle</string>
 <string name="MA.FastMinecart.09.Paragraph">Für eine genauere Steuerung deiner Loren hast du unterschiedliche Werkzeuge zur Verfügung, vom Ladeverhalten bis hin zur Entscheidungsfindung.</string>
+<string name="MA.Fortified_PCB.01.Paragraph">Nickelbasierende Leiterplatte die aus Nickelspuhlen in einer Leiterpalttenfertigung hergestellt wird.</string>
+<string name="MA.Freezon_Injector.01.Paragraph">Freezon Injektoren nutzen Freezonkanister um Kompatiblemaschienen massizu verbessern.</string>
+<string name="MA.Freezon_Injector.03.Left">"Geothermalgeneratoren
+Energielanzen
+Harzschleife
+Harzverflüssiger
+ "</string>
+<string name="MA.Freezon_Injector.04.Right">10x Energieerzeugung
+28x Räumgeschwindigkeit
+54x Arbeitsrate
+54x Arbeitsrate</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">Fusionsbohrantrieb</string>
+<string name="MA.Garbage_Thief.01.Paragraph">Der Cyberdyne Abfalldieb (oder Dreckwegräumdieb wie ihn einige nennen) ist einfach und ist ein Erzdieb welcher neu programmiert wuerde Abfall aus dem Inventar zu entfernen und nicht Erze. Diese Mascheine</string>
 </resources>
