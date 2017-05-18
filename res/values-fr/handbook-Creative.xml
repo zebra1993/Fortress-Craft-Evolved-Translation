@@ -44,4 +44,18 @@ L\'atelier peut être construit n\'importe ou dans le monde. pour en faire un, c
 <string name="CR.01Welcome.20.Paragraph">3. Placer le deuxième bloc ou vous voulez qu\'un autre coin de l\'atelier soit.</string>
 <string name="CR.01Welcome.21.Paragraph">4. Si les 2 blocs sont en diagonale et à moin de 7 blocs l\'un de l\'autre, un atelier sera crée utilisant de la pierre et du bois renforcé</string>
 <string name="CR.01Welcome.22.Paragraph">L\'atelier peut être construis en taille allant de 2x2 (deux bloc en diagonale) à 8x8 (6 blocs vide entre le premier et le second bloc).</string>
+<string name="CR.01Welcome.23.Header">Crée un bloc détailler dans l\'atelier</string>
+<string name="CR.01Welcome.24.Paragraph">Une fois que vous avez construit votre premier atelier, Rentrez dedans pour commencer votre premier bloc détailler.Quand vous êtes dans le Workshop, Deux choses arrive : Le contour de l\'atelier s\'illumine avec des particules étincelantes, et la superposition de l\'atelier apparaît.</string>
+<string name="CR.01Welcome.25.Paragraph">Il y a certaine touches qui sont utiliser pour sélectionner des fonctions de l\'atelier :
+Y : Commencer un nouveau plan
+U : Utiliser actuel
+I : Montrer les détail de la fenêtre
+O : Montrer la fenêtre du comportement
+[ : Plan précédent
+] : plan suivant</string>
+<string name="CR.01Welcome.26.Paragraph">Quand vous entrez dans un atelier, un nouveau plan est crée automatiquement, appuyer sur \"Y\" va faire qu\'elle que chose seulement quand vous aurez crée votre premier plan.</string>
+<string name="CR.01Welcome.27.Paragraph">Pour concevoir votre premier bloc détailler, commencer simplement par construire à l\'intérieure de la zone désigné dans l\'atelier. Les murs fait de bois renforcé vont être la façade de votre bloc. Vous pouvez utiliser le bloc que vous voulez pour le plan, cependant n\'importe qu\'elle bloc aillant un model ne sera pas montré dans les détails du bloc. Les blocs peins vont rester peins.</string>
+<string name="CR.01Welcome.28.Paragraph">Une fois que vous êtes content de votre plan, quitter l\'atelier pour le sauvegarder et crée le bloc détaillé pour construire avec. Pour le sélectionner, ouvrez votre fenêtre de sélection de bloc (\"=\") et sélectionner votre nouveau plan dans la barre de sélection rapide. Vous pouvez rapidement trouver tout les détailles des blocs désigné en filtrant \" Bloc désigné\" dans la liste des filtres. Vous pouvez maintenant commencer un nouveau plan dans l\'atelier en pressant \"Y\", ou en construisant un nouveau atelier. Vous pouvez avoir 16384 bloc détaillé dans un monde !</string>
+<string name="CR.01Welcome.29.Header">Place blocs détailler</string>
+<string name="CR.01Welcome.30.Paragraph">Pour placer un bloc détaillé, Construisez le comme n\'importe qu\'elle bloc. Le plan va s\'attacher à la face que vous avez sélectionner, et va être tourner pour faire face à vous. Cela va vous permettre de placer les blocs détaillé dans l\'orientation que vous voulez.</string>
 </resources>
