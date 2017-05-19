@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Здравствуйте! Ваш язык поддерживается лишь частично. Если хотите перейти на Английский, нажмите кнопку \"Английский\" снизу!</string>
-    <string name="Installed">Установлено</string>
+    <string name="Installed">Есть</string>
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Английский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
     <string name="Dapper_Pack">Щегольский комплект</string>
-    <string name="Not_Installed">Не установлено</string>
+    <string name="Not_Installed">Нет</string>
     <string name="Multiplayer_Sign">&lt;Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
     <string name="Create_World">Создать Мир</string>
@@ -31,7 +31,7 @@
     <string name="Mod_Name">Название Мода</string>
     <string name="Active">Активен</string>
     <string name="Version">Версия</string>
-    <string name="Lock">Блокировка</string>
+    <string name="Lock">Блок.</string>
     <string name="Status">Статус</string>
     <string name="Workshop">Мастерская</string>
 
@@ -40,7 +40,7 @@
 
     <string name="On">Вкл.</string>
     <string name="Off">Выкл.</string>
-    <string name="Locked">Заблокировано</string>
+    <string name="Locked">Блокировано</string>
 
     <string name="Scarce">Скудно</string>
     <string name="Greg">Грег</string>
@@ -67,8 +67,8 @@
     <string name="Survival">Выживание</string>
     <string name="Creative">Творчество</string>
 
-    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё больше ускорить развитие игрока - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
-Помните, что эти настройки ЗАБЛОКИРОВАНЫ когда ваш Мир запущен, и обратите внимание на ожидаемое время по критическим событиям!</string>
+    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
+Помните, что настройки будут ЗАФИКСИРОВАНЫ, когда ваш Мир будет создан, и обратите внимание на ожидаемое время по критическим событиям!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
     <string name="Mod_Selected">мод выбран.</string>
@@ -89,7 +89,7 @@
     <string name="Day_Night_Info">Нормальный цикл смены дня и ночи длится 24 минуты. В течение 12 минут темноты вы будете страдать от резкого падения температуры, увеличенной агрессии противников и уменьшенной видимости.</string>
     <string name="Eternal_Night_Info">Вечная Ночь - это отсутствие дневной передышки от замерзания и доступа к солнечной энергии; включая ваш ЦУП. Это серьёзное испытание.</string>
 
-    <string name="Death_Default_Info">Это режим по-умолчанию. Нет штрафов за смерть, за исключением низкого уровня здоровья и длинных прогулок. Делает игру исключительно лёгкой, отсутствуют штрафы за любые виды смерти.</string>
+    <string name="Death_Default_Info">Это режим по умолчанию. Нет штрафов за смерть, за исключением низкого уровня здоровья и длинных прогулок. Делает игру исключительно лёгкой, отсутствуют штрафы за любые виды смерти.</string>
     <string name="Death_Clumsy_Info">Неуклюжий режим подойдёт, если вам нужна хорошая причина, чтобы постараться не умереть! Вы будете выбрасывать содержимое инвентаря во время смерти!</string>
     <string name="Death_Ironman_Info">НЕ ДЛЯ НОВИЧКОВ!
 Режим \"Железный Человек\" - только для храбрых, тупых или упёртых. Умирая, Вы будете НАВСЕГДА ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
@@ -103,7 +103,7 @@
     <string name="Flatland_Disabled">Плоский режим отключен.</string>
     <string name="Flatland_Enabled">Делает ландшафт плоским - отсюда и название!</string>
 
-    <string name="Needs_FF">Требуется дополнение \"Морозная Фабрика\".</string>
+    <string name="Needs_FF">Требуется дополнение \"Морозная Фабрика\" (Frozen Factory).</string>
 
     <string name="Care_Package_Enabled">Гуманитарная помощь включена! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку В3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма. Халява! .</string>
 
@@ -165,11 +165,11 @@
     <string name="Titanium Bars">Титановые слитки</string>
     <string name="Rushmode_Enabled">Режим спешки включен! Этот режим потребует от вас за минимальное время построить и полностью зарядить Орбитальный Передатчик Энергии! В этом режиме выработка энергии увеличивается в 10 раз, а добыча и переплавка руды в 5 раз. Враги также появляются намного чаще...</string>
 
-    <string name="Organic Cutter Head">Органическая Режущая Головка</string>
-    <string name="Plasma Cutter Head">Плазменная Режущая Головка</string>
+    <string name="Organic Cutter Head">Органическая Фреза</string>
+    <string name="Plasma Cutter Head">Плазменная Фреза</string>
     <string name="Location Marker">Метка Местоположения</string>
     <string name="Glow Stick">Светящаяся Палочка</string>
-    <string name="Glow Sticks">Светящиеся Палочки</string>
+    <string name="Glow Sticks">Светящихся Палочек</string>
     <string name="Chargeable Explosive">Заряжаемая Взрывчатка</string>
     <string name="Chargeable Explosives">Заряжаемая Взрывчатка</string>
     <string name="Basic Experimental Pod">Базовая Экспериментальная Ячейка</string>
@@ -224,13 +224,13 @@
     <string name="Server_Management">Управление Сервером</string>
     <string name="Game_Mode">Режим Игры</string>
     <string name="Titanium Wires">Титановые Провода</string>
-    <string name="Steel Cutter Head">Стальная Режущая Головка</string>
-    <string name="Crystal Cutter Head">Кристаллическая Режущая Головка</string>
+    <string name="Steel Cutter Head">Стальная Фреза</string>
+    <string name="Crystal Cutter Head">Кристаллическая Фреза</string>
     <string name="Blank Ore Ping">Пустой Рудный Пробник</string>
     <string name="Blank Ore Pings">Пустые Рудные Пробники</string>
     <string name="Coal Ping">Пробник Угля</string>
     <string name="Seed">Зерно</string>
-    <string name="Existing_Seed">Текущее Зерно генерации</string>
+    <string name="Existing_Seed">Текущее Зерно</string>
 
     <string name="TriSeed">Тризерн</string>
     <string name="OrbitalPar">Ожидаемое время Орбитальной Зарядки</string>
@@ -388,8 +388,8 @@
     <string name="ARTHER Power Panel">Энергетическая панель АРЧЕРа</string>
     <string name="ARTHER Battery Core">Батарея АРЧЕРа</string>
     <string name="ARTHER Battery Cores">Батареи АРЧЕРа</string>
-    <string name="ARTHER Upgrade Pack">Модуль обновления АРЧЕРа</string>
-    <string name="ARTHER Upgrade Packs">Модули обновления АРЧЕРа</string>
+    <string name="ARTHER Upgrade Pack">Набор Улучшений АРЧЕРа</string>
+    <string name="ARTHER Upgrade Packs">Наборов Улучшений АРЧЕРа</string>
     <string name="ARTHER Dapper Hat">Щегольская шляпа АРЧЕРа</string>
     <string name="ARTHER Dapper Hats">Щегольские шляпы АРЧЕРа</string>
     <string name="ARTHER Dapper Monocle">Щегольский монокль АРЧЕРа</string>
@@ -398,8 +398,8 @@
     <string name="ARTHER Dapper Moustaches">Щегольские усы АРЧЕРа</string>
     <string name="ARTHER Dapper Pack">Щегольский набор АРЧЕРа</string>
     <string name="ARTHER Dapper Packs">Щегольские наборы АРЧЕРа</string>
-    <string name="ARTHER Dapper Upgrade Pack">Обновление Щегольского набора АРЧЕРа</string>
-    <string name="ARTHER Dapper Upgrade Packs">Обновления Щегольского набора АРЧЕРа</string>
+    <string name="ARTHER Dapper Upgrade Pack">Щегольское Усовершенствование АРЧЕРа</string>
+    <string name="ARTHER Dapper Upgrade Packs">Щегольских Усовершенствований АРЧЕРа</string>
     <string name="ARTHER Ghost Costume">Костюм призрака АРЧЕРа</string>
     <string name="ARTHER Ghost Costumes">Костюмы призрака АРЧЕРа</string>
     <string name="ARTHER Skeleton Mask">Маска скелета АРЧЕРа</string>
@@ -511,7 +511,7 @@
     <string name="Perfect Faceted Eyes">Идеальные фасетчатые глаза</string>
     <string name="Massive Faceted Eye">Огромный Фасетчатый Глаз</string>
     <string name="Massive Faceted Eyes">Огромные фасетчатые глаза</string>
-    <string name="Hive Brain Matter">Мозговое Вещество Роя</string>
+    <string name="Hive Brain Matter">Мозг Разума Роя</string>
     <string name="Research Parts">Исследовательские детали</string>
     <string name="Refined Liquid Resin">Очищенная Жидкая Смола</string>
     <string name="Spoiled Organic Remains">Испорченные органические останки</string>
@@ -1190,7 +1190,7 @@
     <string name="Zipper Merge_DESC">Объединяет два потока в один в соотношении 50:50.</string>
     <string name="3'n1 Zipper Merge">Объединитель 3-в-1</string>
     <string name="3'n1 Zipper Merge_DESC">Быстро объединяет два потока в один в следующем порядке: Правый, Правый, Правый, Левый. Превращает задачу подачи ресурсов для Исследовательских модулей в сущий пустяк!</string>
-    <string name="Rapid Zipper Merge">Быстрый объединитель</string>
+    <string name="Rapid Zipper Merge">Быстрый Объединитель</string>
     <string name="Rapid Zipper Merge_DESC">Быстро объединяет два потока в один в соотношении 50:50.</string>
     <string name="Fusion Reactor Pylon">Опора термоядерного реактора</string>
     <string name="Fusion Reactor Pylon_DESC">" "</string>
@@ -1218,7 +1218,7 @@
     <string name="Plasma Head Charger_DESC">Наполняет Стальные головки энергией.</string>
     <string name="Pipe Coater">Установка Покрытия Труб</string>
     <string name="Pipe Coater_DESC">Создаёт теплопроводящие трубы.</string>
-    <string name="Mesh Weaver">Плетельщик Сетей</string>
+    <string name="Mesh Weaver">Сетеплёт</string>
     <string name="Mesh Weaver_DESC">Плетёт сети из кристаллических волокон.</string>
     <string name="Empty Missile Assembler">Сборщик пустых ракет</string>
     <string name="Empty Missile Assembler_DESC">Создаёт Пустые ракеты из высокоэнергетического композитного топлива, медных труб и золотых проводов.</string>
@@ -1432,7 +1432,7 @@
     <string name="Alloyed Block Assembler_DESC">Легирует золотом Упрочненные машинные блоки.</string>
     <string name="HardenedBlock Assembler">Сборщик Упрочнённых блоков</string>
     <string name="HardenedBlock Assembler_DESC">Использует Никель и Титан для создания Упрочнённых блоков.</string>
-    <string name="Construction Paste Grinder">Дробилка Строительной Пасты</string>
+    <string name="Construction Paste Grinder">Пастомешалка</string>
     <string name="Construction Paste Grinder_DESC">Измельчает \"мусорные\" блоки для получения Строительной Пасты.</string>
     <string name="Cluster Missile Crafter">Сборщик Кластерных ракет</string>
     <string name="Cluster Missile Crafter_DESC">Превращает одну Плазменную ракету в 8 скоростных кластерных ракет, каждая из которых наносит 1/4 от исходного урона. В общем итоге урон исходной ракеты удваивается.</string>
@@ -1478,7 +1478,7 @@
     <string name="Casting Basin component">Компонент Машины непрерывного литья</string>
     <string name="Casting Basin component_DESC">Формирует Машину непрерывного литья при установке в конфигурации 5х5х3. (Всего 75 шт.)</string>
     <string name="Cargo Lift Controller">Контроллер Грузового Лифта</string>
-    <string name="Ore Thief">Рудосборник</string>
+    <string name="Ore Thief">Рудокрад</string>
     <string name="Ore Thief_DESC">Не имеет значения.</string>
     <string name="Induction Charger">Индукционный Зарядник</string>
     <string name="Induction Charger_DESC">Не имеет значения.</string>
@@ -1505,7 +1505,7 @@
     <string name="Magma Storage_DESC">Принимает жидкую магму от соответствующих машин через Трубы Для Жидкости.</string>
     <string name="Cryo Inferno">КриоИнферно</string>
     <string name="Cryo Inferno_DESC">Радикальное решение против ползунов. Необходимо свободное пространство между Источником ползунов и устройством.</string>
-    <string name="Garbage Thief">Мусоросборник</string>
+    <string name="Garbage Thief">Мусорокрад</string>
     <string name="Garbage Thief_DESC">Не имеет значения.</string>
     <string name="Rack Rail_DESC">" "</string>
     <string name="Rack Rail">Зубчатые Рельсы</string>
@@ -1544,7 +1544,7 @@
     <string name="Bomber FALCOR_DESC">Бросает бомбы в густые отростки Ползуна. Большая дальность.</string>
     <string name="Freezon Injector">Фризоновый Инжектор</string>
     <string name="Freezon Injector_DESC">Использует канистры с Фризоном для повышения производительности ряда машин.</string>
-    <string name="Ruined Organic Thief">Сломанный Вор органики</string>
+    <string name="Ruined Organic Thief">Сломанный Органикрад</string>
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал У4</string>
     <string name="T4 Power Conduit_DESC">" "</string>
@@ -1579,7 +1579,7 @@
     <string name="Trencher Drill Mk2 component_DESC">Улучшенный траншейный бур. Строится так же, как и версия МК1.</string>
     <string name="Trencher Drill Mk3 component">Компонент Траншейного бура МК3</string>
     <string name="Trencher Drill Mk3 component_DESC">Значительно улучшенный траншейный бур. Строится так же, как и версия МК1.</string>
-    <string name="Auto Organic Thief">Автовор органики</string>
+    <string name="Auto Organic Thief">Органикрад</string>
     <string name="Auto Organic Thief_DESC">Автоматически забирает испорченную органику из инвентаря.</string>
     <string name="Laser Borer">Лазерный бур</string>
     <string name="Laser Borer_DESC">МЛБУ - Мощное лазерное бурильное устройство. Быстро создаёт шахту 3x3 по направлению к центру Холодных пещер. Строить в конфигурации 3x3x3.</string>
@@ -1634,7 +1634,7 @@
     <string name="Power">Энергия</string>    <string name="Drill_Stuck">Бур застрял</string>
     <string name="Offline_Warning">Отключение!</string>
     <string name="Cant_Dig">нельзя рыть.</string>
-    <string name="Fit_Head">Установите бур получше!</string>
+    <string name="Fit_Head">Установите Фрезу получше!</string>
     <string name="OE_Searching">Ищу руду...</string>
     <string name="Next">След.</string><string name="In">через</string><string name="Total_Stored">Всего</string>
     <string name="Drill_Rate">Скорость бурения</string>
@@ -1642,13 +1642,13 @@
     <string name="Ore_Per_Min">ед. в минуту</string>
     <string name="Demand">Требуется</string>
     <string name="PPS">Э/с</string><string name="Power_Per_Second">Энерг. в секунду</string>
-    <string name="Efficiency">Производительность</string>
-    <string name="Work_Efficiency">Рабочая Производительность</string>
+    <string name="Efficiency">Эффект-сть</string>
+    <string name="Work_Efficiency">Эффект-сть</string>
     <string name="Q_Reset">(Q для сброса)</string>
     <string name="Average_PPS">Средн. Э/с</string>
     <string name="Economy_Drill_Motor">Экономичный буровой привод</string>
-    <string name="Standard_Cutter_Head">Стандартная режущая головка</string>
-    <string name="Add_Power">Добавить энергию</string>
+    <string name="Standard_Cutter_Head">Стандартная Фреза</string>
+    <string name="Add_Power">Доб. энергию</string>
     <string name="Click_UG">Щелкните по иконке, чтобы улучшить</string>
     <string name="Mining">Добыча</string>
     <string name="Upgrade_Drill_Head">Улучшить
@@ -1772,7 +1772,7 @@
     <string name="MISSION_Travel Deeper to locate Iron Ore">Копайте глубже чтобы найти Железную Руду.</string>
     <string name="MISSION_Critical Research Local Life Forms">Критическое исследование : Местные формы жизни.</string>
     <string name="MISSION_Critical Research Base Defence">Критическое исследование : Оборона Базы.</string>
-    <string name="MISSION_Build Defence Turrets">Постройте Защитную турель.</string>
+    <string name="MISSION_Build Defence Turrets">Постройте Турель для защиты.</string>
     <string name="MISSION_Critical Research SpiderBot">Ключевое исследование : ПаукоБот.</string>
     <string name="MISSION_Build a SpiderBot Base">Постройте Док-станцию ПаукоБота!</string>
     <string name="MISSION_SpiderBot Low on Power">У ПаукоБота мало энергии!</string>
@@ -2231,7 +2231,7 @@
     <string name="Geothermal Generator comp._CRAFT_DESC">Геотермальный Генератор</string>
     <string name="Geothermal Generator comp._CRAFT_HINT">Геотермальный Генератор</string>
     <string name="Hard Rock Grinder_CRAFT_DESC">Дробилка Твердой Породы</string>
-    <string name="Hard Rock Grinder_CRAFT_HINT">Дробилка Твердой Породы</string>
+    <string name="Hard Rock Grinder_CRAFT_HINT">" "</string>
     <string name="ARTHER Goblin Mask_CRAFT_DESC">АРЧЕР маска Гоблина</string>
     <string name="ARTHER Goblin Mask_CRAFT_HINT">АРЧЕР маска Гоблина</string>
     <string name="ARTHER Santa Mask_CRAFT_DESC">АРЧЕР маска Санты</string>
@@ -2361,7 +2361,7 @@
     <string name="MISSION_Locate Hardened Resin">Найдите : Твердую Смолу.</string>
     <string name="MISSION_Build Research Assembler">Постройте Исследовательский Сборщик.</string>
     <string name="MISSION_Build a Threat Scanner">Постройте Сканер угроз.</string>
-    <string name="MISSION_Build an Ore Thief">Постройте Рудосборник.</string>
+    <string name="MISSION_Build an Ore Thief">Постройте Рудокрад.</string>
     <string name="MISSION_Critical Research Mining Upgrades">Критическое Исследование : Улучшение добычи.</string>
     <string name="MISSION_Critical Research Automation">Критическое Исследование : Автоматизация.</string>
     <string name="MISSION_Fit a Suit Heater">Установите Обогреватель Костюма.</string>
