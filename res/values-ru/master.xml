@@ -26,7 +26,7 @@
     <string name="Reset_World">Сброс Мира</string>
 
 
-    <string name="Creative_New">Режим Творчества даёт неограниченную возможность строить что угодно, использовать высокодетализированные строительные блоки и инструменты для редактирования мира, чертежи и систему быстрого копирования и вставки. В этом режиме не представлены основные моменты Выживания, так что не стоит считать его \"читерским\" по отношению к последнему!</string>
+    <string name="Creative_New">Режим Творчества даёт неограниченную возможность строить что угодно, использовать детальные блоки с высоким разрешением и инструменты для редактирования мира, чертежи и систему быстрого копирования и вставки. В этом режиме не представлены основные моменты Выживания, так что не стоит считать его \"читерским\" по отношению к последнему!</string>
     <string name="Mod_Management">Управление модами</string>
     <string name="Mod_Name">Название Мода</string>
     <string name="Active">Активен</string>
@@ -2580,4 +2580,34 @@
     <string name="MK1 Robot Arm_CRAFT_HINT">Робо-манипулятор МК1</string>
     <string name="Mass Storage I/O Port_CRAFT_DESC">Порт ввода-вывода Склада</string>
     <string name="Mass Storage I/O Port_CRAFT_HINT">Порт ввода-вывода Склада</string>
-    </resources>
+    <string name="ARTHER_No_Ore">Внимание! Уголь не сжигается уже минуту!</string>
+	<string name="ARTHER_Press_K">Нажмите «K» для включения ГолоБазы.</string>
+	<string name="ARTHER_Press_M">"Нажмите «M» чтобы достать Сканер! "</string>
+	<string name="ARTHER_Unknown_Block">"Обнаружен неизвестный блок "</string>
+	<string name="Finished Current Research">закончено текущее исследование!</string>
+	<string name="Finished Research">закончено</string>
+	<string name="Lab">Лаб.</string>
+	<string name="Laboratory has">В Лаборатории есть:</string>
+	<string name="Located">Нажмите «K» для включения ГолоБазы.</string>
+	<string name="MISSION_All">Все</string>
+	<string name="MISSION_Clearing">– начата очистка.</string>
+	<string name="MISSION_Crystal_Offline">неактивных Крист. Экстракторов</string>
+	<string name="MISSION_Inactive_PTGs">неактивных Пиротерм.Г.</string>
+	<string name="MISSION_Many Items">" предметов на земле! Нужны ФАЛКОРы!"</string>
+	<string name="MISSION_More Conveyors">больше конвейеров.</string>
+	<string name="MISSION_More Torches">" больше Факелов для сугреву."</string>
+	<string name="MISSION_OES_Offline">неактивных Экстракторов!</string>
+	<string name="MISSION_OE_Offline">экстрактор неактивен!</string>
+	<string name="MISSION_Offline">не работ.</string>
+	<string name="MISSION_Open Handbook">Нажмите «H», чтобы открыть справку.</string>
+	<string name="MISSION_PTGs Inactive">ПТ-генераторов неактивно</string>
+	<string name="MISSION_Place">Разместите</string>
+	<string name="MISSION_Scan">Просканируйте</string>
+	<string name="MISSION_Tutorial Conveyors">Всего конвейеров</string>
+	<string name="MISSION_more unknown objects">больше Факелов для согрева!</string>
+	<string name="MISSION_scans to process">сканов для обработки.</string>
+	<string name="Minute(Short)">мин</string>
+	<string name="RubbleHint">Щебня не будет при использовании Супер-рытья! Для этого удерживайте Лев. Ctrl!</string>
+	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
+
+	</resources>
