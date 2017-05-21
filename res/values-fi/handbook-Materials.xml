@@ -1164,8 +1164,8 @@ käyttää 0.1 e/s 15 sekunnin ajan käsitelläkseen rikastetun hiilen uudutetuk
 <string name="MA.Fortified_PCB.01.Paragraph">Nikkelipohjainen piirilevy joka on tehty nikkelikeloista piirilevykokoajassa.</string>
 <string name="MA.FortifiedPCB.00.Title">Fortified PCB</string>
 <string name="MA.FortifiedPCB.01.Paragraph">A nickel based PCB created from nickel coils in a PCB Assembling Plant.</string>
-<string name="MA.Freezon_Injector.00.Title">Freezon-lisääjä</string>
-<string name="MA.Freezon_Injector.01.Paragraph">Freezon-lisääjät käyttävät Freezon-kanistereita antaakseen suuren hyödyn yhteensopiville koneille.</string>
+<string name="MA.Freezon_Injector.00.Title">Kylmäyslisääjä</string>
+<string name="MA.Freezon_Injector.01.Paragraph">Kylmäyslisääjät käyttävät kylmäyskanistereita antaakseen suuren hyödyn yhteensopiville koneille.</string>
 <string name="MA.Freezon_Injector.02.Header">Vaikutukset</string>
 <string name="MA.Freezon_Injector.03.Left">"Geotermiset voimalat
  Keihästäjät
