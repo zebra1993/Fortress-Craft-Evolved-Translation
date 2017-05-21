@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.AI_Mover_Control.00.Title">Contrôleur de Mouvement IA</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Ce robot déplacera une ressource à la fois d\'une trémie à une autre, en respectant les règles de chaque Trémie de Stockage (Ajout-Seulement / Supprimer-Seulement).</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">Noyau Batterie ARTHER</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Permet à ARTHER d\'avoir 8 fois plus de charge qu\'il pourra vous transférer lorsque vous manquerez d\'énergie. Fabriquez le dès que possible ! Vous n\'en n\'avez besoin que d\'un et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">Station de charge ARTHER</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Rechargez rapidement ARTHER à partir de votre réseau énergétique de base. Bien meilleur combiné avec une amélioration de la batterie d\'ARTHER.</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Spécifications</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">Taux Recharge ARTHER :
+ Capacité Station :
+ Taux Charge Station :</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 par seconde
+ 1500
+ 10 par seconde</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Chapeau Élégant ARTHER</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Gardez ARTHER au sec toute en élégance ! Disponible uniquement si vous disposez du Dapper Indie Supporter DLC. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Monocle Élégant ARTHER</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Améliore la vision d\'ARTHER ! Disponible uniquement si vous disposez du Dapper Indie Supporter DLC. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">Moustache Élégante ARTHER</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Insérez la plaisanterie \'moustache\' ici. Disponible uniquement si vous disposez du Dapper Indie Supporter DLC. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">Pack Élégant ARTHER</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Entièrement Élégant ! Utilisez le pour économiser de la place dans votre inventaire en combinant toutes les mises à jour précédentes d\'Élégance en un seul élément. Il doit être conservé dans votre inventaire.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Pack Amélioration Élégant ARTHER</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Entièrement amélioré - Élégance Totale ! Utilisez le pour économiser de la place dans votre inventaire en combinant toutes les mises à jour précédentes d\'Élégance en un seul élément. Il doit être conservé dans votre inventaire. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Power_Core.00.Title">Noyau d’Énergie ARTHER</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Répare les dégâts fait à ARTHUR lui permettant de se déplacer de manière correcte. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">Panneau Solaire ARTHER</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Améliore la vitesse à laquelle ARTHUR recharge depuis la lumière du soleil. Vous n\'en n\'avez besoin que d\'un seul et il doit être conservé dans votre inventaire pour fonctionner.</string>
+<string name="MA.ARTHER_Turret.00.Title">Tourelle ARTHER</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">Une tourelle à longue portée performante, qui doit être exploitée par ARTHER. Pour l\'utiliser, mettez en surbrillance la tourelle et appuyez sur la touche Interagir (par défaut \'E\') pour mettre ARTHER dans la tourelle.</string>
+</resources>
