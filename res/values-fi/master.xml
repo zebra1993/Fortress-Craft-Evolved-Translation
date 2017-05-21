@@ -482,10 +482,10 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="Cryo Bomb">Hyytämöpommi</string>
     <string name="Cryo Bombs">Hyytämöpommia</string>
     <string name="Compressed Magma">Paineistettu magma</string>
-    <string name="Freezon Gas">Freezon kaasu</string>
-    <string name="FreezonGas">Freezonkaasu</string>
-    <string name="Compressed Freezon Canister">Paineistettu freezonkanisteri</string>
-    <string name="CompressedFreezon">PaineistettuFreezon</string>
+    <string name="Freezon Gas">Kylmäyskaasu</string>
+    <string name="FreezonGas">Kylmäyskaasu</string>
+    <string name="Compressed Freezon Canister">Paineistettu kylmäyskanisteri</string>
+    <string name="CompressedFreezon">PaineistettuKylmäys</string>
     <string name="Chlorine Gas">Kloorikaasu</string>
     <string name="ChlorineGas">Kloorikaasu</string>
     <string name="Compressed Chlorine">Paineistettu kloori</string>
@@ -1367,7 +1367,7 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="Fuel Canister Crafter">Polttoainekanisterin tekijä</string>
     <string name="Fuel Canister Crafter_DESC">Käyttää yhden rautaputken tehdäkseen tyhjän polttoainekanisterin.</string>
     <string name="CryoChilled Missile Assembler">Syväjääohjuksen kokoaja</string>
-    <string name="CryoChilled Missile Assembler_DESC">Käyttää Freezonkanisterita lisätäkseen hidastavan vaikutuksen kohdistettuihin olentoihin. Antaa myös 15% lisävahingon!</string>
+    <string name="CryoChilled Missile Assembler_DESC">Käyttää kylmäyskanisterita lisätäkseen hidastavan vaikutuksen kohdistettuihin olentoihin. Antaa myös 15% lisävahingon!</string>
     <string name="Mephitic Missile Assembler">Törkyohjuksen kokoaja</string>
     <string name="Mephitic Missile Assembler_DESC">Käyttää kloorikanistereita lisätäkseen ajoitetun vahinkovaikutuksen kohdistettuihin olentoihin, lisäten 50% vahinkoa 30 sekunnissa.</string>
     <string name="Steel Alloy Smelter">Rautaseossulattamo</string>
@@ -1548,8 +1548,8 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="CryoMine_DESC">Räjäyttää turmiollisen kaasupilven kun hyytämö koskee.</string>
     <string name="Bomber FALCOR">Pommittaja HAUKKAAJA</string>
     <string name="Bomber FALCOR_DESC">Tiputtaa tuotetut pommit pitkän matkan päähän syvään hyytämöön.</string>
-    <string name="Freezon Injector">Freezon injektoija</string>
-    <string name="Freezon Injector_DESC">Käyttää Freezonkanistereita suorituskyvyn lisäämiseksi monelle koneelle.</string>
+    <string name="Freezon Injector">Kylmäysinjektoija</string>
+    <string name="Freezon Injector_DESC">Käyttää kylmäyskanistereita suorituskyvyn lisäämiseksi monelle koneelle.</string>
     <string name="H.E.I.S.T.">S.U.J.A.U.T.I.N.</string>
     <string name="H.E.I.S.T._DESC">Lähettää automaattisesti esineet pelaajan tavaraluetteloon.</string>
     <string name="NanoDisintegrator">Nanohajotin</string>
@@ -2284,7 +2284,7 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="Magma Storage_CRAFT_HINT">Magma - parempaa kuin miltä kuulostaa.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Käyttää pumpattua magmaa polttaakseen kantamalla olevat hyytämökutemot. Rakenna 3x3x3 asetelmaan (9 yhteensä)</string>
     <string name="Cryo Inferno_CRAFT_HINT">Pätsi tarvitsee 15 minuuttia polttoaikaa korkeintaan 30 sekunnin keskeytyksellä. Onnea.</string>
-    <string name="Freezon Injector_CRAFT_DESC">Yhdistä varastohypyttimeen lisätäksesi puristettua Freezonia yhteensopiviin koneisiin.</string>
+    <string name="Freezon Injector_CRAFT_DESC">Yhdistä varastohypyttimeen lisätäksesi puristettua kylmäystä yhteensopiviin koneisiin.</string>
     <string name="Freezon Injector_CRAFT_HINT">Katso käsikirjasta lista yhteensopivista koneista ja vaikutuksista.</string>
     <string name="Laser Borer_CRAFT_DESC">Käyttää KEYPK:jä superladatakseen VIL:n luodaksesi 3x3 pystysuoran kuilun äärimmäisen nopeasti. Syötä KEYPK:jä liitetyillä varastohypyttimillä. Rakenna 3x3x3 muotoon (9 yhteensä).</string>
     <string name="Laser Borer_CRAFT_HINT">Varoitus! Vaarallinen! Varmista oikea asettelu ennen kuin syötät polttoaineen.</string>
@@ -2573,4 +2573,34 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="MISSION_Reminder">Muistutus</string>
     <string name="MISSION_Rush Mode">Ryntäys</string>
  
-</resources>
+<string name="ARTHER_No_Ore">Varoitus! Minuutti ilman hiilenpolttoa.</string>
+	<string name="ARTHER_Press_K">Paina K tutkiaksesi holotukikohtaa.</string>
+	<string name="ARTHER_Press_M">"Paina M vaihtaaksesi malmiluotaimeen. "</string>
+	<string name="ARTHER_Unknown_Block">"Tuntematon palikka huomattu... "</string>
+	<string name="Finished Current Research">sai valmiiksi tutkimuksen.</string>
+	<string name="Finished Research">valmis</string>
+	<string name="Lab">Labra</string>
+	<string name="Laboratory has">Laboratorio on</string>
+	<string name="Located">paikallistettu</string>
+	<string name="MISSION_All">Kaikki</string>
+	<string name="MISSION_Clearing">on aloittanut raivauksen.</string>
+	<string name="MISSION_Crystal_Offline">Kristallimalmilouhin seisoksissa</string>
+	<string name="MISSION_Inactive_PTGs">polttovoimalaa seisoksissa.</string>
+	<string name="MISSION_Many Items">" esinettä maassa. HAUKKAAJA:ia tarvitaan."</string>
+	<string name="MISSION_More Conveyors">lisää kuljettimia.</string>
+	<string name="MISSION_More Torches">" lisää soihtuja lämmöksi."</string>
+	<string name="MISSION_OES_Offline">Malmilouhimia seisoksissa!</string>
+	<string name="MISSION_OE_Offline">louhin seisoksissa!</string>
+	<string name="MISSION_Offline">seisoksissa</string>
+	<string name="MISSION_Open Handbook">Paina (H) avataksesi käsikirjan.</string>
+	<string name="MISSION_PTGs Inactive">polttovoimalaa seisoksissa</string>
+	<string name="MISSION_Place">Aseta</string>
+	<string name="MISSION_Scan">Luotaa</string>
+	<string name="MISSION_Tutorial Conveyors">opastuskuljettimet</string>
+	<string name="MISSION_more unknown objects">lisäsoihtua lämmöksi.</string>
+	<string name="MISSION_scans to process">luotausta käsiteltävä.</string>
+	<string name="Minute(Short)">min</string>
+	<string name="RubbleHint">Et saa soraa jos superkaivat. Pidä vasen-ctrl superkaivaaksesi.</string>
+	<string name="ARTHER_No_Coal">Varoitus! Minuutti ilman hiilenpolttoa.</string>
+
+	</resources>
