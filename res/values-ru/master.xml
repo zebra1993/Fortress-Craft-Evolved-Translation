@@ -514,7 +514,7 @@
     <string name="Hive Brain Matter">Мозг Разума Роя</string>
     <string name="Research Parts">Исследовательские детали</string>
     <string name="Refined Liquid Resin">Очищенная Жидкая Смола</string>
-    <string name="Spoiled Organic Remains">Испорченные органические останки</string>
+    <string name="Spoiled Organic Remains">Гнилая Органика</string>
     <string name="Recombined Organic Matter">Рекомбинированная органическая материя</string>
 
     <string name="Air">Воздух</string>
@@ -649,7 +649,7 @@
     <string name="Reinforced Wood_DESC">" "</string>
     <string name="Sand_DESC">" "</string>
     <string name="Tree Trunk_DESC">" "</string>
-    <string name="Window_DESC">" "</string>
+    <string name="Window_DESC">Прозрачное окно в деревянной раме</string>
     <string name="Leaves_DESC">" "</string>
     <string name="Black Grill_DESC">" "</string>
     <string name="Book Shelf_DESC">" "</string>
@@ -700,9 +700,9 @@
     <string name="Dyed Marble_DESC">" "</string>
     <string name="Celtic Knot Tile">Плитка \"Кельтский узел\"</string>
     <string name="Celtic Knot Tile_DESC">" "</string>
-    <string name="Celtic Braid Pillar">Кельтская оплетка</string>
+    <string name="Celtic Braid Pillar">Блок с Кельтским Узлом</string>
     <string name="Celtic Braid Pillar_DESC">" "</string>
-    <string name="Celtic Gold Braid Pillar">Кельтская оплетка золотая</string>
+    <string name="Celtic Gold Braid Pillar">Золотой Блок с Кельтским Узлом</string>
     <string name="Celtic Gold Braid Pillar_DESC">" "</string>
     <string name="Celtic Concrete Pillar">Кельтский бетонный столб</string>
     <string name="Celtic Concrete Pillar_DESC">" "</string>
@@ -1404,7 +1404,7 @@
 
     <string name="Celtic Curved Roof">Кельтская скругленная крыша</string>
     <string name="Celtic Tile Roof">Кельтская плиточная крыша</string>
-    <string name="Celtic Black Braid">Кельтское плетение - чёрное</string>
+    <string name="Celtic Black Braid">Чёрный Кельтский Узел</string>
     <string name="Neon Circuit">Неоновый контур</string>
     <string name="Neon Border">Неоновая кайма</string>
     <string name="DapperFrame">Щегольская Рама</string>
@@ -1617,7 +1617,7 @@
     <string name="CRP DLC KEY_DESC">" "</string>
     <string name="Red Warning Light">Красная Мигалка</string>
     <string name="Orange Warning Light">Оранжевая Мигалка</string>
-    <string name="Emergency Siren">Сирена экстренного оповещения</string>
+    <string name="Emergency Siren">Сирена</string>
     <string name="CRP DLC KEY">Ключ от DLC \"CRP\"</string>
     <string name="Adventures Pack DLC_DESC">Спасибо за покупку Adventures Pack DLC!</string>
     <string name="Adventures Pack DLC">Дополнение Adventures Pack</string>
@@ -2595,10 +2595,10 @@
 	<string name="MISSION_Inactive_PTGs">неактивных Пиротерм.Г.</string>
 	<string name="MISSION_Many Items">" предметов на земле! Нужны ФАЛКОРы!"</string>
 	<string name="MISSION_More Conveyors">больше конвейеров.</string>
-	<string name="MISSION_More Torches">" больше Факелов для сугреву."</string>
+	<string name="MISSION_More Torches">" больше Факелов для согрева!"</string>
 	<string name="MISSION_OES_Offline">неактивных Экстракторов!</string>
 	<string name="MISSION_OE_Offline">экстрактор неактивен!</string>
-	<string name="MISSION_Offline">не работ.</string>
+	<string name="MISSION_Offline">неактивн.</string>
 	<string name="MISSION_Open Handbook">Нажмите «H», чтобы открыть справку.</string>
 	<string name="MISSION_PTGs Inactive">ПТ-генераторов неактивно</string>
 	<string name="MISSION_Place">Разместите</string>
