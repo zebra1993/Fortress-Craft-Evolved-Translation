@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.AI_Mover_Control.00.Title">Control de Movimiento de IA</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Este robot moverá un recurso a la vez desde una tolva cercana hacia otra, acorde a los permisos \"Añadir y Remover\" de las tolvas cercanas.</string>
+</resources>
