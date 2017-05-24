@@ -58,4 +58,47 @@ O : Montrer la fenêtre du comportement
 <string name="CR.01Welcome.28.Paragraph">Une fois que vous êtes content de votre plan, quitter l\'atelier pour le sauvegarder et crée le bloc détaillé pour construire avec. Pour le sélectionner, ouvrez votre fenêtre de sélection de bloc (\"=\") et sélectionner votre nouveau plan dans la barre de sélection rapide. Vous pouvez rapidement trouver tout les détailles des blocs désigné en filtrant \" Bloc désigné\" dans la liste des filtres. Vous pouvez maintenant commencer un nouveau plan dans l\'atelier en pressant \"Y\", ou en construisant un nouveau atelier. Vous pouvez avoir 16384 bloc détaillé dans un monde !</string>
 <string name="CR.01Welcome.29.Header">Place blocs détailler</string>
 <string name="CR.01Welcome.30.Paragraph">Pour placer un bloc détaillé, Construisez le comme n\'importe qu\'elle bloc. Le plan va s\'attacher à la face que vous avez sélectionner, et va être tourner pour faire face à vous. Cela va vous permettre de placer les blocs détaillé dans l\'orientation que vous voulez.</string>
+<string name="CR.01Welcome.31.Paragraph">Si vous utilisez plusieurs centaines de blocs détaillé dans la même zone, vous allez remarquer des diminutions de performance. C\'est à cause de tout les blocs détaillé qui sont rendus par votre carte graphique. Pour éviter cela, utiliser les blocs détaillé de basse résolution et les blocs normal autant que possible.</string>
+<string name="CR.01Welcome.32.Header">Super construction</string>
+<string name="CR.01Welcome.33.Paragraph">En appuyant sur F8 vous allez ouvrir le panneau de super construction qui sera afficher sur le côté droit de votre écran</string>
+<string name="CR.01Welcome.34.Paragraph">Cela va rapidement permettre de construire de simple forme géométriques utilisant n\'importe quelle bloc sélectionné. Pour utiliser la super construction, sélectionner d\'abord la forme à construire avec F9. Avec F10 vous pouvez sélectionner si il sera de formes solide ou fantôme. Avec F11 vous basculez le mode de construction. Instantané va vous donnez un résultat rapide, mais peut avoir des trou dans les très grande tailles. Fin bascule entre l\'ancrage de la forme qui est au centre ou en bas de celle ci.</string>
+<string name="CR.01Welcome.35.Paragraph">X, Y et Z vous permet de changer la taille de la forme. Appuyer dessus va augmenter la taille de 1. Maintenir maj et appuyer sur X, Y et Z va les réduire de 1. Vous pouvez aussi maintenir ALT pour changer la taille de 16 à la fois.</string>
+<string name="CR.01Welcome.36.Paragraph">Une fois que vous avez choisis une forme, taille et emplacement, appuyer sur Ins pour construire ou Del pour la creuser. Vous avez besoin de re sélectionné une forme pour construire ou creuser.</string>
+<string name="CR.01Welcome.37.Header">Copier coller</string>
+<string name="CR.01Welcome.38.Paragraph">L\'outil de copier coller permet de rapidement copier, tourner ou un petit coup de certaine partie du plan que vous avez fait et de la coller peut importe où dans le monde. Ouvré la panneau de copier coller en appuyant sur F11. 
+La fonction de copier coller est EN CONSTRUCTION, c\'est pourquoi l\'interface n\'est pas comme les autres.</string>
+<string name="CR.01Welcome.39.Header">Contrôle de copier coller</string>
+<string name="CR.01Welcome.40.Paragraph">Appuyer sur Inser pour placer le premier coin de la partie rectangulaire que vous voulez copier.</string>
+<string name="CR.01Welcome.41.Paragraph">Appuyer sur Suppr pour placer le deuxième coin de la partie rectangulaire que vous voulez copier. La partie copier va être affiché.</string>
+<string name="CR.01Welcome.42.Paragraph">Une fois la zone sélectionner, vous pouvez appuyer sur Suppr pour l\'attraper. A ce point, une copie de la zone précédente va être montrer au dessus de votre sélection de bloc.</string>
+<string name="CR.01Welcome.43.Paragraph">Avec une zone attrapé, il y a trois choses que pouvez faire pour altéré la façon dont il est coller: tourne avec R, déplace le point d\'anchrage avec maj basculer avec CTRL.</string>
+<string name="CR.01Welcome.44.Paragraph">\'R\' va tourner la zone attrapé de 90 degrés dans le sens des aiguille d\'une montre.</string>
+<string name="CR.01Welcome.45.Paragraph">Appuyer sur maj va permettre de changer le point d\'anchrage avec les touches X,Y et Z. Maintenir maj et appuyer sur X, Y, ou Z va diminuer ma position du point d\'anchrage</string>
+<string name="CR.01Welcome.46.Paragraph">Appuyer sur CTRL une fois va permettre d\'étendre le modèle avec les touches X, Y ou X. Chaque touche va étendre le modèle celon cette axe.</string>
+<string name="CR.01Welcome.47.Paragraph">Et pour finir, appuyer sur \"début\" va copier la zone dans la zone sélectionner.</string>
+<string name="CR.01Welcome.48.Header">Enregistrement des schémas de copier coller</string>
+<string name="CR.01Welcome.49.Paragraph">Il est aussi possible de stocker des schémas pour un usage ultérieure, utiliser avec la touche \"&lt;\" et charger les avec \"?\". Vous pouvez échangé les schémas sauvegarder avec d\'autres personnes. Mais cette fonctionnalité est encore en développement, nous ne pouvons garantir qu\'elle fonctionnera.</string>
+<string name="CR.01Welcome.50.Header">Fusil à Peinture</string>
+<string name="CR.01Welcome.51.Paragraph">Vous pouvez sélectionnée le Fusil à Peinture en appuyant sur \"N\". Cela va vous permettre de peindre certains matériaux dans la couleur que vous voulez. Avec le fusil à peinture en main, clique gauche peint le bloc visé, clique droit ouvre la fenêtre de sélection des couleurs et le clique milieu prélève la couleur du bloc sélectionné, si le bloc peut être peint. Le fusil à peinture va montrer qu\'elle couleur est sélectionné sur le fusil à peinture.</string>
+<string name="CR.01Welcome.52.Header">Trouver des matériaux à peindre</string>
+<string name="CR.01Welcome.53.Paragraph">Seulement certains blocs peuvent être peint. Pour rapidement trouver les qu\'elle, ouvrez l\'ecran de sélection des blocs \"=\" et vérifier le filtre \"à peindre\". Tout les blocs montré ici peuvent être placé dans le monde et peint.</string>
+<string name="CR.01Welcome.54.Header">Bâton de la météo</string>
+<string name="CR.01Welcome.55.Paragraph">Le bâton de la météo vous permet de contrôler la météo, l\'heure actuelle, et de lancer des météorites. Sélectionner le et appuyer sur \"C\". Quand vous entrez dans le monde, une des statistique montré est le nombre total de météorite que les joueur on lancer dans FortressCraft Évolués.</string>
+<string name="CR.01Welcome.56.Header">Modes du bâton à météo</string>
+<string name="CR.01Welcome.57.Paragraph">eSun: la pluie/neige actuelle s\'arrête et fait le soleil brillé (ou la lune, si c\'est la nuit)</string>
+<string name="CR.01Welcome.58.Paragraph">eLightning: crée un gros orage. Clique gauche déclenche des éclairs</string>
+<string name="CR.01Welcome.59.Paragraph">eSnow: crée des chutes de neiges</string>
+<string name="CR.01Welcome.60.Paragraph">eRain: crée de la pluie</string>
+<string name="CR.01Welcome.61.Paragraph">eDayNight: invoque le jour où la nuit suivant le temps actuelle</string>
+<string name="CR.01Welcome.62.Paragraph">eMeteor: invoque des météorites. Clique gauche pour invoquer une météorite haut dans le ciel pour frapper proche de vous. Clique droit invoque une météorite (grâce au bâton de la météo) sur le bloc visé. Il y a un faible temps de refroidissement sur ces deux action, spamer les cliques peut ne pas invoquer autant de météorites voulus :). Quand vous invoquer des météorites faite attention au station orbitale !</string>
+<string name="CR.02HowToPlaySurvival.Title">Comment jouer en mode survie</string>
+<string name="CR.02HowToPlaySurvival.00.Title">Comment jouer en mode survie</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">C\'est le mode créative. Pour commencer un mode survie :</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">Retourner au menu principal. Entrer dans la sale des mondes et choisissez un emplacement vide (flèche droite ou cliquer sur la table). À côté de l\'indicateur du mode de jeux il y a des flèches qui permet de changer le mode de jeux en survie. Appuyer sur crée monde pour commencer à jouer</string>
+<string name="CR.02HowToPlaySurvival.03.Header">Je peux pas sélectionner de mode de jeux ?</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">Vous ne pouvez pas changer le mode de jeux sur un monde existant. Sélectionner un emplacement vide.</string>
+<string name="CR.02HowToPlaySurvival.05.Header">Tout mes emplacements de monde sont plein !</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">Vous pouvez réinitialiser un monde depuis la sélection de monde, toute les données lié à ce monde seront supprimer. Si vous voulez récupérer votre monde, sur les versions récente de Windows, ils peuvent être trouvé dans le dossier suivant: %AppData%.ocalLowrojectorGamesortressCraftorlds.</string>
+<string name="CR.02HowToPlaySurvival.07.Header">Ça ne fonctionne pas !</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">Si vous avez encore des problèmes pour commencer un mode survie, s\'il-vous-plaît postez un message sur le forum de steam.</string>
 </resources>
