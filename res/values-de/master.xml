@@ -95,7 +95,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
     <string name="Resources_Plentiful_Info">\'Massenhaft Ressourcen\' sorgt dafür, dass Du schnell an viele Ressourcen kommst. Durch diese Einstellung wirst Du Dich und Deine Welt während der gesamten Spielzeit viel schneller weiterentwickeln. Diese Einstellung wird für geduldige Einsteiger empfohlen.</string>
     <string name="Resources_Scarce_Info">\'Knappe Ressourcen\' wird Dir ermöglichen, Dein Spiel ruhig und durchdacht anzugehen. Du wirst mehr Zeit zur Optimierung Deiner Basis oder zum Erkunden Deiner Welt haben. Nicht empfohlen für neue Spieler!</string>
     <string name="Resources_Greg_Info">\'Geizige Ressourcen\' wird Deinen Fortschritt extrem verlangsamen. Diese Einstellung ist auf 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
-    <string name="Resources_Rapid_Info">"\'Blitzartige Ressourcen\' ist für diejenigen gedacht, die ein Spiel gerne schnell durchspielen oder Kinder haben oder viel arbeiten. Oder für Streamer, die das Spiel gerne an einem Wochenende schnell durchspielen möchten! Diese Einstellung eignet sich sehr gut dazu, einen ersten Einblick in das Spiel zu bekommen bevor man sich anschließend einer Welt mit einem höheren Schwierigkeitsgrad zuwendet. "</string>
+    <string name="Resources_Rapid_Info">\'Blitzartige Ressourcen\' ist für diejenigen gedacht, die ein Spiel gerne schnell durchspielen oder Kinder haben oder viel arbeiten. Oder für Streamer, die das Spiel gerne an einem Wochenende schnell durchspielen möchten! Diese Einstellung eignet sich sehr gut dazu, einen ersten Einblick in das Spiel zu bekommen bevor man sich anschließend einer Welt mit einem höheren Schwierigkeitsgrad zuwendet.</string>
     <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' ist sehr ausgeglichen und legt großen Wert auf ein gut strukturiertes Förderbandsystem. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
     <string name="Conveyor_Fast_Info">\'Schnelle Förderbänder\' bedeuten weniger Wartezeit. Sie sind doppelt so schnell wie \'Langsame Förderbänder\'.</string>
 
@@ -1606,11 +1606,11 @@ Sehr Energie hungrig!</string>
     <string name="Workfloor Excavator MK3">Arbeitsbodenbagger MK3</string><!--Straight form google :P  -->
     <string name="Workfloor Excavator MK3_DESC">Ein Blitzschnelles Rad des Aushebens - 4x schneller als die MK2 Version! Entfernt Erz.</string>
     <string name="Slime Attractor">Schleimanzieher</string> <!-- Not optimal-->
-    <string name="Slime Attractor_DESC">Zeiht Slimes an</string>
+    <string name="Slime Attractor_DESC">Zeiht Slimes an.</string>
     <string name="Imbued Machine Block">Durchttränkter Maschinenblock</string><!-- Not optimal-->
     <string name="Imbued Machine Block_DESC">Produktionskomponente, die für Maschinen der Tier 4 benötigt wird. Kann auch zum Bauen verwendet werden</string>
     <string name="CryoMine">Cryo Mine</string>
-    <string name="CryoMine_DESC">Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird</string>
+    <string name="CryoMine_DESC">Explodiert in schädliches Gas wenn sie von Cryoplasma berührt wird.</string>
     <string name="Bomber FALCOR">FALCOR Bomber</string>
     <string name="Bomber FALCOR_DESC">Wirft auf grosse Distanz Bomben auf dichtes Cryoplasma ab.</string>
     <string name="Freezon Injector">Freezoneinspritzanlage</string>
@@ -1722,7 +1722,9 @@ Sehr Energie hungrig!</string>
     <string name="Large Rocks">Grosse Steine</string>
     <string name="Large Rocks_DESC">Grosse Steine, die an der Oberfläche vorkommen und Spuren von Erz enthalten.</string>
     <string name="Workshop Placement">Werkstattplazierung</string>
-    <string name="Workshop Placement_DESC">Wird diagonal Plaziert\n Erzeugt eine Datailblockwerkstatt\nGrösse von 2x2x2 bis 8x8x8</string>
+    <string name="Workshop Placement_DESC">Wird diagonal Plaziert
+Erzeugt eine Datailblockwerkstatt
+Grösse von 2x2x2 bis 8x8x8</string>
 
     <!-- Manufacturer and other crafting plant strings -->
     <string name="Solar Panel_CRAFT_DESC">Solarpaneelen versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tags. Braucht freie Sicht zum Himmel.</string>
@@ -2363,7 +2365,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Mesh Weaver_CRAFT_HINT">Kein Hinweis verfügbar</string>
     <string name="Pipe Coater_CRAFT_DESC">Stellt Hitze leitende Rohre her, welche bei Geothermalgeneratoren benötigt werden.</string>
     <string name="Pipe Coater_CRAFT_HINT">Kein Hinweis verfügbar</string>
-    <string name="Hard Rock Grinder_CRAFT_DESC">Diese Maschine wird es uns ermöglichen, langsam und ineffizient T4 Erze zu zermahlen. Mit den so gewonnenen Erzen können wir neue, bessere Maschinen bauen. Aufbau in 3x3 Platte.</string>
+    <string name="Hard Rock Grinder_CRAFT_DESC">Diese Maschine wird es uns ermöglichen, langsam und ineffizient T4 Erze zu zermahlen. Mit den so gewonnenen Erzen können wir neue, bessere Maschinen bauen. Aufbau in einer 3x3 Platte.</string>
     <string name="Hard Rock Grinder_CRAFT_HINT">!EINWEG MASCHINE!</string>
     <string name="Particle Filter_CRAFT_DESC">Filtert nützliche Partikel aus der Luft. Aufbau in einer 5x5 Platte mit 3 Höhe (75 Blöcke insgesamt).</string>
     <string name="Particle Filter_CRAFT_HINT">Unwahrscheinlich langfristig Schäden in der Atmosphäre zu hinterlassen.</string>
