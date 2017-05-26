@@ -830,15 +830,17 @@ Harzverflüssiger
 <string name="MA.Garbage_Thief.01.Paragraph">"Der Cyberdyne Müll-Dieb (oder Müll-Dieb, wie manche ihn nennen) ist einfach ein Erz-Dieb der neu Programmiert wurde, um Müll im Inventar anstelle von Erz zu entfernen. Diese Maschine, wenn sie in Verbindung mit mehreren Bau-Pasten-Schleifmaschinen verwendet wird, kann schnell Müll entfernen, verarbeiten und in Bau-Paste freigeben. Für eine optimale Leistung ersetzen Sie den Boden eines frequentierten Flurs mit dieser Maschine und einem passenden Ausgabe-Handling-System.
 
 
-Erstellen Sie einfach unseren brandneuen Müll-Dieb (tm) in einem 3x3 Layout und beliefern Sie ihn mit nur 5 Energie pro Block. Stehen Sie einfach darauf und lassen Sie  die harte Arbeit für Sie machen!
-"</string>
+Erstellen Sie einfach unseren brandneuen Müll-Dieb (tm) in einem 3x3 Layout und beliefern Sie ihn mit nur 5 Energie pro Block. Stehen Sie einfach darauf und lassen Sie  die harte Arbeit für Sie machen!"</string>
 <string name="MA.Garbage_Thief.03.Left">"Abfallsammelgeschwindigkeit:
 Internes Lager:
 Energieverbrauch:
  "</string>
-<string name="MA.Garbage_Thief.04.Right">Bis zu 3.300/minute!
+<string name="MA.Garbage_Thief.04.Right">"Bis zu 3.300/minute!
 100 Einheiten Müll!
-Nur 5 Energie pro Müll!</string>
+Nur 5 Energie pro Müll!
+ "</string>
 <string name="MA.Gas_Bottler.01.Paragraph">Der Gasabfüller ist der letzte Schritt in der Partikel-Raffination, unter Verwendung der gespeicherten Partikel aus einem einzigen Partikel-Speicher ist es in der Lage, die Partikel in Einweg-Container auszugeben. Der Gasabfüller ist in einer 3x3x9 Formation gebaut.</string>
 <string name="MA.Geological_Surveyor.01.Paragraph">Der Geologische Landvermesser scannt die Landschaft unter sich selbst in seiner unmittelbaren Nähe, um Ressourcen zu erkennen und die Gesamtmenge des Erzes zurückzugeben, die es schrittweise tiefer sucht. Verwenden Sie Ihn, um Abbaugebiete am besten zu positionieren.</string>
+<string name="MA.Glow_Stick.01.Paragraph">Leuchtstäbe werden automatisch von deinem Anzug für 5 Energie hergestellt. Drücke G um einen Leuchtstab zu werfen!</string>
+<string name="MA.GlowShroom.01.Paragraph">Ein leuchtender Pilz der auf der Oberfläche dieses Planeten gefunden wurde. Nicht essen!</string>
 </resources>
