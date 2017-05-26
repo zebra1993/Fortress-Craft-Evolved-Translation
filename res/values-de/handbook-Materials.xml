@@ -827,9 +827,18 @@ Harzverflüssiger
 54x Arbeitsrate
 54x Arbeitsrate</string>
 <string name="MA.Fusion_Drill_Motor.00.Title">Fusionsbohrantrieb</string>
-<string name="MA.Garbage_Thief.01.Paragraph">Der Cyberdyne Abfalldieb (oder Dreckwegräumdieb wie ihn einige nennen) ist einfach und ist ein Erzdieb welcher neu programmiert wuerde Abfall aus dem Inventar zu entfernen und nicht Erze. Diese Mascheine</string>
+<string name="MA.Garbage_Thief.01.Paragraph">"Der Cyberdyne Müll-Dieb (oder Müll-Dieb, wie manche ihn nennen) ist einfach ein Erz-Dieb der neu Programmiert wurde, um Müll im Inventar anstelle von Erz zu entfernen. Diese Maschine, wenn sie in Verbindung mit mehreren Bau-Pasten-Schleifmaschinen verwendet wird, kann schnell Müll entfernen, verarbeiten und in Bau-Paste freigeben. Für eine optimale Leistung ersetzen Sie den Boden eines frequentierten Flurs mit dieser Maschine und einem passenden Ausgabe-Handling-System.
+
+
+Erstellen Sie einfach unseren brandneuen Müll-Dieb (tm) in einem 3x3 Layout und beliefern Sie ihn mit nur 5 Energie pro Block. Stehen Sie einfach darauf und lassen Sie  die harte Arbeit für Sie machen!
+"</string>
 <string name="MA.Garbage_Thief.03.Left">"Abfallsammelgeschwindigkeit:
 Internes Lager:
 Energieverbrauch:
  "</string>
+<string name="MA.Garbage_Thief.04.Right">Bis zu 3.300/minute!
+100 Einheiten Müll!
+Nur 5 Energie pro Müll!</string>
+<string name="MA.Gas_Bottler.01.Paragraph">Der Gasabfüller ist der letzte Schritt in der Partikel-Raffination, unter Verwendung der gespeicherten Partikel aus einem einzigen Partikel-Speicher ist es in der Lage, die Partikel in Einweg-Container auszugeben. Der Gasabfüller ist in einer 3x3x9 Formation gebaut.</string>
+<string name="MA.Geological_Surveyor.01.Paragraph">Der Geologische Landvermesser scannt die Landschaft unter sich selbst in seiner unmittelbaren Nähe, um Ressourcen zu erkennen und die Gesamtmenge des Erzes zurückzugeben, die es schrittweise tiefer sucht. Verwenden Sie Ihn, um Abbaugebiete am besten zu positionieren.</string>
 </resources>
