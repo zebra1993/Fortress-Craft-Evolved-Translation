@@ -2,7 +2,7 @@
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
-    <string name="Partial_Language_Support">Guten Tag! Die ausgewählte Sprache wird im Moment nur Teilwiese unterstützt. Wenn du zurück auf Englisch wechseln willst, klicke unten auf 'English'!</string>
+    <string name="Partial_Language_Support">Guten Tag! Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf \'English\'!</string>
     <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
     <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
@@ -13,14 +13,14 @@
     <string name="Not_Installed">Nicht Installiert</string>
     <string name="Multiplayer_Sign">&lt;Mehrspieler</string>
     <string name="Quit_Sign">Verlassen</string>
-    <string name="World_Sign">Weltenauswahl</string>
-    <string name="Create_World">Welt erzeugen</string>
+    <string name="World_Sign">Weltauswahl</string>
+    <string name="Create_World">Welt erstellen</string>
     <string name="Spacebar">Leertaste</string>
     <!-- World Creation Menu -->
-    <string name="Resource_Level">Ressourcenmenge</string>
+    <string name="Resource_Level">Ressourcen</string>
     <string name="Power_Level">Energie</string>
-    <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
-    <string name="Day_Night_Cycle">Tag-/Nachtzyklus</string>
+    <string name="Conveyor_Speed">Förderband Geschwindigkeit</string>
+    <string name="Day_Night_Cycle">Tag/Nachtwechsel</string>
     <string name="Mob_Difficulty">Gegner</string>
     <string name="Death_Mode">Schwierigkeitsgrad</string><!-- Should be changed doesnt sound well, but maybe a start point -->
     <string name="Rush_Mode">Schnelles Spiel</string>
@@ -36,8 +36,8 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 
-    <string name="Creative_New">Der Kreativmodus gibt dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hochauflösende Blöcke, weitreichende Weltmanipulationswerkzeuge, Schemata, Blaupausen und Kopieren/Einfügen-Systeme stehen dir zur verfügung. Die meisten Elemente aus dem Überlebensmodus funktionieren hier nicht. Es kann nicht in Survival gewechselt werden!</string>
-    <string name="Creative_Info">Dies ist einen existierende Kreativwelt, jedoch, leider kann keine brauchbare Information angezeigt werden. Darf es dafür ein Bild einer Katze sein?</string>
+    <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem belieben zu gestalten. Du kannst aus Deinen Kreationen eigene Schemata erzeugen, diese als Blaupausen abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne Sie neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
+    <string name="Creative_Info">Dies ist einen existierende Kreativwelt, daher gibt es hier keine coolen Statistiken anzuzeigen.Wie wäre es mit dem Bild einer Katze?</string>
 
     <!-- Mod Menu -->
     <string name="Mod_Management">Mod Menü</string>
@@ -46,10 +46,10 @@
     <string name="Version">Version</string>
     <string name="Lock">Gesperrt</string>
     <string name="Status">Status</string>
-    <string name="Workshop">Werkstatt</string>
+    <string name="Workshop">Workshop</string>
 
     <string name="Workshop_Mod">Workshop Mod</string>
-    <string name="Update_Pending">Update ausstehend</string>
+    <string name="Update_Pending">Aktualisierung ausstehend</string>
     <string name="Downloading">Wird heruntergeladen</string>
 
     <!-- Difficulty Toggles -->
@@ -58,21 +58,21 @@
     <string name="Off">Aus</string>
     <string name="Locked">Gesperrt</string>
 
-    <string name="Plentiful">Reichhaltig</string>
+    <string name="Plentiful">Massenhaft</string>
     <string name="Scarce">Knapp</string>
-    <string name="Greg">Knauserig</string>
-    <string name="Rapid">Rapide</string>
+    <string name="Greg">Geizig</string>
+    <string name="Rapid">Blitzartig</string>
 
     <string name="Fast">Schnell</string>
     <string name="Slow">Langsam</string>
 
-    <string name="Eternal Day">Ewiger Tag</string>
+    <string name="Eternal Day">Immer Tag</string>
     <string name="Normal">Normal</string>
-    <string name="Eternal Night">Ewige Nacht</string>
+    <string name="Eternal Night">Immer Nacht</string>
 
-    <string name="Trivial Mobs">Trivial</string>
-    <string name="Normal Mobs">Normal</string>
-    <string name="Hard Mobs">Schwer</string>
+    <string name="Trivial Mobs">Einfache Gegner</string>
+    <string name="Normal Mobs">Normale Gegner</string>
+    <string name="Hard Mobs">Schwere Gegner</string>
 
     <string name="None">Keine</string>
     <string name="Clumsy">Tollpatschig</string>
@@ -84,22 +84,23 @@
     <string name="Creative">Kreativ</string>
 
     <!-- Difficulty Readbacks -->
-    <string name="Default_Settings_Info">Die Standard Einstellungen sind auf sehr schnell und sehr einfach für neue Spieler! Wenn du es NOCH schneller willst, wähle 'Ewiger Tag' bei Tag-/Nachtzyklus. Wenn du grössere Herausforderungen suchst, spiele nach Herzenslust mit den Einstellungen!&#13;Vergiss jedoch nicht sobald eine Welt gestartet wurde, sind die Einstellungen UNVERÄNDERBAR bis zum Erstellen einer neuen Welt. Achte zudem auf die Laufzeiten eines Durchgangs!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
-    <string name="Previous_Visit">Du hast diese Welt zuvor bereits besucht!</string>
+    <string name="Default_Settings_Info">Die Standardeinstellungen sind zum Einstieg für neue Spieler auf sehr schnell und sehr einfach gestellt! Wenn Du noch schnelleren Fortschritt möchtest, kannst Du \'Immer Tag\' bei Tag-/Nachtzyklus auswählen. Passe die Einstellungen nach Deinem belieben an, wenn Du größere Herausforderungen suchst.
+Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen für diese Welt UNVERÄNDERBAR. Achte zudem auf die durchschnittliche Spieldauer, die sich aus den von Dir vorgenommenen Einstellungen berechnet!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
+    <string name="Previous_Visit">In dieser Welt bist Du bereits gewesen!</string>
     <string name="Play_time">Spielzeit</string>
     <string name="Mod_Selected">Mod ausgewählt.</string>
     <string name="Mods_Selected">Ausgewählte Mods.</string>
     <string name="Existing_Seed">Existierender Seed</string>
 
-    <string name="Resources_Plentiful_Info">Reichhaltige Ressourcen gibt dir grosse Vorkommen, was dein Anfangs- und Endspiel Fortschritt stark verschnellert. Diese Einstellung ist optimal für geduldige Anfänger / Einsteiger.</string>
-    <string name="Resources_Scarce_Info">Knappe Ressourcen werden dir ein langsameres, durchdachteres Spielerlebnis geben, in welchem du mehr Zeit zum optimieren deiner Basis brauchst. Nicht empfohlen für neue Spieler!</string>
-    <string name="Resources_Greg_Info">Knauserige Ressourcen wird deinen Fortschritt extrem verlangsamen. Dies ist für 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
-    <string name="Resources_Rapid_Info">Rapide Ressourcen ist für Leute ausgelegt, die in Eile sind, Kinder haben, viel arbeiten oder für Streamer, welche das Spiel an einem Wochenende fertig gespielt haben wollen! Ebenfalls ist dies eine perfekte Einstellung um das Spiel zu lernen.</string>
-    <string name="Conveyor_Slow_Info">Langsame Förderbänder belohnen ein besser optimiertes Förderbandsystem. Diese Einstellung wird dein Fortschritt um einiges langsamer.</string>
-    <string name="Conveyor_Fast_Info">Empfohlener Modus. Schnelle Förderbänder bedeutet weniger warten. Sie sind doppelt so schnell als bei der langsamen Einstellung.</string>
+    <string name="Resources_Plentiful_Info">\'Massenhaft Ressourcen\' sorgt dafür, dass Du schnell an viele Ressourcen kommst. Durch diese Einstellung wirst Du Dich und Deine Welt während der gesamten Spielzeit viel schneller weiterentwickeln. Diese Einstellung wird für geduldige Einsteiger empfohlen.</string>
+    <string name="Resources_Scarce_Info">\'Knappe Ressourcen\' wird Dir ermöglichen, Dein Spiel ruhig und durchdacht anzugehen. Du wirst mehr Zeit zur Optimierung Deiner Basis oder zum Erkunden Deiner Welt haben. Nicht empfohlen für neue Spieler!</string>
+    <string name="Resources_Greg_Info">\'Geizige Ressourcen\' wird Deinen Fortschritt extrem verlangsamen. Diese Einstellung ist auf 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
+    <string name="Resources_Rapid_Info">"\'Blitzartige Ressourcen\' ist für diejenigen gedacht, die ein Spiel gerne schnell durchspielen oder Kinder haben oder viel arbeiten. Oder für Streamer, die das Spiel gerne an einem Wochenende schnell durchspielen möchten! Diese Einstellung eignet sich sehr gut dazu, einen ersten Einblick in das Spiel zu bekommen bevor man sich anschließend einer Welt mit einem höheren Schwierigkeitsgrad zuwendet. "</string>
+    <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' ist sehr ausgeglichen und legt großen Wert auf ein gut strukturiertes Förderbandsystem. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
+    <string name="Conveyor_Fast_Info">\'Schnelle Förderbänder\' bedeuten weniger Wartezeit. Sie sind doppelt so schnell wie \'Langsame Förderbänder\'.</string>
 
-    <string name="Plentiful_Power_Info">Reichhaltige Energie erhöht die Energieproduktion der Generatoren. Dies verändert stark die Geschwindigkeit des Spielstarts.</string>
-    <string name="Scarce_Power_Info">Empfohlener Modus. Diese Auswahl wird den Spielstart eher verlangsamen.</string>
+    <string name="Plentiful_Power_Info">\'Massenhaft Energie\' sorgt dafür, dass jede Energiequelle um ein vielfaches mehr Energie erzeugt. Durch diese Einstellung ist es einfacher, in der Anfangsphase schnellen Fortschritt zu erzielen.</string>
+    <string name="Scarce_Power_Info">\'Knappe Energie\' sorgt dafür, dass jede Energiequelle ein ausgeglichenes Maß an Energie erzeugt. Durch diese Einstellung ist es schwieriger, in der Anfangsphase Fortschritt zu erzielen.</string>
 
     <string name="Eternal_Day_Info">Ewiger Tag bedeutet, dass die Solarpaneele zu jederzeit Energie liefern und dass der Temparaturabfall über Nacht nicht eintritt. Diese Auswahl wird zudem den Fortschritt deutlich verschnellern - Solarpaneele ergeben dadurch 4x mehr Energie!</string>
     <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit wirst du extreme Temperaturstürze, aggressivere Gegner und schlechtere Sichtweite als normal erleiden.</string>
