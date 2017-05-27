@@ -1,2 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Heisann! Språket ditt er bare delvis støttet. Hvis du vil gå tilbake til engelsk, så trykk bare på \'engelsk\' nedenfor!</string>
+	<string name="Translation_Incomplete">Oversettelse Ufullstendig!</string>
+	<string name="Language_Name">Engelsk</string><string name="Frozen_Factory">Frossen Fabrikk</string>
+	<string name="Dapper_Pack">Dapper Pack</string>
+	<string name="Installed">installert</string>
+	<string name="Not_Installed">Ikke installert</string>
+	<string name="Create_World">Lag verden</string>
+	<string name="Spacebar">Mellomrom</string>
+	<string name="Conveyor_Speed">Transporthastighet</string>
+	<string name="Power_Level">Kraftnivå</string>
+	<string name="Day_Night_Cycle">Dag / nattesyklus</string>
+	<string name="Mob_Difficulty">Mob Vanskelighetsgrad</string>
+	<string name="Death_Mode">Dødsmodus</string>
+	<string name="Flatland">Flatt land</string>
+	<string name="Care_Package">Omsorgspakke</string>
+	<string name="Survival_Options">Overlevelsesalternativer</string>
+	<string name="Mode">Modus</string>
+	<string name="Select_Mods">Velg Mods</string>
+	<string name="Back">Tilbake</string>
+	<string name="Enter_World">Gå inn i verden</string>
+	<string name="Reset_World">Tilbakestill verden</string>
+
+
+	<string name="Creative_New">Creative Mode gir deg ubegrenset evne til å bygge noe, detaljerte blokker med høy oppløsning, omfattende redigeringsverktøy, skemaer, blueprints og copy-paste-systemer. Den inneholder ikke det meste av overlevelseselementene, og bør ikke betraktes som en \"juksemodus\" for Survival!</string>
+	<string name="Creative_Info">Dette er en eksisterende kreativ verden, men dessverre har jeg ikke kul statistikk for å virkelig vise deg her. Vil du ha et bilde av en katt i stedet?</string>
+
+	<string name="Mod_Management"/>
+	<string name="Mod_Name">Mod Navn</string>
+	<string name="Active">Aktiv</string>
+	<string name="Version">Versjon</string>
+	<string name="Lock">Låse</string>
+	<string name="Update_Pending">Oppdatering Venter</string>
+	<string name="Downloading">nedlasting</string>
+
+	<string name="On">På</string>
+	<string name="Off">Av</string>
+	<string name="Locked">Låst</string>
+
+	<string name="Plentiful">Rikelig</string>
+	<string name="Rapid">Rask</string>
+
+	<string name="Fast">Fort</string>
+	<string name="Slow">Langsom</string>
+
+	<string name="Eternal Day">Evig dag</string>
+	</resources>
