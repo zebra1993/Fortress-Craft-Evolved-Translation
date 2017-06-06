@@ -2603,4 +2603,43 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
 	<string name="RubbleHint">Et saa soraa jos superkaivat. Pidä vasen-ctrl superkaivaaksesi.</string>
 	<string name="ARTHER_No_Coal">Varoitus! Minuutti ilman hiilenpolttoa.</string>
 
-	</resources>
+	<string name="ARTHER_AlreadyScanned">on jo luodattu. Paina H saadaksesi lisätietoa.</string>
+    <string name="ARTHER_AmbienceDisabled">Taustaäänet pois päältä</string>
+    <string name="ARTHER_AmbienceEnabled">Taustaäänet päällä</string>
+    <string name="ARTHER_AttackDetected">PINTAHYÖKKÄYS HUOMATTU!</string>
+    <string name="ARTHER_AutomateGold">. Meidän täytyy mennä ainakin -300m ja automatisoida kullaan keruu&amp;#34;</string>
+    <string name="ARTHER_AutomateIron">. Meidän täytyy mennä ainakin -65m ja automatisoida raudan keruu&amp;#34;</string>
+    <string name="ARTHER_AutomateLithium">. Meidän täytyy mennä ainakin -120m ja automatisoida litiumin keruu&amp;#34;</string>
+    <string name="ARTHER_AutomateNickel">. Meidän täytyy mennä ainakin -400m ja automatisoida nikkelin keruu&amp;#34;</string>
+    <string name="ARTHER_AutomateTitanium">. Meidän täytyy mennä ainakin -350m ja automatisoida titaanin keruu&amp;#34;</string>
+    <string name="ARTHER_Boot">&amp;#34; A.V.U.T.I.N. vedos 1.337f nyt päällä.</string>
+    <string name="ARTHER_BuildPTG">Sinun pitäisi rakentaa polttovoimala.</string>
+    <string name="ARTHER_ChargingSolar">AVUTIN latautuu aurinkoenergiasta...</string>
+    <string name="ARTHER_Close">AVUTIN pysyy lähellä. Paina TAB lähettääksesi AVUTIN:n taas pois.</string>
+    <string name="ARTHER_Days">" päivää&amp;#34;"</string>
+    <string name="ARTHER_Docked">Telakoiduttu ja latautuu...</string>
+    <string name="ARTHER_Extractor_Issue">malmilouhijalla on ongelmia!</string>
+    <string name="ARTHER_Far">Liikutaan pois. Paina TAB kutsuaksesi AVUTIN:n takaisin.</string>
+    <string name="ARTHER_FightLose">Päävirtakeskus tuhoutunut! Itsekorjaus käynnistetty...</string>
+    <string name="ARTHER_FightWin">Pintahyökkäysryhmät loppuneet. Palataan perusluotaukseen.</string>
+    <string name="ARTHER_FindFuel">Jos jatkamme syvemmälle ja tunnistussysäosemme voimme löytää uuden polttoaineen.</string>
+    <string name="ARTHER_FindGold">Meidän täytyy löytää kultaa. Meidän pitäisi mennä syvemmälle ja tunnistusysäistä.</string>
+    <string name="ARTHER_FindIron">Voimme löytää rautaa jos menemme syvemmälle. Paina M valitaksesi luotain.</string>
+    <string name="ARTHER_FindLithium">Voimme löytää litiumia jos menemme syvemmälle. Paina M valitaksesi luotaimen.</string>
+    <string name="ARTHER_FindNickel">Meidän täytyy löytää nikkeliä. Meidän pitäisi mennä syvemmälle ja tunnistusysäistä.</string>
+    <string name="ARTHER_FindTitanium">Meidän täytyy löytää titaania. Meidän pitäisi mennä syvemmälle ja tunnistusysäistä.</string>
+    <string name="ARTHER_GoDeeper">Useimmat malmit löytyvät syvältä maanalta. Paina M valitaksesi luotain ja tunnistussysäys.&amp;#34;</string>
+    <string name="ARTHER_More_Extractors">Meidän tarvitsee rakentaa malmilouhijoita!</string>
+    <string name="ARTHER_NeedCore">A.V.U.T.I.N. TARVITSEE VIRTALÄHTEEN HETI! TEE SE VALMISTUSASEMALLA!</string>
+    <string name="ARTHER_NoPowerCore">VIRHE, A.V.U.T.I.N. VIRTALÄHDE KADOKSISSA. ++?????++ Juusto loppu -virhe. Aloita alusta.</string>
+    <string name="ARTHER_NoSolar">AVUTIN:n virta vähissä! Ei aurinkoenergiaa tässä paikassa.</string>
+    <string name="ARTHER_PressH">Päävirtakeskustarkistukset valmiit. Ole hyvä ja paina h päästäksesi käsikirjaan ja viimeistelläksesi käynnistyksen.</string>
+    <string name="ARTHER_Reminder">"&amp;#34;Muistutus : sinulla on "</string>
+    <string name="ARTHER_Sunrise">"Auringonnousu huomattu päivänä "</string>
+    <string name="ARTHER_Sunset">Aurinko laskee. Pinnan lämpötila putoaa. Novan arvioitu saapuminen : &amp;#34;</string>
+    <string name="ARTHER_UnprocessedScans">" käsittelemätöntä luotausta!"</string>
+    <string name="ARTHER_Vein_Exhausted">" suoni on loppunut ja sen raivaus on aloitettu"</string>
+    <string name="ARTHER_Vein_Warning">"Varoitus! Yksi "</string>
+    <string name="Tutorial_Smelter_Permissions">Varoitus! sulattamohypytin lisää/poista tilassa - tarkoititko asettaa luvat?</string>
+
+</resources>
