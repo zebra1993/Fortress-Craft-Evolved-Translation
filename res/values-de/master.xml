@@ -2639,4 +2639,5 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Build a 3x3x3 Laboratory">Baue ein 3x3x3 Labor!</string>
     <string name="MISSION_Extract or Smelt Iron">Baue ab oder Schemze Eisen.</string>
     <string name="MISSION_Find Iron Ore with Ping Unknown">Finde Eisenerz mit Ping Unbekanntes.</string>
-    </resources>
+    <string name="MISSION_Open Handbook">Drücke (H) um das Handbuch zu öffnen</string>
+	</resources>
