@@ -1899,7 +1899,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="FALCOR MK1_CRAFT_HINT">Ideal für Überbleibsel von Wespen!</string>
     <string name="Logistics FALCOR_CRAFT_DESC">Sammelt automatisch Gegenstände von FALCOR Leuchtfeuern, welche auf Container platziert wurden.</string>
     <string name="Logistics FALCOR_CRAFT_HINT">Ideal für den Transport von kleinen Mengen über große Distanz.</string>
-    <string name="FALCOR Bomber_CRAFT_DESC">Liefert selbständig Cryobomben zum Cryoplasma.</string>
+    <string name="FALCOR Bomber_CRAFT_DESC">Wirft selbstständig Cryobomben über Cyroplasma ab.</string>
     <string name="FALCOR Bomber_CRAFT_HINT">Bomben müssen in angrenzendem Container sein.</string>
     <string name="Cryo Bomb Assembler_CRAFT_DESC">Stellt Cryobomben her.</string>
     <string name="Cryo Bomb Assembler_CRAFT_HINT">Explosive Eillieferung für Cryoplasma.</string>
@@ -2545,7 +2545,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="OE_Searching">Suche nach Erzen...</string>
     <string name="Next">Nächstes</string><!-- Next [ORE_NAME] in [TIME]-->
     <string name="In">In</string><!-- No I don't think it'll make a lot of sense in most languages-->
-    <string name="Total_Stored">Total gelagert</string>
+    <string name="Total_Stored">Lagerbestand</string>
     <string name="Drill_Rate">Bohrrate</string>
     <string name="Durability">Lebensdauer</string>
     <string name="Ore_Per_Min">Erz pro Minute</string>
