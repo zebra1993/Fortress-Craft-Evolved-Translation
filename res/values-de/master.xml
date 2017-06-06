@@ -802,15 +802,15 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Reinforced Concrete Wall_DESC"/>
     <string name="Lava">Lava</string>
     <string name="Lava_DESC">Lava, schmiltzt alles was reinfällt. Ausser Blöcke</string>
-    <string name="Scorched Earth">Verbrannte Erge</string>
+    <string name="Scorched Earth">Verbrannte Erde</string>
     <string name="Scorched Earth_DESC"/>
-    <string name="Metal Siding 2">Metal Gehsteig 2</string>
+    <string name="Metal Siding 2">Metall Gehsteig 2</string>
     <string name="Metal Siding 2_DESC"/>
     <string name="Construction Crate">Baurost</string>
     <string name="Construction Crate_DESC"/>
     <string name="Bound Wooden Crate">Gebundene Holzkiste</string>
     <string name="Bound Wooden Crate_DESC"/>
-    <string name="Bound Metal Crate">Gebundene Metalkiste</string>
+    <string name="Bound Metal Crate">Gebundene Metallkiste</string>
     <string name="Bound Metal Crate_DESC"/>
     <string name="Paper Wrapped Crate">Papier umhüllte Kiste</string>
     <string name="Paper Wrapped Crate_DESC"/>
@@ -848,7 +848,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Snowman_DESC"/>
     <string name="Nickel Ore">Nickelerz</string>
     <string name="Nickel Ore_DESC"/>
-    <string name="Titanium Ore">Titanerk</string>
+    <string name="Titanium Ore">Titanerz</string>
     <string name="Titanium Ore_DESC"/>
     <string name="Crystal Deposit">Kristallablagerung</string>
     <string name="Crystal Deposit_DESC"/>
@@ -879,7 +879,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Sapphire Crystal">Sapphirkristall</string>
     <string name="Sapphire Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Topaz Crystal">Topazkristall</string>
-    <string name="Topaz Crystal_DESC">Diese hochwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
+    <string name="Topaz Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
     <string name="Sugalite Crystal_DESC">Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</string>
     <string name="Rocket Framework">Raketengerüst</string>
