@@ -843,4 +843,34 @@ Nur 5 Energie pro Müll!
 <string name="MA.Geological_Surveyor.01.Paragraph">Der Geologische Landvermesser scannt die Landschaft unter sich selbst in seiner unmittelbaren Nähe, um Ressourcen zu erkennen und die Gesamtmenge des Erzes zurückzugeben, die es schrittweise tiefer sucht. Verwenden Sie Ihn, um Abbaugebiete am besten zu positionieren.</string>
 <string name="MA.Glow_Stick.01.Paragraph">Leuchtstäbe werden automatisch von deinem Anzug für 5 Energie hergestellt. Drücke G um einen Leuchtstab zu werfen!</string>
 <string name="MA.GlowShroom.01.Paragraph">Ein leuchtender Pilz der auf der Oberfläche dieses Planeten gefunden wurde. Nicht essen!</string>
+<string name="MA.Geothermal_Generator_Comp..01.Paragraph">"Die Geothermal-Generatorkomponenten werden für einen besseres Energiegenerations-System benötigt, welches bis zu 10 mal mehr Energie produzieren kann als eine Generatorturbine. Der Geothermalgenerator muss in den Frosthölen errichtet werden und mit wärmeleitenden Rohrenversorgt werden um zu funktionieren.
+Energie wird durch den Temperaturunterschieden zwischen dem Rohrsystem und der Frosthöle generiert. Um so tiefer die Rohre unterhalb der Frosthöle gehen, desto mehr Energie wird produziert. Wenn die Rohrleitung einmal die Magmahölen erreicht hat, nehmen die Rohre so viel Wärme vom umliegenden Magma auf, sodass die Energieproduktion in die Höhe schießt.
+Da der Generator mit Temperaturunterschieden funktioniert, sollte eine Versorgung mit Freezon die Effizienz signifikant erhöhen. "</string>
+<string name="MA.Gold_Bar.01.Paragraph">Goldbarren werden sehr häufig für fortgeschrittene Maschinen benötigt, vorallem für qualitativ hochwertige elektronische Kontakte. Auch findet Gold bei dekorativen Gegenständen oder Schmuckstücken seinen Einsatz.
+Goldbarren werden durch das Schmelzen von Golderz erzeugt, welches ab 250 Meter unter der Oberfläche zu finden ist.</string>
+<string name="MA.Gold_Coil.01.Paragraph">Golddrähte werden in einer Wickelmaschine zu Goldspulen gewickelt. Diese können weiter zu leitenden Leiterplatten verarbeitet werden.</string>
+<string name="MA.Gold_Housing.01.Paragraph">Goldgehäuse werden aus Goldplatten gebaut.</string>
+<string name="MA.Gold_Pipe.01.Paragraph">Goldrohre werden in einer Rohrextrudier Maschine hergestellt.</string>
+<string name="MA.Gold_Plate.01.Paragraph">Goldplatten werden in der Stempel Maschine aus Goldbarren hergestellt.</string>
+<string name="MA.Gold_Wire.01.Paragraph">Golddraht wird in der Extrudier Maschine aus Goldparren hergestellt.</string>
+<string name="MA.Green_Canvas.01.Paragraph">Ein grüner Leinwandblock. Ideal zum dekorieren.</string>
+<string name="MA.Green_GlowPod.01.Paragraph">Diese einheimische Pflanze erzeugt ein stetiges grünes Leuchten, das durch eine chemische Reaktion der Pflanze erzeugt wird.</string>
+<string name="MA.Hard_Resin_Ablator.01.Paragraph">Dies ist der erste von drei benötigten Schritten um gehärtetes Harz nutzbar zu machen, welches vom Schwarmstock abgesondert wird.
+Der Laserharzabtrager benutzt die gebündelte Kraft des Lichts um die gehärtete Hülle des Harzes zu zerstören..
+Ist dies geschehen kann das weiche Harz mit dem Laserharzverflüssiger das Harz verflüssigt und abtransportiert werden.
+Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter verarbeitet werden.</string>
+<string name="MA.Hard_Resin_Ablator.02.Paragraph">"Harzabtragung bezeichnet den Verlust von Oberflächenmaterial durch Hitze und Reibung "</string>
+<string name="MA.Hard_Resin_Liquifier.01.Paragraph">Dies ist der zweite von drei benötigten Schritten um gehärtetes Harz nutzbar zu machen, welches vom Schwarmstock abgesondert wird.
+Der Laserharzverflüssiger benutzt heißes Plasma um den noch weichen Kern vom Harz zu schmelzen und zu extrahieren.
+Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter verarbeitet werden.
+Um gehärtetes Harz zu abgetragens Harz zu verarbeiten benutze den Laserharzabtrager.</string>
+<string name="MA.Hard_Resin_Refinery.01.Paragraph">"Dies ist der finale Schritt um gehärtetes Harz nutzbar zu machen, welches vom Schwarmstock abgesondert wird.
+ "</string>
+<string name="MA.Hard_Resin_Refinery.02.Paragraph">"Der Laserharzverflüssiger benutzt heißes Plasma um den noch weichen Kern vom Harz zu schmelzen und zu extrahieren.
+Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter verarbeitet werden.
+ "</string>
+<string name="MA.Hard_Resin_Refinery.03.Paragraph">"Um gehärtetes Harz zu abgetragens Harz zu verarbeiten benutze den Laserharzabtrager.
+ "</string>
+<string name="MA.HardResinDetector.01.Paragraph">Dieses Frühwarnsystem erkennt Ansammlungen von gehärtetem Harz. Wir haben solche Ansammlungen über den kompletten Planeten verteilt gefunden. Die Hitze und Vibrationen unserer Basis scheint die Schwarmstöcke anzuziehen. Wenn wir nicht aufpassen werden die Stöcke unsere Maschinen überwachsen.
+Das Frühwarnsystem zeigt uns den Weg zu den nächsten Schwarmstöcken um uns, wenn nötig, frühzeitiger um das Problem kümmern zu können.</string>
 </resources>
