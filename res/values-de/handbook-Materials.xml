@@ -873,4 +873,15 @@ Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter ve
  "</string>
 <string name="MA.HardResinDetector.01.Paragraph">Dieses Frühwarnsystem erkennt Ansammlungen von gehärtetem Harz. Wir haben solche Ansammlungen über den kompletten Planeten verteilt gefunden. Die Hitze und Vibrationen unserer Basis scheint die Schwarmstöcke anzuziehen. Wenn wir nicht aufpassen werden die Stöcke unsere Maschinen überwachsen.
 Das Frühwarnsystem zeigt uns den Weg zu den nächsten Schwarmstöcken um uns, wenn nötig, frühzeitiger um das Problem kümmern zu können.</string>
+<string name="MA.Hardened_PCB.01.Paragraph">Eine aus Eisen bestehende Platine. Sie wird aus Eisenspulen in der Leiterplatten Montagemaschine hergestellt.</string>
+<string name="MA.Heat_Conducting_Pipe.01.Paragraph">Wärmeleitende Rohre vereinen die Fähigkeiten von flüssigkeiten transportierenden Kupferrohren und Druckresistenten Kristallfibergeweben. Diese Neuerung ermöglicht das effiziente Einsetzen von Geothermalgeneratoren, was diese zu einer idealen Lösung unserer immer wachsenden Energieprobleme macht.</string>
+<string name="MA.High_Energy_Composite_Fuel.01.Paragraph">Hochenergetischer Verbundtreibstoff wird in Raffinerien aus Biomasse hergestellt. Es eignet sich hervorragend als Treibstoff für Generatorturbinen. Zudem wird es bei der Herstellung von Abwehrraketen benötigt.</string>
+<string name="MA.Hive_Brain_Matter.01.Paragraph">Der größte Teil des Kerns der Schwarmintelligenz wurde bei der Explosion zerstört. Das Schwarmintelligenz-Gehirn ist allerdings noch intakt genug um es weiter untersuchen zu können. Das Labor sollte in der Lage sein das Wissen in Forschungspunkte zu wandeln.</string>
+<string name="MA.Hydrojet_Cutter.01.Paragraph">Platziere dieses Bauteil auf die Konstruktionsanlage. Diese Erweiterung ermöglicht es der Konstruktionsanlage Anzugsverbesserungen herzustellen.</string>
+<string name="MA.ImprovedCargoLift.01.Paragraph">Dieser Warenlift ist um einiges schneller und größer als das Vorgängermodell. Dadurch ist es wunderbar geeignet für den Transport tiefer liegender Ressourcen, Wie Nickel, Kristall oder Biomasse.</string>
+<string name="MA.ImprovedCargoLift.03.Left">"Maximale Reichweite:
+Maximale Geschwindigkeit
+Bescheunigung:
+Maximale Tragekapazität
+ "</string>
 </resources>
