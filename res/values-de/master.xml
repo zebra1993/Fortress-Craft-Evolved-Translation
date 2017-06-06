@@ -1432,7 +1432,7 @@ Sehr Energie hungrig!</string>
     <string name="Mephitic Missile Assembler">Gifitge Raketenmontage</string><!-- Not optimal-->
     <string name="Mephitic Missile Assembler_DESC">Nutzt Chlorkarutuschen um Schaden über eine bestimmte Zeit dem Ziel zuzuführen, gibt 50% Schaden über 30s zusätzlich.</string>
     <string name="Steel Alloy Smelter">Legierungsstahlofen</string>
-    <string name="Steel Alloy Smelter_DESC">Verhüttet automatisch Nickel und Eisen zu niederwertigen Stahlbarren.</string>
+    <string name="Steel Alloy Smelter_DESC">Schmelzt automatisch Nickel und Eisen zu niederwertigen Stahlbarren.</string>
     <string name="Advanced Machine Block Assembler">Fortgeschrittene Maschinenblockmontage</string>
     <string name="Advanced Machine Block Assembler_DESC">Stellt selbständig verbesserte Maschinenblöcke aus Stahl und Taktgebern her.</string>
     <string name="Imbued Machine Block Assembler">Durchtränkte Maschinenblockmontage</string>
@@ -1583,7 +1583,7 @@ Sehr Energie hungrig!</string>
     <string name="SpiderBotBase">Spinnenroboterbasis</string>
     <string name="SpiderBotBase_DESC"/>
     <string name="Laser Resin Ablator">Laserharzabtrager</string>
-    <string name="Laser Resin Ablator_DESC">Trägt nahe gelegenes gehärtetes Harz ab.</string>
+    <string name="Laser Resin Ablator_DESC">Trägt gehärtetes Harz ab.</string>
     <string name="Laser Resin Liquifier">Laserharzverflüssiger</string>
     <string name="Laser Resin Liquifier_DESC">Konvertiert, sammelt und zerstört abgetragenes Harz in der Nähe.</string>
     <string name="Partially Ablated Resin">Teileiweise abgetragenes Harz</string>
