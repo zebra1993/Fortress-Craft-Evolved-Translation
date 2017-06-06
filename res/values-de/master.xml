@@ -1623,7 +1623,7 @@ Sehr Energie hungrig!</string>
     <string name="Ruined Organic Thief_DESC">Entfernt ruiniertes organisches Material aus dem Inventar.</string>
     <string name="T4 Power Conduit">T4 Energieleitung</string>
     <string name="T4 Power Conduit_DESC">Nicht Wichtig</string>
-    <string name="Cold Cavern Climate Control Centre">Kaltehöhlenklimasteurrungszentrum</string><!-- Use less long word, not optimal -->
+    <string name="Cold Cavern Climate Control Centre">Kalte-Kavernen-Klimakontrollkern</string><!-- Use less long word, not optimal -->
     <string name="Cold Cavern Climate Control Centre_DESC">Nicht Wichtig</string>
     <string name="CryoPlasm Lancer">CryoPlasma Lanze</string> <!--not optimal -->
     <string name="CryoPlasm Lancer_DESC">Schnelle Verteidigung gegen Cryoplasma mit kurzer Reichweite.</string>
@@ -1631,7 +1631,7 @@ Sehr Energie hungrig!</string>
     <string name="CryoPlasm Melter_DESC">Schmelzt CryoPlasma auf mittlere Distanz. Nur nutzvoll wenn zusammen mit anderen Verteidigungssystemen genutzt.</string>
     <string name="CryoPlasm Dazzler Turret">Cryoplasma Blenderturm</string><!--not optimal -->
     <string name="CryoPlasm Dazzler Turret_DESC">Schnelle Verteidigung gegen CryoPlasma auf große Distanz. Funktioniert nur in gerader Linie. Braucht 250k Energie um zu feuern.</string>
-    <string name="Single-Use Hard Rock Grinder">Einweg Hartgesteinsmühle</string>
+    <string name="Single-Use Hard Rock Grinder">Einweg-Hartgesteinraspler</string>
     <string name="Single-Use Hard Rock Grinder_DESC">Nicht Wichtig.</string>
     <string name="Magma Bore">Magma Bohrer</string>
     <string name="Magma Bore_DESC">Nicht Wichtig.</string>
