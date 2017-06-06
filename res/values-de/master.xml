@@ -96,7 +96,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
     <string name="Resources_Scarce_Info">\'Knappe Ressourcen\' wird Dir ermöglichen, Dein Spiel ruhig und durchdacht anzugehen. Du wirst mehr Zeit zur Optimierung Deiner Basis oder zum Erkunden Deiner Welt haben. Nicht empfohlen für neue Spieler!</string>
     <string name="Resources_Greg_Info">\'Geizige Ressourcen\' wird Deinen Fortschritt extrem verlangsamen. Diese Einstellung ist auf 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
     <string name="Resources_Rapid_Info">\'Blitzartige Ressourcen\' ist für diejenigen gedacht, die ein Spiel gerne schnell durchspielen oder Kinder haben oder viel arbeiten. Oder für Streamer, die das Spiel gerne an einem Wochenende schnell durchspielen möchten! Diese Einstellung eignet sich sehr gut dazu, einen ersten Einblick in das Spiel zu bekommen bevor man sich anschließend einer Welt mit einem höheren Schwierigkeitsgrad zuwendet.</string>
-    <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' ist sehr ausgeglichen und legt großen Wert auf ein gut strukturiertes Förderbandsystem. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
+    <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' sind sehr ausgeglichen, daher muss großer Wert auf ein gut strukturiertes Förderbandsystem gelegt werden. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
     <string name="Conveyor_Fast_Info">\'Schnelle Förderbänder\' bedeuten weniger Wartezeit. Sie sind doppelt so schnell wie \'Langsame Förderbänder\'.</string>
 
     <string name="Plentiful_Power_Info">\'Massenhaft Energie\' sorgt dafür, dass jede Energiequelle um ein vielfaches mehr Energie erzeugt. Durch diese Einstellung ist es einfacher, in der Anfangsphase schnellen Fortschritt zu erzielen.</string>
@@ -106,7 +106,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
     <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit sinkt die Temperatur drastisch, die Gegner sind aggressiver und die Sichtweite ist stark eingeschränkt.</string>
     <string name="Eternal_Night_Info">\'Immer Nacht\' bedeutet, Du hast keine Möglichkeit Dich von der eisigen Kälte der Nacht zu erholen. Darüber hinaus können normale Solarzellen und Dein ZEV keine Energie erzeugen. Biologische Solarzellen erzeugen bei dieser Einstellung nur minimal Energie. Diese Einstellung wird Dich vor eine sehr große Herausforderung stellen.</string>
 
-    <string name="Death_Default_Info">Standardmodus. Keine Strafe bei Tod ausser niedrige Lebenspukte und ein langer Fussmarsch. Das macht das Spiel extrem einfach da du dich nicht vor den zahlreichen interessanten Möglichkeiten zu sterben fürchten musst.</string>
+    <string name="Death_Default_Info">"Das ist der Standardmodus. Sterben wird nicht bestraft, abgesehen davon das Du mit niedrigen Lebenspunkten startest und ggf. einen langen Weg zu Deinem ehemaligen Inventar vor Dir hast. Das Spiel wird durch diese Einstellung enorm vereinfacht. "</string>
     <string name="Death_Clumsy_Info">Tollpatschig wird empfohlen, wenn du eine annehmbare Herausforderung willst und einen guten Grund nicht zu sterben. Wenn du stirbst werden alle Gegenstände in deinem Inventar auf dem Boden verteilt!</string>
     <string name="Death_Ironman_Info">NICHT FÜR ANFÄNGER!
 
