@@ -2610,4 +2610,9 @@
 	<string name="RubbleHint">Щебня не будет при использовании Супер-рытья! Для этого удерживайте Лев. Ctrl!</string>
 	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
 
-	</resources>
+	<string name="ARTHER_AlreadyScanned">- уже есть такой образец! Нажмите H для информации.</string>
+    <string name="ARTHER_AttackDetected">ОБНАРУЖЕНА АТАКА НА ПОВЕРХНОСТИ!</string>
+    <string name="ARTHER_AutomateGold">. Нужно достичь глубины ниже -300 м и автоматизировать добычу Золота.&amp;#34;</string>
+    <string name="ARTHER_Boot">&amp;#34;АРЧЕР версии 1.337f включён.</string>
+    <string name="ARTHER_BuildPTG">Постройте Пиротермический Генератор!</string>
+    </resources>
