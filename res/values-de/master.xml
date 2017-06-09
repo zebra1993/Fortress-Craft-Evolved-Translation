@@ -791,21 +791,21 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Ivy">Efeu</string>
     <string name="Ivy_DESC"/>
     <string name="Metal Siding 1">Metall Gehsteig 1</string>
-    <string name="Metal Siding 1_DESC"/>
+    <string name="Metal Siding 1_DESC">Metallauffläche auf der man laufen kann. Rauer Untergrund sodass man nicht ausrutscht.</string>
     <string name="GlassBlock">Glassblock</string>
-    <string name="GlassBlock_DESC"/>
+    <string name="GlassBlock_DESC">Glasbock, durchsichtig, hasst fettige Fingerabdrücke</string>
     <string name="Chevron Sign">Zickzackschild</string><!-- Not the best translation-->
-    <string name="Chevron Sign_DESC"/>
+    <string name="Chevron Sign_DESC">Block mit gezacktem Muster drauf um auf Gefahren hin zu weisen.</string>
     <string name="Drain Grate">Abflussgitter</string>
-    <string name="Drain Grate_DESC"/>
+    <string name="Drain Grate_DESC">Das Abflussgitter lässt Pfützen und Wasseransammlungen einfach so verschwinden. MAGIE!?</string>
     <string name="Reinforced Concrete Wall">Verstärkte Betonwand</string>
-    <string name="Reinforced Concrete Wall_DESC"/>
+    <string name="Reinforced Concrete Wall_DESC">Verstärkte Betonwand. Sieht der normalen Betonwand ähnlich, hat die selbe Funktion, kostet dafür aber mehr.</string>
     <string name="Lava">Lava</string>
     <string name="Lava_DESC">Lava, schmiltzt alles was reinfällt. Ausser Blöcke</string>
     <string name="Scorched Earth">Verbrannte Erde</string>
-    <string name="Scorched Earth_DESC"/>
+    <string name="Scorched Earth_DESC">Hier wächst kein Gras mehr. Nicht nur für kurz sondern für immer.</string>
     <string name="Metal Siding 2">Metall Gehsteig 2</string>
-    <string name="Metal Siding 2_DESC"/>
+    <string name="Metal Siding 2_DESC">Dies ist ein schöner Metalgehsteig, erhitzt sich in der wärme der Sonne. Bleib micht zu lange drauf stehn sonst schmilzt dein Anzug.</string>
     <string name="Construction Crate">Baurost</string>
     <string name="Construction Crate_DESC"/>
     <string name="Bound Wooden Crate">Gebundene Holzkiste</string>
@@ -851,9 +851,9 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Titanium Ore">Titanerz</string>
     <string name="Titanium Ore_DESC"/>
     <string name="Crystal Deposit">Kristallablagerung</string>
-    <string name="Crystal Deposit_DESC"/>
+    <string name="Crystal Deposit_DESC">Kristalle in enger Formation. Sie scheinen mit Strom und ein bischen Kraft einen Schwingkreis zu ermöglichen.</string>
     <string name="Biomass Growth">Biomassewachstum</string><!-- Not the best translation-->
-    <string name="Biomass Growth_DESC"/>
+    <string name="Biomass Growth_DESC">Uraltes Biologisches Leben auf kleinstem Raum komprimiert. Könnte man evtl verbennen.</string>
     <string name="Chevron Sign 2">Zickzackschild 2</string>
     <string name="Chevron Sign 2_DESC">Warnt vor Gefahren die sich in der Nähe befinden.</string>
     <string name="DesertSand">Wüstensand</string>
@@ -899,7 +899,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Basic Rocket Fin">Einfache Raketenfinne</string>
     <string name="Basic Rocket Fin_DESC"/>
     <string name="LaunchPad">Startrampe</string>
-    <string name="LaunchPad_DESC"/>
+    <string name="LaunchPad_DESC">T-9, 8, 7, 6, 5, 4, 3, 2, 1, Zündung! Und Lift-Off!!</string>
     <!-- Flowers and Vegetation--><!-- the names themself cant be translated due to lacking realworld couterparts-->
     <string name="Orange GlowPod">Oranger GlowPod</string><!-- Not the best translation-->
     <string name="Orange GlowPod_DESC">Eine orange Pflanze. Sie scheint ein bisschen Licht von sich zu geben.</string>
@@ -964,7 +964,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Infused Coal">Durchtränkte Kohle</string> <!-- Not optimal-->
     <string name="Infused Coal_DESC"/>
     <string name="Halloween Cauldron">Halloween Kessel</string>
-    <string name="Halloween Cauldron_DESC"/>
+    <string name="Halloween Cauldron_DESC">Heute Koch ich, Morgen brau ist, Übermorgen hol ich des Spielers Interesse!</string>
     <string name="Rough Hewn Rock">Roh gehauener stein</string>
     <string name="Rough Hewn Rock_DESC"/>
     <string name="Chilled Cavern Stone">Gekühlter Höhlenstein</string>
@@ -2295,7 +2295,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="DapperWall_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string><!--not optimal-->
     <string name="Pumpkin Torch_CRAFT_DESC">Schwarze Katzen sind freiwillig</string>
     <string name="Pumpkin Torch_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string>
-    <string name="Halloween Cauldron_CRAFT_DESC">Schlimmste Beleuchtung für ewig</string>
+    <string name="Halloween Cauldron_CRAFT_DESC">Schlimmste Beleuchtung ever</string>
     <string name="Halloween Cauldron_CRAFT_HINT">Setzt das Dapper DLC vorraus!</string>
     <string name="Snowman_CRAFT_DESC">Wird nicht schmelzen, widersteht sogar Magma.</string>
     <string name="Snowman_CRAFT_HINT">Du hast kein Dapper DLC? Du wirst dies vorbeizeihen lassen müssen.</string>
@@ -2640,4 +2640,13 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Extract or Smelt Iron">Baue ab oder Schemze Eisen.</string>
     <string name="MISSION_Find Iron Ore with Ping Unknown">Finde Eisenerz mit Ping Unbekanntes.</string>
     <string name="MISSION_Open Handbook">Drücke (H) um das Handbuch zu öffnen.</string>
-	</resources>
+	<string name="MISSION_Build a Pyrothermic Generator">Baue einen Pyrothermischen Generator</string>
+    <string name="MISSION_Use Scanner(M) to Find Iron Ore">Nutze den Scanner(M) um Eisenerz zu finden</string>
+    <string name="MISSION_Travel Deeper to locate Iron Ore">Grab dich weiter runter um Eisenerz zu finden.</string>
+    <string name="MISSION_Critical Research Local Life Forms">Kritische Forschung: Lokale Lebensformen.</string>
+    <string name="MISSION_Critical Research Base Defence">Kritische Forschung: Basisverteidigung.</string>
+    <string name="MISSION_Critical Research SpiderBot">Kritische Forschung: SpiderBot.</string>
+    <string name="MISSION_Build Defence Turrets">Baue Verteidigungstürme.</string>
+    <string name="MISSION_Build a SpiderBot Base">Baue eine SpiderBotbasis!</string>
+    <string name="MISSION_SpiderBot Low on Power">SpiderBot hat wenig Energie!</string>
+    </resources>
