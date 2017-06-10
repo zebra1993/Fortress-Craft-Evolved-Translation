@@ -747,7 +747,7 @@
     <string name="Topaz Crystal">Топазовый Кристалл</string>
     <string name="Topaz Crystal_DESC">Эти кристаллы среднего уровня можно отполировать и использовать для создания линз и других полезных предметов.</string>
     <string name="Sugalite Crystal">Сугилитовый кристалл</string>
-    <string name="Sugalite Crystal_DESC">Эти высокоуровневые кристаллы можно отполировать и использовать для создания линз и других полезных предметов.</string>
+    <string name="Sugalite Crystal_DESC">Эти кристаллы высокого уровня можно отполировать и использовать для создания линз и других полезных предметов.</string>
     <string name="Rocket Framework">Ракетная рама</string>
     <string name="Rocket Framework_DESC">"  "</string>
     <string name="Basic Rocket Engine">Базовый ракетный двигатель</string>
@@ -2615,4 +2615,38 @@
     <string name="ARTHER_AutomateGold">. Нужно достичь глубины ниже -300 м и автоматизировать добычу Золота.&amp;#34;</string>
     <string name="ARTHER_Boot">&amp;#34;АРЧЕР версии 1.337f включён.</string>
     <string name="ARTHER_BuildPTG">Постройте Пиротермический Генератор!</string>
-    </resources>
+    <string name="ARTHER_AutomateIron">. Нужно достичь глубины ниже -65 м и автоматизировать добычу Железа.&amp;#34;</string>
+    <string name="ARTHER_AutomateLithium">. Нужно достичь глубины ниже -120 м и автоматизировать добычу Лития.&amp;#34;</string>
+    <string name="ARTHER_AutomateNickel">. Нужно достичь глубины ниже -400 м и автоматизировать добычу Никеля.&amp;#34;</string>
+    <string name="ARTHER_AutomateTitanium">. Нужно достичь глубины ниже -350 м и автоматизировать добычу Титана.&amp;#34;</string>
+    <string name="ARTHER_Extractor_Issue">Проблемы с Экстрактором руды!</string>
+    <string name="ARTHER_AmbienceDisabled">Фоновые звуки Включены</string>
+    <string name="ARTHER_AmbienceEnabled">Фоновые звуки Отключены</string>
+    <string name="ARTHER_ChargingSolar">АРЧЕР Зарядка от солнечной энергии...</string>
+    <string name="ARTHER_Close">АРЧЕР находится рядом! Нажмите TAB, чтобы отправить АРЧЕРа обратно!</string>
+    <string name="ARTHER_Days">" дней&amp;#34;"</string>
+    <string name="ARTHER_Docked">Стыковка и Зарядка...</string>
+    <string name="ARTHER_FightLose">Центральный Энергетический Концентратор разрушен! Авто-ремонт активирован...</string>
+    <string name="ARTHER_FightWin">Атак поверхности больше не обнаружено. Возврат к базовому сканированию.</string>
+    <string name="ARTHER_FindFuel">Если мы продолжим глубже и будем Искать Неизвестное, мы сможем найти новый источник топлива.</string>
+    <string name="ARTHER_FindGold">Нам нужно найти Золото. Мы должны идти глубже и Искать Неизвестное.</string>
+    <string name="ARTHER_FindIron">Мы можем найти Железо, если пойдем глубже! Нажмите M, чтобы выбрать Сканер!</string>
+    <string name="ARTHER_FindLithium">Мы можем найти Литий, если пойдем глубже! Нажмите M, чтобы выбрать Сканер!</string>
+    <string name="ARTHER_FindNickel">Нам нужно найти Никель. Мы должны идти глубже и Искать Неизвестное.</string>
+    <string name="ARTHER_FindTitanium">Нам нужно найти Титан. Мы должны идти глубже и Искать Неизвестное.</string>
+    <string name="ARTHER_GoDeeper">Большинство руд находятся глубже под землей. Нажмите M, чтобы выбрать Сканер и Искать Неизвестное.&amp;#34;</string>
+    <string name="ARTHER_More_Extractors">Нам нужно построить Экстрактор руды!</string>
+    <string name="ARTHER_NeedCore">АРЧЕРУ НУЖНО СИЛОВОЕ ЯДРО, ПРОИЗВЕДЕННОЕ НА ЗАВОДЕ НЕМЕДЛЕННО!</string>
+    <string name="ARTHER_PressH">Центральный Энергетический Концентратор завершил диагностику. Пожалуйста, нажмите H, чтобы получить доступ к Справочнику и завершить процесс загрузки.</string>
+    <string name="ARTHER_Far">Прогнать. Нажмите клавишу TAB, чтобы вызвать АРЧЕРа снова!</string>
+    <string name="ARTHER_UnprocessedScans">" необработанные сканы!"</string>
+    <string name="ARTHER_Vein_Exhausted">" жилы были исчерпаны и началась очистка"</string>
+    <string name="ARTHER_Vein_Warning">"Внимание! Один из наших "</string>
+    <string name="ARTHER_Sunset">Солнце садится. Температуры поверхности падает. Нова появится ориентировочно : &amp;#34;</string>
+    <string name="ARTHER_Sunrise">"Восход солнца обнаружен в день "</string>
+    <string name="ARTHER_Reminder">"&amp;#34;Напоминание: у вас есть "</string>
+    <string name="ARTHER_NoSolar">АРЧЕРу мало энергии! Нет доступа к солнечной энергии в этом месте.</string>
+    <string name="ARTHER_NoPowerCore">ОШИБКА, НЕ ОБНАРУЖЕНО СИЛОВОЕ ЯДРО АРЧЕРА. ++?????++ Out of Cheese Error. Повторите с начала.</string>
+    <string name="Tutorial_Smelter_Permissions">Внимание! Плавильня обнаружила прикрепленный для загрузки/выгрузки Накопительный Бункер - вы хотели разрешить использовать его?</string>
+
+</resources>
