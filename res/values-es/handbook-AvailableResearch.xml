@@ -2,7 +2,7 @@
 <resources><string name="AV.Advanced_Defence.Title">Defensa Avanzada</string>
 <string name="AV.Advanced_Defence.00.Title">Defensa Avanzada</string>
 <string name="AV.Advanced_Defence.01.Paragraph">¡Tenemos que construir defensas de la base más potentes para aniquilar enemigos mayores!</string>
-<string name="AV.Advanced_Logistics.Title">Logítica Avanzada</string>
+<string name="AV.Advanced_Logistics.Title">Logística Avanzada</string>
 <string name="AV.Advanced_Logistics.00.Title">Logística Avanzada</string>
 <string name="AV.Advanced_Logistics.02.Paragraph">Esta investigación se centrará en mejoras de almacenamiento, clasificación y herramientas adicionales para la construcción de la base.</string>
 <string name="AV.Advanced_Power_Grid.Title">Red Eléctrica Avanzada</string>
@@ -17,7 +17,7 @@
 <string name="AV.Aesthetics.01.Paragraph">En el improbable caso de que tengamos algo de tiempo libre podemos embellecer nuestra base con una variedad de cajas de almacenamiento y lienzos de colores.</string>
 <string name="AV.Base_Building_Automation.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.00.Title">Automatización de la construcción de la base</string>
-<string name="AV.Base_Building_Automation.01.Paragraph">Construir una operación minera enorme es un trabajo para las máquinas, ¡No para los humanos!</string>
+<string name="AV.Base_Building_Automation.01.Paragraph">La construcción de una operación enorme minera es un trabajo para las máquinas, ¡No para los humanos!</string>
 <string name="AV.Advanced_Miner_Upgrades.Title">Mejora de Minería Avanzada</string>
 <string name="AV.Advanced_Miner_Upgrades.00.Title">Mejora de Minería Avanzada</string>
 <string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Este proyecto investigará mejoras adicionales al extractor de mineral y fundición. Además, la investigación continuará el trabajo sobre el nuevo sistema de cantera.</string>
@@ -33,4 +33,20 @@
 <string name="AV.Basic_Mining_Upgrades_II.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.00.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.01.Paragraph">A raíz de nuestra investigación anterior sobre mejoras de minería, deberíamos ser capaces de mejorar aún más nuestro motor de perforación y las mejoras de inducción forzada.</string>
+<string name="AV.Black_Box_Data.Title">Datos de caja negra</string>
+<string name="AV.Black_Box_Data.00.Title">Datos de caja negra</string>
+<string name="AV.Black_Box_Data.01.Paragraph">Su traje contiene una caja negra que almacenó todas las lecturas del sensor que provocó su accidente en el planeta. Investigar estos datos podría ayudarte a determinar qué sucedió exactamente.</string>
+<string name="AV.Improved_Ore_Scanning.Title">Escáner de Mineral Mejorado</string>
+<string name="AV.Improved_Ore_Scanning.00.Title">Escáner de Mineral Mejorado</string>
+<string name="AV.Improved_Ore_Scanning.01.Paragraph">¡Hemos encontrado un problema en nuestra búsqueda de recursos para expandir nuestra base!</string>
+<string name="AV.Improved_Ore_Scanning.02.Paragraph">Nuestro escáner de mineral está configurado para localizar materiales desconocidos para la investigación y clasificación. Su capacidad para encontrar nuevas fuentes de materiales específicos conocidos es limitada.Debe ser posible utilizar una pequeña cantidad de mineral de reserva para actuar como un filtro avanzado que nos permite localizar sólo los recursos que necesitamos.</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.Title">Mejoras de Minería Intermedia I</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.00.Title">Mejoras de Minería Intermedia I</string>
+<string name="AV.Local_Life_Forms.Title">Formas de Vida Local</string>
+<string name="AV.Local_Life_Forms.00.Title">Formas de Vida Local</string>
+<string name="AV.Local_Life_Forms.01.Paragraph">¡Este planeta no está muerto! Los escáneres están detectando tanto formas de vida de plantas y animales. Este proyecto investigará las formas de vida y determinará si representan una amenaza.</string>
+<string name="AV.Power_Grid.Title">Red Eléctrica</string>
+<string name="AV.Power_Grid.00.Title">Red Eléctrica</string>
+<string name="AV.Suit_Upgrading.Title">Actualización de traje</string>
+<string name="AV.Suit_Upgrading.00.Title">Actualización de traje</string>
 </resources>
