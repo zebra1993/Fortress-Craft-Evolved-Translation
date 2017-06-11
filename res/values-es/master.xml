@@ -2,4 +2,5 @@
 <resources><string name="Skin_Pack">Paquete de Pieles</string>
 	<string name="Installed">Instalado</string>
 	<string name="Language_Name">Inglés</string><string name="Partial_Language_Support">¡Saludos! Tu lenguaje solo está parcialmente soportado. Si quieres revertir restablecer el Ingles, ¡solo presiona \'Inglés\' abajo!</string>
+    <string name="Translation_Incomplete">¡Traducción Incompleta!</string>
     </resources>
