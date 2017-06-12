@@ -1,6 +1,131 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Skin_Pack">Paquete de Pieles</string>
 	<string name="Installed">Instalado</string>
-	<string name="Language_Name">Inglés</string><string name="Partial_Language_Support">¡Saludos! Tu lenguaje solo está parcialmente soportado. Si quieres revertir restablecer el Ingles, ¡solo presiona \'Inglés\' abajo!</string>
+	<string name="Language_Name">Inglés</string><string name="Partial_Language_Support">¡Saludos! Tu lenguaje sólo está parcialmente soportado. Si quieres restablecer el Inglés, ¡Entonces presiona \'Inglés\' a continuación!</string>
     <string name="Translation_Incomplete">¡Traducción Incompleta!</string>
+    <string name="Not_Installed">No Instalado</string>
+    <string name="Multiplayer_Sign">&lt;Multijugador</string>
+    <string name="Create_World">Crear Mundo</string>
+    <string name="Spacebar">Barra Espaciadora</string>
+    <string name="Day_Night_Cycle">Ciclo Día/Noche</string>
+    <string name="Death_Mode">Modo Muerte</string>
+    <string name="Rush_Mode">Modo Rápido</string>
+    <string name="Survival_Options">Opciones de Supervivencia</string>
+    <string name="Seed">Semilla</string>
+    <string name="Mode">Modo</string>
+    <string name="Back">Volver</string>
+    <string name="Mutators">Mutadores</string>
+
+    <string name="Enter_World">Entrar al mundo</string>
+    <string name="Reset_World">Reiniciar Mundo</string>
+
+
+    <string name="Active">Activo</string>
+    <string name="Version">Versión</string>
+    <string name="Status">Estado</string>
+    <string name="Update_Pending">Actualizaciones Pendientes</string>
+    <string name="Downloading">Descargando</string>
+
+    <string name="Off">Off</string>
+    <string name="Plentiful">Lleno</string>
+    <string name="Eternal Day">Día Eterno</string>
+    <string name="Normal">Normal</string>
+    <string name="Eternal Night">Noche Eterna</string>
+
+    <string name="Iron Man">Hombre de Hierro</string>
+    <string name="Creative">Creativo</string>
+
+    <string name="Previous_Visit">¡Has estado en este mundo de Supervivencia antes!</string>
+    <string name="Play_time">Tiempo de Juego</string>
+    <string name="Existing_Seed">Semilla Existente</string>
+
+    <string name="Resources_Plentiful_Info">Recursos abundantes le dará un montón de recursos, y acelerará masivamente su avance en las etapas tempranas y avanzadas. Este es un buen punto de partida para los jugadores principiantes y pacientes.</string>
+    <string name="Located">Presione K para examinar la Holobase.</string>
+    <string name="ARTHER_More_Extractors">¡Tenemos que construir Extractores de Mineral!</string>
+    <string name="ARTHER_FindLithium">¡Podemos encontrar Litio si vamos más profundo! ¡Presione M para seleccionar el escáner!</string>
+    <string name="ARTHER_FindIron">¡Podemos encontrar Hierro si vamos más profundo! ¡Presione M para seleccionar el escáner!</string>
+    <string name="Trivial Mobs">Monstruos Triviales</string>
+    <string name="Normal Mobs">Monstruos Normales</string>
+    <string name="Hard Mobs">Monstruos Duros</string>
+
+    <string name="None">Ninguno</string>
+    <string name="Survival">Supervivencia</string>
+    <string name="Day_Night_Info">El ciclo normal Día/Noche es de 24 minutos. Durante los 12 minutos de oscuridad sufrirá de caídas extremas de temperatura, una aumentada agresividad de los monstruos y visibilidad reducida.</string>
+    <string name="Death_Ironman_Info">¡NO PARA LOS PRINCIPIANTES!
+
+ Hombre de Hierro es sólo para los valientes, los estúpidos y los audaces; ¡Usted permanentemente PERDERÁ todo su inventario al morir!</string>
+    <string name="Hours">horas</string>
+
+    <string name="Server_Management">Administración del Servidor</string>
+    <string name="Game_Mode">Modo de Juego</string>
+    <string name="Dedicated">Dedicado</string>
+    <string name="Players">Jugadores</string>
+    <string name="Unable_To_Join">Incapaz de unirse</string>
+
+    <string name="Join">Unirse</string>
+    <string name="Edit">Editar</string>
+    <string name="Delete">Borrar</string>
+    <string name="Add_New">Añadir Nuevo</string>
+    <string name="Page">Página</string>
+
+    <string name="Iron Bars">Barras de Hierro</string>
+    <string name="Copper Bar">Barra de Cobre</string>
+    <string name="Copper Bars">Barras de Cobre</string>
+    <string name="Lithium Bar">Barra de Litio</string>
+    <string name="Lithium Bars">Barras de Litio</string>
+    <string name="High Energy Composite Fuel">Combustible Compuesto de Alta Energía</string>
+    <string name="Empty Metal Tube">Tubo de Metal Vacío</string>
+    <string name="Empty Metal Tubes">Tubos de Metal Vacío</string>
+    <string name="Gold Bar">Barra de Oro</string>
+    <string name="Gold Bars">Barras de Oro</string>
+    <string name="Tin Bar">Barra de Estaño</string>
+    <string name="Tin Bars">Barras de Estaño</string>
+    <string name="Nickel Bar">Barra de Níquel</string>
+    <string name="Nickel Bars">Barras de Níquel</string>
+    <string name="Titanium Bar">Barra de Titanio</string>
+    <string name="Titanium Bars">Barras de Titanio</string>
+    <string name="Low Grade Steel Bar">Barra de Acero de Baja Calidad</string>
+    <string name="Low Grade Steel Bars">Barras de Acero de Baja Calidad</string>
+    <string name="Copper Wire">Alambre de Cobre</string>
+    <string name="Copper Wires">Alambres de Cobre</string>
+    <string name="Tin Wire">Alambre de Estaño</string>
+    <string name="Tin Wires">Alambres de Estaño</string>
+    <string name="Iron Wire">Alambre de Hierro</string>
+    <string name="Iron Wires">Alambres de Hierro</string>
+    <string name="Lithium Wire">Alambre de Litio</string>
+    <string name="Lithium Wires">Alambres de Litio</string>
+    <string name="Gold Wire">Alambre de Oro</string>
+    <string name="Gold Wires">Alambres de Oro</string>
+    <string name="Nickel Wire">Alambre de Níquel</string>
+    <string name="Nickel Wires">Alambres de Níquel</string>
+    <string name="Titanium Wire">Alambre de Titanio</string>
+    <string name="Titanium Wires">Alambres de Titanio</string>
+    <string name="Chargeable Explosive">Explosivo Cargable</string>
+    <string name="Chargeable Explosives">Explosivos Cargables</string>
+    <string name="Copper Coil">Bobina de Cobre</string>
+    <string name="Copper Coils">Bobinas de Cobre</string>
+    <string name="Tin Coil">Bobina de Estaño</string>
+    <string name="Tin Coils">Bobinas de Estaño</string>
+    <string name="Iron Coil">Bobina de Hierro</string>
+    <string name="Iron Coils">Bobinas de Hierro</string>
+    <string name="Gold Coil">Bobina de Oro</string>
+    <string name="Gold Coils">Bobinas de Oro</string>
+    <string name="Lithium Coil">Bobina de Litio</string>
+    <string name="Lithium Coils">Bobinas de Litio</string>
+    <string name="Nickel Coil">Bobina de Níquel</string>
+    <string name="Nickel Coils">Bobinas de Níquel</string>
+    <string name="Titanium Coil">Bobina de Titanio</string>
+    <string name="Titanium Coils">Bobinas de Titanio</string>
+    <string name="World_Sign">Selección de Mundo</string>
+    <string name="Mob_Difficulty">Dificultad de Monstruos</string>
+    <string name="Creative_New">El Modo Creativo ofrece una capacidad ilimitada para construir cualquier cosa, detallados bloques de alta resolución, extensas herramientas de edición de mundo, esquemas, planos y sistemas de copiar y pegar. ¡No cuenta con la mayoría de los elementos de supervivencia, y no debe ser pensado como un \"modo de trucos\" para la supervivencia!</string>
+    <string name="Creative_Info">Este es un mundo Creativo existente, pero, lamentablemente, no tengo estadísticas interesantes que realmente mostrar aquí. ¿Te gustaría una foto de un gato en su lugar?</string>
+
+    <string name="Eternal_Day_Info">Día Eterno significa que sus sistemas de recolección Solar funcionarán constantemente y no sufrirás una caída de temperatura por la noche. ¡La elección de esto permitirá una progresión mucho más rápida - la colección solar promedio es 4 veces más rápida!</string>
+    <string name="Death_Default_Info">Este es el modo por defecto. No hay penalización por la muerte, salvo salud baja y un largo paseo. Esto hace que el juego sea extremadamente fácil, ya que no hay penalidad para ninguna de las maneras emocionantes en las que usted puede morir.</string>
+    <string name="Rushmode_Locked">El Modo Rápido se desbloqueará una vez que haya cargado con éxito un Transmisor de Energía Orbital.</string>
+    <string name="Rushmode_Disabled">Modo Rápido deshabilitado.</string>
+    <string name="Rushmode_Enabled">¡Modo Rápido activado! ¡Este modo te desafía a reconstruir otro Transmisor de Energía Orbital y cargarlo completamente en el mínimo tiempo! Al seleccionar este modo, la Generación de energía se ampliará en aproximadamente 10 veces y la Recolección de mineral y la Fundición son 5 veces más rápidas. Los monstruos también se generan mucho más rápido también.</string>
+
+    <string name="Trivial_Mobs_Info">Monstruos Triviales no está recomendado. Los monstruos existen para permitir la progresión completa, pero no plantearán ningún desafío, y esto es renunciar por una gran parte de la jugabilidad. Obtendrá una amenaza de base reducida y menores tasas de generación en Hiveminds y otros monstruos que interfieren con la base</string>
     </resources>
