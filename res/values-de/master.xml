@@ -881,7 +881,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Topaz Crystal">Topazkristall</string>
     <string name="Topaz Crystal_DESC">Diese mittelwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
-    <string name="Sugalite Crystal_DESC">Diese hochwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</string>
+    <string name="Sugalite Crystal_DESC">"Diese niederwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. "</string>
     <string name="Rocket Framework">Raketengerüst</string>
     <string name="Rocket Framework_DESC"/>
     <string name="Basic Rocket Engine">Einfacher Raketenantrieb</string>
@@ -1060,9 +1060,9 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="CryoHopper_DESC">Hält Materialien kalt. Braucht Energie. Effizienter in kalter Umgebung.</string>
     <string name="Motorised Logistics Hopper">Motorisierter Logistik Container</string>
     <string name="Motorised Logistics Hopper_DESC">Nicht Implementiert weil das Förderband der Limitierende Faktor ist nicht der Container. Hoppla.</string>
-    <string name="Solar Panel">Solarpanele</string>
+    <string name="Solar Panel">Solarpanel</string>
     <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.\\nLädt angrenzende Batterien.</string>
-    <string name="Organic Solar Panel">Organische Solarpanele</string>
+    <string name="Organic Solar Panel">Organisches Solarpanel</string>
     <string name="Organic Solar Panel_DESC">Generiert einen kleinen Teil Energie auch bei Nacht durch Sternenlicht.\\nLädt angrenzende Batterien.</string>
     <string name="Basic Laser Energy Transmitter">Laserenergieübertrager MK0</string>
     <string name="Basic Laser Energy Transmitter_DESC">Überträgt langsam Energie langsam auf Distanz.\\nMax Dist. 64.\\nMöglichst bald ersetzen.</string>
@@ -1172,9 +1172,9 @@ Sehr Energie hungrig!</string>
     <string name="Assembly Station">Montagestation</string>
     <string name="Assembly Station_DESC">Werkbankmodul.\\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
 
-    <string name="Refinery Controller">Raffineriesteuerung</string>
+    <string name="Refinery Controller">Raffinerie Steuerung</string>
     <string name="Refinery Controller_DESC">Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</string>
-    <string name="Refinery Reactor Vat">Raffineriereaktorkessel</string><!-- Not optimal-->
+    <string name="Refinery Reactor Vat">Raffinerie Reaktorkessel</string><!-- Not optimal-->
     <string name="Refinery Reactor Vat_DESC">Der Spieler sollte nicht fähig sein dies je zu lesen...</string>
     <string name="Jet Turbine Generator">Generatorturbine</string>
     <string name="Jet Turbine Generator_DESC">Der Spieler sollte nicht fähig sein dies je zu lesen...</string>
@@ -1300,7 +1300,7 @@ Sehr Energie hungrig!</string>
     <string name="T4 Power Storage_DESC">Nicht Wichtig</string>
     <string name="T5 Power Storage">T5 Energiespeicher</string>
     <string name="T5 Power Storage_DESC">Nicht Wichtig</string>
-    <string name="Solar Panel MK2">Solarpanenle MK2</string>
+    <string name="Solar Panel MK2">Solarpanel MK2</string>
     <string name="Solar Panel MK2_DESC">Nicht Wichtig</string>
 
     <string name="T4 Turret">T4 Laserturm</string>
@@ -1400,15 +1400,15 @@ Sehr Energie hungrig!</string>
     <string name="Missile Fueller">Raketentreibstoff Füllanlage</string><!-- Not optimal-->
     <string name="Missile Fueller_DESC">Befüllt leere Raketen mit Hochenergiekomposit Treibstoff.</string>
     <string name="Armour Piercing Warhead Fitter">Panzerbrechenderwaffenkopf Ausrüster</string><!-- Not optimal-->
-    <string name="Armour Piercing Warhead Fitter_DESC">Nutzt Hervorragende Stachel um Panzerbrechendemunition herzustellen.</string>
+    <string name="Armour Piercing Warhead Fitter_DESC">Nutzt makellose Stachel um panzerbrechende Munition herzustellen.</string>
     <string name="Warhead Imbuer">Waffenkopfeinflöser</string><!-- Not optimal Defenitly-->
     <string name="Warhead Imbuer_DESC">Durchtränkt Grundlegende Raketen mit Plasma angereicherter Energie.</string>
     <string name="SpiderBot Core Charger">SpiderBot Energiekernlader</string>
     <string name="SpiderBot Core Charger_DESC">Durchtränkt Lithiumspulen mit Energie. Der Spiderbot Verbesserungs- und Aufladestation zuführen durch einen Container.</string>
-    <string name="Liquid Resin Refiner">Flüssigharzraffinierie</string>
+    <string name="Liquid Resin Refiner">Flüssigharz Reiniger</string>
     <string name="Liquid Resin Refiner_DESC">Verarbeitet verflüssigtes Harz zu raffiniertem Harz.</string>
     <string name="Rack Railer">Schienenschneider</string>
-    <string name="Rack Railer_DESC">Stellt Schienen für Warenlifte her</string>
+    <string name="Rack Railer_DESC">Stellt Schienen für Lastenaufzüge her</string>
     <string name="MK1 PowerCore Charger">MK1 Energiekernlader</string>
     <string name="MK1 PowerCore Charger_DESC">Stellt automatisch einen einweg Energiekern her. Gibt ARTHER 100 Energie. Hergestellter Gegenstand in Schnellzugriffsleiste plazieren um zu benutzen.</string>
     <string name="MK2 PowerCore Charger">MK2 Energiekernlader</string>
@@ -1442,7 +1442,7 @@ Sehr Energie hungrig!</string>
     <string name="Lens Chromer">Linsenverchromer</string>
     <string name="Lens Chromer_DESC">Spiegelbeschichtet hochpräzise unfokusierte Linse um ein brauchbares Upgrade darzustellen.</string>
     <string name="Cryo Bomb Assembler">Cryobomben Montage</string>
-    <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für Falcor designete Bombe her. Wird verwendet um Cryoplasma auf grosse Distanz in grosser Anzahl anzugreiffen und zu vernichten.</string>
+    <string name="Cryo Bomb Assembler_DESC">Stellt eine speziell für FALCORs entworfene Bombe her. Wird verwendet um Cryoplasma auf große Distanz in großer Anzahl anzugreifen und zu vernichten.</string>
     <string name="Chromed Block Assembler">Verchromte Blockmontage</string>
     <string name="Chromed Block Assembler_DESC">Verchromt durchtränkte Maschinenblöcke.</string>
     <string name="Hiemal Block Assembler">Hiemal Block Fertiger</string><!-- No idea what that means or is-->
@@ -1480,23 +1480,23 @@ Sehr Energie hungrig!</string>
     <string name="Casting Pipe (Bend)">Gebogenes Gussrohr</string>
     <string name="Casting Pipe (Bend)_DESC">Ermöglicht es geschmolzenes Metall vom Hochofen zum Gießbecken fliessen zu lassen</string>
     <!--MachinePlacement-->
-    <string name="Refinery Reactor Vat Component">Raffineriekesselkomponente</string>
-    <string name="Refinery Reactor Vat Component_DESC">Beinhaltet biochemische Reaktionen unter Hochdruck. In einem 3x3x3 Würfel platzieren um einen Reaktorkessel zu formen, Raffineriesteuerung hinzufügen und nutzen.</string>
+    <string name="Refinery Reactor Vat Component">Raffineriekessel Komponente</string>
+    <string name="Refinery Reactor Vat Component_DESC">Beinhaltet biochemische Reaktionen unter Hochdruck. In einem 3x3x3 Würfel platzieren um einen Reaktorkessel zu formen, eine Raffinerie Steuerung hinzufügen und nutzen.</string>
     <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
     <string name="Jet Turbine Generator Housing_DESC">Verbrennt HEC Treibstoff um eine Turbine anzutreiben, die massig Energie liefert. Aufbau: 3x4 Grundfläche und 3 Blöcke hoch. An der langen Seite (3x3) noch eine Ebene Turbineneinlässe hinzufügen, sodass die Turbine eine endgültige Länge von 5 Blöcken hat.</string>
     <string name="Jet Turbine Generator Intake">Turbineneinlass</string>
     <string name="Jet Turbine Generator Intake_DESC">Der Turbineneinlass ist auf der Frontseite in einem senkrechten 3x3 Aufbau anzubringen.</string>
     <string name="Laboratory Component">Laborkomponente</string>
     <string name="Laboratory Component_DESC">Führt automatisch Forschung durch. In einem 3x3x3 Würfel platzieren, um das Labor zu erzeugen. (27 Blöcke insgesamt benötigt)</string>
-    <string name="Orbital Energy Transmitter Component">Orbitalerergieübertrager</string>
-    <string name="Orbital Energy Transmitter Component_DESC">Wird genutzt um Energie ins All zu senden. Wird in einem 9x9 und 13 hohen Konstrukt aufgebaut um einen Orbital Energy Transmitter auf zu bauen. (Insgesamt 1053 Blöcke benötigt)</string>
+    <string name="Orbital Energy Transmitter Component">Orbitaler Energieübertrager Komponente</string>
+    <string name="Orbital Energy Transmitter Component_DESC">Wird genutzt um Energie ins All zu senden. Wird in einem 9x9 und 13 hohen Konstrukt aufgebaut um einen orbitalen Energieübertrager aufzubauen. (Insgesamt 1053 Blöcke benötigt)</string>
     <string name="MK4 Battery Component">MK4 Batteriekomponente</string>
     <string name="MK4 Battery Component_DESC">Wird ein einer 3x3x3 Konfiguration aufgebaut um einen großen Energiespeicher zu erhalten.(27 Blöcke benötigt)</string>
     <string name="Conduit">Leitung</string><!-- Not optimal-->
     <string name="Conduit_DESC">Verbindet Tier 4 Batterien auf einer Distanz von bis zu 128 Metern mit 10k EPS. Wird in einem 3x3x1 Aufbau an den Tier 4 Energiespeicher angebracht.</string>
     <string name="MK5 Battery Component">MK5 Batteriekomponente</string>
     <string name="MK5 Battery Component_DESC">Wird in einer 5x5 Konfiguration mit 9 Höhe aufgestellt um die grösste Speicherlösung für Energie darzustellen. (Insgesamt 225 Blöcke benötigt)</string>
-    <string name="MK2 Solar Panel Component">MK2 Solarpanelekomponente</string>
+    <string name="MK2 Solar Panel Component">MK2 Solarpanel Komponente</string>
     <string name="MK2 Solar Panel Component_DESC">Stelle das Solarpanel in einer 3x3 Grundplatte auf. Kann nur auf Hochstufigen Maschinen gebaut werden.</string>
     <string name="T4 Energy Turret component">T4 Energieturmkomponenter</string>
     <string name="T4 Energy Turret component_DESC">Erzeugt einen 3x3x3 Waffenturm. Grosser Schaden, viel Energieverbrauch.</string>
@@ -1512,7 +1512,7 @@ Sehr Energie hungrig!</string>
     <string name="Blast Furnace component_DESC">Ergibt einen Hochofen. Wird in einer 3x3 Grundplatte mit 7 Höhe aufgebaut (63 Blöcke insgesamt)</string>
     <string name="Casting Basin component">Strangussbecken Komponente</string>
     <string name="Casting Basin component_DESC">Wird zu einem Stranggussbecken. Wird in einer 5x5 Grundplatte mit 3 Höhe aufgebaut. (75 Blöcke insgesamt)</string>
-    <string name="Cargo Lift Controller">Warenliftsteuerung</string>
+    <string name="Cargo Lift Controller">Lastenaufzug Steuerung</string>
     <string name="Cargo Lift Controller_DESC">Legt Zahnschienen und ermöglicht es dem Lastenaufzug zu arbeiten. Wird in einer 3x3 Platte oberhalb des Liftschachtes aufgebaut</string>
     <string name="Spiderbot Base Component">Spiderbot Basiskomponente</string>
     <string name="Spiderbot Base Component_DESC">Ermöglicht es den Spiderbot mit Verbesserungen auszustatten und ihn mit Energie aufzuladen. Wird in einer 15x15 Grundplatte aufgebaut.</string>
@@ -1523,7 +1523,7 @@ Sehr Energie hungrig!</string>
     <string name="Hard Rock Grinder">Hartsteinmühle</string>
     <string name="Hard Rock Grinder_DESC">Einweg, multiblock Maschine. Ermöglicht es kleine Mengen Chrom oder Molybdän zu sammeln. Wird in einer 3x3 Grundplatte aufgebaut.</string>
     <string name="MagmaBore Component">Magmabohrerkomponente</string>
-    <string name="MagmaBore Component_DESC">Bohrt mit einem enormen Bohrer in die Magamakammern, um die Kalten Höhlen mit Wärme zu fluten. Wird in einer 33x33 Grundplatte mit 3 Höhe aufgebaut. (3276 Blöcke im totalen). Braucht 8 Meter Freiraum, um zu beginnen.</string>
+    <string name="MagmaBore Component_DESC">Bohrt mit einem enormen Bohrer in die Magmakammern, um die kalten Höhlen mit Wärme zu fluten. Wird in einer 33x33 Grundplatte mit 3 Höhe aufgebaut (insgesamt 3276 Blöcke) Braucht 8 Meter Freiraum, um zu beginnen.</string>
     <string name="Particle Filter">Partikelfilter</string>
     <string name="Particle Filter_DESC">Entfernt nutzvolle Partikel aus der Luft. Es ist unwahrscheinlich das Langzeitschäden in der Luft messbar sein werden. Wird in einer 5x5 Grundplatte mit 3 Höhe aufgebaut. (75 Blöcke insgesamt)</string>
     <string name="Particle Compressor">Partikelkompressor</string>
