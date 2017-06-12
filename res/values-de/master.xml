@@ -128,9 +128,9 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
 
     <string name="Needs_FF">Benötigt das Frozen Factory Erweiterungspaket.</string>
 
-    <string name="Rushmode_Locked">Sturmmodus wird freigeschaltet wenn du erfolgreich den Orbitalen Energie Transmitter aufgeladen hast.</string>
+    <string name="Rushmode_Locked">Sturmmodus wird freigeschaltet wenn du erfolgreich den orbitalen Energieübertrager aufgeladen hast.</string>
     <string name="Rushmode_Disabled">Sturmmodus deaktiviert.</string>
-    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus, in möglichst kurzer Zeit einen Orbitalen Energie Transmitter zu bauen und aufzuladen. Diese Auswahl wird die Energieerzeugung etwa um 10x verschnellern. Erzsammlung und -schmelzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
+    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus, in möglichst kurzer Zeit einen orbitalen Energieübertrager zu bauen und aufzuladen. Diese Auswahl wird die Energieerzeugung etwa um 10x verschnellern. Erzsammlung und -schmelzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
 
     <string name="Trivial_Mobs_Info">Triviale Gegner:
 Nicht empfohlen. Zwar wird der Spielfluss nicht beeinträchtigt, jedoch stellt das Spiel keine Herausforderung mehr dar (und ein Großteil des Spielspaßes fällt hierdurch weg). 
@@ -255,33 +255,33 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Chargeable Explosives">Aufladbare Sprengsätze</string>
     <!-- Ping -->
     <string name="Blank Ore Ping">Erzping</string>
-    <string name="Blank Ore Pings">Erzpings</string><!-- Pinge or Pings, what sounds better? -->
+    <string name="Blank Ore Pings">Erzping</string><!-- Pinge or Pings, what sounds better? -->
     <string name="Coal Ping">Kohleping</string>
-    <string name="Coal Pings">Kohlepings</string>
+    <string name="Coal Pings">Kohlepinge</string>
     <string name="Iron Ore Ping">Eisenping</string>
-    <string name="Iron Ore Pings">Eisenpings</string>
+    <string name="Iron Ore Pings">Eisenpinge</string>
     <string name="Copper Ore Ping">Kupferping</string>
-    <string name="Copper Ore Pings">Kupferpings</string>
+    <string name="Copper Ore Pings">Kupferpinge</string>
     <string name="Tin Ore Ping">Zinnping</string>
-    <string name="Tin Ore Pings">Zinnpings</string>
+    <string name="Tin Ore Pings">Zinnpinge</string>
     <string name="Lithium Ore Ping">Lithiumping</string>
-    <string name="Lithium Ore Pings">Lithiumpings</string>
+    <string name="Lithium Ore Pings">Lithiumpinge</string>
     <string name="Gold Ore Ping">Goldping</string>
-    <string name="Gold Ore Pings">Goldpings</string>
+    <string name="Gold Ore Pings">Goldpinge</string>
     <string name="Nickel Ore Ping">Nickelping</string>
-    <string name="Nickel Ore Pings">Nickelpings</string>
+    <string name="Nickel Ore Pings">Nickelpinge</string>
     <string name="Titanium Ore Ping">Titanping</string>
-    <string name="Titanium Ore Pings">Titanpings</string>
+    <string name="Titanium Ore Pings">Titanpinge</string>
     <string name="Crystal Deposit Ping">Kristallping</string>
-    <string name="Crystal Deposit Pings">Kristallpings</string>
+    <string name="Crystal Deposit Pings">Kristallpinge</string>
     <string name="Biomass Growth Ping">Biomasseping</string>
-    <string name="Biomass Growth Pings">Biomassepings</string>
+    <string name="Biomass Growth Pings">Biomassepinge</string>
     <string name="Resin Ping">Harzping</string>
-    <string name="Resin Pings">Harzpings</string>
+    <string name="Resin Pings">Harzpinge</string>
     <string name="Chromium Ping">Chromping</string>
-    <string name="Chromium Pings">Chrompings</string>
+    <string name="Chromium Pings">Chrompinge</string>
     <string name="Molybdenum Ping">Molybdänping</string>
-    <string name="Molybdenum Pings">Molybdänpings</string>
+    <string name="Molybdenum Pings">Molybdänpinge</string>
     <!-- Experimental Pods -->
     <string name="Basic Experimental Pod">Einfache Forschungskapsel</string>
     <string name="Basic Experimental Pods">Einfache Forschungskapseln</string>
@@ -378,14 +378,14 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Crystal Clock">Kristalltaktgenerator</string><!-- Assuming its something like a Oscilator for curquits (would make sense) -->
     <string name="Crystal Clocks">KristallTaktgeneratoren</string>
     <string name="Overclocked Crystal">Übertakteter Kristalltaktgenerator</string>
-    <string name="Overclocked Crystal Clocks">Übertaktete Kristalltaktgenerator</string>
+    <string name="Overclocked Crystal Clocks">Übertaktete Kristalltaktgeneratoren</string>
     <!-- Cargolifts -->
-    <string name="Basic Cargo Lift">Einfacher Warenlift</string>
-    <string name="Basic Cargo Lifts">Einfache Warenlifte</string>
-    <string name="Improved Cargo Lift">Verbesserter Warenlift</string>
-    <string name="Improved Cargo Lifts">Verbesserte Warenlifte</string>
-    <string name="Bulk Cargo Lift">Riesiger Warenlift</string><!-- Das gleiche wie bei den minecarts, Fjolnir -->
-    <string name="Bulk Cargo Lifts">Riesige Warenlifte</string>
+    <string name="Basic Cargo Lift">Einfacher Lastenaufzug</string>
+    <string name="Basic Cargo Lifts">Einfache Lastenaufzüge</string>
+    <string name="Improved Cargo Lift">Verbesserter Lastenaufzug</string>
+    <string name="Improved Cargo Lifts">Verbesserte Lastenaufzüge</string>
+    <string name="Bulk Cargo Lift">Riesiger Lastenaufzug</string><!-- Das gleiche wie bei den minecarts, Fjolnir -->
+    <string name="Bulk Cargo Lifts">Riesige Lastenaufzüge</string>
     <!-- Suitupgrades -->
     <string name="Solar Cell MK1">Solarzelle MK1</string>
     <string name="Suit Cooler MK1">Anzugskühlung MK1</string>
@@ -408,29 +408,29 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Toxic Particle Filters">Giftpartikelfilter</string>
     <string name="Build Gun V3">Konstruktor V3</string>
     <string name="V3 Build Guns">V3 Konstruktor</string>
-    <string name="MK1 Suit Upgrade Module">MK1 Anzugsverbessrungsmodul</string>
-    <string name="MK1 Suit Upgrade Modules">MK1 Anzugsverbessrungsmodule</string>
+    <string name="MK1 Suit Upgrade Module">MK1 Anzugsverbesserungsmodul</string>
+    <string name="MK1 Suit Upgrade Modules">MK1 Anzugsverbesserungsmodule</string>
     <string name="Suit Power Pack MK2">Anzugsenergiepaket MK2</string>
     <string name="Suit Power Packs MK2">Anzugsenergiepakete MK2</string>
     <!-- Arther stuff -->
     <string name="ARTHER Power Core">ARTHER Energiekern</string>
     <string name="ARTHER Power Cores">ARTHER Energiekerne</string>
-    <string name="ARTHER Solar Panel">ARTHER Solarpaneel</string>
-    <string name="ARTHER Power Panel">ARTHER Energiepaneel</string>
+    <string name="ARTHER Solar Panel">ARTHER Solarpanel</string>
+    <string name="ARTHER Power Panel">ARTHER Energiepanel</string>
     <string name="ARTHER Battery Core">ARTHER Akkumulatorkern</string><!-- Batterie ist einfach falsch :/ -->
     <string name="ARTHER Battery Cores">ARTHER Akkumulatorkerne</string>
     <string name="ARTHER Upgrade Pack">ARTHER Verbesserungspaket</string>
     <string name="ARTHER Upgrade Packs">ARTHER Verbesserungspakete</string>
-    <string name="ARTHER Dapper Hat">ARTHER adretter Hut</string><!-- Dapper shoudl be a name i guess, used it as an adjective. Other opinions needed :P -->
-    <string name="ARTHER Dapper Hats">ARTHER Adrette Hüte</string>
-    <string name="ARTHER Dapper Monocle">ARTHER Adrettes Monokel</string>
-    <string name="ARTHER Dapper Monocles">ARTHER Adrette Monokel</string>
-    <string name="ARTHER Dapper Moustache">ARTHER Adretter Schnauzbart</string>
-    <string name="ARTHER Dapper Moustaches">ARTHER Adrette Schnauzbärte</string>
-    <string name="ARTHER Dapper Pack">ARTHER Adrettes Paket</string>
-    <string name="ARTHER Dapper Packs">ARTHER Adrette Pakete</string>
-    <string name="ARTHER Dapper Upgrade Pack">ARTHER Adrettes Verbesserungspaket</string>
-    <string name="ARTHER Dapper Upgrade Packs">ARTHER Adrette Verbesserungspakete</string>
+    <string name="ARTHER Dapper Hat">ARTHER eleganter Hut</string><!-- Dapper shoudl be a name i guess, used it as an adjective. Other opinions needed :P -->
+    <string name="ARTHER Dapper Hats">ARTHER elegante Hüte</string>
+    <string name="ARTHER Dapper Monocle">ARTHER elegantes Einglas</string>
+    <string name="ARTHER Dapper Monocles">ARTHER elegante Eingläser</string>
+    <string name="ARTHER Dapper Moustache">ARTHER eleganter Schnauzbart</string>
+    <string name="ARTHER Dapper Moustaches">ARTHER elegante Schnauzbärte</string>
+    <string name="ARTHER Dapper Pack">ARTHER elegantes Paket</string>
+    <string name="ARTHER Dapper Packs">ARTHER elegante Pakete</string>
+    <string name="ARTHER Dapper Upgrade Pack">ARTHER elegantes Verbesserungspaket</string>
+    <string name="ARTHER Dapper Upgrade Packs">ARTHER elegante Verbesserungspakete</string>
     <string name="ARTHER Ghost Costume">ARTHER Geisterkostüm</string>
     <string name="ARTHER Ghost Costumes">ARTHER Geisterkostüme</string>
     <string name="ARTHER Skeleton Mask">ARTHER Skelettmaske</string>
@@ -460,7 +460,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Magnetic Drill Motor">Magnetischer Bohrmotor</string>
     <string name="Magnetic Drill Motors">Magnetische Bohrmotoren</string>
     <string name="Fusion Drill Motor">Fusions Bohrmotor</string>
-    <string name="Fusion Drill Motors">Fusons Bohrmotoren</string>
+    <string name="Fusion Drill Motors">Fusions Bohrmotoren</string>
     <string name="Antimatter Drill Motor">Antimaterie Bohrmotor</string>
     <string name="Antimatter Drill Motors">Antimaterie Bohrmotoren</string>
     <!-- Lenses -->
@@ -484,12 +484,12 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Exceptional Organic Focusing Lenses">Hervorragende organische Fokuslinsen</string>
     <string name="Polished Chrome Lens">Polierte Chrom Fokuslinse</string>
     <string name="Polished Chrome Lenses">Polierte Chrom Fokuslinsen</string>
-    <string name="Unfocused Polished Lens">Unfokusierte polierte Linse</string>
-    <string name="Unfocused Polished Lenses">Unfokusierte polierte Linsen</string>
+    <string name="Unfocused Polished Lens">Unfokussierte polierte Linse</string>
+    <string name="Unfocused Polished Lenses">Unfokussierte polierte Linsen</string>
     <!-- Machineblocks -->
     <string name="Magnetic Machine Block">Magnetischer Maschinenblock</string>
     <string name="Magnetic Machine Blocks">Magnetische Maschinenblöcke</string>
-    <string name="Chromed Machine Block">Verchromte Maschinenblock</string>
+    <string name="Chromed Machine Block">Verchromter Maschinenblock</string>
     <string name="Chromed Machine Blocks">Verchromte Maschinenblöcke</string>
     <string name="Hiemal Machine Block">Befüllter Maschinenblock</string> <!-- Was soll das sein? Hiemal heisst doch winterlich, oder?, Fjolnir -->
     <string name="Hiemal Machine Blocks">Befüllte Maschinenblöcke</string>
@@ -507,7 +507,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Plasma-Imbued Missile">Plasmaverstärkte Rakete</string>
     <string name="Plasma-Imbued Missiles">Plasmaverstärkte Raketen</string>
     <string name="CryoChilled Missile">Cryogekühlte Rakete</string>
-    <string name="CryoChilled Missiles">CryogekühlteRaketen</string>
+    <string name="CryoChilled Missiles">Cryogekühlte Raketen</string>
     <string name="Mephitic Missile">Giftige Rakete</string>
     <string name="Mephitic Missiles">Giftige Raketen</string>
     <string name="Cluster Missile">Schwarmrakete</string>
@@ -527,31 +527,31 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Sulphuric Gas">Schwefelgas</string>
     <string name="Sulphuric Gasses">Schwefelgase</string>
     <string name="Compressed Sulphur">Komprimiertes Schwefel</string>
-    <string name="Compressed Sulphurs">Komprimiertes Schwefel</string>
+    <string name="Compressed Sulphurs">Komprimierter Schwefel</string>
     <!-- Bug parts -->
-    <string name="Pristine Heavy Chitin">Schweres Chitin</string> <!-- TODO START klingt echt blöd -->
+    <string name="Pristine Heavy Chitin">Makelloses schweres Chitin</string> <!-- TODO START klingt echt blöd -->
     <string name="Ruined Heavy Chitin">Ruiniertes schweres Chitin</string>
-    <string name="Pristine Light Chitin">Leichtes Chitin</string>
+    <string name="Pristine Light Chitin">Makelloses leichtes Chitin</string>
     <string name="Ruined Light Chitin">Leichtes Chitin</string>
-    <string name="Pristine Stinger">Stachel</string>
-    <string name="Pristine Stingers">Stachel</string>
+    <string name="Pristine Stinger">Makelloser Stachel</string>
+    <string name="Pristine Stingers">Makellose Stachel</string>
     <string name="Ruined Stinger">Ruinierter Stachel</string>
     <string name="Ruined Stingers">Ruinierte Stachel</string>
-    <string name="Pristine Faceted Eye">Facettenauge</string>
-    <string name="Pristine Faceted Eyes">Facettenaugen</string>
+    <string name="Pristine Faceted Eye">Makelloses Facettenauge</string>
+    <string name="Pristine Faceted Eyes">Makellose Facettenaugen</string>
     <string name="Ruined Faceted Eye">Ruiniertes Facettenauge</string>
     <string name="Ruined Faceted Eyes">Ruinierte Facettenaugen</string>
-    <string name="Pristine Phosphorescent Gland">Phosphorisierende Drüse</string>
-    <string name="Pristine Phosphorescent Glands">Phosphorisierende Drüsen</string>
+    <string name="Pristine Phosphorescent Gland">Makellose phosphorisierende Drüse</string>
+    <string name="Pristine Phosphorescent Glands">Makellose phosphorisierende Drüsen</string>
     <string name="Ruined Phosphorescent Gland">Ruinierte phosphorisierende Drüse</string>
     <string name="Ruined Phosphorescent Glands">Ruinierte phosphorisierende Drüsen</string>
     <string name="Perfect Faceted Eye">Perfektes Facettenauge</string>
     <string name="Perfect Faceted Eyes">Perfekte Facettenaugen</string>
     <string name="Massive Faceted Eye">Massives Facettenauge</string>
     <string name="Massive Faceted Eyes">Massive Facettenaugen</string>
-    <string name="Hive Brain Matter">Schwarmintelligenz-Gehirn</string>
+    <string name="Hive Brain Matter">Schwarmintelligenz Gehirn</string>
     <string name="Research Parts">Forschungsteile</string>
-    <string name="Refined Liquid Resin">Raffiniertes Flüssigharz</string>
+    <string name="Refined Liquid Resin">Gereinigtes Flüssigharz</string>
     <string name="Spoiled Organic Remains">Verdorbene organische Materie</string>
     <string name="Recombined Organic Matter">Neuzusammengesetzte organische Materie</string> <!-- TODO END klingt echt blöd -->
 
