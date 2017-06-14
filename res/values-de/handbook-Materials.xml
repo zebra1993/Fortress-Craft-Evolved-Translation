@@ -905,4 +905,128 @@ Energie-Ausgangsrate:</string>
 <string name="MA.Infused_Coal.01.Paragraph">Durchtränkte Kohle wird vom Kristallkohleeinflöser hergestellt. Es ist eine Verbesserung zur angereicherten Kohle.</string>
 <string name="MA.Iron_Bar.01.Paragraph">Eisenbarren werden generell in Maschinen verwendet, die einen robusten Aufbau benötigen. Sie werden aus Eisenerz hergestellt, welches sich in einer Tiefe von mindestens 65 Metern unter der Oberfläche befindet.</string>
 <string name="MA.Iron_Coil.01.Paragraph">Eine einfache Eisenspule, die durch Eisenkabel in einer Wickelmaschine hergestellt werden kann.</string>
+<string name="MA.Iron_Gear.01.Paragraph">Ein abgeschrägtes Zahnrad, benutzt in Motoren und Wellen.</string>
+<string name="MA.Iron_Housing.01.Paragraph">Ein Eisengehäuse, gefertigt aus Eisenplatten.</string>
+<string name="MA.Iron_Ore.01.Paragraph">Wurde das Erz erst einmal ab rund 100 Meter Tiefe gefunden, kann es in einer Schmelze zu Eisenbarren geschmolzen werden.</string>
+<string name="MA.Iron_Ore.02.Paragraph">Eisenerz kann durch normale Erzförderer abgebaut werden.</string>
+<string name="MA.Iron_Pipe.01.Paragraph">Eine Eisenröhre aus der Extrudiermaschine. Wird für Treibstoffkanister gebraucht.</string>
+<string name="MA.Iron_Plate.01.Paragraph">Eine Eisenplatte aus der Stempelmaschine. Dies war mal ein Barren.</string>
+<string name="MA.Iron_Wire.01.Paragraph">Eisenkabel welches aus Eisenbarren in der Extrudiermaschine produziert wird.</string>
+<string name="MA.Jet_Pack.00.Title">Raketenrucksack</string>
+<string name="MA.Jet_Pack.01.Paragraph">Du hast einen Weg gefunden um kurze Strecken fliegen zu können. Leider scheint es aber die Batterie ziemlich schnell leer zu fressen...</string>
+<string name="MA.Jet_Pack.02.Paragraph">Wird durch [J] aktiviert. Es wird nur einmal im Inventar benötigt um zu funktionieren.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.00.Title">Turbinengeneratorgehäuse</string>
+<string name="MA.Jet_Turbine_Generator_Housing.01.Paragraph">Der Turbinengenerator ist eine fortgeschrittene Variante fossile Kraftstoffe zu verbrennen. Es benötigt zum laufen hochenergetischen Verbundtreibstoff.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.02.Header">Aufbau</string>
+<string name="MA.Jet_Turbine_Generator_Housing.03.Paragraph">Um eine Turbine zu errichten müssen 36 Turbinengehäuse 3 Meter hoch auf einem 4m x 3m Plateau platziert werden. Zu guter Letzt noch die 9 Einlässe vor eine der beiden 3x3 Seiten platzieren und fertig ist die Turbine.</string>
+<string name="MA.Jet_Turbine_Generator_Housing.05.Left">Spitzenleistung (massenhaft):
+Spitzenleistung (Knapp):
+Kapazität:
+Transferrate:
+Brenndauer:
+Brennstoff:</string>
+<string name="MA.Jet_Turbine_Generator_Housing.06.Right">450 pro Sekunde
+182 pro Sekunde
+3000
+320 pro Sekunde
+480 Sekunden
+Hochenergetischer Verbundtreibstoff</string>
+<string name="MA.Jet_Turbine_Generator_Intake.00.Title">Turbineneinlass</string>
+<string name="MA.Jet_Turbine_Generator_Intake.01.Paragraph">Der Turbinengenerator ist eine fortgeschrittene Variante fossile Kraftstoffe zu verbrennen. Es benötigt zum laufen hochenergetischen Verbundtreibstoff.</string>
+<string name="MA.Jet_Turbine_Generator_Intake.02.Header">Aufbau</string>
+<string name="MA.Jet_Turbine_Generator_Intake.03.Paragraph">Um eine Turbine zu errichten müssen 36 Turbinengehäuse 3 Meter hoch auf einem 4m x 3m Plateau platziert werden. Zu guter Letzt noch die 9 Einlässe vor eine der beiden 3x3 Seiten platzieren und fertig ist die Turbine.</string>
+<string name="MA.Jet_Turbine_Generator_Intake.05.Left">Spitzenleistung (massenhaft):
+Spitzenleistung (Knapp):
+Kapazität:
+Transferrate:
+Brenndauer:
+Brennstoff:</string>
+<string name="MA.Jet_Turbine_Generator_Intake.06.Right">450 pro Sekunde
+182 pro Sekunde
+3000
+320 pro Sekunde
+480 Sekunden
+Hochenergetischer Verbundtreibstoff</string>
+<string name="MA.Laboratory_Component.01.Paragraph">Das Labor wird für fortgeschrittene Forschungen benötigt. Es werden insgesamt 27 Laborkomponenten (9 pro Herstellung) benötigt. Diese werden in einem 3x3x3 Würfel platziert.</string>
+<string name="MA.Laboratory_Component.02.Paragraph">Bei mehr benötigten Informationen über das Labor und dessen Benutzung folge folgendem Leitfaden:</string>
+<string name="MA.LargeMinecart.01.Paragraph">Loren sind für den Massentransport von Gegenständen.</string>
+<string name="MA.LargeMinecart.03.Left">"Max. Geschwindigkeit:
+Max. Speicher:
+Beschleunigung:
+ "</string>
+<string name="MA.LargeMinecart.04.Right">"1m/s
+50
+0.5m/s/s
+ "</string>
+<string name="MA.LargeMinecart.05.Paragraph">Loren zu benutzen ist so einfach wie das bisherige System mit Förderbändern und Containern. Die Loren werden mithilfe des Lorendepots auf die Scheinen geladen.</string>
+<string name="MA.LargeMinecart.06.Title">Be- Entladen von Loren</string>
+<string name="MA.LargeMinecart.07.Paragraph">Loren halten automatisch an Lade- und Entladestationen um ihre Waren aufzunehmen oder abzuladen.</string>
+<string name="MA.LargeMinecart.08.Title">Erweiterte Kontrolle</string>
+<string name="MA.LargeMinecart.09.Paragraph">Für ein genaueres Kontrollieren der Loren sind noch weitere Werkzeuge vorhanden, die die Logik des Schienennetzes beeinflussen können.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.00.Title">Laser Energieübertrager MK 2</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.01.Paragraph">Laser Energieübertrager bilden das Skelett des Energienetzes. Sie können ihre Energie bis zu 64m weit an Maschinen, Speicher oder weitere Energieübertrager übertragen.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.02.Paragraph">Um das Menü des Übertragers zu öffnen, drücke die Interagieren Taste (standard [E]). Dort ist es möglich die Linse zu wechseln und dadurch die Effizienz/Übertragungsrate um einiges zu verbessern. Es lässt sich außerdem das Verhalten beeinflussen wann der Übertrager das nächste mal seine Energie überträgt.</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.04.Left">Energiepaketgröße:
+Paketübertragungsrate:
+Ø Energieübertragung:
+Kapazität:
+Reichweite:</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.05.Right">40
+1.67 pro Sekunde
+66.7 pro Sekunde
+192
+64 Meter</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.00.Title">Laser Energieübertrager MK3</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.01.Paragraph">Laser Energieübertrager bilden das Skelett des Energienetzes. Sie können ihre Energie bis zu 64m weit an Maschinen, Speicher oder weitere Energieübertrager übertragen.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.02.Paragraph">Um das Menü des Übertragers zu öffnen, drücke die Interagieren Taste (standard [E]). Dort ist es möglich die Linse zu wechseln und dadurch die Effizienz/Übertragungsrate um einiges zu verbessern. Es lässt sich außerdem das Verhalten beeinflussen wann der Übertrager das nächste mal seine Energie überträgt.</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.04.Left">Energiepaketgröße:
+Paketübertragungsrate:
+Ø Energieübertragung:
+Kapazität:
+Reichweite:</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.05.Right">64
+5 pro Sekunde
+320 pro Sekunde
+384
+64 Meter</string>
+<string name="MA.Laser_Energy_Transmitter.00.Title">Laser Energieübertrager</string>
+<string name="MA.Laser_Energy_Transmitter.01.Paragraph">Laser Energieübertrager bilden das Skelett des Energienetzes. Sie können ihre Energie bis zu 64m weit an Maschinen, Speicher oder weitere Energieübertrager übertragen.</string>
+<string name="MA.Laser_Energy_Transmitter.02.Paragraph">Um das Menü des Übertragers zu öffnen, drücke die Interagieren Taste (standard [E]). Dort ist es möglich die Linse zu wechseln und dadurch die Effizienz/Übertragungsrate um einiges zu verbessern. Es lässt sich außerdem das Verhalten beeinflussen wann der Übertrager das nächste mal seine Energie überträgt.</string>
+<string name="MA.Laser_Energy_Transmitter.04.Left">Energiepaketgröße:
+Paketübertragungsrate:
+Ø Energieübertragung:
+Kapazität:
+Reichweite:</string>
+<string name="MA.Laser_Energy_Transmitter.05.Right">10
+1 pro Sekunde
+10 pro Sekunde
+64
+64 Meter</string>
+<string name="MA.Leaves.01.Paragraph">Wächst an Bäumen. Welken nicht und können zerkleinert werden.</string>
+<string name="MA.Lift_Compressor.00.Title">Lift Kompressor</string>
+<string name="MA.Lift_Compressor.01.Paragraph">Befestige dies an der Basis des Lifts um die Gasreserven des Lifts schneller wieder auf zu füllen. Benötigt Energie.
+Zwei Kompressoren sind in der Lage einen Lift mit maximaler Reichweite bei maximaler Geschwindigkeit zu betreiben.</string>
+<string name="MA.Lift_Compressor.03.Left">Gasherstellungsrate:
+Benötigte Energie:
+Kapazität:
+Transferrate:</string>
+<string name="MA.Lift_Compressor.04.Right">0.15 l/s
+ 1 /s
+ 150
+ 5 /s</string>
+<string name="MA.Lift_Manual_Control_Module.00.Title">Manuelle Liftsteuerung</string>
+<string name="MA.Lift_Manual_Control_Module.01.Paragraph">Befestige dies an der Basis des Lifts um den Lift mithilfe deines Anzuges manuell steuern zu können. Benötigt Energie.
+benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
+<string name="MA.Lightweight_Machine_Housing.00.Title">Leichtes Maschinengehäuse</string>
+<string name="MA.Lightweight_Machine_Housing.01.Paragraph">Eine kleine Zinnkiste, welche in leichten Maschinen verbaut wird.</string>
+<string name="MA.Lightweight_Machine_Plates.00.Title">Leichte Maschinenplatte</string>
+<string name="MA.Lightweight_Machine_Plates.01.Paragraph">Eine Zinnplatte, die Ideal für Leichtbauten geeignet ist.</string>
+<string name="MA.Lightweight_PCB.00.Title">Leichte Platine</string>
+<string name="MA.Lightweight_PCB.01.Paragraph">Eine Platine aus Titan. Werden aus Titanspulen zusammen geschweißt.</string>
+<string name="MA.Liquified_Resin.01.Paragraph">Gehärtetes Harz kann mithilfe verschiedener Maschinen raffiniert werden. Dafür muss man es allerdings in einen flüssigen Zustand bringen.</string>
+<string name="MA.Liquified_Resin.02.Title">Raffinierung</string>
+<string name="MA.Liquified_Resin.03.Paragraph">Benutze diese Maschinen in der unmittelbaren Nähe von lebenden oder Toten Schwarmstöcken um das Harz zu raffinieren.</string>
+<string name="MA.Lithium_Bar.01.Paragraph">Lithiumbarren werden für den Bau von Energie-relevanten Maschinen wie Batterien oder Übertragern benötigt. Lithiumerz kann ab 120m Tiefe gefunden werden.</string>
+<string name="MA.Lithium_Coil.01.Paragraph">Wurde in der Wickelmaschine aus Lithiumdraht hergestellt.</string>
+<string name="MA.Lithium_Housing.01.Paragraph">Ein Lithiumgehäuse, hergestellt aus einzelnen Lithiumplatten.</string>
 </resources>
