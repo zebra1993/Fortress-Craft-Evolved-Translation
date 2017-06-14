@@ -898,4 +898,9 @@ Diese Maschine, unter einem Forschungslabor oder anderen großen, energie-hungri
 <string name="MA.Induction_Charger.03.Left">Interner Speicher:
 Energie-Eingangsrate:
 Energie-Ausgangsrate:</string>
+<string name="MA.Induction_Charger.04.Right">"1500
+7500/Seite/Sek.
+1250/Maschine/Sek.
+ "</string>
+<string name="MA.Infused_Coal.01.Paragraph">Durchtränkte Kohle wird vom Kristallkohleeinflöser hergestellt. Es ist eine Verbesserung zur angereicherten Kohle.</string>
 </resources>
