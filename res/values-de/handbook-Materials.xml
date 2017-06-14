@@ -889,9 +889,10 @@ Maximale Tragekapazität
 0,5 Meter/Sek./Sek.
 1000
 250 EPS</string>
-<string name="MA.Induction_Charger.01.Paragraph">Das Induktionsladegerät ist eine kleine 5x5 Maschine mit extrem hohem Durchsatz aber minimaler On-Board Kapazität. Es ist eine exzellente Möglichkeit, einen Bereich mit Energie zu versorgen, ohne ihn mit vielen Lasern oder Batterien zu überladen und sollte Untergrund Energieleitungen und Verteiler überflüssig machen.
+<string name="MA.Induction_Charger.01.Paragraph">"Das Induktionsladegerät ist eine kleine 5x5 Maschine mit extrem hohem Durchsatz aber minimaler On-Board Kapazität. Es ist eine exzellente Möglichkeit einen Bereich mit Energie zu versorgen, ohne ihn mit vielen Energieübertragern oder Batterien zu überladen und sollte Untergrund Energieleitungen und Verteiler überflüssig machen.
 
 Die Benutzung ist einfach: Baue ein 5x1x5 Quadrat, speise Energie von irgendeiner Richtung ein und platziere die Maschinen auf oder neben dem Ladegerät. Achte darauf, dass ein Laser, welcher auf das Ladegerät gerichtet ist UND es berührt, zu einer Feedback-Schleife führt, was vermieden werden sollte.
 
-Diese Maschine, unter einem Forschungslabor oder anderen großen, energie-hungrigen Gerät platziert, ist exzellent dafür, eine ordentliche Hochgeschwindigkeits-Energielieferung umzusetzen.</string>
+Diese Maschine, unter einem Forschungslabor oder anderen großen, energie-hungrigen Gerät platziert, ist exzellent dafür, eine ordentliche Hochgeschwindigkeits-Energielieferung umzusetzen.
+ "</string>
 </resources>
