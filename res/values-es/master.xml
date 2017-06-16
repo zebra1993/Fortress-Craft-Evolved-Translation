@@ -128,4 +128,17 @@
     <string name="Rushmode_Enabled">¡Modo Rápido activado! ¡Este modo te desafía a reconstruir otro Transmisor de Energía Orbital y cargarlo completamente en el mínimo tiempo! Al seleccionar este modo, la Generación de energía se ampliará en aproximadamente 10 veces y la Recolección de mineral y la Fundición son 5 veces más rápidas. Los monstruos también se generan mucho más rápido también.</string>
 
     <string name="Trivial_Mobs_Info">Monstruos Triviales no está recomendado. Los monstruos existen para permitir la progresión completa, pero no plantearán ningún desafío, y esto es renunciar por una gran parte de la jugabilidad. Obtendrá una amenaza de base reducida y menores tasas de generación en Hiveminds y otros monstruos que interfieren con la base</string>
+    <string name="Locked">Bloqueado</string>
+
+    <string name="Fast">Rápido</string>
+    <string name="Slow">Lento</string>
+
+    <string name="Resources_Scarce_Info">Recursos Escasos le dará un juego más lento, más reflexivo, con mucho tiempo para explorar y optimizar su base. ¡No recomendado para jugadores principiantes!</string>
+    <string name="Scarce">Escaso</string>
+    <string name="Resources_Rapid_Info">¡Recursos Rápidos está diseñado para aquellos que tienen prisa, con niños, trabajo o intentando transmitir el juego en un fin de semana! Este es también un excelente lugar si está buscando para aprender el juego rápidamente antes de volver en una dificultad más difícil.</string>
+
+
+    <string name="Hard_Mobs_Info">Monstruos Fuertes - elija esto y tendrá que lidiar con monstruos mucho más fuertes y más agresivos. ¡Esto es sólo para jugadores muy experimentados!</string>
+
+    <string name="Mods">Monstruos</string>
     </resources>
