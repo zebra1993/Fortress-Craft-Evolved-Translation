@@ -2595,7 +2595,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Place Hoppers next to Ore Smelter">Baue die Lagercontainer angrenzend an die Erzschmelze.</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">Setze den Lagercontainer an der Erzschmelze zu Nur Hinzufügen.</string>
     <string name="MISSION_Set Smelter Hopper to Remove-Only">Setze den Lagercontainer an der Erzschmelze zu Nur Entfernen</string>
-    <string name="MISSION_Minecart derailed">Lore entgleist!</string>
+    <string name="MISSION_Minecart derailed">Es ist eine Lore entgleist!</string>
     <string name="MISSION_Place Ore Extractor on Copper Ore">Baue einen Erzextraktor auf Kupfererz.</string>
     <string name="MISSION_Find Copper Ore with Ping Unknown">Finde Kupfererz mit Ping Unbekanntes.</string>
     <string name="MISSION_Use Scanner(M) to Find Copper Ore">Nutze den Scanner (M) um Kupfererz zu finden</string>
@@ -2617,7 +2617,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_No bars smelted in the last minute">Keine Barren geschmolzen in der letzten Minute!</string>
     <string name="MISSION_Build 8 Laser Power Transmitters">Baue 8 Laserenergieübertrager!</string>
     <string name="MISSION_Fit Faster Motors to Ore Extractors">Rüste die Erzextraktoren mit schnelleren Motoren aus!</string>
-    <string name="MISSION_CPH lacking resources">ZEV hat zuwenig Resscourcen!</string>
+    <string name="MISSION_CPH lacking resources">ZEV hat zu wenig Ressourcen!</string>
     <string name="MISSION_Build Ore Extractors">Baue Erzextraktoren!</string>
     <string name="MISSION_Build more Ore Extractors">Baue mehr Erzextraktoren!</string>
     <string name="MISSION_Test the Grappling Hook (F)">"Probiere den Enterhaken aus (F), "</string>
