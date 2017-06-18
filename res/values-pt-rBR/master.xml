@@ -1,2 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Saudações! O seu idioma é apenas parcialmente suportado. Se você deseja reverter para o inglês, basta pressionar \'Inglês\' abaixo!</string>
+    <string name="Translation_Incomplete">Tradução Incompleta!</string>
+    <string name="Language_Name">Inglês</string><string name="Dapper_Pack">Pacote Vaidoso</string>
+    <string name="Skin_Pack">Pacotes de Customização</string>
+    <string name="Installed">Instalado</string>
+    <string name="Not_Installed">Não Instalado</string>
+    <string name="Multiplayer_Sign">Multijogador</string>
+    <string name="Quit_Sign">Sair</string>
+    <string name="World_Sign">Selecione o Mundo</string>
+    <string name="Create_World">Criar o Mundo</string>
+    <string name="Spacebar">Barra de Espaço</string>
+    <string name="Resource_Level">Menu de Criação do Mundo</string>
+    <string name="Power_Level">Nível de Energia</string>
+    <string name="Conveyor_Speed">Velocidade do transportador</string>
+    <string name="Day_Night_Cycle">Ciclo Dia/Noite</string>
+    <string name="Mob_Difficulty">Dificuldade dos Monstros</string>
+    <string name="Death_Mode">Modo de Morte</string>
+    <string name="Rush_Mode">Modo de Assalto</string>
+    <string name="Flatland">Planície</string>
+    <string name="Care_Package">Pacote de Ajuda</string>
+    <string name="Survival_Options">Opções de Sobrevivência</string>
+    <string name="Seed">Semente</string>
+    <string name="Mode">Modo</string>
+    <string name="Select_Mods">Selecione os Mods</string>
+    <string name="Back">Voltar</string>
+    <string name="Mutators">Agente de Mutação</string>
+
+    <string name="Enter_World">Entre no Mundo</string>
+    <string name="Reset_World">Redefinir o Mundo</string>
+
+
+    <string name="Creative_New">O modo criativo oferece uma habilidade ilimitada para construir qualquer coisa, blocos de detalhes de alta resolução, extensas ferramentas de edição do mundo, esquemas, projetos e sistemas de copiar e colar. Não possui a maioria dos elementos de sobrevivência, e não deve ser pensado como um \"modo de trapaça\" para a sobrevivência!</string>
+    <string name="Creative_Info">Este é um mundo criativo existente, mas, infelizmente, não tenho estatísticas legais para realmente mostrar-lhe aqui. Gostaria, em vez disso, de uma foto de um gato?</string>
+
+    <string name="Mod_Management">Lista de Mods</string>
+    <string name="Mod_Name">Nome do Mod</string>
+    <string name="Active">Ativo</string>
+    <string name="Version">Versão</string>
+    <string name="Lock">Bloqueio</string>
+    <string name="Status">Status</string>
+    <string name="Workshop">Oficina</string>
+
+    <string name="Workshop_Mod">Mod da Oficina</string>
+    <string name="Update_Pending">Atualização Pendente</string>
+    <string name="Downloading">Baixando</string>
+
+    <string name="On">Alterar Dificuldade</string>
+    <string name="Off">Desligado</string>
+    <string name="Locked">Bloqueado</string>
+
+    <string name="Plentiful">Abundante</string>
+    <string name="Scarce">Escasso</string>
+    <string name="Rapid">Rápido</string>
+
+    <string name="Fast">Rápido</string>
+    <string name="Slow">Devagar</string>
+
+    <string name="Eternal Day">Dia Eterno</string>
+    <string name="Normal">Normal</string>
+    <string name="Eternal Night">Noite Eterna</string>
+
+    </resources>
