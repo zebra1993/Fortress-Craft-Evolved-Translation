@@ -120,7 +120,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
 
     <string name="Care_Package_Locked">Das Versorgungspaket wird freigeschaltet, sobald du ein Klimakontrollzentrum gebaut hast.</string>
     <string name="Care_Package_Disabled">Versorgungspaket deaktiviert.</string>
-    <string name="Care_Package_Enabled">Versorgungspaket aktiv! Du wirst das Spiel mit einem massiven Vorsprung starten: Ein MK3 Bauwerkzeug, eine grössere Anzugsbatterie, ein Solarpaneel und eine Anzugsheizung werden direkt verfügbar sein. Komm, hol\' es dir.</string>
+    <string name="Care_Package_Enabled">Versorgungspaket aktiv! Du wirst das Spiel mit einem massiven Vorsprung starten: Ein MK3 Bauwerkzeug, eine größere Anzugsbatterie, ein Solarpanel und eine Anzugsheizung werden direkt verfügbar sein. Komm, hol\' es dir.</string>
 
     <string name="Flatland_Locked">Flachland wird verfügbar sein, wenn du einen Cryoplasma Spawner ausgeschaltet hast.</string>
     <string name="Flatland_Disabled">Flachland deaktiviert.</string>
@@ -378,7 +378,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Crystal Clock">Kristalltaktgenerator</string><!-- Assuming its something like a Oscilator for curquits (would make sense) -->
     <string name="Crystal Clocks">KristallTaktgeneratoren</string>
     <string name="Overclocked Crystal">Übertakteter Kristalltaktgenerator</string>
-    <string name="Overclocked Crystal Clocks">Übertaktete Kristalltaktgeneratoren</string>
+    <string name="Overclocked Crystal Clocks">Übertaktete Kristalluhren</string>
     <!-- Cargolifts -->
     <string name="Basic Cargo Lift">Einfacher Lastenaufzug</string>
     <string name="Basic Cargo Lifts">Einfache Lastenaufzüge</string>
