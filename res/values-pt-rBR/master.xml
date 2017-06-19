@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Saudações! O seu idioma é apenas parcialmente suportado. Se você deseja reverter para o inglês, basta pressionar \'Inglês\' abaixo!</string>
+<resources><string name="Partial_Language_Support">Saudações! O seu idioma é suportado parcialmente. Se você deseja reverter para o inglês, basta pressionar \'Inglês\' abaixo!</string>
     <string name="Translation_Incomplete">Tradução Incompleta!</string>
-    <string name="Language_Name">Inglês</string><string name="Dapper_Pack">Pacote Vaidoso</string>
-    <string name="Skin_Pack">Pacotes de Customização</string>
+    <string name="Language_Name">Inglês</string><string name="Dapper_Pack">Pacote Elegante</string>
+    <string name="Skin_Pack">Pacote de Customização</string>
     <string name="Installed">Instalado</string>
     <string name="Not_Installed">Não Instalado</string>
     <string name="Multiplayer_Sign">Multijogador</string>
@@ -60,4 +60,123 @@
     <string name="Normal">Normal</string>
     <string name="Eternal Night">Noite Eterna</string>
 
+    <string name="Frozen_Factory">Fábrica Congelada</string>
+    <string name="Normal Mobs">Mobs Normais</string>
+    <string name="Hard Mobs">Mobs Difíceis</string>
+
+    <string name="None">Nenhum</string>
+    <string name="Clumsy">Desajeitado</string>
+    <string name="Iron Man">Homem de Ferro</string>
+    <string name="Hardcore">Insano</string>
+
+    <string name="Survival">Sobrevivência</string>
+    <string name="Creative">Criativo</string>
+
+    <string name="Play_time">Hora do Jogo</string>
+    <string name="Mod_Selected">Mod Selecionado.</string>
+    <string name="Mods_Selected">Mods Selecionados.</string>
+    <string name="Needs_FF">Necessita do Pack de Expansão \"Fábrica Congelada\".</string>
+
+    <string name="Rushmode_Locked"/>
+    <string name="Rushmode_Disabled">Modo de Assalto desabilitado.</string>
+    <string name="Rushmode_Enabled"/>
+
+    <string name="Trivial_Mobs_Info"/>
+    <string name="Normal_Mobs_Info"/>
+    <string name="Hard_Mobs_Info">Mobs Difíceis - Escolha esta opção e você estará lidando com mobs mais dificéis e agressivos. Aconselhável somente para jogadores experientes!</string>
+
+    <string name="Hours">horas</string>
+
+    <string name="Server_Name">Menus de Multijogador</string>
+    <string name="Server_Management">Gestão de Server</string>
+    <string name="Game_Mode">Modo de Jogo</string>
+    <string name="Dedicated">Dedicado</string>
+    <string name="Players">Jogadores</string>
+    <string name="Ping">Ping</string>
+    <string name="Hide_Host_Address"/>
+    <string name="Host_Address">Endereço do Host</string>
+    <string name="Unable_To_Join">Incapaz de juntar-se</string>
+
+    <string name="Join">Una-se</string>
+    <string name="Edit">Edite</string>
+    <string name="Delete">Delete</string>
+    <string name="Add_New">Adicionar Novo</string>
+    <string name="Mods">Mods.</string>
+    <string name="Page">Página</string>
+
+    <string name="Iron Bars">Barras de ferro</string>
+    <string name="Copper Bar">Barra de Cobre</string>
+    <string name="Copper Bars">Barras de Cobre</string>
+    <string name="Lithium Bar">Barra de Lítio</string>
+    <string name="Lithium Bars">Barras de Lítio</string>
+    <string name="Chromium Bar">Cromado</string>
+    <string name="Chromium Bars">Cromado</string>
+    <string name="Molybdenum Bar">Barra de Molibdênio</string>
+    <string name="Molybdenum Bars">Barras de Molibdênio</string>
+    <string name="Empty Metal Tube">Tube de metal vazio</string>
+    <string name="Empty Metal Tubes">Tubos de metal vazios</string>
+    <string name="Gold Bar">Barra de Ouro</string>
+    <string name="Gold Bars">Barras de Ouro</string>
+    <string name="Tin Bar">Barra de Estanho</string>
+    <string name="Tin Bars">Barras de Estanho</string>
+    <string name="Nickel Bar">Barra de Níquel</string>
+    <string name="Nickel Bars">Barras de Níquel</string>
+    <string name="Titanium Bar">Barra de Titânio</string>
+    <string name="Titanium Bars">Barras de Titânio</string>
+    <string name="Copper Wire (Old)">fio de cobre (velho)</string>
+    <string name="Copper Wire">Fio de Cobre</string>
+    <string name="Copper Wires">Fios de Cobre</string>
+    <string name="Tin Wire">Fio de estanho</string>
+    <string name="Tin Wires">Fios de Estanho</string>
+    <string name="Iron Wire">Fio de Ferro</string>
+    <string name="Iron Wires">Fios de Ferro</string>
+    <string name="Lithium Wire">Fio de Lítio</string>
+    <string name="Lithium Wires">Fios de Lítio</string>
+    <string name="Gold Wire">Fio de Ouro</string>
+    <string name="Gold Wires">Fios de Ouro</string>
+    <string name="Nickel Wire">Fio de Níquel</string>
+    <string name="Nickel Wires">Fios de Níquel</string>
+    <string name="Titanium Wire">Fio de Titânio</string>
+    <string name="Titanium Wires">Fios de Titânio</string>
+    <string name="Copper Coil">Bobina de Cobre</string>
+    <string name="Copper Coils">Bobinas de Cobre</string>
+    <string name="Tin Coil">Bobina de Estanho</string>
+    <string name="Tin Coils">Bobinas de Estanho</string>
+    <string name="Iron Coil">Bobina de Ferro</string>
+    <string name="Iron Coils">Bobinas de Ferro</string>
+    <string name="Gold Coil">Bobina de Ouro</string>
+    <string name="Gold Coils">Bobinas de Ouro</string>
+    <string name="Lithium Coil">Bobina de Lítio</string>
+    <string name="Lithium Coils">Bobinas de Lítio</string>
+    <string name="Nickel Coil">Bobina de Níquel</string>
+    <string name="Nickel Coils">Bobinas de Níquel</string>
+    <string name="Titanium Coil">Bobina de Titânio</string>
+    <string name="Titanium Coils">Bobinas de Titânio</string>
+    <string name="Copper Pipe">Cano de Cobre</string>
+    <string name="Copper Pipes">Canos de Cobre</string>
+    <string name="Tin Pipe">Cano de Estanho</string>
+    <string name="Tin Pipes">Canos de Estanho</string>
+    <string name="Iron Pipe">Cano de Ferro</string>
+    <string name="Iron Pipes">Canos de Ferro</string>
+    <string name="Gold Pipe">Cano de Ouro</string>
+    <string name="Gold Pipes">Canos de Ouro</string>
+    <string name="Lithium Pipe">Cano de Lítio</string>
+    <string name="Lithium Pipes">Canos de Lítio</string>
+    <string name="Nickel Pipe">Cano de Níquel</string>
+    <string name="Nickel Pipes">Canos de Níquel</string>
+    <string name="Titanium Pipe">Cano de Titânio</string>
+    <string name="Titanium Pipes">Canos de Titânio</string>
+    <string name="Solar Cell MK1">Célula Solar MK1</string>
+    <string name="Jet Pack">Mochila a Jato</string>
+    <string name="Jet Packs">Mochilas a Jato</string>
+    <string name="Toxic Particle Filter">Filtro de partícula tóxica</string>
+    <string name="Toxic Particle Filters">Filtros de partícula tóxica</string>
+    <string name="Organic Lens">Lente Orgânica</string>
+    <string name="Polished Chrome Lenses">Lentes Polidas Cromadas</string>
+    <string name="Unfocused Polished Lens">Lente Polida Desfocada</string>
+    <string name="Unfocused Polished Lenses">Lentes Polidas Desfocadas</string>
+    <string name="Empty Missile">Missíl Vazio</string>
+    <string name="Empty Missiles">Misseis Vazios</string>
+    <string name="Basic Missile">Missil Básico</string>
+    <string name="Basic Missiles">Misseis Básicos</string>
     </resources>
