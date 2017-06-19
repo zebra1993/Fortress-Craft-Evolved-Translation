@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AV.Advanced_Defence.Title">Geavanceerde Verdediging</string>
+<string name="AV.Advanced_Defence.00.Title">Geavanceerde Verdediging</string>
+<string name="AV.Advanced_Defence.01.Paragraph">We moeten krachtigere basisverdedigingen bouwen om de grotere bedreigingen neer te halen!</string>
+<string name="AV.Advanced_Logistics.Title">Geavanceerde Logistiek</string>
+<string name="AV.Advanced_Logistics.00.Title">Geavanceerde Logistiek</string>
+<string name="AV.Advanced_Logistics.01.Paragraph">Het optimaliseren van onze mijnbouw vereist een scalpel, geen hamer. (Hamers zijn uiteraard als aparte upgrade beschikbaar).</string>
+<string name="AV.Advanced_Logistics.02.Paragraph">Dit onderzoeksproject zal zich focussen op het improviseren van opslag, sorteren en extra constructiegereedschappen voor de basis.</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Geavanceerde Mijnwerkersverbeteringen</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">Geavanceerde Mijnwerkersverbeteringen</string>
+<string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Dit project zal verdere verbeteringen van de ertsonttrekker en smeltoven onderzoeken. Daarnaast zal het nieuwe Steengroevesysteem verder onderzocht worden.</string>
+<string name="AV.Advanced_Power_Grid.Title">Geavanceerd Energienet</string>
+<string name="AV.Advanced_Power_Grid.00.Title">Geavanceerd Energienet</string>
+<string name="AV.Advanced_Power_Grid.01.Paragraph">De geavanceerde materialen die we onlangs hebben ontdekt, zouden ons in staat moeten stellen verdere verbeteringen aan te brengen in onze energie-infrastructuur.</string>
+<string name="AV.Advanced_Research.Title">Geavanceerd Onderzoek</string>
+<string name="AV.Advanced_Research.00.Title">Geavanceerd Onderzoek</string>
+<string name="AV.Advanced_Research.01.Paragraph">Onze onderzoeksvooruitgang is gelimiteerd door de beperkingen van het Onderzoeksstation. We moeten een nieuw laboratorium ontwerpen om verder te gaan met de geavanceerdere projecten!</string>
+<string name="AV.Aesthetics.Title">Esthetica</string>
+<string name="AV.Aesthetics.00.Title">Esthetica</string>
+<string name="AV.Aesthetics.01.Paragraph">In het onwaarschijnlijke geval dat we wat vrije tijd hebben, kunnen we onze basis wat verfraaien met een verscheidenheid aan gekleurde opslagkratten en canvas.</string>
+<string name="AV.Base_Building_Automation.Title">Automatisatie Basisbouw</string>
+<string name="AV.Base_Building_Automation.00.Title">Automatisatie Basisbouw</string>
+<string name="AV.Base_Building_Automation.01.Paragraph">Het bouwen van een enorme mijnbouwoperatie is het werk voor machines, niet mensen!</string>
+<string name="AV.Base_Building_Automation.02.Paragraph">Dit uitgebreide project zal machines ontwerpen voor geautomatiseerde uitgraving en constructie, daarnaast zullen de beschikbare mogelijkheden om uw basis te doorlopen verbeterd worden.</string>
+<string name="AV.Base_Building_Automation.03.Paragraph">Naast automatische uitgraving zal dit project proberen een explosief te ontwikkelen die gebruikt kan worden om een groot gebied uit te ruimen.</string>
+<string name="AV.Base_Defence.Title">Basisverdediging</string>
+<string name="AV.Base_Defence.00.Title">Basisverdediging</string>
+<string name="AV.Base_Defence.01.Paragraph">Uitgaande van uw onderzoek naar de lokale levensvormen is het duidelijk dat defensieve systemen een hoge prioriteit moeten zijn.</string>
+<string name="AV.Base_Defence.02.Paragraph">We zullen VRIJHEID moeten brengen op deze planeet!</string>
+<string name="AV.Basic_Mining_Upgrades_I.Title">Eenvoudige Mijnbouwverbeteringen I</string>
+<string name="AV.Basic_Mining_Upgrades_I.00.Title">Eenvoudige Mijnbouwverbeteringen I</string>
+<string name="AV.Basic_Mining_Upgrades_I.01.Paragraph">We moeten de snelheid verbeteren waarmee we erts kunnen verzamelen en smelten. Dit project zal zich richten op het verbeteren van de prestaties van ertsonttrekkers en smeltovens.</string>
+</resources>
