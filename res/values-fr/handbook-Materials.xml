@@ -30,10 +30,21 @@
 <string name="MA.ARTHER_Turret.01.Paragraph">Une tourelle à longue portée performante, qui doit être exploitée par ARTHER. Pour l\'utiliser, mettez en surbrillance la tourelle et appuyez sur la touche Interagir (par défaut \'E\') pour mettre ARTHER dans la tourelle.</string>
 <string name="MA.ARTHER_Turret.02.Paragraph">La tourelle peut être alimentée via une source d\'énergie externe ou en utilisant les réserves internes d\'ARTHER. Si la tourelle est alimentée de façon externe, ARTHER reçoit suffisamment d\'énergie pour rester y indéfiniment. Si ARTHER tombe à court d’énergie, il se détache et retourne vers l\'utilisateur.</string>
 <string name="MA.ARTHER_Turret.03.Header">Caractéristiques</string>
-<string name="MA.ARTHER_Turret.04.Left">Porté:
- Dommage (par tir):
+<string name="MA.ARTHER_Turret.04.Left">Portée:
+ Dommages (par tir):
  Énergie nécessaire (par tir):
  Capacité énergétique maximum:
  Temps de rechargement:
  Équipage:</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+ 33
+ 5
+ 150
+ 10 secondes
+ 1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">Pack d’améliorations d\'ARTHER</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Combine les effets du panneau solaire, du cœur d’énergie et des batteries. Utilisez le pour gagner de la place dans l\'inventaire. Vous n\'en n\'avez besoin que de un et vous devez le garder dans votre inventaire pour qu\'il fonctionne.</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Pod Expérimental Avancé</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Avancés sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir d\'Or. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
 </resources>
