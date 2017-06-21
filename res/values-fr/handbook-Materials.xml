@@ -30,4 +30,10 @@
 <string name="MA.ARTHER_Turret.01.Paragraph">Une tourelle à longue portée performante, qui doit être exploitée par ARTHER. Pour l\'utiliser, mettez en surbrillance la tourelle et appuyez sur la touche Interagir (par défaut \'E\') pour mettre ARTHER dans la tourelle.</string>
 <string name="MA.ARTHER_Turret.02.Paragraph">La tourelle peut être alimentée via une source d\'énergie externe ou en utilisant les réserves internes d\'ARTHER. Si la tourelle est alimentée de façon externe, ARTHER reçoit suffisamment d\'énergie pour rester y indéfiniment. Si ARTHER tombe à court d’énergie, il se détache et retourne vers l\'utilisateur.</string>
 <string name="MA.ARTHER_Turret.03.Header">Caractéristiques</string>
+<string name="MA.ARTHER_Turret.04.Left">Porté:
+ Dommage (par tir):
+ Énergie nécessaire (par tir):
+ Capacité énergétique maximum:
+ Temps de rechargement:
+ Équipage:</string>
 </resources>
