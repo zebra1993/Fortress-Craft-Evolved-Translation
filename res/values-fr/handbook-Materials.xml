@@ -44,14 +44,14 @@
  1 (ARTHER)</string>
 <string name="MA.ARTHER_Upgrade_Pack.00.Title">Pack d’améliorations d\'ARTHER</string>
 <string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Combine les effets du panneau solaire, du cœur d’énergie et des batteries. Utilisez le pour gagner de la place dans l\'inventaire. Vous n\'en n\'avez besoin que de un et vous devez le garder dans votre inventaire pour qu\'il fonctionne.</string>
-<string name="MA.Advanced_Experimental_Pod.00.Title">Pod expérimental avancé</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Pod Expérimental Avancé</string>
 <string name="MA.Advanced_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Avancés sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir d\'Or. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Advanced_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Advanced_machine_block.00.Title">Bloc machine Avancé</string>
 <string name="MA.Advanced_machine_block.01.Paragraph">Bloc principal de construction pour machines avancées.</string>
 <string name="MA.Advanced_machine_block.02.Header">Ces blocs sont le composant principal de certaines machines multi blocs.</string>
 <string name="MA.Antimatter_Drill_Motor.00.Title">Moteur de Foret à Antimatière</string>
-<string name="MA.Antimatter_Drill_Motor.01.Paragraph">Augmente la vitesse à laquelle un extracteur de minerai récolte au prix d\'une consommation d\'énergie plus élevée.</string>
+<string name="MA.Antimatter_Drill_Motor.01.Paragraph">Améliore la vitesse à laquelle un extracteur de minerai récolte au prix d\'une consommation d\'énergie plus élevée.</string>
 <string name="MA.Antimatter_Drill_Motor.02.Header">Caractéristiques</string>
 <string name="MA.Antimatter_Drill_Motor.03.Left">Vitesse d\'Extraction :</string>
 <string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
@@ -116,4 +116,23 @@
 <string name="MA.Basic_Conveyor_Belt.05.Paragraph">Les tapis roulants sont peu cher et n\'ont pas besoin d\'énergie, toutefois ils ont un certain nombre inconvénients. Ils sont vulnérables aux environnements froids/toxiques extrêmes et leur design ouvert les rends particulièrement susceptibles d\'être attaqués. Des méthodes de transport alternatives devraient être recherchées.</string>
 <string name="MA.Basic_Conveyor_Belt.06.Paragraph">Le Tapis Roulant Basique est bien moins cher que le tapis roulant normal mais BEAUCOUP plus lent. Utilisez-le pour vos premières automatisations ou aux endroits ou un débit élevé n\'est pas requis.</string>
 <string name="MA.Basic_Conveyor_Belt.07.Header">Filtrage</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"L\'utilisation d\'un Tapis Roulant Filtrant vous permet d\'avoir un contrôle accru sur la distribution des ressources. Ce type de filtre est utilisé pour contrôler le type de matériau éjecté depuis une trémie vers un réseau de tapis roulants. Vous pouvez configurer le filtre pour retirer ORDURES, MINÉRAUX, ORGANIQUE, GEMMES, CHARBON, BIOMASSE, POUVANT ÊTRE FONDU, COMBUSTIBLE, ARTICLES FABRIQUES, CRISTAUX et LINGOTS SEULEMENT. "</string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">Caractéristiques</string>
+<string name="MA.Basic_Conveyor_Belt.10.Left">Taux de Transport Maximal (rapide):
+ Taux de Transport Maximal (lent):
+ Énergie Requise:
+ Portée Maximale :</string>
+<string name="MA.Basic_Conveyor_Belt.11.Right">18 objets par minute
+ 9 objets par minute
+ Aucune
+ 1m</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Moteur de Foret Basique</string>
+<string name="MA.Basic_Drill_Motor.01.Paragraph">Améliore la vitesse à laquelle un extracteur de minerai récolte au prix d\'une consommation d\'énergie plus élevée.</string>
+<string name="MA.Basic_Drill_Motor.02.Header">Caractéristiques</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Vitesse d\'Extraction :</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Pod Expérimental Basique</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Basiques sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir de Cuivre. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Transmetteur d’Énergie Laser Basique</string>
 </resources>
