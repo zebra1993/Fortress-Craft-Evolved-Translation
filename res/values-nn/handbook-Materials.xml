@@ -1,2 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Batteri kjerne</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER ladnings stasjon</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">spesifikajoner</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 per sekund
+1500
+10 per sekund</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">sett in \'moustache ride\' vits her. funker kun vis du har dapper indie support DLC. du trenger bare ein av desse og det må vere i inventaren din for å funke.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Dapper pakke</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Full Dapper! Bruk denne for å spare plass i inventaret ditt ved å kombinere alle tidlegere Dapper oppgraderinger til ein gjenstand. Det må vere i inventaret ditt for å bruke oppgraderingene.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Dapper oppgraderings pakke</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER Batteri kjerne</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">fikser skadene til ARTHER slik at han kan røre seg pålitelig. Du trenger ein av desse og den må vere i inventaret ditt for å fungere.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER sol panel</string>
+<string name="MA.ARTHER_Turret.03.Header">spesifikasjoner</string>
+<string name="MA.ARTHER_Turret.04.Left">rekkevidde,
+skade (per skudd),
+maksimum strøm kapasitet,
+omladnings tid,
+mannskap,</string>
+<string name="MA.ARTHER_Turret.05.Right">64 meter
+33
+5
+150
+10 sekunder
+1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER oppgraderings pakke</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">kombiner effekten til sol panelet, batteri kjernen og batteriet. bruk denne for å spare plass i inventaret ditt. Du trenger bare ein av desse og den må vere i inventaret ditt for å funke.</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Avansert ekspiriment pod</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">avanserte eksperiment pods er bruk i labaratoriet for å oppføre eksperiment og fullføre forsknings projekt, desse podane er lagd fra gull. For mer information på laboratorium forskning ver så snill og besøk følgende veiledning.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">for mer information på å lage eksperiment pods ver så snill og les den følgende veiledning.</string>
+<string name="MA.Advanced_machine_block.00.Title">Avansert maskin blokk</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">hovud bygning blokk for avansert maskiner.</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Antimatter Drill motor</string>
+</resources>
