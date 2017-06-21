@@ -1543,9 +1543,9 @@ Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde e
     <string name="Liquified Resin_DESC">La résine a maintenant été liquéfiée et peut être collectée.</string>
     <string name="Cold Creep Spawner">Spawner de Rampeur Gelé</string>
     <string name="Cold Creep Spawner_DESC"/>
-    <string name="CryoPlasm">CryoPlasm</string>
+    <string name="CryoPlasm">CryoPlasme</string>
     <string name="CryoPlasm_DESC">Ce liquide non-newtonien organique incroyablement dur a été réveillé par notre Centre Contrôle Climat ! Nous aurons besoin d\'armes spécialisées pour faire face à ça !</string>
-    <string name="Cryoplasm">Cryoplasm</string>
+    <string name="Cryoplasm">Cryoplasme</string>
     <string name="Cryoplasm_DESC">Ce liquide non-newtonien organique incroyablement dur a été réveillé par notre Centre Contrôle Climat ! Nous aurons besoin d\'armes spécialisées pour faire face à ça !</string>
     <string name="Workfloor Excavator MK1">Excavatrice de Plancher MK1</string>
     <string name="Workfloor Excavator MK1_DESC">Excavation d\'une zone de 3 mètres de haut, 16 mètres dans chaque direction (33 m au total)</string>
@@ -2574,7 +2574,7 @@ Tête de Foreuse</string><!-- Very little space for this-->
     <string name="MISSION_Build Refinery">Fabriquez une Raffinerie.</string>
     <string name="MISSION_Build a Jet Turbine">Fabriquez une Jet Turbine.</string>
     <string name="MISSION_Build Orbital Energy Transmitter">Fabriquez un Transmetteur D\'Énergie Orbital !</string>
-    <string name="MISSION_Overminds left to destroy">Reste à Détruire les OverMind !</string>
+    <string name="MISSION_Overminds left to destroy">OverMind restant à Détruire !</string>
     <string name="MISSION_Charge Orbital Energy Transmitter">Chargez le Transmetteur D\'Énergie Orbital !</string>
     <string name="MISSION_Game Complete Purchase Expansion Pack">Jeu terminé ! Achetez un pack d\'extension !</string>
     <string name="MISSION_Locate Chromium">Localisez : Chrome.</string>
