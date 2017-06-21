@@ -35,7 +35,7 @@
  Énergie nécessaire (par tir):
  Capacité énergétique maximum:
  Temps de rechargement:
- Équipage:</string>
+ Équipage :</string>
 <string name="MA.ARTHER_Turret.05.Right">64m
  33
  5
@@ -47,4 +47,73 @@
 <string name="MA.Advanced_Experimental_Pod.00.Title">Pod expérimental avancé</string>
 <string name="MA.Advanced_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Avancés sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir d\'Or. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Advanced_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Advanced_machine_block.00.Title">Bloc machine Avancé</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">Bloc principal de construction pour machines avancées.</string>
+<string name="MA.Advanced_machine_block.02.Header">Ces blocs sont le composant principal de certaines machines multi blocs.</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Moteur de Foret à Antimatière</string>
+<string name="MA.Antimatter_Drill_Motor.01.Paragraph">Augmente la vitesse à laquelle un extracteur de minerai récolte au prix d\'une consommation d\'énergie plus élevée.</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">Caractéristiques</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">Vitesse d\'Extraction :</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">Constructeur Automatique</string>
+<string name="MA.Auto_Builder.01.Paragraph">Peut construire des lignes de tapis roulants normaux vers n\'importe qu\'elle direction cardinale quand approvisionné en tapis roulants.</string>
+<string name="MA.Auto_Builder.02.Header">Trucs et Astuces !</string>
+<string name="MA.Auto_Builder.03.Paragraph">- Cette machine a besoin de pas mal d\'énergie pour fonctionner à vitesse maximale !</string>
+<string name="MA.Auto_Builder.04.Paragraph">- Une trémie est nécessaire pour approvisionner en tapis roulants.</string>
+<string name="MA.Auto_Builder.05.Paragraph">- Ne pas utiliser d\'autres blocs ! Ne peut pas placer d\'autres blocs !</string>
+<string name="MA.Auto_Builder.06.Header">Attention !</string>
+<string name="MA.Auto_Builder.07.Paragraph">- Attacher une trémie avec des tubes de transport construira des tapis roulants normaux, pas des tubes de transport !</string>
+<string name="MA.Auto_Excavator.00.Title">Excavateur Auto</string>
+<string name="MA.Auto_Excavator.01.Paragraph">L\'excavateur Auto est une machine pour creuser de grands puits verticaux par en dessous, les matériaux extraits tomberont au sol. N\'est pas capable de creuser les veines de minerai.</string>
+<string name="MA.Auto_Excavator.02.Header">Utilisation</string>
+<string name="MA.Auto_Excavator.03.Paragraph">Creusez un petit tunnel jusqu\'au fond du puits désiré et placez l\'Excavateur Auto. Il devra être approvisionné en énergie depuis un Transmetteur d’Énergie Laser ou d\'une autre source d\'énergie.</string>
+<string name="MA.Auto_Excavator.04.Header">Caractéristiques</string>
+<string name="MA.Auto_Excavator.05.Left">Taille du puits:
+ Hauteur maximale du puits:
+ Énergie requise:
+ Capacité énergétique maximum:
+ Taux maximal de recharge d\'énergie:
+ Taux maximal d\'excavation :</string>
+<string name="MA.Auto_Excavator.06.Right">3m x 3m
+ 512m
+ 20 par 1m cube excavé
+ 160
+ Aucun
+ 40 blocs par seconde</string>
+<string name="MA.BFL-9000.00.Title">BFL-9000</string>
+<string name="MA.BFL-9000.01.Paragraph">Cette foreuse laser massive creusera un tunnel horizontal de 5x5 mètres. A besoin d\'énormes quantités d\'énergie pour fonctionner. Ne renvoie aucune ressources utiles.</string>
+<string name="MA.BFL-9000.02.Header">Caractéristiques</string>
+<string name="MA.BFL-9000.03.Left">Taille du Tunnel:
+ Longueur Maximale de Tunnel:
+ Énergie requise:
+ Capacité énergétique maximum:
+ Taux maximal de recharge d\'énergie:
+ Taux maximal d\'excavation :</string>
+<string name="MA.BFL-9000.04.Right">5m x 5m
+ Illimitée
+ 1280 par mètre
+ 2560
+ 2560 par seconde
+ 0.2 mètres par seconde</string>
+<string name="MA.Bar_Keeper.00.Title">Système de Récupération de Lingots Cyberdyne</string>
+<string name="MA.Bar_Keeper.01.Paragraph">Le Système de Récupération de Lingots Cyberdyne est une machine utilisée pour récupérer les lingots depuis l\'inventaire d\'un joueur. Cette machine est prévue pour prévenir le vol involontaire de ressources quand un joueur se déconnecte. Contrairement à ses prédécesseurs les voleurs de minéraux et d\'ordures il gène plutôt qu\'il n\'aide quand placé dans les couloirs. Utilisée dans un serveur cette machine devrait être placée à une position centrale accessible à tous mais étiquetée de manière évidente pour ne pas être utilisée de façon involontaire.
+
+ Construisez simplement notre tout-nouveau Système de Récupération de Lingots en une disposition 3x3 et alimentez le avec seulement 5 d\'énergie par lingot, puis restez simplement dessus et laissez LE faire tout le travail à votre place !</string>
+<string name="MA.Bar_Keeper.02.Header">Caractéristiques</string>
+<string name="MA.Bar_Keeper.03.Left">"Vitesse de Récupération des Lingots:
+ Stockage Interne:
+ Utilisation d’Énergie :
+ "</string>
+<string name="MA.Bar_Keeper.04.Right">"Jusqu\'à 3,300/minute!
+ 100 Lingots!
+ Seulement 5 d\'énergie par Lingot !
+ "</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">Tapis Roulant Basique</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Les Tapis Roulants Basiques sont relativement peu cher et une façon facile de déplacer des ressources. Votre première utilisation pour eux sera probablement pour déplacer des matériaux depuis une trémie rattachée à un extracteurs de minéraux ou de charbon vers une autre rattachée à une fonderie ou une générateur d\'énergie tel que le Hub Central Énergétique ou un Générateur Pyrothermique.</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">Utilisation</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">Les Tapis Roulants prennent automatiquement les ressources depuis une trémie adjacente s\'ils font face à une direction opposée à la trémie et les déplacent vers leur direction avant pour les placer dans une trémie en face d\'eux, à condition qu\'il y ai de la place disponible. Vous pouvez changer la direction de la ligne de tapis roulants en tournant un tapis ou en les plaçant sur un mur pour déplacer les ressources verticalement. Les trémies sont seulement nécessaires pour interagir avec les machines adjacentes en fin de ligne.</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Limites</string>
+<string name="MA.Basic_Conveyor_Belt.05.Paragraph">Les tapis roulants sont peu cher et n\'ont pas besoin d\'énergie, toutefois ils ont un certain nombre inconvénients. Ils sont vulnérables aux environnements froids/toxiques extrêmes et leur design ouvert les rends particulièrement susceptibles d\'être attaqués. Des méthodes de transport alternatives devraient être recherchées.</string>
+<string name="MA.Basic_Conveyor_Belt.06.Paragraph">Le Tapis Roulant Basique est bien moins cher que le tapis roulant normal mais BEAUCOUP plus lent. Utilisez-le pour vos premières automatisations ou aux endroits ou un débit élevé n\'est pas requis.</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Filtrage</string>
 </resources>
