@@ -44,8 +44,8 @@
  1 (ARTHER)</string>
 <string name="MA.ARTHER_Upgrade_Pack.00.Title">Pack d’améliorations d\'ARTHER</string>
 <string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Combine les effets du panneau solaire, du cœur d’énergie et des batteries. Utilisez le pour gagner de la place dans l\'inventaire. Vous n\'en n\'avez besoin que de un et vous devez le garder dans votre inventaire pour qu\'il fonctionne.</string>
-<string name="MA.Advanced_Experimental_Pod.00.Title">Pod Expérimental Avancé</string>
-<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Avancés sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir d\'Or. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Capsule Expérimentale Avancée</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Les Capsules d’Expérimentation Avancées sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces capsules sont fabriqués à partir d\'Or. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Advanced_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Advanced_machine_block.00.Title">Bloc machine Avancé</string>
 <string name="MA.Advanced_machine_block.01.Paragraph">Bloc principal de construction pour machines avancées.</string>
@@ -109,14 +109,14 @@
  Seulement 5 d\'énergie par Lingot !
  "</string>
 <string name="MA.Basic_Conveyor_Belt.00.Title">Tapis Roulant Basique</string>
-<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Les Tapis Roulants Basiques sont relativement peu cher et une façon facile de déplacer des ressources. Votre première utilisation pour eux sera probablement pour déplacer des matériaux depuis une trémie rattachée à un extracteurs de minéraux ou de charbon vers une autre rattachée à une fonderie ou une générateur d\'énergie tel que le Hub Central Énergétique ou un Générateur Pyrothermique.</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">Les Tapis Roulants Basiques sont relativement peu cher et une façon facile de déplacer des ressources. Votre première utilisation pour eux sera probablement pour déplacer des matériaux depuis une trémie rattachée à un extracteurs de minerai ou de charbon vers une autre rattachée à une fonderie ou une générateur d\'énergie tel que le Hub Central Énergétique ou un Générateur Pyrothermique.</string>
 <string name="MA.Basic_Conveyor_Belt.02.Header">Utilisation</string>
 <string name="MA.Basic_Conveyor_Belt.03.Paragraph">Les Tapis Roulants prennent automatiquement les ressources depuis une trémie adjacente s\'ils font face à une direction opposée à la trémie et les déplacent vers leur direction avant pour les placer dans une trémie en face d\'eux, à condition qu\'il y ai de la place disponible. Vous pouvez changer la direction de la ligne de tapis roulants en tournant un tapis ou en les plaçant sur un mur pour déplacer les ressources verticalement. Les trémies sont seulement nécessaires pour interagir avec les machines adjacentes en fin de ligne.</string>
 <string name="MA.Basic_Conveyor_Belt.04.Header">Limites</string>
 <string name="MA.Basic_Conveyor_Belt.05.Paragraph">Les tapis roulants sont peu cher et n\'ont pas besoin d\'énergie, toutefois ils ont un certain nombre inconvénients. Ils sont vulnérables aux environnements froids/toxiques extrêmes et leur design ouvert les rends particulièrement susceptibles d\'être attaqués. Des méthodes de transport alternatives devraient être recherchées.</string>
 <string name="MA.Basic_Conveyor_Belt.06.Paragraph">Le Tapis Roulant Basique est bien moins cher que le tapis roulant normal mais BEAUCOUP plus lent. Utilisez-le pour vos premières automatisations ou aux endroits ou un débit élevé n\'est pas requis.</string>
 <string name="MA.Basic_Conveyor_Belt.07.Header">Filtrage</string>
-<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"L\'utilisation d\'un Tapis Roulant Filtrant vous permet d\'avoir un contrôle accru sur la distribution des ressources. Ce type de filtre est utilisé pour contrôler le type de matériau éjecté depuis une trémie vers un réseau de tapis roulants. Vous pouvez configurer le filtre pour retirer ORDURES, MINÉRAUX, ORGANIQUE, GEMMES, CHARBON, BIOMASSE, POUVANT ÊTRE FONDU, COMBUSTIBLE, ARTICLES FABRIQUES, CRISTAUX et LINGOTS SEULEMENT. "</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"L\'utilisation d\'un Tapis Roulant Filtrant vous permet d\'avoir un contrôle accru sur la distribution des ressources. Ce type de filtre est utilisé pour contrôler le type de matériau éjecté depuis une trémie vers un réseau de tapis roulants. Vous pouvez configurer le filtre pour retirer ORDURES, MINERAI, ORGANIQUE, GEMMES, CHARBON, BIOMASSE, POUVANT ÊTRE FONDU, COMBUSTIBLE, ARTICLES FABRIQUES, CRISTAUX et LINGOTS SEULEMENT. "</string>
 <string name="MA.Basic_Conveyor_Belt.09.Header">Caractéristiques</string>
 <string name="MA.Basic_Conveyor_Belt.10.Left">Taux de Transport Maximal (rapide):
  Taux de Transport Maximal (lent):
@@ -131,8 +131,221 @@
 <string name="MA.Basic_Drill_Motor.02.Header">Caractéristiques</string>
 <string name="MA.Basic_Drill_Motor.03.Left">Vitesse d\'Extraction :</string>
 <string name="MA.Basic_Drill_Motor.04.Right">200%</string>
-<string name="MA.Basic_Experimental_Pod.00.Title">Pod Expérimental Basique</string>
-<string name="MA.Basic_Experimental_Pod.01.Paragraph">Les Pods d’Expérimentation Basiques sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces pods sont fabriqués à partir de Cuivre. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Capsule Expérimentale Basique</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">Les Capsules Expérimentales Basiques sont utilisés dans un laboratoire pour expérimenter et compléter des projets de recherche, Ces capsules sont fabriqués à partir de Cuivre. Pour plus d\'informations sur la recherche de laboratoire visitez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Basic_Experimental_Pod.02.Paragraph">Pour plus d\'informations sur la création de Pods d’Expérimentation lisez s\'il vous plaît le guide suivant.</string>
 <string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Transmetteur d’Énergie Laser Basique</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.01.Paragraph">Étant le moins cher et le plus basique des dispositifs de transmission d\'énergie ce transmetteur est inadapté à toute tâche et ne devrait être utilisé qu\'en derniers recours.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">Le Transmetteur d’Énergie Laser Basique peut seulement transmettre assez d\'énergie pour faire fonctionner deux extracteurs de minerai non améliorés. A cause de sa vitesse de transmission extraordinairement basse, améliorer vers une option de transmission plus avancée est recommandé une fois découverte.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.03.Paragraph">Pour ouvrir le panneau de contrôle du TÉL pressez la touche \'Interagir\' (défaut \'E\'). Cela permet d\'améliorer la lentille qui augmente le transfert d\'énergie. Vous pouvez aussi basculer le mode de transmission pour qu\'il attende que la batterie soit pleine avant de transmettre. Les TÉL ne possédants qu\'un petit stockage interne considérez l\'ajout d\'un Bloc de Stockage d’Énergie pour assurer un approvisionnement fiable en énergie en fonction de l\'offre et la demande.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">Caractéristiques</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.05.Left">Taille du paquet d\'énergie:↵
+ Débit paquets maximal:↵
+ Taux maximal de transfert d\'énergie:↵
+ Stockage Interne d\'Energie:↵
+ Portée Maximale :</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.06.Right">0.9↵
+ 1 par seconde↵
+ 0.9 par seconde↵
+ 18↵
+ 32m</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Port de Stockage de Masse Basique</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">"Le Port de Stockage de Masse permet l\'insertion contrôlée d\'objets dans le stockage de masse afin de prévenir tout débordement. 
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.02.Left">"Inventaire du Port:↵
+ Capacité du Drone:↵
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.03.Right">"25↵
+ 5↵
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">"Le port de stockage de masse doit être placé adjacent à une caisse de rangement de masse. Appuyer sur E ouvrira l\'interface pour configurer les objets stockés et la limite de l\'inventaire. Ce port n\'ajoutera l\'objet stocké que si le stock actuel est sous la limite spécifiée. Les autres objets seront toujours ajoutés de la même façon qu\'un port d\'entrée standard.
+
+ Maintenez Ctrl, Shift, ou Alt pendant que vous ajustez la limite de stockage pour la modifier par incréments de 10, 100, ou 1000.
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Vous pouvez faire un clic droit sur l\'emplacement vide pour chercher un objet par son nom pour facilement assigner l\'objet à stocker ou appuyer sur le bouton pour choisir un objet. Les composants Multiblocs étant spéciaux ne seront pas trouvé par une recherche normale à la place recherchez multi, placement, ou composant pour une liste de ces blocs.
+
+L\'inventaire personnel du port peut être verrouillé en utilisant le bouton signalé dans l\'interface pour prévenir le port de collecter des objets si la limite de stockage à été atteinte. Cette fonction est prévue pour limiter l\'immobilisation d\'objets de grand valeur.
+ "</string>
+<string name="MA.Basic_Missile_Assembler.00.Title">Assembleur de Missiles Basiques</string>
+<string name="MA.Basic_Missile_Assembler.01.Paragraph">L\'Assembleur de Missiles Basiques est une machine utilisée pour automatiser la production de missiles basiques.</string>
+<string name="MA.Basic_Missile_Assembler.02.Header">Utilisation</string>
+<string name="MA.Basic_Missile_Assembler.03.Paragraph">Comme toutes les machines de production autonomes vous devriez attacher une trémie par ingrédient, marquée comme \'retirer seulement\', et une trémie pour recevoir le produit finit, marquée comme \'recevoir seulement\'. Ceci assurera que la production ne se bloque pas de façon permanente du au manque d\'un quelconque ingrédient.</string>
+<string name="MA.Basic_Missile_Assembler.04.Paragraph">Chaque missile fabriqué requiert 1 Fil de Cuivre, 1 Fil d\'Or et un Carburant Composite à Haute Energie.</string>
+<string name="MA.Basic_Missile_Assembler.05.Paragraph">Cette machine a aussi besoin d\'énergie qui peut être fournie depuis un générateur d\'énergie attaché, ou indirectement via un Bloc de Stockage Energétique ou un Transmetteur d\'Energie Laser.</string>
+<string name="MA.Basic_Missile_Assembler.06.Paragraph">L\'énergie et les trémies peuvent être placées au dessus et en dessous en plus des cotés.</string>
+<string name="MA.Basic_Missile.00.Title">Missile Basique</string>
+<string name="MA.Basic_Missile.01.Paragraph">Munition pour le Lance Missiles. Fabriqué dans un Assembleur de Missiles Basiques.</string>
+<string name="MA.Basic_Missile.02.Header">Caractéristiques</string>
+<string name="MA.Basic_Missile.03.Left">Dommages :</string>
+<string name="MA.Basic_Missile.04.Right">70.000</string>
+<string name="MA.Basic_Ore_Smelter.00.Title">Fonderie de Minerais Basique</string>
+<string name="MA.Basic_Ore_Smelter.01.Paragraph">La Fonderie convertira les minerais brut en lingots qui peuvent être utilisés dans l\'usine de fabrication ou ailleurs pour fabriquer de nouvelles machines et objets. La Fonderie de Minerais Basique est à moitié moins efficace et moitié moins rapide qu\'une fonderie normale et ne peut pas être améliorée avec des modules d\'induction forcée.</string>
+<string name="MA.Basic_Ore_Smelter.02.Paragraph">Initialement il vous faudra approvisionner manuellement la fonderie, ce qui peut être fait en appuyant sur la touche \'Interagir\' (défaut \'E\') pour ouvrir le panneau de contrôle de la fonderie. Vous pouvez alors ajouter du minerai en appuyant sur le bouton \'Ajouter minerai\', ou en déplaçant un type spécifique de minerai dans la fonderie. Le panneau de contrôle indiquera combien de minerai est nécessaire par lingot tant qu\'elle est vide.</string>
+<string name="MA.Basic_Ore_Smelter.03.Paragraph">Une fois que la fonderie a assez de minerai elle commencera à chauffer, ce qui requiert de l\'énergie fournie par un bloc de stockage d\'énergie ou d\'un générateur d\'énergie. Quand elle atteindra la température correcte elle commencera à fondre le minerai en lingots qui peuvent être ramassés sur l\'emplacement de sortie en bas du panneau de contrôle.</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">Automatisation</string>
+<string name="MA.Basic_Ore_Smelter.05.Paragraph">La fonderie devrait être automatisée dès que possible avec l\'ajout de trémies d\'entrée et de sortie. La trémie d\'entrée devrait être configurée en \'Enlever seulement\'. La trémie d\'entrée doit être assez grande pour contenir le minimum de minerai requis.</string>
+<string name="MA.Basic_PCB.00.Title">PCB Basique</string>
+<string name="MA.Basic_PCB.01.Paragraph">Un PCB à base de Cuivre fabriqué à partir de Bobines de Cuivre dans une Usine d\'Assemblage de PCB.</string>
+<string name="MA.Basic_Quarry.00.Title">Carrière Basique</string>
+<string name="MA.Basic_Quarry.01.Paragraph">La carrière creuse la terre sous elle est récolte toutes les ressources trouvées. Doit être construite au dessus de -25m. Les ressources seront placées dans les trémies attachées.</string>
+<string name="MA.Basic_Quarry.02.Header">Caractéristiques</string>
+<string name="MA.Basic_Quarry.03.Left">Taille de la Carrière:
+ Profondeur de la Carrière:
+ Énergie Requise:
+ Capacité Énergétique:
+ Taux maximal de Recharge d’Énergie:
+ Durabilité Maximale Creusée:
+ Vitesse Maximale d\'Extraction:
+ Efficacité d\'Extraction :</string>
+<string name="MA.Basic_Quarry.04.Right">9m x 9m
+ 3950
+ 150 par 1m cube
+ 4096
+ 1024 par seconde
+ 250
+ 5 mètres cube par seconde
+ 10%</string>
+<string name="MA.BasicCargoLift.00.Title">Ascenseur de Fret Basique</string>
+<string name="MA.BasicCargoLift.01.Paragraph">Le plus petit des Ascenseurs de Fret disponible, il est idéal pour fournir en masse des minerais tels que le Fer ou le Lithium.</string>
+<string name="MA.BasicCargoLift.02.Header">Caractéristiques</string>
+<string name="MA.BasicCargoLift.03.Left">"Portée Maximale:
+ Vitesse Maximale:
+ Accélération:
+ Capacité Maximale:
+ Utilisation Énergétique (en Déplacement) :
+ "</string>
+<string name="MA.BasicCargoLift.04.Right">"Illimitée
+ 5 mètres/sec
+ 0.5 mètres/sec/sec
+ 300
+ 35 EPS
+ "</string>
+<string name="MA.BasicMinecart.00.Title">Wagon Basique</string>
+<string name="MA.BasicMinecart.01.Paragraph">Les Wagons sont destinés pour le transfert en masse d\'objets à vitesse moyenne.</string>
+<string name="MA.BasicMinecart.02.Header">Caractéristiques</string>
+<string name="MA.BasicMinecart.03.Left">"Vitesse Maximale:
+ Stockage Maximal:
+ Accélération:
+ "</string>
+<string name="MA.BasicMinecart.04.Right">1m/s
+ 25
+ 0.5m/s/s
+ 16
+ 15 secondes</string>
+<string name="MA.BasicMinecart.05.Paragraph">L\'utilisation des wagons est évidente, et suit le paradigme Trémie -&gt; Convoyeur qui a été utilisé jusqu\'à maintenant. Les wagons sont placés sur votre réseau de wagons via un Dépôt à Wagons.</string>
+<string name="MA.BasicMinecart.06.Title">Gestion des Ressources des Wagons</string>
+<string name="MA.BasicMinecart.07.Paragraph">Une fois sur votre réseau de wagons, les Wagons s’arrêteront aux Stations de Chargement et Déchargement, et prendront ou laisseront leur ressources transportées.</string>
+<string name="MA.BasicMinecart.08.Title">Contrôles Avancés de Wagon</string>
+<string name="MA.BasicMinecart.09.Paragraph">Pour un meilleur contrôle sur le mouvement et le transport de minerai de vos Wagons, vous avez un nombre d\'outils disponibles pour changer le comportement et la prise de décision.</string>
+<string name="MA.BaubleBerry.00.Title">Baie Babiole</string>
+<string name="MA.BaubleBerry.01.Paragraph">Une plante quelconque trouvée à la surface et dans les cavernes de cette planète.</string>
+<string name="MA.BaubleBerry.02.Paragraph">Cette plante peut être brulée pour fournir de l\'énergie.</string>
+<string name="MA.Bedrock.00.Title">Substrat Rocheux</string>
+<string name="MA.Bedrock.01.Paragraph">Un type de roche général. Peut être broyé dans un macérateur pour éventuellement en extraire du minerai. Ce bloc peut être placé.</string>
+<string name="MA.Biomass_Growth_Ping.00.Title">Ping Pousse de Biomasse</string>
+<string name="MA.Biomass_Growth_Ping.01.Paragraph">Le Ping Pousse de Biomasse est utilisé plus de biomasse quand celle trouvée par le ping de matériaux inconnus est presque épuisée ou insuffisante. Pour plus d\'informations consulter le guide d\'aide à propos des Pings de Minerai Vierge.</string>
+<string name="MA.Blank_Ore_Ping.00.Title">Ping de Minerai Vierge</string>
+<string name="MA.Blank_Ore_Ping.01.Paragraph">Le Ping de Minerai Vierge est utilisé en conjonction d\'échantillons de minerai pour fabriquer un ping de minerai spécifique. Ce ping est prévu pour permettre de trouver plus de veines de minerai de l\'échantillon utilisé si la précédente est presque épuisée ou trop petite pour être utile.</string>
+<string name="MA.Blank_Ore_Ping.02.Header">Utilisation</string>
+<string name="MA.Blank_Ore_Ping.03.Paragraph">1. Fabriquez un nombre approprié de Pings de Minerai Vierge à l\'usine d\'assemblage.</string>
+<string name="MA.Blank_Ore_Ping.04.Paragraph">2. Quand un ping spécifique devient nécessaire combinez le Ping de Minerai Vierge avec un échantillon de votre minerai en utilisant les capacités de production de votre combinaison (défaut \'C\').</string>
+<string name="MA.Blank_Ore_Ping.05.Paragraph">3. Placez le ping spécifique dans votre hotbar et sélectionnez-le. Activez-le en appuyant sur le bouton \'Construction\' (défaut \'Clic Gauche\'). Cela le chargera dans votre scanner à minerai et un ping spécifique sera envoyé depuis votre scanner et affiché dans votre Holobase. Le ping spécifique est consommé dans l\'opération.</string>
+<string name="MA.Blue_Canvas.00.Title">Toile Bleue</string>
+<string name="MA.Blue_Canvas.01.Paragraph">Bloc d\'embellissement bleu complet.</string>
+<string name="MA.Blue_GlowPod.00.Title">Plante Bioluminescente Bleue</string>
+<string name="MA.Blue_GlowPod.01.Paragraph">Cette espèce végétale native émet une lueur persistante bleue due à une réaction chimique juste sous la plante.</string>
+<string name="MA.Blue_GlowPod.02.Paragraph">Cette plante peut être brulée pour fournir de l\'énergie.</string>
+<string name="MA.Build_Gun_V1.00.Title">Fusil de Construction V1</string>
+<string name="MA.Build_Gun_V1.01.Paragraph">Ce Fusil de Construction est un outil fait à partir de morceaux recyclés de l\'épave du vaisseau. Le fusil de construction permet la construction et destruction rapide de matériaux dans l\'environnement. Le fusil de construction basique n\'a pas été assemblé pour le nouvel environnement étranger et donc ces fonctions sont extrêmement limitées. Du au refroidissement sommaire de la fonction grappin du fusil de construction, n\'importe quel changement dans la pression ou la qualité de l\'air peut causer une petite période de récupération pendant laquelle l\'activation est impossible pendant un court moment suite à l\'utilisation du grappin.</string>
+<string name="MA.Build_Gun_V2.00.Title">Fusil de Construction V2</string>
+<string name="MA.Build_Gun_V2.01.Paragraph">"Le Fusil de construction V2 est une version améliorée du fusil de construction plus adaptée à l\'utilisation en milieu étranger. L\'amélioration permet de creuser des matériaux plus résistants et de récupérer des machines avancées. Malgré cette amélioration le refroidissement du système de grappin n\'est toujours pas adéquat, pour l\'utilisation dans les cavernes froides et autres zones avec un air de mauvaises qualité un meilleur conducteur de chaleur sera nécessaire. Une seule de ces améliorations est nécessaire pour améliorer les fonctionnalités de l\'outil de base, des améliorations supplémentaires de Fusil de Construction V2 ont montré n\'apporter aucun bénéfice sans pertes extrêmes. "</string>
+<string name="MA.Build_Gun_V3.00.Title">Fusil de Construction V3</string>
+<string name="MA.Build_Gun_V3.01.Paragraph">Le Fusil de Construction V3 est une amélioration avancée fusil de construction amélioré. Cette amélioration fournit le refroidissement suffisant pour permettre l\'activation continue de la fonction grappin. En plus de l\'amélioration du refroidissement, le Fusil de Construction V3 permet la destruction de matériaux très résistants et la désactivation de machines encore plus avancées. Une seule de ces améliorations est nécessaire pour améliorer les fonctionnalités de l\'outil, des améliorations supplémentaires de Fusil de Construction V3 ont montré n\'apporter aucun bénéfice sans pertes extrêmes.</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">Port de Stockage de Masse Volumineux</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"Le Port de Stockage de Masse permet l\'insertion contrôlée d\'objets dans le stockage de masse afin de prévenir tout débordement. 
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.02.Left">"Inventaire du Port:↵
+ Capacité du Drone:↵
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.03.Right">"100
+ 25
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"Le port de stockage de masse doit être placé adjacent à une caisse de rangement de masse. Appuyer sur E ouvrira l\'interface pour configurer les objets stockés et la limite de l\'inventaire. Ce port n\'ajoutera l\'objet stocké que si le stock actuel est sous la limite spécifiée. Les autres objets seront toujours ajoutés de la même façon qu\'un port d\'entrée standard.
+
+ Maintenez Ctrl, Shift, ou Alt pendant que vous ajustez la limite de stockage pour la modifier par incréments de 10, 100, ou 1000.
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Vous pouvez faire un clic droit sur l\'emplacement vide pour chercher un objet par son nom pour facilement assigner l\'objet à stocker ou appuyer sur le bouton pour choisir un objet. Les composants Multiblocs étant spéciaux ne seront pas trouvé par une recherche normale à la place recherchez multi, placement, ou composant pour une liste de ces blocs.
+
+L\'inventaire personnel du port peut être verrouillé en utilisant le bouton signalé dans l\'interface pour prévenir le port de collecter des objets si la limite de stockage à été atteinte. Cette fonction est prévue pour limiter l\'immobilisation d\'objets de grand valeur.
+ "</string>
+<string name="MA.BulkCargoLift.00.Title">Ascenseur de Fret Volumineux</string>
+<string name="MA.BulkCargoLift.01.Paragraph">Le plus grand des ascenseurs de Fret disponible, cette machine Frozen Factory est idéale pour le transport en masse de matériaux tels que du Chromium et du Molybdenum jusqu\'aux Cavernes Gelées. Cet ascenseur de fret possède une capacité de transport énorme et de plus est extrêmement rapide !</string>
+<string name="MA.BulkCargoLift.02.Header">Caractéristiques</string>
+<string name="MA.BulkCargoLift.03.Left">"Portée Maximale:
+ Vitesse Maximale:
+ Accélération:
+ Capacité Maximale:
+ Utilisation Énergétique (en Déplacement) :
+ "</string>
+<string name="MA.BulkCargoLift.04.Right">"Illimitée
+ 15 mètres/sec
+ 0.5 mètres/sec/sec
+ 3000
+ 850 EPS
+ "</string>
+<string name="MA.BulkMinecart.00.Title">Très Grand Wagon</string>
+<string name="MA.BulkMinecart.01.Paragraph">"Les Wagons sont destinés pour le transfert en masse d\'objets à vitesse moyenne.
+
+ Ce wagon est un objet du Pack d\'extension Frozen Factory.
+ "</string>
+<string name="MA.BulkMinecart.02.Header">Caractéristiques</string>
+<string name="MA.BulkMinecart.03.Left">"Vitesse Maximale:
+ Stockage Maximal:
+ Accélération:
+ "</string>
+<string name="MA.BulkMinecart.04.Right">"2m/s
+ 50
+ 1.0m/s/s
+ "</string>
+<string name="MA.BulkMinecart.05.Paragraph">L\'utilisation des wagons est évidente, et suit le paradigme Trémie -&gt; Convoyeur qui a été utilisé jusqu\'à maintenant. Les wagons sont placés sur votre réseau de wagons via un Dépôt à Wagons.</string>
+<string name="MA.BulkMinecart.06.Title">Gestion des Ressources des Wagons</string>
+<string name="MA.BulkMinecart.07.Paragraph">Une fois sur votre réseau de wagons, les Wagons s’arrêteront aux Stations de Chargement et Déchargement, et prendront ou laisseront leur ressources transportées.</string>
+<string name="MA.BulkMinecart.08.Title">Contrôles Avancés de Wagon</string>
+<string name="MA.BulkMinecart.09.Paragraph">Pour un meilleur contrôle sur le mouvement et le transport de minerai de vos Wagons, vous avez un nombre d\'outils disponibles pour changer le comportement et la prise de décision.</string>
+<string name="MA.CargoLiftController.00.Title">Contrôleur d\'Ascenseur de Fret</string>
+<string name="MA.CargoLiftController.01.Paragraph">
+ Utilisé pour le transport vertical en masse. 
+ Est construit en une configuration 3x1x3. 
+ Est un compagnon machine idéal pour les Wagons, et est la méthode préférée pour déplacer un grand d\'objets depuis les profondeurs de votre monde.
+ Une fois construit, vous devrez manuellement creuser un puits en dessous. Si vous préférez, utilisez une machine pour effectuer cette tache ennuyeuse pour vous.</string>
+<string name="MA.CargoLiftController.02.Title">Configuration du puits</string>
+<string name="MA.CargoLiftController.03.Paragraph">Une fois votre puits préparé jusqu\'à la profondeur désirée, il vous faudra placer des Rails d\'Ascenseur de Fret le long de ses parois. Heureusement, grâce aux techniques de construction modernes, ceux-ci n\'ont pas besoin de support.
+
+ Attachez simplement une trémie au Contrôleur d\'Ascenseur de Fret avec les rails et il les placera automatiquement.
+
+ Il n\'y a PAS de limite de distance ou les rails peuvent être placés, mais prenez note du compromis entre distance et vitesse.
+
+ 400-600 mètres est idéal, mais ils peuvent être utilisés sur n\'importe quelle distance.
+
+ Une distance minimale de 15 mètres environ est recommandée.
+
+ Pour les distances plus courtes, essayez les Transmetteurs de Matière ou les Convoyeurs.</string>
+<string name="MA.CargoLiftController.04.Title">Installation</string>
+<string name="MA.CargoLiftController.05.Paragraph">"Une fois que le Contrôleur d\'Ascenseur de Fret détecte la distance adaptée une fois les rails installés, vous êtes alors prêt a un installer un ascenseur de Fret.
+ Ouvrez simplement l\'interface du Contrôleur d\'Ascenseur de Fret (touche par défaut \'E\') et déplacez dans l\'emplacement l\'Ascenseur de Fret approprié.
+ Vous pouvez retirer et améliorer les Ascenseurs de Fret, mais ils doivent être VIDE avant de pouvoir le faire.
+ "</string>
+<string name="MA.CargoLiftController.06.Title">Utilisation</string>
+<string name="MA.CargoLiftController.07.Paragraph">"Votre Ascenseur de Fret se déplacera automatiquement le long du puits s\'il a assez d\'énergie, et collectera et livrera les ressources en fonction des ordres donnés. Pour changer les ordres, ouvrez simplement l\'interface du Contrôleur (touche par défaut \'E\') et sélectionnez les.
+
+ Une fois à l’extrémité supérieure ou inférieure du puits, l\'Ascenseur de Fret tentera de Charger ou Décharger via les trémies attachées.
+Placez les simplement de façon à toucher l\'ascenseur à l’arrêt.
+ "</string>
+<string name="MA.Central_Power_Hub.00.Title">Concentrateur d\'Énergie Central</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">Le Concentrateur d\'Énergie Central (CEC) est la machine la plus importante de votre base. Elle est trop avancée pour être répliquée et vous ne pouvez pas survivre sur ce monde sans elle alors vous devez la protéger à tout pris.</string>
+<string name="MA.Central_Power_Hub.02.Header">Production d’Énergie</string>
+<string name="MA.Central_Power_Hub.03.Paragraph">Le Concentrateur d\'Énergie Central contient une grande batterie capable de stocker de l\'énergie produite par ses panneaux solaires et son petit générateur à carburants fossiles. Il n\'y a la place que pour une seule unité de carburant à la fois alors devriez automatiser la livraison de carburant en utilisant une trémie ou une mini trémie dès que possible.</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">Le Concentrateur d\'Énergie Central fournira automatiquement en énergie les machines adjacentes qui en ont besoin. Vous pouvez aussi directement insérer ou extraire de l\'énergie en interagissant avec (défaut \'E\'). Ce panneau de contrôle permet aussi d’insérer du carburant dans le générateur.</string>
 </resources>
