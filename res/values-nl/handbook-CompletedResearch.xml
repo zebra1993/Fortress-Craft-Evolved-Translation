@@ -1,2 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Geavanceerde Verdediging</string>
+<string name="CO.Advanced_Defence.00.Title">Geavanceerde Verdediging</string>
+<string name="CO.Advanced_Defence.01.Paragraph">We hebben met succes een raketverdediging ontwikkeld en verdere verbeteringen aan het energiekanon gedaan. We gaan wel raketten moeten ontwikkelen en dat gaat brandstof nodig hebben!</string>
+<string name="CO.Advanced_Logistics.Title">Geavanceerde Logistiek</string>
+<string name="CO.Advanced_Logistics.00.Title">Geavanceerde Logistiek</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">We hebben nu een nieuw massaopslagsysteem en een sorteermechanisme om ertsen tussen transportbanden te verplaatsen.</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">Geavanceerde Mijnwerkersverbeteringen</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">Geavanceerde Mijnwerkersverbeteringen</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">Verdere verbeteringen voor de ertsonttrekker en smeltoven zijn nu beschikbaar. In toevoeging hebben we ook het Steengroevesysteem geperfectioneerd. Gebruik de Geologische Landmeter om een hoofdlocatie te identificeren, plaats dan de Steengroeve om de mijnbouw te beginnen.</string>
+<string name="CO.Advanced_Power_Grid.Title">Geavanceerd Energienet</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Geavanceerd Energienet</string>
+<string name="CO.Advanced_Research.Title">Geavanceerd Onderzoek</string>
+<string name="CO.Advanced_Research.00.Title">Geavanceerd Onderzoek</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">We hebben verdere verbeteringen gemaakt aan onze energie-infrastructuur, waaronder een nieuwe Energieopslag Blok en een Laser Energiezender.</string>
+<string name="CO.Advanced_Power_Grid.02.Paragraph">We hebben ook een aantal voorlopige ontwerpen voor een nieuw type Energiegenerator. Om dit onderzoek te voltooien, zullen we echter een dichtere energiebron moeten vinden dan de kolen die we tot nu toe hebben gebruikt.</string>
+<string name="CO.Advanced_Research.01.Paragraph">We hebben nu een ontwerp voor een onderzoekslaboratorium en de assemblage machines die nodig zijn voor het leveren van experimentele capsules.</string>
+<string name="CO.Advanced_Research.02.Paragraph">Het laboratorium is nodig voor het onderzoeken van geavanceerde projecten die uw technologieniveau verbeteren en nieuwe projecten en recepten ontgrendelen. Er zijn in totaal 27 laboratoriumcomponenten nodig (vervaardigd in 3 stapels van 9 componenten elk) en moet in een 3 op 3 op 3 configuratie gebouwd worden.</string>
+<string name="CO.Advanced_Research.03.Paragraph">Voor meer informatie over het gebruik van het laboratorium, raadpleeg de volgende handleiding:</string>
+<string name="CO.Aesthetics.Title">Esthetica</string>
+<string name="CO.Aesthetics.00.Title">Esthetica</string>
+<string name="CO.Aesthetics.01.Paragraph">In het onwaarschijnlijke geval dat we wat vrije tijd hebben, kunnen we onze basis wat verfraaien met een verscheidenheid aan gekleurde opslagkratten en canvas.</string>
+<string name="CO.Base_Building_Automation.Title">Automatisatie van het Bouwen van de Basis</string>
+<string name="CO.Base_Building_Automation.00.Title">Automatisatie van het Bouwen van de Basis</string>
+<string name="CO.Base_Building_Automation.01.Paragraph">We hebben nu een grote verscheidenheid aan nieuwe machines beschikbaar om onze basis te automatiseren. Gebruik de Vermaler om nutteloze rotsen om te malen en om te ruilen in mogelijke nuttige ertsen. De auto-graafmachine kan boven zichzelf schachten uitgraven, terwijl de auto-bouwer lange transportbanen voor ons kan bouwen.</string>
+<string name="CO.Base_Building_Automation.02.Paragraph">Gebruik de liften om veilig te reizen tussen uw basis aan het oppervlak en uw diepere mijnen. Gebruik de explosieven om grote gebieden uit te ruimen of vijandige doelen te vernietigen.</string>
+<string name="CO.Base_Defence.Title">Basisverdediging</string>
+<string name="CO.Base_Defence.00.Title">Basisverdediging</string>
+<string name="CO.Base_Defence.01.Paragraph">We kunnen nu VRIJHEID brengen op deze planeet!</string>
+<string name="CO.Base_Defence.02.Paragraph">Ons basisverdediging onderzoek is succesvol geweest, we hebben nu drie verdedigingswerken beschikbaar voor fabricage. Het ARTHER-kanon is efficiënt in energieverbruik en heeft een groot bereik, maar moet door ARTHER bediend worden, we moeten het dus zorgvuldig positioneren om onze broninfrastructuur te beschermen terwijl we de benodigde materialen verzamelen om de losstaande kanonnen te bouwen en van energie te voorzien.</string>
+<string name="CO.Basic_Mining_Upgrades_I.Title">Eenvoudige Mijnbouwverbeteringen I</string>
+<string name="CO.Basic_Mining_Upgrades_I.00.Title">Eenvoudige Mijnbouwverbeteringen I</string>
+<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">We hebben met succes een aantal upgrades onderzocht om onze mogelijkheden voor het verzamelen van resources te verbeteren.</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">Eenvoudige Ertssmeltoven</string>
+<string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Boormotoren kunnen in een ertsonttrekker worden geplaatst om hun extractiesnelheid te verbeteren ten koste van meer energie.</string>
+</resources>
