@@ -881,7 +881,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Topaz Crystal">Topazkristall</string>
     <string name="Topaz Crystal_DESC">Diese mittelwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
-    <string name="Sugalite Crystal_DESC">"Diese niederwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. "</string>
+    <string name="Sugalite Crystal_DESC">Diese niederwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften.</string>
     <string name="Rocket Framework">Raketengerüst</string>
     <string name="Rocket Framework_DESC">Raketengerüst welches eine Leersektion darstellt. Hat weder Treibstoff- noch Frachtkapazität.</string>
     <string name="Basic Rocket Engine">Einfacher Raketenantrieb</string>
@@ -1702,7 +1702,7 @@ Sehr Energie hungrig!</string>
     <string name="Adventures Pack DLC">Abenteuerpacket DLC</string>
     <string name="Adventures Pack DLC_DESC">Danke, dass Du das Adventures Pack DLC gekauft hast!</string>
     <string name="CRP DLC KEY">PatreonKey</string> <!-- Patreonkey? "Community Reward Pack" i guess?-->
-    <string name="CRP DLC KEY_DESC">Placeholder</string>
+    <string name="CRP DLC KEY_DESC">Platzhalter</string>
 
     <string name="Emergency Siren">Notfallsirene</string>
     <string name="Emergency Siren_DESC">An einer Maschine anbringen, um diese zu überwachen.</string>
@@ -1941,7 +1941,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="SpiderBot Core Charger_CRAFT_HINT">Der Spiderbot braucht Energie, um deine Basis zu verteidigen.</string>
     <string name="Laser Resin Ablator_CRAFT_DESC">Nutzt große Energiemengen um die Hüllen von gehärtetem Harz abzutragen. Dies erlaubt das Verflüssigen und Raffinieren in weiteren Schritten.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
-    <string name="Laser Resin Liquifier_CRAFT_DESC">Nutzt große Mengen Energie um den weichen Kern von einem gehärteten Harzblock zu verflüssigen, nachdem er seiner Hülle entledigt wurde. Container anbauen.</string>
+    <string name="Laser Resin Liquifier_CRAFT_DESC">Nutzt große Mengen Energie um den weichen Kern von einem gehärteten Harzblock zu verflüssigen, nachdem er seiner Hülle entledigt wurde. An Container anbauen.</string>
     <string name="Laser Resin Liquifier_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
     <string name="Liquid Resin Refiner_CRAFT_DESC">Raffiniert verflüssigtes Harz zu sehr nutzvollem, raffiniertem Flüssigharz.</string>
     <string name="Liquid Resin Refiner_CRAFT_HINT">Benutzt in einigen hochstufigen, organischen Rezepten.</string>
@@ -2632,7 +2632,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Rüste eine MK1 Solarzelle an deinem Anzug aus.</string>
     <string name="MISSION_Critical Research Mining Upgrades">Kritische Forschung: Bergbauverbesserungen.</string>
     <string name="MISSION_Place your Forced Induction Kit">Platziere Deinen erzwungenen Induktionssatz.</string>
-    <string name="MISSION_Build a Forced Induction Kit">Baue einen erzwungenen Induktionssatz.</string>
+    <string name="MISSION_Build a Forced Induction Kit">Baue einen Induktionssatz.</string>
     <string name="MISSION_Critical Research Automation">Kritische Forschung: Automatisierung.</string>
     <string name="MISSION_Build an Ore Thief">Baue einen Erzdieb.</string>
     <string name="MISSION_Build a Threat Scanner">Baue einen Bedrohungsmesser.</string>
