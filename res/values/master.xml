@@ -2593,7 +2593,6 @@
     <string name="Finished Research">finished</string>
     <string name="Lab">Lab</string>
     <string name="Laboratory has">Laboratory has</string>
-    <string name="Located">Press K to examine the Holobase.</string>
     <string name="MISSION_All">All</string>
     <string name="MISSION_Clearing">has started clearing.</string>
     <string name="MISSION_Crystal_Offline">Crystal Ore extractor offline</string>
@@ -2682,6 +2681,7 @@
     <string name="Skin_ViewDLCInStore">VIEW DLC IN STORE</string>
     <string name="Skin_ViewGameInStore">VIEW GAME IN STORE</string>
     <string name="Skin_ViewInfo">VIEW INFO</string>
+    <string name="Located">LOCATED!</string>
 
     <!-- Matter Mover -->
     <string name ="Matter_Mover">Matter Mover</string>
