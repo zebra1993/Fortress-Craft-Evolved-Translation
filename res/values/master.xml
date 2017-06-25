@@ -2656,4 +2656,83 @@
     <string name="ARTHER_Vein_Warning">Warning! One of our </string>
     <string name="Tutorial_Smelter_Permissions">Warning! Smelter detected attached to Add/Remove Storage Hopper - did you mean to set permissions?</string>
 
+
+    <!-- Changes from 07.06.2017 -->
+    <!-- Ore Extractor -->
+    <string name="OE_Retrieve">Click Icon to retrieve</string>
+    <!-- Difficulty Settings -->
+    <string name="Resources">Resources</string>
+
+    <string name="Menu_Resume">RESUME</string>
+    <string name="Menu_Multiplayer">MULTIPLAYER</string>
+    <string name="Menu_Help">HELP</string>
+    <string name="Menu_Settings">SETTINGS</string>
+    <string name="Menu_SkinSelect">SKIN SELECT</string>
+    <string name="Menu_Quit">QUIT</string>
+    <string name="Menu_Resume_Strap">Return to game in progress</string>
+    <string name="Menu_Multiplayer_Strap">Select multiplayer options</string>
+    <string name="Menu_Help_Strap">Open the help window</string>
+    <string name="Menu_Settings_Strap">Adjust in-game settings</string>
+    <string name="Menu_SkinSelect_Strap">Open Skin Selector menu</string>
+    <string name="Menu_Quit_Strap">Quit to desktop</string>
+    <string name="Contextual Help">Contextual Help</string>
+    <string name="SKIN_SELECTOR">SKIN SELECTOR</string>
+    <string name="Skin_Accept">ACCEPT</string>
+    <string name="Skin_ViewInStore">VIEW IN STORE</string>
+    <string name="Skin_ViewDLCInStore">VIEW DLC IN STORE</string>
+    <string name="Skin_ViewGameInStore">VIEW GAME IN STORE</string>
+    <string name="Skin_ViewInfo">VIEW INFO</string>
+
+    <!-- Matter Mover -->
+    <string name ="Matter_Mover">Matter Mover</string>
+    <string name ="Dual_Matter_Mover">Dual Matter Mover</string>
+    <string name ="Quad_Matter_Mover">Quad Matter_Mover</string>
+    <string name ="Multi_Matter_Mover">Multi-Matter_Mover</string>
+    <string name ="MM_AddPower">Add Power to begin MatterMitting</string>
+    <string name ="MM_Aim_1">Aim at a Storage Hopper less than </string>
+    <string name ="MM_Aim_2">"m away."</string>
+    <string name ="MM_HopperError">Attached Storage Hopper is empty or locked!</string>
+    <string name ="MM_HopperFull">TargetHopper is full!</string>
+    <string name ="MM_TooClose">Min. transmission distance is 1m; aim in another direction!</string>
+    <string name ="MM_NoHopper">Place next to an unlocked Storage Hopper!</string>
+    <string name ="MM_Holding">Holding</string>
+    <string name ="MM_PastTense">MatterMitted</string>
+    <string name ="MM_Glue">items, using up</string>
+    
+    <!-- Chargeable_Explosive -->
+    <string name="Chargeable_Explosive">Chargeable Explosive</string>
+    <string name="CE_Controls">Press Shift+E to light fuse</string>
+    <string name="CE_CurrentCharge">Current Power Charge</string>
+    <string name="CE_Detonate">Explosive will detonate in</string>
+    <string name="CE_Info">Keeps charge when picked upe</string>
+    <string name="CE_Level">Charge level</string>
+    <string name="CE_Seconds">seconds</string>
+
+    <!-- On-screen location-->
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Lost?">Lost?</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Surface">Surface</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Upper Caves">Upper Caves</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Cold Caverns">Cold Caverns</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Lower Caves">Lower Caves</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Toxic Caverns">Toxic Caverns</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Deep Caves">Deep Caves</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="Magma Caverns">Magma Caverns</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="EXTERNAL TEMP">EXTERNAL TEMP</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="SUIT INTERNAL TEMP">SUIT INTERNAL TEMP</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="BATTERY USE RATE">BATTERY USE RATE</string>
+    <!-- MAX LENGTH 16 CHARS -->
+    <string name="World Settings">World Settings</string>
+    
+    
 </resources>
