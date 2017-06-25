@@ -1727,20 +1727,22 @@ Erzeugt eine Datailblockwerkstatt
 Grösse von 2x2x2 bis 8x8x8</string>
 
     <!-- Manufacturer and other crafting plant strings -->
-    <string name="Solar Panel_CRAFT_DESC">Solarpanele versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tages. Braucht freie Sicht zum Himmel.</string>
+    <string name="Solar Panel_CRAFT_DESC">Solarpanele versorgen angrenzende Maschinen mit einer kleinen Menge Energie während des Tages.
+Braucht freie Sicht zum Himmel.</string>
     <string name="Solar Panel_CRAFT_HINT">Perfekt um Kleinleistungsmaschinen zu versorgen.</string>
-    <string name="Organic Solar Panel_CRAFT_DESC">Organische Solarpanele versorgen angrenzende Maschinen mit einer guten Menge Energie während des Tages. Es kann mit Sternenlicht auch bei Nacht ein wenig Energie einfangen. Braucht freie Sicht zum Himmel.</string>
+    <string name="Organic Solar Panel_CRAFT_DESC">Organische Solarpanele versorgen angrenzende Maschinen mit einer guten Menge Energie während des Tages. Es kann mit Sternenlicht auch bei Nacht ein wenig Energie einfangen.
+Braucht freie Sicht zum Himmel.</string>
     <string name="Organic Solar Panel_CRAFT_HINT">Braucht freien Himmel!</string>
-    <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt eine akzeptable Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden</string>
+    <string name="MK2 Solar Panel Component_CRAFT_DESC">Sammelt eine akzeptable Energie am Tag. Kann nur in einer hotizontalen 3x3 Platte auf Forschungslabor, Raffinerie und grossen Batterien gebaut werden.</string>
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
-    <string name="MK2 Organic Solar Component_CRAFT_DESC">Sammelt eine beachtliche Menge von Energie am Tag und einen kleinen Teil auch bei Nacht. Es wird genauso wie das MK2 Solarpanel gebaut.</string>
+    <string name="MK2 Organic Solar Component_CRAFT_DESC">Sammelt eine beachtliche Menge von Energie am Tag und einen kleinen Teil auch bei Nacht. Wird genauso wie das MK2 Solarpanel gebaut.</string>
     <string name="MK2 Organic Solar Component_CRAFT_HINT">Kann nur auf Forschungslabor, Raffinerie oder grossen Batterien gebaut werden!</string>
     <string name="Pyrothermic Generator_CRAFT_DESC">Verbrennt Ressourcen aus angrenzenden Containern um angrenzende Maschinen mit Energie zu versorgen. Verliert bei zunehmender Tiefe Effizienz wegen schlechter Ventilation. Nutze Laserenergieüberträger um Energie tiefer zu senden.</string>
     <string name="Pyrothermic Generator_CRAFT_HINT">Muss mit einem Container verbunden sein.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Maximale Distanz: 64. Verbessern so bald wie möglich.</string>
-    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
-    <string name="Laser Energy Transmitter MK1_CRAFT_HINT">Maximale Distanz: 64.</string>
+    <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Überträgt Energie langsam von einem Generator oder Batterie in bis zu 64 Block entfernung. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
+    <string name="Laser Energy Transmitter MK1_CRAFT_HINT">Maximale Distanz: 64</string>
     <string name="Laser Energy Transmitter MK2_CRAFT_DESC">Überträgt Energie mittelschnell von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
     <string name="Laser Energy Transmitter MK2_CRAFT_HINT">Tier 2 überträgt mehr Energie!</string>
     <string name="Laser Energy Transmitter MK3_CRAFT_DESC">Überträgt viel Energie von einem Generator oder Batterie bis zu 64m weit. Kann Maschinen, Batterien oder einen anderen Transmitter versorgen. An Wand anbringen um vertikal Energie zu übertragen.</string>
@@ -1785,7 +1787,7 @@ Grösse von 2x2x2 bis 8x8x8</string>
 Nutze dies um deine Basis warm zu halten.</string>
     <string name="Torch_CRAFT_HINT">Vorsicht : Feuer ist heiss!</string>
     <string name="Electric Light_CRAFT_DESC">Gibt ein kaltes, blaues Licht ab. Braucht Energie.</string>
-    <string name="Electric Light_CRAFT_HINT">Wirft Licht in einem Bogen von 180°</string>
+    <string name="Electric Light_CRAFT_HINT">Wirft Licht in einem Bogen von 180°.</string>
     <string name="Emergency Siren_CRAFT_DESC">Gibt einen Ton ab, wenn die angrenzende Maschine keine Energie mehr hat.</string>
     <string name="Emergency Siren_CRAFT_HINT">Kann ebenfalls auf Förderbändern und Containern verwendet werden.</string>
     <string name="Red Warning Light_CRAFT_DESC">An eine energiebrauchende Maschine anschliessen um ein rotes Licht zu erhalten.</string>
@@ -1828,9 +1830,9 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="MK2 Forced Induction_CRAFT_HINT">16x Energieverbrauch</string>
     <string name="MK3 Forced Induction_CRAFT_DESC">Wird auf einem Schmelzofen platziert, erhöht Geschwindigkeit um 400%, konsumiert 3.200% mehr Energie. Unterstützt keine einfachen Schmelzofen.</string>
     <string name="MK3 Forced Induction_CRAFT_HINT">32x Energieverbrauch</string>
-    <string name="MK4 Forced Induction_CRAFT_DESC">Wird auf einem Schmelzofen platziert, erhöht Geschwindigkeit um 400%, konsumiert 3.200% mehr Energie. Verdoppelte Erzaufnahmegeschwindigkeit. Unterstützt keine einfachen Schmelzofen.</string>
+    <string name="MK4 Forced Induction_CRAFT_DESC">Wird auf einem Schmelzofen platziert, erhöht Geschwindigkeit um 400%, konsumiert 3.200% mehr Energie. Verdoppelte Erzaufnahmegeschwindigkeit!</string>
     <string name="MK4 Forced Induction_CRAFT_HINT">Verdoppelt die Aufnahmegeschwindigkeit des Schmelzofens.</string>
-    <string name="MK5 Forced Induction_CRAFT_DESC">Wird auf einem Schmelzofen platziert, erhöht Geschwindigkeit um 400%, konsumiert 3.200% mehr Energie. Vervierfacht Erzaufnahmegeschwindigkeit. Unterstützt keine einfachen Schmelzöfen.</string>
+    <string name="MK5 Forced Induction_CRAFT_DESC">Wird auf einem Schmelzofen platziert, erhöht Geschwindigkeit um 400%, konsumiert 3.200% mehr Energie. Vervierfacht Erzaufnahmegeschwindigkeit!</string>
     <string name="MK5 Forced Induction_CRAFT_HINT">Vervierfacht die Erzaufnahmengeschwindigkeit.</string>
     <string name="ARC Smelter Upgrade_CRAFT_DESC">Wird auf normalem Schmelzofen platziert, um T4 Erze zu schmelzen. MINDERT die Geschwindigkeit um 400%, Energieverbrauch: Unbekannt.</string>
     <string name="ARC Smelter Upgrade_CRAFT_HINT">Nutze dies, um das erste Strangussbecken zu bauen.</string>
@@ -1851,21 +1853,21 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="Server Monitor_CRAFT_DESC">Erlaubt es den Server zu überwachen. Gibt auch Informationen über Berechtigungen und andere lustige Dinge.</string>
     <string name="Server Monitor_CRAFT_HINT">Sorry wegen deiner vierten Wand.</string>
     <string name="Threat Reducer_CRAFT_DESC">Braucht kleine Mengen Energie um die Basisbedrohungsstufe zu mindern. Nutze dies um Angriffe aufzuschieben, während du die Basis aufbaust.</string>
-    <string name="Threat Reducer_CRAFT_HINT">Funktioniert nicht, wenn der Orbitalenergieüberträger gebaut wird!</string>
+    <string name="Threat Reducer_CRAFT_HINT">Funktioniert nicht, wenn der Orbitalergieüberträger gebaut wird!</string>
     <string name="Threat Agitator_CRAFT_DESC">Braucht eine bescheidene Menge an Energie um die Bedrohungsstufe der Basis zu erhöhen. Wird genutzt um mehr Organische Ausbeute zu erhalten!</string>
     <string name="Threat Agitator_CRAFT_HINT">Jeder erhöht die Bedrohung um 10% und fügt 5 Gegner pro Welle hinzu.</string>
     <string name="Basic Conveyor Belt_CRAFT_DESC">Langsame aber billige Methode, um Materialien zwischen Containern zu verschieben. Benötigt keine Energie. Förderbänder sind anfällig für Angriffe und extreme Temperaturen.</string>
     <string name="Basic Conveyor Belt_CRAFT_HINT">Langsam aber effizient.</string>
     <string name="Conveyor Belt_CRAFT_DESC">Wir genutzt um Materialien zwischen Containern zu verschieben. Benötigt keine Energie. Förderbänder sind anfällig für Angriffe und extreme Temperaturen.</string>
     <string name="Conveyor Belt_CRAFT_HINT">Anfällig für extreme Kälte!</string>
-    <string name="Up Sloped Conveyor_CRAFT_DESC">Genutzt um Materialien Neigungen herauf zu transportieren.</string>
+    <string name="Up Sloped Conveyor_CRAFT_DESC">Genutzt um Materialien Neigungen herauf zu transportieren. Fast doppelt so schnell wie normale Förderbänder. Grazie Pythagoras!</string>
     <string name="Up Sloped Conveyor_CRAFT_HINT">Anfällig für extreme Kälte!</string>
     <string name="Down Sloped Conveyor_CRAFT_DESC">Genutzt um Materialien Neigungen runter zu transportieren. Fast doppelt so schnell wie normale Förderbänder. Grazie Pythagoras!</string>
     <string name="Down Sloped Conveyor_CRAFT_HINT">Anfällig für extreme Kälte!</string>
     <string name="Conveyor Turntable_CRAFT_DESC">Rotiert automatisch nach Abgabe von Gegenständen. Nicht angrenzend zu einem Container oder anderen Drehtischen aufbauen. Wird genutzt, um Förderbandlinien aufzuspalten.</string>
     <string name="Conveyor Turntable_CRAFT_HINT">Genutzt um Förderbandlinien aufzuspalten.</string>
     <string name="Conveyor Belt Filter_CRAFT_DESC">Angehängt an einen Container kann definiert werden, welche Typen von Gegenständen auf das Förderbandnetzwerk ausgegeben werden.</string>
-    <string name="Conveyor Belt Filter_CRAFT_HINT">Zwischen Containern und Föderbändern.</string>
+    <string name="Conveyor Belt Filter_CRAFT_HINT">Zwischen Containern und Föderbändern platzieren.</string>
     <string name="Advanced Conveyor Filter_CRAFT_DESC">Anhängen an Container um spezifische Gegenstände in das Förderbandnetzwerk abzugeben.</string>
     <string name="Advanced Conveyor Filter_CRAFT_HINT">Unterstützt die gezielte Selektion von Gegenständen.</string>
     <string name="Motorised Conveyor_CRAFT_DESC">Anhängen an einen Container um, wenn mit Energie versorgt, sogar die schnellsten Transportsysteme an ihre Grenzen zu bringen!</string>
@@ -1890,9 +1892,9 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="Multi Matter Mover_CRAFT_HINT">Schneller Transport, hohe Energiekosten.</string>
     <string name="AI Mover Control_CRAFT_DESC">Verschiebt Inhalte zwischen Containern, basierend auf den gesetzten Berechtigungen.
 Billig und hässlich, dafür verlässlich* 
- *Nicht wirklich verlässlich.</string>
+*Nicht wirklich verlässlich.</string>
     <string name="AI Mover Control_CRAFT_HINT">Billig und hässlich, dafür verlässlich* 
- *Nicht wirklich verlässlich.</string>
+*Nicht wirklich verlässlich.</string>
     <string name="FALCOR Beacon_CRAFT_DESC">Markiert ein horizontales Gebiet mit 32m Durchmesser, in dem FALCOR Drohnen automatisch Beute aufsammeln. Braucht Energie.</string>
     <string name="FALCOR Beacon_CRAFT_HINT">Ideal für Überbleibsel von Wespen!</string>
     <string name="FALCOR MK1_CRAFT_DESC">Sammelt automatisch markierte Beute im Umkreis von 256m. Benötigt angrenzenden Container.</string>
@@ -2677,4 +2679,20 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Build a Jet Turbine">Baue eine Turbine.</string>
     <string name="MISSION_Build Orbital Energy Transmitter">Baue einen orbitalen Energieübertrager!</string>
     <string name="MISSION_Charge Orbital Energy Transmitter">Lade den orbitalen Energieübertrager auf!</string>
+    <string name="MISSION_Overminds left to destroy">Overminde zu zerstören!</string>
+    <string name="MISSION_Game Complete Purchase Expansion Pack">Spiel beendet! Kaufe das Erweiterungspacket!</string>
+    <string name="MISSION_Locate Chromium">Finde: Chrom.</string>
+    <string name="MISSION_Locate Molybdenum">Finde : Molybdän.</string>
+    <string name="MISSION_Terraform the Cold Cavern">Terraforme die Kaltenhöhlen.</string>
+    <string name="MISSION_Reminder">Erinnerung</string>
+    <string name="MISSION_Rush Mode">Strummodus</string>
+
+    <string name="ARTHER_No_Ore">Warnung! Keine Kohle wurde in der letzen Minute verbrannt!</string>
+    <string name="ARTHER_Press_K">Drücke K um die Holobase anzuzeigen.</string>
+    <string name="ARTHER_Press_M">"Drücke M um zum Erzscanner zu wechseln! "</string>
+    <string name="ARTHER_Unknown_Block">"Unbekannter Block erkannt... "</string>
+    <string name="Finished Current Research">hat momentane Forschung beendet!</string>
+    <string name="Finished Research">beendet</string>
+    <string name="Lab">Labor</string>
+    <string name="Laboratory has">Das Labor hat</string>
     </resources>
