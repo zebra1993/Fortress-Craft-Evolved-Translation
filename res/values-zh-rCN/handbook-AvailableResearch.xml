@@ -1,2 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AV.Advanced_Defence.Title">高级防御</string>
+<string name="AV.Advanced_Defence.00.Title">高级防御</string>
+<string name="AV.Advanced_Defence.01.Paragraph">我们需要建立更强大的基地来面对更大的威胁！</string>
+<string name="AV.Advanced_Logistics.Title">高级物流</string>
+<string name="AV.Advanced_Logistics.00.Title">高级物流</string>
+<string name="AV.Advanced_Logistics.01.Paragraph">优化我们的采矿作业需要的是手术刀，而不是锤子。（当然，锤子你可以单独升级）.</string>
+<string name="AV.Advanced_Logistics.02.Paragraph">这项研究项目将重点放在存储、分类和附加基础结构工具的改进上。</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">高级矿工升级</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">高级矿工升级</string>
+<string name="AV.Advanced_Miner_Upgrades.01.Paragraph">该项目将研究矿石提炼厂和冶炼厂的进一步改进。此外，该研究项目将继续研究新的采矿系统。</string>
+<string name="AV.Advanced_Power_Grid.Title">高级能量网络</string>
+<string name="AV.Advanced_Power_Grid.00.Title">高级能量网络</string>
+<string name="AV.Advanced_Power_Grid.01.Paragraph">我们最近发现的材料应该能使我们的电力设施得到进一步的提升。</string>
+<string name="AV.Advanced_Research.Title">高级研究</string>
+<string name="AV.Advanced_Research.00.Title">高级研究</string>
+<string name="AV.Advanced_Research.01.Paragraph">由于研究站的技术限制，我们的研究进展受到限制。所以我们需要设计一个新的实验室来继续进行更先进的项目！</string>
+<string name="AV.Aesthetics.Title">美学</string>
+<string name="AV.Aesthetics.00.Title">美学</string>
+<string name="AV.Aesthetics.01.Paragraph">如果有时间的话，也许我们可以用各种颜色的储物箱和帆布来装饰一下我们的基地。</string>
+<string name="AV.Base_Building_Automation.Title">基础自动化建筑</string>
+<string name="AV.Base_Building_Automation.00.Title">基础自动化建筑</string>
+<string name="AV.Base_Building_Automation.01.Paragraph">像大型采矿作业这种重体力活还是交给机器来做吧，我们先休息一下！</string>
+<string name="AV.Base_Building_Automation.02.Paragraph">这个项目将设计一种自动挖掘的机器，还可以使你横穿你的基地。</string>
+<string name="AV.Base_Building_Automation.03.Paragraph">除了自动挖掘机器外，该项目还将设法产生一种爆炸物，可以用来清除大面积物体的爆炸物。</string>
+<string name="AV.Base_Defence.Title">基础防御</string>
+<string name="AV.Base_Defence.00.Title">基础防御</string>
+<string name="AV.Base_Defence.01.Paragraph">根据你对当地环境的研究，很明显，你立刻必须建立防御系统。</string>
+<string name="AV.Base_Defence.02.Paragraph">我们必须给这个星球带来自由！</string>
+<string name="AV.Basic_Mining_Upgrades_I.Title">基础采矿升级 I</string>
+<string name="AV.Basic_Mining_Upgrades_I.00.Title">基础采矿升级 I</string>
+<string name="AV.Basic_Mining_Upgrades_I.01.Paragraph">我们需要提高采集和冶炼矿石速度了，该项目将重点放在提高矿石采集速度和冶炼厂的冶炼速度上。</string>
+<string name="AV.Basic_Mining_Upgrades_II.Title">基础矿工升级 II</string>
+<string name="AV.Basic_Mining_Upgrades_II.00.Title">基础矿工升级 II</string>
+<string name="AV.Basic_Mining_Upgrades_II.01.Paragraph">根据我们之前对于采矿升级的研究，我们应该能够进一步提升我们的钻头和超载组件。</string>
+<string name="AV.Black_Box_Data.Title">黑匣子</string>
+<string name="AV.Black_Box_Data.00.Title">黑匣子</string>
+<string name="AV.Black_Box_Data.01.Paragraph">你的装甲里装着一个黑匣子，里面储存着所有传感器的读数，它们是你在这里坠毁的原因。研究这些数据可以帮助你确定到底发生了什么。</string>
+<string name="AV.Improved_Ore_Scanning.Title">提升矿物扫描</string>
+<string name="AV.Improved_Ore_Scanning.00.Title">提升矿物扫描</string>
+<string name="AV.Improved_Ore_Scanning.01.Paragraph">我们在寻找资源扩展基地时遇到了问题！</string>
+<string name="AV.Improved_Ore_Scanning.02.Paragraph">我们的矿石扫描仪拥有定位未知材料并进行研究和分类的功能。但它在寻找已知材料的新来源方面的能力有限。也许可以使用少量的备用矿石作为过滤器，使我们能够找到我们所需要的资源。</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.Title">中级矿工升级 I</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.00.Title">中级矿工升级 I</string>
+</resources>
