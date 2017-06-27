@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">问候!你的语言只有部分支持。如果你想回到英语,然后按下面的“英语”!</string>
+    <string name="Translation_Incomplete">翻译不完整!</string>
+    <string name="Language_Name">英文</string><string name="Frozen_Factory">冷冻工厂</string>
+    <string name="Dapper_Pack">整合包</string>
+    <string name="Skin_Pack">皮肤包</string>
+    <string name="Installed">安装</string>
+    </resources>
