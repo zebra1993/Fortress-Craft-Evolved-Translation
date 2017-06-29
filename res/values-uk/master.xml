@@ -1,2 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Вітання! Ваша мова підтримується лише частково. Якщо хочете перейти на англійську, натисність кнопку \"Англійська\" знизу!</string>
+    <string name="Translation_Incomplete">Переклад не завершено!</string>
+    <string name="Language_Name">Англійська</string><string name="Frozen_Factory">Заморожена Фабрика</string>
+    <string name="Dapper_Pack">Чепурний комплект</string>
+    <string name="Skin_Pack">Комплект скинів</string>
+    <string name="Installed">Встановлено</string>
+    <string name="Not_Installed">Не встановлено</string>
+    <string name="Multiplayer_Sign">&lt;Мультиплеер</string>
+    <string name="Quit_Sign">Вихід</string>
+    <string name="World_Sign">Вибір Світу</string>
+    <string name="Create_World">Створити Світ</string>
+    <string name="Spacebar">Пробіл</string>
+    <string name="Resource_Level">Рівень ресурсів</string>
+    <string name="Power_Level">Рівень енергії</string>
+    <string name="Conveyor_Speed">Швидкість конвеєрів</string>
+    <string name="Day_Night_Cycle">Цикл дня/ночі</string>
+    <string name="Mob_Difficulty">Складність ворогів</string>
+    <string name="Death_Mode">Режим смерті</string>
+    <string name="Rush_Mode">Швидкий режим</string>
+    <string name="Flatland">Плоский режим</string>
+    <string name="Care_Package">Гуманітарна допомога</string>
+    <string name="Survival_Options">Параметри виживання</string>
+    <string name="Seed">Зерно</string>
+    <string name="Mode">Режим</string>
+    <string name="Select_Mods">Вибір модів</string>
+    <string name="Back">Назад</string>
+    <string name="Mutators">Модифікатори</string>
+
+    <string name="Enter_World">Увійти у Світ</string>
+    <string name="Reset_World">Скинути світ</string>
+
+
+    <string name="Creative_New">Режим Творчості дає необмежену можливість будувати що завгодно, використовувати детальні блоки з високою роздільною здатністю і інструменти для редагування світу, креслення і систему швидкого копіювання і вставки. У цьому режимі не представлені основні моменти Виживання, так що не варто вважати його \"чітерним\" по відношенню до останнього!</string>
+    <string name="Creative_Info">Це вже існуючий Творчий Світ, але, на жаль, тут немає особливо крутої статистики, яку можна відобразити. Може, замість цього хочете картинку з котиком?</string>
+
+    <string name="Mod_Management">Управління модами</string>
+    <string name="Mod_Name">Назва моду</string>
+    <string name="Active">Активен</string>
+    <string name="Version">Версія</string>
+    <string name="Lock">Блок.</string>
+    <string name="Status">Статус</string>
+    <string name="Workshop">Майстерня</string>
+
+    <string name="Workshop_Mod">Мод із майстерні</string>
+    <string name="Update_Pending">Очікування оновлення</string>
+    <string name="Downloading">Завантажується</string>
+
+    <string name="On">Увімкн.</string>
+    <string name="Off">Вимкн.</string>
+    <string name="Locked">Заблоковано</string>
+
+    <string name="Plentiful">Рясно</string>
+    <string name="Scarce">Мізерно</string>
+    <string name="Greg">Грег</string>
+    <string name="Rapid">Стрімко</string>
+
+    <string name="Fast">Швидко</string>
+    <string name="Slow">Повільно</string>
+
+    <string name="Eternal Day">Вічний день</string>
+    <string name="Normal">Нормально</string>
+    <string name="Eternal Night">Вічна нічь</string>
+
+    <string name="Trivial Mobs">Тривіальні вороги</string>
+    <string name="Normal Mobs">Нормальні вороги</string>
+    <string name="Hard Mobs">Тяжкі вороги</string>
+
+    <string name="None">Ні</string>
+    <string name="Clumsy">Незграбний</string>
+    <string name="Iron Man">Залізна Людина</string>
+    <string name="SquishCore">Місиво</string>
+    <string name="Hardcore">Хардкор</string>
+
+    <string name="Survival">Виживання</string>
+    <string name="Creative">Творчість</string>
+
+    <string name="Default_Settings_Info">Налаштування за замовчуванням такі, що для новачків гра буде дуже швидкою і легкою. Якщо ви хочете ще більше прискорити розвиток гри - виберіть \"Вічний День\" для циклу дня/ночі. А якщо вам хочеться випробувати свої можливості, то копирсатися з настройками, як вашій душі буде завгодно!
+Пам\'ятайте, що налаштування будуть зафіксовані, коли ваш Світ буде створений, і зверніть увагу на очікуваний час для критичних подій!</string>
+    <string name="Previous_Visit">Ви вже були в цьому Світі Виживання!</string>
+    <string name="Play_time">Час гри</string>
+    <string name="Mod_Selected">мод обрано.</string>
+    <string name="Mods_Selected">модів обрано.</string>
+    <string name="Existing_Seed">Поточне Зерно</string>
+
+    <string name="Resources_Plentiful_Info">Рясний рівень ресурсів дає величезну кількість ресурсів і значно прискорює прогрес в грі на всьому її протязі. Підходить для терплячих і нових гравців.</string>
+    <string name="Resources_Scarce_Info">Мізерний рівень ресурсів призводить до повільної і вдумливої гри, дає багато часу на дослідження і для роздумів про оптимізацію бази. Не рекомендується для нових гравців!</string>
+    <string name="Resources_Greg_Info">Рівень ресурсів \"Грег\" круто знизить швидкість розвитку в грі. Такий рівень призначений для тих, хто буде грати цілодобово і для ВЕСЬМА терплячих гравців!</string>
+    <string name="Resources_Rapid_Info">Стрімке рівень ресурсів призначений для людей з особистим життям, дітьми, роботою або тих, хто буде стрімити гру на вихідних. Чудово підходить для швидкого ознайомлення з грою, перед тим, як зануритися у велику складність.</string>
+
+
+    <string name="Conveyor_Slow_Info">Повільні конвеєри добре збалансовані і підкреслюють важливість високорівневих конвеєрів. Це налаштування призведе до значного сповільнення вашої прогресії.</string>
+    <string name="Conveyor_Fast_Info">Швидкі конвейери означають менше часу очікування. Вони приблизно вдвоє швидше Повільних.</string>
+
+    <string name="Plentiful_Power_Info">Рясний рівень енергії дає збільшений збір енергії від всіх генераторів енергії. Помітно впливає на прогрес на ранніх етапах гри.</string>
+    <string name="Scarce_Power_Info">Мізерно рівень енергії означає збалансовану генерацію енергії. Уповільнює розвиток на початковій стадії.</string>
+
+    </resources>
