@@ -1,2 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Witaj! Twój język jest wspierany tylko częściowo. Jeśli chcesz wrócić do Angielskiego, naciśnij po prostu \'Angielski\' poniżej!</string>
+    <string name="Translation_Incomplete">Tłumaczenie Niekompletne!</string>
+    <string name="Language_Name">Angielski</string><string name="Frozen_Factory">Mroźna Fabryka</string>
+    <string name="Dapper_Pack">Zestaw Elegancji</string>
+    <string name="Skin_Pack">Zestaw Skórek</string>
+    <string name="Installed">Zainstalowany</string>
+    <string name="Not_Installed">Nie Zainstalowany</string>
+    <string name="Multiplayer_Sign">&lt;Wieloosobowy</string>
+    <string name="Quit_Sign">Wyjście</string>
+    <string name="World_Sign">Wybór Świata</string>
+    <string name="Create_World">Stwórz Świat</string>
+    <string name="Spacebar">Spacja</string>
+    <string name="Resource_Level">Poziom Zasobów</string>
+    <string name="Power_Level">Poziom Mocy</string>
+    <string name="Conveyor_Speed">Szybkość Pasa</string>
+    <string name="Day_Night_Cycle">Cykl Dnia/Nocy</string>
+    <string name="Death_Mode">Tryb Śmierci</string>
+    <string name="Mob_Difficulty">Poziom Trudności Mobów</string>
+    <string name="Rush_Mode">Tryb Nadwyżki Produkcji</string>
+    <string name="Flatland">Super Płaski</string>
+    <string name="Survival_Options">Opcje Przetrwania</string>
+    <string name="Seed">Seed</string>
+    <string name="Mode">Tryb</string>
+    <string name="Select_Mods">Wybierz Modyfikacje</string>
+    <string name="Back">Powrót</string>
+    <string name="Mutators">Mutatory</string>
+
+    <string name="Enter_World">Wejdź Na Świat</string>
+    <string name="Reset_World">Zresetuj Świat</string>
+
+
+    <string name="Creative_New">Tryb Kreatywny daje Ci nielimitowane możliwości budowy wszystkiego, wysokiej jakości zdetalowane bloki, rozszerzone narzędzia edycji świata, schematy, plany i mechanizm kopiuj-wklej. Nie zawiera większości elementów przetrwania i nie powinien być traktowany jako \'oszustwo\' w Przetrwaniu!</string>
+    <string name="Creative_Info">Jest to istniejący świat Kreatywny, lecz niestety, nie mam żadnych fajnych statystyk do pokazania. Co powiesz w zamian na zdjęcie kota?</string>
+
+    <string name="Mod_Management">Zarządzanie Modyfikacjami</string>
+    <string name="Mod_Name">Nazwa Modyfikacji</string>
+    <string name="Active">Aktywna</string>
+    <string name="Version">Wersja</string>
+    <string name="Lock">Zablokuj</string>
+    <string name="Status">Status</string>
+    <string name="Workshop">Warsztat</string>
+
+    <string name="Workshop_Mod">Modyfikacja z Warsztatu</string>
+    <string name="Update_Pending">Oczekująca Aktualizacja</string>
+    <string name="Downloading">Pobieranie</string>
+
+    <string name="On">Włączony</string>
+    <string name="Off">Wyłączony</string>
+    <string name="Locked">Zablokowany</string>
+
+    <string name="Plentiful">Obfity</string>
+    <string name="Scarce">Ograniczony</string>
+    <string name="Greg">Greg</string>
+    <string name="Rapid">Nagły</string>
+
+    <string name="Fast">Szybki</string>
+    <string name="Slow">Wolny</string>
+
+    <string name="Eternal Day">Wieczny Dzień</string>
+    <string name="Normal">Normalny</string>
+    <string name="Eternal Night">Wieczna Noc</string>
+
+    <string name="Trivial Mobs">Banalne Moby</string>
+    <string name="Normal Mobs">Normalne Moby</string>
+    <string name="Hard Mobs">Trudne Moby</string>
+
+    <string name="None">Brak</string>
+    <string name="Clumsy">Nieudolne</string>
+    <string name="Iron Man">Człowiek z Żelaza</string>
+    </resources>
