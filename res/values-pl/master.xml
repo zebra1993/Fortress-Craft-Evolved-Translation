@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Witaj! Twój język jest wspierany tylko częściowo. Jeśli chcesz wrócić do Angielskiego, naciśnij po prostu \'Angielski\' poniżej!</string>
     <string name="Translation_Incomplete">Tłumaczenie Niekompletne!</string>
-    <string name="Language_Name">Angielski</string><string name="Frozen_Factory">Mroźna Fabryka</string>
+    <string name="Language_Name">Polski</string><string name="Frozen_Factory">Mroźna Fabryka</string>
     <string name="Dapper_Pack">Pakiet Elegancji</string>
     <string name="Skin_Pack">Zestaw Skórek</string>
     <string name="Installed">Zainstalowany</string>
-    <string name="Not_Installed">Nie Zainstalowany</string>
+    <string name="Not_Installed">Niezainstalowany</string>
     <string name="Multiplayer_Sign">&lt;Wieloosobowy</string>
     <string name="Quit_Sign">Wyjście</string>
     <string name="World_Sign">Wybór Świata</string>
@@ -16,8 +16,8 @@
     <string name="Conveyor_Speed">Szybkość Pasa</string>
     <string name="Day_Night_Cycle">Cykl Dnia/Nocy</string>
     <string name="Death_Mode">Tryb Śmierci</string>
-    <string name="Mob_Difficulty">Poziom Trudności Mobów</string>
-    <string name="Rush_Mode">Tryb Nadwyżki Produkcji</string>
+    <string name="Mob_Difficulty">Poziom Trudności Potworów</string>
+    <string name="Rush_Mode">Tryb Pośpiechu</string>
     <string name="Flatland">Super Płaski</string>
     <string name="Survival_Options">Opcje Przetrwania</string>
     <string name="Seed">Seed</string>
@@ -51,8 +51,8 @@
 
     <string name="Plentiful">Obfity</string>
     <string name="Scarce">Ograniczony</string>
-    <string name="Greg">Greg</string>
-    <string name="Rapid">Nagły</string>
+    <string name="Greg">Skąpy</string>
+    <string name="Rapid">Błyskawiczny</string>
 
     <string name="Fast">Szybki</string>
     <string name="Slow">Wolny</string>
@@ -61,11 +61,112 @@
     <string name="Normal">Normalny</string>
     <string name="Eternal Night">Wieczna Noc</string>
 
-    <string name="Trivial Mobs">Banalne Moby</string>
-    <string name="Normal Mobs">Normalne Moby</string>
-    <string name="Hard Mobs">Trudne Moby</string>
+    <string name="Trivial Mobs">Banalne Potwory</string>
+    <string name="Normal Mobs">Normalne Potwory</string>
+    <string name="Hard Mobs">Trudne Potwory</string>
 
     <string name="None">Brak</string>
-    <string name="Clumsy">Nieudolne</string>
+    <string name="Clumsy">Niezdarny</string>
     <string name="Iron Man">Człowiek z Żelaza</string>
+    <string name="Survival">Przetrwanie</string>
+    <string name="Creative">Kreatywny</string>
+
+    <string name="Default_Settings_Info">Domyślne ustawienia są dostosowane do nowych graczy jako super szybkie i super łatwe! Jeśli chcesz jeszcze SZYBSZĄ rozgrywkę, wybierz Wieczny Dzień z Cyklu Dnia/Nocy. Jeśli chcesz mieć wyzwanie, poprzestawiaj ustawienia jak Ci się tylko podoba!
+Pamiętaj, że te ustawienia są ZABLOKOWANE na czas trwania twojego świata i weź pod uwagę czasy!</string>
+    <string name="Previous_Visit">Byłeś już na tym świecie Przetrwania!</string>
+    <string name="Play_time">Czas gry</string>
+    <string name="Mod_Selected">wybrana modyfikacja.</string>
+    <string name="Mods_Selected">wybrane modyfikacje.</string>
+    <string name="Existing_Seed">Istniejący Seed</string>
+
+    <string name="Resources_Plentiful_Info">Obfite Zasoby dadzą Ci mnóstwo surowców, i bardzo przyspieszą twój postęp w początkowej i końcowej fazie gry. To dobry punkt zaczepienia dla cierpliwych, początkujących graczy.</string>
+    <string name="Resources_Scarce_Info">Ograniczone Zasoby spowodują spowolnienie gry, dadzą więcej czasu na eksplorację i optymalizację twojej bazy. Nie polecane dla początkujących!</string>
+    <string name="Conveyor_Slow_Info">Wolne Pasy Transmisyjne są dobrze zbalansowane i kładą nacisk na systemy przewozowe wyższego poziomu. Ta opcja znacząco spowolni twoją grę.</string>
+    <string name="Conveyor_Fast_Info">Szybkie Pasy Transmisyjne oznaczają mniej czekania. Są około dwa razy szybsze niż w opcji wolne.</string>
+
+    <string name="Plentiful_Power_Info">Obfita Moc wprowadza znacznie zwiększoną produkcję energii, z wszelkiego rodzaju generatorów. Ta opcja znacząco przyspieszy postęp we wczesnej fazie gry.</string>
+    <string name="Scarce_Power_Info">Ograniczona Moc wprowadza zbalansowaną produkcję energii. Ta opcja spowolni postęp we wczesnej fazie gry.</string>
+
+    <string name="Eternal_Day_Info">Wieczny Dzień powoduje stałą pracę kolektorów słonecznych, nie doświadczysz też spadków temperatur nocą. Wybranie tej opcji pozwoli na o wiele szybszy postęp - Zbieranie energii kolektorami jest 4x szybsze!</string>
+    <string name="Day_Night_Info">Normalny cykl Dnia/Nocy trwa 24 minuty. Przez 12 minut ciemności, doświadczysz ekstremalnych spadków temperatury, zwiększonej agresji potworów i ograniczonej widoczności.</string>
+    <string name="Eternal_Night_Info">Wieczna Noc oznacza brak wytchnienia od przejmującego zimna podczas dnia, oraz brak dostępu do nie organicznej technologii solarnej; między innymi twojego OCZ. Jest to znaczące wyzwanie.</string>
+
+    <string name="Death_Default_Info">Oto tryb domyślny. Nie ma kar za śmierć, pominąwszy niski poziom zdrowia i długi spacer. Sprawia to, że gra staje się ekstremalnie łatwa, w związku z brakiem kary, za żaden ekscytujący sposób w który możesz umrzeć.</string>
+    <string name="Death_Clumsy_Info">Tryb niezdary jest polecany jeśli szukasz rozsądnego wyzwania, i dobrego powodu, żeby nie umierać! Podczas śmierci upuścisz cały ekwipunek!</string>
+    <string name="Death_Ironman_Info">NIE DLA POCZĄTKUJĄCYCH!
+
+Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze TRACISZ twój cały ekwipunek w przypadku śmierci!</string>
+    <string name="Death_SquishCore_Info">NIE POLECANE DLA NIKOGO!
+
+ Squishcore ma proste zasady; umierasz, pozostajesz martwy</string>
+    <string name="Death_Hardcore_Info">NIE POLECANE DLA NIKOGO!
+
+ Hardcore jest najtrudniejszym trybem; Jeśli ty lub twoje OCZ umrzecie, koniec gry! Twoje OCZ się nie leczy.</string>
+
+    <string name="Rushmode_Disabled">Tryb Pośpiechu wyłączony.</string>
+    <string name="Needs_FF">Wymaga dodatku Mroźna Fabryka.</string>
+
+    <string name="Trivial_Mobs_Info">Banalne Potwory nie są rekomendowane. Potwory nadal istnieją, by umożliwić pełną rozbudowę, ale nie będą stanowiły żadnego wyzwania, wyklucza to olbrzymią część rozgrywki. Otrzymasz zredukowane Zagrożenie Bazy i zmniejszoną szybkość odradzania wścibskich potworów i w Rojach</string>
+    <string name="Normal_Mobs_Info">Normalne Potwory - i o to chodzi. Dobry wybór!</string>
+    <string name="Hard_Mobs_Info">Trudne Potwory - Po wybraniu tej opcji staniesz przed, znacznie trudniejszymi i znacznie agresywniejszymi mobami. Przeznaczone TYLKO dla BARDZO doświadczonych graczy!</string>
+
+    <string name="Hours">godziny</string>
+
+    <string name="Server_Name">Nazwa Serwera</string>
+    <string name="Server_Management">Zarządzanie Serwerem</string>
+    <string name="Game_Mode">Tryb Gry</string>
+    <string name="Ping">Ping</string>
+    <string name="Players">Gracze</string>
+    <string name="Hide_Host_Address">Ukryj Adres Gospodarza</string>
+    <string name="Host_Address">Adres Hosta</string>
+    <string name="Join">Dołącz</string>
+    <string name="Edit">Edytuj</string>
+    <string name="Delete">Usuń</string>
+    <string name="Add_New">Dodaj nowy</string>
+    <string name="Mods">Modyfikacje</string>
+    <string name="Page">Strona</string>
+
+    <string name="Unable_To_Join">Nie udało się połączyć</string>
+
+    <string name="Iron Bar">Sztabka żelaza</string>
+    <string name="SquishCore">SquishCore</string>
+    <string name="Hardcore">Hardcore</string>
+
+    <string name="Care_Package">Pakunek</string>
+    <string name="Resources_Greg_Info">Skąpe Surowce, mocno obniżą szybkość twojego postępu. Tryb ten jest zbalansowany dla Dedykowanych 24/7 serwerów wieloosobowych i BARDZO cierpliwych ludzi!</string>
+    <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących puścić strumyk z gry w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed zwiększonym poziomem trudności.</string>
+
+
+    <string name="MISSION_CPH lacking resources">Brakuje zasobów w OCZ!</string>
+    <string name="Dedicated">Dedykowany</string>
+    <string name="Iron Bars">Sztabek żelaza</string>
+    <string name="MK1 Power Booster">MK1 Wzmacniacz Mocy</string>
+    <string name="MK1 Power Boosters">MK1 Wzmacniaczy Mocy</string>
+    <string name="MK2 Power Booster">MK2 Wzmacniacz Mocy</string>
+    <string name="MK2 Power Boosters">MK2 Wzmacniaczy Mocy</string>
+    <string name="MK3 Power Booster">MK3 Wzmacniacz Mocy</string>
+    <string name="MK3 Power Boosters">MK3 Wzmacniaczy Mocy</string>
+    <string name="MK4 Power Booster">MK4 Wzmacniacz Mocy</string>
+    <string name="MK4 Power Boosters">MK4 Wzmacniaczy Mocy</string>
+    <string name="MK5 Power Booster">MK5 Wzmacniacz Mocy</string>
+    <string name="MK5 Power Boosters">MK5 Wzmacniaczy Mocy</string>
+    <string name="Copper Bar">Sztabka Miedzi</string>
+    <string name="Copper Bars">Sztabek Miedzi</string>
+    <string name="Lithium Bar">Sztabka Litu</string>
+    <string name="Lithium Bars">Sztabek Litu</string>
+    <string name="Chromium Bar">Sztabka Chromu</string>
+    <string name="Chromium Bars">Sztabek Chromu</string>
+    <string name="Molybdenum Bar">Sztabka Molibdenu</string>
+    <string name="Molybdenum Bars">Sztabek Molibdenu</string>
+    <string name="Plastic Pellet">Plastikowy Nabój</string>
+    <string name="Care_Package_Locked">Opcja Pakunek zostanie odblokowana w momencie zbudowania Centrum Kontroli Klimatu.</string>
+    <string name="Care_Package_Disabled">Pakunek wyłączony.</string>
+    <string name="Care_Package_Enabled">Pakunek włączony! Ta opcja da Ci ogromną przewagę na początku nowego świata, włączając w to MK3 działo budowlane, powiększoną baterią w skafandrze, panel słoneczny i ogrzewanie skafandru, od samego startu. Daj im popalić chłopcze.</string>
+
+    <string name="Flatland_Locked">Tryb Super Płaski zostanie odblokowany po zabiciu Spawnera Krioplazmy.</string>
+    <string name="Flatland_Disabled">Tryb Super Płaski wyłączony.</string>
+    <string name="Flatland_Enabled">Tryb Super Płaski! Sprawia, że powierzchnia staje się płaska, stąd też nazwa!</string>
+
+    <string name="Rushmode_Locked">Tryb Pośpiechu zostanie odblokowany w momencie, w którym naładujesz Orbitalny Przekaźnik Energii.</string>
+    <string name="Suit Cooler MK1">Chłodzenie Skafandru MK1</string>
     </resources>
