@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.AI_Mover_Control.00.Title">AI-Rörelsekontroll</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Batteri</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Tillåter ARTHER att lagra 8x mer energi som han kan överföra till dig när du börjar få för lite. Bygg detta så snart som möjligt! Du behöver bara en av dessa och den måste vara i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER-Laddningsstation</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Ladda om ARTHER snabbt från din bas kraftnätverk. Bäst när kombinerad med en ARTHER-batteriuppgradering.</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Specifikationer</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">ARTHER-Laddningshastighet:
+Stationens kraftkapacitet:
+Stationens Laddningshastighet:</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 per sekund
+1500
+10 per sekund</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Snygg hatt till ARTHER</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Få ARTHER att se riktigt snygg ut! Fungerar endast ifall du har \"Dapper Indie Supporter\" DLC-paketet. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Snygg monokel till ARTHER</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Förbättrar ARTHER\'s syn! Fungerar endast ifall du äger \"Dapper Indie Supporter\" DLC-paketet. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">Snygg mustasch till ARTHER</string>
+</resources>
