@@ -1,2 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">Nybörjarhandbok</string>
+<string name="SU.01Welcome.00.Title">Välkommen till FortressCraft Evolved</string>
+<string name="SU.01Welcome.01.Header">Överlevnadsläge</string>
+<string name="SU.01Welcome.02.Paragraph">Du har precis flytt från rymdstationen i en skadad flyktkapsel. Den klarade sig inte genom atmosfären, men lyckligtvis lyckades du skjuta ut dig själv i tid. Du kommer nu behöva överleva på denna hemska alienplaneten!</string>
+<string name="SU.01Welcome.03.Header">Från början</string>
+<string name="SU.01Welcome.04.Paragraph">Din toppmoderna rymddräkt kan hålla dig säker under dessa kalla omständigheterna, men den behöver energi för att göra det. Ditt kraschade skepp kan ge dig nödvändiga resurser att hålla dig vid liv på kort sikt, så du borde ge dig ut så fort du bara kan.</string>
+<string name="SU.01Welcome.05.Header">Kontroller</string>
+<string name="SU.01Welcome.06.Paragraph">Spelets kontroller finns nedskrivna i en separat guide länkat till nedan.</string>
+<string name="SU.01Welcome.07.Header">Överlevnadstips</string>
+<string name="SU.01Welcome.08.Paragraph">För er som inte vill läsa en hel guide så finns det några snabba tips. De följande sidorna går in i lite mer detalj hur man borde göra i början.</string>
+</resources>
