@@ -895,9 +895,10 @@ Die Benutzung ist einfach: Baue ein 5x1x5 Quadrat, speise Energie von irgendeine
 
 Diese Maschine, unter einem Forschungslabor oder anderen großen, energie-hungrigen Gerät platziert, ist exzellent dafür, eine ordentliche Hochgeschwindigkeits-Energielieferung umzusetzen.
  "</string>
-<string name="MA.Induction_Charger.03.Left">Interner Speicher:
+<string name="MA.Induction_Charger.03.Left">"Interner Speicher:
 Energie-Eingangsrate:
-Energie-Ausgangsrate:</string>
+Energie-Ausgangsrate: 
+ "</string>
 <string name="MA.Induction_Charger.04.Right">"1500
 7500/Seite/Sek.
 1250/Maschine/Sek.
