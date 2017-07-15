@@ -1044,5 +1044,5 @@ benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
 <string name="MA.Low_Grade_Steel_Bar.01.Paragraph">Minderwertige Stahlbarren werden aus Eisen und Nickel in einem Stahlgussofen hergestellt. Sie stellen eine wichtige Komponente für viele fortgeschrittene Herstellungsrezepte dar.</string>
 <string name="MA.MK2_Solar_Panel_Component.00.Title">MK2 Solaranlagenkomponente</string>
 <string name="MA.MK2_Solar_Panel_Component.01.Paragraph">Das MK2 Solarpanel ist ein Stromerzeuger mit einer Fläche von 3 mal 3 Metern und einem Meter Höhe. Plaziere 9 Solarpanel-Komponenten in dieser Konstellation um die Maschine zu bauen. Das Sonnenlicht muss ungehindert einfallen können, damit das Solarpanel funktioniert!</string>
-<string name="MA.MK2_Solar_Panel_Component.02.Paragraph">"Dieses energieerzeugende Gerät kann nur auf fortschrittlichen Maschinen gebaut werden, wie zum Beispiel dem Labor, Raffenerie, MK4 und MK5 Energiespeichern. "</string>
+<string name="MA.MK2_Solar_Panel_Component.02.Paragraph">Dieses energieerzeugende Gerät kann nur auf fortschrittlichen Maschinen gebaut werden, wie zum Beispiel dem Labor, Raffenerie, Liftsteuerungen, MK4 und MK5 Energiespeichern.</string>
 </resources>
