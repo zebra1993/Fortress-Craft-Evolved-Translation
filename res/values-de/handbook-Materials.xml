@@ -1061,4 +1061,6 @@ Sonnenlicht</string>
 <string name="MA.Macerator.05.Paragraph">- Diese Maschine wird mit einem Förderband gefüttert und gibt zurückgewonnenes Erz an einen benachbarten Container ab.</string>
 <string name="MA.Magnetic_Drill_Motor.00.Title">Magnetischer Bohrkopfantrieb</string>
 <string name="MA.Magnetic_Drill_Motor.01.Paragraph">Verbessert die Arbeitsgeschwindigkeit eines Erzförderers, auf Kosten eines erhöhten Stromverbrauchs.</string>
+<string name="MA.Manufacturing_Plant.00.Title">Produktionsanlage</string>
+<string name="MA.Manufacturing_Plant.01.Paragraph">Die Produktionsanlage kann die meisten Maschinen und Gegenstände herstellen, die sich zum überleben auf diesem Planeten benötigen. Einige Gegenstände benötigen spezielle Montagemaschinen, diese werden im Handbuch für den Gegenstand aufgeführt. Um die Maschinen-Bedienoberfläche zu öffnen, drücken Sie die \'Benutzen\' Taste (Standard \'E\'). Manche Gegenstände können sie auch zu jeder Zeit in der Anzug-Bedienoberfläche (Standard \'C\') herstellen.</string>
 </resources>
