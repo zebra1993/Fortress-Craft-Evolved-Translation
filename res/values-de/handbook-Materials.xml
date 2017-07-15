@@ -1064,4 +1064,5 @@ Sonnenlicht</string>
 <string name="MA.Manufacturing_Plant.00.Title">Produktionsanlage</string>
 <string name="MA.Manufacturing_Plant.01.Paragraph">Die Produktionsanlage kann die meisten Maschinen und Gegenstände herstellen, die du zum überleben auf diesem Planeten brauchst. Einige Gegenstände benötigen spezielle Montagemaschinen, welche im Handbucheintrag für den jeweiligen Gegenstand aufgeführt werden. Um die Bedienoberfläche zu öffnen, drücke die \'Benutzen\' Taste (Standard \'E\'). Manche Gegenstände können jeder Zeit in der Anzug-Montage (Standard \'C\') herstellt werden.</string>
 <string name="MA.Manufacturing_Plant.02.Header">Fertigungs-Bedienoberfläche</string>
+<string name="MA.Manufacturing_Plant.03.Paragraph">Die Fertigungs-Bedienoberfläche besteht aus vier Teilen. Diese sind von links nach rechts: Die Liste von verfügbaren Schablonen, Informationen zu ausgewähltem Gegenstand, benötigte Ressourcen und unterhalb davon die Einstellungen zur Automatisierung.</string>
 </resources>
