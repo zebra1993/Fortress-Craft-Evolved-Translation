@@ -84,11 +84,11 @@ Keine
 <string name="MA.BFL-9000.01.Paragraph">Dieser massive horizontale Tunnelbohrer schneidet einen 5x5 großen Tunnel entlang seiner Ausrichtung. Benötigt riesige Mengen an Energie. Gibt keine nützlichen Ressourcen zurück.</string>
 <string name="MA.BFL-9000.02.Header">Spezifikationen</string>
 <string name="MA.BFL-9000.03.Left">Tunnelgröße:
- Max. Tunnellänge:
- Energiebedarf:
- Energiekapazität:
- Max. Aufladerate:
- Max. Grabgeschwindigkeit:</string>
+Max. Tunnellänge:
+Energiebedarf:
+Energiekapazität:
+Max. Aufladerate:
+Max. Grabgeschwindigkeit:</string>
 <string name="MA.BFL-9000.04.Right">5x5 Meter
  Unbegrenzt
  1280 pro Meter
@@ -97,15 +97,15 @@ Keine
  0,2 Meter pro Sekunde</string>
 <string name="MA.Bar_Keeper.00.Title">Cyberdyne Barren Rücknahmestation</string>
 <string name="MA.Bar_Keeper.01.Paragraph">Die Cyberdyne Barren Rücknahmestation ist eine Maschine, die verwendet wird, um Metallbarren aus dem Inventar des Spielers zu entfernen. Diese Maschine soll einen unbeabsichtigten Diebstahl von Ressourcen verhindern, wenn sich ein Spieler ausloggt. Im Gegensatz zum Erz und Müll-Schlucker ist diese Maschine in zentralen großen Räumen eher hinderlich. In einem Mehrspieler-Game sollte diese Maschine zwar leicht zugänglich aber offensichtlich beschriftet sein, um nicht aus Versehen aktiviert zu werden.
- Baue einfach unsere brandneue Barren-Rücknahmestation (tm) in einer 3x3 Konfiguration und versorge sie mit Strom. Stelle dich auf sie und lass SIE die Arbeit für dich tun! Die Barren werden in angrenzende Container gelegt. 5 Energie pro Barren.</string>
+Baue einfach unsere brandneue Barren-Rücknahmestation (tm) in einer 3x3 Konfiguration und versorge sie mit Strom. Stelle dich auf sie und lass SIE die Arbeit für dich tun! Die Barren werden in angrenzende Container gelegt. 5 Energie pro Barren.</string>
 <string name="MA.Bar_Keeper.02.Header">Spezifikationen</string>
 <string name="MA.Bar_Keeper.03.Left">"Barren-Sammelgeschwindigkeit:
- Lagerkapazität:
- Energiebedarf:
+Lagerkapazität:
+Energiebedarf:
  "</string>
 <string name="MA.Bar_Keeper.04.Right">"Bis zu 3.300/Minute!
- 100 Barren!
- Nur 5 Energie pro Barren!
+100 Barren!
+Nur 5 Energie pro Barren!
  "</string>
 <string name="MA.Basic_Conveyor_Belt.00.Title">Einfaches Förderband</string>
 <string name="MA.Basic_Conveyor_Belt.01.Paragraph">Förderbänder sind ein einfaches und billiges Mittel, um Ressourcen herumzubewegen. Der erste Verwendungszweck dafür ist Kohle zum Zentralen Energieverteiler zu bewegen und Erze an die Oberfläche bzw. zu einem Schmelzofen, wenn sie an einen Lagercontainer angeschlossen sind.</string>
@@ -122,9 +122,9 @@ Keine
  Energiebedarf:
  Reichweite:</string>
 <string name="MA.Basic_Conveyor_Belt.11.Right">18 Dinge pro Minute
- 9 Dinge pro Minute
- keine
- 1 Meter</string>
+9 Dinge pro Minute
+keine
+1 Meter</string>
 <string name="MA.Basic_Drill_Motor.00.Title">Einfacher Bohrmotor</string>
 <string name="MA.Basic_Drill_Motor.01.Paragraph">Verbessert die Rate (Erz pro Minute) eines Erzbohrers auf Kosten des Energieverbrauchs.</string>
 <string name="MA.Basic_Drill_Motor.02.Header">Spezifikationen</string>
@@ -172,21 +172,21 @@ Keine
 <string name="MA.Basic_Quarry.01.Paragraph">Der Steinbruch hebt das Erdreich unter ihm aus und platziert die gefundenen Ressourcen in angrenzenden Containern. Muss über -25m Höhe errichtet werden.</string>
 <string name="MA.Basic_Quarry.02.Header">Spezifikationen</string>
 <string name="MA.Basic_Quarry.03.Left">Steinbruch-Größe:
- Steinbruch-Tiefe:
- Energiebedarf:
- Energiekapazität:
- Max. Laderate:
- Max. Hardness Dug:
- Max. Grabegeschwindigkeit:
- Erzförderungseffizienz:</string>
+Steinbruch-Tiefe:
+Energiebedarf:
+Energiekapazität:
+Max. Laderate:
+Max. Hardness Dug:
+Max. Grabegeschwindigkeit:
+Erzförderungseffizienz:</string>
 <string name="MA.Basic_Quarry.04.Right">9x9 Meter
- 3950
- 150 pro 1m^3
- 4096
- 1024 pro Sekunde
- 250
- 5m^3 pro Sekunde
- 10%</string>
+3950
+150 pro 1m^3
+4096
+1024 pro Sekunde
+250
+5m^3 pro Sekunde
+10%</string>
 <string name="MA.BasicCargoLift.00.Title">Einfacher Lastenaufzug</string>
 <string name="MA.BasicCargoLift.01.Paragraph">Der kleinste verfügbare Lastenaufzug. Ideal für große Lieferungen von Materialien wie Eisen und Lithium.</string>
 <string name="MA.BasicCargoLift.02.Header">Spezifikationen</string>
@@ -795,7 +795,7 @@ Der Rampen interne Speicher kann über den dazugehörigen Knopf gesperrt werden.
 Halte Steuerung, Feststell oder Alt um die Grenzwerte in 10er, 100er oder 1000er Schritten zu verändern.
  "</string>
 <string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
- Du kannst den leeren Eintrag anklicken um den Gegenstand nach seinem Namen zu suchen um die einstellugn einfach zu verändern oder den Knopf drücken um den Gegenstand zu wählen. Mehrblockbauten können nicht einfach gefunden werden. Nutze Multi, Placement oder Component um eine Liste dieser Blöcke zu erhalten.
+ Du kannst den leeren Eintrag anklicken um den Gegenstand nach seinem Namen zu suchen um die einstellung einfach zu verändern oder den Knopf drücken um den Gegenstand zu wählen. Mehrblockbauten können nicht einfach gefunden werden. Nutze \"Multi\", \"Placement\" oder \"Component\" um eine Liste dieser Blöcke zu erhalten.
 
 Der Rampen interne Speicher kann über den dazugehörigen Knopf gesperrt werden. Dies verhindert das weiter Gegenstände intern gelagert werden sobald das Limit erreicht wurde. Diese Funktion ist dafür vorgeshen um zu verhinder das eine grosse Anzahl teurer Dinge gepuffert werden.
  "</string>
