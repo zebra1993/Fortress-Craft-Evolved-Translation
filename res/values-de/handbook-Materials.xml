@@ -7,8 +7,8 @@
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von ARTHER schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem ARTHER Energiekern.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Spezifikationen</string>
 <string name="MA.ARTHER_Charging_Station.03.Left">ARTHER Aufladerate:
- Stations-Energiekapazität:
- Stations-Aufladerate:</string>
+Stations-Energiekapazität:
+Stations-Aufladerate:</string>
 <string name="MA.ARTHER_Charging_Station.04.Right">25 pro Sekunde
  1500
  10 pro Sekunde</string>
@@ -69,17 +69,17 @@
 <string name="MA.Auto_Excavator.03.Paragraph">Grabe einen Schacht und platziere den Autobagger an der geplanten tiefsten Stelle. Muss mit Strom von Lasertransmittern oder einer anderen Stromquelle versorgt werden.</string>
 <string name="MA.Auto_Excavator.04.Header">Spezifikationen</string>
 <string name="MA.Auto_Excavator.05.Left">Schaftgröße:
- Max. Schafthöhe:
- Energiebedarf:
- Energiekapazität:
- Max. Aufladerate:
- Max. Ausgraberate:</string>
+Max. Schafthöhe:
+Energiebedarf:
+Energiekapazität:
+Max. Aufladerate:
+Max. Ausgraberate:</string>
 <string name="MA.Auto_Excavator.06.Right">3x3 Meter
- 512 Meter
- 20 pro ausgegrabenem Meter
- 160
- Kein
- 40 Blöcke pro Sekunde</string>
+512 Meter
+20 pro ausgegrabenem Meter
+160
+Keine
+40 Blöcke pro Sekunde</string>
 <string name="MA.BFL-9000.00.Title">BFL-9000</string>
 <string name="MA.BFL-9000.01.Paragraph">Dieser massive horizontale Tunnelbohrer schneidet einen 5x5 großen Tunnel entlang seiner Ausrichtung. Benötigt riesige Mengen an Energie. Gibt keine nützlichen Ressourcen zurück.</string>
 <string name="MA.BFL-9000.02.Header">Spezifikationen</string>
@@ -1030,7 +1030,7 @@ benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
 <string name="MA.Lithium_Bar.01.Paragraph">Lithiumbarren werden für den Bau von Energie-relevanten Maschinen wie Batterien oder Übertragern benötigt. Lithiumerz kann ab 120m Tiefe gefunden werden.</string>
 <string name="MA.Lithium_Coil.01.Paragraph">Wurde in der Wickelmaschine aus Lithiumdraht hergestellt.</string>
 <string name="MA.Lithium_Housing.01.Paragraph">Ein Lithiumgehäuse, hergestellt aus einzelnen Lithiumplatten.</string>
-<string name="MA.Lithium_Ore.01.Paragraph">"Lithiumerz kann ab einer Tiefe von 120m und mehr gefunden werden. Mithilfe von Schmelzöfen lässt sich das Erz schmelzen und in Lithiumbarren gießen. Diese stellen einen wichtigen Ausgangsstoff für Maschinen dar die Energie speichern oder transportieren.  "</string>
+<string name="MA.Lithium_Ore.01.Paragraph">Lithiumerz kann ab einer Tiefe von 120m und mehr gefunden werden. Mithilfe von Schmelzöfen lässt sich das Erz schmelzen und in Lithiumbarren gießen. Diese stellen einen wichtigen Ausgangsstoff für Maschinen dar die Energie speichern oder transportieren.</string>
 <string name="MA.Lithium_Ore.02.Paragraph">Lithiumerz kann durch einen Erzextraktor abgebaut werden.</string>
 <string name="MA.Lithium_Pipe.01.Paragraph">Ein einfaches Lithiumrohr, hergestellt aus Lithiumbarren mit Hilfe eines Rohrwalzwerkes.</string>
 <string name="MA.Lithium_Plate.01.Paragraph">Eine einfache Lithiumplatte, die aus Lithiumbarren in einer Walzanlage gefertigt wurde.</string>
@@ -1043,7 +1043,7 @@ benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
 <string name="MA.Low_Grade_Steel_Bar.00.Title">Minderwertiger Stahlbarren</string>
 <string name="MA.Low_Grade_Steel_Bar.01.Paragraph">Minderwertige Stahlbarren werden aus Eisen und Nickel in einem Stahlgussofen hergestellt. Sie stellen eine wichtige Komponente für viele fortgeschrittene Herstellungsrezepte dar.</string>
 <string name="MA.MK2_Solar_Panel_Component.00.Title">MK2 Solaranlagenkomponente</string>
-<string name="MA.MK2_Solar_Panel_Component.01.Paragraph">Das MK2 Solarpanel ist ein Stromerzeuger mit einer Fläche von 3 mal 3 Metern und einem Meter Höhe. Plaziere 9 Solarpanel-Komponenten in dieser Konstellation um die Maschine zu bauen. Das Sonnenlicht muss ungehindert einfallen können, damit das Solarpanel funktioniert!</string>
+<string name="MA.MK2_Solar_Panel_Component.01.Paragraph">Das MK2 Solarpanel ist ein Stromerzeuger mit einer Fläche von 3 mal 3 Metern und einem Meter Höhe. Plaziere 9 Solarpanel-Komponenten in dieser Konstellation um die Maschine zu bauen. Das Sonnenlicht muss ungehindert einfallen können, damit das Solarpanel funktioniert.</string>
 <string name="MA.MK2_Solar_Panel_Component.02.Paragraph">Dieses energieerzeugende Gerät kann nur auf fortschrittlichen Maschinen gebaut werden, wie zum Beispiel dem Labor, Raffenerie, Liftsteuerungen, MK4 und MK5 Energiespeichern.</string>
 <string name="MA.MK2_Solar_Panel_Component.04.Left">Spitzenleistung (reichlich):
 Spitzenleistung (knapp):
@@ -1066,5 +1066,14 @@ Sonnenlicht</string>
 <string name="MA.Manufacturing_Plant.02.Header">Fertigungs-Bedienoberfläche</string>
 <string name="MA.Manufacturing_Plant.03.Paragraph">Die Bedienoberfläche besteht aus vier Teilen. Diese sind von links nach rechts: Die Liste von verfügbaren Blaupausen, Informationen zu ausgewähltem Gegenstand, benötigte Ressourcen und unterhalb davon die Einstellungen zur Automatisierung.</string>
 <string name="MA.Manufacturing_Plant.04.Paragraph">Die Reiter entlang der Oberseite des Schablonen-Fensters erlauben es ihnen nach Typ zu filtern, z.B. Energie, Automatisierung und Anzug-Erweiterungen. Am unteren Rand können sie auswählen, ob sie nur die sehen möchten für die sie auch die Materialien haben. Darunter haben sie noch einen Wortfilter.</string>
-<string name="MA.Manufacturing_Plant.05.Paragraph">Wenn eine Schablone ausgewählt wurde, werden Informationen und die nötigen Materialien angezeigt. Wenn Sie die benötigten Materialien haben, können Sie einen Gegenstand durch drücken der \'Herstellen\'-Taste, oder direkt 25 Stück herstellen indem Sie die Steuerungstaste gedrückt halten und dann die Herstellen-Taste drücken. Auf den Gegenstand bezogene Hilfe wird bereitgestellt, wenn sie die Hilfe-Taste (Standard \'H\') drücken.</string>
+<string name="MA.Manufacturing_Plant.05.Paragraph">Wenn eine Blaupause ausgewählt wurde, werden Informationen und die nötigen Materialien angezeigt. Sind die benötigten Materialien vorhanden, kann der Gegenstand durch drücken der \'Herstellen\'-Taste hergestellt werden, oder direkt 25 Stück indem [STRG] gedrückt und dann die Herstellen-Taste gedrückt werden. Auf den Gegenstand bezogene Hilfe wird bereitgestellt, wenn die Hilfe-Taste (Standard \'H\') gedrückt wird.</string>
+<string name="MA.Manufacturing_Plant.07.Paragraph">Die manuelle Herstellung an der Produktionsanlage kostet keine Energie und ist nahezu verzögerungsfrei da Anzug und Bauwerkzeug mithelfen. Um Sachen dauernd herzustellen wärend du weg bist, kannst du die Produktionsanlage defür verwenden, was jedoch mit Energie und Zeit aufwand verbunden ist. Wähle den Gegenstand, gib die gweünschte Anzahl an oder wähle \"Wiederholen\" um unbegrenzt zu produzieren und drücke den Automatisieren Knopf. Die benötigen Materialien müssen in einem angrenzenden Container mit E/A- Berechtigungen zu \"Hinzufügen/ Entfernen\" oder \"Nur Entfernen\" (empfohlen), die hergestellten Gegenstände werden ebenfalls in einen Container welcher \"Nur Hinzufügen\" Berechtigungen aktiv hat.</string>
+<string name="MA.Manufacturing_Plant.08.Paragraph">Automation kann zu einem anderen Gegenstand gewechselt oder abgebrochen werden indem auf das Vorschrittssybol geklickt wird. In beide Fällen, die Produktion wird zuerst abgeschlossen.</string>
+<string name="MA.Manufacturing_Plant.10.Paragraph">Einige Blaupausen erfordern dass ein zusätzliches Modul an die Prodktionsanlage angebaut ist (Als Bspl. der Wasserstrahlschneider) Dies wird jedoch im dazugehörigen Handbuch eintrage erwähnt.</string>
+<string name="MA.Mass_Storage_Block.01.Paragraph">Dies ist der Grundblock des Hochregallagers. Manueller Zugriff ist nicht möglich. Jeder Block kann, abhängig von der Lagerhöhe von 25 bis 150 Gegenstände aufnehmen. Das Platzieren von Hochregalblöcken nebeneinander führt zu einem grösseren zusammenhängenden Lager.</string>
+<string name="MA.Mass_Storage_Input_Port.01.Paragraph">Platziere diesen Block neben einem Hochregallager um Gegenstände in das Lager einzufügen. Dieser Eingang kann direkt mit einem Förderband um ein Gegenstand nach dem anderen einzufügen. Verschiedene Gegenstände können eins ums andere mit dem selben Eingang eingelagert werden. Den Eingang jedoch zu filtern erlaubt es der Drohne bis zu 5 Gegenstände gleichen Typs zu tragen.</string>
+<string name="MA.Mass_Storage_Output_Port.01.Paragraph">Platziere diesen Block neben einem Hochregallager um Gegenstände daraus aus eine Förderband zu entladen. Es muss festgelgt werden welcher spezifische Gegenstand entnommen werden soll. Ist er verfügbar im Lager wird der Roboter sie holen und auf dem eingebauten Förderband ablegen.</string>
+<string name="MA.Mass_Storage_Output_Port.03.Paragraph">Achte auf die Ausrichtung des Blocks, wie normale Förderbänder wird der Gegenstand in eine bestimmte Richtung abgegeben.</string>
+<string name="MA.Mass_Storage_Output_Port.04.Paragraph">Um ein Gegenstand zu bestimmen, wähle ihn in der Schnellzugriffsleiste aus, schau auf den Hochregallagerausgang und drücke [E].</string>
+<string name="MA.Mass_Storage_Output_Port.06.Paragraph">Hat nicht mit der Lagerkiste gemeinsam!</string>
 </resources>
