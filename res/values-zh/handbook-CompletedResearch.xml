@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">高級防御</string>
+<string name="CO.Advanced_Defence.00.Title">高級防御</string>
+<string name="CO.Advanced_Defence.01.Paragraph">我們成功地設計了一個導彈砲塔，並進一步改善了能量砲塔。我們將需要製造導彈，這將需要供應燃料！</string>
+<string name="CO.Advanced_Logistics.Title">高級物流</string>
+<string name="CO.Advanced_Logistics.00.Title">高級物流</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">我們現在有一個新的大容量存儲系統和一個分選機構，用於在輸送帶之間移動礦石。</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">高級礦工升級</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">高級礦工升級</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">現在可以對礦石提取器和冶煉廠進行進一步的改進。此外，我們終於完善了採石場系統。使用地質測量師確定一個黃金地段，然後放置採石場開始採礦作業。</string>
+<string name="CO.Advanced_Power_Grid.Title">高級電網</string>
+<string name="CO.Advanced_Power_Grid.00.Title">高級電網</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">我們對電力基礎設施進行了進一步改進，包括新的電源存儲塊和激光能量發射器。</string>
+<string name="CO.Advanced_Power_Grid.02.Paragraph">我們還對一種新型發電機進行了一些臨時設計，但是為了完成這項研究，我們還需要找到比目前為止依賴的煤更濃密的能源。</string>
+<string name="CO.Advanced_Research.Title">高級研究</string>
+<string name="CO.Advanced_Research.00.Title">高級研究</string>
+<string name="CO.Advanced_Research.01.Paragraph">我們現在有一個研究實驗室和組裝機器的設計，為它提供實驗艙。</string>
+<string name="CO.Advanced_Research.02.Paragraph">實驗室需要研究先進的項目，提高您的技術水平，開啟新項目和配方。共需要27個實驗室組件（每個9個組件的3個堆疊製造），並且必須以3×3/3的形式構建。</string>
+<string name="CO.Advanced_Research.03.Paragraph">有關使用實驗室的更多信息，請參閱以下指南：</string>
+<string name="CO.Aesthetics.01.Paragraph">在不太可能的情況下，我們有一些休息時間，我們可以用各種彩色儲物箱和帆布來美化我們的基地。</string>
+</resources>
