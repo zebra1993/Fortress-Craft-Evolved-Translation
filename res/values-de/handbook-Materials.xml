@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">K.I. Butler</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Dieser kleine Roboter transportiert ein einzelnes Objekt zwischen zwei Containern. Die gegebenen Containereinstellungen werden dabei berücksichtigt.</string>
-<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Batterie</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Batteriekern</string>
 <string name="MA.ARTHER_Battery_Core.01.Paragraph">Erlaubt es deinem Gehilfen ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh als möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">ARTHER Ladestation</string>
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von ARTHER schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem ARTHER Energiekern.</string>
