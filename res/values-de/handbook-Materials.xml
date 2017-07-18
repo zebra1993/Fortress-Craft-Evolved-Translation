@@ -2,8 +2,8 @@
 <resources><string name="MA.AI_Mover_Control.00.Title">K.I. Butler</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Dieser kleine Roboter transportiert ein einzelnes Objekt zwischen zwei Containern. Die gegebenen Containereinstellungen werden dabei berücksichtigt.</string>
 <string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Batteriekern</string>
-<string name="MA.ARTHER_Battery_Core.01.Paragraph">Erlaubt es deinem Gehilfen ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh als möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER Ladestation</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Erlaubt es deinem Gehilfen ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh wie möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER-Ladestation</string>
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von ARTHER schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem ARTHER Energiekern.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Spezifikationen</string>
 <string name="MA.ARTHER_Charging_Station.03.Left">ARTHER Aufladerate:
@@ -46,7 +46,7 @@ Stations-Aufladerate:</string>
 <string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte von Solarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
 <string name="MA.Advanced_Experimental_Pod.00.Title">Fortgeschrittene Forschungskapsel</string>
 <string name="MA.Advanced_Experimental_Pod.01.Paragraph">Die fortgeschrittene Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Gold hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
-<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln lies bitte folgenden Beitrag.</string>
 <string name="MA.Advanced_machine_block.00.Title">Fortgeschrittener Maschinenblock</string>
 <string name="MA.Advanced_machine_block.01.Paragraph">Hauptbestandteil vieler fortschrittlicher Maschinen.</string>
 <string name="MA.Advanced_machine_block.02.Header">Diese Blöcke sind ein Hauptbestandteil bestimmter Multiblock-Maschinen.</string>
