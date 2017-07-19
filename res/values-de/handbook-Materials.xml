@@ -499,14 +499,14 @@ Erzförderungseffizienz:</string>
 <string name="MA.Extractor.00.Title">Erzbohrer</string>
 <string name="MA.Extractor.01.Paragraph">Der Erzbohrer wird verwendet um Erze effizient abzubauen. Du kannst zwar beim Graben mit deinem Bauwerkzeug auch Erze abbauen, allerdings mit einer schrecklich schlechten Effizient, da du beim abbauen viel Erz zerstörst. Um Erze abzubauen halte "STRG" gedrückt und halte die rechte Maustaste solange wie nötig. Vorsicht! Das braucht jede Menge Energie! Versuche das abbauen von Erzen mit dieser Technik zu vermeiden wenn möglich.</string>
 <string name="MA.Extractor.02.Paragraph">Du benötigst Erzbohrer um die Gewinnung von Erzen zu automatisieren. Du kannst den Bohrer an einer beliebigen Stelle einer Erzader platzieren. Der Bohrer wird Energie konsumieren um Erz aus der Ader zu gewinnen und dieses Erz in einem anliegenden Container deponieren. Drücke \"Interagieren\" (Standard [E]) um das Bedienfeld des Erzbohrers zu öffnen und manuell Energie hinzuzufügen oder Erze zu entnehmen. Erzbohrer sind weit effektiver als das händische Abbauen und kann unbeaufsichtigt erfolgen.</string>
-<string name="MA.Extractor.03.Paragraph">Der Erzbohrer hat einen internen Energiespeicher von 500 Energie, was in etwa der doppelten Standardladung eines Raumanzuges entspricht. Also musst du zumindest zwei mal gehen bevor du einen Bohrer vollständig aufladen kannst. Wenn der Erzbohrer voll ist wird er die Arbeit einstellen solange bis er wieder Platz hat. Du kannst einen Trichter an den Erzbohrer anschließen um seine Kapazität zu erhöhen und die Erze zur Basis zu transportieren.</string>
+<string name="MA.Extractor.03.Paragraph">Der Erzbohrer hat einen internen Energiespeicher von 500 Energie, was in etwa der doppelten Standardladung eines Raumanzuges entspricht. Also musst du zumindest zwei mal gehen bevor du einen Bohrer vollständig aufladen kannst. Ist das interne Lager des Erzbohrers voll, stellt er die Arbeit solange ein bis er geleert wird. Du kannst einen Lagercontainer an den Erzbohrer anschließen um seine Kapazität zu erhöhen und die Erze zur Basis zu transportieren.</string>
 <string name="MA.Extractor.04.Paragraph">Die Fördergeschwindigkeit in Erz pro Minute wird im Bedienfeld des Erzbohrers angezeigt. Bei 10% Effizienz werden 90% des abgebauten Erzes zerstört.</string>
 <string name="MA.Extractor.05.Header">Erzbohrer aufwerten</string>
 <string name="MA.Extractor.06.Paragraph">Der Erzbohrer stellt das Einstiegsmodell der Bohrer da und kann mit zwei verschiedenen Upgrades verbessert werden. Drücke \"Interagieren\" (Standard [E]) um das Bedienfeld des Erzbohrers zu öffnen und ziehe einen Motor oder Bohrkopf in den entsprechenden Slot. Durch klicken auf einen leeren Upgrade Slot wird automatisch dein bester Bohr-kopf/motor eingesetzt der sich in deinem Inventar befindet.</string>
 <string name="MA.Extractor.07.Header">Motor</string>
 <string name="MA.Extractor.08.Paragraph">Ein neuer Motor erhöht die Förderrate mit der ein Erzbohrer arbeitet. Dadurch wird mehr Erz pro Minute gewonnen. Die erhöhte Geschwindigkeit hat allerdings auch einen erhöhten Energieverbrauch zur Folge.</string>
 <string name="MA.Extractor.09.Header">Bohrkopf</string>
-<string name="MA.Extractor.10.Paragraph">Ein aufwerten des Bohrkopfes erhöht die Effizienz des Erzbohrers. Dadurch wirft die Erzader mehr ab! Neben der Effizienzsteigerung erlaubt der Bohrkopf auch ein abbauen von härteren Materialien, welches zuvor überhaupt nicht möglich war.</string>
+<string name="MA.Extractor.10.Paragraph">" Aufgewerte Bohrköpfe erhöhen die Effizienz des Erzbohrers damit mehr Erz aus einer Ader gewonnen werden kann. Neben der Effizienzsteigerung erlaubt der Bohrkopf auch das Abbauen von härteren Materialien, welches mit dem Standardbohrkopf nicht möglich ist."</string>
 <string name="MA.Extractor.11.Paragraph">Bohrköpfe nutzen sich mit der Zeit ab. Die Verbleibende Haltbarkeit wird im Bedienfeld des Erzbohrers angezeigt.</string>
 <string name="MA.Extractor.12.Header">HoloBase auslesen</string>
 <string name="MA.Extractor.13.Left">Energie Paket Größe:
@@ -866,8 +866,8 @@ Das flüssige Harz kann anschließend in einer Flüssigharz-Raffinierie weiter v
 Um gehärtetes Harz zu abgetragenes Harz verarbeiten zu können, benutze den Laserharzentferner.</string>
 <string name="MA.Hard_Resin_Refinery.01.Paragraph">"Dies ist der finale Schritt um gehärtetes Harz nutzbar zu machen, welches vom Schwarmstock abgesondert wird.
  "</string>
-<string name="MA.Hard_Resin_Refinery.02.Paragraph">"Der Laserharzverflüssiger benutzt heißes Plasma um den noch weichen Kern vom Harz zu schmelzen und zu extrahieren.
-Das Flüssige Harz kann anschließend in einer Flüssigharzraffinierie weiter verarbeitet werden.
+<string name="MA.Hard_Resin_Refinery.02.Paragraph">"Der Laserverflüssiger verwendet heißes Plasma um den noch weichen Harzkern zu schmelzen und zu extrahieren.
+Das Flüssigharz kann anschließend in einer speziellen Raffinierie weiterverarbeitet werden.
  "</string>
 <string name="MA.Hard_Resin_Refinery.03.Paragraph">"Um gehärtetes Harz zu abgetragens Harz zu verarbeiten benutze den Laserharzabtrager.
  "</string>
