@@ -455,7 +455,8 @@ Erzförderungseffizienz:</string>
 <string name="MA.Deployed_Explosive.08.Paragraph">- Level 5 = 1 000 000 Energie.</string>
 <string name="MA.Deployed_Explosive.09.Paragraph">- Level 6 = 10 000 000 Energie.</string>
 <string name="MA.Deployed_Explosive.10.Paragraph">- u.s.w.</string>
-<string name="MA.Deployed_Explosive.11.Paragraph">- Zwischenstufen beim Aufladen der Bombe geben keinen zusätzlichen Radius!</string>
+<string name="MA.Deployed_Explosive.11.Paragraph">- Überschüssige Energie zwischen angrenzenden Stufen erhöht nicht dem Explosionsradius!
+</string>
 <string name="MA.Deployed_Explosive.12.Paragraph">- Mit unserer derzeitigen Technik wird das Aufladen der Bombe auf Stufe 6 eine ziemliche Herausforderung sein!</string>
 <string name="MA.Deployed_Explosive.13.Header">Vorsicht!</string>
 <string name="MA.Deployed_Explosive.14.Paragraph">" Hat eine sehr kurze Lunte! Pass auf, dass du nicht aus Versehen deine Basis zerstörst!"</string>
