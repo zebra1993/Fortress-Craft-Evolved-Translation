@@ -121,10 +121,10 @@ Nur 5 Energie pro Barren!
  Max. Transportrate (langsam):
  Energiebedarf:
  Reichweite:</string>
-<string name="MA.Basic_Conveyor_Belt.11.Right">18 Dinge pro Minute
-9 Dinge pro Minute
-keine
-1 Meter</string>
+<string name="MA.Basic_Conveyor_Belt.11.Right">18 Items pro Minute
+ 9 Items pro Minute
+ keine
+ 1 Meter</string>
 <string name="MA.Basic_Drill_Motor.00.Title">Einfacher Bohrmotor</string>
 <string name="MA.Basic_Drill_Motor.01.Paragraph">Verbessert die Rate (Erz pro Minute) eines Erzbohrers auf Kosten des Energieverbrauchs.</string>
 <string name="MA.Basic_Drill_Motor.02.Header">Spezifikationen</string>
