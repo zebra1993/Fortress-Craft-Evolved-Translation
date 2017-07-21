@@ -133,7 +133,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Hardcore">Hardcore</string>
 
     <string name="Care_Package">Pakunek</string>
-    <string name="Resources_Greg_Info">Skąpe Surowce, mocno obniżą szybkość twojego postępu. Tryb ten jest zbalansowany dla Dedykowanych 24/7 serwerów wieloosobowych i BARDZO cierpliwych ludzi!</string>
+    <string name="Resources_Greg_Info">Skąpe Surowce, mocno obniżą szybkość twojego postępu. Tryb ten jest zbalansowany dla dedykowanych 24/7 serwerów wieloosobowych i BARDZO cierpliwych ludzi!</string>
     <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących puścić strumyk z gry w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed zwiększonym poziomem trudności.</string>
 
 
@@ -161,14 +161,14 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Plastic Pellet">Plastikowy Nabój</string>
     <string name="Care_Package_Locked">Opcja Pakunek zostanie odblokowana w momencie zbudowania Centrum Kontroli Klimatu.</string>
     <string name="Care_Package_Disabled">Pakunek wyłączony.</string>
-    <string name="Care_Package_Enabled">Pakunek włączony! Ta opcja da Ci ogromną przewagę na początku nowego świata, włączając w to MK3 działo budowlane, powiększoną baterią w skafandrze, panel słoneczny i ogrzewanie skafandru, od samego startu. Daj im popalić chłopcze.</string>
+    <string name="Care_Package_Enabled">Pakunek włączony! Ta opcja da Ci ogromną przewagę na początku nowego świata, włączając w to MK3 działo budowlane, powiększoną baterią w skafandrze, panel słoneczny i ogrzewanie skafandra, od samego startu. Daj im popalić chłopcze.</string>
 
     <string name="Flatland_Locked">Tryb Super Płaski zostanie odblokowany po zabiciu Spawnera Krioplazmy.</string>
     <string name="Flatland_Disabled">Tryb Super Płaski wyłączony.</string>
     <string name="Flatland_Enabled">Tryb Super Płaski! Sprawia, że powierzchnia staje się płaska, stąd też nazwa!</string>
 
     <string name="Rushmode_Locked">Tryb Pośpiechu zostanie odblokowany w momencie, w którym naładujesz Orbitalny Przekaźnik Energii.</string>
-    <string name="Suit Cooler MK1">Chłodzenie Skafandru MK1</string>
+    <string name="Suit Cooler MK1">Chłodzenie Skafandra MK1</string>
     <string name="Ivy">Bluszcz</string>
     <string name="Chevron Sign">Znak Chevron</string>
     <string name="Reinforced Concrete Wall">"Wzmocniona  Betonowa Ściana"</string>
@@ -207,7 +207,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Reinforced Rock">Zbrojony Kamień</string>
     <string name="Reinforced Cobble">Zbrojony Bruk</string>
     <string name="Iron Box">Żelazne Pudło</string>
-    <string name="Gold Box">Złota Pudło</string>
+    <string name="Gold Box">Złote Pudło</string>
     <string name="Mithril Box">Mithrilowe Pudło</string>
     <string name="Grey Floor Tile">Szara Kafla Podłogowa</string>
     <string name="Red Floor Tile">Czerwona Kafla Podłogowa</string>
@@ -244,4 +244,61 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="My First Brick">Moja Pierwsza Cegła</string>
     <string name="My First Roof">Mój Pierwszy Dach</string>
     <string name="My First Window">Moje Pierwsze Okno</string>
+    <string name="Rushmode_Enabled">Tryb Pośpiechu włączony! Podejmij wyzwanie do ponownego odbudowania Orbitalnego Przekaźnika Energii i naładowania go do pełni, przy minimalnej ilości czasu! Wybranie tego trybu podniesie wydajność Generacji Mocy około 10x, a Zbieranie i Przepalanie Rud jest 5x szybsze. Namnażanie potworów też staje się szybsze...</string>
+
+    <string name="High Energy Composite Fuel">Złożone Paliwo Wysokokaloryczne</string>
+    <string name="Empty Metal Tube">Puste Metalowe Rury</string>
+    <string name="Empty Metal Tubes">Pustych Metalowych Rur</string>
+    <string name="Empty Fuel Canister">Pusty Kanister Na Paliwo</string>
+    <string name="Empty Fuel Canisters">Pustych Kanistrów Na Paliwo</string>
+    <string name="High Octane Fuel">Paliwo Wysokooktanowe</string>
+    <string name="Gold Bar">Sztabka Złota</string>
+    <string name="Gold Bars">Sztabek Złota</string>
+    <string name="Tin Bar">Sztabka Cyny</string>
+    <string name="Tin Bars">Sztabek Cyny</string>
+    <string name="Nickel Bar">Sztabka Niklu</string>
+    <string name="Nickel Bars">Sztabek Niklu</string>
+    <string name="Titanium Bar">Sztabka Tytanu</string>
+    <string name="Titanium Bars">Sztabek Tytanu</string>
+    <string name="Low Grade Steel Bar">Sztabka Stali Gorszego Gatunku</string>
+    <string name="Low Grade Steel Bars">Sztabek Stali Gorszego Gatunku</string>
+    <string name="Steel Ball Bearing">Stalowe Łożysko Kulkowe</string>
+    <string name="Steel Ball Bearings">Stalowych Łożysk Kulkowych</string>
+    <string name="Power Coil">Cewka Zasilająca</string>
+    <string name="Iron Gear">Żelazne Koło Zębate</string>
+    <string name="Iron Gears">Żelaznych Kół Zębatych</string>
+    <string name="Copper Wire (Old)">Miedziany Przewód (Stary)</string>
+    <string name="Servo Motor">Siłownik</string>
+    <string name="Servo Motors">Siłowników</string>
+    <string name="Basic Minecart">Podstawowy Wózek</string>
+    <string name="Basic Minecarts">Podstawowych Wózków</string>
+    <string name="Fast Minecart">Szybki Wózek</string>
+    <string name="Fast Minecarts">Szybkich Wózków</string>
+    <string name="Large Minecart">Ogromny Wózek</string>
+    <string name="Large Minecarts">Ogromnych Wózków</string>
+    <string name="Bulk Minecart">Gigantyczny Wózek</string>
+    <string name="Bulk Minecarts">Gigantycznych Wózków</string>
+    <string name="Copper Wire">Miedziany Przewód</string>
+    <string name="Copper Wires">Miedzianych Przewodów</string>
+    <string name="Tin Wire">Cynowy Przewód</string>
+    <string name="Tin Wires">Cynowych Przewodów</string>
+    <string name="Iron Wire">Żelazny Przewód</string>
+    <string name="Iron Wires">Żelaznych Przewodów</string>
+    <string name="Lithium Wire">Litowy Przewód</string>
+    <string name="Lithium Wires">Litowych Przewodów</string>
+    <string name="Gold Wire">Złoty Przewód</string>
+    <string name="Gold Wires">Złotych Przewodów</string>
+    <string name="Nickel Wire">Niklowy Przewód</string>
+    <string name="Nickel Wires">Niklowych Przewodów</string>
+    <string name="Titanium Wire">Tytanowy Przewód</string>
+    <string name="Titanium Wires">Tytanowych Przewodów</string>
+    <string name="Steel Cutter Head">Głowica do Cięcia Stali</string>
+    <string name="Crystal Cutter Head">Głowica do Cięcia Kryształów</string>
+    <string name="Copper Coil">Miedziana Cewka</string>
+    <string name="Copper Coils">Miedzianych Cewek</string>
+    <string name="Tin Coil">Cynowa Cewka</string>
+    <string name="Tin Coils">Cynowych Cewek</string>
+    <string name="Iron Coil">Żelazna Cewka</string>
+    <string name="Glow Stick">Światło Chemiczne</string>
+    <string name="Glow Sticks">Świateł Chemicznych</string>
     </resources>
