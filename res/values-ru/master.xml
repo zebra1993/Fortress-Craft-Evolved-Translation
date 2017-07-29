@@ -2155,8 +2155,8 @@
     <string name="Chromium Ping_CRAFT_HINT">Сканер руды Хрома</string>
     <string name="Molybdenum Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие только руды молибдена, не тратя запас энергии.</string>
     <string name="Molybdenum Ping_CRAFT_HINT">Сканер руды Молибдена</string>
-    <string name="Lift w/underside Piston_CRAFT_DESC">Платформа лифта</string>
-    <string name="Lift w/underside Piston_CRAFT_HINT">Платформа лифта</string>
+    <string name="Lift w/underside Piston_CRAFT_DESC">Медленный, но эффективный вертикальный транспорт. Может быть улучшен при помощи Лифтовых Компрессоров</string>
+    <string name="Lift w/underside Piston_CRAFT_HINT">Может быть улучшен при помощи Ускорителей Лифта</string>
     <string name="Lift Manual Control Module_CRAFT_DESC">Ручное управление лифтом</string>
     <string name="Lift Manual Control Module_CRAFT_HINT">Ручное управление лифтом</string>
     <string name="Lift Compressor_CRAFT_DESC">Компрессор лифта</string>
