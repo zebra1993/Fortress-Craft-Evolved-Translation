@@ -2129,7 +2129,7 @@
     <string name="NanoDisintegrator_CRAFT_HINT">ОБРАЩАЙТЕСЬ С ОСТОРОЖНОСТЬЮ.</string>
     <string name="Blank Ore Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие руды, не тратя запас энергии. Скомбинируйте с рудой в меню ручного производства (С), чтобы задать целевую руду.</string>
     <string name="Blank Ore Ping_CRAFT_HINT">Скомбинируйте с рудой в меню ручного производства (С), чтобы задать целевую руду.</string>
-    <string name="Coal Ping_CRAFT_DESC">Используемый предмет, который сканирует на наличие только угольной руды, не тратя запас энергии.</string>
+    <string name="Coal Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие только угольной руды, не тратя запас энергии.</string>
     <string name="Coal Ping_CRAFT_HINT">Сканер угля</string>
     <string name="Iron Ore Ping_CRAFT_DESC">Сканер Железной руды</string>
     <string name="Iron Ore Ping_CRAFT_HINT">Сканер Железной руды</string>
