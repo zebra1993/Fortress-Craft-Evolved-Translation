@@ -68,7 +68,7 @@
     <string name="Creative">Творчество</string>
 
     <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
-Помните, что настройки будут ЗАФИКСИРОВАНЫ, когда ваш Мир будет создан, и обратите внимание на ожидаемое время по критическим событиям!</string>
+Помните, что после создания Мира настройки будут ЗАФИКСИРОВАНЫ, и обратите внимание на ожидаемое время по критическим событиям!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
     <string name="Mod_Selected">мод выбран.</string>
@@ -95,7 +95,7 @@
 Режим \"Железный Человек\" - только для храбрых, тупых или упёртых. Умирая, Вы будете НАВСЕГДА ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
     <string name="Death_SquishCore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
 
-Месиво - это очень просто - если вы умираете, то насовсем.</string>
+Месиво - это просто - если вы умираете, то насовсем.</string>
     <string name="Death_Hardcore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
 
 Хардкор - сложнейший режим. Если вы умрёте, или погибнет ваш ЦЭК - это окончательный конец игры! А ещё ваш ЦЭК не восстанавливается.</string>
@@ -2629,7 +2629,7 @@
     <string name="ARTHER_Extractor_Issue">Проблемы с Экстрактором руды!</string>
     <string name="ARTHER_AmbienceDisabled">Фоновые звуки Включены</string>
     <string name="ARTHER_AmbienceEnabled">Фоновые звуки Отключены</string>
-    <string name="ARTHER_ChargingSolar">АРЧЕР Зарядка от солнечной энергии...</string>
+    <string name="ARTHER_ChargingSolar">АРЧЕР заряжается от солнечной энергии...</string>
     <string name="ARTHER_Close">АРЧЕР будет летать поблизости! Нажмите TAB, чтобы увеличить дистанцию между вам и АРЧЕРом!</string>
     <string name="ARTHER_Days">" дней&amp;#34;"</string>
     <string name="ARTHER_Docked">Стыковка и Зарядка...</string>
@@ -2708,4 +2708,11 @@
 
     <string name="Lost?">Потерял?</string>
     <string name="Surface">Поверхность</string>
+    <string name="Chargeable_Explosive">Заряжаемая Взрывчатка</string>
+    <string name="CE_Controls">Нажмите Shift+E, чтобы поджечь запал</string>
+    <string name="CE_CurrentCharge">Текущая величина заряда</string>
+    <string name="MM_Glue">предметов. Используется</string>
+    
+    <string name="CE_Detonate">Взрывчатка взорвётся через</string>
+    <string name="CE_Info">Сохраняет заряд, когда забирается в инвентарь</string>
     </resources>
