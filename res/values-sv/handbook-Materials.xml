@@ -1,19 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="MA.AI_Mover_Control.00.Title">AI-Rörelsekontroll</string>
-<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Batteri</string>
+<resources><string name="MA.AI_Mover_Control.00.Title">AI Resurs Kontroller</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Batteri Kärna</string>
 <string name="MA.ARTHER_Battery_Core.01.Paragraph">Tillåter ARTHER att lagra 8x mer energi som han kan överföra till dig när du börjar få för lite. Bygg detta så snart som möjligt! Du behöver bara en av dessa och den måste vara i ditt lagringsutrymme för att fungera.</string>
-<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER-Laddningsstation</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER Laddningsstation</string>
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Ladda om ARTHER snabbt från din bas kraftnätverk. Bäst när kombinerad med en ARTHER-batteriuppgradering.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Specifikationer</string>
-<string name="MA.ARTHER_Charging_Station.03.Left">ARTHER-Laddningshastighet:
+<string name="MA.ARTHER_Charging_Station.03.Left">ARTHER Laddningshastighet:
 Stationens kraftkapacitet:
 Stationens Laddningshastighet:</string>
 <string name="MA.ARTHER_Charging_Station.04.Right">25 per sekund
 1500
 10 per sekund</string>
-<string name="MA.ARTHER_Dapper_Hat.00.Title">Snygg hatt till ARTHER</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER Dapper Hatt</string>
 <string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Få ARTHER att se riktigt snygg ut! Fungerar endast ifall du har \"Dapper Indie Supporter\" DLC-paketet. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
-<string name="MA.ARTHER_Dapper_Monocle.00.Title">Snygg monokel till ARTHER</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER Dapper Monokel</string>
 <string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Förbättrar ARTHER\'s syn! Fungerar endast ifall du äger \"Dapper Indie Supporter\" DLC-paketet. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
-<string name="MA.ARTHER_Dapper_Moustache.00.Title">Snygg mustasch till ARTHER</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER Dapper Mustasch</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Denna robot kommer att förflytta en sak åt gången från en hopper till en annan. Respektive på dem lokala hoppers tillstånd.</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Sätt in \"Mustasch\" skämt här. Fungerar endast ifall du äger \"Dapper Indie Supporter\" DLC-paketet. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Dapper Packet</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Fullständig Dapper! Använd denna uppgradering för att spara utrymme i ditt lagringsutrymme genom att kombinera alla tidigare Dapper Uppgraderingar till ett objekt. Detta måste befinna sig i ditt lagringsutrymme för att applicera uppgraderingarna.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Dapper Uppgraderingspaket</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Fullständig Uppgradering - Fullständig Dapper! Använd dig av detta för att spara utrymme i ditt lagringsutrymme. Du behöver endast en av dessa och den måste befinna sig i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER KraftKärna</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Fixar skadan på ARTHER så att han kan röra sig mer korrekt. Du behöver bara en av dessa och den måste vara i ditt lagringsutrymme för att fungera.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER Solpanel</string>
 </resources>
