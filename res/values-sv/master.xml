@@ -1,2 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Language_Name">Engelska</string>
+<string name="Translation_Incomplete">Översättning inkomplett!</string>
+    <string name="Dapper_Pack">Dapper Packet</string>
+    <string name="Quit_Sign">Avsluta</string>
+    <string name="Create_World">Skapa Värld</string>
+    <string name="Spacebar">Mellanslag</string>
+    <string name="World_Sign">Välj Värld</string>
+    <string name="Installed">Installerad</string>
+    <string name="Not_Installed">Inte Installerad</string>
+    <string name="Resource_Level">Resurs Mängd</string>
+    <string name="Conveyor_Speed">Transportbandets Hastighet</string>
+    <string name="Day_Night_Cycle">Dag/Natt cykel</string>
+    <string name="Rush_Mode">Stress</string>
+    <string name="Seed">Hastighet</string>
+    <string name="Back">Tillbaka</string>
+    <string name="Reset_World">Återställ Världen</string>
+
+
+    <string name="Enter_World">Starta Värld</string>
+    <string name="Downloading">Nedladdning</string>
+
+    <string name="Locked">Låst</string>
+
+    <string name="Fast">Snabt</string>
+    <string name="Slow">Sakta</string>
+
+    <string name="Normal">Normalt</string>
+    <string name="Eternal Night">Evigt Natt</string>
+
+    <string name="Eternal Day">Evigt Dag</string>
+    <string name="Trivial Mobs">Lätta Fiender</string>
+    <string name="Normal Mobs">Normala Fiender</string>
+    <string name="Hard Mobs">Svåra Fiender</string>
+
+    <string name="None">Inget</string>
+    <string name="GlassBlock">GlasBlock</string>
+    <string name="Partial_Language_Support">Välkommen! Ditt språk är inte komplett. Om du vill ha det på Engelska , Klicka då på \"English\" nedanför!</string>
+    <string name="Skin_Pack">Resurspaket</string>
+    <string name="Multiplayer_Sign">&lt;Flerspelare</string>
+    <string name="Power_Level">Ström Generation</string>
+    <string name="Mob_Difficulty">Monsters Svårighetsgrad</string>
+    </resources>
