@@ -1,2 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.Title">新手指引</string>
+<string name="CR.01Welcome.00.Title">欢迎游玩Fortress Evolved</string>
+<string name="CR.01Welcome.01.Header">创造模式</string>
+<string name="CR.01Welcome.02.Paragraph">欢迎游玩创造模式！在接下来的几页将介绍按键操作和工具介绍。</string>
+<string name="CR.01Welcome.03.Header">按键操作</string>
+<string name="CR.01Welcome.04.Left">W,A,S,D: 移动
+Space: 跳跃
+Space x 2: 激活喷气背包模式
+ Q: 飞跃
+ Shift: 冲刺
+ 着陆以关闭
+Esc: 暂停选项
+H: 帮助界面</string>
+<string name="CR.01Welcome.05.Right">Z: 缩放
+X: 建筑枪
+C: 天气权杖
+N: 绘画枪
+F10: 进入超级建筑模式
+F11: 进入复制粘贴模式
+=: 方块选择界面
+F1-F7: 选择热键页面
+1-10: 选择热键槽位</string>
+<string name="CR.01Welcome.06.Paragraph">鼠标左键: 建造/工具主要功能
+鼠标右键: 摧毁/工具次要功能
+鼠标中键: 取样选中的高光方块
+鼠标滚轮: 下一个/上一个方块或工具功能
+CTRL + 鼠标左键: 连续建造至玩家所在位置
+CTRL + 鼠标右键: 超级挖掘</string>
+<string name="CR.01Welcome.07.Title">创造模式建筑工具</string>
+<string name="CR.01Welcome.08.Paragraph">在FortressCraft Evolved中，你有一些强有力的工具用于创造模式的建筑。接下来，我们简单的描述每一种工具，而且在未来会包括一些关于每种工具用法的链接。</string>
+<string name="CR.01Welcome.09.Header">建筑枪</string>
+<string name="CR.01Welcome.10.Paragraph">当切换至使用建筑枪时（按下X键），使用鼠标左键建造被选定的方块，而右键则是清楚掉。你有很长的建造距离，最多可以在64格以外的位置建造。</string>
+<string name="CR.01Welcome.11.Header">超级挖掘</string>
+<string name="CR.01Welcome.12.Paragraph">按住CTRL建启动超级挖掘模式。这可以显著提升你的挖掘速度，用于快速清理一些空间。但是请小心，这会非常容易的意外挖掉你自己的劳动成果。</string>
+<string name="CR.01Welcome.13.Header">建造至我</string>
+<string name="CR.01Welcome.14.Paragraph">按住CTRL键切换到连续建造至我的模式。你可以瞬间建造从被选中的方块到你自己的这段直线位置。</string>
+<string name="CR.01Welcome.15.Header">工作坊</string>
+<string name="CR.01Welcome.16.Paragraph">在这个游戏中，工作坊是一个最强大的创造模式工具去建筑一个有很多细节的创造物。你可以通过建筑一个大方块结构缩小至单个方块，来设计创造你自己的方块。工作坊可以在世界中的任何位置被建造。为了建造一个，你需要先打开方块选择面板（按下=）然后选择工作坊放置方块：</string>
+<string name="CR.01Welcome.17.Paragraph">然后你可以选择一个地方去建造这个工作坊。为了完成这个工作坊，你需要两个工作坊放置方块。你需要放置它们在你需要定义工作坊区域的两个对角上。以下是一些简单的介绍：</string>
+<string name="CR.01Welcome.18.Paragraph">1、选择一块平整的区域。放置第一块工作坊放置方块。</string>
+<string name="CR.01Welcome.19.Paragraph">2、从那里开始，在同一个水平高度上走到对角线的另一端。</string>
+<string name="CR.01Welcome.20.Paragraph">3、在另一个角落放下第二块工作坊放置方块。</string>
+<string name="CR.01Welcome.21.Paragraph">4、如果两个方块是对角放置的，而且在7格距离内，这个工作坊会被使用强化石头和强化木块建立</string>
+<string name="CR.01Welcome.22.Paragraph">工作坊可以在2x2（相邻的对角）到8x8（两个方块间中间有6个空方块）的大小内建立。</string>
+<string name="CR.01Welcome.23.Header">在工作坊中创造一个细节的方块设计</string>
+<string name="CR.01Welcome.24.Paragraph">一旦你建造了第一个工作坊，进入其中就会开始创造你的第一个方块设计的细节。当你在工作坊里面的时候，会发生两件事情：工作坊的轮廓就会闪闪发亮，工作坊的覆盖面会显示。</string>
+<string name="CR.01Welcome.25.Paragraph">以下是相关按键用于在工作坊里选择功能：
+Y: 开始新的设计
+U: 使用当前的（还没有执行的）
+I: 显示细节窗口
+O: 显示行为窗口 (通常关闭)
+[: 上一个设计
+]: 下一个设计</string>
+<string name="CR.01Welcome.26.Paragraph">当你进入到一个新的工作坊时，一个新的设计就自动开始了，所以按下Y键开始新的设计只有在你已经有第一个设计之后。</string>
+<string name="CR.01Welcome.27.Paragraph">为了设计你的第一个方块，简单的在高亮工作坊区域内建造就可以了。强化木块构成的墙壁会成为你方块的前面，你可以使用任何方块去构建你的设计，但是所有带有模型的方块不会在这个细节方块中显示。被染色的方块会保持染色状态。</string>
+<string name="CR.01Welcome.28.Paragraph">当你觉得你的设计已经很好了，简单的离开工作坊区域即可保存并创造这个方块。为了选中它，开启你的方块选择屏幕（=键）然后选择你的新设计放到你的热键槽位上。你可以通过筛选器快速找到全部的细节方块设计。你可以现在通过按下Y键在工作坊开始设计一个新的方块，或者建造一个新的工作坊。你可以在一个世界里最多存储16384个细节方块设计！</string>
+<string name="CR.01Welcome.29.Header">放置细节方块</string>
+</resources>
