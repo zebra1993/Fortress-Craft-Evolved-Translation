@@ -42,4 +42,26 @@
 <string name="AV.Improved_Ore_Scanning.02.Paragraph">我们的矿石扫描仪拥有定位未知材料并进行研究和分类的功能。但它在寻找已知材料的新来源方面的能力有限。也许可以使用少量的备用矿石作为过滤器，使我们能够找到我们所需要的资源。</string>
 <string name="AV.Intermediate_Miner_Upgrades_I.Title">中级矿工升级 I</string>
 <string name="AV.Intermediate_Miner_Upgrades_I.00.Title">中级矿工升级 I</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.01.Paragraph">现在是开始研究如何复制中央电力中心提供的矿石冶炼厂的先进功能的时候了。 我们能够建设的基本冶炼厂太慢而且浪费宝贵的资源。</string>
+<string name="AV.Intermediate_Miner_Upgrades_II.Title">中级矿工升级 II</string>
+<string name="AV.Intermediate_Miner_Upgrades_II.00.Title">中级矿工升级 II</string>
+<string name="AV.Intermediate_Miner_Upgrades_II.01.Paragraph">应该可以进一步提高矿石采掘器的能力。 该项目还将研究矿石采集的其他方法。</string>
+<string name="AV.Local_Life_Forms.Title">本地生命形态</string>
+<string name="AV.Local_Life_Forms.00.Title">本地生命形态</string>
+<string name="AV.Local_Life_Forms.01.Paragraph">这个星球并非一片死寂！ 扫描仪正在检测动植物的生命形态。 该项目将调查各种生命形态并确定它们是否存在威胁。</string>
+<string name="AV.Power_Grid.Title">能量块</string>
+<string name="AV.Power_Grid.00.Title">能量块</string>
+<string name="AV.Power_Grid.01.Paragraph">仅仅靠着中央电力中心我们将无法生存太久。 随着我们的基地扩张，我们需要找到新的方法来发电，并将其传输到远距离的采矿作业中，以免我们手动给它们充能。</string>
+<string name="AV.Suit_Upgrading.Title">套装升级</string>
+<string name="AV.Suit_Upgrading.00.Title">套装升级</string>
+<string name="AV.Suit_Upgrading.01.Paragraph">你的环保套装是人类已知的最先进的勘探工程产物。 不幸的是，它的效用取决于目前超出我们制造能力的模块化升级系统 现在是时候研究如何在远离工厂的条件下自己回家升级。 您可以在这严苛的环境中靠它幸存下来。</string>
+<string name="AV.Ultimate_Power_Grid.Title">顶级能量块</string>
+<string name="AV.Ultimate_Power_Grid.00.Title">顶级能量块</string>
+<string name="AV.Ultimate_Power_Grid.01.Paragraph">继MK4电源存储系统的成功之后，我们能够设计出终极的能量存储设备。</string>
+<string name="AV.Ultra-Power_Grid.Title">超大功率能量块</string>
+<string name="AV.Ultra-Power_Grid.00.Title">超大功率能量块</string>
+<string name="AV.Ultra-Power_Grid.01.Paragraph">我们已经达到了我们可以存储在单个1米立方体的能量密度的极限。本项目将探讨大规模蓄电装置的可行性。</string>
+<string name="AV.Upgraded_Power_Grid.Title">升级款能量块</string>
+<string name="AV.Upgraded_Power_Grid.00.Title">升级款能量块</string>
+<string name="AV.Upgraded_Power_Grid.01.Paragraph">我们的电力基础设施正在顺利运行。我们的电池技术相当有限，但这个项目将尝试设计一个更好的电池，可以存储更多的电力，为我们提供更大的能量缓冲区。</string>
 </resources>
