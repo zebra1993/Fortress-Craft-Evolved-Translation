@@ -1,2 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">初始指南</string>
+<string name="SU.01Welcome.00.Title">欢迎来到要塞进化</string>
+<string name="SU.01Welcome.01.Header">生存模式</string>
+<string name="SU.01Welcome.02.Paragraph">你刚刚乘坐一个受损的逃生船从一个轨道空间站逃离。它没能在再入过程中幸免于难，但是幸运的是，你设法安全弹射。现在你不得不在这个可怕的外星球上生存下去！</string>
+<string name="SU.01Welcome.03.Header">开始</string>
+<string name="SU.01Welcome.04.Paragraph">你的最先进套装能在这寒冷的环境里保护你的安全，但是它需要能量补充。飞船的坠毁现场也许会给你一些短期内的资源，所以您应该尽快出发。</string>
+<string name="SU.01Welcome.05.Header">控制</string>
+<string name="SU.01Welcome.06.Paragraph">游戏控制在以下链接的单独指南中列出。</string>
+<string name="SU.01Welcome.07.Header">生存提示</string>
+<string name="SU.01Welcome.08.Paragraph">对于那些不想阅读整个指南的人，这些是一些快速的游戏提示。以下页面将详细介绍如何开始。</string>
+<string name="SU.01Welcome.09.Paragraph">- 白天，您的套装靠太阳能充电。
+- 您的起始区域有一个中央电力枢纽，使用它来将收获的资源转化为相邻机械的电力。
+- 您可以从中央电源中心上获取能量，或对着储能块按下“Q”。
+- 与制造工厂互动（\'E\'），看看你能做什么。
+- 使用自制工艺窗口（\'C\'）制作火炬来取暖。
+- 使用扫描工具（\'M\'）扫描方块，并在研究站处理新的配方。
+- 扫描工具还可以进行环境扫描，例如“未知物料”ping（设备的脉冲信号）以找到新的矿石。
+- 请注意您的套装上的电池放电速率，蓝色文字表示极度寒冷影响您的套装，红色文字表示极度的炎热。
+- 头灯是要电的。用于探索极佳，但不要总开着！
+- 煤是开始时最好的燃料，但是如果你在危机关头，你可以把当地的植物群落当柴火烧。
+- 你可能需要挖得很深才能找到你要找的矿石。
+- 你有一个很大的建造范围，所以可以用它横跨大型洞穴放置火炬。</string>
+<string name="SU.01Welcome.10.Header">坠毁现场设备</string>
+<string name="SU.01Welcome.11.Paragraph">中央电力枢纽是您的第一台发电机。 它有太阳能电池板，可燃烧燃料发电。 它一次只能容纳一个燃烧单位，因此自动化燃料的输送是至关重要的。 内部能量存储容量较大。</string>
+<string name="SU.01Welcome.12.Paragraph">能量块可以存储250个单位的能量，并将其分配到相邻的机器。</string>
+<string name="SU.01Welcome.13.Paragraph">为了获取用于制作新机器的金属锭，您需要在矿石冶炼厂处理矿石。 您可以手动与其进行交互，或自动提供材料。 只有收到足够的材料来熔炼金属锭，它才会开始冶炼。</string>
+<string name="SU.01Welcome.14.Paragraph">您可以使用“c”打开工艺窗口自己制作简单的东西，但对于更复杂的机器和组件，您将不得不使用制造工厂。 配方分为几类，您可以通过点击彩色方块找到。 在这个时候，工厂只能使用库存中的物品，并且制作的东西将直接放在那里。</string>
+<string name="SU.01Welcome.15.Paragraph">当你开始时，你的扫描仪不知道在这个星球上发现的任何材料。 您所做的任何扫描都可以在研究站进行处理，并将为您提供研究点。 您还可以在这里进行各种研究项目，并通过研究点开发制造工厂的新配方。 研究站需要电力供应。</string>
+<string name="SU.01Welcome.16.Header">找到你的第一批矿石</string>
+<string name="SU.01Welcome.17.Paragraph">您的扫描仪能够扫描已知的矿石类型，但要做到这一点，首先必须了解它们。 寻找新矿石的关键是在扫描仪上使用“未知物料”（Unknown Material）。 如果您第一次使用该功能，它将返回您周围的所有块，因为它一个方块都不了解。</string>
+<string name="SU.01Welcome.18.Paragraph">所以你的第一个任务是扫描你的周围环境，并在研究站处理这些扫描结果。一旦你扫描了所有常见的泥土和雪，未知的矿石ping将反馈周围的有用的东西给你。</string>
+<string name="SU.01Welcome.19.Paragraph">一旦你在地下附近找到一条矿脉，你可以扫描这些矿石并处理它们来教会你的扫描仪。从那一刻起，用扫描仪使用矿石扫描将返回指定矿石类型的矿脉。</string>
+<string name="SU.01Welcome.20.Header">采矿</string>
+<string name="SU.01Welcome.21.Paragraph">现在你已经找到了你的第一个矿脉，你需要提取矿石才能使用它。您可以使用右键点击挖掘它，但这会在一段时间内每次只掉落一个矿石，其余部分将产生瓦砾。</string>
+<string name="SU.01Welcome.22.Paragraph">更好的选择是使用您的超级挖掘模式，您可以通过在挖掘时按住CTRL来激活。这样会很快挖掘大量的矿石，但会高速耗尽你的动力储备。</string>
+<string name="SU.01Welcome.23.Paragraph">在超级挖掘矿脉的时候小心用尽你的全部能量，你的衣服也需要能量来保持体温！尝试设置一个安全的路线回到你的发电机，一路上备好火把加热。</string>
+<string name="SU.01Welcome.24.Header">自动化开采</string>
+<string name="SU.01Welcome.25.Paragraph">开采矿石更可持续的方式是使用矿石开采器。 你一开始带了几个，你可以把其中一个放在矿脉旁，充满电力，它便开始挖掘。 它有的内部存储空间很小，所以直到你可以把矿石卸载到别处，你不得不一会就来一趟收集成果。</string>
+<string name="SU.01Welcome.26.Paragraph">矿石开采器在接触到一个矿石块时可以挖出整个矿脉。因此，不必移动它，直到整个矿脉采空。</string>
+<string name="SU.01Welcome.27.Paragraph">存储箱将接受机器的矿石和物料，并将其提供给其他机器。这使得它们在自动化采矿和冶炼过程的任何方面都至关重要。</string>
+<string name="SU.01Welcome.28.Paragraph">一旦获得了资源，传送带可以自动将矿石从您的开采设备运到您的矿石冶炼厂。 它们很便宜，但是您需要大量传送带来将您的采矿作业连接到您的主基地。 他们不需要能源就能运（永）转（动）。</string>
+<string name="SU.02FirstNight.Title">活过第一晚</string>
+<string name="SU.02FirstNight.00.Title">活过第一晚</string>
+<string name="SU.02FirstNight.01.Paragraph">这是第一夜生存的手把手指导。如果你不想被干扰，那么现在就停止阅读！</string>
+<string name="SU.02FirstNight.02.Header">完成教程</string>
+<string name="SU.02FirstNight.03.Paragraph">你在坠毁的船和一个基本的前哨旁边醒来。您的第一个任务是完成简要教程。依次遵循每条指令。教程完成后，力场将被解除。</string>
+<string name="SU.02FirstNight.04.Header">打点库存 保持体温</string>
+<string name="SU.02FirstNight.05.Paragraph">按\"I\"键打开物品栏。初始装备有5个火把三个采矿器。后者是采掘矿脉的宝贵机器，但是并非马上就用到。前者是绝对必要的。</string>
+<string name="SU.02FirstNight.06.Paragraph">选择包含火炬图标的快捷面板，并在离你的机器几个格子远的地方放置一个。 当您靠近它们时，火把将提供光照和热量。 屏幕右上角的套装指示灯指示外部温度和内部温度。 你的衣服会自动保持温暖，但这会耗费能量。 如果您靠近火炬，您将看到外部温度升高，这意味着您的套装使用相对较少的电力来保持温暖。 注意当过热的时候你的套装将消耗能量来制冷！</string>
+<string name="SU.02FirstNight.07.Header">收集燃料</string>
+<string name="SU.02FirstNight.08.Paragraph">大号激光柱冲天而起的那台家伙就是您的中央电源枢纽（CPH）。 该发电机靠太阳能发电，同时还有一小型燃料发电机，可以燃烧材料以增加功率。 它可为附近的机器和能量块供电。</string>
+<string name="SU.02FirstNight.09.Paragraph">您可以直接从枢纽按“E”来与它互动汲取能量，然后按“汲取能量”。游戏一开始你的燃料储备极为有限，顶多撑到教程结束。因此，你的新任务就是收集燃料。</string>
+<string name="SU.02FirstNight.10.Paragraph">如果你选择了简单的难度，为你提供一个煤矿脉和矿物提取器，否则你将需要自行寻找燃料。如果你非常幸运，撞击坑会暴露出一个煤层。但最初燃料的来源更依赖于环形山周围的树木。把树干挖出然后把它们收集起来。现在向能源枢纽移动，与它交互(“e”)，按“添加资源”。这将开始燃烧你的木头。您必须手动添加更多的燃料，直到您收集足够资源来使这个过程自动化。</string>
+<string name="SU.02FirstNight.11.Paragraph">随着枢纽燃烧木材，您应该很快注意到电源存储块上的图形开始旋转，这意味着它正在收集电能。你可以从那里汲取能量，或者等到它满了，然后枢纽开始储存能源。</string>
+<string name="SU.02FirstNight.12.Header">探索周边环境</string>
+<string name="SU.02FirstNight.13.Paragraph">现在你已经拥有了较低水平但供应稳定的能量来源，你可以开始探索你周围的环境了。你的套装用来保暖所消耗的能量可以从中央枢纽获得补充。注意左上方的电量，如果能量槽空了，你很快就会开始失温直至死于低温症。</string>
+<string name="SU.02FirstNight.14.Paragraph">"确保你有足够的能量回到坠机现场并从中心重新充能。
+ "</string>
+<string name="SU.02FirstNight.15.Paragraph">你的套装配有扫描仪工具，这对生存来说是无价的。你可以按“M”来选择工具。现在你可以使用鼠标右键，或者用左键发送一个脉冲扫描（ping）。注意不要在非必要的情况下ping，这样会快速榨干你的套装电源。</string>
+<string name="SU.02FirstNight.16.Paragraph">你的下一个探索任务是扫描你周围的环境。瞄准一个你还没有扫描过的方块，打开你的扫描工具，按住鼠标右键，直到左下角的弹出窗口告诉你扫描已经完成。试着扫描你周围的所有物体，包括雪、泥土、木头和树叶!</string>
+<string name="SU.02FirstNight.17.Header">研究周围的环境</string>
+<string name="SU.02FirstNight.18.Paragraph">现在您已经扫描了这些方块，现在是时候回到坠机现场用研究站进行数据处理了。按“e”打开对话框。这个窗口将显示未处理扫描结果的列表，后边跟着的是一旦处理完成将会给予你的研究点数。研究点现在并不重要，所以忽略它们。处理你列表中所有的扫描。每一项处理都是要消耗能量的，但如果你把你的中心装满了原木或煤，它的能量槽应该是接近蓄满的，足够处理你当前所有的扫描数据。</string>
+<string name="SU.02FirstNight.19.Paragraph">处理扫描可解锁新的研究项目，但现在的你还不必担心，扫描你的周围环境是更重要的目标。</string>
+<string name="SU.02FirstNight.20.Header">ping你的周围</string>
+<string name="SU.02FirstNight.21.Paragraph">随着你周围的环境被扫描与处理，你的套装现在了解了它们的属性特征，这样可以让你的ping使用起来效果倍增。</string>
+<string name="SU.02FirstNight.22.Paragraph">特别的，“未知材料”ping是我们下一步将要使用的，以便找到我们的第一个矿脉。切换到扫描工具，选择“未知材料”，按下鼠标左键。这将高亮显示你扫描范围内的任何一个属性未知的方块。</string>
+<string name="SU.02FirstNight.23.Paragraph">"如果您没有扫描并处理全部周围环境，这个ping将返回坠机区域周围的方块，如灰尘和岩石。如果发生这种情况，请扫描并处理这些方块，然后按上述步骤重试。 "</string>
+<string name="SU.02FirstNight.24.Paragraph">如果上述步骤成功，您应该在地下或附近的山丘上看到一团团未知方块的标签。请务必持续关注能量槽，没有必要冻成冰棍儿！</string>
+<string name="SU.02FirstNight.25.Header">向着矿脉挖掘</string>
+<string name="SU.02FirstNight.26.Paragraph">现在您需要向着这些矿脉的标签挖出一条通路，看看它们到底是什么。扫描矿脉并处理数据。你会注意到，他们给予的研究点数比普通材料要多。一旦你了解了一种新的矿石块，你就可以回到矿脉，再扫描矿脉上任意一个方块，这个工具会给你关于该矿脉的详细信息;规模如何，储量多少(这俩不是一个概念)。</string>
+<string name="SU.02FirstNight.27.Paragraph">使用你的飞爪（Grappling Hook）（\'F\'）从你挖的洞里快速返回（或者用来爬山）。</string>
+<string name="SU.02FirstNight.28.Paragraph">如果你没选简单难度，那么你想找到的第一个矿肯定是煤。如果你发现铜、锡或铁，稍后才派得上用场。试着记住具体位置，我们之后再回去找它们。如果你不记得了，没关系，我们可以稍后再用矿石ping来重新找到路线。</string>
+<string name="SU.02FirstNight.29.Header">挖煤</string>
+<string name="SU.02FirstNight.30.Paragraph">FortressCraft里的矿脉有的规模庞大，包含了数百万单位的矿石。挖掘矿脉不是靠点几次鼠标就能搞定的;你需要消耗能源而且免不了使用机器。</string>
+<string name="SU.02FirstNight.31.Paragraph">有了你的第一个煤炭矿脉，花一点点时间建立一条从矿脉回到到坠机区域的安全路径。你日后将经常走这条路，所以这段时间你可不能马马虎虎。</string>
+<string name="SU.02FirstNight.32.Paragraph">接下来，你应该把从CPH加满能量，然后下到煤层。安放些火炬来节约用于保暖的能量。然后把你的能量都用来超级挖掘这里的煤矿。按住CTRL同时点击右键。这是一种低效的开采方式，但它会给你带来些许煤。</string>
+<string name="SU.02FirstNight.33.Paragraph">在这个节骨眼上，你也许会耗尽能量，所以你要迅速回到CPH，并充满电。现在你有一个更好的燃料来源:煤!下次再按“添加资源”时，应该加入一个煤块而不是一单位原木。这样会产生相对更多的能量，所以今后你可以少那么一两次用来维持能量槽的微操。</string>
+<string name="SU.02FirstNight.35.Paragraph">煤矿也允许你使用自制窗口来制造新的火炬。按“C”来显示自制窗口。它将显示你所能制作的所有配方，当然包括火炬。选择火炬，右侧应该显示它需要5单位煤来制作。按“制造”，然后一个火炬就加进了你的随身物品清单。</string>
+<string name="SU.02FirstNight.36.Paragraph">只要您的库存中至少有5个煤，火炬就可以自动生产。试着放置一个，如果已经用完，一个新的火炬会自动制成。</string>
+<string name="SU.02FirstNight.34.Header">造点东西</string>
+<string name="SU.02FirstNight.37.Header">目标完成！</string>
+<string name="SU.02FirstNight.38.Paragraph">你可以用煤的矿脉为你的CPH提供燃料，并为你提供你所需要的所有火把，你现在应该能在地表无限期地生存下去了。从此刻起，你可以开始挖掘你发现的其他矿脉，或者出发去寻找它们。然后你就可以把金属矿石送往冶炼厂，以获得制造工厂所需的金属锭。</string>
+<string name="SU.02FirstNight.39.Paragraph">您还可以考虑使用矿石提取器来进行自动化挖掘。 或者，您可以将研究点用于某些项目，来弄清到底发生了什么把你带到了这个星球上。 或者你可以勇敢的挑战更深处，看看有什么好玩的。 随你便！</string>
+<string name="SU.03Controls.Title">控制</string>
+<string name="SU.03Controls.00.Title">控制</string>
+<string name="SU.03Controls.01.Paragraph">此帮助指南列出了FortressCraft Evolved中提供的所有的控制按键，不要慌，一开始都会有点头大，只需参考必要的控制部分即可开始食用。</string>
+<string name="SU.03Controls.02.Paragraph">完成教程之前，某些控制按键将无法使用。</string>
+<string name="SU.03Controls.03.Header">基本控制</string>
+<string name="SU.03Controls.04.Left">"ASDW：移动
+ 空格：跳
+ H：本帮助指南
+ESC：主菜单
+ 
+ X：切换到建造枪
+ LMB：建造方块
+ RMB：删除方块
+ 
+ M：切换到扫描工具（ping）
+ LMB：材料Ping
+ RMB：扫描方块
+ "</string>
+<string name="SU.03Controls.05.Right">"I：打开物品栏
+C:打开自制工艺
+F: 发射飞爪
+G:抛荧光棒
+
+E：与机器互动
+Q：从机器提取
+R：旋转
+
+V：切换到射线枪
+LMB：开火
+RMB：蓄能攻击
+ "</string>
+<string name="SU.03Controls.06.Paragraph">(LMB = 鼠标左键, RMB = 鼠标右键)</string>
+<string name="SU.03Controls.07.Header">自定义按键</string>
+<string name="SU.03Controls.08.Paragraph">大多数键位可通过游戏启动器自定义。游戏中的提示信息不会反映这些变化。</string>
+<string name="SU.03Controls.09.Header">移动与视野</string>
+<string name="SU.03Controls.10.Left">W：向前移动
+S：向后移动
+A：向左移动
+D：向右移动</string>
+<string name="SU.03Controls.11.Right">空格：跳跃
+鼠标：环顾四周
+U：乘坐矿车
+Z：放大</string>
+<string name="SU.03Controls.12.Header">武器与工具</string>
+<string name="SU.03Controls.13.Left">X：切换到建造枪
+V：切换到射线枪
+B：切换到固定镜头</string>
+<string name="SU.03Controls.14.Right">N：切换到涂色枪
+M：切换到扫描工具
+ Shift + 鼠标滚轮：循环工具</string>
+<string name="SU.03Controls.15.Header">物品栏与快捷栏</string>
+<string name="SU.03Controls.16.Left">"I：打开物品栏
+F1-F7：选择快捷栏标签
+1-9&amp;0：选择快捷栏槽位
+Q：扔下高亮物品
+ "</string>
+<string name="SU.03Controls.17.Right">"Shift + 拖曳: 拆分堆栈
+CTRL + 鼠标滚轮: 标签循环
+鼠标滚轮: 快捷槽位循环
+ --
+ "</string>
+<string name="SU.03Controls.18.Header">套装功能</string>
+<string name="SU.03Controls.19.Left">C：打开自制工艺
+L：头灯开关
+J：喷气背包开关
+F：发射飞爪</string>
+<string name="SU.03Controls.20.Right">G：扔荧光棒
+K：开关全息地图
+U：开关全息模式
+空格：释放飞爪</string>
+<string name="SU.03Controls.21.Header">机器</string>
+<string name="SU.03Controls.22.Left">E：与机器互动
+T：向机器中存储
+R：顺时针旋转
+]：顺时针旋转</string>
+<string name="SU.03Controls.23.Right">Q：从机器中取出
+Shift-T: 存10单位物品
+ Shift-E: 清空料斗模式
+ [:逆时针旋转</string>
+<string name="SU.03Controls.24.Header">多人模式</string>
+<string name="SU.03Controls.25.Paragraph">Enter: 聊天窗口
+ Right Shift: 显示服务器信息
+ Right Shift + F1, F2 or F3: 设置网络速率</string>
+<string name="SU.03Controls.26.Header">建造枪</string>
+<string name="SU.03Controls.27.Left">LMB: 建造方块
+RMB: 移除方块
+MMB:捡起当前方块</string>
+<string name="SU.03Controls.28.Right">Ctrl + LMB: 向我建造
+Ctrl +按住RMB: 超级挖掘</string>
+<string name="SU.03Controls.29.Header">扫描工具</string>
+<string name="SU.03Controls.30.Paragraph">LMB：Ping 周围
+RMB：扫描方块
+鼠标中键：更改ping设置</string>
+<string name="SU.03Controls.31.Header">射线枪</string>
+<string name="SU.03Controls.32.Left">LMB：单发开火</string>
+<string name="SU.03Controls.33.Right">按住RMB：蓄能开火</string>
+<string name="SU.03Controls.34.Header">其他</string>
+<string name="SU.03Controls.35.Left">ESC：主菜单
+Ctrl-M：开关音乐</string>
+<string name="SU.03Controls.36.Right">Tab：开关ARTHER 距离</string>
+<string name="SU.04UnknownMaterials.Title">未知材料</string>
+<string name="SU.04UnknownMaterials.00.Title">未知材料</string>
+<string name="SU.04UnknownMaterials.01.Header">什么是未知材料?</string>
+<string name="SU.04UnknownMaterials.02.Paragraph">"最初，这个星球上的所有材料都是未知数。 它们将在您的物品栏中显示为一个问号 - 用于任何用途前必须被识别。 一旦收集或扫描（使用扫描工具的次要操作），必须将未知的物质材料带到研究站进行处理。
+  直到处理完成，材料才能用于加工或建造。
+ "</string>
+<string name="SU.04UnknownMaterials.03.Header">处理未知材料</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">选择研究站的第一个选项卡“扫描”; 这将列出您遇到的所有未知材料，研究点的价值以及处理它们的能源消耗。 按“处理”按钮处理材料，扣除所需的电量并给予指定数量的研究点。 这些可用于使用研究站的第二和第三个选项卡来解锁配方和研究项目。</string>
+<string name="SU.04UnknownMaterials.05.Header">进展</string>
+<string name="SU.04UnknownMaterials.06.Paragraph">一旦新材料被扫描，能解锁新机器，配方和项目。</string>
+<string name="SU.04UnknownMaterials.07.Paragraph">扫描未知材料是获得更多研究点的最佳方式。只有更多地了解这个奇怪的，块状的星球，我们才有能力创造出更大更好的机器来帮助你生存，然后逃脱！</string>
+<string name="SU.04UnknownMaterials.08.Paragraph">请访问研究站的帮助指南条目了解更多信息。</string>
+<string name="SU.05LaboratoryResearch.Title">实验室研究</string>
+<string name="SU.05LaboratoryResearch.00.Title">实验室研究</string>
+<string name="SU.05LaboratoryResearch.01.Paragraph">本指南用于需要使用实验室的研究项目。有关研究的更多信息，请访问研究站帮助条目。</string>
+<string name="SU.05LaboratoryResearch.02.Header">建设实验室</string>
+<string name="SU.05LaboratoryResearch.03.Paragraph">"研究实验室必须首先通过在研究站完成相应的项目来解锁。然后，您需要在制造工厂制造27个实验室组件，并将其按照3×3×3布局放置。
+ "</string>
+<string name="SU.05LaboratoryResearch.04.Header">为实验室供电</string>
+<string name="SU.05LaboratoryResearch.05.Paragraph">实验室被设计使用尽可能多的能源。更大功率意味着更快地研究！你应该考虑至少使用几台热能发电机，但是没有必要试图给实验室完全供电。</string>
+<string name="SU.05LaboratoryResearch.06.Header">初始项目</string>
+<string name="SU.05LaboratoryResearch.07.Paragraph">"通过与机器进行交互（默认为“E”）打开实验室控制面板，确保您处于“实验”模式。 选中的项目将首先列出，其后为它的研究需求和其他可选项目。 要选择一个新项目，单击它将显示相关需求。 点击“开始项目”开始研究。
+ "</string>
+<string name="SU.05LaboratoryResearch.08.Header">项目供应需求</string>
+<string name="SU.05LaboratoryResearch.09.Paragraph">项目通常需要一种或多种类型的实验容器（pod）。 具体要求列在项目中。 这些实验容器应放在实验室任何一边附着的储料斗中。 如果您希望自动交付pod，那么您应该考虑为每种类型使用单独的料斗，以确保任何pod类型的可用性。</string>
+<string name="SU.05LaboratoryResearch.10.Paragraph">有关制造实验容器的更多信息，请阅读以下指南。</string>
+<string name="SU.06ExperimentalPods.Title">实验容器</string>
+<string name="SU.06ExperimentalPods.00.Title">实验容器</string>
+<string name="SU.06ExperimentalPods.01.Paragraph">实验容器用于实验室进行实验和完成研究项目。有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="SU.06ExperimentalPods.02.Header">什么是实验容器（Experimental Pods）？</string>
+<string name="SU.06ExperimentalPods.03.Paragraph">实验容器是实验室用来进行实验的资源。 每个容器是一种能够容纳和监测各种物质的智能储存装置。 实验室负责管理这些，您只需要提供空的容器。</string>
+<string name="SU.06ExperimentalPods.04.Header">制造实验容器</string>
+<string name="SU.06ExperimentalPods.05.Paragraph">实验容器与实验室同时解锁，只有最基本的种类可以在制造工厂制造。 其余的需要专门的制造机械。 每种类型的容器需要不同的原料，但都使用相同的机器来生产它们。</string>
+<string name="SU.06ExperimentalPods.06.Paragraph">每个容器由金属板和印刷电路板（PCB）制成。有关详细信息请查看所需的特定容器的帮助条目。</string>
+<string name="SU.06ExperimentalPods.07.Header">生产金属板</string>
+<string name="SU.06ExperimentalPods.08.Paragraph">金属板在压模工厂中产生。这是一种特殊类型的传送带，其上附有压模机，可以在制造厂中制造。所需的原材料是金属锭。</string>
+<string name="SU.06ExperimentalPods.09.Header">生产PCB</string>
+<string name="SU.06ExperimentalPods.10.Paragraph">生产PCB需要多个阶段，需要使用三台机器。 首先使用“挤压设备”将金属条转换成电线。 接下来是一个将电线转换成线圈的“卷取机”，最后是一个“PCB装配工厂”，以将线圈转换成PCB。</string>
+<string name="SU.06ExperimentalPods.11.Header">制造Pod</string>
+<string name="SU.06ExperimentalPods.12.Paragraph">最后使用汇编器将板和PCB组合成实验容器。 这不是一台基于传送带的机器，它需要电力和输入和输出存储料斗。 我们建议使用两个输入料斗来确保板和PCB的可用性。 完成的容器可以交付给实验室。</string>
+<string name="SU.07Mynocks.Title">迈诺克感染</string>
+<string name="SU.07Mynocks.00.Title">迈诺克感染</string>
+<string name="SU.07Mynocks.01.Paragraph">这条传送带受到外星生命形态（Mynock*）的侵扰。我们发现它从传送带上偷取资源，但这些资源似乎并没有留在生命形态本身的体内。相反，它们似乎被定向到一个贯穿大地的根系之中。我们的扫描仪显示这些根似乎正朝向一个核心，我们应该将调查此事作为优先事项。
+
+*译注：迈诺克 是宇航员常见的有害生物。这种像蝠鲼一样的飞行生物长着皮膜翼。这种寄生生物通过长有刚毛吸盘的杯状嘴附着在飞船上。飞行员须要检查他们的飞船以防迈诺克侵扰，因为这种生物会吸附在星际飞船上，啃噬电线。迈诺克成群行动。一只成年迈诺克通常1.6米长，翼展大约1.25米。由于分散在银河系各处，迈诺克的家乡不为人知。迈诺克像植物一样，以吸食恒星辐射为生。为了繁殖，迈诺克也以硅石和其它矿石为食。这种生物是无性的，一旦吸收并代谢足够的原料就通过分裂来繁殖。这些硅基生物只存在于太空真空中，行星大气层会杀死它们。然而，许多不同种类的迈诺克已被发现，有些能生存在行星表面，有些还能通过幼虫形态繁殖。经过适当的调味后，迈诺克可以被碳基的生命形式消化掉。有人狩猎迈诺克为空间站和殖民者提供定期的口粮。在星战中，Soresu，光剑战斗的第三种风格，也被称为Mynock方式。
+Reference：http://starwars.wikia.com/wiki/Mynock。</string>
+<string name="SU.07Mynocks.02.Paragraph">不管这些被盗资源的最终目的地是什么，我们都想阻止它!Mynock的结构似乎容易更受到能源武器的影响。我们应该进一步研究它们的弱点，这应该允许我们建立自动化的基地防御系统来干掉它们。从长远来看，我们应该研究更不易受到攻击的升级版资源分配解决方案。作为权宜之计，我们可以用我们的射线枪(V)杀死他们，但他们肯定很快就会回来。</string>
+<string name="SU.08VideoTutorials.Title">视频教程！</string>
+<string name="SU.08VideoTutorials.00.Title">视频教程</string>
+<string name="SU.08VideoTutorials.01.Paragraph">想要更多教程？在twitter上@fortress_craft或去Steam论坛！- Dj</string>
+<string name="SU.09CommunityLinks.Title">社区链接！</string>
+<string name="SU.09CommunityLinks.00.Title">社区链接</string>
+<string name="SU.09CommunityLinks.01.Paragraph">记住，你可以随时和我交谈在twitter上 @fortress_craft或前往Steam论坛！ - Dj</string>
+<string name="SU.Particulate_Filtration.Title">微粒过滤</string>
+<string name="SU.Particulate_Filtration.00.Title">微粒过滤</string>
+<string name="SU.Particulate_Filtration.01.Paragraph">通过研究套装微粒过滤系统，我们现在可以将空气中的不同元素过滤掉。 在各种洞穴中建立这些系统应该允许我们提取，浓缩和装瓶空气中发现的不同元素。 由于这些洞穴的平均尺寸和空气中颗粒的密度，这个过程不应该有任何明显的长期影响。 这些系统可能会降低本地植物和动物的环境的敌意，因为这个影响应该是微不足道的，因为没有已知的主要是敌对的动植物群。 冷洞将净化我们的Freezon，有毒的Caverns Chlorine和Magma Caverns，硫磺。</string>
+</resources>
