@@ -31,7 +31,7 @@
     <string name="Reset_World">复位世界</string>
 
 
-    <string name="Creative_New">创造模式允许你构造任何东西，同时采用了高精度砖块贴图，庞大的世界编辑器。支持蓝图和复制粘贴功能。注意它缺少很多生存模式的元素，所以不要把它当作生存模式的“开挂”版</string>
+    <string name="Creative_New">创造模式允许你构造任何东西，同时采用了高分辨率砖块贴图，庞大的世界编辑器，原理图，蓝图和复制粘贴系统。注意它缺少很多生存模式的元素，所以不要把它当作生存模式的“开挂”版！</string>
     <string name="Creative_Info">这是一个现存的“创造模式”世界，不过不幸的是信息不足我无法在这里向你展示。要不看个喵星人图片算了？</string>
 
     <string name="Mod_Management">Mod管理</string>
@@ -72,7 +72,7 @@
     <string name="Creative">创造</string>
 
     <string name="Default_Settings_Info">默认设置为超快速度和超低难度以便于新手玩家，如果你还想更快，可以在[日夜循环]中选择[永远白天]。你可以试试修改这些设置来提高游戏难度。
-注意：一旦世界创建完毕，难度设置就被锁定，无法变更</string>
+注意：一旦世界创建完毕，难度设置就被锁定，无法变更！</string>
     <string name="Previous_Visit">你曾经来过这个生存模式世界！</string>
     <string name="Play_time">游戏时间</string>
     <string name="Mod_Selected">选中的mod。</string>
@@ -80,8 +80,8 @@
     <string name="Existing_Seed">已知的随机数种子</string>
 
     <string name="Resources_Plentiful_Info">富足资源模式会给你大量的资源，帮助你在游戏内快速发展。这个模式很适合新手或者缺乏耐心的玩家。</string>
-    <string name="Resources_Scarce_Info">贫瘠资源模式给你一个慢节奏，有更多时间思考的游戏方式。你可以有花更多的时间于探索和基地优化上。不适合新手玩家</string>
-    <string name="Resources_Greg_Info">赤贫资源模式会大幅降低处理效率。这个模式适合于24X7多人游戏服务器或者有巨大耐心的玩家</string>
+    <string name="Resources_Scarce_Info">贫瘠资源模式会给你慢节奏的，考虑更加周到的游戏体验，有充足的时间来探索和优化你的基地。不适合新手玩家！</string>
+    <string name="Resources_Greg_Info">赤贫资源模式会大幅降低游戏进展速度。这个模式适于24X7多人游戏服务器或者非常耐心的人！</string>
     <string name="Resources_Rapid_Info">速通资源模式是用来满足那些家里有孩子，上班族，或者想花一个周末把游戏打穿的玩家。该模式也适合在挑战更高难度之前对游戏进行快速上手。</string>
 
 
@@ -110,7 +110,7 @@
 
     <string name="Flatland_Locked">平坦世界模式会在你杀死极寒浆液巢穴后开启。</string>
     <string name="Flatland_Disabled">平坦世界模式已禁用。</string>
-    <string name="Flatland_Enabled">平坦世界已启用。顾名思义,现在世界是平的</string>
+    <string name="Flatland_Enabled">平坦世界已启用。顾名思义,现在世界是平的！</string>
 
     <string name="Needs_FF">需要冰冻工厂扩展包。</string>
 
@@ -1622,7 +1622,7 @@
     <string name="Hydroponics Canopy">水培湾顶棚</string>
     <string name="Hydroponics Canopy_DESC">盖在水培湾顶部以增加生长速度。</string>
     <string name="Adventures Pack DLC">冒险包DLC</string>
-    <string name="Adventures Pack DLC_DESC">感谢你购买冒险包DLC</string>
+    <string name="Adventures Pack DLC_DESC">感谢你购买冒险包DLC！</string>
     <string name="CRP DLC KEY">CRP DLC Key</string>
     <string name="CRP DLC KEY_DESC">" "</string>
     <string name="Emergency Siren">警报器</string>
@@ -2061,7 +2061,7 @@
     <string name="Coal Ping_CRAFT_HINT">"   "</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">非常适合清除死掉的蜂巢核心以获取有用材料。</string>
     <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Dooo-OOOOO-oooot!</string>
-    <string name="Empty Fuel Canister_CRAFT_DESC">空燃料罐。要环保——尽可能地回收</string>
+    <string name="Empty Fuel Canister_CRAFT_DESC">空燃料罐。要环保——尽可能地回收！</string>
     <string name="Empty Fuel Canister_CRAFT_HINT">要环保——使用后回收！</string>
     <string name="Iron Ore Ping_CRAFT_DESC">一种消耗品，产生一次只显示铁矿石的找矿ping，无需耗电。</string>
     <string name="Iron Ore Ping_CRAFT_HINT">" "</string>
