@@ -2642,4 +2642,60 @@ Muista että nämä asetukset ovat LUKITTUJA maailmassa olessasi. Huomioi siis v
     <string name="ARTHER_Vein_Warning">"Varoitus! Yksi "</string>
     <string name="Tutorial_Smelter_Permissions">Varoitus! sulattamohypytin lisää/poista tilassa - tarkoititko asettaa luvat?</string>
 
+<string name="Menu_Resume">JATKA</string>
+    <string name="Menu_Multiplayer">MONINPELI</string>
+    <string name="Menu_Help">APU</string>
+    <string name="Menu_Settings">ASETUKSET</string>
+    <string name="Menu_SkinSelect">NÄÖSTEEN VALINTA</string>
+    <string name="Menu_Quit">LOPETA</string>
+    <string name="Menu_Resume_Strap">Palaa meneillään olevaan peliin</string>
+    <string name="Menu_Multiplayer_Strap">Valitse moninpeliasetukset</string>
+    <string name="Menu_Help_Strap">Avaa apuikkuna</string>
+    <string name="Menu_Settings_Strap">Säädä pelin sisäisiä asetuksia</string>
+    <string name="Menu_SkinSelect_Strap">Avaa näösteen valintavalikko</string>
+    <string name="Menu_Quit_Strap">Poistu työpöydälle</string>
+    <string name="Contextual Help">Kontekstuaallinen apu</string>
+    <string name="SKIN_SELECTOR">NÄÖSTEEN VALITSIN</string>
+    <string name="Skin_Accept">HYVÄKSY</string>
+    <string name="Skin_ViewInStore">KATSO KAUPASSA</string>
+    <string name="Skin_ViewDLCInStore">KATSO LATAUSLISÄOSA KAUPASSA</string>
+    <string name="Skin_ViewGameInStore">KATSO PELI KAUPASSA</string>
+    <string name="Skin_ViewInfo">KATSO TIEDOT</string>
+    <string name="Matter_Mover">Aineensiirrin</string>
+    <string name="Dual_Matter_Mover">Kaksoisaineensiirrin</string>
+    <string name="Quad_Matter_Mover">Neloisaineensiirrin</string>
+    <string name="Multi_Matter_Mover">Moniaineensiirrin</string>
+    <string name="MM_AddPower">Lisää virtaa aloittaaksesi aineensinkous</string>
+    <string name="MM_Aim_1">"Tähtää varastohypyttiimeen korkeintaan "</string>
+    <string name="MM_Aim_2">m päässä.</string>
+    <string name="MM_HopperError">Liitetty varastohypytin on tyhjä tai lukittu!</string>
+    <string name="MM_HopperFull">Kohdehypytin on täynnä!</string>
+    <string name="MM_TooClose">Pienin siirtoetäisyys on 1m; Min. transmission distance is 1m; tähtää toiseen suuntaan!</string>
+    <string name="MM_NoHopper">Aseta lukitsemattoman varastohypyttimen viereen.</string>
+    <string name="MM_Holding">Odotetaan</string>
+    <string name="MM_PastTense">Ainesingottu</string>
+    <string name="MM_Glue">esinettä, käyttäen</string>
+    
+    <string name="Chargeable_Explosive">Ladattava räjähde</string>
+    <string name="CE_Controls">Paina Shift+E virittääksesi sytytyksen</string>
+    <string name="CE_CurrentCharge">Nykyinen lataus</string>
+    <string name="CE_Detonate">Panos räjähtää</string>
+    <string name="CE_Info">Pitää latauksen nostettaessa</string>
+    <string name="CE_Level">Lataustaso</string>
+    <string name="CE_Seconds">sekunnissa</string>
+
+    <string name="Lost?">Kadoksissa?</string>
+    <string name="Surface">Pinta</string>
+    <string name="Upper Caves">Ylemmät luolat</string>
+    <string name="Cold Caverns">Kylmäluolat</string>
+    <string name="Lower Caves">Alemmat luolat</string>
+    <string name="Toxic Caverns">Myrkkyluolat</string>
+    <string name="Deep Caves">Syvät luolat</string>
+    <string name="Magma Caverns">Magmaluolat</string>
+    <string name="EXTERNAL TEMP">Ulkolämpötila</string>
+    <string name="SUIT INTERNAL TEMP">Puvun sisälämpötila</string>
+    <string name="BATTERY USE RATE">Akun kuluminen</string>
+    <string name="World Settings">Maailman asetukset</string>
+    
+    
 </resources>
