@@ -56,4 +56,48 @@ O: 显示行为窗口 (通常关闭)
 <string name="CR.01Welcome.27.Paragraph">为了设计你的第一个方块，简单的在高亮工作坊区域内建造就可以了。强化木块构成的墙壁会成为你方块的前面，你可以使用任何方块去构建你的设计，但是所有带有模型的方块不会在这个细节方块中显示。被染色的方块会保持染色状态。</string>
 <string name="CR.01Welcome.28.Paragraph">当你觉得你的设计已经很好了，简单的离开工作坊区域即可保存并创造这个方块。为了选中它，开启你的方块选择屏幕（=键）然后选择你的新设计放到你的热键槽位上。你可以通过筛选器快速找到全部的细节方块设计。你可以现在通过按下Y键在工作坊开始设计一个新的方块，或者建造一个新的工作坊。你可以在一个世界里最多存储16384个细节方块设计！</string>
 <string name="CR.01Welcome.29.Header">放置细节方块</string>
+<string name="CR.01Welcome.30.Paragraph">要放置一个细节块，像任何其他方块一样构建它。 设计将附加到您选择的面，并旋转以朝向您。 这允许您以任何您想要的方向放置细节块。</string>
+<string name="CR.01Welcome.31.Paragraph">如果您在同一区域使用数千个细节块，您将注意到显著的性能下降。 这是因为所有这些细节都必须由您的显卡呈现。 为了减轻这种情况，请使用较低分辨率，普通方块随你便。</string>
+<string name="CR.01Welcome.32.Header">超级建造</string>
+<string name="CR.01Welcome.33.Paragraph">按F8键会在你的屏幕右侧打开超级建造面板</string>
+<string name="CR.01Welcome.34.Paragraph">这允许您使用您选择的任何块快速构建简单的几何形状。 要使用超级建造，首先选择使用F9选择一个要构建的形状。 使用F10，您可以选择实心还是中空。 使用F11可开关建造模式。 即时 会让您最快获取效果，但是可能会导致一些非常大的孔。 End 在锚点居中或底部中间形状之间切换。</string>
+<string name="CR.01Welcome.35.Paragraph">X，Y和Z允许您更改形状的大小。 按住它们将该尺寸增加1.按住shift并按X，Y或Z减1。 您可以按住ALT一次更改大小16。</string>
+<string name="CR.01Welcome.36.Paragraph">一旦您选择了形状，大小和位置，请按Ins建立形状，或者Del 挖掘。 然后，您将不得不重新选择一个形状来挖掘或重建。</string>
+<string name="CR.01Welcome.37.Header">复制粘贴</string>
+<string name="CR.01Welcome.38.Paragraph">复制粘贴工具允许您快速复制您制作的一部分设计，旋转或翻转它，并将其重新粘贴到任何您想要的位置中。 按F11打开复制粘贴面板。
+复制粘贴面板目前正在开发中，这就是为什么它和其他界面不太一样。</string>
+<string name="CR.01Welcome.39.Header">复制粘贴控制</string>
+<string name="CR.01Welcome.40.Paragraph">按Ins 来放置您要复制的矩形部分的第一个角。</string>
+<string name="CR.01Welcome.41.Paragraph">按Del放置要复制的矩形部分的第二个角。 要复制的区域现在将被突出显示。</string>
+<string name="CR.01Welcome.42.Paragraph">一旦选择了一个区域，您可以按End抓住它。 此时，复制区域的预览将显示在你选择的块的顶部。</string>
+<string name="CR.01Welcome.43.Paragraph">抓住一个区域，有三件事情可以改变该区域的粘贴方式：用R旋转，用Shift移动锚点，用CTRL翻转。</string>
+<string name="CR.01Welcome.44.Paragraph">“R”将顺时针旋转抓取区域90度。</string>
+<string name="CR.01Welcome.45.Paragraph">按Shift键将允许您使用X，Y和Z键更改锚点。 按SHIFT + X，Y或Z将减少锚定位置</string>
+<string name="CR.01Welcome.46.Paragraph">按CTRL一次可以使用X，Y和Z键翻转设计。 每个按钮将沿着该轴翻转设计。</string>
+<string name="CR.01Welcome.47.Paragraph">最后，按Home会将区域粘贴到所选位置。</string>
+<string name="CR.01Welcome.48.Header">存储 复制粘贴 原理图</string>
+<string name="CR.01Welcome.49.Paragraph">也可以使用\'&lt;\'键存储原理图以供以后使用，并使用\'？\'加载它们。 您可以将保存的原理图与其他人交换。 但是这个功能还在开发中，所以我们不能保证它能奏效。</string>
+<string name="CR.01Welcome.50.Header">油漆枪</string>
+<string name="CR.01Welcome.51.Paragraph">您可以按“N”选择油漆枪。 它允许您绘制可涂色的某些材料，以任何您想要的颜色。 选择“油漆枪”后，LMB将绘制目标区块，人为打开颜色选择窗口，如果所选块可以绘制，MMB将从所选块中采样颜色。 喷枪将显示选择的颜色。</string>
+<string name="CR.01Welcome.52.Header">寻找可涂漆材料</string>
+<string name="CR.01Welcome.53.Paragraph">只有一些特定的方块可以被喷漆。 要快速找到哪些，打开块选择屏幕（\'=\'）并检查\'可绘制\'过滤器。 所有在这里展示的方块都可以摆放在世界，并上色。</string>
+<string name="CR.01Welcome.54.Header">天气控制</string>
+<string name="CR.01Welcome.55.Paragraph">允许您控制天气，时间和周围的流星。 使用\'C\'选择它。 当你进入你的世界时，它显示的统计数据之一就是在FortressCraft Evolved中的流星总数。</string>
+<string name="CR.01Welcome.56.Header">天气控制模式</string>
+<string name="CR.01Welcome.57.Paragraph">eSun：使当前的雨或雪停止，并使太阳照耀（或月亮，如果是夜晚）</string>
+<string name="CR.01Welcome.58.Paragraph">eLightning：造成暴风雨。 鼠标左键激活闪电</string>
+<string name="CR.01Welcome.59.Paragraph">eSnow：制造降雪</string>
+<string name="CR.01Welcome.60.Paragraph">eRain: 制造降雨</string>
+<string name="CR.01Welcome.61.Paragraph">eDayNight：快速向前或向后循环时间</string>
+<string name="CR.01Welcome.62.Paragraph">eMeteor：传唤流星。 LMB从天空高处召唤一颗流星，到达你附近的某个地方。 RMB召集来自天气工作人员的流星进入选定的区块。 这两个动作都有冷却时间，所以长按可能不会像你想要的那样召唤出许多流星雨。当发射流星时，注意轨道空间站！</string>
+<string name="CR.02HowToPlaySurvival.Title">如何玩生存模式</string>
+<string name="CR.02HowToPlaySurvival.00.Title">如何玩生存模式</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">这是一个创造模式的游戏。开始生存世界：</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">回到主菜单。 进入世界选择室，选择一个空的插槽（向右箭头或单击表格）。 在游戏模式旁边有箭头，您可以点击将游戏模式更改为“生存”。 按“创造世界”开始游戏</string>
+<string name="CR.02HowToPlaySurvival.03.Header">我没法选择游戏模式？</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">您不能更改现有世界的游戏模式。 选择一个空槽位。</string>
+<string name="CR.02HowToPlaySurvival.05.Header">我的世界槽位都满了！</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">您可以从世界选择界面重置一个世界，所有与这个世界相关的数据将被删除。 如果要备份您的世界，则在最新版本的Windows上，可以在以下文件夹中找到：％AppData％.local/LowrojectorGamesortressCraftorlds。</string>
+<string name="CR.02HowToPlaySurvival.07.Header">这是行不通的！</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">如果您仍然无法启动生存模式，请在Steam讨论板上发帖。</string>
 </resources>
