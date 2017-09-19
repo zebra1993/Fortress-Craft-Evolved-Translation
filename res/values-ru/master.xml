@@ -1234,11 +1234,11 @@
     <string name="Liquid Resin Refiner_DESC">"  "</string>
     <string name="Rack Railer">Установщик Зубчатых Рельсов</string>
     <string name="Rack Railer_DESC">Создаёт Зубчатые Рельсы для грузовых лифтов</string>
-    <string name="MK1 PowerCore Charger">Зарядник усилителей мощности МК1</string>
-    <string name="MK2 PowerCore Charger">Зарядник усилителей мощности МК2</string>
-    <string name="MK3 PowerCore Charger">Зарядник усилителей мощности МК3</string>
-    <string name="MK4 PowerCore Charger">Зарядник усилителей мощности МК4</string>
-    <string name="MK5 PowerCore Charger">Зарядник усилителей мощности МК5</string>
+    <string name="MK1 PowerCore Charger">Зарядник Усилителей мощности МК1</string>
+    <string name="MK2 PowerCore Charger">Зарядник Усилителей мощности МК2</string>
+    <string name="MK3 PowerCore Charger">Зарядник Усилителей мощности МК3</string>
+    <string name="MK4 PowerCore Charger">Зарядник Усилителей мощности МК4</string>
+    <string name="MK5 PowerCore Charger">Зарядник Усилителей мощности МК5</string>
     <string name="MK5 PowerCore Charger_DESC">Создаёт одноразовый усилитель мощности, дающий АРЧЕРу 2000 ед. энергии. Для применения разместите в панели быстрого доступа.</string>
     <string name="MK4 PowerCore Charger_DESC">Создаёт одноразовый усилитель мощности, дающий АРЧЕРу 1000 ед. энергии. Для применения разместите в панели быстрого доступа.</string>
     <string name="MK1 PowerCore Charger_DESC">Создаёт одноразовый усилитель мощности, дающий АРЧЕРу 100 ед. энергии. Для применения разместите в панели быстрого доступа.</string>
@@ -2452,7 +2452,7 @@
     <string name="Minecart Empty Gate_CRAFT_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они не ПУСТЫЕ. В ЗЕЛЕНОМ направлении проезд свободен.</string>
     <string name="Minecart Empty Gate_CRAFT_HINT">Применяется для управления вагонетками.</string>
     <string name="ConstructoBot Direction_CRAFT_DESC">Заставляет СтройБота проследовать в указанном направлении.</string>
-    <string name="ConstructoBot Direction_CRAFT_HINT"/>
+    <string name="ConstructoBot Direction_CRAFT_HINT">Указатель СтройБота</string>
     <string name="ConstructoBot Cargo Control_CRAFT_DESC">Заставляет СтройБота с грузом двигаться в направлении ЗЕЛЁНОЙ стрелки.</string>
     <string name="ConstructoBot Cargo Control_CRAFT_HINT">Грузовой контроль СтройБота</string>
     <string name="ConstructoBot Loaded Control_CRAFT_HINT">Контроль полного СтройБота</string>
