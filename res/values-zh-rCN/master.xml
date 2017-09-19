@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">你好!你的语言只翻译了部分。如果你想回到英语版本,请按下面的“英语”!</string>
-    <string name="Translation_Incomplete">翻译不完整!</string>
-    <string name="Language_Name">英文</string><string name="Frozen_Factory">冷冻工厂</string>
-    <string name="Dapper_Pack">整合包</string>
+<resources><string name="Partial_Language_Support">你好！ 您使用的语言目前仅部分支持。如果你想换回英语版本,请按下面的“英语”！</string>
+    <string name="Translation_Incomplete">翻译不完整！</string>
+    <string name="Language_Name">英语</string><string name="Frozen_Factory">冰封工厂</string>
+    <string name="Dapper_Pack">Dapper 整合包</string>
     <string name="Skin_Pack">皮肤包</string>
     <string name="Installed">已安装</string>
     <string name="Not_Installed">未安装</string>
     <string name="Multiplayer_Sign">多人游戏</string>
     <string name="Quit_Sign">退出</string>
-    <string name="World_Sign">选择游戏世界</string>
-    <string name="Create_World">创建游戏世界</string>
+    <string name="World_Sign">选择世界</string>
+    <string name="Create_World">创造世界</string>
     <string name="Spacebar">空格键</string>
     <string name="Resource_Level">资源级别</string>
     <string name="Power_Level">能源级别</string>
     <string name="Conveyor_Speed">传送带速度</string>
-    <string name="Day_Night_Cycle">日夜切换</string>
+    <string name="Day_Night_Cycle">日夜循环</string>
     <string name="Mob_Difficulty">野怪难度</string>
-    <string name="Death_Mode">死亡惩罚</string>
+    <string name="Death_Mode">死亡模式</string>
     <string name="Survival_Options">生存模式选项</string>
     <string name="Seed">随机种子</string>
     <string name="Rush_Mode">速通模式</string>
@@ -28,11 +28,11 @@
     <string name="Mutators">附加难度</string>
 
     <string name="Enter_World">进入世界</string>
-    <string name="Reset_World">复位世界</string>
+    <string name="Reset_World">重置世界</string>
 
 
-    <string name="Creative_New">创造模式允许你构造任何东西，同时采用了高分辨率砖块贴图，庞大的世界编辑器，原理图，蓝图和复制粘贴系统。注意它缺少很多生存模式的元素，所以不要把它当作生存模式的“开挂”版！</string>
-    <string name="Creative_Info">这是一个现存的“创造模式”世界，不过不幸的是信息不足我无法在这里向你展示。要不看个喵星人图片算了？</string>
+    <string name="Creative_New">创造模式允许你建造任何东西，同时采用了高分辨率砖块贴图，庞大的世界编辑器，原理图，蓝图和复制粘贴系统。注意它缺少很多生存模式的元素，所以不要把它当作生存模式的“开挂模式”！</string>
+    <string name="Creative_Info">这是一个已有的“创造模式”世界，然而不幸的是信息不足故无法在这里向你展示。要不看个喵星人图片算了？</string>
 
     <string name="Mod_Management">Mod管理</string>
     <string name="Mod_Name">Mod名称</string>
@@ -73,7 +73,7 @@
 
     <string name="Default_Settings_Info">默认设置为超快速度和超低难度以便于新手玩家，如果你还想更快，可以在[日夜循环]中选择[永远白天]。你可以试试修改这些设置来提高游戏难度。
 注意：一旦世界创建完毕，难度设置就被锁定，无法变更！</string>
-    <string name="Previous_Visit">你曾经来过这个生存模式世界！</string>
+    <string name="Previous_Visit">你来过这个生存模式世界！</string>
     <string name="Play_time">游戏时间</string>
     <string name="Mod_Selected">选中的mod。</string>
     <string name="Mods_Selected">个Mod已选中。</string>
@@ -85,34 +85,34 @@
     <string name="Resources_Rapid_Info">速通资源模式是用来满足那些家里有孩子，上班族，或者想花一个周末把游戏打穿的玩家。该模式也适合在挑战更高难度之前对游戏进行快速上手。</string>
 
 
-    <string name="Conveyor_Slow_Info">慢速传送带模式是经过反复调优，用以凸现高科技传送系统优势的模式。该设置会大大降低你的游戏进程速度。</string>
-    <string name="Conveyor_Fast_Info">高速传送带模式意味着减少等待时间，传送速度是慢速传送带模式的两倍。</string>
+    <string name="Conveyor_Slow_Info">慢速传送带模式是更平衡的，用以凸现高科技传送系统优势的模式。该设置会大大降低你的发展速度。</string>
+    <string name="Conveyor_Fast_Info">高速传送带模式意味着更少的等待时间，传送速度是慢速传送带模式的两倍。</string>
 
-    <string name="Plentiful_Power_Info">高效发电模式会提升电厂输出，这可以极大提升早期的发展速度。</string>
-    <string name="Scarce_Power_Info">低效发电模式是一个经过平衡的发电模式。这会降低你早起的发展速度。</string>
+    <string name="Plentiful_Power_Info">高效发电模式会提升发电机输出，这可以极大提升早期的发展速度。</string>
+    <string name="Scarce_Power_Info">低效发电模式是一个经过平衡的发电模式。这会降低你的早期发展速度。</string>
 
     <string name="Eternal_Day_Info">永恒白天意味着太阳能电池可以一直工作，你也不用担心会在夜间冻死。该模式可以极大提升发展速度——太阳能发电效率400%！</string>
     <string name="Day_Night_Info">日夜交替时间为24分钟，在12分钟的夜晚里你需要避免体温过低，玩家视野会变短,同时野怪会变得更活跃。</string>
     <string name="Eternal_Night_Info">永远夜晚意味着将永远面临体温过低的威胁，也没有无机太阳能科技,这也包括你的中央能源枢纽(CPH)。这会是一场巨大的挑战。</string>
 
-    <string name="Death_Default_Info">这是默认的设置。低血，长途步行没有任何负面影响，死亡也没有任何惩罚。这使得游戏变得很轻松，因为不管死得多刺激都没有损失。</string>
-    <string name="Death_Clumsy_Info">如果你希望有点挑战的话，苦手模式可以给你一个不要作死的理由：死亡会损失仓库里的东西！</string>
+    <string name="Death_Default_Info">这是默认的设置。低血量，长途步行没有任何负面影响，死亡也没有任何惩罚。这使得游戏变得很轻松，因为不管死得多么带劲都没有损失。</string>
+    <string name="Death_Clumsy_Info">如果你希望有点挑战的话，苦手模式可以给你一个不作死的理由：死亡会损失物品栏里的东西！</string>
     <string name="Death_Ironman_Info">不适合新手！！
-有种！愚蠢但是有种！！铁人模式适合那些勇敢者，死亡会清空你的仓库！</string>
-    <string name="Death_SquishCore_Info">不推荐任何人玩此模式
-孤狼模式很简单: 你只有一条命</string>
-    <string name="Death_Hardcore_Info">不推荐任何人玩此模式
-极端模式是最难的模式。 你只有一条命，你的中央能源枢纽(CPH）也不会自动回血。</string>
+有种！铁人模式仅供无畏之人，死亡会清空你的全部库存！</string>
+    <string name="Death_SquishCore_Info">不推荐任何人选择该模式
+孤狼模式很简单: 你只有一条命，死了就是死了</string>
+    <string name="Death_Hardcore_Info">不推荐任何人选择该模式
+骨灰粉模式是最难的模式。 你只有一条命，你的中央能源枢纽(CPH）也不会自动回血。</string>
 
     <string name="Care_Package_Locked">开局大礼包功能需要先完成建造气候控制器才能解锁。</string>
     <string name="Care_Package_Disabled">开局大礼包功能已禁用。</string>
-    <string name="Care_Package_Enabled">开局大礼包功能已启用。 你会在新的世界的一开始就得到大量好装备，包括一把MK3建造枪，大型防护服电池，太阳能电池板和防护服加热器。 上吧，伙计。</string>
+    <string name="Care_Package_Enabled">开局大礼包功能已启用。 你会在新的世界的一开始就得到大量好装备，包括一把MK3建造枪，大号防护服电池，太阳能电池板及防护服加热器。 上吧，伙计。</string>
 
-    <string name="Flatland_Locked">平坦世界模式会在你杀死极寒浆液巢穴后开启。</string>
+    <string name="Flatland_Locked">平坦世界模式会在你杀死极寒浆液巢穴后解锁。</string>
     <string name="Flatland_Disabled">平坦世界模式已禁用。</string>
     <string name="Flatland_Enabled">平坦世界已启用。顾名思义,现在世界是平的！</string>
 
-    <string name="Needs_FF">需要冰冻工厂扩展包。</string>
+    <string name="Needs_FF">需要冰封工厂扩展包。</string>
 
     <string name="Clumsy">苦手</string>
     <string name="SquishCore">孤狼</string>
@@ -123,8 +123,8 @@
     <string name="Rushmode_Enabled">速通模式已启用。 这个模式挑战的是你重建一个轨道能量传输器并给在最短时间内给它充能完毕。本模式会给你10倍发电效率，5倍采矿和熔炼效率。还有野怪的刷新也变快了。。。</string>
 
     <string name="Trivial_Mobs_Info">低级野怪模式并不是推荐的模式。野怪仍然会生成，但是不会造成任何威胁，这会使降低不少游戏乐趣。你的基地威胁将减少，母巢和其他威胁性野怪刷新率降低</string>
-    <string name="Normal_Mobs_Info">普通野怪 - 原汁原味，不二之选！</string>
-    <string name="Hard_Mobs_Info">高级野怪 - 本选项将使你面对更加难打，更具攻击性的野怪。仅适合资深玩家！</string>
+    <string name="Normal_Mobs_Info">普通野怪 — 原汁原味，不二之选！</string>
+    <string name="Hard_Mobs_Info">高级野怪 — 本选项将使你面对更加难打，更具攻击性的野怪。仅适合资深玩家！</string>
 
     <string name="OrbitalPar">理论轨道充能时间</string>
     <string name="FFPar">理论冰冻工厂时间</string>
@@ -133,7 +133,7 @@
     <string name="Server_Name">服务器名</string>
     <string name="Server_Management">服务器管理</string>
     <string name="Game_Mode">游戏模式</string>
-    <string name="Dedicated">纯</string>
+    <string name="Dedicated">专用的</string>
     <string name="Players">玩家</string>
     <string name="Ping">脉冲扫描</string>
     <string name="Hide_Host_Address">隐藏主机地址</string>
@@ -151,13 +151,13 @@
     <string name="Iron Bars">铁锭</string>
     <string name="MK1 Power Booster">MK1 充电器</string>
     <string name="MK1 Power Boosters">MK1P</string>
-    <string name="MK2 Power Booster">MK2Power Boosters</string>
-    <string name="MK2 Power Boosters">MK2Power Boosters</string>
-    <string name="MK3 Power Booster">MK3P</string>
+    <string name="MK2 Power Booster">MK2 充电器</string>
+    <string name="MK2 Power Boosters">MK2 充电器</string>
+    <string name="MK3 Power Booster">MK3 充电器</string>
     <string name="MK3 Power Boosters">MK3Power Boosters</string>
-    <string name="MK4 Power Booster">MK4Power Boosters</string>
+    <string name="MK4 Power Booster">MK4 充电器</string>
     <string name="MK4 Power Boosters">MK4Power Boosters</string>
-    <string name="MK5 Power Booster">MK5Power Boosters</string>
+    <string name="MK5 Power Booster">MK5 充电器</string>
     <string name="MK5 Power Boosters">MK5Power Boosters</string>
     <string name="Copper Bar">铜锭</string>
     <string name="Copper Bars">铜锭</string>
@@ -866,7 +866,7 @@
     <string name="Green GlowPod_DESC">这种植物看来能够过滤毒气，也许往下找找能找到一些有用的东西？</string>
     <string name="Purple GlowPod">紫色发光荚</string>
     <string name="GlowShroom">荧光菇</string>
-    <string name="BaubleBerry">杂球莓</string>
+    <string name="BaubleBerry">杂球莓（BaubleBerry）</string>
     <string name="Cold Cavern Flora 1_DESC">这种植物看起来适合在寒冷地方生长。</string>
     <string name="Cold Cavern Flora 1">寒冷洞穴植物群落1</string>
     <string name="Cold Cavern Flora 2">寒冷洞穴植物群落2</string>
@@ -945,16 +945,16 @@
     <string name="Solar Panel_DESC">在白天发电。\\n对相邻电池充电.</string>
     <string name="CryoHopper_DESC">低温保存设备，需要电力。在低温环境下效率更好。</string>
     <string name="Ivy_DESC">" "</string>
-    <string name="DapperFrame">" "</string>
-    <string name="DapperScale">" "</string>
-    <string name="DapperWall">" "</string>
-    <string name="TestDiffuse">" "</string>
+    <string name="DapperFrame">Dapper框架</string>
+    <string name="DapperScale">DapperScale</string>
+    <string name="DapperWall">DapperWall</string>
+    <string name="TestDiffuse">散布测试</string>
     <string name="TriSeed">三仔果</string>
     <string name="UnderGrump">UnderGrump</string>
-    <string name="GoopyDangler">GoopyDangler</string>
-    <string name="CoxComb">CoxComb</string>
-    <string name="LeafyDangler">LeafyDangler</string>
-    <string name="MultiShade Brick">MultiShade Brick</string>
+    <string name="GoopyDangler">胶状半流体Dangler[暂译]（GoopyDangler）</string>
+    <string name="CoxComb">篦子（CoxComb）</string>
+    <string name="LeafyDangler">枝繁叶茂的Dangler[暂译]</string>
+    <string name="MultiShade Brick">多面遮光砖</string>
     <string name="MultiShade Brick_DESC">" "</string>
     <string name="Cement Garden Block">花园水泥砖</string>
     <string name="Cement Garden Block_DESC">" "</string>
@@ -982,15 +982,15 @@
     <string name="Space Warz Siding2_DESC">" "</string>
     <string name="Space Warz Siding3">星战船板3</string>
     <string name="Space Warz Siding3_DESC">" "</string>
-    <string name="Butcherboy Pebbles">Butcherboy Pebbles</string>
+    <string name="Butcherboy Pebbles">屠夫男孩小卵石</string>
     <string name="Butcherboy Pebbles_DESC">" "</string>
-    <string name="Butcherboy Stones">Butcherboy Stones</string>
+    <string name="Butcherboy Stones">屠夫男孩 石块</string>
     <string name="Butcherboy Stones_DESC">" "</string>
-    <string name="Butcherboy Stonewall">Butcherboy Stonewall</string>
+    <string name="Butcherboy Stonewall">屠夫男孩 石墙</string>
     <string name="Butcherboy Stonewall_DESC">" "</string>
-    <string name="Butcherboy Wood Planks">Butcherboy Wood Planks</string>
+    <string name="Butcherboy Wood Planks">屠夫男孩 木板</string>
     <string name="Butcherboy Wood Planks_DESC">" "</string>
-    <string name="Butcherboy Floor Stone">Butcherboy Floor Stone</string>
+    <string name="Butcherboy Floor Stone">屠夫男孩 地砖</string>
     <string name="Butcherboy Floor Stone_DESC">" "</string>
     <string name="Up Arrow">上箭头</string>
     <string name="Up Arrow_DESC">" "</string>
@@ -1175,7 +1175,7 @@
     <string name="Bulk Mass Storage Output Port_DESC">用来将资源运出大型存储箱。每次25个单位。</string>
     <string name="Mass Storage Controller">大型存储控制器</string>
     <string name="Mass Storage Controller_DESC">控制大型存储设备</string>
-    <string name="Macerator">碎石机</string>
+    <string name="Macerator">粉碎机</string>
     <string name="Macerator_DESC">将无用的石块粉碎以提炼矿物</string>
     <string name="ARTHER Charging Station">ARTHER充电站</string>
     <string name="ARTHER Charging Station_DESC">给ARTHER快速充电</string>
@@ -1278,15 +1278,15 @@
     <string name="Hardened Resin">硬化树脂</string>
     <string name="Hardened Resin_DESC">这个坚实有机外壳内包裹着一个柔软脆弱的核心。只有纳米切割器才能打开它。</string>
     <string name="MobSpawner">野怪生成器</string>
-    <string name="MobSpawner_DESC">很适合测试你的防卫系统。</string>
+    <string name="MobSpawner_DESC">很适合用来测试你的防御系统。</string>
     <string name="Insulated Copper Wire">绝缘铜线</string>
     <string name="Insulated Copper Wire_DESC">" "</string>
-    <string name="Track Gate">Track Gate</string>
-    <string name="Track Terminus">Track Terminus</string>
+    <string name="Track Gate">轨道闸门</string>
+    <string name="Track Terminus">轨道终点</string>
     <string name="Track Gate_DESC">" "</string>
     <string name="Track Terminus_DESC">" "</string>
-    <string name="Track Point">Track Point</string>
-    <string name="Track Station">Track Station</string>
+    <string name="Track Point">轨道 Point</string>
+    <string name="Track Station">轨道车站</string>
     <string name="Track Point_DESC">" "</string>
     <string name="Track Station_DESC">" "</string>
     <string name="Threat Agitator">威胁提升器</string>
@@ -1675,17 +1675,17 @@
     <string name="Bar Keeper_CRAFT_HINT">没时间偷懒！</string>
     <string name="H.E.I.S.T._CRAFT_HINT">没时间偷懒！</string>
     <string name="Garbage Thief_CRAFT_DESC">一种方便快地移除物品栏中的遗弃废物的方法。按照3x3布局放置，然后站在上边！需要一点点能量和相连的储物料斗。</string>
-    <string name="Bar Keeper_CRAFT_DESC">当玩家离开服务器时自动移除金属锭。对于单人模式意义不大，但是它同样可作为一个“金属锭小偷”！按 3x3 布局放置。</string>
+    <string name="Bar Keeper_CRAFT_DESC">当玩家离开服务器时自动移除金属锭。对于单人模式意义不大，它可作为一个“金属锭小偷”！按 3x3 放置。</string>
     <string name="Auto Organic Thief_CRAFT_DESC">移除不需要的有机部件的快捷方案。按3x3布局。然后站上去！需要一点点能量和相连的储物料斗。</string>
     <string name="Auto Organic Thief_CRAFT_HINT">没时间偷懒！</string>
     <string name="H.E.I.S.T._CRAFT_DESC">自动从相连的储物料斗中移除物品并发送给5m以内的玩家。</string>
-    <string name="Waypoint Machine_CRAFT_DESC">放置该物品并充能以自动生成一导航点（路径点）。放置相邻的标志来覆盖路径点的命名。</string>
+    <string name="Waypoint Machine_CRAFT_DESC">放置该物品并充能以自动生成一导航点。放置相邻的标志来覆盖路径点的命名。</string>
     <string name="Waypoint Machine_CRAFT_HINT">没时间偷懒！</string>
     <string name="MK4 Battery Component_CRAFT_DESC">可储存多达270000单位能量，必须以3x3x3的形态构造（共27块）。</string>
     <string name="MK4 Battery Component_CRAFT_HINT">T3电池能量密度的两倍！</string>
     <string name="Conduit_CRAFT_DESC">火力高达 10000 PPS，通过电池组均衡负载。切忌直视光束。</string>
     <string name="Conduit_CRAFT_HINT">别站在光束中间。</string>
-    <string name="MK5 Battery Component_CRAFT_DESC">储存高达450万单位能量，建造它必须 5x5 为底，9m高（共225块）。不会从相邻能量块中接收能量。</string>
+    <string name="MK5 Battery Component_CRAFT_DESC">储存高达450万单位能量，建造它必须以 5x5 为底，9m高（共225块）。不会从相邻能量块中接收能量。</string>
     <string name="MK5 Battery Component_CRAFT_HINT">四倍于T3电池的能量密度！</string>
     <string name="Organic Power Storage_CRAFT_DESC">通过存储高达8,500的功率单位的能量，作为发电机和能源消费者之间的缓冲区。相邻的电力存储块将共享电力。</string>
     <string name="Organic Power Storage_CRAFT_HINT">底吞吐，大容量。</string>
@@ -1702,11 +1702,11 @@
     <string name="Torch_CRAFT_HINT">警告：火很热噢！</string>
     <string name="Electric Light_CRAFT_DESC">提供冷蓝光，需要能量供应。</string>
     <string name="Electric Light_CRAFT_HINT">该投掷物靠180度的电弧发光。</string>
-    <string name="Emergency Siren_CRAFT_DESC">请连接到任何断电的有报警音的用电器。</string>
+    <string name="Emergency Siren_CRAFT_DESC">连接到任何有断电报警音的用电器。</string>
     <string name="Emergency Siren_CRAFT_HINT">它们同样可用于传送带和储料斗。</string>
     <string name="Red Warning Light_CRAFT_DESC">连接到任何泛着红光的用电设备。</string>
     <string name="Red Warning Light_CRAFT_HINT">别放太多。会很烦人的。</string>
-    <string name="Warning Strobe_CRAFT_DESC">请连接到任何断电频闪报警的用电器。</string>
+    <string name="Warning Strobe_CRAFT_DESC">请连接到任何断电导致频闪报警的用电器。</string>
     <string name="Warning Strobe_CRAFT_HINT">别放太多。会很烦人的。</string>
     <string name="Orange Warning Light_CRAFT_DESC">请连接到任何断电频闪报警的用电器。</string>
     <string name="Orange Warning Light_CRAFT_HINT">别放太多。会很烦人的。</string>
@@ -1812,9 +1812,9 @@
 	
     <string name="FALCOR Beacon_CRAFT_DESC">标记方圆32m区域来让 FALCOR们自动收集（掉落物）。需要能量。</string>
     <string name="FALCOR MK1_CRAFT_DESC">256m范围内自动收集FALCOR 信标标记过的区域内的物品。需要相连的物料斗。</string>
-    <string name="Logistics FALCOR_CRAFT_DESC">自动依照安装在物料斗上的FALCOR信标收集物品。</string>
+    <string name="Logistics FALCOR_CRAFT_DESC">自动按照物料斗上方的FALCOR信标收集物品。</string>
     <string name="Logistics FALCOR_CRAFT_HINT">适合低通量，长途物流。</string>
-    <string name="FALCOR Bomber_CRAFT_DESC">自动将冷冻炸弹（CryoBombs）提供给远程低温等离子体（CryoPlasm）。</string>
+    <string name="FALCOR Bomber_CRAFT_DESC">自动将冷冻炸弹（CryoBombs）发送至远处的极寒浆液（CryoPlasm）。</string>
     <string name="FALCOR Bomber_CRAFT_HINT">炸弹们需要放在相连的储物斗中。</string>
     <string name="Cryo Bomb Assembler_CRAFT_DESC">自动化生产冷冻炸弹（CryoBombs）。</string>
     <string name="Cryo Bomb Assembler_CRAFT_HINT">炸弹们需要放在相连的储物斗中。</string>
@@ -1847,12 +1847,12 @@
     <string name="Cluster Missile Crafter_CRAFT_HINT">导弹发射准备完毕！</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">导弹发射准备完毕！</string>
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">导弹发射准备完毕！</string>
-    <string name="Threat Scanner_CRAFT_HINT">并联使用来使得危险来源三角化（Use multiples to triangualate the source of danger.）。</string>
-    <string name="Server Monitor_CRAFT_HINT">~Sorry about your 4th wall.</string>
+    <string name="Threat Scanner_CRAFT_HINT">并联使用来使得危险源按三角函数变化（Use multiples to triangualate the source of danger.）。</string>
+    <string name="Server Monitor_CRAFT_HINT">Sorry about your 4th wall~.</string>
     <string name="FALCOR Beacon_CRAFT_HINT">理想的黄蜂坠落地！</string>
     <string name="FALCOR MK1_CRAFT_HINT">理想的黄蜂坠落地！</string>
     <string name="Cluster Missile Crafter_CRAFT_DESC">将一个单独的充满导弹转换为8个高射速的导弹，每个伤害为原始伤害的1/4，总体伤害量为先前两倍。</string>
-    <string name="Mephitic Missile Assembler_CRAFT_DESC">将充能好的导弹随着时间增加50%伤害。</string>
+    <string name="Mephitic Missile Assembler_CRAFT_DESC">取充能好的导弹并随时间增加50%伤害。</string>
     <string name="CryoChilled Missile Assembler_CRAFT_DESC">为导弹添加大范围减速效果。</string>
     <string name="SpiderBot Core Charger_CRAFT_DESC">为锂线圈充满能量。通过一个储物斗给蜘蛛机器人升级和充电坞送入。</string>
     <string name="SpiderBot Core Charger_CRAFT_HINT">蜘蛛机器人（SpiderBot）需要能量来保卫你的基地。</string>
@@ -1953,17 +1953,17 @@
     <string name="ARTHER Goblin Mask_CRAFT_HINT">Dooo-OOOOO-oooot!</string>
     <string name="ARTHER Santa Mask_CRAFT_DESC">他知道你一直很淘气，但是，你买了Dapper DLC，因此毫无疑问你很棒棒哦！。</string>
     <string name="ARTHER Santa Mask_CRAFT_HINT">现在我也是有机枪的人了。吼.吼.吼.红红火火恍恍惚惚。</string>
-    <string name="ARTHER Ghost Costume_CRAFT_DESC">诅咒（DOOM）的外衣下潜伏着什么恐怖的东西？？？</string>
+    <string name="ARTHER Ghost Costume_CRAFT_DESC">厄运的外衣下隐藏着什么恐怖的东西[暂译]？？？</string>
     <string name="ARTHER Ghost Costume_CRAFT_HINT">答：是ARTHER。</string>
     <string name="ARTHER Turret_CRAFT_DESC">防御型炮塔只能在配备ARTHER时操作。高范围（64m）低功率要求。早期传送带防护的理想选择！</string>
     <string name="ARTHER Turret_CRAFT_HINT">这是个覆盖128m传送带的理想设备。暗示 暗示。</string>
-    <string name="CryoPlasm Lancer_CRAFT_DESC">允许在很短的范围内清除低温等离子体。非常便于把迷失的根须控制在堤防之中（Useful for keeping stray tendrils at bay）.</string>
+    <string name="CryoPlasm Lancer_CRAFT_DESC">允许在很短的范围内清除极寒浆液。非常便于把迷路的根须控制在堤防之中[暂译]（Useful for keeping stray tendrils at bay）.</string>
     <string name="CryoPlasm Lancer_CRAFT_HINT">这是个基础炮塔；通过和更先进的武器库关联来使用它。</string>
-    <string name="CryoPlasm Melter_CRAFT_DESC">允许将低温等离子体在中等范围内快速熔化成流体形式。可用于将低温等离子体引导到killbox中。</string>
+    <string name="CryoPlasm Melter_CRAFT_DESC">允许将极寒浆液在中等范围内快速熔化成流体形式。可用于将极寒浆液引导到killbox中。</string>
     <string name="CryoPlasm Melter_CRAFT_HINT">与Dazzler炮塔配对时非常出色。</string>
-    <string name="CryoMine_CRAFT_DESC">自动引爆氯矿允许您清除该区域的低温等离子体。</string>
+    <string name="CryoMine_CRAFT_DESC">自动引爆氯矿允许您清除该区域的极寒浆液。</string>
     <string name="CryoMine_CRAFT_HINT">一、口、都、别、吸、进、来，Ok？</string>
-    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">允许在很远的范围内清除低温等离子体。有助于减少中央部分受到的攻击。</string>
+    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">允许在很远的范围内清除极寒浆液。有助于减少中央部分受到的攻击。</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">造一个 3x3x3 的布局。</string>
     <string name="Basic Drill Motor_CRAFT_DESC">插入矿物分离器，使收集速度变为200％，代价是用电量增加。</string>
     <string name="Basic Drill Motor_CRAFT_HINT">使收集速度变为200％，代价是用掉多得多的电能！</string>
@@ -2003,7 +2003,7 @@
     <string name="Servo Motor_CRAFT_HINT">最小扭矩。</string>
     <string name="Lightweight Machine Housing_CRAFT_DESC">一个小金属盒，用于轻型物体。</string>
     <string name="Lightweight Machine Housing_CRAFT_HINT">不用于重型机器！</string>
-    <string name="Alloyed Machine Block_CRAFT_DESC">一种制造方块的低效方式。自动化可以比手动制作更具效率。Hint hint.</string>
+    <string name="Alloyed Machine Block_CRAFT_DESC">一种低效的制造方块的方式。自动化可以比手动制作更具效率。提升一下。</string>
     <string name="Alloyed Machine Block_CRAFT_HINT">这些材料都被广泛应用，强烈推荐自动化生产这些东西！</string>
     <string name="Hardened Machine Block_CRAFT_DESC">一种制造方块的低效方式。自动化可以比手动制作更具效率。Hint hint.</string>
     <string name="Hardened Machine Block_CRAFT_HINT">这些材料都被广泛应用，强烈推荐自动化生产这些东西！</string>
@@ -2031,7 +2031,7 @@
     <string name="Mass Storage Controller_CRAFT_HINT">无限制存储。使用I/O端口访问内容！</string>
     <string name="Mass Storage I/O Port_CRAFT_DESC">由海量存储控制器供能。</string>
     <string name="Mass Storage I/O Port_CRAFT_HINT">无限制存储。使用I/O端口访问内容！</string>
-    <string name="Macerator_CRAFT_DESC">碎石机（Macerator）粉碎并处理不需要的岩石。 小概率产生矿石。 需要电力和存储料斗来存放找到的任何矿石。</string>
+    <string name="Macerator_CRAFT_DESC">粉碎机（Macerator）粉碎并处理不需要的岩石。 小概率产生矿石。 需要电力和存储料斗来存放找到的任何矿石。</string>
     <string name="Macerator_CRAFT_HINT">有小概率产出矿石。</string>
     <string name="Auto Excavator_CRAFT_DESC">自动挖掘一个竖井。只能向上挖。需要供能。</string>
     <string name="Auto Excavator_CRAFT_HINT">不影响矿石（不会挖掉矿）。</string>
@@ -2049,9 +2049,9 @@
     <string name="Manufacturing Plant_CRAFT_HINT">需要V2 建造枪来搬运！</string>
     <string name="Location Marker_CRAFT_DESC">存储一个位置。在需要目标的机器中使用，如传送器。有关详细信息，请参阅手册。</string>
     <string name="Location Marker_CRAFT_HINT">选择快捷栏上的标记将显示其存储的位置</string>
-    <string name="Teleporter_CRAFT_DESC">提供位置标记和足够的电力来实现传送。跳掉上面以激活。</string>
+    <string name="Teleporter_CRAFT_DESC">提供位置标记和足够的电力来实现传送。跳跃（空格）以激活。</string>
     <string name="Teleporter_CRAFT_HINT">跳到设备上以激活！</string>
-    <string name="Chargeable Explosive_CRAFT_DESC">供电以增加爆炸半径。捡起后保持充能。安全起见我们强烈建议你避免在任何重要的事物旁充电。</string>
+    <string name="Chargeable Explosive_CRAFT_DESC">充能以增加爆炸半径。捡起后保持充能。安全起见我们强烈建议你避免在任何重要地段为之充能。</string>
     <string name="Chargeable Explosive_CRAFT_HINT">用前须充电！</string>
     <string name="NanoDisintegrator_CRAFT_DESC">一次性使用机器，能够摧毁任何放置它的东西。使用时请保持极度谨慎。</string>
     <string name="NanoDisintegrator_CRAFT_HINT">使用时请保持极度谨慎。</string>
@@ -2059,7 +2059,7 @@
     <string name="Blank Ore Ping_CRAFT_HINT">关联手工制作（C）菜单中的一种矿石以创建特定的矿石扫描。</string>
     <string name="Coal Ping_CRAFT_DESC">一种消耗品，执行一次只能显示煤矿的矿石扫描，无需电力成本。</string>
     <string name="Coal Ping_CRAFT_HINT">"   "</string>
-    <string name="Laser Resin Ablator_CRAFT_HINT">非常适合清除死掉的蜂巢核心以获取有用材料。</string>
+    <string name="Laser Resin Ablator_CRAFT_HINT">非常适合清除死掉的虫巢核心以获取有用材料。</string>
     <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Dooo-OOOOO-oooot!</string>
     <string name="Empty Fuel Canister_CRAFT_DESC">空燃料罐。要环保——尽可能地回收！</string>
     <string name="Empty Fuel Canister_CRAFT_HINT">要环保——使用后回收！</string>
@@ -2226,9 +2226,9 @@
     <string name="CryoHopper_CRAFT_HINT">如果放置在寒冷的地方，则需要更少的能耗。</string>
     <string name="Organic Reassembler_CRAFT_DESC">将10份破坏的有机零件送入这里并接收单个重组有机组分。</string>
     <string name="Organic Reassembler_CRAFT_HINT">重组有机组分可用于自行制造原始有机成分。</string>
-    <string name="Coal Enricher_CRAFT_DESC">使用黄蜂和史莱姆的腺体转换一个浸渍器（Macerator），使燃煤的能量产出增加一倍。一旦建成，就不需要额外资源只给它一点点能量！</string>
+    <string name="Coal Enricher_CRAFT_DESC">使用黄蜂和史莱姆的腺体转换一个粉碎机（Macerator），使燃煤的能量产出增加一倍。一旦建成，就不需要额外资源只给它一点点能量！</string>
     <string name="Coal Enricher_CRAFT_HINT">提供几乎2倍的煤燃烧产出。</string>
-    <string name="Crystal Coal Infuser_CRAFT_DESC">使用水晶时钟转换浸渍器（Macerator），以进一步用水晶矿床增强浓缩煤，使能量输出再次翻倍。</string>
+    <string name="Crystal Coal Infuser_CRAFT_DESC">使用水晶钟来转换粉碎机，以进一步用水晶矿增强富氧煤，使能量输出再次翻倍。</string>
     <string name="Crystal Coal Infuser_CRAFT_HINT">带来接近4倍的煤炭燃烧产出。</string>
     <string name="Plasma Head Charger_CRAFT_DESC">使用大量的电力，来使标准钢切割头充满等离子体能量。</string>
     <string name="Plasma Head Charger_CRAFT_HINT">在矿物分离器上提供四倍的速度，但是在采集2000单位矿石后，充能效果消失。</string>
@@ -2281,7 +2281,7 @@
     <string name="MagmaBore Component_CRAFT_HINT">岩浆 - 比它听起来得要好。</string>
     <string name="Magma Storage_CRAFT_DESC">通过流体管道存储岩浆并将其泵送到低温蒸馏器。 按照3x7x3配置建造。</string>
     <string name="Magma Storage_CRAFT_HINT">岩浆 - 比它听起来得要好。</string>
-    <string name="Cryo Inferno_CRAFT_DESC">使用泵送的岩浆来烧毁范围内的CryoPlasm产卵者。 按照3x3x3配置建造。</string>
+    <string name="Cryo Inferno_CRAFT_DESC">使用泵送的岩浆来烧毁范围内的极寒浆液巢穴。 按照3x3x3配置建造。</string>
     <string name="Cryo Inferno_CRAFT_HINT">炼狱需要15分钟的燃烧时间，最长中断时间为30秒。 祝你好运。</string>
     <string name="Freezon Injector_CRAFT_DESC">连接到一个储存料斗，将压缩冻土（Compressed Freezon）注入兼容的机器。</string>
     <string name="Freezon Injector_CRAFT_HINT">在手册中查找兼容机器和相应效果的列表。</string>
@@ -2289,14 +2289,14 @@
     <string name="Laser Borer_CRAFT_HINT">警告！危险！ 确保其将燃料供给之前正确地放置。</string>
     <string name="MK1 PowerCore Charger_CRAFT_DESC">制造能够自动制作单次使用的电力助力器（Power Boosters）的机器。 电力助力器会给阿瑟（ARTHER ）动力。 请将该制作项目放到你的快捷栏里来使用它。</string>
     <string name="MK1 PowerCore Charger_CRAFT_HINT">请记住，Power Boosters把能量注入助力器！</string>
-    <string name="MK2 PowerCore Charger_CRAFT_DESC">自动制作一次性电动助力器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
+    <string name="MK2 PowerCore Charger_CRAFT_DESC">自动制作一次性充电器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
     <string name="MK2 PowerCore Charger_CRAFT_HINT">请记住，P把能量注入助力器！</string>
-    <string name="MK3 PowerCore Charger_CRAFT_DESC">自动制作一次性电动助力器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
+    <string name="MK3 PowerCore Charger_CRAFT_DESC">自动制作一次性充电器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
     <string name="MK3 PowerCore Charger_CRAFT_HINT">请记住，Power Boosters把能量注入助力器！</string>
-    <string name="MK4 PowerCore Charger_CRAFT_DESC">自动制作一次性电动助力器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
+    <string name="MK4 PowerCore Charger_CRAFT_DESC">自动制作一次性充电器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
     <string name="MK4 PowerCore Charger_CRAFT_HINT">请记住，Power Boosters把能量注入助力器！</string>
     <string name="MK5 PowerCore Charger_CRAFT_HINT">请记住，Power Boosters把能量注入助力器！</string>
-    <string name="MK5 PowerCore Charger_CRAFT_DESC">自动制作一次性电动助力器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
+    <string name="MK5 PowerCore Charger_CRAFT_DESC">自动制作一次性充电器。 Power Boosters将给予ARTHUR动力。 把物品放到快捷栏来使用。</string>
     <string name="Crystal Clock Maker_CRAFT_DESC">制作钟表，由水晶制成</string>
     <string name="Crystal Clock Maker_CRAFT_HINT">有用的制造部件。</string>
     <string name="OverClocker_CRAFT_DESC">将现有的水晶钟超频到更高的频率，使用大量的电源来实现。</string>
@@ -2381,7 +2381,7 @@
     <string name="Intermediate Experimental Pod_CRAFT_HINT">" "</string>
     <string name="Complex Experimental Pod_CRAFT_DESC">锂板和带电PCB组装成复杂实验舱用于研究项目。</string>
     <string name="Complex Experimental Pod_CRAFT_HINT">" "</string>
-    <string name="Advanced Experimental Pod_CRAFT_DESC">Gold plates and Conductive PCBs are assembled into Advanced Experimental Pods for use in research projects.</string>
+    <string name="Advanced Experimental Pod_CRAFT_DESC">金板和导电PCB组装成高级实验舱用于项目研究。</string>
     <string name="Advanced Experimental Pod_CRAFT_HINT">" "</string>
     <string name="XL Experimental Pod_CRAFT_DESC">镍板和强化PCB组装成XL实验舱用于研究项目。</string>
     <string name="XL Experimental Pod_CRAFT_HINT">" "</string>
@@ -2469,7 +2469,7 @@
     <string name="MISSION_Place Tutorial Storage Hopper">放置教程的储物料斗</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">将渣斗料斗放在矿石熔炼炉旁边。</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">把熔炼炉（边上的一个）料斗设置为仅添加（Add-Only）。</string>
-    <string name="MISSION_Set Smelter Hopper to Remove-Only">把熔炼炉（边上的另一个）料斗设置为仅移除（ Remove-Only）。</string>
+    <string name="MISSION_Set Smelter Hopper to Remove-Only">把熔炼炉（边上的另一个）料斗设置为仅移除（ Remove-Only）</string>
     <string name="MISSION_Minecart derailed">矿车脱轨啦！</string>
     <string name="MISSION_Place Ore Extractor on Copper Ore">将矿物分离器放在铜矿上。</string>
     <string name="MISSION_Find Copper Ore with Ping Unknown">用未知物品扫描（Ping Unknown）来寻找铜矿。</string>
@@ -2503,7 +2503,7 @@
     <string name="MISSION_Watch the Video Tutorials (H)">观看视频教程（H）</string>
     <string name="MISSION_Use Left-Ctrl to Superbuild">按 Left-Ctrl 来超级建造！，</string>
     <string name="MISSION_Orbital debris impact detected">检测到轨道碎片撞击(真不去？那就算了吧)！</string>
-    <string name="MISSION_Critical Research Suit Upgrades">关键研究：防护服升级</string>
+    <string name="MISSION_Critical Research Suit Upgrades">关键研究：防护服升级。</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">将MK1太阳能电池安装到您的防护服上。</string>
     <string name="MISSION_Critical Research Mining Upgrades">关键研究：采矿升级。</string>
     <string name="MISSION_Place your Forced Induction Kit">放置您的增压进气系统（Forced Induction Kit）。</string>
@@ -2548,7 +2548,7 @@
     <string name="MISSION_Build FALCOR Beacons">建造FALCOR 信标！</string>
     <string name="MISSION_Build FALCORs">来几架FALCOR！</string>
     <string name="MISSION_Improve FALCOR Network">升级FALCOR 网络！</string>
-    <string name="MISSION_Critical Research Hydrocarbons">关键研究：碳氢化合物</string>
+    <string name="MISSION_Critical Research Hydrocarbons">关键研究：碳氢化合物。</string>
     <string name="MISSION_Build Refinery">造精炼厂。</string>
     <string name="MISSION_Build a Jet Turbine">建造喷气涡轮机。</string>
     <string name="MISSION_Build Orbital Energy Transmitter">建立轨道能量传送器！</string>
@@ -2557,7 +2557,7 @@
     <string name="MISSION_Overminds left to destroy">还剩个异形主宰（脑虫/主宰/Overminds），干掉它！</string>
     <string name="MISSION_Locate Chromium">定位：铬。</string>
     <string name="MISSION_Locate Molybdenum">定位：钼。</string>
-    <string name="MISSION_Terraform the Cold Cavern">把严寒洞窟（Cold Cavern）地球化（以适合人类居住）</string>
+    <string name="MISSION_Terraform the Cold Cavern">把严寒洞窟（Cold Cavern）地球化（以适合人类居住）。</string>
     <string name="MISSION_Reminder">提醒</string>
     <string name="MISSION_Rush Mode">急速Rush模式</string>
 
@@ -2594,17 +2594,17 @@
     <string name="ARTHER_AmbienceDisabled">Ambience已禁用</string>
     <string name="ARTHER_AmbienceEnabled">Ambience已启用</string>
     <string name="ARTHER_AttackDetected">发现地表攻击！</string>
-    <string name="ARTHER_AutomateGold">. 我们至少要下到-300m的深度然后将金矿的开采自动化。</string>
+    <string name="ARTHER_AutomateGold">. 我们至少要下到-300m的深度然后将金矿的开采自动化。&amp;#34;</string>
     <string name="ARTHER_AutomateIron">. 我们至少要下到-65m的深度然后将铁矿的开采自动化。&amp;#34;</string>
     <string name="ARTHER_AutomateLithium">. 我们至少要下到-120m的深度然后将锂矿的开采自动化</string>
     <string name="ARTHER_AutomateNickel">. 我们至少要下到-400m的深度然后将金矿的开采自动化&amp;#34;</string>
     <string name="ARTHER_AutomateTitanium">. 我们至少要下到-350m的深度然后将钛矿的开采自动化&amp;#34;</string>
     <string name="ARTHER_Boot">&amp;#34;A.R.T.H.E.R.版本号 1.337f 现已上线。</string>
     <string name="ARTHER_BuildPTG">你应该造一个热能发电机PTG！</string>
-    <string name="ARTHER_ChargingSolar">ARTHER 通过太阳能充电</string>
+    <string name="ARTHER_ChargingSolar">ARTHER 通过太阳能充电...</string>
     <string name="ARTHER_Close">ARTHER 离得近！按TAB键来让他回去！</string>
     <string name="ARTHER_Days">" 天"</string>
-    <string name="ARTHER_Docked">停靠并充能</string>
+    <string name="ARTHER_Docked">停靠并充能...</string>
     <string name="ARTHER_Extractor_Issue">矿物采掘器出问题了！</string>
     <string name="ARTHER_Far">远离。按TAB把ARTHER召唤回来！</string>
     <string name="ARTHER_FightLose">CPH受损！自动修理已激活...</string>
