@@ -1,2 +1,1788 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.AI_Mover_Control.00.Title">AI移动控制</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">该机器人将每次从附近的储料器搬运一单位资源到另一个，遵照本地的储料器添加/移除权限。</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER 电池核心</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">允许ARTHER容纳8倍，当您电量底时他可以传输给您的电量。尽快造好这个！只需一份，放入物品栏以生效。</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHER 充电站</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">从你基地的能量网络为ARTHER 急速充能。与ARTHER 电池升级配合食用效果更佳。</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">产品规格</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">ARTHER 充电速率：
+ 充电站电能容量：
+ 充电站充能速率：</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25/s
+1500
+10/s</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER 礼帽</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">让ARTHER 看起来短小精悍, 衣冠楚楚，干爽无比！只有你拥有了Dapper Indie Supporter DLC。只需一份，放入物品栏以生效。</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">改善ARTHER视力！只有你有Dapper Indie Supporter DLC才有效。只需一份，放入物品栏以生效。</string>
+<string name="MA.Zipper_Merge.01.Paragraph">拉链合并器完美地合并了两条传送带，比例为1：1。 拉链合并能够每分钟输出100个单位。 拉链合并对于自动化生产需要两种物品（如低等级钢合金）的项目最为有效。</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER独眼镜片</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Dapper 包</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Dapper完全体！ 通过将所有以前的Dapper升级组合到一个项目中，可以使您的库存节省空间。 必须将其放入物品栏以应用升级。</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Dapper升级包</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">完全升级—— Dapper完全体！使用它来节省库存中的空间。只需要一份，并且必须放入物品栏以生效。</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER 能量核心</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">修复ARTHUR的伤害，使他能够可靠地移动。只需要一份，并且必须放入物品栏以生效。</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER 太阳能板</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">提高ARTHUR从阳光发电的速度。 只需要一份，并且必须放入物品栏以生效。</string>
+<string name="MA.ARTHER_Turret.00.Title">ARTHER 炮塔</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">一个长距高效炮塔，缺点是它必须由ARTHER操作。 要使用它，高亮显示炮塔并按下交互键（默认为\'E\'）将ARTHER停靠在炮塔上。</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">炮塔可以采用外部供电，也可以使用ARTHER的能量储备。 如果炮塔外部供电，ARTHER将供能充足，无限期地运行。 如果ARTHER断电，他将会停用炮塔并返回用户。</string>
+<string name="MA.ARTHER_Turret.03.Header">产品规格</string>
+<string name="MA.ARTHER_Turret.04.Left">范围：
+  伤害（每次射击）：
+  电源要求（每次拍摄）：
+  最大功率容量：
+  装填时间：
+  成员：</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+ 33
+ 5
+ 150
+ 10秒
+ 1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER 升级包</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">结合了太阳能电池板、电源核心和电池的效果。 用来节约库存。 只需要一份，并且必须放入物品栏以生效。</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">高级实验舱</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">高级实验舱用于实验室进行实验和完成研究项目，这些pod由黄金制造。 有关实验室研究的更多信息，请参阅以下指南。</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请参阅以下指南。</string>
+<string name="MA.Advanced_machine_block.00.Title">高级机床</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">先进机械的主要建筑方块。</string>
+<string name="MA.Advanced_machine_block.02.Header">这些方块是某些特定多方块机器的主要组件。</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">反物质钻头电机</string>
+<string name="MA.Antimatter_Drill_Motor.01.Paragraph">以增加能耗为代价提高采矿设备的速度。</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">产品规格</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">提取速度：</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">自动建造设备</string>
+<string name="MA.Auto_Builder.01.Paragraph">能够在任何主要方向上建造一般传送带，只要有待建的传送带。</string>
+<string name="MA.Auto_Builder.02.Header">技巧与窍门！</string>
+<string name="MA.Auto_Builder.03.Paragraph">- 这台机器需要相当多的能量来全速工作！</string>
+<string name="MA.Auto_Builder.04.Paragraph">- 需要一个料斗来给传送带方块喂料。</string>
+<string name="MA.Auto_Builder.05.Paragraph">- 不要使用任何其他块！ 不能放任何其他块！</string>
+<string name="MA.Auto_Builder.06.Header">警告！</string>
+<string name="MA.Auto_Builder.07.Paragraph">- 配有运输管道的料斗将建造一般传送带，而不是运输管道！</string>
+<string name="MA.Auto_Excavator.00.Title">自动挖掘机</string>
+<string name="MA.Auto_Excavator.01.Paragraph">自动挖掘机是从下向上挖掘大型垂直竖井的机器，挖掉的材料将落到地面， 对矿脉无效。</string>
+<string name="MA.Auto_Excavator.02.Header">用法</string>
+<string name="MA.Auto_Excavator.03.Paragraph">挖一个小隧道前往你要建立竖井的地方然后放置该设备。用激光输电器或其他能量源给它供应能量。</string>
+<string name="MA.Auto_Excavator.04.Header">产品规格</string>
+<string name="MA.Auto_Excavator.05.Left">竖井尺寸：
+最大竖井高度：
+能量需求：
+能量容量：
+最大充电速率：
+最大挖掘速率：</string>
+<string name="MA.Auto_Excavator.06.Right">3m x 3m
+ 512m
+ 20/1m
+ 160
+ 无
+ 40 块/秒</string>
+<string name="MA.BFL-9000.00.Title">BFL-9000</string>
+<string name="MA.BFL-9000.01.Paragraph">这个大规模水平隧道钻孔激光将开凿出一个5×5米的隧道。 需要大量的电力来运作。 不会返回任何有用资源。</string>
+<string name="MA.BFL-9000.02.Header">产品规格</string>
+<string name="MA.BFL-9000.03.Left">隧道尺寸：
+  最大隧道长度：
+  需要电力：
+  电力容量：
+  最大充电速率：
+  最大挖掘速率：</string>
+<string name="MA.BFL-9000.04.Right">5m x 5m
+ 无限制
+ 1280/米
+ 2560
+ 2560/秒
+ 0.2 米/秒</string>
+<string name="MA.Bar_Keeper.01.Paragraph">赛博坦金属锭收取系统（Cyberdyne Bar Repossession System）是一款用于从玩家随身库存中取出金属锭的机器。 该机器旨在防止玩家注销时意外”窃取“资源。 与其前身（ ore and Garbage thief ）不同，放置在走廊中将会阻碍而不是帮助玩家。 当在服务器上游戏时，该机器应该放置在所有玩家可访问的中央位置，以明显的方式标记，以免被无意中激活。
+
+  简单地建立一个3x3架构的全新的金属锭收取系统（tm），并为每个金属锭提供5单位能量，然后只需站在它上面，让它帮你您干这繁重的工作！</string>
+<string name="MA.Bar_Keeper.00.Title">赛博坦金属锭收取系统</string>
+<string name="MA.Bar_Keeper.02.Header">产品规格</string>
+<string name="MA.Bar_Keeper.03.Left">"金属锭采集速度：
+  内部存储：
+  能量使用：
+ "</string>
+<string name="MA.Bar_Keeper.04.Right">"高达 3,300条/分钟!
+ 100 条金属锭!
+ 仅仅 5 /条 !
+ "</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">基础传送带</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">传送带是一种相对便宜且易于移动资源的方式。 您第一次使用他们的可能是将材料从装有矿石或煤矿的储存料斗移动到连接到熔炼炉或发电机的物料斗，如CPH或热能发电机。</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">用法</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">输送带将自动从任何储存料斗中获取资源若其指向料斗以外，并将其沿其前进方向移动，并将其放入在其前方的任何传送带或储存料斗上，前提是有可用空间。 您可以通过旋转传送带或将其放置在墙壁上以纵向移动资源来改变传送带的方向。 存储料斗只需要与生产线末端的相邻机器进行交互。</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">限制</string>
+<string name="MA.Basic_Conveyor_Belt.05.Paragraph">传送带价格便宜，不需要外部电源，但它们确实有许多缺点。 他们容易受到极端寒冷/有毒环境的影响，开放式设计使它们特别容易受到攻击。 应研究其他运输方式。</string>
+<string name="MA.Basic_Conveyor_Belt.06.Paragraph">基础传送带比普通的传送带便宜，但是速度更慢。 用于早期自动化或不需要高吞吐量的应用场景。</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"使用传送带分拣器可以更精确地控制资源分配。 这种筛选器用于控制从传送带网络中的料斗排出的材料。 您可以设置一个筛选器来移除垃圾，矿石，有机体（ORGANIC），宝石，煤，生物质（BIOMASS），可融物，可燃物，制作的物品（CRAFTED ITEMS），水晶或金属锭。 "</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">筛选</string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">产品参数</string>
+<string name="MA.Basic_Conveyor_Belt.10.Left">最大运输速率（快）：
+最大运输速率（慢）：
+需要电力：
+最大范围：</string>
+<string name="MA.Basic_Conveyor_Belt.11.Right">"18 /分钟
+ 9  /分钟
+ 无
+ 1m"</string>
+<string name="MA.Basic_Drill_Motor.00.Title">基础钻头电机</string>
+<string name="MA.Basic_Drill_Motor.01.Paragraph">以增加使用功率为代价提高矿物分离器每分钟开采矿石的速率。</string>
+<string name="MA.Basic_Drill_Motor.02.Header">产品参数</string>
+<string name="MA.Basic_Drill_Motor.03.Left">开采速率：</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">基础实验舱</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">基本实验舱用于实验室进行实验与完成研究项目，这些容器由铜制成。 有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.00.Title">基本款激光输电器（Basic Laser Energy Transmitter）</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.01.Paragraph">作为最便宜和最基本的电力传输设备，此发射机不适合任何任务，除非它是唯一选项。</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">基础激光输电器只够支持两台未升级的矿物分离器运行。由于其传输速度非常低，一旦条件允许，建议升级到更先进的传输方式。</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.03.Paragraph">要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">产品规格</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.05.Left">能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.06.Right">0.9
+ 1.0 组/秒
+ 0.9 /秒
+ 18
+ 32m</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">基本款大容量存储存货端口</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">"大容量存储的存入端口使得物品可控地存入大量存储设备以防止存储区溢出。 
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.02.Left">"端口库存：
+无人机库存：
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.03.Right">"25
+  5
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">"大容量存储端口必须挨着大容量储存箱。 按E打开用于配置库存物品和库存限制的界面。 该端口将仅添加符合特定限制的库存物品。 如果是一个标准端口，其余物品总会被添加进来。
+ 
+  调整储存限制时按住Ctrl键，Shift键或Alt键可以分别以10,100或1000的增量调整限制。
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.05.Paragraph">"
+ 您可以右键单击空插槽以按名称搜索项目或按按钮选择以轻松设置库存项目。 多方块组件是特殊的，因此它们将无法被一般搜索得到，搜索 multi, placement, or component来获取这些方块的列表。
+ 
+  端口的内部库存可以使用接口中的标签按钮进行锁定，以防止端口在已达到库存限制的情况下收集物品。 此功能旨在限制高价值物品的积压。
+ "</string>
+<string name="MA.Basic_Missile_Assembler.00.Title">基础导弹装配机</string>
+<string name="MA.Basic_Missile_Assembler.01.Paragraph">基础导弹装配机 是一款用于自动生产基本导弹的制造机。</string>
+<string name="MA.Basic_Missile_Assembler.02.Header">用法</string>
+<string name="MA.Basic_Missile_Assembler.03.Paragraph">与所有独立生产机器一样，您应该为每个成分附加一个储存料斗，标记为“仅取出”，另外还有一个储存料斗接收被标记为“仅添加”来收集成品。 这将确保不会由于缺少任何一种成分而导致生产中断。</string>
+<string name="MA.Basic_Missile_Assembler.04.Paragraph">每枚导弹将需要1单位铜管，1单位金线和1高能复合燃料。</string>
+<string name="MA.Basic_Missile_Assembler.05.Paragraph">该机器还需要能够从附接的发电机获取电力，或通过能量块或激光发射器间接供电。</string>
+<string name="MA.Basic_Missile_Assembler.06.Paragraph">除了侧面之外，电源和存储料斗可以放置在机器的上方和下方。</string>
+<string name="MA.Basic_Missile.00.Title">基本款导弹</string>
+<string name="MA.Basic_Missile.01.Paragraph">导弹发射器弹药。 组装自 基础导弹装配机。</string>
+<string name="MA.Basic_Missile.02.Header">产品规格</string>
+<string name="MA.Basic_Missile.03.Left">伤害：</string>
+<string name="MA.Basic_Missile.04.Right">70,000</string>
+<string name="MA.Basic_Ore_Smelter.00.Title">基本款矿石熔炼炉</string>
+<string name="MA.Basic_Ore_Smelter.01.Paragraph">熔炼炉将原矿转化为可在制造工厂和其他地方使用的制造新机器和物品的金属锭（条）。基本款矿石熔炼炉 拥有一般熔炼炉一半的效率、一半的速度，不能用增压进气模块（forced induction modules）升级。</string>
+<string name="MA.Basic_Ore_Smelter.02.Paragraph">最初，您将需要手动为熔炼炉给料，这可以通过按“交互”按钮（默认为“E”）打开熔炼炉控制面板。 然后，您可以通过按“进料”按钮添加矿石，或者将特定类型的矿石拖入熔炼炉。 控制面板将显示空白时每一锭需要多少矿石。</string>
+<string name="MA.Basic_Ore_Smelter.03.Paragraph">一旦熔炼炉有足够的矿石，它就会开始升温，这需要来自附接的能量块或发电机提供电力。 当达到正确的温度时，它将开始将矿石冶炼成金属锭（条/棒），可以通过点击控制面板底部的输出槽位来收集成品。</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">自动化</string>
+<string name="MA.Basic_Ore_Smelter.05.Paragraph">熔炼炉应尽快实现自动化，增加输入和输出储存料斗。 输入料斗应设置为“仅移除”的I / O状态。 输入料斗必须满足熔炼设备的最低矿石要求。</string>
+<string name="MA.Basic_PCB.00.Title">基本款PCB（印刷电路板）</string>
+<string name="MA.Basic_PCB.01.Paragraph">铜质PCB，产自PCB组装厂，原料铜线卷。</string>
+<string name="MA.Basic_Quarry.00.Title">基础采石场</string>
+<string name="MA.Basic_Quarry.01.Paragraph">采石场挖掘下方的泥土，返回找到的所有资源。 必须建在海拔-25米以上。 资源将被放置在附加的存储漏斗中。</string>
+<string name="MA.Basic_Quarry.02.Header">产品规格</string>
+<string name="MA.Basic_Quarry.03.Left">采石场尺寸：
+  采石场深度：
+  需要能量：
+  电池容量：
+  最大充电率：
+  最大挖掘硬度：
+  最大挖掘速度：
+  矿石提取效率：</string>
+<string name="MA.Basic_Quarry.04.Right">9m x 9m
+ 3950
+ 150 per 1m cube
+ 4096
+ 1024 per second
+ 250
+ 5 cubic meters per second
+ 10%</string>
+<string name="MA.BasicCargoLift.00.Title">基本款货梯</string>
+<string name="MA.BasicCargoLift.01.Paragraph">最小的货物升降机，这是大量交付材料如铁和锂的理想选择。</string>
+<string name="MA.BasicCargoLift.02.Header">产品规格</string>
+<string name="MA.BasicCargoLift.03.Left">"最大范围：
+  最大速度：
+ 加速度：
+  最大容量：
+  电力使用（运行期间）：
+ "</string>
+<string name="MA.BasicCargoLift.04.Right">"无限制
+ 5 m/s
+ 0.5 m/s^2
+ 300
+ 35 PPS
+ "</string>
+<string name="MA.BasicMinecart.00.Title">基本款矿车</string>
+<string name="MA.BasicMinecart.01.Paragraph">矿车用于以中等速度批量转移物品。</string>
+<string name="MA.BasicMinecart.02.Header">产品规格</string>
+<string name="MA.BasicMinecart.03.Left">"最大速度：
+最大存储空间：
+加速度：
+ "</string>
+<string name="MA.BasicMinecart.04.Right">1m/s
+ 25
+ 0.5m/s^2
+ 16
+ 15 s</string>
+<string name="MA.BasicMinecart.05.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.BasicMinecart.06.Title">矿车资源处理</string>
+<string name="MA.BasicMinecart.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.BasicMinecart.08.Title">高级矿车控制</string>
+<string name="MA.BasicMinecart.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.BaubleBerry.00.Title">BaubleBerry</string>
+<string name="MA.BaubleBerry.01.Paragraph">在这个星球的表面和洞穴内发现的一种不知名的植物。</string>
+<string name="MA.BaubleBerry.02.Paragraph">这种植物可以当柴烧。</string>
+<string name="MA.Bedrock.00.Title">基岩</string>
+<string name="MA.Bedrock.01.Paragraph">一般岩石类型之一。 可在碎石机中粉碎，以提取有用的矿石。 可以被放置。基岩：陆地表层中的-竖硬岩层，埋藏深度不一，少则数米到数十米，多则数百米。由沉积岩、变质岩、岩浆岩中的一种或数种组成。</string>
+<string name="MA.Biomass_Growth_Ping.00.Title">生物质扫描脉冲（Biomass Growth Ping）</string>
+<string name="MA.Biomass_Growth_Ping.01.Paragraph">当通过未知材料扫描脉冲得到的位置不足时，生物质扫描脉冲用于寻找额外的生物质。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指导。</string>
+<string name="MA.Blank_Ore_Ping.00.Title">空白矿石扫描脉冲</string>
+<string name="MA.Blank_Ore_Ping.01.Paragraph">空白矿石扫描脉冲与矿石样品一起使用以制造矿石扫描脉冲筛选器。 如果先前发现的矿脉快要耗尽或太小而无法使用，这些过滤器扫描脉冲被设计用来找到更多相同类型的矿脉。</string>
+<string name="MA.Blank_Ore_Ping.02.Header">用法</string>
+<string name="MA.Blank_Ore_Ping.03.Paragraph">1.在制造工厂生产适量的空白矿石扫描脉冲。</string>
+<string name="MA.Blank_Ore_Ping.04.Paragraph">2.当需要筛选扫描脉冲时，请使用您的防护服的手工制作（默认为“C”）将 空白矿石扫描脉冲 与 矿石样品 相结合。</string>
+<string name="MA.Blank_Ore_Ping.05.Paragraph">3.将矿石扫描脉冲过滤器放入您的快捷栏并选择它。 按“Build”按钮（默认为鼠标左键）发送扫描脉冲。 这将送入矿石扫描仪，扫描仪将发出一个过滤的扫描脉冲，并显示在全息视图上。 该扫描脉冲在使用过程中被消耗。</string>
+<string name="MA.Blue_Canvas.00.Title">蓝色帆布</string>
+<string name="MA.Blue_Canvas.01.Paragraph">全蓝色美化用块。</string>
+<string name="MA.Blue_GlowPod.00.Title">蓝色发光器</string>
+<string name="MA.Blue_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的蓝光。</string>
+<string name="MA.Blue_GlowPod.02.Paragraph">这种植物可以当柴烧。</string>
+<string name="MA.Build_Gun_V1.00.Title">建造枪 V1</string>
+<string name="MA.Build_Gun_V1.01.Paragraph">建造枪是从坠毁的船只的部件再利用制成的工具。 该枪允许在环境中快速构建和破坏材料。 基本款式还没有为新环境做相应的适配，因此功能上有极大的限制。 由于建造枪对抓斗功能的初步冷却，空气压力或空气质量的下降可能导致短暂的冷却时间，其中在抓握之后可能一段时间内无法激活。</string>
+<string name="MA.Build_Gun_V2.00.Title">建造枪 V2</string>
+<string name="MA.Build_Gun_V2.01.Paragraph">"建造枪 V2是更适合在外星环境中使用的建造枪的升级版本。 升级到基地建造枪允许它挖掘更坚硬的材料和拆卸更先进的机械。 尽管技术升级，抓握功能的冷却系统仍然不足，为了在极寒洞穴和其他空气质量差的地区频繁使用，你需要质量更好的导热体。 需要一份来改进基本工具的功能， additional Build Gun V2 upgrades have shown to provide no additional benefits at this time without extreme loss. "</string>
+<string name="MA.Build_Gun_V3.00.Title">建造枪 V3</string>
+<string name="MA.Build_Gun_V3.01.Paragraph">建造枪 V3是已经升级的建造枪的进一步升级版本。 该升级提供适当的冷却以促进抓斗功能的快速连续激活。 随着冷却能力的增加，建造枪 V3可以破坏更坚固的材料和拆卸更先进的机械。 需要一份来改进基本工具的功能，additional Build Gun V3 upgrades have shown to provide no additional benefits at this time without extreme loss.</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">批量大容量存货端口</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"大容量存货端口允许对大规模存储的控制来避免存储溢出。 
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.02.Left">"端口库存：
+无人机库存：
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.03.Right">"100
+  25
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"大容量存储端口必须挨着大容量储存箱。 按E打开用于配置库存物品和库存限制的界面。 该端口将仅添加符合特定限制的库存物品。 如果是一个标准端口，其余物品总会被添加进来。
+ 
+  调整储存限制时按住Ctrl键，Shift键或Alt键可以分别以10,100或1000的增量调整限制。
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
+ 您可以右键单击空插槽以按名称搜索项目或按按钮选择以轻松设置库存项目。 多方块组件是特殊的，因此它们将无法被一般搜索得到，搜索 multi, placement, or component来获取这些方块的列表。
+ 
+  端口的内部库存可以使用接口中的标签按钮进行锁定，以防止端口在已达到库存限制的情况下收集物品。 此功能旨在限制高价值物品的积压。
+ "</string>
+<string name="MA.BulkCargoLift.00.Title">大批量货梯</string>
+<string name="MA.BulkCargoLift.01.Paragraph">可用的最大货物升降机，这种冷冻工厂机器是理想的大量运输材料如铬和钼到冷冻洞穴。 这个货物清单具有巨大的容量，同时速度飞快！</string>
+<string name="MA.BulkCargoLift.02.Header">产品规格</string>
+<string name="MA.BulkCargoLift.03.Left">"最大范围：
+  最大速度：
+ 加速度：
+  最大容量：
+  电力使用（运行）：
+ "</string>
+<string name="MA.BulkCargoLift.04.Right">"无限制
+ 15 m/s
+ 0.5 m/s^2
+ 3000
+ 850 PPS
+ "</string>
+<string name="MA.BulkMinecart.00.Title">大容量矿车</string>
+<string name="MA.BulkMinecart.01.Paragraph">"矿车用于快速批量转移物品。
+
+  该矿车是一个冷冻工厂扩展包的项目。
+ "</string>
+<string name="MA.BulkMinecart.02.Header">产品参数</string>
+<string name="MA.BulkMinecart.03.Left">"最大速度：
+  最大存储空间
+ 加速度：
+ "</string>
+<string name="MA.BulkMinecart.04.Right">"2m/s
+ 50
+ 1.0m/s^2
+ "</string>
+<string name="MA.BulkMinecart.05.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车仓库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.BulkMinecart.06.Title">矿车资源处理</string>
+<string name="MA.BulkMinecart.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.BulkMinecart.08.Title">高级矿车控制</string>
+<string name="MA.BulkMinecart.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.CargoLiftController.00.Title">货梯控制器</string>
+<string name="MA.CargoLiftController.01.Paragraph">
+ 用于垂直散装运输。
+  3x1x3的规格建造。
+  这是Minecarts的理想配套机器，是从世界深处搬运大量物品的首选方法。
+  一旦建成，您将需要在其下方手动挖出一根竖井。 当然最好使用机器为您做这个繁琐的工作。</string>
+<string name="MA.CargoLiftController.03.Paragraph">一旦您将竖井挖掘到所需的深度，您将需要将机架轨道（RackRails）安装到其边缘。 幸运的是，使用现代施工技术，这些不需要任何额外支持。
+
+  只需将存储料斗连接到货梯控制器，它将自动布置。
+
+  距离无限制，但请注意，距离和速度不可兼得。
+
+  400-600米是理想的，但它们可以在任何距离上使用。
+
+  建议最小距离约15米。
+
+  对于较短的距离，请尝试物质传送器或传送带。</string>
+<string name="MA.CargoLiftController.04.Title">配置</string>
+<string name="MA.CargoLiftController.05.Paragraph">"一旦您的货梯控制器在轨道部署上读取了适当的距离，那么您可将准备好的货梯配给它。
+  只需打开货梯控制器UI（默认键为\'E\'），然后将相应的货梯拖入插槽。
+  您可以卸下并升级货梯，但首先货梯必须是空的。
+ "</string>
+<string name="MA.CargoLiftController.06.Title">用法</string>
+<string name="MA.CargoLiftController.07.Paragraph">"如果给予足够的电力，您的货物升降机将自动上下运行，并根据命令收集和卸载资源。 要更改命令，只需打开货梯控制器用户界面（默认键为\'E\'）并选择合适的选项。
+
+  一旦在竖井的上限或下限，货物提升将尝试通过任何相邻的存储料斗加载和卸载。 只需将他们接触停放的货梯。
+ "</string>
+<string name="MA.Central_Power_Hub.00.Title">中央电力枢纽（CPH）</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">中央电力中心（CPH）是您基地最重要的机器。 它是太先进了故难以复制，没了它你将无法在这个世界生存，所以你必须不惜一切代价保护它。</string>
+<string name="MA.Central_Power_Hub.02.Header">能量生产</string>
+<string name="MA.Central_Power_Hub.03.Paragraph">CPH包含一个大型内部电池，可以储存其太阳能电池板收集的能量和内部的小型化石燃料发电机。 一次只能燃烧一单元燃料，所以您应该尽快使用存储料斗或小型料斗来自动化燃料输送。</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">CPH将自动将能量推送到需要它的周边机器上。 您还可以通过与之交互直接注入或提取能量（默认为“E”）。 该控制面板还允许您将燃料加入发电机。</string>
+<string name="MA.Central_Power_Hub.05.Header">轨道激光</string>
+<string name="MA.Central_Power_Hub.06.Paragraph">从CPH顶部发射的激光束可用作找到您的基地的信标灯，但请注意不要在其附近放置任何方块，否则它们有可能被毁。</string>
+<string name="MA.Central_Power_Hub.07.Header">计算机系统</string>
+<string name="MA.Central_Power_Hub.08.Paragraph">CPH包含大多数协调您的基地的计算机系统，控制信号可以无线发送，在电力和物质传输梁中编码，并沿着传送带。 无线连接由您的防护服提供，但是如果您发现被孤立的远方机器快要停止运行了，请考虑建立基本的激光输电线路。</string>
+<string name="MA.Chargeable_Explosive.00.Title">可充能爆炸物</string>
+<string name="MA.Chargeable_Explosive.01.Paragraph">充电式炸弹的爆炸半径取决于充能水平。 该炸药可以使用相邻的能量块，发电机或激光输电器进行充电。 将其运送到另一个位置时将保持充能，此时可以使用交互键（默认为“Shift + E”）进行引爆。</string>
+<string name="MA.Chargeable_Explosive.02.Paragraph">"蓄能*10，能级+1！ "</string>
+<string name="MA.Chargeable_Explosive.03.Header">技巧与窍门！</string>
+<string name="MA.Chargeable_Explosive.04.Paragraph">-这机器需要超多的能量！</string>
+<string name="MA.Chargeable_Explosive.05.Paragraph">-等级1=100单位能量</string>
+<string name="MA.Chargeable_Explosive.06.Paragraph">-等级2=1000单位能量</string>
+<string name="MA.Chargeable_Explosive.07.Paragraph">-等级3=10000单位能量</string>
+<string name="MA.Chargeable_Explosive.08.Paragraph">-等级4=10 0000单位能量</string>
+<string name="MA.Chargeable_Explosive.09.Paragraph">-等级5=100 0000单位能量</string>
+<string name="MA.Chargeable_Explosive.10.Paragraph">-等级6=1000 0000单位能量</string>
+<string name="MA.Chargeable_Explosive.11.Paragraph">- 以此类推！</string>
+<string name="MA.Chargeable_Explosive.12.Paragraph">- 中等水平的能级没有额外的爆炸半径！</string>
+<string name="MA.Chargeable_Explosive.13.Paragraph">- 达到6级已经是一个能源生产的严峻挑战！</string>
+<string name="MA.Chargeable_Explosive.14.Header">警告！</string>
+<string name="MA.Chargeable_Explosive.15.Paragraph">" 保险丝非常短！！一不小心把你的基地化成灰分分钟的事！！"</string>
+<string name="MA.Charged_PCB.00.Title">带电PCB</string>
+<string name="MA.Charged_PCB.01.Paragraph">产自PCB组装厂的一款锂线圈卷的锂基PCB。</string>
+<string name="MA.Chevron_Sign_2.00.Title">人字形标志2</string>
+<string name="MA.Chevron_Sign_2.01.Paragraph">红黄相间的危险方块，可以在任何地方进行加工，无需制造工厂。 打开手工制作界面（默认\'C\'）制造。</string>
+<string name="MA.Chevron_Sign.00.Title">人字形标志</string>
+<string name="MA.Chevron_Sign.01.Paragraph">红白相间的标记箭头的方块，可以在任何地方进行加工，无需制造工厂。 打开手工制作界面（默认\'C\'）制造。</string>
+<string name="MA.Chilled_cavern_stone.00.Title">冷淬洞窟石</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">介于-215和-270米之间的主要方块类型。 该块不会自己降温，尽管您发现它们的洞穴非常冷。 可在碎石机中粉碎，偶尔提取有用的矿石。 可以放置。</string>
+<string name="MA.Coal_Enricher.00.Title">有机煤富集器</string>
+<string name="MA.Coal_Enricher.01.Paragraph">有机煤富集器使用少量的功率来增加热能发电机中的煤产生的功率。 有机煤富集器在15秒的时间内使用0.1pps将普通煤炭加工成复合煤。 可以进一步改进。</string>
+<string name="MA.Coal_Ore_Ping.00.Title">煤矿扫描</string>
+<string name="MA.Coal_Ore_Ping.01.Paragraph">如果以前发现的煤矿矿脉快要耗尽或太小而无法使用，则可用于寻找额外的煤矿脉。 有关更多信息，请参阅空白矿石ping的帮助指南。</string>
+<string name="MA.Coal_Ore.00.Title">煤</string>
+<string name="MA.Coal_Ore.01.Paragraph">在中央电力枢纽和热能发电机中可燃的高能量密度材料。</string>
+<string name="MA.Coal_Ore.02.Paragraph">可以采用矿物分离器开采煤炭。</string>
+<string name="MA.Coiler_Plant.00.Title">绕线机</string>
+<string name="MA.Coiler_Plant.01.Paragraph">绕线机是一种常规传送带设备，将挤出的线材绕成线圈。</string>
+<string name="MA.Coiler_Plant.02.Header">用法</string>
+<string name="MA.Coiler_Plant.03.Paragraph">从另一传送带（设备）进料，将金属线材送入绕线机。 绕线机会将电线转换为线圈，可用于其他工序。</string>
+<string name="MA.Coiler_Plant.04.Paragraph">绕线机厂对实验室研究的自动化至关重要。</string>
+<string name="MA.Cold_Cavern_Flora_1.00.Title">冰窟植物1型</string>
+<string name="MA.Cold_Cavern_Flora_1.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_1.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_2.00.Title">冰窟植物2型</string>
+<string name="MA.Cold_Cavern_Flora_2.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_2.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_3.00.Title">冰窟植物3型</string>
+<string name="MA.Cold_Cavern_Flora_3.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_4.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_5.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_6.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_7.01.Paragraph">令人难以置信的植物，可以在极度寒冷的洞穴生存下来。</string>
+<string name="MA.Cold_Cavern_Flora_3.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_4.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_5.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_6.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_7.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Cold_Cavern_Flora_4.00.Title">冰窟植物4型</string>
+<string name="MA.Cold_Cavern_Flora_5.00.Title">冰窟植物5型</string>
+<string name="MA.Cold_Cavern_Flora_6.00.Title">冰窟植物6型</string>
+<string name="MA.Cold_Cavern_Flora_7.00.Title">冰窟植物7型</string>
+<string name="MA.Complex_Experimental_Pod.00.Title">复合实验舱（Complex Experimental Pod）</string>
+<string name="MA.Complex_Experimental_Pod.01.Paragraph">复合实验舱用于实验室进行实验和完成研究项目，这些容器由锂制造。 有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Complex_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Conductive_PCB.00.Title">导电PCB</string>
+<string name="MA.Conductive_PCB.01.Paragraph">金质PCB，产自PCB组装厂，原料金线卷。</string>
+<string name="MA.Construction_Paste_Grinder.00.Title">建筑磨糊机</string>
+<string name="MA.Construction_Paste_Grinder.01.Paragraph">建筑磨糊机利用原始版本的无机重组装置，把无用的材料（如在这个新星球上发现的各种岩石和土壤类型）制成建筑糊。 机器本身能够通过表层土中发现的矿物进行装配。 制造这种机器的低成本和其不存在的功率要求使得并行运行数台成为可能。 在你常常经过的走廊设置垃圾小偷是在游戏早期获得大量建筑糊的好方法。</string>
+<string name="MA.Construction_Paste.00.Title">建筑糊</string>
+<string name="MA.Construction_Paste.01.Paragraph">建筑浆料是通过重新配置无机重组装置制成的材料。 防护服的无机重组装置用于自动修补衣服的严重损伤部分，以避免在真空中快速减压。 通过研究这些系统，通常在这些修复过程中使用的物质与这种行星石头中发现的微生物融合。 新的物质已经被命名，因为它可以用于制作各种装饰和加固方块。 已经设计了一个系统，应该能够模仿防护服的无机重组装置，以明确制造这种新物质。 携带该浆料似乎也提供了增加可用库存空间的好处。</string>
+<string name="MA.Conveyor_Belt_Filter.00.Title">传送带分拣器</string>
+<string name="MA.Conveyor_Belt_Filter.01.Paragraph">"使用传送带分拣器可以更精确地控制资源分配。 这种筛选器用于控制从传送带网络中的料斗排出的材料。 您可以设置一个筛选器来移除垃圾，矿石，有机体（ORGANIC），宝石，煤，生物质（BIOMASS），可融物，可燃物，制作的物品（CRAFTED ITEMS），水晶或金属锭。 "</string>
+<string name="MA.Conveyor_Belt.07.Paragraph">"使用传送带分拣器可以更精确地控制资源分配。 这种筛选器用于控制从传送带网络中的料斗排出的材料。 您可以设置一个筛选器来移除垃圾，矿石，有机体（ORGANIC），宝石，煤，生物质（BIOMASS），可融物，可燃物，制作的物品（CRAFTED ITEMS），水晶或金属锭。 "</string>
+<string name="MA.Conveyor_Belt.06.Header">筛选</string>
+<string name="MA.Conveyor_Belt.00.Title">传送带</string>
+<string name="MA.Conveyor_Belt.01.Paragraph">传送带是一种相对便宜且易于移动资源的方式。 您第一次使用他们的可能是将材料从装有矿石或煤矿的储存料斗移动到连接到熔炼炉或发电机的物料斗，如CPH或热能发电机。</string>
+<string name="MA.Conveyor_Belt.02.Header">用法</string>
+<string name="MA.Conveyor_Belt.03.Paragraph">输送带将自动从任何储存料斗中获取资源若其指向料斗以外，并将其沿其前进方向移动，并将其放入在其前方的任何传送带或储存料斗上，前提是有可用空间。 您可以通过旋转传送带或将其放置在墙壁上以纵向移动资源来改变传送带的方向。 存储料斗只需要与生产线末端的相邻机器进行交互。</string>
+<string name="MA.Conveyor_Belt.04.Header">限制</string>
+<string name="MA.Conveyor_Belt.05.Paragraph">传送带价格便宜，不需要外部电源，但它们确实有许多缺点。 他们容易受到极端寒冷/有毒环境的影响，开放式设计使它们特别容易受到攻击。 应研究其他运输方式。</string>
+<string name="MA.Conveyor_Turntable.00.Title">传送带转向台</string>
+<string name="MA.Conveyor_Turntable.01.Paragraph">传送带转盘可用于将一条传送带分成两条或三条，在每一条线之间均匀分配物品。 为了确保物流正确请避免将转盘直接放置在储存料斗或其他转盘附近。</string>
+<string name="MA.Copper_Bar.00.Title">铜锭</string>
+<string name="MA.Copper_Bar.01.Paragraph">铜锭通常用于具有电气部件的各种机器中。 它们由铜矿制成，可在地表附近找到。</string>
+<string name="MA.Copper_Coil.00.Title">铜线</string>
+<string name="MA.Copper_Coil.01.Paragraph">由铜线制成的简单铜线圈产自绕线机。</string>
+<string name="MA.Copper_Housing.00.Title">铜质外壳</string>
+<string name="MA.Copper_Housing.01.Paragraph">由铜板制成的简单铜壳。</string>
+<string name="MA.Copper_Ore_Ping.00.Title">铜矿扫描脉冲</string>
+<string name="MA.Copper_Ore_Ping.01.Paragraph">如果以前发现的铜矿脉快要耗尽或太小而无开采价值，则可以使用铜矿石扫描脉冲找到新的的铜矿脉。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指南。</string>
+<string name="MA.Copper_Ore.00.Title">铜矿</string>
+<string name="MA.Copper_Ore.01.Paragraph">可在地表附近发现，铜矿可以使用熔炼炉炼成铜锭。 铜锭通常用于各种具有电气部件的机器中。</string>
+<string name="MA.Copper_Ore.02.Paragraph">使用矿物分离器开采铜矿。</string>
+<string name="MA.Copper_Pipe.00.Title">铜管</string>
+<string name="MA.Copper_Pipe.01.Paragraph">在管道挤压机中由铜锭制成的简单铜管。 可用于制造基本导弹。</string>
+<string name="MA.Copper_Plate.00.Title">铜板</string>
+<string name="MA.Copper_Plate.01.Paragraph">由铜锭在冲压机制造的一个简单的铜质板材。</string>
+<string name="MA.Copper_Wire.00.Title">铜线</string>
+<string name="MA.Copper_Wire.01.Paragraph">用于具有电气部件的机器的简单铜线。 可以通过挤出机生产。</string>
+<string name="MA.Crude_Organic_Lens.00.Title">天然有机透镜</string>
+<string name="MA.Crude_Organic_Lens.01.Paragraph">插入激光发射器以提高其传输功率。</string>
+<string name="MA.Crude_Organic_Lens.02.Header">产品规格</string>
+<string name="MA.Crude_Organic_Lens.03.Left">传输功率：</string>
+<string name="MA.Crude_Organic_Lens.04.Right">125%</string>
+<string name="MA.Crystal_Clock.00.Title">水晶钟</string>
+<string name="MA.Crystal_Clock.01.Paragraph">水晶钟是先进机械中常见的制造产物。 将水晶钟包含在机械中可以获取更精确的时序。 水晶钟是在水晶钟制造设备（Crystal Clock Maker）中使用5 份水晶矿（Crystal Deposit）制作的。 普通水晶钟像大多数芯片可以超频，为更先进的机械生产更有效的时钟。</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">水晶煤粉浸渍器（Crystal Coal Infuser）</string>
+<string name="MA.Crystal_Coal_Infuser.01.Paragraph">水晶煤粉浸渍器（Crystal Coal Infuser）使用少量的电力来增加富氧热煤在热能发电机中产生的功率。 水晶煤燃烧器在15秒的时间内使用0.1pps，以将富氧煤转换为特高热值煤。</string>
+<string name="MA.Crystal_Cutter_Head.00.Title">水晶刀头</string>
+<string name="MA.Crystal_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 刀头会随着时间的推移磨损。</string>
+<string name="MA.Crystal_Cutter_Head.02.Paragraph">水晶刀头比钢刀头更有效率，但磨损更快。</string>
+<string name="MA.Crystal_Cutter_Head.03.Header">产品参数</string>
+<string name="MA.Crystal_Cutter_Head.04.Left">效率：
+ 最大硬度：
+ 耐用性：</string>
+<string name="MA.Crystal_Cutter_Head.05.Right">30%
+ 250
+ 5000</string>
+<string name="MA.Crystal_Deposit_Ping.00.Title">水晶矿床扫描</string>
+<string name="MA.Crystal_Deposit_Ping.01.Paragraph">当通过未知材料扫描脉冲找到的位置不足时，水晶矿床扫描脉冲（Crystal Deposit Ping）用于找到额外的水晶沉积矿床。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指导。</string>
+<string name="MA.Crystal_Fiber_Mesh.00.Title">水晶纤维网</string>
+<string name="MA.Crystal_Fiber_Mesh.01.Paragraph">"通过使用先进的加工技术，水晶矿现在可以在分子水平上重组。 这种新的网格能够承受极端的温度和压力。 这种材料是在水晶网编织机(Crystal Mesh Weaver)中创建的，是地热发电所需管道的一个必备条件。 "</string>
+<string name="MA.DapperFrame.00.Title">Dapper 框架</string>
+<string name="MA.DapperFrame.01.Paragraph">来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</string>
+<string name="MA.DapperScale.00.Title">Dapper Scale</string>
+<string name="MA.DapperScale.01.Paragraph">来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</string>
+<string name="MA.DapperVIP.00.Title">"Dapper  VIP"</string>
+<string name="MA.DapperVIP.01.Paragraph">来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</string>
+<string name="MA.DapperWall.00.Title">"Dapper  Wall"</string>
+<string name="MA.DapperWall.01.Paragraph">来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</string>
+<string name="MA.Deep_Stone.00.Title">深色石</string>
+<string name="MA.Deep_Stone.01.Paragraph">在-65 ish以下的主要方块类型。 低温和有毒的洞穴除外。 可在碎石机中粉碎，以提取有用的矿石。 可以放置。</string>
+<string name="MA.Deployed_Explosive.00.Title">可部署爆炸物</string>
+<string name="MA.Deployed_Explosive.01.Paragraph">可充能炸弹，伤害半径增加取决于充电能级。</string>
+<string name="MA.Deployed_Explosive.02.Header">技巧和窍门！</string>
+<string name="MA.Deployed_Explosive.03.Paragraph">-这台机器需要巨多的能量！</string>
+<string name="MA.Deployed_Explosive.04.Paragraph">- 等级 1 = 100 单位能量.</string>
+<string name="MA.Deployed_Explosive.05.Paragraph">- 等级 2 = 1000 单位能量.</string>
+<string name="MA.Deployed_Explosive.06.Paragraph">- 等级 3 = 10000 单位能量.</string>
+<string name="MA.Deployed_Explosive.07.Paragraph">- 等级 4 = 100000 单位能量.</string>
+<string name="MA.Deployed_Explosive.08.Paragraph">- 等级 5 = 1000000 单位能量.</string>
+<string name="MA.Deployed_Explosive.09.Paragraph">- 等级 6 = 10 000 000 单位能量.</string>
+<string name="MA.Deployed_Explosive.10.Paragraph">-以此类推！</string>
+<string name="MA.Deployed_Explosive.11.Paragraph">- 中等能级没有额外的爆炸半径！</string>
+<string name="MA.Deployed_Explosive.12.Paragraph">- 以目前的能源生产水平达到6级已经是一个挑战！</string>
+<string name="MA.Deployed_Explosive.13.Header">警告！</string>
+<string name="MA.Deployed_Explosive.14.Paragraph">" 保险丝非常短！ 把您的基地炸成渣渣简直小菜一碟！"</string>
+<string name="MA.Diamond_Crystal.00.Title">金刚石晶体</string>
+<string name="MA.Diamond_Crystal.01.Paragraph">金刚石晶体是用作各类升级的基础成分的一种稀有材料。 它可以在0到-75深度之间的洞穴中找到。</string>
+<string name="MA.Diamond_Crystal.02.Header">技巧与提示。</string>
+<string name="MA.Diamond_Crystal.03.Paragraph">这些半开放的洞穴最好从地面接近。</string>
+<string name="MA.Diamond_Focusing_Lens.00.Title">钻石聚焦镜头</string>
+<string name="MA.Diamond_Focusing_Lens.01.Paragraph">插入激光发射器以提高其传输功率。</string>
+<string name="MA.Diamond_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Diamond_Focusing_Lens.03.Left">传输功率：</string>
+<string name="MA.Diamond_Focusing_Lens.04.Right">115%</string>
+<string name="MA.Dirt.00.Title">泥土</string>
+<string name="MA.Dirt.01.Paragraph">通常位于雪面下方的方块种类。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Electric_Light.00.Title">电灯</string>
+<string name="MA.Electric_Light.01.Paragraph">电灯必须连接电源才能操作，并提供远比标准火炬覆盖区域大得多的冷蓝光。</string>
+<string name="MA.Electric_Light.02.Paragraph">有三种投影方式：聚光灯（Spotlight），点光源（Pointlight）和阴影点光源（Shadowed Pointlight）。</string>
+<string name="MA.Emerald_Crystal.00.Title">翡翠晶体</string>
+<string name="MA.Emerald_Crystal.01.Paragraph">翡翠晶体是用作各类升级的基础成分的一种稀有材料。 它可以在-75到-150深度之间的洞穴中找到。</string>
+<string name="MA.Emerald_Focusing_Lens.00.Title">翡翠聚焦镜头</string>
+<string name="MA.Emerald_Focusing_Lens.01.Paragraph">插入激光发射器以提高其传输功率。</string>
+<string name="MA.Emerald_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Emerald_Focusing_Lens.03.Left">传输功率：</string>
+<string name="MA.Emerald_Focusing_Lens.04.Right">130%</string>
+<string name="MA.Empty_Fuel_Canister.00.Title">空燃料罐</string>
+<string name="MA.Empty_Metal_Tube.00.Title">空金属管</string>
+<string name="MA.Empty_Fuel_Canister.01.Paragraph">"REMOVEEEE  MEEEEE"</string>
+<string name="MA.Empty_Metal_Tube.01.Paragraph">由铁构成的一个简单但坚固的金属管。</string>
+<string name="MA.Enhanced_Drill_Motor.00.Title">增强钻机</string>
+<string name="MA.Enhanced_Drill_Motor.01.Paragraph">以增加使用功率为代价提高矿物分离器每分钟开采矿石的速率。</string>
+<string name="MA.Enhanced_Drill_Motor.02.Header">产品规格</string>
+<string name="MA.Enhanced_Drill_Motor.03.Left">开采速度：</string>
+<string name="MA.Enhanced_Drill_Motor.04.Right">400%</string>
+<string name="MA.Enriched_Coal.00.Title">富氧煤</string>
+<string name="MA.Enriched_Coal.01.Paragraph">富氧煤是有机煤炭富集的产物。 富氧煤是一般煤炭的改进形态，因为它在相同的时间内产生更多的电力。</string>
+<string name="MA.Exceptional_Organic_Lens.00.Title">特殊的有机镜片</string>
+<string name="MA.Exceptional_Organic_Lens.01.Paragraph">插入激光发射器以提高其传输功率。</string>
+<string name="MA.Exceptional_Organic_Lens.02.Header">产品规格</string>
+<string name="MA.Exceptional_Organic_Lens.03.Left">传输功率：</string>
+<string name="MA.Exceptional_Organic_Lens.04.Right">350%</string>
+<string name="MA.Extractor.00.Title">矿物分离器</string>
+<string name="MA.Extractor.01.Paragraph">矿物分离器是您去采集资源的机器。 当您使用建造枪挖掘时，每次挖掘一块矿石的尝试都会从该矿石块中的总可用资源量中减去。 偶尔会产生矿石，但会产生大量的碎石。 你也可以通过按住Ctrl来超级挖掘。 这将以高能耗和高效率快速生产少量的矿石。 尽可能避免以这种方式浪费矿石。</string>
+<string name="MA.Extractor.02.Paragraph">要自动采掘矿石，请使用矿物分离器。 您可以将提取器放置在矿石块上，并将自动消耗能量来提取资源。 您可以通过按“交互”键（默认为“E”）打开矿物分离器控制面板。 这允许您从防护服中将能量添加到机器，从其内部存储中收集矿石并升级机器。 初始矿物提取设备相比于超级挖掘明显资源效率更高，并且可以无人值守。</string>
+<string name="MA.Extractor.03.Paragraph">提取器具有500单位能量的内部电量，这差不多是你防护服电量的两倍多一点点，所以你需要跑几趟来为它充能。 如果其内部储存空间已满，提取器将停止采矿，直到其被清空。 您可以在提取器旁边放置一个储存料斗，以提供更多的存储空间，并使用物流设备将矿石运输回你的基地。</string>
+<string name="MA.Extractor.04.Paragraph">矿石每分钟的矿物分离器速度和效率显示在与机器相互作用时显示的控制面板中。 效率为10％意味着每个收集1单位将损耗9单位可开采矿石。</string>
+<string name="MA.Extractor.05.Header">为提取器升级</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER 八字胡</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">在这里插入“moustache ride”笑话。 仅当你拥有Dapper独立支持者DLC（Dapper Indie Supporter DLC）时才有效。 只需一份，放入物品栏以生效。</string>
+<string name="MA.CargoLiftController.02.Title">竖井配置</string>
+<string name="MA.Extractor.06.Paragraph">基础矿物分离器是一种有用的机械设备，但远远没能达到其最大功率。 提取器可以升级两部分：新电机和新刀头。 打开控制面板后，单击相应的升级插槽，并从物品栏中插入升级模块。 您还可以将升级模块拖向你的物品栏。</string>
+<string name="MA.Extractor.07.Header">电机</string>
+<string name="MA.Extractor.08.Paragraph">一台新的电机会增加挖掘机钻头开采的速度，这意味着您每分钟将获得更多的矿石。 增加的速度带来更高的电力成本，所以确保您的供电。</string>
+<string name="MA.Extractor.09.Header">刀头</string>
+<string name="MA.Extractor.10.Paragraph">升级刀头增大了挖掘机矿石提取的效率。 这意味着它将能够在其一生中从矿脉中获取更多的矿石。 除了效率提升之外，新的刀头还可以让挖掘机挖掘较硬的材料，基础刀头根本无法切割。</string>
+<string name="MA.Extractor.11.Paragraph">切割头将随着时间的推移而磨损，剩余的耐久度显示在矿物分离器控制面板中。</string>
+<string name="MA.Extractor.12.Header">全系激光器读数</string>
+<string name="MA.Extractor.13.Left">能量分组大小：
+  黄色：
+  红/蓝闪光：
+  红/青色闪光：
+  红/黑闪光：
+  红/绿闪光：</string>
+<string name="MA.Extractor.14.Right">工作中
+  断电
+  无剩余存储空间
+  闲置
+  钻头卡住</string>
+<string name="MA.Extrusion_Plant.00.Title">挤压机</string>
+<string name="MA.Extrusion_Plant.01.Paragraph">挤压机是安装在普通的传送带上的用于将金属锭挤压成金属丝的机器。</string>
+<string name="MA.Extrusion_Plant.02.Header">用法</string>
+<string name="MA.Extrusion_Plant.03.Paragraph">从其他传送带把金属锭送到挤压机。 挤压机将金属锭转换为可用于其他工序的线材。</string>
+<string name="MA.Extrusion_Plant.04.Paragraph">挤压机对于实验室研究的自动化来说必不可少。</string>
+<string name="MA.FALCOR_Beacon.00.Title">FALCOR信标</string>
+<string name="MA.FALCOR_Beacon.01.Paragraph">"全自动收集自组织机器人（Fully-Automated Loot Collector Organisational Robots或简称为FALCOR）信标可以以两种不同的模式使用。
+
+  如果将信标放在地板上，那么它将在各个方向的16米范围内收集物品，直到MK1 FALCOR有空来收取。
+
+  如果信标被放置在储存料斗的顶部，那么它将从该存储料斗收集物品，直到物流FALCOR有空来收取。
+
+  FALCOR基地不需要电力，但是信标要。
+ "</string>
+<string name="MA.FALCOR.00.Title">全自动战利品收集自组织机器人（Fully-Automated Loot Collector Organisational Robots简称FALCOR）</string>
+<string name="MA.FALCOR.01.Paragraph">"全自动战利品收集自组织机器人有两种类型（或简称FALCOR！！）
+
+  MK1 FALCOR将在128米区域内搜索带有收集物品的信标。 如果找到，FALCOR将飞过去，取回物品然后返回。 然后将返回的物品放入附加的存储料斗中。
+
+  物流FALCORs工作原理类似，但只会服务放置在存储料斗之上的信标。
+
+  即将推出！ 高级FALCOR，允许过滤所选项目！ FALCOR基地不需要电力，但是，信标要。
+ "</string>
+<string name="MA.FastMinecart.00.Title">快速矿车</string>
+<string name="MA.FastMinecart.01.Paragraph">矿车用以中等速度批量转运物品。</string>
+<string name="MA.FastMinecart.02.Header">产品规格</string>
+<string name="MA.FastMinecart.03.Left">"最大速度：
+  最大存储空间
+ 加速度：
+ "</string>
+<string name="MA.FastMinecart.04.Right">2m/s
+ 25
+ 1.0m/s^2
+ 16
+ 15 秒</string>
+<string name="MA.FastMinecart.05.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.FastMinecart.06.Title">矿车资源处理</string>
+<string name="MA.FastMinecart.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.FastMinecart.08.Title">高级矿车控制</string>
+<string name="MA.FastMinecart.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.Forced_Induction.00.Title">增压进气</string>
+<string name="MA.Forced_Induction.01.Paragraph">增压进气模块是矿石熔炼炉的升级，其增加了冶炼速度，同时大大增加了电力使用成本。 使用该模块将其放在矿石熔炼炉的顶部。</string>
+<string name="MA.Forced_Induction.02.Paragraph">基础矿石熔炼炉不支持增压进气升级。</string>
+<string name="MA.Forced_Induction.03.Header">产品规格</string>
+<string name="MA.Forced_Induction.04.Left">熔融速度:
+能量实验：</string>
+<string name="MA.Forced_Induction.05.Right">200%
+ 800%</string>
+<string name="MA.Fortified_PCB.00.Title">强化PCB</string>
+<string name="MA.Fortified_PCB.01.Paragraph">在PCB组装厂中由镍线圈制成的镍基PCB。</string>
+<string name="MA.Freezon_Injector.01.Paragraph">寒霜注入器使用低温罐对于适合的机器用处非凡。</string>
+<string name="MA.Freezon_Injector.00.Title">寒霜注入器</string>
+<string name="MA.Freezon_Injector.02.Header">效果</string>
+<string name="MA.Freezon_Injector.03.Left">"地热工厂
+  枪骑兵
+  树脂消除器
+  树脂液体
+ "</string>
+<string name="MA.Freezon_Injector.04.Right">10倍发电
+  28倍清除率
+  54倍速率提升
+  54倍速率提升</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">熔融钻头</string>
+<string name="MA.Fusion_Drill_Motor.01.Paragraph">以增加能耗为代价提高采矿设备的开采速率。</string>
+<string name="MA.Fusion_Drill_Motor.02.Header">产品规格</string>
+<string name="MA.Fusion_Drill_Motor.03.Left">开采速率：</string>
+<string name="MA.Fusion_Drill_Motor.04.Right">1600%</string>
+<string name="MA.Garbage_Thief.00.Title">赛博坦垃圾小偷（tm）</string>
+<string name="MA.Garbage_Thief.01.Paragraph">赛博坦垃圾小偷用以清除库存中的垃圾而不是矿石。 这种机器与多种施工浆料研磨机（Construction Paste Grinders ）共同使用时，可以快速清除和处理垃圾释放库存。 为了获得最佳性能，可将部分常经过的走廊地面用本机和相应的处理设备替换。
+
+  简单地构建我们全新的垃圾小偷（tm） 3x3布局，每个块只要5单位电源，然后站上去，脏活累活让它干就好！</string>
+<string name="MA.Garbage_Thief.02.Header">产品规格</string>
+<string name="MA.Garbage_Thief.03.Left">"垃圾收集速度：
+  内部存储器：
+  电源使用：
+ "</string>
+<string name="MA.Garbage_Thief.04.Right">"高达3,300 /分钟！
+  100单位的垃圾！
+  每个垃圾只需要5单位能源！
+ "</string>
+<string name="MA.Gas_Bottler.00.Title">气体装瓶机</string>
+<string name="MA.Gas_Bottler.01.Paragraph">气体装瓶机是微粒精炼过程中的最后一步，能够将上述粒子输出到单一容器中。 以3x3x9的形式建造。</string>
+<string name="MA.Geological_Surveyor.00.Title">地质测量仪</string>
+<string name="MA.Geological_Surveyor.01.Paragraph">地质测量仪扫描其附近的地貌特征，发现资源，返回找到的矿石的总量。 用于为采石场定位最佳地点。</string>
+<string name="MA.Geological_Surveyor.02.Header">产品规格</string>
+<string name="MA.Geological_Surveyor.03.Left">搜索尺寸：
+  搜索深度：
+  需要能量：
+  能量容量：
+  最大充电速率：
+  最大扫描速度：</string>
+<string name="MA.Geological_Surveyor.04.Right">9m x 9m
+ 1024m
+ 40/s
+ 100
+ 100/s
+ 320m/s</string>
+<string name="MA.Geothermal_Generator_Comp..00.Title">地热发电机组</string>
+<string name="MA.Geothermal_Generator_Comp..01.Paragraph">"地热发电机组用于形成能够输出喷气涡轮机功率的10倍的高级无源发电系统。 地热发生器必须放置在寒冷的洞穴中，并连接导热管以开始发电。 地热通过从温差产生能量，每多一根导热管，都会增加每秒能量产出。 一旦导热管到达岩浆洞，它们将开始从岩浆海中吸收热量，从而使得发电量指数级增长。 由于地热发电来源于温差，因此，冷冻罐可大大提升地热能的产出。 "</string>
+<string name="MA.Glow_Stick.00.Title">荧光棒</string>
+<string name="MA.Glow_Stick.01.Paragraph">根据需要，您的防护服会自动制作荧光棒，5单位能量一个。 按G掷出荧光棒！</string>
+<string name="MA.GlowShroom.00.Title">荧光致幻菇</string>
+<string name="MA.GlowShroom.01.Paragraph">在这个星球表面发现一种发光的真菌。 不能吃！</string>
+<string name="MA.GlowShroom.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Gold_Bar.00.Title">金条</string>
+<string name="MA.Gold_Bar.01.Paragraph">金条通常用在先进的机器中，特别是那些需要高质量电接触的机器。 黄金也可用于制造装饰品。 它们是由金矿制成的，可以在地表以下至少250米处找到。</string>
+<string name="MA.Gold_Coil.00.Title">金线圈</string>
+<string name="MA.Gold_Coil.01.Paragraph">一个简单的金线圈，由金线在绕线机制造。</string>
+<string name="MA.Gold_Housing.00.Title">金质外壳</string>
+<string name="MA.Gold_Housing.01.Paragraph">一个由金板制造的简单的金质外壳。</string>
+<string name="MA.Gold_Ore_Ping.00.Title">金矿扫描脉冲</string>
+<string name="MA.Gold_Ore_Ping.01.Paragraph">金矿扫描脉冲用于新的金矿脉。 更多信息，请参阅空白扫描脉冲的帮助指南。</string>
+<string name="MA.Gold_Pipe.00.Title">金管</string>
+<string name="MA.Gold_Pipe.01.Paragraph">在管道挤压机中由金条制成的简单金管。</string>
+<string name="MA.Gold_Plate.00.Title">金板</string>
+<string name="MA.Gold_Plate.01.Paragraph">由金条在冲压机制造的一个简单的金质板材。</string>
+<string name="MA.Gold_Wire.00.Title">金线</string>
+<string name="MA.Gold_Wire.01.Paragraph">由挤压机中的金条制成的简单金线。</string>
+<string name="MA.Green_Canvas.00.Title">绿色帆布</string>
+<string name="MA.Green_Canvas.01.Paragraph">完全绿色的美化用方块</string>
+<string name="MA.Green_GlowPod.00.Title">绿色发光器</string>
+<string name="MA.Green_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的绿色光芒。</string>
+<string name="MA.Orange_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的橙色光芒。</string>
+<string name="MA.Purple_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的紫色光芒。</string>
+<string name="MA.Green_GlowPod.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Orange_GlowPod.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Purple_GlowPod.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_1.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_2.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_3.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_4.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_5.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_6.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Toxic_Cavern_Flora_7.02.Paragraph">这种植物可以用来当柴烧。</string>
+<string name="MA.Hard_Resin_Ablator.00.Title">激光树脂烧蚀器</string>
+<string name="MA.Hard_Resin_Ablator.01.Paragraph">这是使用和清除母巢（Hiveminds）在其周围排出的硬化树脂的三步走的第一步。
+
+  烧蚀器使用聚焦激光能量来加热和剥离树脂的硬表面。
+
+  一旦完成，可以使用液化器煮沸并提取内部。
+
+  然后，您可以使用液体树脂精炼机将其转换为精制液体树脂。</string>
+<string name="MA.Hard_Resin_Ablator.02.Paragraph">"烧蚀：由热或摩擦引起的表面材料损失 "</string>
+<string name="MA.Hard_Resin_Liquifier.00.Title">激光树脂液化器</string>
+<string name="MA.Hard_Resin_Liquifier.01.Paragraph">这是使用和清除Hiveminds在其周围排出的硬化树脂的三步走的第二步。
+
+液化器使用高温等离子体流液化并提取液化硬质树脂的柔软内部。 
+
+然后，您可以使用液体树脂精炼机将其转换为精制液体树脂。 
+
+要将硬树脂转化为烧结硬树脂，请使用硬树脂烧蚀器</string>
+<string name="MA.Hard_Resin_Refinery.00.Title">液化树脂精炼机</string>
+<string name="MA.Hard_Resin_Refinery.01.Paragraph">"这是利用和清除Hiveminds在其周围排出的硬化树脂的最后一步。
+ "</string>
+<string name="MA.Hard_Resin_Refinery.02.Paragraph">"液化器使用高温等离子体流液化并提取液化硬质树脂的柔软内部。
+ "</string>
+<string name="MA.Hard_Resin_Refinery.03.Paragraph">"要将硬树脂转化为烧结硬树脂，请使用硬化树脂烧蚀器
+ "</string>
+<string name="MA.HardResinDetector.00.Title">硬化树脂探测器</string>
+<string name="MA.HardResinDetector.01.Paragraph">这种基本的早期预警系统将探测硬化树脂。 我们已经检测到整个星球上的这些生长状态，大多处于休眠状态。 来自我们基地的热和振动似乎吸引了他们，我们的机器越来越多，风险越来越高。 这些探测器能指出增长方向的来源，好让您来调查，如有必要，解决他们。</string>
+<string name="MA.Hardened_PCB.00.Title">硬化电路板</string>
+<string name="MA.Hardened_PCB.01.Paragraph">在PCB组装厂中由铁线圈制成的铁基PCB。</string>
+<string name="MA.Lightweight_PCB.01.Paragraph">在PCB组装厂中由钛线圈制成的钛基PCB。</string>
+<string name="MA.Primary_PCB.01.Paragraph">在PCB组装厂中由锌线圈制成的锌基PCB。</string>
+<string name="MA.Heat_Conducting_Pipe.00.Title">导热管</string>
+<string name="MA.Heat_Conducting_Pipe.01.Paragraph">导热管结合了铜管的流体传输功率和水晶纤维网的耐热耐压性。 在地热发电中，采用了这种新型的管道技术，现在已成为新机器不断增长的电力需求的可行解决方案。</string>
+<string name="MA.High_Energy_Composite_Fuel.00.Title">高能复合燃料</string>
+<string name="MA.High_Energy_Composite_Fuel.01.Paragraph">高能复合燃料可以在生物质精炼厂的反应釜中制造。 它用于为喷气涡轮机提供动力和制造导弹防御系统。 在喷气式涡轮机中使用的燃油罐可以在空掉以后循环利用。</string>
+<string name="MA.Jet_Turbine_Generator_Housing.01.Paragraph">喷射涡轮发电机是从化石燃料产生动力的一个更先进的方法。 它需要在精炼反应釜中由生物质（Biomass）生产的高能复合燃料。</string>
+<string name="MA.Hive_Brain_Matter.00.Title">母巢脑组织液</string>
+<string name="MA.Hive_Brain_Matter.01.Paragraph">大多数母巢大脑在能量爆炸中被摧毁。 一些大脑物质完好无损得需要调查。 您的实验室将分析此项目，这应该为我们提供更多的研究选项。</string>
+<string name="MA.Hydrojet_Cutter.00.Title">水刀切割器</string>
+<string name="MA.Hydrojet_Cutter.01.Paragraph">将此模块放在制造工厂的上方，以便制造防护服升级。</string>
+<string name="MA.ImprovedCargoLift.00.Title">升级款货梯</string>
+<string name="MA.ImprovedCargoLift.01.Paragraph">第二款可用的货梯速度比基本款速度快得多。 这对于大量运送更深层的材料如镍，水晶和生物质来说是理想的选择。</string>
+<string name="MA.ImprovedCargoLift.02.Header">产品规格</string>
+<string name="MA.ImprovedCargoLift.03.Left">"最大范围：
+  最大速度：
+ 加速度：
+  最大容量：
+  电力使用（运行）：
+ "</string>
+<string name="MA.ImprovedCargoLift.04.Right">"无限制
+ 10 m/s
+ 0.5 m/s^2
+ 1000
+ 250 PPS
+ "</string>
+<string name="MA.Induction_Charger.00.Title">感应Power Boosters</string>
+<string name="MA.Induction_Charger.02.Header">产品规格</string>
+<string name="MA.Jet_Turbine_Generator_Housing.04.Header">产品规格</string>
+<string name="MA.Jet_Turbine_Generator_Intake.04.Header">产品规格</string>
+<string name="MA.LargeMinecart.02.Header">产品规格</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.03.Header">产品规格</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.03.Header">产品规格</string>
+<string name="MA.Laser_Energy_Transmitter.03.Header">产品规格</string>
+<string name="MA.Lift_Compressor.02.Header">产品规格</string>
+<string name="MA.MK2_Solar_Panel_Component.03.Header">产品规格</string>
+<string name="MA.Magnetic_Drill_Motor.02.Header">产品规格</string>
+<string name="MA.Matter_Mover.02.Header">产品规格</string>
+<string name="MA.MinecartTurboRail.02.Header">产品规格</string>
+<string name="MA.Missile_Turret_MK1.02.Header">产品规格</string>
+<string name="MA.Missile_Turret_MK2.02.Header">产品规格</string>
+<string name="MA.Missile_Turret_MK3.02.Header">产品规格</string>
+<string name="MA.Missile_Turret_MK4.02.Header">产品规格</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.04.Header">产品规格</string>
+<string name="MA.Ore_Thief.02.Header">产品规格</string>
+<string name="MA.Organic_Cutter_Head.03.Header">产品规格</string>
+<string name="MA.Organic_Lens.02.Header">产品规格</string>
+<string name="MA.Organic_Power_Storage.04.Header">产品规格</string>
+<string name="MA.Power_Storage_Block.04.Header">产品规格</string>
+<string name="MA.Power_Storage_MK2.03.Header">产品规格</string>
+<string name="MA.Power_Storage_MK4.04.Header">产品规格</string>
+<string name="MA.Power_Storage_MK5.04.Header">产品规格</string>
+<string name="MA.PowerBoosterChargerMK1.02.Header">产品规格</string>
+<string name="MA.PowerBoosterMK1.02.Header">产品规格</string>
+<string name="MA.PowerBoosterMK2.02.Header">产品规格</string>
+<string name="MA.PowerBoosterMK3.02.Header">产品规格</string>
+<string name="MA.PowerBoosterMK4.02.Header">产品规格</string>
+<string name="MA.PowerBoosterMK4.03.Left">容量：</string>
+<string name="MA.PowerBoosterMK5.02.Header">产品规格</string>
+<string name="MA.Pyrothermic_Generator.03.Header">产品规格</string>
+<string name="MA.Rack_Railer.02.Header">产品规格</string>
+<string name="MA.Refinery_Controller.03.Header">产品规格</string>
+<string name="MA.Research_Assembler.02.Header">产品规格</string>
+<string name="MA.Induction_Charger.01.Paragraph">"感应Power Boosters是一款小型5x5机器，具有非常高的吞吐量，但最少的存储空间。 这是一个优秀的为一个地区供电的选项，不用多余的激光器或电池，而且应该避免了地下埋电力线或者能量块的麻烦。
+
+  用法非常简单： 5x1x5，从任何方向供电，并将机器放置在顶部或侧面。 请注意，与所有供电机器一样，面向激光器并接触Power Boosters将导致反馈回路，应注意避免。
+
+  该机器放置在研究实验室或其他大型耗电量较大的机器之下，非常适合精简而高速的电力运输。
+ "</string>
+<string name="MA.Induction_Charger.03.Left">"内部存储：
+  电源输入速率：
+  功率输出速率： 
+ "</string>
+<string name="MA.Induction_Charger.04.Right">"1500
+ 7500/面/秒
+ 1250/台/秒
+ "</string>
+<string name="MA.Infused_Coal.01.Paragraph">特高热值煤是水晶煤粉浸渍器（Crystal Coal Infuser）的产物。 是对富氧煤的改进，因为它在相同的时间内产生更多的电力。</string>
+<string name="MA.Infused_Coal.00.Title">特高热值煤</string>
+<string name="MA.Intermediate_Experimental_Pod.00.Title">中级实验舱</string>
+<string name="MA.Intermediate_Experimental_Pod.01.Paragraph">中级实验舱用于实验室进行实验和完成研究项目，这些容器由铁制造。 有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Intermediate_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请访问以下指南。</string>
+<string name="MA.Iron_Bar.00.Title">铁锭</string>
+<string name="MA.Iron_Bar.01.Paragraph">铁锭通常用在需要坚固结构的机器中。 它们由铁矿石制成，可以在地表以下至少65米处找到。</string>
+<string name="MA.Iron_Coil.00.Title">铁线圈</string>
+<string name="MA.Iron_Coil.01.Paragraph">一个简单的铁线圈，由铁丝在绕线机制造。</string>
+<string name="MA.Lithium_Coil.01.Paragraph">一个简单的锂线圈，由锂线在绕线机制造。</string>
+<string name="MA.Nickel_Coil.01.Paragraph">一个简单的镍线圈，由镍线在绕线机制造。</string>
+<string name="MA.Tin_Coil.01.Paragraph">一个简单的锌线圈，由锌线在绕线机制造。</string>
+<string name="MA.Titanium_Coil.01.Paragraph">一个简单的钛线圈，由钛线在绕线机制造。</string>
+<string name="MA.Iron_Gear.00.Title">铁质齿轮</string>
+<string name="MA.Iron_Gear.01.Paragraph">斜齿轮，广泛应用于各类电机和结合处。具有低噪音、体积小、重量轻、传递转矩大、起动平稳等优点。</string>
+<string name="MA.Iron_Housing.01.Paragraph">一个由铁板制造的简单的铁质外壳。</string>
+<string name="MA.Iron_Housing.00.Title">铁质外壳</string>
+<string name="MA.Iron_Ore_Ping.00.Title">铁矿扫描脉冲</string>
+<string name="MA.Lithium_Ore_Ping.00.Title">锂矿扫描脉冲</string>
+<string name="MA.Iron_Ore_Ping.01.Paragraph">铁矿扫描脉冲用于新的铁矿脉。 更多信息，请参阅空白扫描脉冲的帮助指南。</string>
+<string name="MA.Iron_Ore.00.Title">铁矿</string>
+<string name="MA.Iron_Ore.01.Paragraph">可在约100m深度附近发现，铁矿可以使用熔炼炉炼成铁锭。 铁锭通常用于各种机器中。</string>
+<string name="MA.Lithium_Ore.01.Paragraph">可在约120m深度附近发现，锂矿可以使用熔炼炉炼成锂锭。 锂锭通常用于各种用于存储或传输电力的机器。</string>
+<string name="MA.Tin_Ore.01.Paragraph">可在地表附近发现，锌矿可以使用熔炼炉炼成锌锭。 锌锭通常用于各种需要轻量化的结构的基础机器。</string>
+<string name="MA.Iron_Ore.02.Paragraph">可以采用矿物分离器开采铁矿。</string>
+<string name="MA.Lithium_Ore.02.Paragraph">可以采用矿物分离器开采锂矿。</string>
+<string name="MA.Iron_Pipe.00.Title">铁管</string>
+<string name="MA.Iron_Pipe.01.Paragraph">在管道挤压机中由铁锭制成的简单铁管。</string>
+<string name="MA.Lithium_Pipe.01.Paragraph">在管道挤压机中由锂锭制成的简单锂管。</string>
+<string name="MA.Nickel_Pipe.01.Paragraph">在管道挤压机中由镍锭制成的简单镍管。</string>
+<string name="MA.Tin_Pipe.01.Paragraph">在管道挤压机中由锌锭制成的简单锌管。</string>
+<string name="MA.Titanium_Pipe.01.Paragraph">在管道挤压机中由钛锭制成的简单钛管。</string>
+<string name="MA.Iron_Plate.00.Title">铁板</string>
+<string name="MA.Iron_Plate.01.Paragraph">由铁锭在冲压机制造的一个简单的铁质板材。</string>
+<string name="MA.Lithium_Plate.01.Paragraph">由锂锭在冲压机制造的一个简单的锂质板材。</string>
+<string name="MA.Nickel_Plate.01.Paragraph">由镍锭在冲压机制造的一个简单的镍质板材。</string>
+<string name="MA.Stamper_Plant.00.Title">冲压机</string>
+<string name="MA.Stamper_Plant.01.Paragraph">冲压机是一种用于将金属锭冲压成板的机器。</string>
+<string name="MA.Tin_Plate.01.Paragraph">由锌锭在冲压机制造的一个简单的锌质板材。</string>
+<string name="MA.Titanium_Plate.01.Paragraph">由钛锭在冲压机制造的一个简单的钛质板材。</string>
+<string name="MA.Iron_Wire.00.Title">铁丝</string>
+<string name="MA.Iron_Wire.01.Paragraph">由挤压机中的铁锭制成的简单铁丝。</string>
+<string name="MA.Lithium_Wire.01.Paragraph">由挤压机中的锂锭制成的简单锂线。</string>
+<string name="MA.Nickel_Wire.01.Paragraph">由挤压机中的镍锭制成的简单镍线。</string>
+<string name="MA.Tin_Wire.01.Paragraph">由挤压机中的锌锭制成的简单锌线。</string>
+<string name="MA.Titanium_Wire.01.Paragraph">由挤压机中的钛锭制成的简单钛线。</string>
+<string name="MA.Jet_Pack.00.Title">喷气背包</string>
+<string name="MA.Jet_Pack.01.Paragraph">你发现了一种短途飞行的方法。 你有感觉它会超级费电.....</string>
+<string name="MA.Jet_Pack.02.Paragraph">按“J”键激活。只需一份，放入物品栏以生效。</string>
+<string name="MA.Suit_Cooler_MK1.01.Paragraph">更强悍的热能核心可以让升级后的加热器在远高于沸点的温度下保护使用者的安全。 电力使用量也有所增加。 只需一份，放入物品栏以生效。</string>
+<string name="MA.Suit_Headlight_MK1.01.Paragraph">卤素科技允许您以更高能效全功率运行大灯。只需一份，放入物品栏以生效。</string>
+<string name="MA.Suit_Heater_MK1.01.Paragraph">更强悍的热能核心可以让升级后的加热器在接近绝对零度的温度下保护使用者的安全。只需一份，放入物品栏以生效。</string>
+<string name="MA.Toxic_Particle_Filter.01.Paragraph">防护服的高级过滤器可以从空气中滤除有毒物质。只需一份，放入物品栏以生效。</string>
+<string name="MA.Jet_Turbine_Generator_Housing.00.Title">喷气涡轮发电机外壳</string>
+<string name="MA.Jet_Turbine_Generator_Housing.02.Header">建造</string>
+<string name="MA.Jet_Turbine_Generator_Housing.03.Paragraph">喷气涡轮发电机外壳尺寸为4×3的底，3m高,共36块。 然后在两个面上分别构造一个3m x 3m的进气口。</string>
+<string name="MA.Jet_Turbine_Generator_Housing.05.Left">峰值功率（丰富）：
+  峰值功率（稀缺）：
+  电能容量：
+  最大功率传输速率：
+  燃烧时间：
+  燃料：</string>
+<string name="MA.Jet_Turbine_Generator_Housing.06.Right">450 /s (HECF)
+ 182 /s (HECF)
+ 3000
+ 320 /s
+ 480 s
+ 高能复合燃料（High Energy Composite Fuel）</string>
+<string name="MA.Jet_Turbine_Generator_Intake.00.Title">喷气涡轮发电机进气口</string>
+<string name="MA.Jet_Turbine_Generator_Intake.01.Paragraph">喷射涡轮发电机是从化石燃料产生动力的一个更先进的方法。 它需要在精炼反应釜中由生物质（Biomass）生产的高能复合燃料。</string>
+<string name="MA.Jet_Turbine_Generator_Intake.02.Header">建造</string>
+<string name="MA.Jet_Turbine_Generator_Intake.03.Paragraph">喷气涡轮发电机外壳尺寸为4×3的底，3m高,共36块。 然后在两个面上分别构造一个3m x 3m的进气口。</string>
+<string name="MA.Jet_Turbine_Generator_Intake.05.Left">峰值功率（丰富）：
+  峰值功率（稀缺）：
+  电能容量：
+  最大功率传输速率：
+  燃烧时间：
+  燃料：</string>
+<string name="MA.Jet_Turbine_Generator_Intake.06.Right">450 /s (HECF)
+ 182 /s (HECF)
+ 3000
+ 320 /s
+ 480 s
+ 高能复合燃料（High Energy Composite Fuel）</string>
+<string name="MA.Laboratory_Component.00.Title">实验室组件</string>
+<string name="MA.Laboratory_Component.01.Paragraph">该实验室是用来解锁新的项目和工序的高级研究项目所必备的。 共需要27个实验室组件（每组9个组件，共3个堆叠制造），并且必须以3×3×3构成。</string>
+<string name="MA.Laboratory_Component.02.Paragraph">详情请参阅以下指南:</string>
+<string name="MA.LargeMinecart.00.Title">大型矿车</string>
+<string name="MA.LargeMinecart.01.Paragraph">矿车用于以中等速度批量转移物品。</string>
+<string name="MA.MinecartTurboRail.01.Paragraph">矿车用于以中等速度批量转移物品。</string>
+<string name="MA.LargeMinecart.03.Left">"最大速度：
+最大存储空间：
+加速度：
+ "</string>
+<string name="MA.MinecartTurboRail.03.Left">"最大速度：
+最大存储空间：
+加速度：
+ "</string>
+<string name="MA.LargeMinecart.04.Right">"1 m/s
+ 50
+ 0.5 m/s^2
+ "</string>
+<string name="MA.LargeMinecart.05.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.MinecartTurboRail.05.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.MinecartDepot.02.Paragraph">矿车的使用是直截了当的，只是简单的对现有的料斗-&gt;传送带模式的扩展。矿车通过矿车车库（Minecart Depot）加入你的矿车网络。</string>
+<string name="MA.MinecartDepot.03.Title">矿车资源处理</string>
+<string name="MA.MinecartDepot.04.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.MinecartTurboRail.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.LargeMinecart.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
+<string name="MA.LargeMinecart.08.Title">高级矿车控制</string>
+<string name="MA.LargeMinecart.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.MinecartDepot.06.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.MinecartTurboRail.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
+<string name="MA.MinecartDepot.05.Title">高级矿车控制</string>
+<string name="MA.Laser_Energy_Transmitter.00.Title">激光输电器</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.00.Title">激光输电器 MK3</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.00.Title">激光输电器 MK2</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.01.Paragraph">激光输电器（LET）是您供电网络的主干，它们可以传输能量最远64m，并可将其直接传输到机器，能量块或另一个LET以扩展范围。</string>
+<string name="MA.Laser_Energy_Transmitter.01.Paragraph">激光输电器（LET）是您供电网络的主干，它们可以传输能量最远64m，并可将其直接传输到机器，能量块或另一个LET以扩展范围。</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.01.Paragraph">激光输电器（LET）是您供电网络的主干，它们可以传输能量最远64m，并可将其直接传输到机器，能量块或另一个LET以扩展范围。</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.02.Paragraph">要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</string>
+<string name="MA.Laser_Energy_Transmitter.02.Paragraph">要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.02.Paragraph">要打开LET的控制面板，请按“交互”键（默认为“E”）。 这允许您升级镜片，这将提高功率传输。 您也可以切换发射模式，以使电量充满后再发出能量。 LET具有较小的内部电池容量，可用能量块与之互补，以确保供需不一致状态下供电的可靠性。</string>
+<string name="MA.LargeMinecart.06.Title">矿车资源处理</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.04.Left">能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.04.Left">能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</string>
+<string name="MA.Laser_Energy_Transmitter.04.Left">能量分组尺寸：
+最大分组速率：
+最大传输速率：
+能源容量：
+最大范围：</string>
+<string name="MA.Laser_Energy_Transmitter_MK2.05.Right">40
+ 1.67 /s
+ 66.7 /s
+ 192
+ 64m</string>
+<string name="MA.Laser_Energy_Transmitter_MK3.05.Right">64
+ 5 /s
+ 320 /s
+ 384
+ 64m</string>
+<string name="MA.Laser_Energy_Transmitter.05.Right">10
+ 1 /s
+ 10 /s
+ 64
+ 64m</string>
+<string name="MA.Leaves.01.Paragraph">可以从树上采集并放置或浸没。</string>
+<string name="MA.Leaves.00.Title">树叶</string>
+<string name="MA.Lift_Compressor.00.Title">升降机压缩器</string>
+<string name="MA.Lift_Compressor.01.Paragraph">连接到电梯活塞的底部，以提高气体再生的速率，来保证高强度使用时升降机的性能。 该压缩器必须由外部供电。 在一个电梯上安装两台压缩器，使升降机范围最大可达 256m。</string>
+<string name="MA.Lift_Compressor.03.Left">气体回复率：
+  能源使用：
+  能源容量：
+  传输功率：</string>
+<string name="MA.Lift_Compressor.04.Right">0.15 L/s
+ 1 /s
+ 150
+ 5 /s</string>
+<string name="MA.Lift_Manual_Control_Module.00.Title">升降机手动控制模块</string>
+<string name="MA.Lightweight_Machine_Housing.00.Title">轻型机械外壳</string>
+<string name="MA.Lightweight_Machine_Plates.00.Title">轻型机械台面</string>
+<string name="MA.Lightweight_Machine_Housing.01.Paragraph">一个小金属盒，用于轻量级物体，由锡板制成。</string>
+<string name="MA.Lightweight_Machine_Plates.01.Paragraph">一个小金属板，用于轻型物体。</string>
+<string name="MA.Lightweight_PCB.00.Title">轻型电路板</string>
+<string name="MA.Liquified_Resin.00.Title">液化树脂</string>
+<string name="MA.Liquified_Resin.01.Paragraph">硬化树脂可以使用几种不同的机器进行转化和精炼，以得到最终的材料。</string>
+<string name="MA.Liquified_Resin.02.Title">硬化树脂精炼</string>
+<string name="MA.Liquified_Resin.03.Paragraph">使用这些机器，放置在活动中的或者已经的母巢大脑附近，以提取和细化此材料。</string>
+<string name="MA.Titanium_Bar.00.Title">钛锭</string>
+<string name="MA.Lithium_Bar.00.Title">锂锭</string>
+<string name="MA.Lithium_Bar.01.Paragraph">锂锭通常用于存储或传输电力的机器中。 它们是由锂矿制成的，可以在表面以下至少120米处找到。</string>
+<string name="MA.Lithium_Coil.00.Title">锂线圈</string>
+<string name="MA.Lithium_Housing.00.Title">锂质外壳</string>
+<string name="MA.Lithium_Housing.01.Paragraph">一个由锂板制成的简单的锂质外壳。</string>
+<string name="MA.Lithium_Ore_Ping.01.Paragraph">如果以前发现的锂矿脉快要耗尽或太小而无开采价值，则可以使用锂矿石扫描脉冲找到新的的矿脉。 更多信息，请参阅空白矿石扫描脉冲的帮助指南。</string>
+<string name="MA.Tin_Ore_Ping.01.Paragraph">如果以前发现的锌矿脉快要耗尽或太小而无开采价值，则可以使用锌矿石扫描脉冲找到新的的矿脉。 更多信息，请参阅空白矿石扫描脉冲的帮助指南。</string>
+<string name="MA.Titanium_Ore_Ping.01.Paragraph">如果以前发现的钛矿脉快要耗尽或太小而无开采价值，则可以使用钛矿石扫描脉冲找到新的的矿脉。 更多信息，请参阅空白矿石扫描脉冲的帮助指南。</string>
+<string name="MA.Nickel_Housing.01.Paragraph">一个由镍板制造的简单的镍质外壳。</string>
+<string name="MA.Tin_Housing.01.Paragraph">一个由锌板制造的简单的锌质外壳。</string>
+<string name="MA.Titanium_Housing.01.Paragraph">一个由钛板制造的简单的钛质外壳。</string>
+<string name="MA.Nickel_Ore_Ping.00.Title">镍矿扫描脉冲</string>
+<string name="MA.Tin_Ore_Ping.00.Title">锌矿扫描脉冲</string>
+<string name="MA.Titanium_Ore_Ping.00.Title">钛矿扫描脉冲</string>
+<string name="MA.Lithium_Pipe.00.Title">锂管</string>
+<string name="MA.Nickel_Pipe.00.Title">镍管</string>
+<string name="MA.Pipe_Coater.00.Title">管道喷涂机</string>
+<string name="MA.Tin_Pipe.00.Title">锌管</string>
+<string name="MA.Titanium_Pipe.00.Title">钛管</string>
+<string name="MA.Transport_Pipe_Filter.00.Title">运输管过滤器</string>
+<string name="MA.Pipe_Extrusion_Plant.00.Title">管道挤压机</string>
+<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">管道挤压机是一种将金属锭转换为管道的机器。</string>
+<string name="MA.Pipe_Extrusion_Plant.02.Header">用法</string>
+<string name="MA.Pipe_Extrusion_Plant.03.Paragraph">从其他传送带把金属锭送到管道挤压机。 管道挤压机将金属锭转换为可用于其他工序的管材。</string>
+<string name="MA.Pipe_Extrusion_Plant.04.Paragraph">管道挤压机对于导弹制造的自动化至关重要。</string>
+<string name="MA.PCB_Assembling_Plant.03.Paragraph">从另一传送带（设备）进料，将金属线圈送入PCB组装机并转换为可用于其他工序的PCB。</string>
+<string name="MA.PCB_Assembling_Plant.04.Paragraph">PCB组装机对实验室研究的自动化至关重要。</string>
+<string name="MA.Stamper_Plant.04.Paragraph">冲压机对于实验室研究的自动化至关重要。</string>
+<string name="MA.Steel_Cutter_Head.00.Title">钢制刀头</string>
+<string name="MA.Stamper_Plant.03.Paragraph">从另一传送带（设备）进料，将金属锭送入冲压机。冲压机会将金属锭转换为可用于其他工序的金属板。</string>
+<string name="MA.Lift_Manual_Control_Module.01.Paragraph">连接到升降机活塞的一侧，以便您可以使用防护服无线遥控电梯的速度。 使用“Home”和“End”键可提高或降低升降机速度。</string>
+<string name="MA.Lithium_Ore.00.Title">锂矿</string>
+<string name="MA.Lithium_Plate.00.Title">锂板</string>
+<string name="MA.Lithium_Wire.00.Title">锂线圈</string>
+<string name="MA.Location_Marker.00.Title">位置标记仪</string>
+<string name="MA.Location_Marker.01.Paragraph">位置标记仪可以用于存储一组坐标，然后可用于任何需要坐标的机器，例如传送器。</string>
+<string name="MA.Location_Marker.02.Header">用法</string>
+<string name="MA.Location_Marker.03.Paragraph">创建位置标记后，将其放在您的快捷栏中，选中，并将建造枪指向所需的位置。 然后按（默认为“LMB”）。 如果成功了，您的头部显示将在选中位置标记时在目标点上显示一列光。</string>
+<string name="MA.Location_Marker.04.Paragraph">请注意，您的防护服不支持同时与多个位置标记交互，因此我们建议您在物品栏中携带一个位置标记，以避免混淆。</string>
+<string name="MA.Logistics_Hopper.00.Title">物流料斗</string>
+<string name="MA.Logistics_Hopper.01.Paragraph">物流料斗是标准储存料斗的便宜版本，只能存储2单位物品，处理每件物品需要10秒钟。 物流料斗适合作为白板矿物分离器的输出料斗。 如果成为物流瓶颈，应该考虑升级。</string>
+<string name="MA.Logistics_Hopper.02.Paragraph">有关储物斗的更多信息，请参阅标准储存料斗指南。</string>
+<string name="MA.Low_Grade_Steel_Bar.00.Title">低级钢锭</string>
+<string name="MA.Low_Grade_Steel_Bar.01.Paragraph">低级钢锭是由铁和镍在制造工厂组合而成，是许多高端制造工序的重要组成部分。</string>
+<string name="MA.MK2_Solar_Panel_Component.00.Title">MK2 太阳能板组件</string>
+<string name="MA.MK2_Solar_Panel_Component.01.Paragraph">MK2 太阳能板组件是3m宽，3m长，1m高的发电设备。 按照这个布局放置9个太阳能电池板组件来构造机器。 它必须直接接受阳光的照射。</string>
+<string name="MA.Ore_Smelter.07.Paragraph">熔炼炉的速度（和功率要求）可以通过一些可以研究的增压进气升级来提高。 一旦被制作出来，应放在熔炼炉上方。</string>
+<string name="MA.MK2_Solar_Panel_Component.02.Paragraph">该发电机只能放置在研究实验室，精炼厂，货梯，MK4＆MK5电力存储系统等先进机器之上。</string>
+<string name="MA.MK2_Solar_Panel_Component.04.Left">峰值功率（丰富）：
+  峰值功率（稀缺）：
+  能量容量：
+  最大传输功率：
+  燃烧时间：
+  燃料：</string>
+<string name="MA.MK2_Solar_Panel_Component.05.Right">405 /s
+ 162 /s
+ 1500
+ 无限制
+ n/a（不适用）
+ 阳光</string>
+<string name="MA.Macerator.00.Title">碎石机</string>
+<string name="MA.Macerator.01.Paragraph">能够雾化一些人类已知的具有弹性的材料。 有时，雾化过程返回一种矿物含量丰富的化合物，主要由估算物品所含的元素之一组成。 输出的物品与正常矿石无法区分，可以这样处理。</string>
+<string name="MA.Macerator.02.Left">能量需求：</string>
+<string name="MA.Macerator.03.Right">是</string>
+<string name="MA.Macerator.04.Header">提示与技巧！</string>
+<string name="MA.Macerator.05.Paragraph">- 该机器由传送带进料，并将任何产出的矿石输出到相邻的储存料斗。</string>
+<string name="MA.Magnetic_Drill_Motor.00.Title">磁力钻机</string>
+<string name="MA.Magnetic_Drill_Motor.01.Paragraph">以增加用电量为代价提高矿石分离器的速度。</string>
+<string name="MA.Magnetic_Drill_Motor.03.Left">分离速度：</string>
+<string name="MA.Magnetic_Drill_Motor.04.Right">800%</string>
+<string name="MA.Manufacturing_Plant.00.Title">制造工厂</string>
+<string name="MA.Manufacturing_Plant.01.Paragraph">制造工厂可用于制造大部分机器和物品。 一些物品需要专门的装配机器，这将列在对应项目的手册（H）条目中。 要打开制造界面，请按“交互”键（默认为“E”）。 您还可以随时使用您的防护服手动制作有限数量的物品，并通过打开手工制作界面（默认为“C”）来制作工具。</string>
+<string name="MA.Manufacturing_Plant.02.Header">制造界面</string>
+<string name="MA.Manufacturing_Plant.03.Paragraph">制造界面分为四个组成部分，从左到右依次：可用蓝图列表，所选项目信息，资源要求。</string>
+<string name="MA.Manufacturing_Plant.04.Paragraph">蓝图窗口顶部的标签允许您按类型进行筛选，例如：能量，自动化以及防护服升级。 在此窗口的底部，可以输入自定义筛选。</string>
+<string name="MA.Manufacturing_Plant.05.Paragraph">当选择蓝图时，将显示有关它及其组件的信息。 如果您需要所需的材料，可以通过按“制造”按钮，或者按住“Ctrl”键并按下“制造”按钮一次制作25单位。 按帮助键（默认为“H”）可以为所选项目提供相关帮助。</string>
+<string name="MA.Manufacturing_Plant.06.Header">自动化</string>
+<string name="MA.Manufacturing_Plant.07.Paragraph">在制造工厂手动制作物品不需要任何能量，几乎是瞬间的，因为它与您的防护服构建工具接驳以执行工作。 如果您希望在离开时持续制造一件物品，那么需使用制造工厂，但是这样是要消耗能量和时间的。 选择要制造的物品，输入所需的物品数量，或者选择“重复”来持续制造，然后按“自动”按钮。 所需的材料必须位于相邻的存储料斗中，将其I/O权限设置为“添加/删除”或“仅移除”（推荐），制造的物品也将放置在储存料斗中，该存储料斗应具有I/O “仅添加”状态。</string>
+<string name="MA.Manufacturing_Plant.08.Paragraph">可以切换到另一个项目的自动化，或者通过点击进度图标完全取消。 在这两种情况下，工厂将首先完成目前正在开发的项目。</string>
+<string name="MA.Manufacturing_Plant.09.Header">模块</string>
+<string name="MA.Manufacturing_Plant.10.Paragraph">一些蓝图可能需要附加到制造工厂的模块（如水刀切割机）。 这将列在该项目的手册条目中。</string>
+<string name="MA.Mass_Storage_Block.00.Title">大容量存储块</string>
+<string name="MA.Mass_Storage_Block.01.Paragraph">这是自动化大容量存储的基础。 无法手动访问。 每个块是可容纳25个物品的堆栈（自然只能在栈顶对项目进行插入和删除）。 并排放置大容量存储块可以创建更大的组合存储空间。</string>
+<string name="MA.Mass_Storage_Block.02.Header">警告！</string>
+<string name="MA.Mass_Storage_Block.03.Paragraph">与储物箱无关！</string>
+<string name="MA.Mass_Storage_Input_Port.00.Title">大容量存储输入端口</string>
+<string name="MA.Mass_Storage_Input_Port.01.Paragraph">将此块放在大容量存储块旁边以将物品输入到大容量存储器中。 可以从传送带直接进给，以便将物品一个个加入。不同的物品类型可以由同一个输入端口依次导入。</string>
+<string name="MA.Mass_Storage_Input_Port.02.Header">警告！</string>
+<string name="MA.Mass_Storage_Input_Port.03.Paragraph">与储物箱无关！</string>
+<string name="MA.Mass_Storage_Output_Port.00.Title">大容量存储输出端口</string>
+<string name="MA.Mass_Storage_Output_Port.01.Paragraph">将此块放在大容量存储块旁边，以将物料从大容量存储器输出到传送带。 您需要手动指定要从大容量存储中提取的单个项目。 如果大容量存储器中指定的项目可用，机器人将逐个抓取它们，并将物品放置在内置输送机上。</string>
+<string name="MA.Mass_Storage_Output_Port.02.Header">提示与技巧！</string>
+<string name="MA.Mass_Storage_Output_Port.03.Paragraph">注意这个块的指向！ 就像普通的传送带一样，它将物品移动到一个特定的方向。</string>
+<string name="MA.Mass_Storage_Output_Port.04.Paragraph">要分配输出的项目，请在快捷栏中保存所需项目，对着输出端口，然后按E</string>
+<string name="MA.Mass_Storage_Output_Port.05.Header">警告！</string>
+<string name="MA.Mass_Storage_Output_Port.06.Paragraph">与储物箱无关！</string>
+<string name="MA.Mass_Storage_Stocking_Port.00.Title">大容量存货端口</string>
+<string name="MA.Mass_Storage_Stocking_Port.01.Paragraph">"大容量存货端口可以将物品受控地插入大容量存储设备，以防止存储溢出。 
+ "</string>
+<string name="MA.Mass_Storage_Stocking_Port.02.Left">"端口容量：
+ 无人机容量：
+ "</string>
+<string name="MA.Mass_Storage_Stocking_Port.03.Right">"50
+ 12
+ "</string>
+<string name="MA.Mass_Storage_Stocking_Port.04.Paragraph">"大容量存储端口必须挨着大容量储存箱。 按E打开用于配置库存物品和库存限制的界面。 该端口将仅添加符合特定限制的库存物品。 如果是一个标准端口，其余物品总会被添加进来。
+ 
+  调整储存限制时按住Ctrl键，Shift键或Alt键可以分别以10,100或1000的增量调整限制。
+ "</string>
+<string name="MA.Mass_Storage_Stocking_Port.05.Paragraph">"
+ 您可以右键单击空插槽以按名称搜索项目或按按钮选择以轻松设置库存项目。 多方块组件是特殊的，因此它们将无法被一般搜索得到，搜索 multi, placement, or component来获取这些方块的列表。
+ 
+  端口的内部库存可以使用接口中的标签按钮进行锁定，以防止端口在已达到库存限制的情况下收集物品。 此功能旨在限制高价值物品的积压。
+ "</string>
+<string name="MA.Massive_Faceted_Eye.00.Title">巨型复眼</string>
+<string name="MA.Massive_Faceted_Eye.01.Paragraph">来自当地飞行生物的眼睛是出色的光学元件。 这一个是遇到的最大的标本，足够用来利用了。</string>
+<string name="MA.Matter_Mover.00.Title">物质传送机</string>
+<string name="MA.Matter_Mover.01.Paragraph">物质传送机是一种高能高效的围绕您的采矿作业移动资源的方式。 使用简单，与任何其他机器一样供电，并将它们放置在源存储料斗附近，并面向目的储存料斗。 能耗不取决于距离。 需要到目的地料斗的线性视野。</string>
+<string name="MA.Matter_Mover.03.Left">最大运输速率：
+  能耗要求：
+  最大传输功率：
+  能源容量：
+  最大范围：</string>
+<string name="MA.Matter_Mover.04.Right">300 件/分
+ 64 /件
+ 256 /s /面
+ 512
+ 64m</string>
+<string name="MA.Mesh_Weaver.00.Title">水晶网编织机(Crystal Mesh Weaver)</string>
+<string name="MA.Mesh_Weaver.01.Paragraph">水晶网编织机(Crystal Mesh Weaver)在分子水平处理晶体沉积物以形成晶体网格。 该机消耗50单位能量持续工作8秒，将32单位晶矿结合到晶体网格中。</string>
+<string name="MA.MinecartDepot.00.Title">矿车仓库</string>
+<string name="MA.MinecartDepot.01.Paragraph">矿车仓库用来将矿车加入您的矿车网络。 只需在仓库附近放置一个储料斗，并确保仓库接触任何轨道。 每个仓库每30秒可添加一个矿车，来为内部部件提供冷却时间。</string>
+<string name="MA.MinecartLoadStation.00.Title">矿车装载车站</string>
+<string name="MA.MinecartLoadStation.01.Paragraph">把材料从相连的存储料斗加入停靠的矿车中。</string>
+<string name="MA.MinecartTurboRail.00.Title">基础矿车</string>
+<string name="MA.MinecartTurboRail.04.Right">1m/s
+ 25
+ 0.5m/s^2
+ 16
+ 15 s</string>
+<string name="MA.MinecartTurboRail.06.Title">基础矿车</string>
+<string name="MA.MinecartTurboRail.08.Title">高级矿车控制</string>
+<string name="MA.MinecartUnloadStation.00.Title">矿车卸货车站</string>
+<string name="MA.MinecartUnloadStation.01.Paragraph">将装载的材料卸载到附加的存储料斗中。</string>
+<string name="MA.Mini_Hopper.00.Title">迷你料斗</string>
+<string name="MA.Mini_Hopper.01.Paragraph">迷你料斗是标准储存料斗的便宜版本，可以存储10个物品，处理每个物品需要30秒的时间。 迷你料斗适用于CPH的输入，热能发电机或其他长时间工作的机器的输入料斗。 如果成为瓶颈，应该考虑升级。</string>
+<string name="MA.Mini_Hopper.02.Paragraph">关于存储料斗的更多信息请参阅标准存储料斗指南。</string>
+<string name="MA.Missile_Turret_MK1.00.Title">导弹炮塔 MK1</string>
+<string name="MA.Missile_Turret_MK1.01.Paragraph">向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。导弹炮塔需要面向目标的直线视野，应使开火区域最大化。</string>
+<string name="MA.Missile_Turret_MK1.03.Left">最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</string>
+<string name="MA.Missile_Turret_MK1.04.Right">64m
+ 512m
+ 75k - 750k (基于导弹)
+ 1
+ 15 s</string>
+<string name="MA.Missile_Turret_MK2.00.Title">导弹炮塔 MK2</string>
+<string name="MA.Missile_Turret_MK2.01.Paragraph">向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。</string>
+<string name="MA.Missile_Turret_MK2.03.Left">最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</string>
+<string name="MA.Missile_Turret_MK2.04.Right">64m
+ 512m
+ 50,000 (基于导弹)
+ 2
+ 15 s</string>
+<string name="MA.Missile_Turret_MK3.00.Title">导弹炮塔 MK3</string>
+<string name="MA.Missile_Turret_MK3.01.Paragraph">向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。</string>
+<string name="MA.Missile_Turret_MK3.03.Left">最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</string>
+<string name="MA.Missile_Turret_MK3.04.Right">64m
+ 512m
+ 50,000 (基于导弹)
+ 3
+ 15 s</string>
+<string name="MA.Missile_Turret_MK4.00.Title">导弹炮塔 MK4</string>
+<string name="MA.Missile_Turret_MK4.01.Paragraph">向大型目标发射单一用途的导弹。备用弹药应该贮存在相连的存储料斗中。</string>
+<string name="MA.Missile_Turret_MK4.03.Left">最小范围：
+  最大范围：
+  伤害（每导弹）：
+  每次齐射数目：
+  装填时间：</string>
+<string name="MA.Missile_Turret_MK4.04.Right">64m
+ 512m
+ 50,000 (基于导弹）
+ 4
+ 15 s</string>
+<string name="MA.Nickel_Bar.00.Title">镍锭</string>
+<string name="MA.Nickel_Bar.01.Paragraph">镍锭通常用于先进的机器。 它们由镍矿制成，可以在表面以下至少400米处找到。</string>
+<string name="MA.Nickel_Coil.00.Title">镍线圈</string>
+<string name="MA.Nickel_Housing.00.Title">镍质外壳</string>
+<string name="MA.Nickel_Ore_Ping.01.Paragraph">如果以前发现的镍矿脉快要耗尽或太小而无开采价值，则可以使用镍矿石扫描脉冲找到新的的矿脉。 更多信息，请参阅空白矿石扫描脉冲的帮助指南。</string>
+<string name="MA.Nickel_Plate.00.Title">镍板</string>
+<string name="MA.Nickel_Wire.00.Title">镍线</string>
+<string name="MA.Orange_GlowPod.00.Title">橘色发光器</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.00.Title">轨道能量发射器组件</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.01.Paragraph">我们在这个星球上的顶级工程。 轨道能量发射器（OET）将能够向轨道发送足够的能量，以便我们开始重建空间站。 当我们为OET提供动力时，我们必须保护我们的基地，因为如果我们的中央电力中心被严重损坏，OET将迅速失去充能。</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.02.Header">建造</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.03.Paragraph">轨道能量发射器是一个庞大的工程，总共需要1053个组件。 它必须建造为13米，9米乘9米的基座，有清晰的天空可见。</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.05.Left">总共能量需求：
+最大传输功率：</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.06.Right">100,000,000
+ 100,000 /s</string>
+<string name="MA.Ore_Smelter.00.Title">矿石熔炼炉</string>
+<string name="MA.Ore_Smelter.01.Paragraph">熔炼炉将原矿转化为可用于制造工厂和其他地方制造新机器和物品的金属锭。</string>
+<string name="MA.Ore_Smelter.02.Paragraph">最初，您将需要手动添加矿石，这可以通过按“交互”按钮（默认为“E”）打开熔炼炉控制面板。 然后，您可以通过按“进料”按钮添加矿石，或者将特定类型的矿石拖入冶炼厂。 控制面板空的时候显示每个金属锭需要多少矿石。</string>
+<string name="MA.Ore_Smelter.03.Paragraph">一旦熔炼炉有了足够的矿石，它将开始升温，这需要来自附接的能量块或发电机提供的电力。 当达到正确的温度时，它将开始将矿石转换成可通过点击控制面板底部的输出槽来收集的金属锭。</string>
+<string name="MA.Ore_Smelter.04.Header">自动化</string>
+<string name="MA.Ore_Smelter.05.Paragraph">冶炼厂应尽快自动化，增加输入和输出储存料斗。 输入料斗应设置为“仅移除”的I / O状态。 输入料斗必须足够大，以满足最低的矿石要求。</string>
+<string name="MA.Ore_Smelter.06.Header">升级</string>
+<string name="MA.Ore_Smelter.08.Header">额外的熔炼炉</string>
+<string name="MA.Ore_Smelter.09.Paragraph">您开始的熔炼炉是一套难以复制的高级套件。 需要大量的研究和一些先进的材料才能制造。 一个基本的熔炼炉也可以帮助解决瓶颈问题，但缓慢，效率低下，无法升级。</string>
+<string name="MA.Ore_Thief.00.Title">赛博坦矿石小偷 3000（tm）</string>
+<string name="MA.Ore_Thief.01.Paragraph">最新的机器，以帮助您的采矿作业是“Ore Thief 3000”！ （专利申请中）。 您也可以免除将矿石放入储料斗中的苦难和乏味，而让我们为您辛勤工作！
+
+  拥有大规模的100个内部存储单元，Ore Thief 3000可以以每分钟3,300的速度卸载到任何相邻的存储料斗！
+
+  只要以3x3的布局构建全新的Ore Thief 3000（tm），并提供每个矿石5单位能量，然后站上去，让我们干脏活累活！</string>
+<string name="MA.Ore_Thief.03.Left">"矿石收集速度：
+  内部存储器：
+  能源使用：
+ "</string>
+<string name="MA.Ore_Thief.04.Right">"高达3,300 /分钟！
+  100单位矿石！
+  每单位矿石只消耗5单位能量！
+ "</string>
+<string name="MA.Organic_Coal_Enricher.00.Title">有机质煤炭富集器</string>
+<string name="MA.Organic_Coal_Enricher.01.Paragraph">有机质煤炭富集器使用少量的电力来增加热能发电机中的煤的能量产出。有机质煤炭富集器在15秒的时间内使用0.1pps将普通煤炭加工成富氧煤。</string>
+<string name="MA.Organic_Cutter_Head.00.Title">有机质刀头</string>
+<string name="MA.Organic_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 刀头会随着时间的推移磨损。</string>
+<string name="MA.Organic_Cutter_Head.02.Paragraph">有机刀头由当地生物的刺制成，比钢刀头效率更高，但更快速地磨损。</string>
+<string name="MA.Organic_Cutter_Head.04.Left">效率：
+  最大硬度：
+ 耐用性：</string>
+<string name="MA.Organic_Cutter_Head.05.Right">50%
+ 250
+ 1500</string>
+<string name="MA.Organic_Lens.00.Title">有机透镜</string>
+<string name="MA.Organic_Lens.01.Paragraph">插入激光输电器以提高其功率传输速率。</string>
+<string name="MA.Organic_Lens.03.Left">能量传输速率：</string>
+<string name="MA.Organic_Lens.04.Right">200%</string>
+<string name="MA.Organic_Power_Storage.00.Title">有机能量块</string>
+<string name="MA.Organic_Power_Storage.01.Paragraph">有机蓄电池可以储存高达8500的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器（不推荐用能量块输电）。</string>
+<string name="MA.Organic_Power_Storage.02.Paragraph">可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Organic_Power_Storage.03.Paragraph">有机能量块相对于其成本而言具有较大的能量容量，但是其传输速度更慢。</string>
+<string name="MA.Organic_Power_Storage.05.Left">能源容量：
+  最大传输功率：</string>
+<string name="MA.Organic_Power_Storage.06.Right">8500
+ 500 /s</string>
+<string name="MA.Organic_Rock.00.Title">有机岩</string>
+<string name="MA.Organic_Rock.01.Paragraph">有机岩石是由当地动物群自然创造的岩石。 有机岩可以被分布在世界各地，更常见于Overminds四周和洞穴系统。 有机岩也可以从Camobots掉落获得。</string>
+<string name="MA.Overclocked_Crystal.00.Title">超频水晶</string>
+<string name="MA.Overclocked_Crystal.01.Paragraph">"超频水晶是更先进的水晶钟，通过使用大量的电源超频正常的水晶钟来创造。 超频晶体被广泛用于各种各样的T4机器中。 "</string>
+<string name="MA.PCB_Assembling_Plant.00.Title">PCB组装机</string>
+<string name="MA.PCB_Assembling_Plant.01.Paragraph">PCB组装机用于从线圈制造印刷电路板。</string>
+<string name="MA.PCB_Assembling_Plant.02.Header">用法</string>
+<string name="MA.Particle_Compressor.00.Title">粒子压缩机</string>
+<string name="MA.Particle_Compressor.01.Paragraph">粒子压缩机用于将最多4个粒子过滤器的输出压缩成更为可用的形态。 粒子压缩机的输出非常密集以至于类似于液体。 粒子压缩机以3x3x3形式建造。</string>
+<string name="MA.Particle_Filter.00.Title">粒子过滤器</string>
+<string name="MA.Particle_Filter.01.Paragraph">粒子过滤器是防护服的颗粒过滤系统的更先进版本，使用以前用于在有毒洞穴存活的原始技术，我们现在可以从各种洞穴中发现的空气中提取特定的成分。 粒子过滤器是以5x3x5的形式构建的。</string>
+<string name="MA.Particle_Storage.00.Title">粒子存储器</string>
+<string name="MA.Particle_Storage.01.Paragraph">粒子存储器用于存储最多4粒子压缩机的输出。 该多方块设备有助于装瓶之前收集并压缩的颗粒的储存。粒子存储器是以3x7x3的形式构建的。</string>
+<string name="MA.Perfect_Faceted_Eye.00.Title">完美复眼</string>
+<string name="MA.Perfect_Faceted_Eye.01.Paragraph">来自当地飞行生命体的眼睛，是出色的光学元件。 这一个来自一个较大的标本，并且足以用来使用。</string>
+<string name="MA.Pipe_Coater.01.Paragraph">采用先进的粘合技术，由于其独特的分子结构作为粘结剂，现在可以将晶体纤维网的耐高耐热性应用于使用塑料颗粒的铜管中。 接合过程以50pps的速率以确保均匀的涂层，耗能300。</string>
+<string name="MA.Plastic_Pellet.00.Title">塑料颗粒</string>
+<string name="MA.Plastic_Pellet.01.Paragraph">塑料可以在生物质的精炼厂反应釜中制造。 它们用于喷气涡轮机的建造。</string>
+<string name="MA.Power_Storage_Block.00.Title">能量块</string>
+<string name="MA.Power_Storage_Block.01.Paragraph">蓄电池可以储存多达200单位能量。 它将从连接的发电机中获取能量，并将其提供给任何相连的机器或输电器。 多个电力存储模块将在自身之间共享能量，但是对于几个模块之外的能量传输效率不高，因此应该使用激光输电器。</string>
+<string name="MA.Power_Storage_Block.02.Paragraph">可以通过按“提取”键（默认值“Q”）从蓄电块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Power_Storage_MK2.02.Paragraph">可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Power_Storage_MK4.03.Paragraph">可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Power_Storage_MK5.03.Paragraph">可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Power_Storage_Block.03.Paragraph">可以在研究站解锁升级到基础能量块。</string>
+<string name="MA.Power_Storage_Block.05.Left">电力容量：
+  最大传输功率：</string>
+<string name="MA.Power_Storage_Block.06.Right">200
+ 无</string>
+<string name="MA.Power_Storage_MK2.00.Title">能量块 MK2</string>
+<string name="MA.Power_Storage_MK3.00.Title">能量块 MK 3</string>
+<string name="MA.Power_Storage_MK4.00.Title">能量块 MK 4</string>
+<string name="MA.Power_Storage_MK5.00.Title">能量块 MK 5</string>
+<string name="MA.Power_Storage_MK2.01.Paragraph">能量块 MK 2 可以储存高达1500的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器。</string>
+<string name="MA.Power_Storage_MK3.01.Paragraph">能量块 MK 3 可以储存高达5000的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器。</string>
+<string name="MA.Power_Storage_MK4.01.Paragraph">能量块 MK 4 可以储存高达270000的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器。</string>
+<string name="MA.Power_Storage_MK5.01.Paragraph">能量块 MK 5 可以储存高达450万单位的能量。 它将从连接的发电机中获取能量，并将其提供给任何连接的机器或激光输电器。 多个电力存储模块将共享能量，但是对于几个模块以外的能量传输效率不高，因此应该使用激光功率发射器。</string>
+<string name="MA.Power_Storage_MK2.04.Left">能量容量： 
+最大传输功率：</string>
+<string name="MA.Power_Storage_MK4.05.Left">能量容量： 
+最大传输功率：</string>
+<string name="MA.Power_Storage_MK2.05.Right">1500
+ 无</string>
+<string name="MA.Power_Storage_MK3.02.Paragraph">可以通过按“提取”键（默认值“Q”）从能量块中提取能量，并使用交互键（默认值“E”）进行充能。</string>
+<string name="MA.Power_Storage_MK3.03.Header">产品规格</string>
+<string name="MA.Power_Storage_MK3.04.Left">能量容量： 
+最大传输功率：</string>
+<string name="MA.Power_Storage_MK3.05.Right">5000
+ 无</string>
+<string name="MA.Power_Storage_MK5.05.Left">能量容量： 
+最大传输功率：</string>
+<string name="MA.PowerBoosterChargerMK1.03.Left">容量：</string>
+<string name="MA.Power_Storage_MK4.02.Paragraph">该电池的密度是MK3的两倍，所以强烈建议您尽快升级。 它们以3x3x3立方体构成，共27个块。</string>
+<string name="MA.Power_Storage_MK4.06.Right">270000
+ 10,000 /台</string>
+<string name="MA.Power_Storage_MK5.02.Paragraph">该电池的密度是MK3电源块的四倍，强烈建议您尽快升级。 它们的构造形式为5x9x5，总共225个块。</string>
+<string name="MA.Power_Storage_MK5.06.Right">450万
+ 10,000 /台</string>
+<string name="MA.PowerBoosterChargerMK1.00.Title">Power Boosters充能设备 MK1</string>
+<string name="MA.PowerBoosterChargerMK1.01.Paragraph">本机将自动建造并充能MK1Power Boosters。 使用铜线圈和一些能量。</string>
+<string name="MA.PowerBoosterChargerMK1.04.Right">100</string>
+<string name="MA.PowerBoosterMK1.00.Title">ARTHER Power Boosters MK1</string>
+<string name="MA.PowerBoosterMK2.00.Title">ARTHER Power Boosters MK2</string>
+<string name="MA.PowerBoosterMK3.00.Title">ARTHER Power Boosters MK3</string>
+<string name="MA.PowerBoosterMK4.00.Title">ARTHER Power Boosters MK4</string>
+<string name="MA.PowerBoosterMK5.00.Title">ARTHER Power Boosters MK5</string>
+<string name="MA.PowerBoosterMK1.01.Paragraph">使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。这些是由Power Boosters充能设备自动制造的。</string>
+<string name="MA.PowerBoosterMK1.03.Left">容量：</string>
+<string name="MA.PowerBoosterMK1.04.Right">100</string>
+<string name="MA.PowerBoosterMK2.01.Paragraph">使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。</string>
+<string name="MA.PowerBoosterMK2.03.Left">容量：</string>
+<string name="MA.PowerBoosterMK2.04.Right">250</string>
+<string name="MA.PowerBoosterMK3.03.Left">容量：</string>
+<string name="MA.PowerBoosterMK5.03.Left">容量：</string>
+<string name="MA.PowerBoosterMK5.04.Right">2500</string>
+<string name="MA.PowerBoosterMK3.01.Paragraph">使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。这些是由Power Boosters充能设备自动制造的。</string>
+<string name="MA.PowerBoosterMK4.01.Paragraph">使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。这些是由Power Boosters充能设备自动制造的。</string>
+<string name="MA.PowerBoosterMK5.01.Paragraph">使用将立即恢复ARTHER的电源。做好计划，您可以延长地下行程并为机器充能。这些是由Power Boosters充能设备自动制造的。</string>
+<string name="MA.PowerBoosterMK3.04.Right">500</string>
+<string name="MA.PowerBoosterMK4.04.Right">1000</string>
+<string name="MA.Primary_PCB.00.Title">初级PCB</string>
+<string name="MA.Pristine_Faceted_Eye.00.Title">原始复眼</string>
+<string name="MA.Pristine_Faceted_Eye.01.Paragraph">来自当地飞行生物的眼睛，可用作出色的光学元件。 这一份质量就够好。</string>
+<string name="MA.Pristine_Heavy_Chitin.00.Title">原始重甲壳素</string>
+<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
+<string name="MA.Pristine_Light_Chitin.00.Title">原始轻甲壳素</string>
+<string name="MA.Pristine_Light_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
+<string name="MA.Pristine_Phosphorescent_Gland.00.Title">原始磷脂腺</string>
+<string name="MA.Pristine_Phosphorescent_Gland.01.Paragraph">来自当地生物的这些腺体似乎具有适合蓄电的特性。 这一个质量就足够用。 如果我们可以设置一些陷阱来杀死这个星球上的史莱姆，同时我们可以养殖它们。</string>
+<string name="MA.Pristine_Stinger.00.Title">原始刺</string>
+<string name="MA.Pristine_Stinger.01.Paragraph">这种毒刺是非常锋利但相对较脆的。 它可能在矿石开采领域获得应用。</string>
+<string name="MA.Purple_GlowPod.00.Title">紫色发光器</string>
+<string name="MA.Pyrothermic_Generator.00.Title">热能发电机</string>
+<string name="MA.Pyrothermic_Generator.01.Paragraph">热能发电机是CPH供能不足后最早的发电方式。 它将寻找一个包含可燃材料的附加储存料斗，并将其燃烧以发电。 该设备本身能够存储多达1000个电力，它将把能量传递给连接到它的任何机器或能量块。</string>
+<string name="MA.Pyrothermic_Generator.02.Paragraph">"热能发电机需要大量的氧气供应来运行，地下通风不足会迅速降低发电机的效率。 您应考虑使用激光功率送电器将电力从地面发送到深层采矿作业。 "</string>
+<string name="MA.Pyrothermic_Generator.04.Left">电源（丰富）：
+  电源（稀缺）：
+  能源容量：
+  最大传输功率：
+  燃烧时间：
+  燃料：</string>
+<string name="MA.Pyrothermic_Generator.05.Right">9.7 /s (煤)
+ 3.9 /s (煤)
+ 1000
+ 32 /s
+ 180 /s
+ 木头/煤.</string>
+<string name="MA.Rack_Rail.00.Title">机架导轨</string>
+<string name="MA.Rack_Rail.01.Paragraph">货梯用来运输材料的轨道。</string>
+<string name="MA.Rack_Rail.02.Paragraph">有关详细信息，请参阅货梯控制器部分。</string>
+<string name="MA.Rack_Railer.00.Title">机架轨道布置器</string>
+<string name="MA.Rack_Railer.01.Paragraph">机架轨布置器是一款适于把一对铁锭变成一个有用的货梯导轨的机械。</string>
+<string name="MA.Rack_Railer.03.Left">能量需求：</string>
+<string name="MA.Rack_Railer.04.Right">100 pps</string>
+<string name="MA.Rack_Railer.05.Paragraph">有关详细信息，请参阅货梯控制器部分。</string>
+<string name="MA.Red_Canvas.00.Title">红色帆布</string>
+<string name="MA.Red_Canvas.01.Paragraph">完全红色的装饰用方块。</string>
+<string name="MA.Refinery_Controller.00.Title">精炼控制器</string>
+<string name="MA.Refinery_Controller.01.Paragraph">"精炼厂允许您将外星球上发现的碳水化合物重新组合成有用的材料。 它需要两部分：精炼厂控制器和精炼厂反应釜。 "</string>
+<string name="MA.Refinery_Controller.02.Paragraph">精炼控制器是保持创建所需产品所需的精确化学平衡的机器。 为了发挥作用，需要向控制器提供原始产品以及足够的功率。 连接到控制器的存储料斗可以接收输出产品。
+
+将控制器连接到反应釜。 如果已连接，弹出窗口将显示，控制器将朝向反应釜，并延伸管道以连接到它。
+
+精炼厂一次只能处理一种产品：您可以在选择控制器的同时按“e”循环浏览不同的配方。 只有在内部存储可以容纳它之前，才能开始产生新的产品; 如果仍有不同的产品在那里，生产就无法继续。
+
+您可以通过按“q”，或连接储物斗来从控制器获取产品。</string>
+<string name="MA.Refinery_Controller.04.Left">制造时间：
+  需要能量 ：
+  能量容量：
+  最大充电率：</string>
+<string name="MA.Refinery_Controller.05.Right">"10 s/桶
+ 100 /s/桶
+ 3000 /桶
+ 100  /s/桶"</string>
+<string name="MA.Refinery_Reactor_Vat.00.Title">精炼反应釜</string>
+<string name="MA.Refinery_Reactor_Vat.01.Paragraph">"精炼厂允许您将外星球上发现的碳水化合物重新组合成有用的材料。 它需要两部分：精炼厂控制器和精炼厂反应釜。 "</string>
+<string name="MA.Refinery_Reactor_Vat.02.Paragraph">精炼反应釜是由反应釜组件块构建的大型结构。当3×3×3时，将显示为大型机器。
+
+反应釜包含重组碳水化合物所需的化学过程。为了起作用，它必须连接到控制器。可以在连接到控制器的每个顶部上堆叠反应釜，以便允许控制器同时在多个容器上操作。这将为您带来生产速率，产出产品的存储和电力成本的线性增长，每个罐在它腾出地方来生产之前可以存储10个已完成的产品。在一个控制器上使用更多的容器的好处是避免制造多个昂贵的控制器。
+
+每个反应釜包含许多电气管道以及许多输送管道。因此，控制器的用电不需单独布置。精炼厂的最大储存能量取决于连接的大桶数量。</string>
+<string name="MA.Reinforced_Rock.00.Title">强化石材</string>
+<string name="MA.Reinforced_Rock.01.Paragraph">一种基本的建筑材料，可以在任何地方进行加工而不需要制造工厂的服务。 打开手工制作界面（默认\'C\'）生产。</string>
+<string name="MA.Reinforced_Wood.00.Title">强化木材</string>
+<string name="MA.Reinforced_Wood.01.Paragraph">一种基本的建筑材料，可以在任何地方进行加工而不需要制造工厂的服务。 打开手工制作界面（默认\'C\'）生产。</string>
+<string name="MA.Research_Assembler.00.Title">研究汇编器</string>
+<string name="MA.Research_Assembler.01.Paragraph">"由金属板和PCB自动化生产实验舱。它应该直接连接到你的实验室来提供自动化研究。
+由于其耗时的性质，建议通过过滤器进行高效生产。
+ "</string>
+<string name="MA.Research_Assembler.03.Left">制造时间：
+  需要电力（峰值）：
+  能量容量：
+  最大充电率：</string>
+<string name="MA.Research_Assembler.04.Right">15 s 
+ 128 /s
+ 100
+ 100 /s</string>
+<string name="MA.Research_Station.00.Title">研究站</string>
+<string name="MA.Research_Station.01.Paragraph">研究站提供了解更多关于这个星球所需的设施; 其矿物，动植物群。 它允许您处理扫描工具记录的信息，并研究新技术以帮助您生存。 许多更先进的研究课题超出了研究站的能力，需要实验室的帮助。</string>
+<string name="MA.Research_Station.02.Paragraph">要使用研究站面板，请按你的交互键（默认为\'E\'）。 这将打开研究终端，其中包含三个选项卡分别用于处理扫描，加工工序和项目。</string>
+<string name="MA.Research_Station.03.Header">处理扫描</string>
+<string name="MA.Research_Station.04.Paragraph">您的防护服配备了扫描工具（默认为“M”），此工具的辅助操作可让您扫描未知的材料。 该工具还将自动扫描您的建造枪吸收的任何未知材料。 信息会被上传到研究站。</string>
+<string name="MA.Research_Station.05.Paragraph">研究站的第一个标签列出了任何剩余的未知材料，并允许您处理这些扫描以了解更多信息。 处理扫描将花费能量，并提供可用于研究其他工序或项目研究的研究点。</string>
+<string name="MA.Research_Station.06.Header">研究生产工序</string>
+<string name="MA.Research_Station.07.Paragraph">加工扫描和完成研究项目可以解锁新的生产工艺研究项目。 这些通常是新的机器，可以帮助您在生存与升级。 每一项都消耗研究点和能量，你应该仔细地花费你的研究点，如果你用光了，你需要进一步寻找新材料。</string>
+<string name="MA.Research_Station.08.Paragraph">您研究的大部分工艺可以在制造工厂制造，有些需要专门的施工设备。 查看机器上的生存手册条目了解更多信息。</string>
+<string name="MA.Research_Station.09.Paragraph">研究站可由CPH直接供电，然而当CPH电量低的时候传输速率会被限制。</string>
+<string name="MA.Research_Station.10.Header">研究项目</string>
+<string name="MA.Research_Station.11.Paragraph">项目通常可以直接或通过研究站中的生产工艺标签来提高您在特定区域解锁新配方的技术水平。 简单的项目可以由研究站单独执行，消耗能量和科研点数。 更复杂的项目需要实验室的协助。 实验室本身就是一个必须解锁的研究项目。</string>
+<string name="MA.Research_Station.12.Paragraph">
+</string>
+<string name="MA.ResearchParts.00.Title">研究部件</string>
+<string name="MA.ResearchParts.01.Paragraph">坠毁的货舱似乎有一些我们无法生产的先进的电路。 将其带到您的实验室并使用分析模式，当它放入一个已连接的存储料斗应该会产生一些有用的研究！</string>
+<string name="MA.Rock.00.Title">岩石</string>
+<string name="MA.Rock.01.Paragraph">石头通常在峰顶被发现。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Rough_Hewn_Rock.00.Title">磨砂岩</string>
+<string name="MA.Rough_Hewn_Rock.01.Paragraph">石头通常在地表下发被发现。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Rubble.00.Title">碎石</string>
+<string name="MA.Rubble.01.Paragraph">在人工矿石开采过程中发现的副产品。可以在碎石机中被压碎，以提取有用的矿石，可以放置。</string>
+<string name="MA.Ruby_Crystal.00.Title">红宝石晶体</string>
+<string name="MA.Ruby_Crystal.01.Paragraph">红宝石水晶是一种稀有的材料，用作升级的基础材料。它可以在深度- 150到- 225之间的洞穴中找到。</string>
+<string name="MA.Ruby_Focusing_Lens.00.Title">红宝石聚焦镜头</string>
+<string name="MA.Ruby_Focusing_Lens.01.Paragraph">插入激光送电器以提高其传输功率。</string>
+<string name="MA.Ruby_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Ruby_Focusing_Lens.03.Left">能量传输速率：</string>
+<string name="MA.Ruby_Focusing_Lens.04.Right">150%</string>
+<string name="MA.Ruined_Faceted_Eye.00.Title">破碎的复眼</string>
+<string name="MA.Ruined_Faceted_Eye.01.Paragraph">来自当地飞行生物的眼睛是优秀的光学元件。这个东西损坏得太严重，不能用了。</string>
+<string name="MA.Ruined_Heavy_Chitin.00.Title">破碎的重甲壳</string>
+<string name="MA.Ruined_Heavy_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
+<string name="MA.Ruined_Light_Chitin.00.Title">破碎的轻质甲壳</string>
+<string name="MA.Ruined_Light_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
+<string name="MA.Ruined_Phosphorescent_Gland.00.Title">破碎的磷脂腺</string>
+<string name="MA.Ruined_Phosphorescent_Gland.01.Paragraph">这些来自当地飞行生物的腺体似乎具有适合储存能量的特性。 这个太糟糕了，没有任何用处。</string>
+<string name="MA.Ruined_Stinger.00.Title">破碎的尖刺</string>
+<string name="MA.Ruined_Stinger.01.Paragraph">这个刺非常尖锐但是坏得不能用了。</string>
+<string name="MA.Sand.00.Title">沙子</string>
+<string name="MA.Sand.01.Paragraph">沙子是自然界发现的一种方块，类似流体，因为如果所取出的沙子比包围它的沙子的高度低，周围将取代任何被移走的沙子。</string>
+<string name="MA.Sapphire_Crystal.00.Title">蓝宝石水晶</string>
+<string name="MA.Sapphire_Crystal.01.Paragraph">蓝宝石水晶是用作升级的基础材料的稀有材料。 它可以在深度-225到-300之间的洞穴中找到。</string>
+<string name="MA.Sapphire_Focusing_Lens.00.Title">蓝宝石聚焦镜头</string>
+<string name="MA.Sapphire_Focusing_Lens.01.Paragraph">插入激光功率送电器以提高其传输功率。</string>
+<string name="MA.Sapphire_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Sapphire_Focusing_Lens.03.Left">能量传输速率：</string>
+<string name="MA.Sapphire_Focusing_Lens.04.Right">190%</string>
+<string name="MA.Servo_Motor.00.Title">伺服电机</string>
+<string name="MA.Servo_Motor.01.Paragraph">精确而快速的电机</string>
+<string name="MA.Sign.00.Title">标准</string>
+<string name="MA.Sign.01.Paragraph">使用从坠毁船改编的技术，Cyberdyne EZ-Sign做了进一步的改进。 这个新标志可以被放置和编辑。 该标志应该能够显示任何可以在国际键盘上键入的标准字符。</string>
+<string name="MA.Simplified_Experimental_Pod.00.Title">简化的实验舱</string>
+<string name="MA.Simplified_Experimental_Pod.01.Paragraph">实验舱用于实验室进行实验和完成研究项目。有关实验室研究的更多信息，请参阅以下指南。</string>
+<string name="MA.Simplified_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请参阅以下指南。</string>
+<string name="MA.Slime_Attractor.00.Title">史莱姆吸引器</string>
+<string name="MA.Slime_Attractor.01.Paragraph">" 史莱姆吸引器是消除这个恶劣环境威胁的第一步。 用腐烂的同类遗体使吸引史莱姆成为可能。 "</string>
+<string name="MA.Slime_Attractor.02.Paragraph">" 尽管炮塔技术无法侦测到这种具体的威胁，频频死于炮塔之手的史莱姆表面，它们并不能抵抗更”自然“的破坏手段。"</string>
+<string name="MA.Slime_Attractor.03.Header">产品规格</string>
+<string name="MA.Slime_Attractor.04.Left">能量需求：
+需要：</string>
+<string name="MA.Slime_Attractor.05.Right">无
+有机遗体</string>
+<string name="MA.Slime_Attractor.06.Title">"故障排除 "</string>
+<string name="MA.Slime_Attractor.07.Paragraph">*史莱姆偶尔会被困在陷阱里，或者是一个不佳的产卵地点。一个运行良好的陷阱应该是有规律的。如果不是这样，那就四处走走，看看那些史莱姆扎堆的问题点。</string>
+<string name="MA.Slime_Attractor.08.Paragraph">*像玩家一样，Slimes可以向上爬1m的高度。 因此，寻找山峰和山谷，Slimes可能被卡在后面，因为高处没有平稳的过渡。 如果你发现任何一个尝试为他们平滑地形。 如果是一座大山，通常一条简单的隧道可以提供合适的路径。 此外，史莱姆可能会被困在1米高的空间。 像玩家一样，他们需要2米高的空间来移动，所以要么填补1米高的空位（先用枪杀死史莱姆），要么挖出一个2米的空间。</string>
+<string name="MA.Slime_Attractor.09.Paragraph">"试着在远离你的基地的地方建立你的史莱姆吸引器。挖掉的地面和SpiderBot带来的地形损坏都可以对史莱姆造成意想不到的地形并发症。 "</string>
+<string name="MA.Snow.00.Title">雪</string>
+<string name="MA.Snow.01.Paragraph">一种泥土和雪的混合物，它在这个世界上无处不在。</string>
+<string name="MA.Soft_Resin.00.Title">软树脂</string>
+<string name="MA.Soft_Resin.01.Paragraph">软树脂似乎是虫巢视图到达CPH的一种副产品。它通常位于基地下发斜对角处（It\'s most usually located diagonally from our base），在地表。那里有很多有机岩石。</string>
+<string name="MA.Solar_Cell_MK1.00.Title">太阳能单元 MK1</string>
+<string name="MA.Solar_Cell_MK1.01.Paragraph">一个你应该第一个研究，生产和安装的防护服升级，MK1太阳能电池提供明显更多的地表能量来源。</string>
+<string name="MA.Solar_Panel.00.Title">太阳能板</string>
+<string name="MA.Solar_Panel.01.Paragraph">太阳能电池板是低维护的可再生能源来源。 清空他们上方的天空，并且只能在白天发电。 他们将电力分配给任何相邻的机器，电源存储块或激光功率送电器。</string>
+<string name="MA.Solar_Panel.02.Paragraph">太阳能电池板内部电容量较小，因此应由适量的能量块进行缓存，以确保可靠供电。</string>
+<string name="MA.Solar_Panel.03.Header">产品规格</string>
+<string name="MA.Solar_Panel.04.Left">"峰值功率（丰富）：
+  峰值功率（稀缺）：
+  能量容量：
+  最大传输功率：
+  燃烧时间：
+  燃料："</string>
+<string name="MA.Solar_Panel.05.Right">22.5/秒
+  9/秒
+  64
+  32/秒
+  N/A
+  阳光</string>
+<string name="MA.Space_Window.00.Title">太空窗</string>
+<string name="MA.Space_Window.01.Paragraph">一种基本的建筑材料，可以在任何地方进行加工而不需要制造工厂的服务。 打开手工制作界面（默认\'C\'）制造这些。</string>
+<string name="MA.SpiderBotBaseComponent.00.Title">蜘蛛机器人基地</string>
+<string name="MA.SpiderBotBaseComponent.01.Paragraph">"SpiderBot Base是您与移动防御机器人的主要交互方式，常被称为SpiderBot，SpiderBro或Henrietta，具体取决于您选择的性别。
+
+  所有的能源供应和升级都是通过物流料斗来给您的蜘蛛机器人基地提供的。 每个附加的料斗能够每1.2秒向SpiderBot提供1单位物品; 利用四周的大量空间实现最大的吞吐量。
+
+  SpiderBot自己有能力持有15万存储。 电能通过SpiderBot Base充电器交付，创建SpiderBot能量核心。 这些都被放置在附加的物流料斗中。
+
+  SpiderBot有3阶武器升级。 这些都需要手工制作，并放置在附加的物流料斗中。 然后SpiderBot将自动返回码头并收集合适的项目。
+
+  每个武器升级项目只需要一个; 副本将被忽略。
+ "</string>
+<string name="MA.SpiderBotBaseComponent.02.Title">可用的升级</string>
+<string name="MA.SpiderBotBlaster.00.Title">蜘蛛机器人爆裂枪</string>
+<string name="MA.SpiderBotBlaster.01.Paragraph">这种可瘫痪的武器可以瞄准一个敌人，并可对更快，更小的目标提供少量的速射火力防御。 请注意，安装这个可能会对表层土壤和积雪造成严重破坏。 在准备好这个小坏蛋之前，请确保你已经准备好了战争区域！</string>
+<string name="MA.SpiderBotBlaster.02.Header">你只需要制作并装配其中之一！</string>
+<string name="MA.SpiderBotCannon.00.Title">SpiderBot 加农炮</string>
+<string name="MA.SpiderBotCannon.01.Paragraph">这对前挂式大炮能够对付中等到大的目标。 他们是独立的目标，并将智能地忽略较小的目标，并专注于更大，有装甲的目标。</string>
+<string name="MA.SpiderBotCannon.02.Header">你只需要制作一份 - 他们一对一对地制造！</string>
+<string name="MA.SpiderBotRifle.00.Title">SpiderBot 粒子步枪</string>
+<string name="MA.SpiderBotRifle.01.Paragraph">这对肩扛式粒子步枪能够对大号的目标造成重大伤害。 他们是独立地瞄准，并将智能地忽略较小的目标，并专注于boss。</string>
+<string name="MA.SpiderBotRifle.02.Header">你只需要制作一份 - 他们一对一对地制造！</string>
+<string name="MA.Stamper_Plant.02.Header">用法</string>
+<string name="MA.Steel_Cutter_Head.01.Paragraph">通过提高矿石分离器的效率来减少浪费的矿石。 还允许挖掘更硬的材料。 钻头随着时间流逝磨损。</string>
+<string name="MA.Steel_Cutter_Head.02.Header">产品规格</string>
+<string name="MA.Steel_Cutter_Head.03.Left">效率：
+最大硬度：
+耐久度：</string>
+<string name="MA.Steel_Cutter_Head.04.Right">20%
+ 250
+ 10000</string>
+<string name="MA.Storage_Crate.00.Title">储物箱</string>
+<string name="MA.Storage_Crate.01.Paragraph">读作\'chest\'。 将存储箱放在一起，将创建一个更大的组合存储。 每个箱子有2个项目槽位。</string>
+<string name="MA.Storage_Hopper.00.Title">储物料斗</string>
+<string name="MA.Storage_Hopper.01.Paragraph">储物料斗是自动化您的基地最重要的机器之一。 它具有100个物品的存储容量，可以快速处理物品。 有更便宜的替代品，更小的容量和更长的处理时间，并且可以在新建基地的时候很有用。</string>
+<string name="MA.Storage_Hopper.02.Header">I/O状态</string>
+<string name="MA.Storage_Hopper.03.Paragraph">存储料斗可以设置为四种输入/输出状态之一。 这些是：添加/删除，仅删除，仅添加和仅锁定。 按“互动”键（默认为“E”）可循环显示状态。 这些状态仅适用于独立机器，如熔炼炉或装配厂。 它们不适用于传送带或传送带组装机，唯一的例外是锁定的料斗不会输送到传送带上。</string>
+<string name="MA.Storage_Hopper.04.Paragraph">如果将机器设置为“添加/删除”或“仅删除”，机器将仅从料斗中提取，如果设置为“添加/删除”或“仅添加”，则仅将料品放回料斗。 对于同时具有输入和输出的机器，建议使用两个料斗，一个设置为仅包含原材料，另一个设置为添加制造的零部件的添加。 这将确保系统不会陷入死锁。</string>
+<string name="MA.Storage_Hopper.05.Header">传送带</string>
+<string name="MA.Storage_Hopper.06.Paragraph">I / O状态不适用于传送带，您可以使用它们将原材料插入标记为“仅移除”的机器输入料斗，反之亦然。 直接面向料斗的任何传送带将材料送入该料斗。 料斗将输出到任何其他传送带的上方，下方或其一侧，除非料斗被锁定。</string>
+<string name="MA.Storage_Hopper.07.Header">手动存储项目</string>
+<string name="MA.Storage_Hopper.08.Paragraph">当料斗用于自动化时，可以通过按下“存储”键（默认为“T”）手动存储物品。 如果有空间，快捷栏中的所选项目或堆栈将存储在料斗中。 您也可以通过按Shift + T存储10个项目。 要存储确切的数目，您可以在物品栏中拖曳（按住Shift并拖动）。 每按一次T将在您的物品栏中插入上一个匹配的堆栈。</string>
+<string name="MA.Storage_Hopper.09.Header">手动提取物品</string>
+<string name="MA.Storage_Hopper.10.Paragraph">可以通过按“提取”键（默认为“Q”）来删除料斗中的所有物品。</string>
+<string name="MA.Storage_Hopper.11.Header">开关真空模式</string>
+<string name="MA.Storage_Hopper.12.Paragraph">使用可以修改的交互（默认为“Shift + E”）来切换真空模式。 当真空模式打开时，只要剩余足够的存储空间，料斗将吸入附近任何的物体。</string>
+<string name="MA.Sugalite_Crystal.00.Title">紫水晶</string>
+<string name="MA.Sugalite_Crystal.01.Paragraph">紫水晶是用作升级的基础材料的稀有材料。 它可以在深度-375至-2500+之间的洞穴中找到。</string>
+<string name="MA.Sugalite_Crystal.02.Header">提示与技巧。</string>
+<string name="MA.Sugalite_Crystal.03.Paragraph">您可能会在所有深层洞穴中遇到紫色晶体。 这是极为罕见。 在极端深处，洞穴极度稀少。</string>
+<string name="MA.Sugalite_Focusing_Lens.00.Title">紫水晶聚焦透镜</string>
+<string name="MA.Sugalite_Focusing_Lens.01.Paragraph">插入一台激光输电器以提升传输功率。</string>
+<string name="MA.Sugalite_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Sugalite_Focusing_Lens.03.Left">能量传输速率：</string>
+<string name="MA.Sugalite_Focusing_Lens.04.Right">300%</string>
+<string name="MA.Suit_Cooler_MK1.00.Title">防护服冷却器 MK1</string>
+<string name="MA.Suit_Headlight_MK1.00.Title">防护服头灯MK1</string>
+<string name="MA.Suit_Heater_MK1.00.Title">防护服加热器 MK1</string>
+<string name="MA.Suit_Power_Pack_MK1.00.Title">防护服能源包 MK1</string>
+<string name="MA.Suit_Power_Pack_MK2.00.Title">防护服能源包 MK2</string>
+<string name="MA.Suit_Power_Pack_MK1.01.Paragraph">防护服能源包MK1是一款额外安装的电池，可将本机256个功率单元的内部缓冲器增加到512个功率单元。 这种升级是初级的，有进一步改进的余地。 这种升级的进一步改进是不可能的，直到可以发现更好的导热材料来协助必要的冷却技术，使得蓄电单元的散热不会损害该套件的寿命支持系统。</string>
+<string name="MA.Suit_Power_Pack_MK2.01.Paragraph">防护服能源包MK2是一款额外安装的电池，可将本机512个功率单元的内部缓冲器增加到1024个功率单元。 冷却问题今后解决了，另外还有一个问题。 不幸的是，不可能进一步升级，直到找到一种更先进的电磁屏蔽系统的新材料。</string>
+<string name="MA.T1_Lift.00.Title">升降机 w/下部活塞</string>
+<string name="MA.T1_Lift.01.Paragraph">用活塞升高和降低的升降机。 无线连接到您的防护服以让电梯在您接近电梯井时自动升高或降低到您的位置。 这可以通过手动控制模块来增强，以允许任何使用电梯的人的精确移动。 电梯可以在不受玩家重量影响的情况下明显速度更快，电梯会这样做若一玩家被检测到接近电梯井，只要电梯能到达这一高度。</string>
+<string name="MA.T1_Lift.02.Paragraph">与电梯交互（默认\'E\'）调整最大范围，微调（默认\'Shift + E\'）。 使用动力压缩机升级升降机，以更快地重新生成气体，使电梯在高强度运行下保持性能。 升降机超过64m需要安装动力压缩机（最低细节设置下为32米）。</string>
+<string name="MA.T1_Lift.03.Header">产品规格</string>
+<string name="MA.T1_Lift.04.Left">最大速度（含气）：
+  最大速度（无气）：
+  最大范围：
+  气体容量：
+  气体回复：
+  气体用量：
+  暂停计时器：</string>
+<string name="MA.T1_Lift.05.Right">12 m/s
+ 3 m/s
+ 256m (多人游戏64m)
+ 24 L
+ 0.025 L/s
+ 1 L/s
+ 5 s</string>
+<string name="MA.T2_Forced_Induction.00.Title">增压进气设备 T2</string>
+<string name="MA.T2_Forced_Induction.01.Paragraph">增压进气机可以放在一般熔炼炉的顶部来提高熔融速率，代价是更高的能耗。</string>
+<string name="MA.T2_Forced_Induction.02.Paragraph">基础矿石熔炼炉不支持增压进气升级。</string>
+<string name="MA.T2_Forced_Induction.03.Header">产品规格</string>
+<string name="MA.T2_Forced_Induction.04.Left">熔融速率：
+能量使用：</string>
+<string name="MA.T2_Forced_Induction.05.Right">300%
+ 1600%</string>
+<string name="MA.T3_Forced_Induction.00.Title">增压进气设备 T3</string>
+<string name="MA.T3_Forced_Induction.01.Paragraph">增压进气机可以放在一般熔炼炉的顶部来提高熔融速率，代价是更高的能耗。</string>
+<string name="MA.T3_Forced_Induction.02.Paragraph">基础矿石熔炼炉不支持增压进气升级。</string>
+<string name="MA.T3_Forced_Induction.03.Header">产品规格</string>
+<string name="MA.T3_Forced_Induction.04.Left">熔融速率：
+能量使用：</string>
+<string name="MA.T3_Forced_Induction.05.Right">400%
+ 3200%</string>
+<string name="MA.T4_Forced_Induction.00.Title">增压进气设备 T4</string>
+<string name="MA.T4_Forced_Induction.01.Paragraph">增压进气机可以放在一般熔炼炉的顶部来提高熔融速率，代价是更高的能耗。
+
+T4增压进气升级也使得从料斗收集矿石的速度翻倍。</string>
+<string name="MA.T4_Forced_Induction.02.Paragraph">基础矿石熔炼炉不支持增压进气升级。</string>
+<string name="MA.T4_Forced_Induction.03.Header">产品规格</string>
+<string name="MA.T4_Forced_Induction.04.Left">熔融速率：
+能量使用：</string>
+<string name="MA.T4_Forced_Induction.05.Right">400%
+ 3200%</string>
+<string name="MA.T4_HardRockGrinder.00.Title">硬质岩研磨机</string>
+<string name="MA.T4_HardRockGrinder.01.Paragraph">我们需要增强我们的机器。 为此，我们使用了一次性研磨机 - 用掉几个应该可以给我们带来足够的矿石以构造一个更大，更坚韧的钻孔机。</string>
+<string name="MA.T4_HardRockGrinder.02.Paragraph">用法应该很简单。 找到或制造您想要的矿石（铬或钼）的3x3水平平坦区域，将研磨机放下，给点电，等待并给予大量储存料斗以将最终材料卸载。</string>
+<string name="MA.T4_HardRockGrinder.03.Paragraph">如果您遇到找到3x3水平区域遇到问题，那么纳米崩解机或充能炸药是您的好朋友！</string>
+<string name="MA.T4_HardRockGrinder.04.Paragraph">这些机器是非常低效和昂贵的，并且需要大量来自Hiveminds的精制树脂。 我们应该尽快转向更好的挖掘设备。</string>
+<string name="MA.T4_MagmaBore.00.Title">岩浆孔建设</string>
+<string name="MA.T4_MagmaBore.01.Paragraph">钻一个巨大的孔下到岩浆洞穴来将热能充满冰窟。 33wx3hx33d配置（共3276）</string>
+<string name="MA.T4_MagmaBore.02.Paragraph">岩浆孔将创造一个竖井到岩浆洞穴; 一旦完成，我们应该可以浓缩岩浆，并使用它来最终抹除低温等离子体生成体。</string>
+<string name="MA.T4_MagmaBore.03.Paragraph">岩浆孔的基底建于33米宽的正方形，3米高。 一旦完成，基台将尝试自动竖起。 这将需要清除12米以上的空间; 要清除的区域将被标记红色方框。 清除该区域以展开数字化龙门架主体。</string>
+<string name="MA.T4_MagmaBore.04.Paragraph">该岩浆孔的主体部分将需要64米空间，为33x80x33的总规模。 再次，清除蓝盒内的任何碎屑以进入最后阶段。 我们将需要史诗般的电量从字面意义上创建这个完全由能量构成的无敌钻头。</string>
+<string name="MA.T4_MagmaBore.05.Title">岩浆孔的使用</string>
+<string name="MA.T4_MagmaBore.06.Paragraph">一旦钻头完全数字化，那么接下来就是无聊的时光。 我们估计至少10万每秒的功率可以慢慢运行它 能量多多益善。 在我们打到岩浆洞穴之后，我们可以用它把岩浆泵出来！</string>
+<string name="MA.T4_MagmaBore.07.Paragraph">岩浆应通过标准流体管道泵送到岩浆储存单元。 这可以在距离岩浆孔上方高达256米处。 然后可以将岩浆容器连接到最大距离为512m的炼狱冷却大炮。 如此可以永久地了结低温等离子体的威胁。</string>
+<string name="MA.T4_Trencher.00.Title">挖沟机钻头</string>
+<string name="MA.T4_Trencher.01.Paragraph">这些大型多块钻孔机可用于以非常快速的方式收获所有已知材料。 要建一个，您需要以3x3x3的布局构建钻头，然后以3x3x3的方式构建电机，然后触摸它。 开沟机的朝向由此决定; 电机总是在后面。 您可以使用它来使开沟机朝向任何角度，包括朝上！</string>
+<string name="MA.T4_Trencher.02.Paragraph">请注意，这些新钻头非常耗电，每分钟可以掉下数百矿石。 当将这些东西移到上方的寒冷洞窟的熔炉进行冶炼时，货梯矿车才是王道——这将杀死大量脑细胞！</string>
+<string name="MA.T5_Forced_Induction.00.Title">增压进气系统 T5</string>
+<string name="MA.T5_Forced_Induction.01.Paragraph">增压进气模块用于矿石熔炼炉的升级，增加了冶炼速度，同时大大增加了电力使用成本。 使用该模块将其放在矿石熔炼炉的顶部。
+
+  T5 增压进气系统也使得储存料斗收集矿石的速度提高四倍。</string>
+<string name="MA.T5_Forced_Induction.02.Paragraph">基础熔炼炉不支持增压进气升级。</string>
+<string name="MA.T5_Forced_Induction.03.Header">产品规格</string>
+<string name="MA.T5_Forced_Induction.04.Left">熔炼速率：
+能量使用：</string>
+<string name="MA.T5_Forced_Induction.05.Right">400%
+ 3200%</string>
+<string name="MA.T6_Forced_Induction.00.Title">电弧冶炼机升级</string>
+<string name="MA.T6_Forced_Induction.01.Paragraph">这种高能耗套件可以让你升级单个矿石熔炼炉以应对铬和钼。
+
+  由于电弧冶炼机升级特别低效，应该尽快用适当的系统来处理这些材料。</string>
+<string name="MA.T6_Forced_Induction.02.Paragraph">基础熔炼炉不支持增压进气升级。</string>
+<string name="MA.T6_Forced_Induction.03.Header">产品规格</string>
+<string name="MA.T6_Forced_Induction.04.Left">熔炼速率：
+能量使用：</string>
+<string name="MA.T6_Forced_Induction.05.Right">50%
+ 12800%</string>
+<string name="MA.Teleporter.00.Title">传送仪</string>
+<string name="MA.Teleporter.01.Paragraph">传送仪允许用户立即传送到指定位置。 
+用法：为传送仪提供足够的电力，站上去，然后按跳跃键（默认为“空格”）。 能耗取决于传送的距离。</string>
+<string name="MA.Teleporter.02.Header">位置标记器</string>
+<string name="MA.Teleporter.03.Paragraph">传送仪需要引用目的地的位置标记。 按交互键（默认为\'E\'）将位置标记插入传送仪。 有关位置标记的更多信息，请点击下面的链接。</string>
+<string name="MA.Teleporter.04.Header">产品规格</string>
+<string name="MA.Teleporter.05.Left">最大传送距离：
+能量要求：
+能量容量：
+最大充能速率：</string>
+<string name="MA.Teleporter.06.Right">无限制：
+40/m
+传送消耗的两倍
+无限制</string>
+<string name="MA.The_Itano.00.Title">伊塔诺/板野友美/Itano</string>
+<string name="MA.The_Itano.01.Paragraph">朝着较大的目标发射导弹。 导弹应存放在相邻的储物斗中。</string>
+<string name="MA.The_Itano.02.Header">产品参数</string>
+<string name="MA.The_Itano.03.Left">最小范围：
+  最大范围：
+  伤害（每导弹）：
+  齐射数量：
+  重装时间：</string>
+<string name="MA.The_Itano.04.Right">64m
+ 512m
+ 50,000 (基本导弹)
+ 16
+ 15 s</string>
+<string name="MA.Threat_Agitator.00.Title">威胁振荡器</string>
+<string name="MA.Threat_Agitator.01.Paragraph">"使用与威胁度降低器类似的技术，每种威胁振荡器增加了基础威胁的10％，并吸引了额外5种昆虫。 10％的威胁增加并非指数增长。威胁度振荡器使用威胁平静仪的四倍能量，每秒二十的能耗。 "</string>
+<string name="MA.Threat_Agitator.02.Header">产品规格</string>
+<string name="MA.Threat_Agitator.03.Left">能源需求：</string>
+<string name="MA.Threat_Agitator.04.Right">是</string>
+<string name="MA.Threat_Reducer.00.Title">威胁降低设备</string>
+<string name="MA.Threat_Reducer.01.Paragraph">"当地野生生物似乎对通过工业行动分散到空气中的副产品产生负面影响。 为了减轻与当地野生生物的当前与将来的冲突，已淘汰数款设备，以尽量减少机械造成的影响。 威胁降低设备能够消除由电力生产产生的电磁波，并洗刷附近的大气污染物。 该设备每秒使用5单位能量来完成目标。 "</string>
+<string name="MA.Threat_Reducer.02.Paragraph">为了进一步了解本土动植物对工业化的反应，已经创建了一种基于 研究生物体对化学与电磁污染的敏感度 来衡量我们造成的影响的新系统。 该系统在“威胁单位”中衡量这些因素，并可在威胁扫描仪中看到。 每个激活的威胁减少器可以将威胁降低到大约50个威胁单位。 有了充足的设备，无论在这个星球如何扩张，所产生的威胁都可以被完全最小化。</string>
+<string name="MA.Threat_Reducer.03.Header">产品规格</string>
+<string name="MA.Threat_Reducer.04.Left">需要能量：</string>
+<string name="MA.Threat_Reducer.05.Right">是</string>
+<string name="MA.Threat_Scanner.00.Title">威胁扫描仪</string>
+<string name="MA.Threat_Scanner.01.Paragraph">威胁扫描仪具有两种模式，扫描模式和接敌模式。 在扫描模式下，扫描仪将显示基地产生的威胁度，直到下一次攻击开始的时间为止。 接敌模式将在受到攻击时激活，当激活时，威胁扫描器将显示攻击的组成以及直到下一波敌人产生的大致时间。 使用威胁降低设备或威胁振荡器以修改威胁。</string>
+<string name="MA.Threat_Scanner.02.Header">产品规格</string>
+<string name="MA.Threat_Scanner.03.Left">能量需求：</string>
+<string name="MA.Threat_Scanner.04.Right">是</string>
+<string name="MA.Tin_Bar.00.Title">锌锭</string>
+<string name="MA.Tin_Bar.01.Paragraph">锡锭通常用于需要轻型结构的基本机器中。 它们由锡矿制成，可在地表附近找到。</string>
+<string name="MA.Tin_Coil.00.Title">锌线圈</string>
+<string name="MA.Tin_Housing.00.Title">锌质外壳</string>
+<string name="MA.Tin_Ore.00.Title">锌矿</string>
+<string name="MA.Tin_Ore.02.Paragraph">锌矿应该使用矿石分离器来开采。</string>
+<string name="MA.Tin_Plate.00.Title">锌板</string>
+<string name="MA.Tin_Wire.00.Title">锌线</string>
+<string name="MA.Titanium_Bar.01.Paragraph">钛锭通常用于要求强度的轻质结构先进机器中。 它们由钛矿石制成，可以在地表以下至少350米处找到。</string>
+<string name="MA.Titanium_Coil.00.Title">钛线圈</string>
+<string name="MA.Titanium_Housing.00.Title">钛质外壳</string>
+<string name="MA.Titanium_Plate.00.Title">钛板</string>
+<string name="MA.Titanium_Wire.00.Title">钛线</string>
+<string name="MA.Topaz_Crystal.00.Title">黄玉水晶</string>
+<string name="MA.Topaz_Crystal.01.Paragraph">黄玉水晶（托帕石/Topaz [梵]）是用作升级的基础材料的稀有材料。 它可以在深度-300到-375之间的洞穴中找到。</string>
+<string name="MA.Topaz_Focusing_Lens.00.Title">黄玉聚焦透镜</string>
+<string name="MA.Topaz_Focusing_Lens.01.Paragraph">插入激光发射器以提高其传输功率。</string>
+<string name="MA.Topaz_Focusing_Lens.02.Header">产品规格</string>
+<string name="MA.Topaz_Focusing_Lens.03.Left">传输功率：</string>
+<string name="MA.Topaz_Focusing_Lens.04.Right">250%</string>
+<string name="MA.Torch.00.Title">火炬</string>
+<string name="MA.Torch.01.Paragraph">火炬对于你在这个星球上的早期生存至关重要, 它提供了温暖与光明。光照白天自动停用, 但仍会供暖。</string>
+<string name="MA.Torch.02.Paragraph">警告！火很烫！防护服并非设计用来保护长时间与火炬密切接触的使用者。</string>
+<string name="MA.Toxic_Cavern_Flora_1.00.Title">毒气洞穴植物1型</string>
+<string name="MA.Toxic_Cavern_Flora_2.00.Title">毒气洞穴植物2型</string>
+<string name="MA.Toxic_Cavern_Flora_3.00.Title">毒气洞穴植物3型</string>
+<string name="MA.Toxic_Cavern_Flora_4.00.Title">毒气洞穴植物4型</string>
+<string name="MA.Toxic_Cavern_Flora_5.00.Title">毒气洞穴植物5型</string>
+<string name="MA.Toxic_Cavern_Flora_6.00.Title">毒气洞穴植物6型</string>
+<string name="MA.Toxic_Cavern_Flora_7.00.Title">毒气洞穴植物7型</string>
+<string name="MA.Toxic_Cavern_Flora_1.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_2.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_3.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_4.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_5.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_6.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Flora_7.01.Paragraph">这种植物似乎对这个洞穴中的有毒环境免疫。</string>
+<string name="MA.Toxic_Cavern_Stone.00.Title">毒气洞穴石</string>
+<string name="MA.Toxic_Cavern_Stone.01.Paragraph">这种材料在地表以下400到700米处被发现。虽然你发现它们的洞穴里充满了有毒的微粒, 但这个方块并没有任何毒性。可以被粉碎以提取有用的矿石。可以放置。</string>
+<string name="MA.Toxic_Particle_Filter.00.Title">有毒微粒过滤器</string>
+<string name="MA.Transport_Pipe_Filter.01.Paragraph">传输管道过滤器可用于筛选存储料斗中输入材料类型。</string>
+<string name="MA.Transport_Pipe.00.Title">传输管道</string>
+<string name="MA.Transport_Pipe.01.Paragraph">比普通传送带昂贵得多, 但是它们的速度快得多, 对极端寒冷免疫, 而且由于其封闭的性质, 对攻击的敏感程度更低。和传送带一样, 它们也不需要外部动力。</string>
+<string name="MA.Transport_Pipe.02.Paragraph">使用运输管道升级您的运输网络应该被认为是一个长期项目。 早期请关注瓶颈区域。</string>
+<string name="MA.Transport_Pipe.03.Header">用法</string>
+<string name="MA.Transport_Pipe.04.Paragraph">运输管道遵循与常规传送带相同的规则。</string>
+<string name="MA.Tree_Trunk.00.Title">树干</string>
+<string name="MA.Tree_Trunk.01.Paragraph">木板的基本成分。你可以通过砍伐树木来得到它们。可以放置。不需要制造工厂来制造。</string>
+<string name="MA.Truss.00.Title">桁架</string>
+<string name="MA.Truss.01.Paragraph">一种基本的建筑材料, 可以在任何地方加工而不要求制造工厂的服务。打开自己的手工制作界面 (默认 \"C\") 来制造。</string>
+<string name="MA.Turret_MK1.00.Title">炮塔 MK1</string>
+<string name="MA.Turret_MK1.01.Paragraph">基本的能量防御武器。必须由相邻的发电机、能量块或通过激光输电器供电。</string>
+<string name="MA.Turret_MK1.02.Header">产品参数</string>
+<string name="MA.Turret_MK1.03.Left">范围:
+损坏 (每射击):
+电源要求 (每射击):
+最大功率容量:
+重新加载时间:</string>
+<string name="MA.Turret_MK1.04.Right">16m
+ 50
+ 40
+ 100
+ 1 s</string>
+<string name="MA.Turret_MK2.00.Title">炮塔 MK2</string>
+<string name="MA.Turret_MK2.01.Paragraph">基本的能量防御武器。必须由相邻的发电机、能量块或通过激光输电器供电。</string>
+<string name="MA.Turret_MK2.02.Header">产品参数</string>
+<string name="MA.Turret_MK2.03.Left">范围:
+损坏 (每射击):
+电源要求 (每射击):
+最大功率容量:
+重新加载时间:</string>
+<string name="MA.Turret_MK2.04.Right">20m
+ 96
+ 32
+ 192
+ 0.4 s</string>
+<string name="MA.Turret_MK3.00.Title">炮塔 MK3</string>
+<string name="MA.Turret_MK3.01.Paragraph">远程能量防御。必须由相邻的发电机、能量块或通过激光输电器供电</string>
+<string name="MA.Turret_MK3.02.Header">产品参数</string>
+<string name="MA.Turret_MK3.03.Left">范围:
+损坏 (每射击):
+电源要求 (每射击):
+最大功率容量:
+重新加载时间:</string>
+<string name="MA.Turret_MK3.04.Right">72m
+ 3600
+ 400
+ 900
+ 4 s</string>
+<string name="MA.Ultimate_Experimental_Pod.00.Title">终极实验舱</string>
+<string name="MA.Ultimate_Experimental_Pod.01.Paragraph">实验舱用于实验室进行实验和完成研究项目。有关实验室研究的更多信息, 请访问以下指南。</string>
+<string name="MA.Ultimate_Experimental_Pod.02.Paragraph">有关创建实验舱的更多信息，请阅读以下指南。</string>
+<string name="MA.White_Canvas.00.Title">白色帆布</string>
+<string name="MA.White_Canvas.01.Paragraph">通体白色的美化用方块。</string>
+<string name="MA.Window.00.Title">窗户</string>
+<string name="MA.Window.01.Paragraph">一种基本的建筑材料, 可以在任何地方加工。打开自己的手工制作界面 (默认 \"C\") 来制造。</string>
+<string name="MA.Wooden_Planks.00.Title">木板</string>
+<string name="MA.Wooden_Planks.01.Paragraph">一种基本的建筑材料, 可以在任何地方加工。打开自己的手工制作界面 (默认 \"C\") 来制造。</string>
+<string name="MA.WorkFloorExcavatorMK1.01.Paragraph">手动创建一个基本的采掘工作面是一个很繁琐的过程。这台机器将清除出一个3米高的隧道, 在32m 范围内。它不会影响矿石, 这意味着你可以用这个放在你的矿石分离器旁边来清场。开阔的工作空间使得基地更加有序!</string>
+<string name="MA.WorkFloorExcavatorMK1.02.Header">产品规格</string>
+<string name="MA.WorkFloorExcavatorMK1.03.Left">"范围：
+能量/块：
+消除矿石：
+ "</string>
+<string name="MA.WorkFloorExcavatorMK1.04.Right">"32m
+ 64
+ 否
+ "</string>
+<string name="MA.WorkFloorExcavatorMK1.00.Title">工作区挖掘器 MK1</string>
+<string name="MA.WorkFloorExcavatorMK2.00.Title">工作区挖掘器 MK2</string>
+<string name="MA.WorkFloorExcavatorMK2.01.Paragraph">手动创建一个基本的采掘工作面是一个很繁琐的过程。这台机器将清除出一个3米高的隧道, 在32m 范围内。同样会影响矿石, 这意味着你可以用这个来为大型机械建造清场。开阔的工作空间使得基地更加有序!</string>
+<string name="MA.WorkFloorExcavatorMK2.02.Header">产品参数</string>
+<string name="MA.WorkFloorExcavatorMK2.03.Left">"范围：
+能量/块：
+消除矿石：
+ "</string>
+<string name="MA.WorkFloorExcavatorMK2.04.Right">"32m
+ 128
+ 是
+ "</string>
+<string name="MA.XL_Experimental_Pod.00.Title">XL 实验舱</string>
+<string name="MA.XL_Experimental_Pod.01.Paragraph">实验舱用于实验室进行实验和完成研究项目。有关实验室研究的更多信息, 请访问以下指南。</string>
+<string name="MA.XL_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息, 请访问以下指南。</string>
+<string name="MA.Zipper_Merge.00.Title">拉链合并</string>
+</resources>
