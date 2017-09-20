@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">AI移动控制</string>
-<string name="MA.AI_Mover_Control.01.Paragraph">该机器人将每次从附近的储料器搬运一单位资源到另一个，遵照本地的储料器添加/移除权限。</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">该机器人将每次从附近的储物料斗搬运一单位资源到另一个，遵照储物料斗的本地添加/移除权限。</string>
 <string name="MA.ARTHER_Battery_Core.00.Title">ARTHER 电池核心</string>
 <string name="MA.ARTHER_Battery_Core.01.Paragraph">允许ARTHER容纳8倍，当您电量底时他可以传输给您的电量。尽快造好这个！只需一份，放入物品栏以生效。</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">ARTHER 充电站</string>
@@ -13,10 +13,10 @@
 1500
 10/s</string>
 <string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER 礼帽</string>
-<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">让ARTHER 看起来短小精悍, 衣冠楚楚，干爽无比！只有你拥有了Dapper Indie Supporter DLC。只需一份，放入物品栏以生效。</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">让ARTHER 看起来短小精悍, 衣冠楚楚！只有你拥有了Dapper Indie Supporter DLC。只需一份，放入物品栏以生效。</string>
 <string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">改善ARTHER视力！只有你有Dapper Indie Supporter DLC才有效。只需一份，放入物品栏以生效。</string>
 <string name="MA.Zipper_Merge.01.Paragraph">拉链合并器完美地合并了两条传送带，比例为1：1。 拉链合并能够每分钟输出100个单位。 拉链合并对于自动化生产需要两种物品（如低等级钢合金）的项目最为有效。</string>
-<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER独眼镜片</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER独目镜</string>
 <string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Dapper 包</string>
 <string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Dapper完全体！ 通过将所有以前的Dapper升级组合到一个项目中，可以使您的库存节省空间。 必须将其放入物品栏以应用升级。</string>
 <string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Dapper升级包</string>
@@ -197,14 +197,14 @@
   最大挖掘硬度：
   最大挖掘速度：
   矿石提取效率：</string>
-<string name="MA.Basic_Quarry.04.Right">9m x 9m
+<string name="MA.Basic_Quarry.04.Right">"9m x 9m
  3950
- 150 per 1m cube
+ 150 /1m 方块
  4096
- 1024 per second
+ 1024 /s
  250
- 5 cubic meters per second
- 10%</string>
+ 5  m/s
+ 10%"</string>
 <string name="MA.BasicCargoLift.00.Title">基本款货梯</string>
 <string name="MA.BasicCargoLift.01.Paragraph">最小的货物升降机，这是大量交付材料如铁和锂的理想选择。</string>
 <string name="MA.BasicCargoLift.02.Header">产品规格</string>
@@ -237,11 +237,11 @@
 <string name="MA.BasicMinecart.07.Paragraph">一旦进入您的矿车网络，矿车将会在车站（Load and Unload stations）载货卸货。</string>
 <string name="MA.BasicMinecart.08.Title">高级矿车控制</string>
 <string name="MA.BasicMinecart.09.Paragraph">为了更好地控制您的矿车和矿石，您有几样工具可用于改变矿车的行为和决策。</string>
-<string name="MA.BaubleBerry.00.Title">BaubleBerry</string>
+<string name="MA.BaubleBerry.00.Title">杂球莓（BaubleBerry）</string>
 <string name="MA.BaubleBerry.01.Paragraph">在这个星球的表面和洞穴内发现的一种不知名的植物。</string>
 <string name="MA.BaubleBerry.02.Paragraph">这种植物可以当柴烧。</string>
 <string name="MA.Bedrock.00.Title">基岩</string>
-<string name="MA.Bedrock.01.Paragraph">一般岩石类型之一。 可在碎石机中粉碎，以提取有用的矿石。 可以被放置。基岩：陆地表层中的-竖硬岩层，埋藏深度不一，少则数米到数十米，多则数百米。由沉积岩、变质岩、岩浆岩中的一种或数种组成。</string>
+<string name="MA.Bedrock.01.Paragraph">一般岩石类型之一。 可在粉碎机中粉碎，以提取有用的矿石。 可以被放置。基岩：陆地表层中的-竖硬岩层，埋藏深度不一，少则数米到数十米，多则数百米。由沉积岩、变质岩、岩浆岩中的一种或数种组成。</string>
 <string name="MA.Biomass_Growth_Ping.00.Title">生物质扫描脉冲（Biomass Growth Ping）</string>
 <string name="MA.Biomass_Growth_Ping.01.Paragraph">当通过未知材料扫描脉冲得到的位置不足时，生物质扫描脉冲用于寻找额外的生物质。 有关更多信息，请参阅空白矿石扫描脉冲的帮助指导。</string>
 <string name="MA.Blank_Ore_Ping.00.Title">空白矿石扫描脉冲</string>
@@ -280,7 +280,7 @@
   端口的内部库存可以使用接口中的标签按钮进行锁定，以防止端口在已达到库存限制的情况下收集物品。 此功能旨在限制高价值物品的积压。
  "</string>
 <string name="MA.BulkCargoLift.00.Title">大批量货梯</string>
-<string name="MA.BulkCargoLift.01.Paragraph">可用的最大货物升降机，这种冷冻工厂机器是理想的大量运输材料如铬和钼到冷冻洞穴。 这个货物清单具有巨大的容量，同时速度飞快！</string>
+<string name="MA.BulkCargoLift.01.Paragraph">可用的最大货物升降机，这种冰封工厂机器是理想的大量运输材料如铬和钼到冷冻洞穴。 这个货物清单具有巨大的容量，同时速度飞快！</string>
 <string name="MA.BulkCargoLift.02.Header">产品规格</string>
 <string name="MA.BulkCargoLift.03.Left">"最大范围：
   最大速度：
@@ -297,7 +297,7 @@
 <string name="MA.BulkMinecart.00.Title">大容量矿车</string>
 <string name="MA.BulkMinecart.01.Paragraph">"矿车用于快速批量转移物品。
 
-  该矿车是一个冷冻工厂扩展包的项目。
+  该矿车是一个冰封工厂扩展包的项目。
  "</string>
 <string name="MA.BulkMinecart.02.Header">产品参数</string>
 <string name="MA.BulkMinecart.03.Left">"最大速度：
@@ -354,12 +354,12 @@
 <string name="MA.Chargeable_Explosive.02.Paragraph">"蓄能*10，能级+1！ "</string>
 <string name="MA.Chargeable_Explosive.03.Header">技巧与窍门！</string>
 <string name="MA.Chargeable_Explosive.04.Paragraph">-这机器需要超多的能量！</string>
-<string name="MA.Chargeable_Explosive.05.Paragraph">-等级1=100单位能量</string>
-<string name="MA.Chargeable_Explosive.06.Paragraph">-等级2=1000单位能量</string>
-<string name="MA.Chargeable_Explosive.07.Paragraph">-等级3=10000单位能量</string>
-<string name="MA.Chargeable_Explosive.08.Paragraph">-等级4=10 0000单位能量</string>
-<string name="MA.Chargeable_Explosive.09.Paragraph">-等级5=100 0000单位能量</string>
-<string name="MA.Chargeable_Explosive.10.Paragraph">-等级6=1000 0000单位能量</string>
+<string name="MA.Chargeable_Explosive.05.Paragraph">- 等级1 = 100单位能量。</string>
+<string name="MA.Chargeable_Explosive.06.Paragraph">- 等级2 = 1000单位能量。</string>
+<string name="MA.Chargeable_Explosive.07.Paragraph">- 等级3 = 10000单位能量。</string>
+<string name="MA.Chargeable_Explosive.08.Paragraph">- 等级 4 = 10 0000单位能量。</string>
+<string name="MA.Chargeable_Explosive.09.Paragraph">- 等级5 = 100 0000单位能量。</string>
+<string name="MA.Chargeable_Explosive.10.Paragraph">- 等级6 = 1000 0000单位能量。</string>
 <string name="MA.Chargeable_Explosive.11.Paragraph">- 以此类推！</string>
 <string name="MA.Chargeable_Explosive.12.Paragraph">- 中等水平的能级没有额外的爆炸半径！</string>
 <string name="MA.Chargeable_Explosive.13.Paragraph">- 达到6级已经是一个能源生产的严峻挑战！</string>
@@ -372,7 +372,7 @@
 <string name="MA.Chevron_Sign.00.Title">人字形标志</string>
 <string name="MA.Chevron_Sign.01.Paragraph">红白相间的标记箭头的方块，可以在任何地方进行加工，无需制造工厂。 打开手工制作界面（默认\'C\'）制造。</string>
 <string name="MA.Chilled_cavern_stone.00.Title">冷淬洞窟石</string>
-<string name="MA.Chilled_cavern_stone.01.Paragraph">介于-215和-270米之间的主要方块类型。 该块不会自己降温，尽管您发现它们的洞穴非常冷。 可在碎石机中粉碎，偶尔提取有用的矿石。 可以放置。</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">介于-215和-270米之间的主要方块类型。 该块不会自己降温，尽管您发现它们的洞穴非常冷。 可在粉碎机中粉碎，偶尔提取有用的矿石。 可以放置。</string>
 <string name="MA.Coal_Enricher.00.Title">有机煤富集器</string>
 <string name="MA.Coal_Enricher.01.Paragraph">有机煤富集器使用少量的功率来增加热能发电机中的煤产生的功率。 有机煤富集器在15秒的时间内使用0.1pps将普通煤炭加工成复合煤。 可以进一步改进。</string>
 <string name="MA.Coal_Ore_Ping.00.Title">煤矿扫描</string>
@@ -409,7 +409,7 @@
 <string name="MA.Complex_Experimental_Pod.00.Title">复合实验舱（Complex Experimental Pod）</string>
 <string name="MA.Complex_Experimental_Pod.01.Paragraph">复合实验舱用于实验室进行实验和完成研究项目，这些容器由锂制造。 有关实验室研究的更多信息，请访问以下指南。</string>
 <string name="MA.Complex_Experimental_Pod.02.Paragraph">有关实验室研究的更多信息，请访问以下指南。</string>
-<string name="MA.Conductive_PCB.00.Title">导电PCB</string>
+<string name="MA.Conductive_PCB.00.Title">可导PCB</string>
 <string name="MA.Conductive_PCB.01.Paragraph">金质PCB，产自PCB组装厂，原料金线卷。</string>
 <string name="MA.Construction_Paste_Grinder.00.Title">建筑磨糊机</string>
 <string name="MA.Construction_Paste_Grinder.01.Paragraph">建筑磨糊机利用原始版本的无机重组装置，把无用的材料（如在这个新星球上发现的各种岩石和土壤类型）制成建筑糊。 机器本身能够通过表层土中发现的矿物进行装配。 制造这种机器的低成本和其不存在的功率要求使得并行运行数台成为可能。 在你常常经过的走廊设置垃圾小偷是在游戏早期获得大量建筑糊的好方法。</string>
@@ -451,11 +451,11 @@
 <string name="MA.Crude_Organic_Lens.04.Right">125%</string>
 <string name="MA.Crystal_Clock.00.Title">水晶钟</string>
 <string name="MA.Crystal_Clock.01.Paragraph">水晶钟是先进机械中常见的制造产物。 将水晶钟包含在机械中可以获取更精确的时序。 水晶钟是在水晶钟制造设备（Crystal Clock Maker）中使用5 份水晶矿（Crystal Deposit）制作的。 普通水晶钟像大多数芯片可以超频，为更先进的机械生产更有效的时钟。</string>
-<string name="MA.Crystal_Coal_Infuser.00.Title">水晶煤粉浸渍器（Crystal Coal Infuser）</string>
-<string name="MA.Crystal_Coal_Infuser.01.Paragraph">水晶煤粉浸渍器（Crystal Coal Infuser）使用少量的电力来增加富氧热煤在热能发电机中产生的功率。 水晶煤燃烧器在15秒的时间内使用0.1pps，以将富氧煤转换为特高热值煤。</string>
-<string name="MA.Crystal_Cutter_Head.00.Title">水晶刀头</string>
-<string name="MA.Crystal_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 刀头会随着时间的推移磨损。</string>
-<string name="MA.Crystal_Cutter_Head.02.Paragraph">水晶刀头比钢刀头更有效率，但磨损更快。</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">水晶煤粉粉碎机（Crystal Coal Infuser）</string>
+<string name="MA.Crystal_Coal_Infuser.01.Paragraph">水晶煤粉粉碎机（Crystal Coal Infuser）使用少量的电力来增加富氧热煤在热能发电机中产生的功率。 水晶煤燃烧器在15秒的时间内使用0.1pps，以将富氧煤转换为特高热值煤。</string>
+<string name="MA.Crystal_Cutter_Head.00.Title">水晶钻头</string>
+<string name="MA.Crystal_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 钻头会随着时间的推移磨损。</string>
+<string name="MA.Crystal_Cutter_Head.02.Paragraph">水晶钻头比钢钻头更有效率，但磨损更快。</string>
 <string name="MA.Crystal_Cutter_Head.03.Header">产品参数</string>
 <string name="MA.Crystal_Cutter_Head.04.Left">效率：
  最大硬度：
@@ -476,7 +476,7 @@
 <string name="MA.DapperWall.00.Title">"Dapper  Wall"</string>
 <string name="MA.DapperWall.01.Paragraph">来自DAPPER Indie Support Pack的美化方块。 感谢支持FortressCraft！</string>
 <string name="MA.Deep_Stone.00.Title">深色石</string>
-<string name="MA.Deep_Stone.01.Paragraph">在-65 ish以下的主要方块类型。 低温和有毒的洞穴除外。 可在碎石机中粉碎，以提取有用的矿石。 可以放置。</string>
+<string name="MA.Deep_Stone.01.Paragraph">在-65 ish以下的主要方块类型。 低温和有毒的洞穴除外。 可在粉碎机中粉碎，以提取有用的矿石。 可以放置。</string>
 <string name="MA.Deployed_Explosive.00.Title">可部署爆炸物</string>
 <string name="MA.Deployed_Explosive.01.Paragraph">可充能炸弹，伤害半径增加取决于充电能级。</string>
 <string name="MA.Deployed_Explosive.02.Header">技巧和窍门！</string>
@@ -502,7 +502,7 @@
 <string name="MA.Diamond_Focusing_Lens.03.Left">传输功率：</string>
 <string name="MA.Diamond_Focusing_Lens.04.Right">115%</string>
 <string name="MA.Dirt.00.Title">泥土</string>
-<string name="MA.Dirt.01.Paragraph">通常位于雪面下方的方块种类。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Dirt.01.Paragraph">通常位于雪面下方的方块种类。 可在粉碎机中粉碎，以提取有用的矿石。</string>
 <string name="MA.Electric_Light.00.Title">电灯</string>
 <string name="MA.Electric_Light.01.Paragraph">电灯必须连接电源才能操作，并提供远比标准火炬覆盖区域大得多的冷蓝光。</string>
 <string name="MA.Electric_Light.02.Paragraph">有三种投影方式：聚光灯（Spotlight），点光源（Pointlight）和阴影点光源（Shadowed Pointlight）。</string>
@@ -538,11 +538,11 @@
 <string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER 八字胡</string>
 <string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">在这里插入“moustache ride”笑话。 仅当你拥有Dapper独立支持者DLC（Dapper Indie Supporter DLC）时才有效。 只需一份，放入物品栏以生效。</string>
 <string name="MA.CargoLiftController.02.Title">竖井配置</string>
-<string name="MA.Extractor.06.Paragraph">基础矿物分离器是一种有用的机械设备，但远远没能达到其最大功率。 提取器可以升级两部分：新电机和新刀头。 打开控制面板后，单击相应的升级插槽，并从物品栏中插入升级模块。 您还可以将升级模块拖向你的物品栏。</string>
+<string name="MA.Extractor.06.Paragraph">基础矿物分离器是一种有用的机械设备，但远远没能达到其最大功率。 提取器可以升级两部分：新电机和新钻头。 打开控制面板后，单击相应的升级插槽，并从物品栏中插入升级模块。 您还可以将升级模块拖向你的物品栏。</string>
 <string name="MA.Extractor.07.Header">电机</string>
 <string name="MA.Extractor.08.Paragraph">一台新的电机会增加挖掘机钻头开采的速度，这意味着您每分钟将获得更多的矿石。 增加的速度带来更高的电力成本，所以确保您的供电。</string>
-<string name="MA.Extractor.09.Header">刀头</string>
-<string name="MA.Extractor.10.Paragraph">升级刀头增大了挖掘机矿石提取的效率。 这意味着它将能够在其一生中从矿脉中获取更多的矿石。 除了效率提升之外，新的刀头还可以让挖掘机挖掘较硬的材料，基础刀头根本无法切割。</string>
+<string name="MA.Extractor.09.Header">钻头</string>
+<string name="MA.Extractor.10.Paragraph">升级钻头增大了挖掘机矿石提取的效率。 这意味着它将能够在其一生中从矿脉中获取更多的矿石。 除了效率提升之外，新的钻头还可以让挖掘机挖掘较硬的材料，基础钻头根本无法切割。</string>
 <string name="MA.Extractor.11.Paragraph">切割头将随着时间的推移而磨损，剩余的耐久度显示在矿物分离器控制面板中。</string>
 <string name="MA.Extractor.12.Header">全系激光器读数</string>
 <string name="MA.Extractor.13.Left">能量分组大小：
@@ -618,7 +618,7 @@
   28倍清除率
   54倍速率提升
   54倍速率提升</string>
-<string name="MA.Fusion_Drill_Motor.00.Title">熔融钻头</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">聚变钻头</string>
 <string name="MA.Fusion_Drill_Motor.01.Paragraph">以增加能耗为代价提高采矿设备的开采速率。</string>
 <string name="MA.Fusion_Drill_Motor.02.Header">产品规格</string>
 <string name="MA.Fusion_Drill_Motor.03.Left">开采速率：</string>
@@ -653,7 +653,7 @@
  100
  100/s
  320m/s</string>
-<string name="MA.Geothermal_Generator_Comp..00.Title">地热发电机组</string>
+<string name="MA.Geothermal_Generator_Comp..00.Title">地热发电机组。</string>
 <string name="MA.Geothermal_Generator_Comp..01.Paragraph">"地热发电机组用于形成能够输出喷气涡轮机功率的10倍的高级无源发电系统。 地热发生器必须放置在寒冷的洞穴中，并连接导热管以开始发电。 地热通过从温差产生能量，每多一根导热管，都会增加每秒能量产出。 一旦导热管到达岩浆洞，它们将开始从岩浆海中吸收热量，从而使得发电量指数级增长。 由于地热发电来源于温差，因此，冷冻罐可大大提升地热能的产出。 "</string>
 <string name="MA.Glow_Stick.00.Title">荧光棒</string>
 <string name="MA.Glow_Stick.01.Paragraph">根据需要，您的防护服会自动制作荧光棒，5单位能量一个。 按G掷出荧光棒！</string>
@@ -675,7 +675,7 @@
 <string name="MA.Gold_Wire.00.Title">金线</string>
 <string name="MA.Gold_Wire.01.Paragraph">由挤压机中的金条制成的简单金线。</string>
 <string name="MA.Green_Canvas.00.Title">绿色帆布</string>
-<string name="MA.Green_Canvas.01.Paragraph">完全绿色的美化用方块</string>
+<string name="MA.Green_Canvas.01.Paragraph">完全绿色的美化用方块。</string>
 <string name="MA.Green_GlowPod.00.Title">绿色发光器</string>
 <string name="MA.Green_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的绿色光芒。</string>
 <string name="MA.Orange_GlowPod.01.Paragraph">由于表面下发生的化学反应，该原生植物品种会发出稳定的橙色光芒。</string>
@@ -795,7 +795,7 @@
  7500/面/秒
  1250/台/秒
  "</string>
-<string name="MA.Infused_Coal.01.Paragraph">特高热值煤是水晶煤粉浸渍器（Crystal Coal Infuser）的产物。 是对富氧煤的改进，因为它在相同的时间内产生更多的电力。</string>
+<string name="MA.Infused_Coal.01.Paragraph">特高热值煤是水晶煤粉粉碎机（Crystal Coal Infuser）的产物。 是对富氧煤的改进，因为它在相同的时间内产生更多的电力。</string>
 <string name="MA.Infused_Coal.00.Title">特高热值煤</string>
 <string name="MA.Intermediate_Experimental_Pod.00.Title">中级实验舱</string>
 <string name="MA.Intermediate_Experimental_Pod.01.Paragraph">中级实验舱用于实验室进行实验和完成研究项目，这些容器由铁制造。 有关实验室研究的更多信息，请访问以下指南。</string>
@@ -1000,7 +1000,7 @@
 <string name="MA.PCB_Assembling_Plant.03.Paragraph">从另一传送带（设备）进料，将金属线圈送入PCB组装机并转换为可用于其他工序的PCB。</string>
 <string name="MA.PCB_Assembling_Plant.04.Paragraph">PCB组装机对实验室研究的自动化至关重要。</string>
 <string name="MA.Stamper_Plant.04.Paragraph">冲压机对于实验室研究的自动化至关重要。</string>
-<string name="MA.Steel_Cutter_Head.00.Title">钢制刀头</string>
+<string name="MA.Steel_Cutter_Head.00.Title">钢制钻头</string>
 <string name="MA.Stamper_Plant.03.Paragraph">从另一传送带（设备）进料，将金属锭送入冲压机。冲压机会将金属锭转换为可用于其他工序的金属板。</string>
 <string name="MA.Lift_Manual_Control_Module.01.Paragraph">连接到升降机活塞的一侧，以便您可以使用防护服无线遥控电梯的速度。 使用“Home”和“End”键可提高或降低升降机速度。</string>
 <string name="MA.Lithium_Ore.00.Title">锂矿</string>
@@ -1032,7 +1032,7 @@
  无限制
  n/a（不适用）
  阳光</string>
-<string name="MA.Macerator.00.Title">碎石机</string>
+<string name="MA.Macerator.00.Title">粉碎机</string>
 <string name="MA.Macerator.01.Paragraph">能够雾化一些人类已知的具有弹性的材料。 有时，雾化过程返回一种矿物含量丰富的化合物，主要由估算物品所含的元素之一组成。 输出的物品与正常矿石无法区分，可以这样处理。</string>
 <string name="MA.Macerator.02.Left">能量需求：</string>
 <string name="MA.Macerator.03.Right">是</string>
@@ -1208,9 +1208,9 @@
  "</string>
 <string name="MA.Organic_Coal_Enricher.00.Title">有机质煤炭富集器</string>
 <string name="MA.Organic_Coal_Enricher.01.Paragraph">有机质煤炭富集器使用少量的电力来增加热能发电机中的煤的能量产出。有机质煤炭富集器在15秒的时间内使用0.1pps将普通煤炭加工成富氧煤。</string>
-<string name="MA.Organic_Cutter_Head.00.Title">有机质刀头</string>
-<string name="MA.Organic_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 刀头会随着时间的推移磨损。</string>
-<string name="MA.Organic_Cutter_Head.02.Paragraph">有机刀头由当地生物的刺制成，比钢刀头效率更高，但更快速地磨损。</string>
+<string name="MA.Organic_Cutter_Head.00.Title">有机质钻头</string>
+<string name="MA.Organic_Cutter_Head.01.Paragraph">通过提高矿物分离器的效率来减少浪费的矿石。 还允许挖掘较硬的材料。 钻头会随着时间的推移磨损。</string>
+<string name="MA.Organic_Cutter_Head.02.Paragraph">有机钻头由当地生物的刺制成，比钢钻头效率更高，但更快速地磨损。</string>
 <string name="MA.Organic_Cutter_Head.04.Left">效率：
   最大硬度：
  耐用性：</string>
@@ -1310,15 +1310,15 @@
 <string name="MA.PowerBoosterMK3.04.Right">500</string>
 <string name="MA.PowerBoosterMK4.04.Right">1000</string>
 <string name="MA.Primary_PCB.00.Title">初级PCB</string>
-<string name="MA.Pristine_Faceted_Eye.00.Title">原始复眼</string>
+<string name="MA.Pristine_Faceted_Eye.00.Title">原生复眼</string>
 <string name="MA.Pristine_Faceted_Eye.01.Paragraph">来自当地飞行生物的眼睛，可用作出色的光学元件。 这一份质量就够好。</string>
-<string name="MA.Pristine_Heavy_Chitin.00.Title">原始重甲壳素</string>
+<string name="MA.Pristine_Heavy_Chitin.00.Title">原生重甲壳素</string>
 <string name="MA.Pristine_Heavy_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
-<string name="MA.Pristine_Light_Chitin.00.Title">原始轻甲壳素</string>
+<string name="MA.Pristine_Light_Chitin.00.Title">原生轻甲壳素</string>
 <string name="MA.Pristine_Light_Chitin.01.Paragraph">发音为KY-tin，几丁质是一种含有碳，氢，氧和氮的长链聚合物。 它似乎是许多本地生物的基本组成部分。</string>
-<string name="MA.Pristine_Phosphorescent_Gland.00.Title">原始磷脂腺</string>
+<string name="MA.Pristine_Phosphorescent_Gland.00.Title">原生磷脂腺</string>
 <string name="MA.Pristine_Phosphorescent_Gland.01.Paragraph">来自当地生物的这些腺体似乎具有适合蓄电的特性。 这一个质量就足够用。 如果我们可以设置一些陷阱来杀死这个星球上的史莱姆，同时我们可以养殖它们。</string>
-<string name="MA.Pristine_Stinger.00.Title">原始刺</string>
+<string name="MA.Pristine_Stinger.00.Title">原生刺</string>
 <string name="MA.Pristine_Stinger.01.Paragraph">这种毒刺是非常锋利但相对较脆的。 它可能在矿石开采领域获得应用。</string>
 <string name="MA.Purple_GlowPod.00.Title">紫色发光器</string>
 <string name="MA.Pyrothermic_Generator.00.Title">热能发电机</string>
@@ -1403,11 +1403,11 @@
 <string name="MA.ResearchParts.00.Title">研究部件</string>
 <string name="MA.ResearchParts.01.Paragraph">坠毁的货舱似乎有一些我们无法生产的先进的电路。 将其带到您的实验室并使用分析模式，当它放入一个已连接的存储料斗应该会产生一些有用的研究！</string>
 <string name="MA.Rock.00.Title">岩石</string>
-<string name="MA.Rock.01.Paragraph">石头通常在峰顶被发现。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Rock.01.Paragraph">石头通常在峰顶被发现。 可在粉碎机中粉碎，以提取有用的矿石。</string>
 <string name="MA.Rough_Hewn_Rock.00.Title">磨砂岩</string>
-<string name="MA.Rough_Hewn_Rock.01.Paragraph">石头通常在地表下发被发现。 可在碎石机中粉碎，以提取有用的矿石。</string>
+<string name="MA.Rough_Hewn_Rock.01.Paragraph">石头通常在地表下发被发现。 可在粉碎机中粉碎，以提取有用的矿石。</string>
 <string name="MA.Rubble.00.Title">碎石</string>
-<string name="MA.Rubble.01.Paragraph">在人工矿石开采过程中发现的副产品。可以在碎石机中被压碎，以提取有用的矿石，可以放置。</string>
+<string name="MA.Rubble.01.Paragraph">在人工矿石开采过程中发现的副产品。可以在粉碎机中被压碎，以提取有用的矿石，可以放置。</string>
 <string name="MA.Ruby_Crystal.00.Title">红宝石晶体</string>
 <string name="MA.Ruby_Crystal.01.Paragraph">红宝石水晶是一种稀有的材料，用作升级的基础材料。它可以在深度- 150到- 225之间的洞穴中找到。</string>
 <string name="MA.Ruby_Focusing_Lens.00.Title">红宝石聚焦镜头</string>
@@ -1435,7 +1435,7 @@
 <string name="MA.Sapphire_Focusing_Lens.03.Left">能量传输速率：</string>
 <string name="MA.Sapphire_Focusing_Lens.04.Right">190%</string>
 <string name="MA.Servo_Motor.00.Title">伺服电机</string>
-<string name="MA.Servo_Motor.01.Paragraph">精确而快速的电机</string>
+<string name="MA.Servo_Motor.01.Paragraph">精确而快速的电机。</string>
 <string name="MA.Sign.00.Title">标准</string>
 <string name="MA.Sign.01.Paragraph">使用从坠毁船改编的技术，Cyberdyne EZ-Sign做了进一步的改进。 这个新标志可以被放置和编辑。 该标志应该能够显示任何可以在国际键盘上键入的标准字符。</string>
 <string name="MA.Simplified_Experimental_Pod.00.Title">简化的实验舱</string>
@@ -1589,12 +1589,12 @@ T4增压进气升级也使得从料斗收集矿石的速度翻倍。</string>
 <string name="MA.T4_HardRockGrinder.04.Paragraph">这些机器是非常低效和昂贵的，并且需要大量来自Hiveminds的精制树脂。 我们应该尽快转向更好的挖掘设备。</string>
 <string name="MA.T4_MagmaBore.00.Title">岩浆孔建设</string>
 <string name="MA.T4_MagmaBore.01.Paragraph">钻一个巨大的孔下到岩浆洞穴来将热能充满冰窟。 33wx3hx33d配置（共3276）</string>
-<string name="MA.T4_MagmaBore.02.Paragraph">岩浆孔将创造一个竖井到岩浆洞穴; 一旦完成，我们应该可以浓缩岩浆，并使用它来最终抹除低温等离子体生成体。</string>
+<string name="MA.T4_MagmaBore.02.Paragraph">岩浆孔将创造一个竖井到岩浆洞穴; 一旦完成，我们应该可以浓缩岩浆，并使用它来最终抹除极寒浆液巢穴。</string>
 <string name="MA.T4_MagmaBore.03.Paragraph">岩浆孔的基底建于33米宽的正方形，3米高。 一旦完成，基台将尝试自动竖起。 这将需要清除12米以上的空间; 要清除的区域将被标记红色方框。 清除该区域以展开数字化龙门架主体。</string>
 <string name="MA.T4_MagmaBore.04.Paragraph">该岩浆孔的主体部分将需要64米空间，为33x80x33的总规模。 再次，清除蓝盒内的任何碎屑以进入最后阶段。 我们将需要史诗般的电量从字面意义上创建这个完全由能量构成的无敌钻头。</string>
 <string name="MA.T4_MagmaBore.05.Title">岩浆孔的使用</string>
 <string name="MA.T4_MagmaBore.06.Paragraph">一旦钻头完全数字化，那么接下来就是无聊的时光。 我们估计至少10万每秒的功率可以慢慢运行它 能量多多益善。 在我们打到岩浆洞穴之后，我们可以用它把岩浆泵出来！</string>
-<string name="MA.T4_MagmaBore.07.Paragraph">岩浆应通过标准流体管道泵送到岩浆储存单元。 这可以在距离岩浆孔上方高达256米处。 然后可以将岩浆容器连接到最大距离为512m的炼狱冷却大炮。 如此可以永久地了结低温等离子体的威胁。</string>
+<string name="MA.T4_MagmaBore.07.Paragraph">岩浆应通过标准流体管道泵送到岩浆储存单元。 这可以在距离岩浆孔上方高达256米处。 然后可以将岩浆容器连接到最大距离为512m的炼狱冷却大炮。 如此可以永久地了结极寒浆液的威胁。</string>
 <string name="MA.T4_Trencher.00.Title">挖沟机钻头</string>
 <string name="MA.T4_Trencher.01.Paragraph">这些大型多块钻孔机可用于以非常快速的方式收获所有已知材料。 要建一个，您需要以3x3x3的布局构建钻头，然后以3x3x3的方式构建电机，然后触摸它。 开沟机的朝向由此决定; 电机总是在后面。 您可以使用它来使开沟机朝向任何角度，包括朝上！</string>
 <string name="MA.T4_Trencher.02.Paragraph">请注意，这些新钻头非常耗电，每分钟可以掉下数百矿石。 当将这些东西移到上方的寒冷洞窟的熔炉进行冶炼时，货梯矿车才是王道——这将杀死大量脑细胞！</string>
@@ -1738,7 +1738,7 @@ T4增压进气升级也使得从料斗收集矿石的速度翻倍。</string>
  192
  0.4 s</string>
 <string name="MA.Turret_MK3.00.Title">炮塔 MK3</string>
-<string name="MA.Turret_MK3.01.Paragraph">远程能量防御。必须由相邻的发电机、能量块或通过激光输电器供电</string>
+<string name="MA.Turret_MK3.01.Paragraph">远程能量防御。必须由相邻的发电机、能量块或通过激光输电器供电。</string>
 <string name="MA.Turret_MK3.02.Header">产品参数</string>
 <string name="MA.Turret_MK3.03.Left">范围:
 损坏 (每射击):
