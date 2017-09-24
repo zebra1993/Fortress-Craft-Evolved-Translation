@@ -1,2 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Pokročilá Obrana</string>
+<string name="CO.Advanced_Defence.00.Title">Pokročilá Obrana</string>
+<string name="CO.Advanced_Defence.01.Paragraph">Úspěšně jsme sestrojily design raketové věže a pokračujeme v vylepšeních energetické věže. Budeme potřebovat výrobu raket a to bude vyžadovat zdroj paliva!</string>
+<string name="CO.Advanced_Logistics.Title">Pokročilá Logistika</string>
+<string name="CO.Advanced_Logistics.00.Title">Pokročilá Logistika</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">Teď máme systém hromadného úložiště a třídící mechanizmus pro přesun rud mezi dopravníkovými pásy.</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">Pokročilé Vylepšení Těžičky</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">Pokročilé Vylepšení Těžičky</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">Další vylepšení extraktoru rud a slévárny jsou nyní k dispozici. Dále jsme konečně zdokonalili důlní systém. Použij Geologický průzkumník k identifikaci nejlepšího umístění a pak postav důl pro započetí těžebních operací.</string>
+<string name="CO.Advanced_Power_Grid.Title">Pokročilá Energetická Síť</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Pokročilá Energetická Síť</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">Provedli jsme další vylepšení naší energetické infrastruktury včetně nového Bloku Energetického Úložiště a Laserového Energetického Transmiteru.</string>
+<string name="CO.Advanced_Power_Grid.02.Paragraph">Máme také několik předběžných návrhů pro nový typ generátoru energie, nicméně pro dokončení tohoto výzkumu budeme muset najít také hustší zdroj energie než uhlí, na které se zatím spoléháme.</string>
+<string name="CO.Advanced_Research.Title">Pokročilý Výskum</string>
+<string name="CO.Advanced_Research.00.Title">Pokročilý Výskum</string>
+<string name="CO.Advanced_Research.01.Paragraph">Nyní máme návrh pro výzkumnou laboratoř a montážní stroje potřebné k tomu, abychom je zásobovali experimentálními kapslemi.</string>
+<string name="CO.Advanced_Research.02.Paragraph">Laboratoř je potřebná pro zkoumání pokročilých projektů, které zlepšují vaši technologickou úroveň a odhalují nové projekty a recepty. Je potřeba celkem 27 laboratorních komponent (vyrobeno ve 3 vrstvách po 9 součástech) a musí být postaveno v konfiguraci 3x3x3.</string>
+<string name="CO.Advanced_Research.03.Paragraph">Pro více informací o použití laboratoře prosíme obraťte se na tento následující návod:</string>
+<string name="CO.Aesthetics.Title">Estetika</string>
+<string name="CO.Aesthetics.00.Title">Estetika</string>
+<string name="CO.Aesthetics.01.Paragraph">V nepravděpodobné situaci, kdy máme nějaký čas, můžeme naši základnu zdobit různými barevnými skladovacími bednami a plátnem.</string>
+<string name="CO.Base_Building_Automation.Title">Automatizace Stavby Základny</string>
+<string name="CO.Base_Building_Automation.00.Title">Automatizace Stavby Základny</string>
+<string name="CO.Base_Building_Automation.01.Paragraph">Nyní máme k dispozici širokou škálu nových strojů pro automatizaci naší základny. Použijte Drtičku k rozdrcení nepotřebné horniny výměnou za příležitostnou užitečnou rudu. Auto-rýpadlo může vykopat šachty nad ním, zatímco auto-stavěč pro nás může konstruovat dlouhé dopravníkové pásy.</string>
+<string name="CO.Base_Building_Automation.02.Paragraph">Použijte výtahy, abyste mohli bezpečně cestovat mezi vaší povrchovou základnou a hlubšími doly. Použijte výbušniny, abyste vyčistili velké plochy nebo zničili nepřátelské cíle.</string>
+<string name="CO.Base_Defence.Title">Obrana Základny</string>
+<string name="CO.Base_Defence.00.Title">Obrana Základny</string>
+<string name="CO.Base_Defence.01.Paragraph">Nyní můžeme přinést SVOBODU této planetě!</string>
+<string name="CO.Base_Defence.02.Paragraph">Náš základní výzkum v oblasti obrany byl úspěšný, nyní máme k dispozici tři věže dostupné pro výrobu. ARTHERova věž je efektivní a má dlouhý dosah, ale musí být ovládána ARTHERem, proto je jí pečlivě umístit, abychom ochránili naši základní infrastrukturu, zatímco jsme shromažďovali materiály potřebné pro vybudování a napájení samostatných věží.</string>
+<string name="CO.Basic_Mining_Upgrades_I.Title">Základní Těžební Vylepšení I</string>
+<string name="CO.Basic_Mining_Upgrades_I.00.Title">Základní Těžební Vylepšení I</string>
+<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">Úspěšně jsme prozkoumali řadu upgradů, abychom vylepšili naši schopnost sběru zdrojů.</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">Základní Slévárna</string>
+<string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">Nyní můžeme postavit základní slévárnu. Tato nepodporuje žádné upgrady a je pomalejší a méně účinná než normální slévárna dodávaná se základnou, ale mělo by to nyní pomoci odstranit tuto překážku.</string>
+<string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">Většina zdrojů, které jsme nalezli blízko povrchu, nejsou vhodné pro stavbu sléváren, avšak skeny poukázali na některé malé skalní útvary, které mohou mít požadované vlastnosti.</string>
+<string name="CO.Basic_Mining_Upgrades_I.05.Header">Nucená Indukce</string>
+<string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Moduly nucené indukce mohou být umístěny na vrchu běžných sléváren, aby se zlepšila rychlost slévání za cenu větší spotřeby. Základní slévárna nepodporuje tyto moduly.</string>
+<string name="CO.Basic_Mining_Upgrades_I.07.Header">Motory vrtaček</string>
+<string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Motory vrtaček mohou výt vloženy do extraktoru rud pro vylepšení jejich rychlosti za cenu větší spotřeby.</string>
+<string name="CO.Basic_Mining_Upgrades_II.Title">Základní Vylepšení Těžiček II</string>
+<string name="CO.Basic_Mining_Upgrades_II.00.Title">Základní Těžební Vylepšení II</string>
+<string name="CO.Basic_Mining_Upgrades_II.01.Paragraph">Další vylepšení našich extraktorů a sléváren jsou nyní k dispozici.</string>
+<string name="CO.Black_Box_Data.Title">Data Černé Schránky</string>
+<string name="CO.Black_Box_Data.00.Title">Data Černé Schránky</string>
+<string name="CO.Black_Box_Data.01.Paragraph">Byla dokončena důkladná analýza údajů černé skříňky zaznamenaných vaším oblekem. To potvrzuje vaši vizuální analýzu, že cizí objekt, nejspíše meteor, narazil do stanice, když jste se chystal k dokování. Následný výbuch poškodil lodní manévrovací trysky a způsobil nouzové přistání na tuto mimozemskou planetu. V tuto chvíli nebyly zjištěni žádní další přeživší.</string>
+<string name="CO.Black_Box_Data.02.Paragraph">Není známo, proč meteor nebyl detekován staničnímy senzory s dlouhým dosahem, případné příčiny zahrnují chybu systému nebo sabotáž.</string>
+<string name="CO.Black_Box_Data.03.Paragraph">Naštěstí výbuch přežil koloniální konstrukční modul a zaměřil se na tísnový signál vaší lodi. Přistál vedle místa havárie. Jedná se o standardní Vortox X103 MK V modul, který obsahuje Centrální Energetický Hub, který je obklopen slévárnou, výrobním zařízením a výzkumnou stanicí. Je také vybaven systémem autonomní robotické obrany, který by nám měl pomoci přežít jakékoliv rané útoky, pokud bychom na této planetě našli nějaký nepřátelský život.</string>
+<string name="CO.Frozen_Factory.Title">Zmrazená továrna!</string>
+<string name="CO.Frozen_Factory.00.Title">Zdejší formy Života</string>
+<string name="CO.Frozen_Factory.01.Paragraph">Nyní je tento výzkum dokončen, můžeme pokročit k vybudování \"Cold Cavern Climate Control Center\" (CCCCC nebo C5 zkráceně!). Budeme muset postavit tento stroj v Studené Jeskyni, napájet napájet ho nenergií, a pak čekat, než pomalu přemění jeskyni na úžasné místo, kde se můžeme správně zařídit a čekat na záchranu.</string>
+<string name="CO.Frozen_Factory.02.Paragraph">Tento nový stroj je mnohem pokročilejší (a křehčí!) Než starý CPH - měli bychom být schopni navrhnout, prozkoumat a postavit mnohem větší, rychlejší a složitější těžební a zdrojové stroje. Nejdříve potřebujeme nějaké pokročilejší materiály, a proto budeme potřebovat speciální stroj, který se bude zabývat super zpevněnými minerály.</string>
+</resources>
