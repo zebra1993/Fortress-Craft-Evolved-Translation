@@ -1077,4 +1077,26 @@ Sonnenlicht</string>
 <string name="MA.Mass_Storage_Output_Port.03.Paragraph">Achte auf die Ausrichtung des Blocks, wie normale Förderbänder wird der Gegenstand in eine bestimmte Richtung abgegeben.</string>
 <string name="MA.Mass_Storage_Output_Port.04.Paragraph">Um ein Gegenstand zu bestimmen, wähle ihn in der Schnellzugriffsleiste aus, schau auf den Hochregallagerausgang und drücke [E].</string>
 <string name="MA.Mass_Storage_Output_Port.06.Paragraph">Hat nicht mit der Lagerkiste gemeinsam!</string>
+<string name="MA.MinecartDepot.00.Title">Minenzug Bahnhof</string>
+<string name="MA.MinecartTurboRail.04.Right">1m/s
+ 25
+ 0.5m/s/s
+ 16
+ 15 Sekunden</string>
+<string name="MA.Nickel_Coil.01.Paragraph">Eine einfache Nickelspule aus Nickeldrähten in einer Coiler-Anlage.</string>
+<string name="MA.Nickel_Housing.01.Paragraph">Ein einfaches Nickelgehäuse aus Nickelplatten.</string>
+<string name="MA.Ore_Smelter.06.Header"></string>
+<string name="MA.Organic_Coal_Enricher.00.Title">Organische Kohleanreicherung</string>
+<string name="MA.Organic_Lens.00.Title">Organische Linse</string>
+<string name="MA.Organic_Rock.00.Title">Organischer Stein</string>
+<string name="MA.Overclocked_Crystal.00.Title">Übertackteter Kristall</string>
+<string name="MA.Particle_Compressor.00.Title">Partikelverdichter</string>
+<string name="MA.Particle_Compressor.01.Paragraph">Der Partikel-Kompressor wird verwendet, um die Ausgänge von maximal 4 Partikel-Filtern in eine dichter verwendbare Form zu komprimieren. Der Ausgang des Partikel-Kompressors ist so dicht, dass er bei der Auslieferung einer Flüssigkeit gleicht. Der Partikel-Kompressor ist in einer 3x3x3-Formation zu bauen.</string>
+<string name="MA.Particle_Storage.00.Title">Partikellagerung</string>
+<string name="MA.Particle_Storage.01.Paragraph">Der Partikelspeicher dient zur Speicherung der Ausgabe von maximal 4 Partikelkompressoren. Dieser Multi-Block erleichtert die Lagerung der gesammelten und komprimierten Partikel vor der Abfüllung. Die Partikellagerung wird in einer 3x7x3 Formation gebaut.</string>
+<string name="MA.Perfect_Faceted_Eye.01.Paragraph">Die Augen aus den lokalen fliegenden Lebensformen machen eine hervorragende optische Komponente. Dieser ist von einem der größeren Exemplaren gekommen und ist gut genug, um benutzt zu werden.</string>
+<string name="MA.Pipe_Coater.01.Paragraph">Mit Hilfe von fortschrittlichen Bonding-Techniken kann die hohe Wärme- und Druckbeständigkeit von Crystal Fiber Mesh nun auf Kupferrohre unter Verwendung von Kunststoffkugeln angewendet werden, da ihre einzigartige Molekülstruktur als Bindemittel wirkt. Der Bonding-Prozess nimmt 300 Leistung mit einer Geschwindigkeit von 50 pps, um eine gleichmäßige Beschichtung zu gewährleisten.</string>
+<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">Die Rohr-Extrusionsanlage ist ein regelmäßiger Förderer mit einer Maschine zum Umwandeln von Metallstäben in Rohre.</string>
+<string name="MA.Plastic_Pellet.00.Title">Plastikkugeln</string>
+<string name="MA.Plastic_Pellet.01.Paragraph">Kunststoffe können in einer Raffinerie-Reaktor-Vat aus Biomasse hergestellt werden. Sie werden bei der Konstruktion von Strahlturbinen eingesetzt.</string>
 </resources>
