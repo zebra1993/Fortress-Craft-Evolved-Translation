@@ -1927,7 +1927,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Empty Missile Assembler_CRAFT_HINT">Diese Raketen müssen mit Treibstoff befüllt werden um nützlich zu sein!</string>
     <string name="Missile Fueller_CRAFT_DESC">Befüllt automatisch leere Raketen mit Treibstoff. Braucht Energie und Komponenten müssen in einem angrenzenden Container sein. Gibt fertige Raketen in angrenzenden Container ab.</string>
     <string name="Missile Fueller_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Nutzt durchtränke Raketen und einen guterhaltenen Stachel um eine panzerbrechende Rakete herzustellen.</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Nutzt durchtränke Raketen und einen gut erhaltenen Stachel um eine panzerbrechende Rakete herzustellen.</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um die Raketen damit zu durchtränken, um sie noch stärker zu machen.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
@@ -1937,7 +1937,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="CryoChilled Missile Assembler_CRAFT_DESC">Fügt einer durchtränken Rakete einen massiven Verlangsamungseffekt hinzu.</string>
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="SpiderBot Core Charger_CRAFT_DESC">Durchtränkt Lithiumspulen mit Energie. Wird der Spiderbot Verbesserungs- und Aufladestation via einem Container zugeführt.</string>
+    <string name="SpiderBot Core Charger_CRAFT_DESC">Durchtränkt Lithiumspulen mit Energie. Wird der Spiderbot Verbesserungs- und Aufladestation über einem Container zugeführt.</string>
     <string name="SpiderBot Core Charger_CRAFT_HINT">Der Spiderbot braucht Energie, um deine Basis zu verteidigen.</string>
     <string name="Laser Resin Ablator_CRAFT_DESC">Nutzt große Energiemengen um die Hüllen von gehärtetem Harz abzutragen. Dies erlaubt das Verflüssigen und Raffinieren in weiteren Schritten.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
@@ -1948,7 +1948,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Hydrojet Cutter_CRAFT_DESC">Verbesserungsmodul für die Konstruktionsanlage, welches erlaubt, Anzugsverbesserungen herzustellen. Muss AUF der Konstruktionsanlage platziert werden.</string>
     <string name="Hydrojet Cutter_CRAFT_HINT">MUSS auf der Konstruktionsanlage platziert werden!</string>
     <!--Suit upgrades-->
-    <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpanelen. Muss nur einmal im Inventar vorhanden sein.</string>
+    <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpaneelen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Verbessert die Heizleistung des Anzugs um dich vor extremer Kälte zu schützen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Heater MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
@@ -1995,17 +1995,17 @@ Billig und hässlich, dafür verlässlich*
     <string name="White Storage Crate_CRAFT_HINT">Verbinden von mehreren Kisten erhöht die Lagerkapazität.</string>
     <string name="Steel Alloy Smelter_CRAFT_DESC">Stellt Stahlbarren her.</string>
     <string name="Steel Alloy Smelter_CRAFT_HINT">Automation ist das Beste!</string>
-    <string name="Advanced Machine Block Assembler_CRAFT_DESC">Standardzutat für fortgeschrittene Maschinen.</string>
+    <string name="Advanced Machine Block Assembler_CRAFT_DESC">Standard Zutat für fortgeschrittene Maschinen.</string>
     <string name="Advanced Machine Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
-    <string name="Imbued Machine Block Assembler_CRAFT_DESC">Standardzutat für fortgeschrittene Maschinen. Benötigt 4 fortgeschrittene Maschinenblöcke und eine einzelne MK5 Energiezelle.</string>
+    <string name="Imbued Machine Block Assembler_CRAFT_DESC">Standard Zutat für fortgeschrittene Maschinen. Benötigt 4 fortgeschrittene Maschinenblöcke und eine einzelne MK5 Energiezelle.</string>
     <string name="Imbued Machine Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
-    <string name="Magnetic Block Assembler_CRAFT_DESC">Standardzutat für fortgeschrittene Maschinen.</string>
+    <string name="Magnetic Block Assembler_CRAFT_DESC">Standard Zutat für fortgeschrittene Maschinen.</string>
     <string name="Magnetic Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
-    <string name="Chromed Block Assembler_CRAFT_DESC">Standardzutat für fortgeschrittene Maschinen.</string>
+    <string name="Chromed Block Assembler_CRAFT_DESC">Standard Zutat für fortgeschrittene Maschinen.</string>
     <string name="Chromed Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
-    <string name="Hiemal Block Assembler_CRAFT_DESC">Standardzutat für fortgeschrittene Maschinen.</string>
+    <string name="Hiemal Block Assembler_CRAFT_DESC">Standard Zutat für fortgeschrittene Maschinen.</string>
     <string name="Hiemal Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
-    <string name="Refinery Controller_CRAFT_DESC">Verarbeitet Biomasse zu nutzvollen Produkten. Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren. Siehe Handbuch für weitere Informationen.</string>
+    <string name="Refinery Controller_CRAFT_DESC">Verarbeitet Biomasse zu nutzvolle Produkte. Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren. Siehe Handbuch für weitere Informationen.</string>
     <string name="Refinery Controller_CRAFT_HINT">Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren.</string>
     <string name="Refinery Reactor Vat Component_CRAFT_DESC">Raffineriereaktorkesselkomponente. Wird in einem 3x3x3 Würfel aufgzbaut (27 Blöcke insgesamt). Es muss eine Raffineriekontrolleinheit angebracht werden.</string>
     <string name="Refinery Reactor Vat Component_CRAFT_HINT">Wird in einem 3x3x3 Würfel aufgebaut um einen Reaktorkessel zu formen.</string>
