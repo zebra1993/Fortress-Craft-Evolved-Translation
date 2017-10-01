@@ -2733,6 +2733,530 @@
     <string name="BATTERY USE RATE">BATTERY USE RATE</string>
     <!-- MAX LENGTH 16 CHARS -->
     <string name="World Settings">World Settings</string>
-    
+	
+      <!-- Loading Hints -->
+  <string name="Hint_0">Really big wasps? Say hello with missiles.</string>
+  <string name="Hint_1">Press &#91;F&#93; to activate the Grappling Hook</string>
+  <string name="Hint_2">A spread out infrastructure is often better than a compact one</string>
+  <string name="Hint_3">Craft a Threat Scanner early, you never know when you might need to build up your defenses</string>
+  <string name="Hint_4">The higher the threat, the more enemies are likely to attack</string>
+  <string name="Hint_5">Power generation, ore extraction and smelting bars all add to your threat generation</string>
+  <string name="Hint_6">Press &#91;T&#93; on an Ore Extractor to disable notifications from that Ore Extractor</string>
+  <string name="Hint_7">Cargo lifts are superior for vertical transport</string>
+  <string name="Hint_8">Use CTRL to craft 25 items per click</string>
+  <string name="Hint_9">Split your stacks of items by holding the SHIFT key</string>
+  <string name="Hint_10">Ores only stack to 150, make sure you smelt these in a smelter before you collect more</string>
+  <string name="Hint_11">Use Power Chargers to quickly regain energy when exploring</string>
+  <string name="Hint_12">Craft Storage Crates from wood to dump the things you don't need</string>
+  <string name="Hint_13">Macerators can destruct anything, just feed it with power</string>
+  <string name="Hint_14">Mass storage is superior to storage hoppers for long term storage</string>
+  <string name="Hint_15">Enrich coal to increase the efficiency of Pyrothermic Generators</string>
+  <string name="Hint_16">Mynocks might appear on your conveyors and eat your hard earned goods</string>
+  <string name="Hint_17">The Laboratory consumes Experimental Pods to research new items</string>
+  <string name="Hint_18">Place a Hopper next to a machine to feed it with raw materials</string>
+  <string name="Hint_19">Machines will work below their desired Power Per Second requirement, but not as fast</string>
+  <string name="Hint_20">Feed Cargo Lifts Controllers with Rack Rails to enable it to go futher down</string>
+  <string name="Hint_21">Cargo Lift Controller requires a crafted Cargo Lift and power to start transporting items</string>
+  <string name="Hint_22">Press &#91;E&#93; on Turrets to see their covered area</string>
+  <string name="Hint_23">Crystal deposits require cutter heads to extract ore</string>
+  <string name="Hint_24">Enter /detail bloom in chat to reduce the light reflection on machines</string>
+  <string name="Hint_25">Automate early, automate everything!</string>
+  <string name="Hint_26">The world is big, do yourself a favor and spread out to make expanding easier</string>
+  <string name="Hint_27">Mass storage makes assembly line construction easy</string>
+  <string name="Hint_28">Lifts are cheap and faster than climbing stairs</string>
+  <string name="Hint_29">A well armed spiderbot can guard against even a sizable onslaught</string>
+  <string name="Hint_30">FALCOR's are great to clean up after an attack</string>
+  <string name="Hint_31">When conveyors aren't enough... minecarts!</string>
+  <string name="Hint_32">Basic smelters will speed you along with early production when the starting smelter is no longer enough</string>
+  <string name="Hint_33">Arther's power level is displayed just above the hotbar</string>
+  <string name="Hint_34">Total Fortress Power and time of day are represented in the bar below the hotbar</string>
+  <string name="Hint_35">Sloped conveyors are faster (and prettier) than normal Conveyors</string>
+  <string name="Hint_36">When in doubt, press &#91;H&#93;.</string>
+  <string name="Hint_37">Automate production to save time and space.</string>
+  <string name="Hint_38">Press &#91;G&#93; to throw a Glowstick.</string>
+  <string name="Hint_39">Look for crystals in underground caves. You can place crystals to provide lighting without using power.</string>
+  <string name="Hint_40">When you step on a lift that could move up or down, the direction you're facing determines which way it starts moving - look up to go up!</string>
+  <string name="Hint_41">Don't be afraid to rebuild something if your first design doesn't meet your needs anymore.</string>
+  <string name="Hint_42">Open your suit upgrades inventory by pressing &#91;S&#93; in the inventory screen. You can move suit and ARTHER upgrades here to save space in your main inventory.</string>
+  <string name="Hint_43">Many single input machines can function without hoppers if you put conveyer belts on both sides.</string>
+  <string name="Hint_44">Power generation creates threat. Your lab will require enough power to start drawing attention, so start building turrets!</string>
+  <string name="Hint_45">Basic smelters are key to increasing your production before you reach higher tiered metals.</string>
+  <string name="Hint_46">You can turn lots of things into Construction Paste - not just Garbage. Feed your Construction Paste Grinder Coal if you run out!.</string>
+  <string name="Hint_47">Switch mode on laboratory will analyze research parts for Research Points.</string>
+  <string name="Hint_48">Conveyors with odd plants on them are feeding a Hive. Defend your belts!</string>
+  <string name="Hint_49">Soft resin can spawn worms. Tread Carefully.</string>
+  <string name="Hint_50">Snow makes you walk slowly, reinforced blocks is the way to go.</string>
+  <string name="Hint_51">Done it all and looking for more? Check out user created mods on the Steam Workshop!</string>
+  <string name="Hint_52">Don't forget to upgrade ARTHER!</string>
+  <string name="Hint_53">Forced induction speeds up ore smelting!</string>
+  <string name="Hint_54">Pyrothermic Generators are less efficent the deeper they go</string>
+  <string name="Hint_55">Don't hug the overminds</string>
+  <string name="Hint_56">Camobots are dangerous.</string>
+  <string name="Hint_57">Press &#91;S&#93; while in your inventory to bring up suit upgrades</string>
+  <string name="Hint_58">Torches make heat - don't burn yourself</string>
+  <string name="Hint_59">Be careful around Soft Resin, as Worm Bosses might spawn there.</string>
+  <string name="Hint_60">When did you last tell your mum you love her? You probably should call her.</string>
+  <string name="Hint_61">Tubes work better in the Cold Cavern - belts will freeze</string>
+  <string name="Hint_62">Plasma Cutter Head improves Efficiency of Ore Extractors to 100%</string>
+  <string name="Hint_63">Hiveminds can be fed on purpose!</string>
+  <string name="Hint_64">To drop things from your inventory, hover over them and press &#91;Q&#93;!</string>
+  <string name="Hint_65">Shift-drag items in your inventory to split stacks!</string>
+  <string name="Hint_66">If you build it, they will come. So make sure you build defenses.</string>
+
+<!--Achivements-->
+<string name="Genesis">Genesis</string>
+<string name="Genesis_DESC">Created A FortressCraft World</string>
+<string name="Perfectionist">Perfectionist</string>
+<string name="Perfectionist_DESC">Unlocked all FortressCraft Achievements</string>
+<string name="Above_And_Beyond">Above And Beyond</string>
+<string name="Above_And_Beyond_DESC">Purchased the game using the PlayPass</string>
+<string name="Mind_The_Gap">Mind The Gap</string>
+<string name="Mind_The_Gap_DESC">Die by falling</string>
+<string name="Thumbs_Up">Thumbs Up</string>
+<string name="Thumbs_Up_DESC">Liked 50 worlds</string>
+<string name="Other_worldly_Tourist">Other-worldly Tourist</string>
+<string name="Other_worldly_Tourist_DESC">Visited 50 Worlds</string>
+<string name="Industrial_Revolution">Industrial Revolution</string>
+<string name="Industrial_Revolution_DESC">Make a fully working factory</string>
+<string name="Seeing_double">Seeing double</string>
+<string name="Seeing_double_DESC">Use the copy and paste tool</string>
+<string name="Homage">Homage</string>
+<string name="Homage_DESC">Travel more than 1km in a minecart</string>
+<string name="With_friends_like_these">With friends like these...</string>
+<string name="With_friends_like_these_DESC">Have 3 or more friends in your world</string>
+<string name="Pajitnov_Complex">Pajitnov Complex</string>
+<string name="Pajitnov_Complex_DESC">Build more than 50,000 blocks</string>
+<string name="Demolition_Man">"Demolition Man"</string>
+<string name="Demolition_Man_DESC">"Blow up more than 1,000,000 blocks with TNT"</string>
+<string name="Lazy_Tourist">"Lazy Tourist"</string>
+<string name="Lazy_Tourist_DESC">"Travel more than 1km on a conveyor"</string>
+<string name="Fresh_Air_Is_Overrated">"Fresh Air Is Overrated"</string>
+<string name="Fresh_Air_Is_Overrated_DESC">"Play for more than 6 hours straight"</string>
+<string name="Working_Class">"Working Class"</string>
+<string name="Working_Class_DESC">"Place more than 100 blocks in someone else's world"</string>
+<string name="Big_Version_Little_Version">Big Version. Little Version!</string>
+<string name="Big_Version_Little_Version_DESC">"Place a custom block"</string>
+<string name="House_Of_Pain">"House Of Pain"</string>
+<string name="House_Of_Pain_DESC">"Bounce on a trampoline more than 1,000 times"</string>
+<string name="Blockaholic">"Blockaholic"</string>
+<string name="Blockaholic_DESC">"Amass 24 hours total play time"</string>
+<string name="Milk_no_sugar">"Milk, no sugar"</string>
+<string name="Milk_no_sugar_DESC">"Reach the Obscure rank"</string>
+<string name="Helpin_Noobs">"Helpin' Noobs"</string>
+<string name="Helpin_Noobs_DESC">"Vote on 10 worlds ranked Obscure or less"</string>
+<string name="Variety_is_spice_of_life">"Variety is the spice of life"</string>
+<string name="Variety_is_spice_of_life_DESC">"Build 1 of each block"</string>
+<string name="Fully_loaded">"Fully loaded"</string>
+<string name="Fully_loaded_DESC">"Use up all the custom slots"</string>
+<string name="Relic_hunter">"Relic hunter"</string>
+<string name="Relic_hunter_DESC">"Find all the relics"</string>
+<string name="I_am_Legend">"I am Legend"</string>
+<string name="I_am_Legend_DESC">"Make it to Legendary rank"</string>
+<string name="Foreman">"Foreman"</string>
+<string name="Foreman_DESC">"Build 1,000 blocks using the Li'l Builder"</string>
+<string name="SwissCheese">"SwissCheese"</string>
+<string name="SwissCheese_DESC">"Remove 1,000 blocks using the Li'l Digger"</string>
+
+<!--AdminListManager-->
+<string name="Current_Admins">"Current Admins"</string>
+<string name="Admins">Admins</string>
+<string name="Pending">Pending</string>
+<string name="Admin">Admin</string>
+<string name="Usage">usage</string>
+<string name="Command">command</string>
+<string name="valid_Commands">valid commands</string>
+<string name="Playername">name</string>
+<string name="removed_from_single_access_list">removed from single access list</string>
+<string name="removed_from_whitelist">removed from whitelist</string>
+<string name="not_found_in_whitelist">not found in whitelist</string>
+<string name="added_to_single_access_list">added to single access list</string>
+<string name="Unknown_Command">Unknown command</string>
+
+<!--AIMover-->
+<string name="Searching">Searching</string>
+<string name="Searching_offer_Hopper">Searching offering Hopper</string>
+<string name="Radius">Radius</string>
+<string name="Found">Found</string>
+<string name="Searching_request_Hopper">Searching requesting Hopper</string>
+<string name="Path">Path</string>
+<string name="Carrying">Carrying</string>
+
+<!--AmmoClip -->
+<string name="Minuscule">Minuscule</string>
+<string name="Tiny">Tiny</string>
+<string name="Small">Small</string>
+<string name="Medium">Medium</string>
+<string name="Regular">Regular</string>
+<string name="Large">Large</string>
+<string name="Huge">Huge</string>
+<string name="Giant">Giant</string>
+<string name="Enormous">Enormous</string>
+<string name="Sluggishness">Sluggishness</string>
+<string name="Rapidity">Rapidity</string>
+<string name="Alacrity">Alacrity</string>
+<string name="Expedition">Expedition</string>
+<string name="Hastiness">Hastiness</string>
+<string name="Celerity">Celerity</string>
+<string name="Patience">Patience</string>
+<string name="Languidity">Languidity</string>
+<string name="battery_of">battery of</string>
+<string name="Clip_of">Clip of</string>
+
+<!--ArtherPerSurvivalRandomStrings-->
+<string name="Arther_hint_0">You must construct additional Pylons!</string>
+<string name="Arther_hint_1">Stairs? NOOOOOOOOOOOOOOOOOOO!</string>
+<string name="Arther_hint_2">Exterminate!</string>
+<string name="Arther_hint_3">I think you ought to know I'm feeling very depressed.</string>
+<string name="Arther_hint_4">Transform and roll out!</string>
+<string name="Arther_hint_5">This way, minion!</string>
+<string name="Arther_hint_6">DISAPPOINTED!</string>
+<string name="Arther_hint_7">Klaatu Barato Nikto!</string>
+<string name="Arther_hint_8">Or we could use the teleporter?</string>
+<string name="Arther_hint_9">First Law Disabled.</string>
+<string name="Arther_hint_10">ARTHER is alive!</string>
+<string name="Arther_hint_11">"Bring back life form.\nPriority One.\nAll other  priorities rescinded!</string>
+<string name="Arther_hint_12">Bite my shiny metal ass.</string>
+<string name="Arther_hint_13">Master has given ARTHER a sock!</string>
+<string name="Arther_hint_14">Directive?!</string>
+<string name="Arther_hint_15">Look at me. I am the captain now.</string>
+<string name="Arther_hint_16">Now look back to me. I'm on a horse.</string>
+<string name="Arther_hint_17">I DON'T WANT TO STOP HUMPING THE LASER!</string>
+<string name="Arther_hint_18">Android hell IS a real place where I WILL be sent if I misbehave!</string>
+<!--Hint 19 is made ut out of two parts, no idea how to fuse them together-->
+<string name="All Systems Nominal">All Systems Nominal</string>
+<string name="power available">Power available</string>
+
+<!--ArtherChargingStation-->
+<string name="ARTHER_Recharge_Station">ARTHER Recharge Station</string>
+<string name="Press_E_to_undock_ARTHER">Press E to undock ARTHER</string>
+<string name="Unknown_Player">Unknown Player</string>
+<string name="Currently_charging_ARTHER_for_player">Currently charging ARTHER for player</string>
+<string name="Press_E_to_charge_ARTHER">Press E to charge ARTHER</string>
+
+<!--AutoBarRemover-->
+<string name="Bar_Keeper_5k">Bar Keeper 5000</string>
+<string name="Network_Remote_Bar_Collection_active">Network Remote Bar Collection active!</string>
+<string name="Needs_more_power_to_offload">Needs more power to offload!"</string>
+<string name="Cannot_locate_adjacent_offload_Hoppers">"Cannot locate adjacent offload Hoppers!"</string>
+<string name="Attached_machines">Attached machines</string>
+<string name="Storing">Storing</string>
+<string name="items_with">items with</string>
+<string name="free_slots">free slots</string>
+<string name="Transferred">Transferred</string>
+<string name="bars_from_Inventory">bars from Inventory!</string>
+
+<!--AutoGarbageRemover-->
+<string name="Garbage_Thief_3001"></string>
+<string name="items_from_Inventory">items from Inventory</string>
+
+<!--AutoOreRemover-->
+<string name="Ore_Thief_3k">Ore Thief 3000</string>
+<string name="Linking">Linking</string>
+
+<!--AutoOrganicThief-->
+<string name="Auto_Organic_Thief">Auto_Organic_Thief</string>
+
+<!--Barrel--> 
+<string name="Crawling">Crawling</string>
+<string name="Inert">Inert</string>
+<string name="Torpid">Torpid</string>
+<string name="Sluggish">Sluggish</string>
+<string name="Plodding">Plodding</string>
+<string name="Balanced">Balanced</string>
+<string name="Quick">Quick</string>
+<string name="Hasty">Hasty</string>
+<string name="Supersonic">Supersonic</string>
+<string name="Hypersonic">Hypersonic</string>
+<string name="Ultrasonic">Ultrasonic</string>
+<string name="Nearness">Nearness</string>
+<string name="Myopia">Myopia</string>
+<string name="Proximity">Proximity</string>
+<string name="Concurrency">Concurrency</string>
+<string name="Juxtaposition">Juxtaposition</string>
+<string name="Propinquity">Propinquity</string>
+<string name="Farsight">Farsight</string>
+<string name="Length">Length</string>
+<string name="Bounds">Bounds</string>
+<string name="Aloofness">Aloofness</string>
+<string name="Range">Range</string>
+<string name="Barrel_of">barrel of</string>
+
+<!--BaseManager-->			
+<string name="Extractor">Extractor</string>
+<string name="Extractors">Extractors</string>
+<string name="Rating">Rating</string>
+<string name="Motor">Motor</string>
+<string name="Motors">Motors</string>
+<string name="Head">Head</string>
+<string name="Heads">Heads</string>
+<string name="DUR">Durability</string>
+
+<string name="Total_Machines">Total Machines</string>
+<string name="Threat_Level">Threat Level</string>
+<string name="NO_SCANNER_BUILT">NO SCANNER BUILT</string>
+<string name="Ore">Ore</string>
+<string name="Ore_Extractors">Ore Extractors</string>
+<string name="all_online">all_online</string>
+<string name="not_collecting_ore">not collecting ore</string>
+<string name="Base_Battery">Base Battery</string>
+<string name="used">used</string>
+<string name="PTGs">PTGs</string>
+<string name="Enriched">Enriched</string>
+<string name="Infused">Infused</string>
+<string name="LPTs">LPTs</string>
+<string name="with_lenses">with lenses</string>
+<string name="Storage">Storage</string>
+<string name="No_MS_system_detected">No Mass Storage system detected</string>
+<string name="MS_Crates_with">Mass Storage Crates with</string>
+<string name="used_of">used of</string>
+<string name="Report_assembled_in">Report assembled in</string>
+<string name="ticks">ticks</string>
+<string name="None_Infested">None Infested</string>
+<string name="Mynocks_detected">Mynocks detected</string>
+<string name="Unspent_RP">Unspent Research Points</string>
+<string name="Research_Progress">Research Progress</string>
+<string name="Recommendation">Recommendation</string>
+
+<string name="Extensive_Mynock_Infestation">Extensive Mynock Infestation detected - Use (H)olobase to locate and Turrets to deal with it</string>
+<string name="Automate_Extraction_Smelting_Tin_and_Copper">Automate Extraction and Smelting of Tin and Copper</string>
+<string name="Automate_Smelter_Input">Automate Smelter Input</string>
+<string name="Automate_Smelter_Output">Automate Smelter Output</string>
+<string name="Your_Base_Smelter_needs_Automation_via_Hoppers">Your Base Smelter needs Automation via Hoppers</string>
+<string name="Build_a_Threat_Scanner">Build a Threat Scanner</string>
+<string name="Strong_defenses_detected">Strong defenses detected; recommend increasing Threat for more Eyes</string>
+<string name="LPT_need_lenses_fitting">Laser Power Transmitters need lenses fitting</string>
+
+<string name="Extract_or_Smelt_Copper">Extract or Smelt Copper.</string>
+<string name="Locate_Copper_Ore">Locate Copper Ore.</string>
+<string name="Extract_or_Smelt_Tin">Extract or Smelt Tin.</string>
+<string name="Locate_Tin_Ore">Locate Tin Ore.</string>
+<string name="Base_Smelter_automation_SH_Permissions">Base Smelter needs automation via Storage Hoppers with Permissions.</string>
+<string name="Base_Smelter_Input_Automation_Remove_Only_SH">Base Smelter needs Input Automation via Remove-Only Storage Hopper.</string>
+<string name="Base_Smelter_Output_Automation_AO_SH">Base Smelter needs Output Automation via Add-Only Storage Hopper.</string>
+<string name="Construct_Lab">Construct a Laboratory</string>
+<string name="Locate_Iron_Ore">Locate Iron Ore.</string>
+<string name="Locate_Lithium_Ore">Locate Lithium Ore.</string>
+<string name="Explore_Deeper">Explore Deeper!</string>
+<string name="Craft_fit_Suit_Heater">Craft and fit a Suit Heater!</string>
+<string name="Go_deeper_Traverse_the_CC">Go deeper: Traverse the Cold Caverns.</string>
+<string name="Locate_Gold_Ore">Locate Gold Ore.</string>
+<string name="Locate_Titanium_Ore">Locate Titanium Ore.</string>
+<string name="Locate_Nickel_Ore">Locate Nickel Ore.</string>
+<string name="Construct_Lifts_T2_lifting">Construct Cargo Lifts for T2 lifting.</string>
+<string name="Build_OET">Build Orbital Energy Transmitter!</string>
+<string name="Overminds_to_destroy">Overminds left to destroy!</string>
+<string name="Charge_OET">Charge Orbital Energy Transmitter!</string>
+
+<!--Blast Furnace-->
+<string name="Blast_Furnace">Blast Furnace</string>
+<string name="Desired_PPS">Desired PPS</string>
+<string name="No_Attached_SH_or_MS_found">No Attached Storage Hopper or Mass Storage found</string>
+<string name="Attached_to">Attached to</string>
+<string name="MS_units">Mass Storage Units</string>
+<string name="Storage_Hoppers">Storage Hoppers</string>						
+<string name="Storage_Hopper">Storage Hopper</string>
+<string name="No_Attached_SH_found">No Attached Storage Hoppers found</string>
+<string name="N_C_to_CCB">Not connected to Continuous Casting Basin</string>
+<string name="State">State</string>
+<string name="Smelting">Smelting</string>
+<string name="Smelting_time">Smelting time</string>
+
+<!--BlockSelectPanel-->
+<string name="Cost">Cost</string>
+<string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">Unfinished.\nInfinite heat and light.\nWill be replaced!</string>
+<string name="in_inventory">in inventory</string>
+
+
+<!--ConstructoBot Parts-->
+<string name="ConstructoBot Coppator Chassis">ConstructoBot Coppator Chasis</string>
+<string name="ConstructoBot Coppator Arm">ConstructoBot Coppator Arm</string>
+<string name="ConstructoBot Coppator Leg">ConstructoBot Coppator Leg</string>
+<string name="ConstructoBot Ultron Chassis">ConstructoBot Ultron Chasis</string>
+<string name="ConstructoBot Cromize Chassis">ConstructoBot Cromize Chasis</string>
+<string name="ConstructoBot Stenforcer Chassis">ConstructoBot Stenforcer Chasis</string>
+<string name="ConstructoBot Titaniux Chassis">ConstructoBot Titaniux Chasis</string>
+<string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld Chasis</string>
+<string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldenrod Chasis</string>
+<string name="ConstructoBot Ironide Chassis">ConstructoBot Ironide Chasis</string>
+<string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron Chasis</string>
+<string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzite Chasis</string>
+
+
+<!--Particulate Filtration? -->
+<string name="Airborne Particulate Extractor">AirBorne Particulate Extractor</string>
+<string name="Airborne Particulate Extractor_DESC">AirBorne Particulate Extractor_DESC</string>
+<string name="Airborne Particulate Compressor">AirBorne Particulate Compressor</string>
+<string name="Airborne Particulate Compressor_DESC">AirBorne Particulate Compressor_DESC</string>
+
+<!--CargoLiftController-->
+<string name="Cargo_Lift_Controller">Cargo Lift Controller</string>
+<string name="Power_State">Power State</string>
+<string name="Rack_Rail_storage">Rack Rail storage</string>
+<string name="Operating_State">Operating State</string>
+<string name="Rail_Depth">Rail Depth</string>
+<string name="Rail_State">Rail State</string>
+<string name="Press_T_to_spawn_lift">Press (T) to spawn lift</string>
+<string name="Lift_Depth">Lift Depth</string>
+<string name="Lift_State">Lift State</string>
+<string name="Order">Order</string>
+<string name="Inventories">Inventories</string>
+<string name="Moving">Moving</string>
+<string name="Cargo">Cargo</string>
+
+<!--CargoLiftControllerWindow-->
+<string name="Check_Rail">Check Rail</string>
+<string name="Shaft_depth">Shaft depth</string>
+<string name="No_lift_deployed">No lift deployed</string>
+<string name="Depth">Depth</string>
+<string name="Orders">Orders</string>
+<string name="Switch">Switch</string>
+<string name="Top">Top</string>
+<string name="Toggle">Toggle</string>
+<string name="Bottom">Bottom</string>
+<string name="Lift_stuck_wait_rail_scan_complete">Lift stuck. Please wait for rail scan to complete.</string>
+<string name="Lift_stuck_below_depth_Check_blockages">Lift stuck below shaft depth. Check for blockages.</string>
+<string name="Waiting_for_Rack_Rail">Waiting_for_Rack_Rail</string>
+<string name="Unknown_State">Unknown_State</string>
+<string name="Operating_Lift">Operating_Lift</string>
+<string name="Controller_no_Rack_Rail_place">Controller has no Rack Rail to place</string>
+<string name="Check_Depth">Check Depth</string>
+
+<!--CargoLiftMob-->
+<string name="Unloading_finished_Lift_has_no_Cargo">"Unloading finished - Lift has no Cargo!</string>
+<string name="Error_failed_to_locate_non_null_item_unload">Error, failed to locate a non-null item to unload!</string>
+<string name="Unloaded">Unloaded</string>
+<string name="items">items</string>
+<string name="capacity_free">capacity free</string>
+<string name="Lift_is_empty">Lift is empty!</string>
+<string name="Loading_Complete!">Loading_Complete!</string>
+<string name="Loaded">Loaded</string>
+
+<!--C5-->
+<string name="C5_Linking_existing">C5 Linking to existing</string>
+<string name="C5_ALT_Linking_existing">C5 ALT-Linking to existing</string>
+<string name="C5_Clearing">C5 Clearing</string>
+<string name="C5_exposion_FAILED_retrying_12s">C5 exposion FAILED - retrying in 12s</string>
+<string name="C5_Spawning">C5 Spawning</string>
+<string name="Climate_Control_Centre">Climate Control Centre</string>
+<string name="Set_to_Cold_Mode">Set to : Cold Mode</string>
+<string name="Warning_Cryoplasm_Detected_At">WARNING! CRYOPLASM DETECTED AT</string>
+<string name="No_threats_detected">No threats detected...</string>
+<string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">WARNING! CPH OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+<string name="Emergency_Cryoplasm_Defences_Active">EMERGENCY CRYOPLASM DEFENCES ACTIVE!</string>
+<string name="Power_Low_Offline_Cryoplasm_Defences_Offline">POWER LOW! OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+<string name="Warning_Offline_Cryoplasm_Defences_Offline">WARNING! OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+
+<!--CPH--> <!--Was this Missions forgotten to be added like the other Missions? -->
+<string name="Mission_Tutorial_Intro">\nYou have survived the initial crash, and ARTHER sacrificed himself to make you a tiny survival environment.\n\nARTHER will now explain a few of your base's features.\n\nThe forcefield will disappear when this is completed.</string>
+
+<!--CPHPanelScript-->
+<string name="CPH_Idling_all_attached_power_full">CPH Idling as all attached\nPower is full!</string>
+<string name="Needs_resources_Attach_SH_automate">Needs resources. Attach a\nStorage Hopper to automate.</string>
+<!--As in " BURNING X for X Time"-->
+<string name="Burning">Burning</string>
+<!--As in " Burning X FOR X Time"-->
+<string name="for">for</string>
+<!--as in X amount of time LEFT.-->
+<string name="Time_left">left.</string>
+
+<!--ChatPanelScript-->
+<string name="Player_curr_online">Players currently online:</string>
+<string name="Player_joined">joined.</string>
+<string name="Player_left">left.</string>
+<string name="Player_disconnected_reason">disconnected. reason:</string>
+
+<!--ColdCreepSpawner-->
+<string name="Debug_Cryospawn_Data">[DEBUG]CryoSpawn Data</string>
+<string name="Active_for_another">Active for another</string>
+<string name="Built">Built</string>
+<string name="Creep">Creep</string>
+<string name="Holding">Holding</string>
+<string name="segments">segments</string>
+<string name="PeakBuilds">PeakBuilds</string>
+<string name="Sleeping_for">Sleeping for</string>
+<string name="ColdCreep_killed_Score_was">ColdCreep killed! Score was</string>
+<string name="Player_Bonus_was">Player Bonus was</string>
+
+<!--ConstructoBotMob-->
+<string name="CB_inserted">Constructobot unloaded</string>
+<string name="SH_full_or_locked">Storage Hopper full or locked!</string>
+<string name="SH_empty">Storage Hopper empty!</string>
+<string name="CB_collected">Constructobot collected</string>
+<string name="CB_failed_get_storage_machine_">Constructobot failed to get a storage machine!</string>
+
+<!--CCB-->
+<string name="Warning_Basin_overheating_Place_much_colder">Warning! Basin overheating! Place somewhere much colder!</string>
+<string name="Casting">Casting</string>
+
+<!--CraftignManager-->
+<string name="currently_in_inventory">currently stored in inventory</string>
+<string name="You_enough_resources_craft">You have enough resources to craft this!</string>
+<string name="This_requires">This requires</string>
+<string name="Self_Craft">Self-Craft</string>
+<!--Max Lenght:17 Chars-->
+<string name="Missing_Mats">Missing Material</string>
+<!--Max Lenght:17 Chars-->
+<string name="Start_Automation">Start Automation</string>
+<!--Max Lenght:17 Chars-->
+<string name="Stop_Automation">Stop Automation</string>
+
+<string name="Switching">Switching</string>
+<string name="Cancelling">Cancelling</string>
+<string name="Crafting_Queue">Crafting Queue</string>
+<string name="Automation">Automation</string>
+
+<!--CraftingPanelLabel-->
+<string name="Thanks_buying_Dapper_DLC">Thank you for buying the Dapper DLC pack!</string>
+<string name="This_requires_Dapper_DLC">This requires the Dapper DLC pack!</string>
+<string name="This_requires_FF_DLC">This requires the Frozen Factory Expansion pack!</string>
+<!--Max Lenght:17 Chars-->
+<string name="Craft">Craft</string>
+<!--Max Lenght:17 Chars-->
+<string name="Craft_x25">Craft x25</string>
+<!--Max Lenght:17 Chars-->
+<string name="Select_Recipe">Select Recipe</string>
+<string name="Dapper_DLC_not_present">Dapper DLC not present</string>
+<string name="Inventory_full">Inventory full!</string>
+<string name="Crafted_a">Crafted a </string>
+<string name="Lacking_Materials_craft_a">Lacking Materials to craft a </string>
+
+<!--CrashDetectionManager-->
+<string name="Crash_DiskThread">The disk thread crashing means that world data will no longer be saved or loaded.</string>
+<string name="Crash_LowFrequencyThread">The low frequency game thread crashing means that gameplay related machines and objects will no longer be updated.</string>
+<string name="Crash_RaycastManager">The raycast manager crashing means that mobs and other things requiring raycasts will no longer move or function.</string>
+<string name="Crash_MobUpdateThread">The mob update thread crashing means mobs will no longer move or update.</string>
+<string name="Crash_MainMenuNetworkThread">The main menu network thread crashing means the game status of stored servers will no longer update.</string>
+<string name="Crash_NetworkClientThread">The network client thread crashing means you're disconnected from the server.</string>
+<string name="Crash_NetworkServerThread">The network server thread crashing means you are no longer hosting a game.</string>
+<string name="Crash_FluidManager">The fluid manager crashing means fluids will no longer update.</string>
+<string name="Crash_SegmentMeshRenderer">The segment mesh renderer crashing means that terrain changes and new areas reached will no longer load graphics.</string>
+<string name="Crash_SegmentManagerThread">The segment manager thread crashing means that terrain will no longer load when moving or teleporting.</string>
+<string name="Crash_TerrainGenThread">The terrain gen thread crashing means that new terrain will no longer be generated.</string>
+
+<string name="crashed"> crashed!</string>
+<string name="Error_message">Error message: </string>
+<string name="View_Log">View Log</string>
+<string name="Ignore">Ignore</string>
+
+<!--CreepLancer-->
+<string name="CryoPlasm_Lancer">CryoPlasm Lancer</string>
+<string name="CryoPlasm_Melter">CryoPlasm Melter</string>
+<string name="C5_Offline_defences_offline">C5 Offline - defences offline.</string>
+<string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Clearing complete! No CryoPlasm to shoot. Rescanning soon...</string>
+<string name="Scanning_for_targets">Scanning for targets - </string>
+<string name="Clearing_area">Clearing area</string>
+<string name="Cleared">Cleared </string>
+<string name="blocks">blocks</string>
+<string name="supercharged_shots_remaining">supercharged shots remaining.</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">Use a Freezon Injector to supercharge this Lancer.</string>
+<string name="Melted">Melted</string>
+<string name="s_since_last_firing">s since last firing.</string>
+<string name="Scan_Size">Scan Size</string>
+<string name="m_max_size">m max size</string>
+
+<!--DeathPanelScript-->
+<string name="You_lasted">You lasted</string>
+<string name="You_selected">You selected</string>
+<string name="difficulty_I_afraid_dont_get_respawn">difficulty. I'm afraid you don't get to respawn!</string>
     
 </resources>
