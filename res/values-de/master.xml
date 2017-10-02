@@ -961,8 +961,8 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Fluid Magma_DESC">Flüssige Magma fliesst immer zum tiefsten, erreichbaren Punkt. Wenn zuviel gleichzeitig in bewegung ist wird die Performance massiv eingeschränkt. (Keine Bomben in Lavaseen zünden!!)</string>
     <string name="Enriched Coal">Angereicherte Kohle</string>
     <string name="Enriched Coal_DESC">Angereicherte Kohle hat doppeltsoviel Brennwert wie einfache Kohle.</string>
-    <string name="Infused Coal">Durchtränkte Kohle</string> <!-- Not optimal-->
-    <string name="Infused Coal_DESC">Durchtränke Kohle hat 2x soviel Brennwert wie angereicherte Kohle und 4x soviel wie normale Kohle.</string>
+    <string name="Infused Coal">Durchsetzte Kohle</string> <!-- Not optimal-->
+    <string name="Infused Coal_DESC">Durchsetzte Kohle hat 2x soviel Brennwert wie angereicherte Kohle und 4x soviel wie normale Kohle.</string>
     <string name="Halloween Cauldron">Halloween Kessel</string>
     <string name="Halloween Cauldron_DESC">Heute Koch ich, Morgen brau ist, Übermorgen hol ich des Spielers Interesse!</string>
     <string name="Rough Hewn Rock">Roh gehauener stein</string>
@@ -1928,10 +1928,10 @@ Billig und hässlich, dafür verlässlich*
     <string name="Missile Fueller_CRAFT_DESC">Befüllt automatisch leere Raketen mit Treibstoff. Braucht Energie und Komponenten müssen in einem angrenzenden Container sein. Gibt fertige Raketen in angrenzenden Container ab.</string>
     <string name="Missile Fueller_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Nutzt durchtränke Raketen und einen gut erhaltenen Stachel um eine panzerbrechende Rakete herzustellen.</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um die Raketen damit zu durchtränken, um sie noch stärker zu machen.</string>
-    <string name="Warhead Imbuer_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="Cluster Missile Crafter_CRAFT_DESC">Wandelt eine durchtränke Rakete in 8 Schwarmraketen um. Jede hat nur 1/4 des originalen Schadens, was im Gesamten doppelt soviel Schaden bedeutet.</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
+    <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um deren Schaden deutlich zu erhöhen.</string>
+    <string name="Warhead Imbuer_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
+    <string name="Cluster Missile Crafter_CRAFT_DESC">Wandelt eine verbesserte Rakete in 8 Schwarmraketen um. Jede hat nur 1/4 des originalen Schadens, was im Gesamten doppelt soviel Schaden bedeutet.</string>
     <string name="Cluster Missile Crafter_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="Mephitic Missile Assembler_CRAFT_DESC">Fügt einer durchtränkten Rakete 50% Schaden über Zeit hinzu.</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
