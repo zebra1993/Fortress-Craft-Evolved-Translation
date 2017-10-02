@@ -1926,7 +1926,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Empty Missile Assembler_CRAFT_DESC">Stellt automatisch leere Raketen her. Braucht Energie und Komponenten müssen in einem angrenzenden Container sein. Gibt fertige Raketen in angrenzenden Container ab.</string>
     <string name="Empty Missile Assembler_CRAFT_HINT">Diese Raketen müssen mit Treibstoff befüllt werden um nützlich zu sein!</string>
     <string name="Missile Fueller_CRAFT_DESC">Befüllt automatisch leere Raketen mit Treibstoff. Braucht Energie und Komponenten müssen in einem angrenzenden Container sein. Gibt fertige Raketen in angrenzenden Container ab.</string>
-    <string name="Missile Fueller_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
+    <string name="Missile Fueller_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Nutzt durchtränke Raketen und einen gut erhaltenen Stachel um eine panzerbrechende Rakete herzustellen.</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um deren Schaden deutlich zu erhöhen.</string>
@@ -2631,7 +2631,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Critical Research Suit Upgrades">Kritische Forschung: Anzugsverbesserungen.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Rüste eine MK1 Solarzelle an deinem Anzug aus.</string>
     <string name="MISSION_Critical Research Mining Upgrades">Kritische Forschung: Bergbauverbesserungen.</string>
-    <string name="MISSION_Place your Forced Induction Kit">Platziere Deinen erzwungenen Induktionssatz.</string>
+    <string name="MISSION_Place your Forced Induction Kit">Platziere Dein erzwungenes Induktionskit.</string>
     <string name="MISSION_Build a Forced Induction Kit">Baue einen Induktionssatz.</string>
     <string name="MISSION_Critical Research Automation">Kritische Forschung: Automatisierung.</string>
     <string name="MISSION_Build an Ore Thief">Baue einen Erzdieb.</string>
