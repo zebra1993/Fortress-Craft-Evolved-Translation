@@ -6,8 +6,8 @@
 <string name="AV.Advanced_Logistics.00.Title">Geavanceerde Logistiek</string>
 <string name="AV.Advanced_Logistics.01.Paragraph">Het optimaliseren van onze mijnbouw vereist een scalpel, geen hamer. (Hamers zijn uiteraard als aparte upgrade beschikbaar).</string>
 <string name="AV.Advanced_Logistics.02.Paragraph">Dit onderzoeksproject zal zich focussen op het improviseren van opslag, sorteren en extra constructiegereedschappen voor de basis.</string>
-<string name="AV.Advanced_Miner_Upgrades.Title">Geavanceerde Mijnwerkersverbeteringen</string>
-<string name="AV.Advanced_Miner_Upgrades.00.Title">Geavanceerde Mijnwerkersverbeteringen</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Geavanceerde Mijnbouwverbeteringen</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">Geavanceerde Mijnbouwverbeteringen</string>
 <string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Dit project zal verdere verbeteringen van de ertsonttrekker en smeltoven onderzoeken. Daarnaast zal het nieuwe Steengroevesysteem verder onderzocht worden.</string>
 <string name="AV.Advanced_Power_Grid.Title">Geavanceerd Energienet</string>
 <string name="AV.Advanced_Power_Grid.00.Title">Geavanceerd Energienet</string>
@@ -30,4 +30,11 @@
 <string name="AV.Basic_Mining_Upgrades_I.Title">Eenvoudige Mijnbouwverbeteringen I</string>
 <string name="AV.Basic_Mining_Upgrades_I.00.Title">Eenvoudige Mijnbouwverbeteringen I</string>
 <string name="AV.Basic_Mining_Upgrades_I.01.Paragraph">We moeten de snelheid verbeteren waarmee we erts kunnen verzamelen en smelten. Dit project zal zich richten op het verbeteren van de prestaties van ertsonttrekkers en smeltovens.</string>
+<string name="AV.Basic_Mining_Upgrades_II.Title">Eenvoudige Mijnbouwverbeteringen II</string>
+<string name="AV.Basic_Mining_Upgrades_II.00.Title">Eenvoudige Mijnbouwverbeteringen II</string>
+<string name="AV.Basic_Mining_Upgrades_II.01.Paragraph">Volgend op ons vorig onderzoek voor Mijnbouwverbeteringen zouden we onze boormotor en geforceerde inductie-verbeteringen verder moeten kunnen improviseren.</string>
+<string name="AV.Black_Box_Data.Title">Zwarte Doos Gegevens</string>
+<string name="AV.Black_Box_Data.00.Title">Zwarte Doos Gegevens</string>
+<string name="AV.Black_Box_Data.01.Paragraph">Uw pak bevat een zwarte doos die alle sensorlezingen opgeslagen heeft die geleid hebben tot uw crash op de planeet.
+Door deze gegevens te onderzoeken kan het je helpen om te bepalen wat er precies gebeurd is.</string>
 </resources>
