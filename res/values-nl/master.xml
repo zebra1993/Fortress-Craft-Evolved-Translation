@@ -15,7 +15,7 @@
     <string name="Power_Level">Energieniveau</string>
     <string name="Conveyor_Speed">Snelheid Transportband</string>
     <string name="Day_Night_Cycle">Dag/Nacht Cyclus</string>
-    <string name="Mob_Difficulty">... Moeilijkheid</string>
+    <string name="Mob_Difficulty">Moeilijkheid Monsters</string>
     <string name="Death_Mode">Dodelijkheidsmodus</string>
     <string name="Rush_Mode">Snelle Modus</string>
     <string name="Flatland">Vlak land</string>
@@ -27,11 +27,11 @@
     <string name="Back">Terug</string>
     <string name="Mutators">Mutatoren</string>
 
-    <string name="Enter_World">Ga Naar De Wereld</string>
+    <string name="Enter_World">Ga Wereld Binnen</string>
     <string name="Reset_World">Reset Wereld</string>
 
 
-    <string name="Creative_New">Creatieve Modus geeft je een oneindigende kans om alles te bouwen, hoge-resolutie detail blokken, extensieve wereld verander tools, schematen, blauwprinten en kopieër-plak systemen. Het heeft niet de meeste elementen van overleving, en zou niet moeten worden beschouwt als \'cheat modus\' voor Overleving!</string>
+    <string name="Creative_New">Creatieve Modus geeft je een oneindigende kans om alles te bouwen, hoge-resolutie gedetaileerde blokken, extensieve tools on de wereld te veranderen, schematen, blauwdrukken en kopieër en plak systemen. Het heeft de meeste elementen van overleving niet, en zou niet moeten worden beschouwt als \'cheat modus\' voor Overleving!</string>
     <string name="Creative_Info">Dit is een al bestaande Creatieve wereld, maar, treurig, heb ik niet coole statestieken om je te laten zien hier. Zou je anders een plaatje van een kat willen zien?</string>
 
     <string name="Mod_Management">Mod Beheren</string>
@@ -52,7 +52,7 @@
 
     <string name="Plentiful">Overvloedig</string>
     <string name="Scarce">Schaars</string>
-    <string name="Rapid">Vaak</string>
+    <string name="Rapid">Zeer Snel</string>
 
     <string name="Greg">Greg</string>
     <string name="Fast">Snel</string>
@@ -62,9 +62,9 @@
     <string name="Normal">Normaal</string>
     <string name="Eternal Night">Altijd Nacht</string>
 
-    <string name="Trivial Mobs">Makkelijke ...</string>
-    <string name="Normal Mobs">Normale ...</string>
-    <string name="Hard Mobs">Moeilijke ...</string>
+    <string name="Trivial Mobs">Makkelijke Monsters</string>
+    <string name="Normal Mobs">Normale Monsters</string>
+    <string name="Hard Mobs">Moeilijke Monsters</string>
 
     <string name="None">Geen</string>
     <string name="Clumsy">Onhandig</string>
