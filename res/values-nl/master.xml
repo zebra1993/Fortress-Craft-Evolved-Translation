@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Gegroet! Jouw taal is alleen gedeeltelijk-ondersteund. Als je terug wil gaan naar Engels, druk dan op \'Engels\' beneden!</string>
+<resources><string name="Partial_Language_Support">Gegroet! Jouw taal is maar gedeeltelijk ondersteund. Als je terug wil gaan naar Engels, druk dan beneden op \'Engels\'!</string>
     <string name="Translation_Incomplete">Vertaling incompleet!</string>
     <string name="Language_Name">Engels</string><string name="Frozen_Factory">Bevroren Fabriek</string>
     <string name="Dapper_Pack">Dapper Pakket</string>
@@ -13,10 +13,10 @@
     <string name="Spacebar">Spatiebar</string>
     <string name="Resource_Level">Grondstoffen Niveau</string>
     <string name="Power_Level">Energieniveau</string>
-    <string name="Conveyor_Speed">Snelheid Lopende Band</string>
+    <string name="Conveyor_Speed">Snelheid Transportband</string>
     <string name="Day_Night_Cycle">Dag/Nacht Cyclus</string>
     <string name="Mob_Difficulty">... Moeilijkheid</string>
-    <string name="Death_Mode">Dodelijkheid Modus</string>
+    <string name="Death_Mode">Dodelijkheidsmodus</string>
     <string name="Rush_Mode">Snelle Modus</string>
     <string name="Flatland">Plat land</string>
     <string name="Care_Package">Zorgpakket</string>
@@ -339,5 +339,5 @@ Onthoud deze instellingen zijn vast op de duratie van je wereld en onthoud de ..
     <string name="Suit Power Packs MK2">Pak Power Packs MK2</string>
     <string name="ARTHER Power Core">ARTHER Krachtkern</string>
     <string name="ARTHER Power Cores">ARTHER Krachtkernen</string>
-    <string name="ARTHER Solar Panel"></string>
+    <string name="ARTHER Solar Panel"/>
     </resources>
