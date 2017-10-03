@@ -27,10 +27,22 @@
 <string name="CO.Base_Defence.Title">Basisverdediging</string>
 <string name="CO.Base_Defence.00.Title">Basisverdediging</string>
 <string name="CO.Base_Defence.01.Paragraph">We kunnen nu VRIJHEID brengen op deze planeet!</string>
-<string name="CO.Base_Defence.02.Paragraph">Ons basisverdediging onderzoek is succesvol geweest, we hebben nu drie verdedigingswerken beschikbaar voor fabricage. Het ARTHER-kanon is efficiënt in energieverbruik en heeft een groot bereik, maar moet door ARTHER bediend worden, we moeten het dus zorgvuldig positioneren om onze broninfrastructuur te beschermen terwijl we de benodigde materialen verzamelen om de losstaande kanonnen te bouwen en van energie te voorzien.</string>
+<string name="CO.Base_Defence.02.Paragraph">Ons basisverdediging onderzoek is succesvol geweest, we hebben nu drie verdedigingswerken beschikbaar voor fabricage. Het ARTHER-kanon is efficiënt in energieverbruik en heeft een groot bereik, maar moet door ARTHER bediend worden, we moeten het dus zorgvuldig positioneren om onze grondstoffeninfrastructuur te beschermen terwijl we de benodigde materialen verzamelen om de losstaande kanonnen te bouwen en van energie te voorzien.</string>
 <string name="CO.Basic_Mining_Upgrades_I.Title">Eenvoudige Mijnbouwverbeteringen I</string>
 <string name="CO.Basic_Mining_Upgrades_I.00.Title">Eenvoudige Mijnbouwverbeteringen I</string>
-<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">We hebben met succes een aantal upgrades onderzocht om onze mogelijkheden voor het verzamelen van resources te verbeteren.</string>
+<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">We hebben met succes een aantal upgrades onderzocht om onze mogelijkheden voor het verzamelen van grondstoffen te verbeteren.</string>
 <string name="CO.Basic_Mining_Upgrades_I.02.Header">Eenvoudige Ertssmeltoven</string>
 <string name="CO.Basic_Mining_Upgrades_I.08.Paragraph">Boormotoren kunnen in een ertsonttrekker worden geplaatst om hun extractiesnelheid te verbeteren ten koste van meer energie.</string>
+<string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">We kunnen nu een eenvoudige ertssmeltoven bouwen. Deze ondersteunt geen verbetering en is trager en minder efficiënt dan de normale smeltoven die bij de buitenpost wordt geleverd, maar het zou moeten helpen om dat knelpunt voorlopig te elimineren.</string>
+<string name="CO.Basic_Mining_Upgrades_I.07.Header">Boormotoren</string>
+<string name="CO.Basic_Mining_Upgrades_I.05.Header">Geforceerde Inductie</string>
+<string name="CO.Basic_Mining_Upgrades_I.06.Paragraph">Geforceerde inductiemodules kunnen bovenop normale smeltovens geplaatst worden om het smelttempo te verbeteren ten koste van meer energie. De eenvoudige smeltoven ondersteunt deze niet.</string>
+<string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">De meeste grondstoffen die we dicht bij de oppervlakte gevonden hebben, zijn niet goed geschikt om ertssmeltovens te bouwen, maar scans hebben enkele kleine rotsformaties getoond die de vereiste eigenschappen kunnen hebben.</string>
+<string name="CO.Basic_Mining_Upgrades_II.Title">Eenvoudige Mijnbouwverbeteringen II</string>
+<string name="CO.Basic_Mining_Upgrades_II.00.Title">Eenvoudige Mijnbouwverbeteringen II</string>
+<string name="CO.Basic_Mining_Upgrades_II.01.Paragraph">Verdere verbeteringen voor onze ertsonttrekkers en smeltovens zijn nu beschikbaar.</string>
+<string name="CO.Black_Box_Data.Title">Zwarte Doos Gegevens</string>
+<string name="CO.Black_Box_Data.00.Title">Zwarte Doos Gegevens</string>
+<string name="CO.Black_Box_Data.01.Paragraph">Een grondige analyse van de zwarte doosgegevens die door uw pak is opgenomen, is nu voltooid. Het bevestigt uw visuele analyse dat een vreemd voorwerp, men gelooft dat dit een meteoriet was, op het station is ingeslaan terwijl u aan het voorbereiden was on te landen. De daaruit voortvloeiende explosie beschadigde de raketmotoren voor het manoeuvreren van uw schip, waardoor een noodlanding op deze buitenaardse planeet werd veroorzaakt. Er zijn op dit moment geen andere overlevenden ontdekt.</string>
+<string name="CO.Black_Box_Data.02.Paragraph">Het is niet bekend waarom de meteoriet onopgemerkt bleef door de langeafstandsscanners van het ruimtestation, mogelijke oorzaken omvatten een systeemfout of sabotage.</string>
 </resources>
