@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.WorkFloorExcavatorMK2.04.Right">"32m
+ 128
+ 네
+ "</string>
+<string name="MA.WorkFloorExcavatorMK2.02.Header">지정</string>
+<string name="MA.WorkFloorExcavatorMK1.04.Right">"32m
+ 64
+ 안이
+ "</string>
+<string name="MA.Window.00.Title">창문</string>
+<string name="MA.Turret_MK3.04.Right">72m
+ 3600
+ 400
+ 900
+ 4 초</string>
+<string name="MA.WorkFloorExcavatorMK1.02.Header">지정</string>
+<string name="MA.Turret_MK3.02.Header">지정</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">지정</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 초당
+ 1500
+ 10 초당</string>
+<string name="MA.ARTHER_Turret.03.Header">지정</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+ 33
+ 5
+ 150
+ 10 초
+ 1 (ARTHER)</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">지정</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200할</string>
+<string name="MA.Auto_Builder.06.Header">유심!</string>
+<string name="MA.Auto_Excavator.04.Header">지정</string>
+</resources>
