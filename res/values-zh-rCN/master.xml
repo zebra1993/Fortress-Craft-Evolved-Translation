@@ -2966,4 +2966,20 @@
 <string name="Automate_Smelter_Input">自动熔炼炉输入</string>
 <string name="Automate_Smelter_Output">自动冶炼厂输出</string>
 <string name="Your_Base_Smelter_needs_Automation_via_Hoppers">您的基础熔炼炉需要通过料斗进行自动化</string>
+<string name="Expedition">吗、考察</string>
+<string name="ticks">勾选</string>
+<string name="Build_a_Threat_Scanner">建立威胁扫描仪</string>
+<string name="Strong_defenses_detected">发现强大的防御力量; 建议增加对更多威胁扫描</string>
+<string name="LPT_need_lenses_fitting">激光功率变送器需要镜头配件</string>
+
+<string name="Extract_or_Smelt_Copper">提取或冶炼铜。</string>
+<string name="Locate_Copper_Ore">找到铜矿。</string>
+<string name="Extract_or_Smelt_Tin">提取或冶炼锡。</string>
+<string name="Locate_Tin_Ore">找到锡矿。</string>
+<string name="Base_Smelter_automation_SH_Permissions">基地冶炼厂需要通过具有权限的储料斗自动化。</string>
+<string name="Base_Smelter_Input_Automation_Remove_Only_SH">基地冶炼厂需要输入自动化通过仅移除存储漏斗。</string>
+<string name="Base_Smelter_Output_Automation_AO_SH">基地冶炼厂需要通过添加式储料斗进行输出自动化。</string>
+<string name="Construct_Lab">建设一个实验室</string>
+<string name="Locate_Iron_Ore">找到铁矿石。</string>
+<string name="Locate_Lithium_Ore">找到锂矿石。</string>
 </resources>
