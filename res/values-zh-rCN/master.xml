@@ -2982,4 +2982,39 @@
 <string name="Construct_Lab">建设一个实验室</string>
 <string name="Locate_Iron_Ore">找到铁矿石。</string>
 <string name="Locate_Lithium_Ore">找到锂矿石。</string>
+<string name="Explore_Deeper">更深层次的探索！</string>
+<string name="Craft_fit_Suit_Heater">创造一套合适的加热器!</string>
+<string name="Go_deeper_Traverse_the_CC">走向最深处：寒冷的洞穴.</string>
+<string name="Locate_Gold_Ore">找到金矿.</string>
+<string name="Locate_Titanium_Ore">找到钛矿石.</string>
+<string name="Locate_Nickel_Ore">查找的镍矿的地点</string>
+<string name="Construct_Lifts_T2_lifting">建造T2升降机货物升降机。</string>
+<string name="Build_OET">建立轨道能量传送器！</string>
+<string name="Overminds_to_destroy">摧毁主宰</string>
+<string name="Blast_Furnace">高炉</string>
+<string name="Charge_OET">电荷轨道能量传送器！</string>
+
+<string name="Desired_PPS">所需的PPS</string>
+<string name="No_Attached_SH_or_MS_found">未找到附加存储容器或大容量存储器</string>
+<string name="Attached_to">附属于</string>
+<string name="MS_units">大容量存贮器单位</string>
+<string name="Storage_Hoppers">储料斗</string>						
+<string name="Storage_Hopper">储料斗</string>
+<string name="No_Attached_SH_found">没有发现附加存储料斗</string>
+<string name="N_C_to_CCB">没有连接到连续的铸池</string>
+<string name="State">状态</string>
+<string name="Smelting">冶炼</string>
+<string name="Smelting_time">冶炼时间</string>
+
+<string name="Cost">成本</string>
+<string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">未完成。
+无数的热和光。
+将会被取代！</string>
+<string name="in_inventory">在库存</string>
+
+
+<string name="ConstructoBot Coppator Chassis">构造校对机器人的底盘</string>
+<string name="ConstructoBot Coppator Arm">构造校对机器人的手臂</string>
+<string name="ConstructoBot Coppator Leg">构造校对机器人的大腿</string>
+<string name="ConstructoBot Ultron Chassis">构造超能机器人的底盘</string>
 </resources>
