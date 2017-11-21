@@ -2893,7 +2893,7 @@
 <string name="items_with">有空余槽位</string>
 <string name="free_slots">的物品</string>
 <string name="Transferred">传递</string>
-<string name="bars_from_Inventory">物品栏中的金属锭</string>
+<string name="bars_from_Inventory">物品栏中的金属锭！</string>
 
 <string name="items_from_Inventory">物品栏中的物品</string>
 
@@ -2987,10 +2987,10 @@
 <string name="Go_deeper_Traverse_the_CC">走向最深处：寒冷的洞穴.</string>
 <string name="Locate_Gold_Ore">找到金矿.</string>
 <string name="Locate_Titanium_Ore">找到钛矿石.</string>
-<string name="Locate_Nickel_Ore">查找的镍矿的地点</string>
+<string name="Locate_Nickel_Ore">查找的镍矿的地点。</string>
 <string name="Construct_Lifts_T2_lifting">建造T2升降机货物升降机。</string>
 <string name="Build_OET">建立轨道能量传送器！</string>
-<string name="Overminds_to_destroy">摧毁主宰</string>
+<string name="Overminds_to_destroy">摧毁主宰！</string>
 <string name="Blast_Furnace">高炉</string>
 <string name="Charge_OET">电荷轨道能量传送器！</string>
 
@@ -3092,11 +3092,11 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Needs_resources_Attach_SH_automate">需要资源。附上一个储料斗以自动化。</string>
 <string name="Burning">燃烧</string>
 <string name="for">"  "</string>
-<string name="Time_left">还剩</string>
+<string name="Time_left">还剩。</string>
 
 <string name="Player_curr_online">当前在线玩家：</string>
 <string name="Player_joined">已加入.</string>
-<string name="Player_left">剩下</string>
+<string name="Player_left">剩下。</string>
 <string name="Player_disconnected_reason">连接断开.原因：</string>
 
 <string name="Debug_Cryospawn_Data">[DEBUG] CryoSpawn数据</string>
