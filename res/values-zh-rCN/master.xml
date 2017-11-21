@@ -2966,7 +2966,7 @@
 <string name="Automate_Smelter_Input">自动熔炼炉输入</string>
 <string name="Automate_Smelter_Output">自动冶炼厂输出</string>
 <string name="Your_Base_Smelter_needs_Automation_via_Hoppers">您的基础熔炼炉需要通过料斗进行自动化</string>
-<string name="Expedition">吗、考察</string>
+<string name="Expedition">考察</string>
 <string name="ticks">勾选</string>
 <string name="Build_a_Threat_Scanner">建立威胁扫描仪</string>
 <string name="Strong_defenses_detected">发现强大的防御力量; 建议增加对更多威胁扫描</string>
@@ -3017,4 +3017,172 @@
 <string name="ConstructoBot Coppator Arm">构造校对机器人的手臂</string>
 <string name="ConstructoBot Coppator Leg">构造校对机器人的大腿</string>
 <string name="ConstructoBot Ultron Chassis">构造超能机器人的底盘</string>
+<string name="ConstructoBot Cromize Chassis">建造机器人Cromize机壳</string>
+<string name="ConstructoBot Stenforcer Chassis">建造机器人Stenforcer机壳</string>
+<string name="ConstructoBot Titaniux Chassis">建造机器人Titaniux机壳</string>
+<string name="ConstructoBot Rosteeld Chassis">建造机器人Rosteeld机壳</string>
+<string name="ConstructoBot Goldenrod Chassis">建造机器人Goldenrod机壳</string>
+<string name="ConstructoBot Ironide Chassis">建造机器人Ironide机壳</string>
+<string name="ConstructoBot Tindron Chassis">建造机器人Tindron机壳</string>
+<string name="ConstructoBot Bronzite Chassis">建造机器人Bronzite 机壳</string>
+
+
+<string name="Cargo_Lift_Controller">货梯控制器</string>
+<string name="Power_State">能量等级</string>
+<string name="Rack_Rail_storage">机架轨道存储</string>
+<string name="Operating_State">工作状态</string>
+<string name="Rail_Depth">轨道深度</string>
+<string name="Rail_State">轨道状态</string>
+<string name="Press_T_to_spawn_lift">按（T）产生升力</string>
+<string name="Lift_Depth">升降机深度</string>
+<string name="Lift_State">升降机状态</string>
+<string name="Inventories">库存</string>
+<string name="Order">订单</string>
+<string name="Moving">移动中</string>
+<string name="Cargo">货物</string>
+
+<string name="Check_Rail">检查轨道</string>
+<string name="Shaft_depth">矿井深度</string>
+<string name="No_lift_deployed">无电梯部署</string>
+<string name="Depth">深度</string>
+<string name="Orders">订单</string>
+<string name="Switch">切换</string>
+<string name="Top">顶部</string>
+<string name="Toggle">开关</string>
+<string name="Bottom">底部</string>
+<string name="Lift_stuck_wait_rail_scan_complete">升降卡住了。请等待导轨扫描完成。</string>
+<string name="Lift_stuck_below_depth_Check_blockages">提升卡在矿井深度以下。检查堵塞。</string>
+<string name="Waiting_for_Rack_Rail">等待机架轨道中</string>
+<string name="Unknown_State">未知状态</string>
+<string name="Operating_Lift">工作电梯</string>
+<string name="Controller_no_Rack_Rail_place">控制器无机架轨道可布置</string>
+<string name="Check_Depth">检查深度</string>
+
+<string name="Unloading_finished_Lift_has_no_Cargo">卸货完成 - 升降机没货了！</string>
+<string name="Error_failed_to_locate_non_null_item_unload">错误，未能找到要卸载的非空项目！</string>
+<string name="Unloaded">已卸载</string>
+<string name="items">物品</string>
+<string name="capacity_free">有空余容量</string>
+<string name="Lift_is_empty">空了！</string>
+<string name="Loading_Complete!">装载完成！</string>
+<string name="Loaded">已装载</string>
+
+<string name="C5_Linking_existing">C5 链接到现有的</string>
+<string name="C5_ALT_Linking_existing">C5 转换链接到现有的</string>
+<string name="C5_Clearing">C5 清理中</string>
+<string name="C5_exposion_FAILED_retrying_12s">C5 暴露失败 - 在12秒内重试</string>
+<string name="Climate_Control_Centre">天气控制中心</string>
+<string name="Set_to_Cold_Mode">设为：寒冷模式</string>
+<string name="Warning_Cryoplasm_Detected_At">警告！检测到超低温等离子体在</string>
+<string name="No_threats_detected">未发现威胁...</string>
+<string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">警告！ CPH离线！ 低温等离子体防御离线！</string>
+<string name="Emergency_Cryoplasm_Defences_Active">紧急防冻剂防护启动！</string>
+<string name="Power_Low_Offline_Cryoplasm_Defences_Offline">能量低！离线！低温等离子体防御离线！</string>
+<string name="Warning_Offline_Cryoplasm_Defences_Offline">警告！离线！低温等离子体防御离线！</string>
+
+<string name="Mission_Tutorial_Intro">
+你在坠落中幸存下来，ARTHER牺牲了它自己，让你拥有一个小小的生存环境。 
+
+ARTHER现在将介绍你的基地的一些功能。 
+
+完成后，强制力场将消失。</string>
+
+<string name="CPH_Idling_all_attached_power_full">CPH 正无所事事
+电已满！</string>
+<string name="Needs_resources_Attach_SH_automate">需要资源。附上一个储料斗以自动化。</string>
+<string name="Burning">燃烧</string>
+<string name="for">"  "</string>
+<string name="Time_left">还剩</string>
+
+<string name="Player_curr_online">当前在线玩家：</string>
+<string name="Player_joined">已加入.</string>
+<string name="Player_left">剩下</string>
+<string name="Player_disconnected_reason">连接断开.原因：</string>
+
+<string name="Debug_Cryospawn_Data">[DEBUG] CryoSpawn数据</string>
+<string name="Active_for_another">为另一个激活</string>
+<string name="Built">已建造</string>
+<string name="Creep">蔓延</string>
+<string name="Holding">保持</string>
+<string name="segments">段</string>
+<string name="Sleeping_for">睡眠</string>
+<string name="ColdCreep_killed_Score_was">ColdCreep死亡！分数是</string>
+<string name="Player_Bonus_was">玩家奖金是</string>
+
+<string name="CB_inserted">建造机器人已卸载</string>
+<string name="SH_full_or_locked">储料斗满了或被锁定!</string>
+<string name="SH_empty">储料斗空！</string>
+<string name="CB_collected">建造机器人已收集</string>
+<string name="CB_failed_get_storage_machine_">建造机器人未能获得存储机器！</string>
+
+<string name="Warning_Basin_overheating_Place_much_colder">警告！ Basin 水池？过热！放在更冷的地方！</string>
+<string name="Casting">浇铸</string>
+
+<string name="currently_in_inventory">目前在物品栏</string>
+<string name="You_enough_resources_craft">你有足够的资源来造这个！</string>
+<string name="This_requires">这需要</string>
+<string name="Self_Craft">自建造</string>
+<string name="Missing_Mats">缺少材料</string>
+<string name="Start_Automation">启动自动化</string>
+<string name="Stop_Automation">停止自动化</string>
+
+<string name="Switching">交换</string>
+<string name="Cancelling">取消</string>
+<string name="Crafting_Queue">制定队列</string>
+<string name="Automation">自动化</string>
+
+<string name="Thanks_buying_Dapper_DLC">感谢您购买Dapper DLC包！</string>
+<string name="This_requires_Dapper_DLC">这需要Dapper DLC包！</string>
+<string name="This_requires_FF_DLC">这需要冰冻工厂扩展包！</string>
+<string name="Craft">制造</string>
+<string name="Craft_x25">造 x25</string>
+<string name="Select_Recipe">选择配方</string>
+<string name="Dapper_DLC_not_present">Dapper DLC不存在</string>
+<string name="Inventory_full">物品栏已满！</string>
+<string name="Crafted_a">"造个 "</string>
+<string name="Lacking_Materials_craft_a">"缺少材料制造 "</string>
+
+<string name="Crash_DiskThread">磁盘线程崩溃意味着世界数据将不再被保存或加载。</string>
+<string name="Crash_LowFrequencyThread">低频游戏线程崩溃意味着游戏玩法相关的机器和对象将不再被更新。</string>
+<string name="Crash_RaycastManager">raycast管理器崩溃意味着mobs和其他需要raycasts的东西将不再移动或运作。</string>
+<string name="Crash_MobUpdateThread">mob刷新线程崩溃意味着mob将不再移动或刷新。</string>
+<string name="Crash_MainMenuNetworkThread">主菜单网络线程崩溃意味着存储服务器的游戏状态将不再刷新。</string>
+<string name="Crash_NetworkClientThread">网络客户端线程崩溃意味着您从服务器断开连接。</string>
+<string name="Crash_NetworkServerThread">网络服务器线程崩溃意味着您不再开房。</string>
+<string name="Crash_FluidManager">流体管理器崩溃意味着流体将不再刷新。</string>
+<string name="Crash_SegmentMeshRenderer">段网格渲染器崩溃意味着地形的变化和到达的新区域将不再加载图形。</string>
+<string name="Crash_SegmentManagerThread">分段管理器线程崩溃意味着移动或传送时地形将不再加载。</string>
+<string name="Crash_TerrainGenThread">地形生成线程崩溃意味着新的地形将不再生成。</string>
+
+<string name="crashed">" 崩溃！"</string>
+<string name="Error_message">"错误信息： "</string>
+<string name="View_Log">查看日志</string>
+<string name="Ignore">无视</string>
+
+<string name="CryoPlasm_Lancer">低温等离子枪骑兵</string>
+<string name="CryoPlasm_Melter">低温等离子熔炉</string>
+<string name="C5_Offline_defences_offline">C5 离线 - 防御离线。</string>
+<string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">清除完成！没有CryoPlasm可射击。重新扫描即将...</string>
+<string name="Scanning_for_targets">"扫描目标 - "</string>
+<string name="Clearing_area">清理区域</string>
+<string name="Cleared">"已清除 "</string>
+<string name="blocks">块</string>
+<string name="supercharged_shots_remaining">剩余的增压镜头。</string>
+<string name="Airborne Particulate Extractor">AirBorne微粒提取器</string>
+<string name="Airborne Particulate Extractor_DESC">AirBorne微粒提取器_DESC</string>
+<string name="Airborne Particulate Compressor">AirBorne微粒提取器压缩机</string>
+<string name="Airborne Particulate Compressor_DESC">AirBorne微粒提取器压缩机_DESC</string>
+
+<string name="C5_Spawning">C5 Spawning（产卵中？）</string>
+<string name="PeakBuilds">PeakBuilds</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">使用Freezon喷油器增压这Lancer。</string>
+<string name="Melted">融化的</string>
+<string name="s_since_last_firing">S 自上次射击以来。</string>
+<string name="Scan_Size">扫描尺寸</string>
+<string name="m_max_size">m 最大尺寸</string>
+
+<string name="You_lasted">你持续了</string>
+<string name="You_selected">你选中了</string>
+<string name="difficulty_I_afraid_dont_get_respawn">困难。恐怕你不能重生！</string>
+    
 </resources>
