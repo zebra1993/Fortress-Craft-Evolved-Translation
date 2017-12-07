@@ -2930,4 +2930,26 @@
 <string name="Total_Machines">Всё Оборудование</string>
 <string name="CB_failed_get_storage_machine_">СтройБот не смог найти оборудование для хранения!</string>
 
+<string name="Transferred">Перемещено</string>
+<string name="free_slots">свободных ячеек</string>
+<string name="bars_from_Inventory">слитков из инвентаря!</string>
+
+<string name="items_from_Inventory">предметов из инвентаря</string>
+
+<string name="Threat_Level">Уровень угрозы</string>
+<string name="NO_SCANNER_BUILT">ОТСУТСТВУЕТ СКАНЕР</string>
+<string name="Ore">Руда</string>
+<string name="Ore_Extractors">Экстракторы Руды</string>
+<string name="not_collecting_ore">не добывает руду</string>
+<string name="used">использовано</string>
+<string name="Enriched">Обогащенный</string>
+<string name="Mynocks_detected">Обнаружены Миноки</string>
+<string name="Research_Progress">Ход исследований</string>
+<string name="Extensive_Mynock_Infestation">Обнаружено обширное заражение Миноками. Откройте Голобазу (H), чтобы сориентироваться и установить Турели в местах заражения</string>
+<string name="Automate_Extraction_Smelting_Tin_and_Copper">Автоматизируйте добычу и выплавку Олова и Меди</string>
+<string name="Automate_Smelter_Input">Автоматизируйте подачу сырья в Плавильню</string>
+<string name="Automate_Smelter_Output">Автоматизируйте выход слитков из Плавильни</string>
+<string name="Your_Base_Smelter_needs_Automation_via_Hoppers">Работу Базовой Плавильни необходимо автоматизировать, применив Бункеры</string>
+<string name="Build_a_Threat_Scanner">Создайте Сканер Угроз</string>
+<string name="Construct_Lab">Постройте Лабораторию</string>
 </resources>
