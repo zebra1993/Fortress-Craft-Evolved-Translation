@@ -2571,9 +2571,9 @@
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Принимает Базовые Ракеты и 50 000 единиц энергии, чтобы наполнить их еще большей энергией.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Cluster Missile Crafter_CRAFT_DESC">Принимает одну Ракету и превращает ее в 8 ракет быстрого огня, каждый из которых наносит 1/4 первоначального урона, в общей сложности удваивая урон.</string>
+    <string name="Cluster Missile Crafter_CRAFT_DESC">Принимает одну Ракету и превращает ее в 8 быстрых ракет, каждая из которых наносит 1/4 первоначального урона, в общей сложности удваивая урон.</string>
     <string name="Cluster Missile Crafter_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Mephitic Missile Assembler_CRAFT_DESC">Принимает Ракеты и добавляет 50% урона после попадания.</string>
+    <string name="Mephitic Missile Assembler_CRAFT_DESC">Улучшает Ракеты и добавляет 50% урона при попадании.</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
     <string name="CryoChilled Missile Assembler_CRAFT_DESC">Принимает Ракеты и добавляет сильный замедляющий эффект.</string>
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
