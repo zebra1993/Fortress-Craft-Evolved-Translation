@@ -904,7 +904,7 @@ Energie-Ausgangsrate:
 7500/Seite/Sek.
 1250/Maschine/Sek.
  "</string>
-<string name="MA.Infused_Coal.01.Paragraph">Durchtränkte Kohle wird vom Kristallkohleeinflöser hergestellt. Es ist eine Verbesserung zur angereicherten Kohle.</string>
+<string name="MA.Infused_Coal.01.Paragraph">Durchtränkte Kohle wird vom Kristallkohleneinflöser hergestellt. Es ist eine Verbesserung zur angereicherten Kohle.</string>
 <string name="MA.Iron_Bar.01.Paragraph">Eisenbarren werden generell in Maschinen verwendet, die einen robusten Aufbau benötigen. Sie werden aus Eisenerz hergestellt, welches sich in einer Tiefe von mindestens 65 Metern unter der Oberfläche befindet.</string>
 <string name="MA.Iron_Coil.01.Paragraph">Eine einfache Eisenspule, die durch Eisenkabel in einer Wickelmaschine hergestellt werden kann.</string>
 <string name="MA.Iron_Gear.01.Paragraph">Ein abgeschrägtes Zahnrad, benutzt in Motoren und Wellen.</string>
@@ -1032,7 +1032,7 @@ benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
 <string name="MA.Lithium_Coil.01.Paragraph">Wurde in der Wickelmaschine aus Lithiumdraht hergestellt.</string>
 <string name="MA.Lithium_Housing.01.Paragraph">Ein Lithiumgehäuse, hergestellt aus einzelnen Lithiumplatten.</string>
 <string name="MA.Lithium_Ore.01.Paragraph">Lithiumerz kann ab einer Tiefe von 120m und mehr gefunden werden. Mithilfe von Schmelzöfen lässt sich das Erz schmelzen und in Lithiumbarren gießen. Diese stellen einen wichtigen Ausgangsstoff für Maschinen dar die Energie speichern oder transportieren.</string>
-<string name="MA.Lithium_Ore.02.Paragraph">Lithiumerz kann durch einen Erzextraktor abgebaut werden.</string>
+<string name="MA.Lithium_Ore.02.Paragraph">Lithiumerz kann durch einen Erzbohrer abgebaut werden.</string>
 <string name="MA.Lithium_Pipe.01.Paragraph">Ein einfaches Lithiumrohr, hergestellt aus Lithiumbarren mit Hilfe eines Rohrwalzwerkes.</string>
 <string name="MA.Lithium_Plate.01.Paragraph">Eine einfache Lithiumplatte, die aus Lithiumbarren in einer Walzanlage gefertigt wurde.</string>
 <string name="MA.Lithium_Wire.01.Paragraph">Ein einfacher Lithiumdraht hergestellt mit Hilfe einer Drahtziehmaschine.</string>
