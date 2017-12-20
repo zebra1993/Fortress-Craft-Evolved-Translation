@@ -1100,4 +1100,51 @@ Sonnenlicht</string>
 <string name="MA.Plastic_Pellet.00.Title">Plastikkugeln</string>
 <string name="MA.Plastic_Pellet.01.Paragraph">Kunststoffe können in einer Raffinerie-Reaktor-Vat aus Biomasse hergestellt werden. Sie werden bei der Konstruktion von Strahlturbinen eingesetzt.</string>
 <string name="MA.Mass_Storage_Stocking_Port.00.Title">Massenspeicher-Lagerplatz</string>
+<string name="MA.Tree_Trunk.00.Title">Baumstamm</string>
+<string name="MA.Turret_MK1.00.Title">Geschützturm MK1</string>
+<string name="MA.Turret_MK1.03.Left">Reichweite:
+Schaden (pro Schuss):
+Energiebedarf (pro Schuss):
+Max. Energiespeicher:
+Nachladezeit:</string>
+<string name="MA.Turret_MK1.04.Right">16m
+50
+40
+100
+1 Sekunde</string>
+<string name="MA.Turret_MK2.00.Title">Geschützturm MK2</string>
+<string name="MA.Turret_MK2.03.Left">Reichweite:
+Schaden (pro Schuss):
+Energiebedarf (pro Schuss):
+Max. Energiespeicher:
+Nachladezeit:</string>
+<string name="MA.Turret_MK2.04.Right">20m
+96
+32
+192
+0.4 Sekunden</string>
+<string name="MA.Turret_MK3.00.Title">Geschützturm MK3</string>
+<string name="MA.Turret_MK3.03.Left">Reichweite:
+Schaden (pro Schuss):
+Energiebedarf (pro Schuss):
+Max. Energiespeicher:
+Nachladezeit:</string>
+<string name="MA.Turret_MK3.04.Right">72m
+3600
+400
+900
+4 Sekunden</string>
+<string name="MA.Window.00.Title">Fenster</string>
+<string name="MA.WorkFloorExcavatorMK1.03.Left">Reichweite:
+Energie pro Block:
+Zerstört Erze:</string>
+<string name="MA.WorkFloorExcavatorMK1.04.Right">32m
+64
+Nein</string>
+<string name="MA.WorkFloorExcavatorMK2.03.Left">Reichweite:
+Energie pro Block:
+Zerstört Erze:</string>
+<string name="MA.WorkFloorExcavatorMK2.04.Right">32m
+128
+Ja</string>
 </resources>
