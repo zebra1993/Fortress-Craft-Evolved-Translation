@@ -1076,7 +1076,7 @@ Sonnenlicht</string>
 <string name="MA.Mass_Storage_Output_Port.01.Paragraph">Platziere diesen Block neben einem Hochregallager um Gegenstände daraus aus eine Förderband zu entladen. Es muss festgelgt werden welcher spezifische Gegenstand entnommen werden soll. Ist er verfügbar im Lager wird der Roboter sie holen und auf dem eingebauten Förderband ablegen.</string>
 <string name="MA.Mass_Storage_Output_Port.03.Paragraph">Achte auf die Ausrichtung des Blocks, wie normale Förderbänder wird der Gegenstand in eine bestimmte Richtung abgegeben.</string>
 <string name="MA.Mass_Storage_Output_Port.04.Paragraph">Um ein Gegenstand zu bestimmen, wähle ihn in der Schnellzugriffsleiste aus, schau auf den Hochregallagerausgang und drücke [E].</string>
-<string name="MA.Mass_Storage_Output_Port.06.Paragraph">Hat nicht mit der Lagerkiste gemeinsam!</string>
+<string name="MA.Mass_Storage_Output_Port.06.Paragraph">Hat nichts mit der Lagerkiste gemeinsam!</string>
 <string name="MA.MinecartDepot.00.Title">Minenzug Bahnhof</string>
 <string name="MA.MinecartTurboRail.04.Right">1m/s
  25
@@ -1099,4 +1099,5 @@ Sonnenlicht</string>
 <string name="MA.Pipe_Extrusion_Plant.01.Paragraph">Die Rohr-Extrusionsanlage ist ein regelmäßiger Förderer mit einer Maschine zum Umwandeln von Metallstäben in Rohre.</string>
 <string name="MA.Plastic_Pellet.00.Title">Plastikkugeln</string>
 <string name="MA.Plastic_Pellet.01.Paragraph">Kunststoffe können in einer Raffinerie-Reaktor-Vat aus Biomasse hergestellt werden. Sie werden bei der Konstruktion von Strahlturbinen eingesetzt.</string>
+<string name="MA.Mass_Storage_Stocking_Port.00.Title">Massenspeicher-Lagerplatz</string>
 </resources>
