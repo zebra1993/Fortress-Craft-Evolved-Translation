@@ -771,7 +771,7 @@ Erzförderungseffizienz:</string>
 <string name="MA.Intermediate_Experimental_Pod.00.Title">Mittlere Forschungskapsel</string>
 <string name="MA.Simplified_Experimental_Pod.00.Title">Vereinfachte Forschungskapsel</string>
 <string name="MA.Ultimate_Experimental_Pod.00.Title">Ultimative Forschungskapsel</string>
-<string name="MA.XL_Experimental_Pod.00.Title">XL Forschungskapsel</string>
+<string name="MA.XL_Experimental_Pod.00.Title">XL-Forschungskapsel</string>
 <string name="MA.Intermediate_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</string>
 <string name="MA.Simplified_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</string>
 <string name="MA.Ultimate_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln klicke auf folgenden Link.</string>
@@ -779,7 +779,7 @@ Erzförderungseffizienz:</string>
 <string name="MA.Intermediate_Experimental_Pod.01.Paragraph">Die mittlere Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Eisen hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Simplified_Experimental_Pod.01.Paragraph">Die vereinfachte Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Zinn hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Ultimate_Experimental_Pod.01.Paragraph">Die ultimative Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Titan hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
-<string name="MA.XL_Experimental_Pod.01.Paragraph">Die XL Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Nickel hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
+<string name="MA.XL_Experimental_Pod.01.Paragraph">Die XL-Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Nickel hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
 <string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">Die Massenlager Laderampe ermöglicht die kontrollierte zufuhr von Gegenständen in das Massenlager um eine Überflutung des Lagers zu vermeiden</string>
 <string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">"Die Massenlager Laderampe muss an ein Massenlager angrenzend aufgebaut werde. E öffnet die Oberfläche wo gelagerte Gegenstände und das Inventarlimit gesetzt werden kann. Die Laderampe wird nur Gegenstände einlagern wenn der gesetzte Mindestwert unterschritten wird. Andere Gegenstände werden weiterhin eingelagert also ob es eine normale Laderampe wäre.
 Halte Steuerung, Feststell oder Alt um die Limiten in 10er, 100er oder 1000er Schritten zu verändern.
