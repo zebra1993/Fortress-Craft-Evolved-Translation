@@ -2,8 +2,8 @@
 <resources><string name="Partial_Language_Support">Vítej! Tvoje řeč je jen částečně podporována. Pokud se chceš vrátit k Angličtině, prostě stiskni \"English\" níže!</string>
     <string name="Translation_Incomplete">Nekompletní překlad!</string>
     <string name="Language_Name">Angličtina</string><string name="Frozen_Factory">Zmrzlá Továrna</string>
-    <string name="Dapper_Pack">Elegantní Pack</string>
-    <string name="Skin_Pack">Vzhledový Pack</string>
+    <string name="Dapper_Pack">Elegantní Balíček</string>
+    <string name="Skin_Pack">Vzhledový Balíček</string>
     <string name="Installed">Instalován</string>
     <string name="Not_Installed">Není instalován</string>
     <string name="Multiplayer_Sign">&lt;Hra více hráčů</string>
@@ -40,7 +40,7 @@
     <string name="Version">Verze</string>
     <string name="Lock">Zámek</string>
     <string name="Status">Status</string>
-    <string name="Workshop">Workshop</string>
+    <string name="Workshop">Dílna</string>
 
     <string name="Workshop_Mod">Workshop mód</string>
     <string name="Update_Pending">Aktualizace čeká</string>
@@ -91,4 +91,5 @@ Pamatujte že tyto nastavení jsou ZAMKNUTÉ po dobu vašeho hraní a všimněte
     <string name="Conveyor_Slow_Info">Pomalé dopravníky jsou dobře vyvážené a zdůrazňují potřebu dokonalejšího přepravního systému. Tímto nastavením bude váš postup mnohem pomalejší.</string>
     <string name="Conveyor_Fast_Info">Rychlé Dopravníky znamenají méně čekání okolo. Jsou dvakrát tak rychlejší než pomalé dopravníky.</string>
 
+    <string name="SquishCore">SquishCore</string>
     </resources>
