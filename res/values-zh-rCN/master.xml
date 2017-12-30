@@ -3185,4 +3185,223 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="You_selected">你选中了</string>
 <string name="difficulty_I_afraid_dont_get_respawn">困难。恐怕你不能重生！</string>
     
+<string name="Energy_Transmitter">能量传输器</string>
+<string name="Avg_transfer_per_sec">平均每秒传输速率：</string>
+<string name="Click_icon_upgrade">点我升级</string>
+<string name="Max_transfer_per_sec">最大传输速率每秒：</string>
+<string name="Toggle_Mode">切换模式</string>
+<string name="No_Lens">无镜片</string>
+
+<string name="Writing_unsaved_changes">编写未保存的世界变化</string>
+<string name="segments_remaining">剩余的部分</string>
+<string name="Not_safe_Exit">现在离开还不安全。
+有未保存的世界更改。立即退出将意味着数据丢失。</string>
+<string name="Compressing_save_archives">压缩保存档案</string>
+<string name="archives_remaining">余下的档案</string>
+<string name="Safe_to_Exit">可以安全地离开。
+一些档案还没有被压缩，但是这可以被忽略而不会丢失。</string>
+<string name="Done_Exit">完成，正在退出。祝你愉快！</string>
+<string name="Exiting">正在退出！</string>
+<string name="Disconnect_server">断开连接。祝你愉快！</string>
+
+<string name="OE_Mining">挖矿</string>
+<string name="OE_Out_of_Power">没电了</string>
+<string name="OE_Out_of_Storage">储存空间已满</string>
+
+<string name="FALCOR_Bomber">FALCOR轰炸机</string>
+<string name="Angle">角度</string>
+<string name="FlyState">飞行状态</string>
+<string name="CPH_Offline_defences_offline">CPH离线 - 防御系统离线。</string>
+
+<string name="Cheetah">猎豹</string>
+<string name="Gazelle">羚羊</string>
+<string name="Horse">马</string>
+<string name="Coyote">狼</string>
+<string name="Whippet">惠比特犬</string>
+<string name="Hamster">仓鼠</string>
+<string name="Tortoise">乌龟</string>
+<string name="Sloth">树獭</string>
+<string name="Snail">蜗牛</string>
+<string name="Firing_Mech_of_the">"射击的机甲 "</string>
+<string name="The"/>
+
+<string name="Unable_locate_Hopper">无法找到Hopper</string>
+<string name="Unable_locate_Freezon_Gas_hopper">无法找到料斗中的Freezon气体</string>
+<string name="Storing_Freezon_ready_inject">存储Freezon，准备注入！</string>
+<string name="No_Freezon_compatible_machine_located">没有Freezon兼容机位于</string>
+
+<string name="Attempting_drop">试图扔下</string>
+<string name="into_hopper">放进料斗！</string>
+<string name="Crafted">已造</string>
+<string name="Failed_insert">未能注入</string>
+<string name="into_storage_hopper">进料斗？</string>
+
+<string name="No_Valid_attached_Hoppers">没有可用料斗！</string>
+<string name="Looking_in_attached_hopper">在附加料斗里寻找：</string>
+<string name="Total_of">总计</string>
+<string name="items_needed">共需</string>
+<string name="No_input_conveyor_found">没找到传送带！</string>
+<string name="Lacking_ingredient_input_conveyor">在输入输送机上缺少配料！</string>
+<string name="of">的</string>
+<string name="Cannot_locate">无法定位</string>
+
+<string name="Landing">降落</string>
+<string name="Intersect">相交</string>
+
+<string name="Configuring_Pipe_alignment">配置管道对齐</string>
+<string name="s_Freezon_boost_left">还剩下_个Freezon boost！</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">放置储存料斗与Freezon罐，获得20倍PPS提升！</string>
+<string name="Placing_verifying_pipes">放置并确认管道。</string>
+<string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">管粘在了坚硬的障碍上。请移除。</string>
+<string name="Cant_locate_pipes_in_adjacent_SH">无法在相邻的储料斗中找到管道！</string>
+<string name="Optimal_temperature_diff_reached">达到最佳温差！</string>
+<string name="Freezon_Gas_required_full_performance">需要冷冻气体以达成完全性能！</string>
+<string name="Temperature_diff">温差</string>
+<string name="Rush_mode_active_boost_on">rush模式开启——提速！</string>
+
+<string name="Guides">指南</string>
+<string name="No_contextual_help_available_at_the_current_time">目前没有可用的上下文帮助。</string>
+<string name="Materials">材料</string>
+<string name="Ores">矿石</string>
+<string name="Crafting_Ingredients">制作原料</string>
+<string name="Machines">机器</string>
+<string name="Suit_Upgrades">套装升级</string>
+<string name="ARTHER_Upgrades">ARTHER升级</string>
+<string name="Machine_Upgrades">机器升级</string>
+<string name="Available_Projects">可用项目</string>
+<string name="Completed_Research">已完成研究</string>
+<string name="No_projects_completed_Visit_research_station">没有项目完成。访问研究站。</string>
+<string name="helpfile_for_this_not_been_implemented_sorry">这个帮助文件还没有实现，对不起！</string>
+<string name="player_does_not_know_material">玩家还不了解这个材料</string>
+<string name="Laboratory_recipe">实验原料</string>
+<string name="Requirements">需求</string>
+<string name="Unlocked_Recipes">解锁配方</string>
+<string name="Costs_an_additional">花费额外的</string>
+<string name="RP_to_research">RP 来研究。</string>
+<string name="Handbook_No_specific_help_available">由于未实现的帮助文件，没有可用的具体帮助。请检查下一页提示和制作！</string>
+<string name="This_material_is_hidden">隐藏材料</string>
+<string name="Player_does_not_know_material">玩家不了解这种材料</string>
+<string name="Material_paintable_with_paint_gun">该材料可以使用喷枪上色</string>
+<string name="Material_does_not_block_movement">这种材料不会阻止移动</string>
+<string name="Material_can_be_burned_power_in_CPH_or_Pyrothermic_Generator">这种材料可以在中央动力集线器或Pyrothermic发生器中燃烧进行供电</string>
+<string name="recipe">配方</string>
+<string name="Costs">成本</string>
+<string name="This_recipe_creates">这个配方创建</string>
+<string name="Hint">暗示</string>
+<string name="Title">标题</string>
+
+<string name="Survival_Handbook">生存手册</string>
+<string name="Creative_Handbook">创造手册</string>
+<string name="Reference">参考资料</string>
+<string name="Research">研究</string>
+<string name="Materials_Reference">材料参考</string>
+<string name="Eligible_Research">可选研究</string>
+<string name="Complete_Research">完成研究</string>
+
+<string name="Handy_Hint_0">FortressCraft世界在每个方向上延伸1000多光年</string>
+<string name="Handy_Hint_1">按下J切换播放器状态屏幕</string>
+<string name="Handy_Hint_2">超级建造允许你对世界进行大规模的改动 - 试试吧！</string>
+<string name="Handy_Hint_3">原理图可以让您轻松复制您的作品</string>
+<string name="Handy_Hint_4">WSAD移动和空间跳跃。 LMB打造，RMB挖，MMB挑选</string>
+<string name="Handy_Hint_5">Xbox版FortressCraft销量超过100万</string>
+<string name="Handy_Hint_6">\@Fortress_Craft获取最新消息！</string>
+<string name="Handy_Hint_7">一个完整的世界将需要2x10^79个字节来保存</string>
+
+<string name="Press_T_to_begin_exploring">按T来开始探索</string>
+<string name="SuperBuild_lets_you_create_massive_structures_quickly">超级建造让你快速创建大量简单的结构。 F10退出</string>
+<string name="Schematics_lets_you_easily_duplicate_your_creations">原理图可让您轻松复制您的作品。 F11退出</string>
+
+<string name="Hivemind_killed_Score_was">蜂巢核心已击杀！分数为</string>
+<string name="Its_looking_at_you">它在看着你。</string>
+
+<string name="Holobase_active">Holobase V1.337 已开启!</string>
+<string name="Holobase_Map_Mode">按U键激活地图模式</string>
+<string name="Holobase_Base_Mode">按U键激活基地模式</string>
+<string name="Holobase_Tactical_Mode_enable">按左Ctrl键启用战术模式</string>
+<string name="Holobase_Tactical_Mode_disable">按左Ctrl键关闭战术模式</string>
+<string name="Holobase_Exit">按K退出Holobase</string>
+<string name="Currently">当前</string>
+<string name="network_slots">网络槽位</string>
+<string name="Total_Power">总能量</string>
+<string name="Power_Sec">能量/秒</string>
+<string name="Total_Time">总时间</string>
+<string name="ore_min">矿石/分钟</string>
+<string name="bars_min">金属条/分钟</string>
+
+<string name="Total">总共</string>
+<string name="Average">平均</string>
+
+<string name="InvStat_Strength">力量增加近战伤害</string>
+<string name="InvStat_Constitution">体格提升血量</string>
+<string name="InvStat_Agility">敏捷提升护甲</string>
+<string name="InvStat_Intelligence">智力提升法力值</string>
+<string name="InvStat_Damage">Damage 增加战斗中造成的伤害</string>
+<string name="InvStat_Crit">暴击增加了致命一击的机会</string>
+<string name="InvStat_Armor">护甲保护免受伤害</string>
+<string name="InvStat_Health">血量延长生命</string>
+<string name="InvStat_Mana">法力值提升可以施放的法术的数量</string>
+
+<string name="Item_Injector">物品注入器</string>
+<string name="Unable_locate_items_in_hopper">无法找到料斗中的物品</string>
+<string name="Last_Item">上个物品</string>
+<string name="ready_to_inject">可以注入！</string>
+<string name="Offloading_at_Distance">远程卸载</string>
+<string name="You_need_to_be_within_5m_Curr_Dist">你需要在5米以内！当前距离</string>
+
+<string name="Switch_Mode">转换模式</string>
+
+<string name="RP">RP(research point)</string><string name="Collect">收集</string>
+<string name="Current">当前</string>
+<string name="Collect_Research">收集研究</string>
+<string name="All_projects_researched">全部项目已研究！</string>
+<string name="Start_Project">开始项目</string>
+<string name="Possible_Projects">可用项目</string>
+<string name="Consult_research_station_for_details">详情请咨询研究站</string>
+<string name="Analyse">分析</string>
+<string name="Experiment">实验</string>
+<string name="Player_just_started_the">我刚开始</string>
+<string name="Project">项目</string>
+<string name="Collected_research_for_additional">收集研究点来获取额外</string>
+<string name="Player_just_collected_the">我刚收集</string>
+
+<string name="Wait_for_full_Battery">等待电池充满</string>
+<string name="Fire_constantly">时刻开火</string>
+
+<string name="Light_configured_optimally">光线配置最佳</string>
+<string name="Warning_large_light_sizes_adverse_performance">警告，大光量可能会有不利的表现</string>
+
+<string name="Game_Loading">载入ing</string>
+
+<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">收到瓦砾！使用左CTRL来超级挖掘。</string>
+<string name="Collected">已收集</string>
+<string name="Died_repeated_impacts">死于重复撞击！</string>
+<string name="Unable_exit_AFK_mode_editing_text">无法退出AFK模式-我们正在编辑文本！</string>
+<string name="Releasing_AFK_mode_back_normal_game">从AFK模式回到正常游戏！</string>
+  
+<string name="Security_Warning">安全警告</string>
+<string name="Mod_X_third_Party_Code">mod含有第三方代码，可能存在安全风险。ProjectorGames和Digital Tribe都不承担因运行第三方代码造成的任何损失责任。
+
+你不会再被询问关于这个MOD。</string>
+<string name="Cancel">取消</string>
+<string name="Okay">好的</string>
+<string name="Loading">载入中</string>
+<string name="Entering">进入</string>
+  
+<string name="Connection_timed_out">连接超时</string>
+  <string name="Recieved_bad_data_server_Version_mismatch">收到坏数据。版本不匹配？</string>
+  
+<string name="Not_currently_control_of_mass_storage_array">目前没有控制海量存储阵列</string>
+<string name="Scan_me_more_information">扫描我获取更多信息</string>
+<string name="Storage_used">已使用的储量</string>
+  
+<string name="MS_Crate">海量存储箱</string>
+<string name="center_block">中心方块</string>
+<string name="Stored">已存储</string>
+<string name="Removed">移除</string>
+<string name="Connected_DELETED_BLOCK">连接到被删除方块</string>
+<string name="Error_Centre_is_null">错误，中间为空Centre is null!</string>
+<string name="Solo_Storage_Connect_more_crates">单独存储;连接更多的箱子！</string>
+<string name="Total_Storage">总储量</string>
+<string name="E_Stack_Height">（E）堆叠高度</string>
+<string name="Crate_no_centre">箱子没有中心！</string>
 </resources>
