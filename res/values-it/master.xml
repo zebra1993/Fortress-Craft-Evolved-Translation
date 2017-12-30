@@ -1,2 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Partial_Language_Support">Saluti! la tua lingua è supportata solo parzialmente. Se vuoi tornare all\'inglese, premi il tasto \"English\" qui sotto!</string>
+    <string name="Translation_Incomplete">Traduzione incompleta!</string>
+    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Fabbrica Ghiacciata</string>
+    <string name="Dapper_Pack">Dapper Pack</string>
+    <string name="Skin_Pack">Skin pack</string>
+    <string name="Installed">Installato</string>
+    <string name="Not_Installed">Non Installato</string>
+    <string name="Multiplayer_Sign">&lt;MultiGiocatore</string>
+    <string name="Quit_Sign">Abbandona</string>
+    <string name="World_Sign">Selezione Mondo</string>
+    <string name="Create_World">Crea Mondo</string>
+    <string name="Spacebar">Barra Spaziatrice</string>
+    <string name="Resource_Level">Livello delle Risorse</string>
+    <string name="Power_Level">Livello dell\'elettricità</string>
+    <string name="Conveyor_Speed">Velocità dei nastri trasportatori</string>
+    <string name="Day_Night_Cycle">Ciclo Giorno/Notte</string>
+    <string name="Mob_Difficulty">Difficoltà Assalti</string>
+    <string name="Death_Mode">Modalità Morte</string>
+    <string name="Rush_Mode">Modalità Rapida</string>
+    <string name="Flatland">Terra Piatta</string>
+    <string name="Care_Package">Pacchetto Assistenza</string>
+    <string name="Survival_Options">Opzioni Sopravvivenza</string>
+    <string name="Seed">Seme</string>
+    <string name="Mode">Modalità</string>
+    <string name="Select_Mods">Scegli Modifiche</string>
+    <string name="Back">Indietro</string>
+    <string name="Mutators">Mutatori del gioco</string>
+
+    <string name="Enter_World">Entra Nel Mondo</string>
+    <string name="Reset_World">Resetta Il Mondo</string>
+
+
+    <string name="Creative_New">La modalità creativa ti fornisce la possibilità illimitata di costruire qualsiasi cosa, blocchi con dettagli in alta risoluzione, strumenti estesi per la modifica del mondo, progetti, schemi e funzionalità copia/incolla. Non include la maggior parte degli elementi di sopravvivenza, e non dovrebbe essere considerata come un \"cheat mode\" per la modalità sopravvivenza!</string>
+    <string name="Creative_Info">Questo è un mondo che esiste in modalità creativa, ma, purtroppo, non ho davvero delle caratteristiche trendy da mostrarti qui. Non vorresti invece la foto di un gatto?</string>
+
+    <string name="Mod_Management">Gestione delle Mod</string>
+    <string name="Mod_Name">Nome Mod</string>
+    <string name="Active">Attivo</string>
+    <string name="Version">Versione</string>
+    <string name="Lock">Blocca</string>
+    <string name="Status">Stato</string>
+    <string name="Workshop">Officina</string>
+
+    <string name="Workshop_Mod">Mod Officina</string>
+    <string name="Update_Pending">In attesa di Aggiornamento</string>
+    <string name="Downloading">In Scaricamento</string>
+
+    <string name="On">On</string>
+    <string name="Off">Off</string>
+    <string name="Locked">Bloccato</string>
+
+    <string name="Plentiful">Abbondanti</string>
+    <string name="Scarce">Scarse</string>
+    <string name="Greg">Modo Greg</string>
+    <string name="Rapid">Rapido</string>
+
+    <string name="Fast">Veloce</string>
+    <string name="Slow">Lento</string>
+
+    <string name="Eternal Day">Giorno Eterno</string>
+    <string name="Normal">Normale</string>
+    <string name="Eternal Night">Notte Eterna</string>
+
+    <string name="Trivial Mobs">Assalto Banale</string>
+    <string name="Normal Mobs">Assalto Normale</string>
+    <string name="Hard Mobs">Assalto Difficile</string>
+
+    <string name="None">Nessuno</string>
+    <string name="Clumsy">Maldestro</string>
+    <string name="Iron Man">Uomo di Ferro</string>
+    <string name="SquishCore">Molto difficile</string>
+    <string name="Hardcore">Impossibile</string>
+
+    <string name="Survival">Sopravvivenza</string>
+    <string name="Creative">Creativo</string>
+
+    <string name="Default_Settings_Info">I Settaggi di base sono impostati per essere super veloci e super facili, adatti per nuovi giocatori! se vuoi andare ANCORA PIU\' VELOCE, scegli Giorno Eterno per il ciclo Giorno/Notte. Se vuoi una sfida maggiore, modifica i settaggi a tuo piacimento!
+Ricorda che questi settaggi non possono essere modificati una volta creato il mondo e considera i tempi medi indicati per concludere il gioco!</string>
+    <string name="Previous_Visit">Sei già stato in questo mondo in modalità sopravvivenza precedentemente!</string>
+    <string name="Play_time">Tempo di Gioco</string>
+    <string name="Mod_Selected">Mod selezionata.</string>
+    <string name="Mods_Selected">Mod selezionata.</string>
+    <string name="Existing_Seed">Seme Esistente</string>
+
+    <string name="Resources_Plentiful_Info">Risorse Abbondanti ti darà molte risorse e accelererà molto la tua progressione nelle fasi iniziali e finali del gioco. Questo è un buon punto di partenza per nuovi giocatori con una certa pazienza.</string>
+    <string name="Resources_Scarce_Info">Risorse Scarse ti farà sperimentare un gioco più lendo e meditato, con molto tempo per esplorare ed ottimizzare la tua base. Non raccomandato ai nuovi giocatori!</string>
+    <string name="Resources_Greg_Info">Il livello Greg di risorse ridurrà enormemente i tuoi progressi. Questa modalità è adatta per server 24/7 con giocatori multiplayer o per persone MOLTO pazienti!</string>
+    <string name="Resources_Rapid_Info">Risorse Rapide è progettato per le persone con poco tempo, con figli, lavoro, o che vogliono finire il gioco in un week end! Questa modalità è anche eccellente se stai cercando di imparare a giocare velocemente prima di rientrare nel gioco con una difficoltà maggiore.</string>
+
+
+    <string name="Conveyor_Slow_Info">I nastri trasportatori lenti sono ben bilanciati, ed enfatizzano i sistemi di trasporto di tipo più evoluto. Questo settaggio renderà la progressione del gioco molto più lenta.</string>
+    <string name="Conveyor_Fast_Info">I nastri trasportatori veloci significano minori tempi di attesa. Sono circa due volte più veloci di quelli lenti.</string>
+
+    <string name="Plentiful_Power_Info">Energia Abbondante permette di estrarre una quantità molto maggiore di energia da tutti i generatori. Questo aumenterà notevolmente la velocità di progressione nelle prime fasi di gioco.</string>
+    <string name="Scarce_Power_Info">Elettricità Scarsa fornisce una generazione di elettricità equilibrata. Questo rallenterà la progressione nelle fasi iniziali del gioco.</string>
+
+    <string name="Eternal_Day_Info">Giorno eterno significa che i sistemi di raccolta ad energia solare lavoreranno costantemente e non si avranno penalità dovute alla caduta di temperatura durante la notte. Scegliere questa opzione permetterà una progressione del gioco molto più veloce - raccolta di energia da fonti solari più veloce del 400%!</string>
+    <string name="Day_Night_Info">Il ciclo normale giorno/notte è di 24 minuti. Per i 12 minuti di oscurità si avranno cali estremi della temperatura, aggressività aumentata dei nemici e ridotta visibilità.</string>
+    <string name="Eternal_Night_Info">"Notte Eterna significa nessuna  tregua dal gelo congelante neanche durante il giorno e nessun accesso alla tecnologia solare non-organica, incluso il tuo Hub Centrale. Questo settaggio costituisce una sfida significativa."</string>
+
+    <string name="Death_Default_Info">Questa è la modalità standard. Non c\'è alcuna penalità per la morte, ad eccezione della bassa salute e una lunga camminata. Questo rende il gioco estremamente facile, dato che non c\'è penalità per nessuno degli eccitanti modi in cui puoi morire.</string>
+    <string name="Death_Clumsy_Info">Modalità Maldestra è consigliata se cerchi una sfida ragionevole ed una buona ragione per non morire! Alla morte tutto il materiale in inventario verrà lasciato cadere a terra!</string>
+    <string name="Death_Ironman_Info">NON PER PRINCIPIANTI!
+
+Uomo di ferro è solo per i coraggiosi, gli stupidi e gli spavaldi; alla morte PERDI DEL TUTTO il tuo intero inventario!</string>
+    </resources>
