@@ -2960,4 +2960,6 @@
 <string name="Extractors">Экстракторы</string>
 <string name="DUR">Прочность</string>
 
+<string name="removed_from_single_access_list">удалено из списка доступа</string>
+<string name="added_to_single_access_list">добавлен в список доступа</string>
 </resources>
