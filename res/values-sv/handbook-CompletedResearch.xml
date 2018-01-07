@@ -1,4 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="CO.Advanced_Defence.Title">Avancerat Försvar</string>
 <string name="CO.Advanced_Defence.00.Title">Avancerat Försvar</string>
+<string name="CO.Advanced_Logistics.Title">Avancerad Logistik</string>
+<string name="CO.Advanced_Logistics.00.Title">Avancerad Logistik</string>
+<string name="CO.Advanced_Power_Grid.Title">Avancerat Kraftnät</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Avancerat Kraftnät</string>
+<string name="CO.Aesthetics.Title">Estetik</string>
+<string name="CO.Aesthetics.00.Title">Estetik</string>
+<string name="CO.Base_Defence.Title">Basförsvar</string>
+<string name="CO.Base_Defence.00.Title">Basförsvar</string>
+<string name="CO.Frozen_Factory.Title">Den Frusna Fabriken!</string>
+<string name="CO.Local_Life_Forms.Title">Lokala Livsformer</string>
+<string name="CO.Local_Life_Forms.00.Title">Lokala Livsformer</string>
+<string name="CO.Power_Grid.Title">Kraftnät</string>
+<string name="CO.Power_Grid.00.Title">Kraftnät</string>
+<string name="CO.Ultimate_Power_Grid.Title">Ultimat Kraftnät</string>
+<string name="CO.Ultimate_Power_Grid.00.Title">Ultimat Kraftnät</string>
+<string name="CO.Upgraded_Power_Grid.Title">Uppgraderat Kraftnät</string>
+<string name="CO.Upgraded_Power_Grid.00.Title">Uppgraderat Kraftnät</string>
 </resources>
