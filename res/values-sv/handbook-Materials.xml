@@ -25,4 +25,18 @@ Stationens Laddningshastighet:</string>
 <string name="MA.ARTHER_Power_Core.00.Title">ARTHER KraftKärna</string>
 <string name="MA.ARTHER_Power_Core.01.Paragraph">Fixar skadan på ARTHER så att han kan röra sig mer korrekt. Du behöver bara en av dessa och den måste vara i ditt lagringsutrymme för att fungera.</string>
 <string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER Solpanel</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">Autobyggare</string>
+<string name="MA.Auto_Builder.02.Header">Tips och Tricks!</string>
+<string name="MA.Auto_Builder.06.Header">Varning!</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Begränsningar</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Filtrering</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Missile.04.Right">70,000</string>
+<string name="MA.Basic_Missile.03.Left">Skada:</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">Automatisering</string>
+<string name="MA.Bedrock.00.Title">Berggrund</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.03.Right">"100
+ 25
+ "</string>
 </resources>
