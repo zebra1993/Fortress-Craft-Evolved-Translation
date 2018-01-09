@@ -1135,15 +1135,17 @@ Nachladezeit:</string>
 900
 4 Sekunden</string>
 <string name="MA.Window.00.Title">Fenster</string>
-<string name="MA.WorkFloorExcavatorMK1.03.Left">Reichweite:
+<string name="MA.WorkFloorExcavatorMK1.03.Left">"Reichweite:
 Energie pro Block:
-Zerstört Erze:</string>
+Zerstört Erze:
+ "</string>
 <string name="MA.WorkFloorExcavatorMK1.04.Right">32m
 64
 Nein</string>
-<string name="MA.WorkFloorExcavatorMK2.03.Left">Reichweite:
+<string name="MA.WorkFloorExcavatorMK2.03.Left">"Reichweite: 
 Energie pro Block:
-Zerstört Erze:</string>
+Zerstört Erze:
+ "</string>
 <string name="MA.WorkFloorExcavatorMK2.04.Right">32m
 128
 Ja</string>
@@ -1251,7 +1253,7 @@ Ja</string>
 <string name="MA.Nickel_Pipe.01.Paragraph">Ein einfaches Nickelrohr, das aus Nickelstangen in einer Rohrextrusionsanlage hergestellt wurde.</string>
 <string name="MA.Nickel_Plate.01.Paragraph">Eine einfache Nickelplatte aus Nickelbarren in einer Stanze hergestellt.</string>
 <string name="MA.Nickel_Wire.01.Paragraph">Ein einfacher Nickeldraht, der aus Nickelbarren in einer Extrusionsanlage hergestellt wurde.</string>
-<string name="MA.Orange_GlowPod.00.Title">Orange GlowPod</string>
+<string name="MA.Orange_GlowPod.00.Title">Orange Glühschote</string>
 <string name="MA.Orange_GlowPod.01.Paragraph">Diese einheimische Pflanzenart strahlt aufgrund einer chemischen Reaktion direkt unter der Oberfläche der Pflanze ein stetiges orangefarbenes Leuchten aus.</string>
 <string name="MA.Orange_GlowPod.02.Paragraph">Diese Pflanze kann für Strom verbrannt werden.</string>
 <string name="MA.Orbital_Energy_Transmitter_Component.00.Title">Orbitale Energie Sender Komponente</string>
@@ -1269,7 +1271,7 @@ Ja</string>
 <string name="MA.Ore_Smelter.07.Paragraph">Die Geschwindigkeit (und der Energiebedarf) der Schmelzer kann durch einen \"Turboaufbau\" erhöht werden, die erforscht werden können. Nach der Herstellung sollten diese Upgrades auf dem Schmelzofen platziert werden.</string>
 <string name="MA.Ore_Smelter.08.Header">Zusätzliche Schmelzer</string>
 <string name="MA.Ore_Smelter.09.Paragraph">Die Schmelze, mit der Sie beginnen, ist ein fortschrittliches Teil des Kits, das schwer zu replizieren ist. Es wird eine beträchtliche Menge an Forschung und einige fortschrittliche Materialien benötigt, um dies erfolgreich zu tun. Eine Basisschmelze ist ebenfalls verfügbar, um den Flaschenhals zu entlasten, jedoch ist sie langsam, ineffizient und kann nicht aufgerüstet werden.</string>
-<string name="MA.Ore_Thief.00.Title">Cyberdyne Ore Thief 3000 (tm)</string>
+<string name="MA.Ore_Thief.00.Title">Cyberdyne Erzdieb 3000 (tm)</string>
 <string name="MA.Ore_Thief.01.Paragraph">Die neueste Maschine, die Ihnen bei Ihrem Bergbau hilft, ist der Ore Thief 3000! (Patent angemeldet). Für nur 9 Kupferstäbe können Sie auch die Plackerei und das langweilige Einbringen von Erz in Lagerbehälter vermeiden und uns stattdessen erlauben, die harte Arbeit für Sie zu erledigen!
 
  Mit einem massiven internen Speicher von 100 Einheiten kann der Ore Thief 3000 bis zu 3.300 pro Minute auf einen angrenzenden Speicherbehälter abladen!
@@ -1382,7 +1384,7 @@ Ja</string>
 <string name="MA.Pristine_Light_Chitin.01.Paragraph">Ausgesprochenes KY-Zinn, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
 <string name="MA.Pristine_Phosphorescent_Gland.00.Title">Unberührte phosphoreszierende Drüse</string>
 <string name="MA.Pristine_Phosphorescent_Gland.01.Paragraph">Diese Drüsen der lokalen Lebensformen scheinen Eigenschaften aufzuweisen, die sie für die Energiespeicherung geeignet machen. Dieser ist in einem guten Zustand, um verwendet zu werden. Wenn wir einen Weg finden könnten, die Schleime auf diesem Planeten einzufangen und zu töten, könnten wir viele davon bewirtschaften.</string>
-<string name="MA.Pristine_Stinger.00.Title">Pristine Stinger</string>
+<string name="MA.Pristine_Stinger.00.Title">Unberührter Stinger</string>
 <string name="MA.Pristine_Stinger.01.Paragraph">Dieser Stinger ist außergewöhnlich scharf, aber relativ zerbrechlich. Es kann nützliche Anwendungen auf dem Gebiet der Erzgewinnung haben.</string>
 <string name="MA.Purple_GlowPod.00.Title">Lila GlowPod</string>
 <string name="MA.Purple_GlowPod.01.Paragraph">Diese einheimische Pflanzenart strahlt aufgrund einer chemischen Reaktion direkt unterhalb der Pflanzenoberfläche ein stetiges violettes Leuchten aus.</string>
@@ -1403,7 +1405,7 @@ Ja</string>
  180 Sekunden
  Holz, Kohle.</string>
 <string name="MA.Rack_Rail.00.Title">Zahnstange</string>
-<string name="MA.Rack_Rail.01.Paragraph">Zahnstangen, die von den Frachtaufzügen benutzt werden, um Materialien zu transportieren</string>
+<string name="MA.Rack_Rail.01.Paragraph">Zahnstangen, die von den Frachtaufzügen benutzt werden, um Materialien zu transportieren.</string>
 <string name="MA.Rack_Rail.02.Paragraph">Weitere Informationen finden Sie unter Frachtaufzüge Details.</string>
 <string name="MA.Rack_Railer.00.Title">Zahnstangenmaschine</string>
 <string name="MA.Rack_Railer.01.Paragraph">Die Zahnstangenmaschine ist eine Maschine, die in der Lage ist, ein Paar Eisenbarren zu einer verwendbaren Schiene für das Lastenaufzugssystem zu formen.</string>
@@ -1565,7 +1567,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.Storage_Hopper.02.Header">I/O Status</string>
 <string name="MA.Storage_Hopper.11.Header">Vakuummodus einschalten</string>
 <string name="MA.Sugalite_Crystal.00.Title">Sugalithkristall</string>
-<string name="MA.Sugalite_Crystal.02.Header">Tricks und Tipps</string>
+<string name="MA.Sugalite_Crystal.02.Header">Tricks und Tipps.</string>
 <string name="MA.Sugalite_Focusing_Lens.04.Right">300%</string>
 <string name="MA.Suit_Cooler_MK1.00.Title">Anzugskühler MK1</string>
 <string name="MA.Suit_Headlight_MK1.00.Title">Anzugscheinwerfer MK1</string>
