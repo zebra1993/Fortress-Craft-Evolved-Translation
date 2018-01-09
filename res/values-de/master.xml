@@ -881,7 +881,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Topaz Crystal">Topazkristall</string>
     <string name="Topaz Crystal_DESC">Diese mittelwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
-    <string name="Sugalite Crystal_DESC">Diese niederwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften.</string>
+    <string name="Sugalite Crystal_DESC">Diese mittelwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</string>
     <string name="Rocket Framework">Raketengerüst</string>
     <string name="Rocket Framework_DESC">Raketengerüst welches eine Leersektion darstellt. Hat weder Treibstoff- noch Frachtkapazität.</string>
     <string name="Basic Rocket Engine">Einfacher Raketenantrieb</string>
@@ -2631,7 +2631,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Critical Research Suit Upgrades">Kritische Forschung: Anzugsverbesserungen.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Rüste eine MK1 Solarzelle an deinem Anzug aus.</string>
     <string name="MISSION_Critical Research Mining Upgrades">Kritische Forschung: Bergbauverbesserungen.</string>
-    <string name="MISSION_Place your Forced Induction Kit">Platziere Dein erzwungenes Induktionskit.</string>
+    <string name="MISSION_Place your Forced Induction Kit">Platziere Dein Induktionskit</string>
     <string name="MISSION_Build a Forced Induction Kit">Baue einen Induktionssatz.</string>
     <string name="MISSION_Critical Research Automation">Kritische Forschung: Automatisierung.</string>
     <string name="MISSION_Build an Ore Thief">Baue einen Erzdieb.</string>
