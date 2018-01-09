@@ -381,7 +381,7 @@ Erzförderungseffizienz:</string>
 <string name="MA.Construction_Paste_Grinder.00.Title">Konstruktionspastenmühle</string>
 <string name="MA.Construction_Paste_Grinder.01.Paragraph">Der Baupasten-Grinder verwendet eine primitive Version der anorganischen Ansetzer der Anzüge, um Baupaste aus nutzlosen Materialien wie den verschiedenen Gesteins- und Bodentypen auf diesem neuen Planeten zu erzeugen. Die Maschine selbst kann unter Verwendung der im Erdboden des Planeten gefundenen Mineralien zusammengesetzt werden. Die niedrigen Herstellungskosten dieser Maschine und die nicht vorhandenen Leistungsanforderungen ermöglichen es, mehrere parallel zu betreiben. Die Einrichtung eines Mülldiebs in einem frequentierten Gang, der an mehrere dieser Maschinen angeschlossen ist, ist ein guter Weg, um eine große Menge an Baupaste zu Beginn des Spiels zu erhalten.</string>
 <string name="MA.Construction_Paste.00.Title">Konstruktionspaste</string>
-<string name="MA.Construction_Paste.01.Paragraph">Konstruktionspaste ist ein Material das dazu genutzt werden kann, eine Vielzahl an nützlichen Blöcken herzustellen, wie etwa Warnstreifen. Der anorganische Re-Assembler deines Anzuges dient eigentlich dazu, im Vakuum des Raums kleinste Verletzungen zu reparieren um die Dichtheit des Raumanzuges zu gewährleisten. Diese Technik kann mit Mikroben dieses Planeten kombiniert werden . Mit der Konstruktionspastenmühle kannst du die Konstruktionspaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Ein weiterer Vorteil von Beton ist, das er im Inventar so gut wie keinen Platz benötigt.</string>
+<string name="MA.Construction_Paste.01.Paragraph">Konstruktionspaste ist ein Material das dazu genutzt werden kann, eine Vielzahl an nützlichen Blöcken herzustellen, wie etwa Warnstreifen. Der anorganische Re-Assembler deines Anzuges dient eigentlich dazu, im Vakuum des Raums kleinste Verletzungen zu reparieren um die Dichtheit des Raumanzuges zu gewährleisten. Diese Technik kann mit Mikroben dieses Planeten kombiniert werden . Mit der Konstruktionspastenmühle kannst du die Konstruktionspaste aus nutzlosen Blöcken herstellen wie etwa Grundgestein, Erde und was dir sonst noch nutzlos erscheint. Ein weiterer Vorteil von Konstrucktionspaste ist, das er im Inventar so gut wie keinen Platz benötigt.</string>
 <string name="MA.Conveyor_Belt_Filter.00.Title">Förderband Filter</string>
 <string name="MA.Conveyor_Belt_Filter.01.Paragraph">Die Verwendung eines Förderbandfilters ermöglicht es dir den Materialfluss genauer zu kontrollieren. Diese Art von Filter wird verwendet um die Materialien zu steuern die einen Trichter verlassen. Du kannst den Filter auf folgende Einstellungen setzen: MÜLL, ERZ, ORGANISCHES, EDELSTEINE, KOHLE, BIOMASSE, SCHMELZBARES, BRENNBARES, HERGESTELLTE GEGENSTÄNDE sowie "KRISTALL UND BARREN"</string>
 <string name="MA.Conveyor_Belt.00.Title">Förderband</string>
@@ -949,7 +949,7 @@ Brennstoff:</string>
 320 pro Sekunde
 480 Sekunden
 Hochenergetischer Verbundtreibstoff</string>
-<string name="MA.Laboratory_Component.01.Paragraph">Das Labor wird für fortgeschrittene Forschungen benötigt. Es werden insgesamt 27 Laborkomponenten (9 pro Herstellung) benötigt. Diese werden in einem 3x3x3 Würfel platziert.</string>
+<string name="MA.Laboratory_Component.01.Paragraph">Das Labor wird für fortgeschrittene Forschungen benötigt. Es werden insgesamt 27 Laborkomponenten (9 pro Herstellung) benötigt. Diese werden in einem 3x3x3 Blöcke platziert.</string>
 <string name="MA.Laboratory_Component.02.Paragraph">Bei mehr benötigten Informationen über das Labor und dessen Benutzung folge folgendem Leitfaden:</string>
 <string name="MA.LargeMinecart.01.Paragraph">Loren sind für den Massentransport von Gegenständen.</string>
 <string name="MA.LargeMinecart.03.Left">"Max. Geschwindigkeit:
@@ -1095,10 +1095,10 @@ Sonnenlicht</string>
 <string name="MA.Particle_Storage.00.Title">Partikellagerung</string>
 <string name="MA.Particle_Storage.01.Paragraph">Der Partikelspeicher dient zur Speicherung der Ausgabe von maximal 4 Partikelkompressoren. Dieser Multi-Block erleichtert die Lagerung der gesammelten und komprimierten Partikel vor der Abfüllung. Die Partikellagerung wird in einer 3x7x3 Formation gebaut.</string>
 <string name="MA.Perfect_Faceted_Eye.01.Paragraph">Die Augen aus den lokalen fliegenden Lebensformen machen eine hervorragende optische Komponente. Dieser ist von einem der größeren Exemplaren gekommen und ist gut genug, um benutzt zu werden.</string>
-<string name="MA.Pipe_Coater.01.Paragraph">Mit Hilfe von fortschrittlichen Bonding-Techniken kann die hohe Wärme- und Druckbeständigkeit von Crystal Fiber Mesh nun auf Kupferrohre unter Verwendung von Kunststoffkugeln angewendet werden, da ihre einzigartige Molekülstruktur als Bindemittel wirkt. Der Bonding-Prozess nimmt 300 Leistung mit einer Geschwindigkeit von 50 pps, um eine gleichmäßige Beschichtung zu gewährleisten.</string>
-<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">Die Rohr-Extrusionsanlage ist ein regelmäßiger Förderer mit einer Maschine zum Umwandeln von Metallstäben in Rohre.</string>
+<string name="MA.Pipe_Coater.01.Paragraph">Mit Hilfe von fortschrittlichen Bonding-Techniken kann die hohe Wärme- und Druckbeständigkeit von Kristallfasern nun auf Kupferrohre unter Verwendung von Kunststoffkugeln angewendet werden, da ihre einzigartige Molekülstruktur als Bindemittel wirkt. Der Bonding-Prozess nimmt 300 Leistung mit einer Geschwindigkeit von 50 pps, um eine gleichmäßige Beschichtung zu gewährleisten.</string>
+<string name="MA.Pipe_Extrusion_Plant.01.Paragraph">Die Rohr-Extrusionsanlage ist ein regelmäßiger Förderer mit einer Maschine zum Umwandeln von Metallbarren in Rohre.</string>
 <string name="MA.Plastic_Pellet.00.Title">Plastikkugeln</string>
-<string name="MA.Plastic_Pellet.01.Paragraph">Kunststoffe können in einer Raffinerie-Reaktor-Vat aus Biomasse hergestellt werden. Sie werden bei der Konstruktion von Strahlturbinen eingesetzt.</string>
+<string name="MA.Plastic_Pellet.01.Paragraph">Kunststoffe können in einer Raffinerie-Reaktor-Steuerung aus Biomasse hergestellt werden. Sie werden bei der Konstruktion von Strahlturbinen eingesetzt.</string>
 <string name="MA.Mass_Storage_Stocking_Port.00.Title">Massenspeicher-Lagerplatz</string>
 <string name="MA.Tree_Trunk.00.Title">Baumstamm</string>
 <string name="MA.Turret_MK1.00.Title">Geschützturm MK1</string>
@@ -1164,13 +1164,13 @@ Ja</string>
  Halten Sie beim Anpassen der Einlagerungsgrenzen Strg, Umschalt oder Alt gedrückt, um die Grenzwerte in 10, 100 oder 1000 Schritten zu ändern.
  "</string>
 <string name="MA.Mass_Storage_Stocking_Port.05.Paragraph">"
- Sie können mit der rechten Maustaste auf den leeren Platz klicken, um nach einem Artikel nach Namen zu suchen, um den Lagerartikel einfach zu setzen, oder drücken Sie die Taste, um einen Artikel auszuwählen. Multiblock-Komponenten sind speziell, so dass sie bei einer normalen Suche nicht gefunden werden, sondern nach Multi-, Placement- oder Komponenten für eine Liste dieser Blöcke suchen.
+ Sie können mit der rechten Maustaste auf den leeren Platz klicken, um nach einem Artikel oder nach Namen zu suchen, um den Lagerartikel einfach zu setzen, oder drücken Sie die Taste, um einen Artikel auszuwählen. Multiblock-Komponenten sind speziell, so dass sie bei einer normalen Suche nicht gefunden werden, sondern nach Multi-, Placement- oder Komponenten für eine Liste dieser Blöcke suchen müssen.
  
  Das interne Inventar des Ports kann mithilfe der beschrifteten Schaltfläche in der Schnittstelle gesperrt werden, um zu verhindern, dass der Port Elemente sammelt, wenn das Bestandslimit erreicht wurde. Diese Funktion soll es ermöglichen, den Rückstand von höherwertigen Artikeln zu begrenzen.
  "</string>
 <string name="MA.Massive_Faceted_Eye.00.Title">Massives facettiertes Auge</string>
 <string name="MA.Massive_Faceted_Eye.01.Paragraph">Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser stammt aus dem größten Exemplar und ist in einem guten Zustand, um verwendet zu werden.</string>
-<string name="MA.Matter_Mover.00.Title">Stoffbeweger</string>
+<string name="MA.Matter_Mover.00.Title">Materialbeweger</string>
 <string name="MA.Matter_Mover.01.Paragraph">Stoffbeweger sind eine schnelle und energiereiche Methode, um Ressourcen in Ihrem Mining-Betrieb zu bewegen. Sie sind einfach in der Anwendung; versorgen Sie sie mit Energie, wie Sie es mit jeder anderen Maschine tun würden, und platzieren sie ihn neben dem Lagercontainer und in Richtung des ZielContainers. Die Kosten für das Teleportieren hängen nicht von der Entfernung ab. Sichtlinie zum Zielbehälter ist erforderlich.</string>
 <string name="MA.Matter_Mover.03.Left">Maximale Transportgeschwindigkeit:
  Benötigte Leistung:
@@ -1250,7 +1250,7 @@ Ja</string>
  4
  15 Sekunden</string>
 <string name="MA.Nickel_Bar.01.Paragraph">Nickelbarren werden im Allgemeinen in fortgeschrittenen Maschinen verwendet. Sie werden aus Nickel-Erz hergestellt, das sich mindestens 400 m unter der Oberfläche befindet.</string>
-<string name="MA.Nickel_Pipe.01.Paragraph">Ein einfaches Nickelrohr, das aus Nickelstangen in einer Rohrextrusionsanlage hergestellt wurde.</string>
+<string name="MA.Nickel_Pipe.01.Paragraph">Ein einfaches Nickelrohr, das aus Nickelbarren in einer Rohrextrusionsanlage hergestellt wurde.</string>
 <string name="MA.Nickel_Plate.01.Paragraph">Eine einfache Nickelplatte aus Nickelbarren in einer Stanze hergestellt.</string>
 <string name="MA.Nickel_Wire.01.Paragraph">Ein einfacher Nickeldraht, der aus Nickelbarren in einer Extrusionsanlage hergestellt wurde.</string>
 <string name="MA.Orange_GlowPod.00.Title">Orange Glühschote</string>
@@ -1268,15 +1268,15 @@ Ja</string>
 <string name="MA.Ore_Smelter.02.Paragraph">Zunächst müssen Sie den Schmelzofen manuell füttern. Dies kann durch Drücken der Schaltfläche \"Interaktion\" (Standard \"E\") erfolgen, um das Schmelzgerät-Bedienfeld zu öffnen. Sie können dann Erz hinzufügen, indem Sie auf die Schaltfläche \"Erz zuführen\" klicken oder eine bestimmtes Erz in die Schmelze ziehen. Auf dem Bedienfeld wird angezeigt, wie viel Erz pro Barren benötigt wird, während es leer ist.</string>
 <string name="MA.Ore_Smelter.03.Paragraph">Sobald der Schmelzer genug Erz hat, wird er aufgeheizt, dies erfordert Strom von einem angeschlossenen Energiespeicherblock oder Stromgenerator. Wenn die richtige Temperatur erreicht ist, wird Erz in Barren umgewandelt, die durch Klicken auf den Ausgabeschlitz am unteren Rand des Bedienfelds gesammelt werden können.</string>
 <string name="MA.Ore_Smelter.05.Paragraph">Die Schmelzanlage sollte so bald wie möglich mit dem Hinzufügen von Eingabe- und Ausgabe- Lagercontainern automatisiert werden. Der Eingangscontainer sollte auf einen E / A-Status auf \"Nur entfernen\" eingestellt sein. Der Zufuhrcontainer muss groß genug sein, um den Mindestbedarf an Erz zu enthalten.</string>
-<string name="MA.Ore_Smelter.07.Paragraph">Die Geschwindigkeit (und der Energiebedarf) der Schmelzer kann durch einen \"Turboaufbau\" erhöht werden, die erforscht werden können. Nach der Herstellung sollten diese Upgrades auf dem Schmelzofen platziert werden.</string>
+<string name="MA.Ore_Smelter.07.Paragraph">Die Geschwindigkeit (und der Energiebedarf) der Schmelzer kann durch einen \"Turboaufbau\"(Erzwungene Induktion) erhöht werden, die erforscht werden können. Nach der Herstellung sollten diese Upgrades auf dem Schmelzofen platziert werden.</string>
 <string name="MA.Ore_Smelter.08.Header">Zusätzliche Schmelzer</string>
 <string name="MA.Ore_Smelter.09.Paragraph">Die Schmelze, mit der Sie beginnen, ist ein fortschrittliches Teil des Kits, das schwer zu replizieren ist. Es wird eine beträchtliche Menge an Forschung und einige fortschrittliche Materialien benötigt, um dies erfolgreich zu tun. Eine Basisschmelze ist ebenfalls verfügbar, um den Flaschenhals zu entlasten, jedoch ist sie langsam, ineffizient und kann nicht aufgerüstet werden.</string>
 <string name="MA.Ore_Thief.00.Title">Cyberdyne Erzdieb 3000 (tm)</string>
-<string name="MA.Ore_Thief.01.Paragraph">Die neueste Maschine, die Ihnen bei Ihrem Bergbau hilft, ist der Ore Thief 3000! (Patent angemeldet). Für nur 9 Kupferstäbe können Sie auch die Plackerei und das langweilige Einbringen von Erz in Lagerbehälter vermeiden und uns stattdessen erlauben, die harte Arbeit für Sie zu erledigen!
+<string name="MA.Ore_Thief.01.Paragraph">Die neueste Maschine, die Ihnen bei Ihrem Bergbau hilft, ist der Erzdieb 3000! (Patent angemeldet). Für nur 9 Kupferbarren können Sie auch die Plackerei und das langweilige Einbringen von Erz in Lagercontainern vermeiden und uns stattdessen erlauben, die harte Arbeit von ihnen erledigen zu lassen!
 
- Mit einem massiven internen Speicher von 100 Einheiten kann der Ore Thief 3000 bis zu 3.300 pro Minute auf einen angrenzenden Speicherbehälter abladen!
+ Mit einem massiven internen Speicher von 100 Einheiten kann der Erzdieb 3000 bis zu 3.300 Blöcke/pro Minute auf einen angrenzenden Lagercontainer abladen!
 
- Baue einfach unseren brandneuen Ore Thief 3000 (tm) in einem 3x3 Layout und versorge ihn mit nur 5 Power pro Erz, dann steh einfach drauf und lass uns die harte Arbeit für dich erledigen!</string>
+ Baue einfach unseren brandneuen Erzdieb 3000 (tm) in einem 3x3 Layout und versorge ihn mit nur 5 Power pro Erz, dann steh einfach drauf und lass ihn die harte Arbeit für dich erledigen!</string>
 <string name="MA.Ore_Thief.03.Left">"Erz-Sammlungsgeschwindigkeit:
  Interne Speicher:
  Stromverbrauch:
@@ -1285,7 +1285,7 @@ Ja</string>
  100 Einheiten Erz!
  Nur 5 Power pro Erz!
  "</string>
-<string name="MA.Organic_Coal_Enricher.01.Paragraph">Die organische Kohle Enricher verwendet eine kleine Menge an Energie, um die von Kohle erzeugte Energie in einem Pyrothermischen Generator zu erhöhen. Die organische Kohle Enricher verwendet 0.1 pps über die Spannweite von 15 Sekunden, um normale Kohle zu Enriched Kohle zu verarbeiten.</string>
+<string name="MA.Organic_Coal_Enricher.01.Paragraph">Die organische Kohle Anreicherer verwendet eine kleine Menge an Energie, um die von Kohle erzeugte Energie in einem Pyrothermischen Generator zu erhöhen. Die organische Kohleanreicherung verwendet 0.1 pps über die Spannweite von 15 Sekunden, um normale Kohle zu angereicherte Kohle zu verarbeiten.</string>
 <string name="MA.Organic_Cutter_Head.00.Title">Organischer Bohrkopf</string>
 <string name="MA.Organic_Cutter_Head.01.Paragraph">Reduziert vergeudetes Erz durch Verbesserung der Effizienz unseres Erzgewinnungsprozesses. Ermöglicht auch den Abbau von härteren Materialien. Bohrköpfe verschleißen im Laufe der Zeit.</string>
 <string name="MA.Organic_Cutter_Head.02.Paragraph">Der organische Bohrkopf wird aus dem Stinger einer lokalen Lebensform hergestellt, er ist wesentlich effizienter als der Stahl-Bohrkopf, verschleißt jedoch schneller.</string>
@@ -1315,7 +1315,7 @@ Ja</string>
 <string name="MA.Particle_Filter.01.Paragraph">Der Partikel Filter ist eine fortschrittliche Version des Partikel-Filtersystems des Anzugs. Er nutzt die primitive Technologie, die früher für das Überleben in den toxischen Kavernen verwendet wurde. Jetzt können wir bestimmte Partikel aus der partikulären dichten Luft in den verschiedenen Kavernen streichen. Der Partikelfilter ist in einer 5x3x5 Formation aufgebaut.</string>
 <string name="MA.Perfect_Faceted_Eye.00.Title">Perfektes facettiertes Auge</string>
 <string name="MA.Pipe_Coater.00.Title">Rohrbeschichter</string>
-<string name="MA.Pipe_Extrusion_Plant.03.Paragraph">Fördern von Stangen in die Rohrextrusionsanlage von einem anderen Förderer, einer Förderbandmaschine oder einem Förderdrehtisch. Die Rohrextrusionsanlage wird die Stäbe in Rohre umwandeln, die in zusätzlichen Rezepten verwendet werden können.</string>
+<string name="MA.Pipe_Extrusion_Plant.03.Paragraph">Fördern von Barren in die Rohrextrusionsanlage von einem anderen Förderer, einer Förderbandmaschine oder einem Förderdrehtisch. Die Rohrextrusionsanlage wid die Barren in Rohre umwandeln, die in zusätzlichen Rezepten verwendet werden können.</string>
 <string name="MA.Pipe_Extrusion_Plant.04.Paragraph">Die Rohrextrusionsanlage ist wesentlich für die Automatisierung der Raketenproduktion.</string>
 <string name="MA.Power_Storage_Block.01.Paragraph">Der Energiespeicherblock kann eine Reserve von bis zu 200 Energie speichern. Es wird Energie von einem angeschlossenen Generator aufnehmen und an angeschlossene Maschinen oder Leistungstransmitter liefern. Mehrere Stromspeicherblöcke teilen sich Energie untereinander, dies ist jedoch für eine Übertragung von Energie über mehr als ein paar Blöcke nicht effizient, stattdessen sollten Laserleistungssender für diesen Zweck verwendet werden.</string>
 <string name="MA.Power_Storage_Block.02.Paragraph">Energie kann aus dem Energiespeicherblock durch Drücken der Taste \"Extrahieren\" (Standard \"Q\") extrahiert und mit der Interaktions-Taste (Standard \"E\") eingefügt werden.</string>
@@ -1379,14 +1379,14 @@ Ja</string>
 <string name="MA.Pristine_Faceted_Eye.00.Title">Makelloses facettiertes Auge</string>
 <string name="MA.Pristine_Faceted_Eye.01.Paragraph">Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser ist in einem guten Zustand, um verwendet zu werden.</string>
 <string name="MA.Pristine_Heavy_Chitin.00.Title">Reines schweres Chitin</string>
-<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">Ausgesprochenes KY-Zinn, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
+<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">Ausgesprochenes KY-Chitin, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
 <string name="MA.Pristine_Light_Chitin.00.Title">Reines Licht Chitin</string>
 <string name="MA.Pristine_Light_Chitin.01.Paragraph">Ausgesprochenes KY-Zinn, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
 <string name="MA.Pristine_Phosphorescent_Gland.00.Title">Unberührte phosphoreszierende Drüse</string>
 <string name="MA.Pristine_Phosphorescent_Gland.01.Paragraph">Diese Drüsen der lokalen Lebensformen scheinen Eigenschaften aufzuweisen, die sie für die Energiespeicherung geeignet machen. Dieser ist in einem guten Zustand, um verwendet zu werden. Wenn wir einen Weg finden könnten, die Schleime auf diesem Planeten einzufangen und zu töten, könnten wir viele davon bewirtschaften.</string>
 <string name="MA.Pristine_Stinger.00.Title">Unberührter Stinger</string>
 <string name="MA.Pristine_Stinger.01.Paragraph">Dieser Stinger ist außergewöhnlich scharf, aber relativ zerbrechlich. Es kann nützliche Anwendungen auf dem Gebiet der Erzgewinnung haben.</string>
-<string name="MA.Purple_GlowPod.00.Title">Lila GlowPod</string>
+<string name="MA.Purple_GlowPod.00.Title">Lila Glühschote</string>
 <string name="MA.Purple_GlowPod.01.Paragraph">Diese einheimische Pflanzenart strahlt aufgrund einer chemischen Reaktion direkt unterhalb der Pflanzenoberfläche ein stetiges violettes Leuchten aus.</string>
 <string name="MA.Purple_GlowPod.02.Paragraph">Diese Pflanze kann für Strom verbrannt werden.</string>
 <string name="MA.Pyrothermic_Generator.00.Title">Pyrothermischer Generator</string>
@@ -1442,7 +1442,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.Reinforced_Rock.01.Paragraph">Ein grundlegendes Konstruktionsmaterial, das überall bearbeitet werden kann, ohne die Dienstleistungen der Produktionsanlage in Anspruch nehmen zu müssen. Öffnen Sie die Self-Crafting-Schnittstelle (Standard \"C\"), um diese herzustellen.</string>
 <string name="MA.Reinforced_Wood.00.Title">Verstärktes Holz</string>
 <string name="MA.Reinforced_Wood.01.Paragraph">Ein grundlegendes Konstruktionsmaterial, das überall bearbeitet werden kann, ohne die Dienstleistungen der Produktionsanlage in Anspruch nehmen zu müssen. Öffnen Sie die Self-Crafting-Schnittstelle (Standard \"C\"), um diese herzustellen.</string>
-<string name="MA.Research_Assembler.00.Title">Forschungsassembler</string>
+<string name="MA.Research_Assembler.00.Title">Forschungsmontage</string>
 <string name="MA.Research_Assembler.01.Paragraph">"Produziert automatisch experimentelle Forschungseinheiten aus Metallplatten und Leiterplatten. Dies sollte dann direkt mit Ihrem Labor verbunden werden, um automatisierte Forschung zu ermöglichen.
  Es wird empfohlen, die Produktion dieser Filter aufgrund ihrer zeitraubenden Natur für eine effiziente Produktion zu automatisieren.
  "</string>
@@ -1503,7 +1503,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.Servo_Motor.00.Title">Servomotor</string>
 <string name="MA.Servo_Motor.01.Paragraph">Genauer und schneller Motor.</string>
 <string name="MA.Sign.00.Title">Schild</string>
-<string name="MA.Sign.01.Paragraph">Mit einer Technologie, die an das abgestürzte Schiff angepasst wurde, wurden weitere Verbesserungen am Cyberdyne EZ-Sign vorgenommen. Dieses neue Schild kann platziert und bearbeitet werden. Das Schild sollte in der Lage sein, alle Standardzeichen anzuzeigen, die der Spieler auf einer internationalen Tastatur eingeben kann.</string>
+<string name="MA.Sign.01.Paragraph">Mit einer Technologie, die an das abgestürzte Schiff angepasst wurde, wurden weitere Verbesserungen am Cyberdyne EZ-Schild vorgenommen. Dieses neue Schild kann platziert und bearbeitet werden. Das Schild sollte in der Lage sein, alle Standardzeichen anzuzeigen, die der Spieler auf einer internationalen Tastatur eingeben kann.</string>
 <string name="MA.Slime_Attractor.00.Title">Schleim Attraktor</string>
 <string name="MA.Slime_Attractor.01.Paragraph">" Der Slime Attractor ist der erste Schritt, um die Bedrohungen zu besiegen, die in dieser feindlichen Umgebung herrschen. Mit den faulenden Überresten ihrer Kameraden ist nun die Anziehung von Schlamm möglich. "</string>
 <string name="MA.Slime_Attractor.02.Paragraph">" Obwohl die Turmtechnologie diese besondere Bedrohung nicht erkennen kann, zeigt der häufige Tod von Schleimen durch die Schwerkraft, dass Schleime für natürliche Zerstörungsmethoden nicht unbesiegbar sind."</string>
@@ -1641,7 +1641,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.T4_Forced_Induction.05.Right">400%
  3200%</string>
 <string name="MA.T4_HardRockGrinder.00.Title">Hartgestein Schleifer</string>
-<string name="MA.T4_HardRockGrinder.01.Paragraph">Wir werden unsere Maschinen bootstrappen müssen. Zu diesem Zweck haben wir einen Schleifer für den einmaligen Gebrauch - ein paar davon sollten uns gerade genug Erz liefern, um eine viel größere, zähere Bohrmaschine zu konstruieren.</string>
+<string name="MA.T4_HardRockGrinder.01.Paragraph">Wir werden unsere Maschinen umbauen müssen. Zu diesem Zweck haben wir einen Schleifer für den einmaligen Gebrauch - ein paar davon sollten uns gerade genug Erz liefern, um eine viel größere, zähere Bohrmaschine zu konstruieren.</string>
 <string name="MA.T4_HardRockGrinder.02.Paragraph">Die Verwendung sollte ziemlich einfach sein. Finde oder mache eine 3x3 horizontale Ebene des gewünschten Erzes (Chrom oder Molybdän), lege den Schleifer ab, gib ihm Energie, warte bis zur Fertigstellung und gib ihm viele Lagercontainer, um das endgültige Material hinein zu laden.</string>
 <string name="MA.T4_HardRockGrinder.03.Paragraph">Wenn Sie Probleme haben, eine 3x3 horizontale Fläche zu finden, dann sind der Nano Sprengsatz oder die geladenen Sprengstoffe Ihre Freunde!</string>
 <string name="MA.T4_HardRockGrinder.04.Paragraph">Diese Maschinen sind furchtbar ineffizient und teuer und benötigen eine große Menge des raffinierten Harzes aus den Hiveminds, die uns umgeben. Wir sollten so schnell wie möglich zu besseren Minenarbeitern übergehen.</string>
