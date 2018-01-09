@@ -36,7 +36,7 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 
-    <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem belieben zu gestalten. Du kannst aus Deinen Kreationen eigene Schemata erzeugen, diese als Blaupausen abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne Sie neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
+    <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem belieben zu gestalten. Du kannst aus Deinen Kreationen ein eigenes Schema erzeugen, diese als Blaupausen abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne Sie neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
     <string name="Creative_Info">Dies ist einen existierende Kreativwelt, daher gibt es hier keine coolen Statistiken anzuzeigen.Wie wäre es mit dem Bild einer Katze?</string>
 
     <!-- Mod Menu -->
@@ -244,7 +244,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <!--<string name="Steel Cutter Heads">Stahlschneideköpfe</string>-->
     <string name="Crystal Cutter Head">Kristallschneidekopf</string>
     <!--<string name="Crystal Cutter Heads">Kristallschneideköpfe</string>-->
-    <string name="Organic Cutter Head">Organischer Schneidekopf</string>
+    <string name="Organic Cutter Head">Organischer Bohrkopf</string>
     <!--<string name="Organic Cutter Heads">Organischeschneidköpfe</string>-->
     <string name="Plasma Cutter Head">Plasmaschneidekopf</string>
     <!--<string name="Plasma Cutter Heads">Plasmaschneideköpfe</string>-->
@@ -262,7 +262,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Iron Ore Pings">Eisenpinge</string>
     <string name="Copper Ore Ping">Kupferping</string>
     <string name="Copper Ore Pings">Kupferpinge</string>
-    <string name="Tin Ore Ping">Zinnping</string>
+    <string name="Tin Ore Ping">Zinn Pinger</string>
     <string name="Tin Ore Pings">Zinnpinge</string>
     <string name="Lithium Ore Ping">Lithiumping</string>
     <string name="Lithium Ore Pings">Lithiumpinge</string>
@@ -578,7 +578,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Reinforced Wood">Verstärkes Holz</string>
     <string name="Reinforced Wood_DESC">Verstärkte Holzplanken. Für den Bau von Wänden geeignet</string>
     <string name="Bedrock">Grundgestein</string>
-    <string name="Bedrock_DESC">Dieses dichte Gestein scheint Spuren von Eisen und Lithium zu beinhalten. Die nahe Umgebung abzusuchen sollte nützliche Erze zutage bringen!</string><!--Oringimal-->
+    <string name="Bedrock_DESC">Dieses dichte Gestein scheint Spuren von Eisen und Lithium zu beinhalten. Die nahe Umgebung abzusuchen sollte nützliche Erze zum vorschein bringen!</string><!--Oringimal-->
     <string name="Sand">Sand</string>
     <string name="Sand_DESC">Rieselt durch die Sanduhr, unaufhaltsam</string>
     <string name="Tree Trunk">Baumstumpf</string>
@@ -783,7 +783,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Neon Circuit">Neonschaltkreis</string>
     <string name="Neon Circuit_DESC">Neonschaltkreis</string>
     <string name="Neon Border">Neonkante</string>
-    <string name="Neon Border_DESC">Neonkante</string>
+    <string name="Neon Border_DESC"/>
     <string name="Neon Grid">Neon Gitter</string>
     <string name="Neon Grid_DESC">Neongitter</string>
     <string name="Neon Core">Neon Kern</string>
@@ -801,9 +801,9 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Reinforced Concrete Wall">Verstärkte Betonwand</string>
     <string name="Reinforced Concrete Wall_DESC">Verstärkte Betonwand. Sieht der normalen Betonwand ähnlich, hat die selbe Funktion, kostet dafür aber mehr.</string>
     <string name="Lava">Lava</string>
-    <string name="Lava_DESC">Lava, schmiltzt alles was reinfällt. Ausser Blöcke</string>
+    <string name="Lava_DESC"/>
     <string name="Scorched Earth">Verbrannte Erde</string>
-    <string name="Scorched Earth_DESC">Hier wächst kein Gras mehr. Nicht nur für kurz sondern für immer.</string>
+    <string name="Scorched Earth_DESC"/>
     <string name="Metal Siding 2">Metall Gehsteig 2</string>
     <string name="Metal Siding 2_DESC">Dies ist ein schöner Metalgehsteig, erhitzt sich in der wärme der Sonne. Bleib micht zu lange drauf stehn sonst schmilzt dein Anzug.</string>
     <string name="Construction Crate">Baurost</string>
@@ -879,9 +879,9 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Sapphire Crystal">Sapphirkristall</string>
     <string name="Sapphire Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Topaz Crystal">Topazkristall</string>
-    <string name="Topaz Crystal_DESC">Diese mittelwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
+    <string name="Topaz Crystal_DESC">Diese niederwertigen Kristalle können poliert als Linsen und für andere nützliche Gegenstände verwendet werden.</string>
     <string name="Sugalite Crystal">Sugalitkristall</string>
-    <string name="Sugalite Crystal_DESC">Diese mittelwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften. Besorg mehr von dem Zeug!</string>
+    <string name="Sugalite Crystal_DESC">Diese niederwertigen Kristalle können aufpoliert, für unterschiedliche Linsen und andere nützliche Gegenstände verwendet werden. Zudem haben sie überraschende Eigenschaften.</string>
     <string name="Rocket Framework">Raketengerüst</string>
     <string name="Rocket Framework_DESC">Raketengerüst welches eine Leersektion darstellt. Hat weder Treibstoff- noch Frachtkapazität.</string>
     <string name="Basic Rocket Engine">Einfacher Raketenantrieb</string>
@@ -1145,7 +1145,7 @@ Sehr Energie hungrig!</string>
     <string name="Turret MK2">Laserturm MK2</string>
     <string name="Turret MK2_DESC">Gut für die Verteidigung der Basis.</string>
     <string name="Turret MK3">Laserturm MK3</string>
-    <string name="Turret MK3_DESC">Gut für Verteidung auf grosse Distanz.</string>
+    <string name="Turret MK3_DESC">Gut für Verteidigung auf große Distanz.</string>
     <string name="Auto Excavator">Automatischer Bagger</string>
     <string name="Auto Excavator_DESC">Hebt selbständig grosse Schächte von unten aus.</string>
     <string name="Teleporter">Teleporter</string>
@@ -1220,7 +1220,7 @@ Sehr Energie hungrig!</string>
     <string name="Mass Storage Block">Massenspeicherkiste</string><!-- Not optimal-->
     <string name="Mass Storage Block_DESC">Einfaches Massenlagerungssystem (25 Kapazität/ Lage)</string>
     <string name="Basic Mass Storage Input Port">Einfacher Massenspeichereingang</string>
-    <string name="Basic Mass Storage Input Port_DESC">Wird genutz um Ressourcen im Hochregallager zu einzulagern. Lagert 5 Ressourcen gleichzeitig ein.</string>
+    <string name="Basic Mass Storage Input Port_DESC">Wird genutzt um Ressourcen im Hochregallager einzulagern. Lagert 5 Ressourcen gleichzeitig ein.</string>
     <string name="Mass Storage Input Port">Massenspeichereingang</string>
     <string name="Mass Storage Input Port_DESC">Wird genutzt, um Ressourcen dem Massenlager hinzuzufügen. Lagert 12 Ressourcen gleichzeitig ein.</string>
     <string name="Bulk Mass Storage Input Port">Schüttgut Massenspeichereingang</string>
@@ -1326,7 +1326,7 @@ Sehr Energie hungrig!</string>
     <string name="Lift w/underside Piston">Lift mit unterseitigem Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit</string>
     <string name="Lift Compressor">Lift Kompressor</string>
-    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nFunktioniert nicht auf einem Mehrspielerserver.</string>
+    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nFunktioniert nicht im Mehrspieler.</string>
     <string name="Lift Manual Control Module">Manuelle Liftsteuerung</string>
     <string name="Lift Manual Control Module_DESC">Ermöglichst manuelles Bedienen des Lifts.\\nNutze Home und End zum Steuern!\\nZum Benutzen an einen Lift anschliessen.</string>
     <string name="MK1 Robot Arm">MK1 Roboterarm</string>
@@ -1386,7 +1386,7 @@ Sehr Energie hungrig!</string>
     <string name="Basic Missile Assembler">Einfache Raketenmontage</string>
     <string name="Basic Missile Assembler_DESC">Stellt Raketen aus Treibstoff, Röhren und Drähten her.</string>
     <string name="Organic Reassembler">Organischer Rekombinierer</string>
-    <string name="Organic Reassembler_DESC">Stellt Ruinirte Organische Komponenten her.</string>
+    <string name="Organic Reassembler_DESC">Stellt Ruinierte Organische Komponenten her.</string>
     <string name="Coal Enricher">Kohleanreicherer</string>
     <string name="Coal Enricher_DESC">Reichert Kohle langsam an.</string>
     <string name="Plasma Head Charger">Plasmakopf Aufladestation</string>
@@ -1480,7 +1480,7 @@ Sehr Energie hungrig!</string>
     <string name="Casting Pipe (Bend)">Gebogenes Gussrohr</string>
     <string name="Casting Pipe (Bend)_DESC">Ermöglicht es geschmolzenes Metall vom Hochofen zum Gießbecken fliessen zu lassen</string>
     <!--MachinePlacement-->
-    <string name="Refinery Reactor Vat Component">Raffineriekessel Komponente</string>
+    <string name="Refinery Reactor Vat Component">Raffineriereaktor Komponente</string>
     <string name="Refinery Reactor Vat Component_DESC">Beinhaltet biochemische Reaktionen unter Hochdruck. In einem 3x3x3 Würfel platzieren um einen Reaktorkessel zu formen, eine Raffinerie Steuerung hinzufügen und nutzen.</string>
     <string name="Jet Turbine Generator Housing">Turbinengeneratorgehäuse</string>
     <string name="Jet Turbine Generator Housing_DESC">Verbrennt HEC Treibstoff um eine Turbine anzutreiben, die massig Energie liefert. Aufbau: 3x4 Grundfläche und 3 Blöcke hoch. An der langen Seite (3x3) noch eine Ebene Turbineneinlässe hinzufügen, sodass die Turbine eine endgültige Länge von 5 Blöcken hat.</string>
@@ -1854,7 +1854,7 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="Server Monitor_CRAFT_HINT">Sorry wegen deiner vierten Wand.</string>
     <string name="Threat Reducer_CRAFT_DESC">Braucht kleine Mengen Energie um die Basisbedrohungsstufe zu mindern. Nutze dies um Angriffe aufzuschieben, während du die Basis aufbaust.</string>
     <string name="Threat Reducer_CRAFT_HINT">Funktioniert nicht, wenn der Orbitalergieüberträger gebaut wird!</string>
-    <string name="Threat Agitator_CRAFT_DESC">Braucht eine bescheidene Menge an Energie um die Bedrohungsstufe der Basis zu erhöhen. Wird genutzt um mehr Organische Ausbeute zu erhalten!</string>
+    <string name="Threat Agitator_CRAFT_DESC">Verwendet eine geringe Menge an Energie, um die Bedrohungsstufe der Basis zu erhöhen. Wird genutzt um mehr Organische Ausbeute zu erhalten!</string>
     <string name="Threat Agitator_CRAFT_HINT">Jeder erhöht die Bedrohung um 10% und fügt 5 Gegner pro Welle hinzu.</string>
     <string name="Basic Conveyor Belt_CRAFT_DESC">Langsame aber billige Methode, um Materialien zwischen Containern zu verschieben. Benötigt keine Energie. Förderbänder sind anfällig für Angriffe und extreme Temperaturen.</string>
     <string name="Basic Conveyor Belt_CRAFT_HINT">Langsam aber effizient.</string>
@@ -1873,7 +1873,7 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="Motorised Conveyor_CRAFT_DESC">Anhängen an einen Container um, wenn mit Energie versorgt, sogar die schnellsten Transportsysteme an ihre Grenzen zu bringen!</string>
     <string name="Motorised Conveyor_CRAFT_HINT">Braucht 5 Energie pro Gegenstand. Weg zeigend von Containern.</string>
     <string name="Zipper Merge_CRAFT_DESC">Führt zwei Förderbandlinien zu einer zusammen in einem garantierten 1:1 Verhältnis.</string>
-    <string name="Zipper Merge_CRAFT_HINT">Förderbandlinien direkt anschliessen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
+    <string name="Zipper Merge_CRAFT_HINT">Förderbandlinie direkt anschließen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
     <string name="Rapid Zipper Merge_CRAFT_DESC">Führt zwei Förderbandlinien zu einer zusammen in einem garantierten 1:1 Verhältnis. Ist jedoch um einiges schneller wie der normale Zipper Merge.</string>
     <string name="Rapid Zipper Merge_CRAFT_HINT">Förderbandlinien direkt anschliessen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
     <string name="3'n1 Zipper Merge_CRAFT_DESC">Führt schnell zwei Förderbandlinien in RRR L Reihenfolge. Macht die Forschungspod montage ein Kinderspiel!</string>
@@ -1935,10 +1935,10 @@ Billig und hässlich, dafür verlässlich*
     <string name="Cluster Missile Crafter_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="Mephitic Missile Assembler_CRAFT_DESC">Fügt einer durchtränkten Rakete 50% mehr Schaden über Zeit hinzu.</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="CryoChilled Missile Assembler_CRAFT_DESC">Fügt einer durchtränken Rakete einen massiven Verlangsamungseffekt hinzu.</string>
-    <string name="CryoChilled Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
+    <string name="CryoChilled Missile Assembler_CRAFT_DESC">Nimmt durchtränkte Raketen und fügt einen massiven Verlangsamungseffekt hinzu.</string>
+    <string name="CryoChilled Missile Assembler_CRAFT_HINT">Diese Raketen sind startbereit!</string>
     <string name="SpiderBot Core Charger_CRAFT_DESC">Durchtränkt Lithiumspulen mit Energie. Wird der Spiderbot Verbesserungs- und Aufladestation über einem Container zugeführt.</string>
-    <string name="SpiderBot Core Charger_CRAFT_HINT">Der Spiderbot braucht Energie, um deine Basis zu verteidigen.</string>
+    <string name="SpiderBot Core Charger_CRAFT_HINT">SpiderBot benötigt Energie, um deine Basis zu verteidigen.</string>
     <string name="Laser Resin Ablator_CRAFT_DESC">Nutzt große Energiemengen um die Hüllen von gehärtetem Harz abzutragen. Dies erlaubt das Verflüssigen und Raffinieren in weiteren Schritten.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
     <string name="Laser Resin Liquifier_CRAFT_DESC">Nutzt große Mengen Energie um den weichen Kern von einem gehärteten Harzblock zu verflüssigen, nachdem er seiner Hülle entledigt wurde. An Container anbauen.</string>
@@ -1951,7 +1951,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpaneelen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Verbessert die Heizleistung des Anzugs um dich vor extremer Kälte zu schützen. Muss nur einmal im Inventar vorhanden sein.</string>
-    <string name="Suit Heater MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
+    <string name="Suit Heater MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt.</string>
     <string name="Suit Power Pack MK1_CRAFT_DESC">Verdoppelt die Anzugsenergiekapazität. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Power Pack MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Power Pack MK2_CRAFT_DESC">Vervierfacht die Anzugsenergiekapazität. Muss nur einmal im Inventar vorhanden sein.</string>
@@ -2501,7 +2501,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="XL Experimental Pod_CRAFT_DESC">Nickelplatten und verstärkte Leiterplatten werden zu XL Forschungskapseln verarbeitet, welche für Forschung verwendet werden können.</string>
     <string name="XL Experimental Pod_CRAFT_HINT">Nickelplatten und verstärkte Leiterplatten werden zu XL Forschungskapseln verarbeitet, welche für Forschung verwendet werden können.</string>
     <string name="Ultimate Experimental Pod_CRAFT_DESC">Titanplatten und leichte Leiterplatten werden zu ultimativen Forschungskapseln verarbeitet, welche für Forschung verwendet werden können.</string>
-    <string name="Ultimate Experimental Pod_CRAFT_HINT">Titanplatten und leichte Leiterplatten werden zu ultimativen Forschungskapseln verarbeitet, welche für Forschung verwendet werden können.</string>
+    <string name="Ultimate Experimental Pod_CRAFT_HINT"/>
     <!-- smelter -->
     <string name="Copper Bar_CRAFT_DESC">Kupferbarren bestehen aus gereinigtem Kupfererz.</string><!---->
     <string name="Copper Bar_CRAFT_HINT">Kupferbarren bestehen aus gereinigtem Kupfererz.</string>
@@ -2631,7 +2631,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Critical Research Suit Upgrades">Kritische Forschung: Anzugsverbesserungen.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Rüste eine MK1 Solarzelle an deinem Anzug aus.</string>
     <string name="MISSION_Critical Research Mining Upgrades">Kritische Forschung: Bergbauverbesserungen.</string>
-    <string name="MISSION_Place your Forced Induction Kit">Platziere Dein Induktionskit</string>
+    <string name="MISSION_Place your Forced Induction Kit">Platziere Dein Induktionskit.</string>
     <string name="MISSION_Build a Forced Induction Kit">Baue einen Induktionssatz.</string>
     <string name="MISSION_Critical Research Automation">Kritische Forschung: Automatisierung.</string>
     <string name="MISSION_Build an Ore Thief">Baue einen Erzdieb.</string>
@@ -2698,4 +2698,5 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Fit SpiderBot Under-Blasters">Rüste das SpiderBot Unterbodengeschütz aus!</string>
     <string name="Located">Located</string>
     <string name="If_you_can_read_this_I_messed_up">Wenn du dies lesen kannst hab ichs vergeigt</string>
-  </resources>
+  <string name="CE_Info">Hält die Ladung beim Abholen</string>
+    </resources>
