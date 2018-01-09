@@ -1931,9 +1931,9 @@ Billig und hässlich, dafür verlässlich*
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um deren Schaden deutlich zu erhöhen.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
-    <string name="Cluster Missile Crafter_CRAFT_DESC">Wandelt eine verbesserte Rakete in 8 Schwarmraketen um. Jede hat nur 1/4 des originalen Schadens, was im Gesamten doppelt soviel Schaden bedeutet.</string>
+    <string name="Cluster Missile Crafter_CRAFT_DESC">Wandelt eine durchtränkte Rakete in 8 Schwarmraketen um. Jede hat nur 1/4 des originalen Schadens, was im Gesamten doppelt soviel Schaden bedeutet.</string>
     <string name="Cluster Missile Crafter_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
-    <string name="Mephitic Missile Assembler_CRAFT_DESC">Fügt einer durchtränkten Rakete 50% Schaden über Zeit hinzu.</string>
+    <string name="Mephitic Missile Assembler_CRAFT_DESC">Fügt einer durchtränkten Rakete 50% mehr Schaden über Zeit hinzu.</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
     <string name="CryoChilled Missile Assembler_CRAFT_DESC">Fügt einer durchtränken Rakete einen massiven Verlangsamungseffekt hinzu.</string>
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">Diese Raketen sind feuerbereit!</string>
@@ -1942,7 +1942,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Laser Resin Ablator_CRAFT_DESC">Nutzt große Energiemengen um die Hüllen von gehärtetem Harz abzutragen. Dies erlaubt das Verflüssigen und Raffinieren in weiteren Schritten.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
     <string name="Laser Resin Liquifier_CRAFT_DESC">Nutzt große Mengen Energie um den weichen Kern von einem gehärteten Harzblock zu verflüssigen, nachdem er seiner Hülle entledigt wurde. An Container anbauen.</string>
-    <string name="Laser Resin Liquifier_CRAFT_HINT">Hervorragend um tote Schwarmintelligenzen in nutzvolle Materialien zu verwandeln.</string>
+    <string name="Laser Resin Liquifier_CRAFT_HINT">Hervorragend um tote Hirnmasse in nutzvolle Materialien zu verwandeln.</string>
     <string name="Liquid Resin Refiner_CRAFT_DESC">Raffiniert verflüssigtes Harz zu sehr nutzvollem, raffiniertem Flüssigharz.</string>
     <string name="Liquid Resin Refiner_CRAFT_HINT">Benutzt in einigen hochstufigen, organischen Rezepten.</string>
     <string name="Hydrojet Cutter_CRAFT_DESC">Verbesserungsmodul für die Konstruktionsanlage, welches erlaubt, Anzugsverbesserungen herzustellen. Muss AUF der Konstruktionsanlage platziert werden.</string>
@@ -1956,7 +1956,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Suit Power Pack MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Power Pack MK2_CRAFT_DESC">Vervierfacht die Anzugsenergiekapazität. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Power Pack MK2_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
-    <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Verbindet alle Anzugsverbesserungen zu einer All In One (tm) Anzugsverbesserung. Perfekt.</string>
+    <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Verbindet alle Anzugsverbesserungen zu einer Alles in Einem (tm) Anzugsverbesserung. Perfekt.</string>
     <string name="MK1 Suit Upgrade Module_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Headlight MK1_CRAFT_DESC">Reduziert den Energieverbrauch der Anzugsbeleuchtung. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Headlight MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
