@@ -304,7 +304,7 @@ Erzförderungseffizienz:</string>
 <string name="MA.CargoLiftController.07.Paragraph">"Dein Warenlift wird automatisch auf und ab fahren solange er genug Energie bekommt, und dabei entsprechend seinen Befehlen Ressourcen einladen und ausladen. Um die Befehle zu ändern drücke \"Interagieren\" (Standard [E]) um das Bedienfeld des Warenlifts zu öffnen und wähle den benötigten Befehl.
  Sobald der Lift am unteren oder oberen Ende deines Schachtes ankommt versucht er seine Lade- und Entladebefehle auszuführen. Platziere die Lagercontainer einfach so, dass sie Kontakt zum angehaltenen Lift haben.
  "</string>
-<string name="MA.Central_Power_Hub.00.Title">Zentraler Energie Verteiler</string>
+<string name="MA.Central_Power_Hub.00.Title">Zentraler Energieverteiler</string>
 <string name="MA.Central_Power_Hub.01.Paragraph">Der Zentrale Energie Verteiler (ZEV, auch CPH genannt) ist die wichtigste Maschine in deiner Basis. Er ist zu fortgeschritten, als das er repliziert werden könnte. Du kannst auf diesem Planeten nicht ohne ihn überleben. Also schütze ihn um jeden Preis.</string>
 <string name="MA.Central_Power_Hub.02.Header">Energieproduktion</string>
 <string name="MA.Central_Power_Hub.03.Paragraph">Der Zentrale Energieverteiler enthält eine große, interne Batterie welche Energie speichern kann. Durch seine Solarzellen und seinen internen Generator kann der Zentrale Energieverteiler diese Batterie auffüllen.
@@ -1037,7 +1037,7 @@ benutze [Pos1] und [ENDE] zum beschleunigen / verlangsamen des Lifts.</string>
 <string name="MA.Lithium_Plate.01.Paragraph">Eine einfache Lithiumplatte hergestellt aus Lithiumbarren mit Hilfe einer Stanze.</string>
 <string name="MA.Lithium_Wire.01.Paragraph">Ein einfacher Lithiumdraht hergestellt mit Hilfe einer Drahtziehmaschine.</string>
 <string name="MA.Location_Marker.01.Paragraph">Standortmarkierungen werden verwendet um Ortskoordinaten zu speichern. Diese werden in verschiedene Maschinen, wie beispielsweise dem Teleporter, benötigt.</string>
-<string name="MA.Location_Marker.03.Paragraph">Platziere die hergestellte Standortmarkierung in deiner Schnellzugriffsleiste und wähle sie aus. Mit Bauen (Standart \"linke Maustaste\") kann nun eine beliebige Stelle gespeichert werden. Ist der Vorgang erfolgreich, wird die markierte Position automatisch auf der Anzeige deines Anzuges hervorgehoben indem eine Lichtsäule angezeigt wird, während die Standortmarkierung ausgewählt ist.</string>
+<string name="MA.Location_Marker.03.Paragraph">Platziere die hergestellte Standortmarkierung in deiner Schnellzugriffsleiste und wähle sie aus. Mit Bauen (Standard \"linke Maustaste\") kann nun eine beliebige Stelle gespeichert werden. Ist der Vorgang erfolgreich, wird die markierte Position automatisch auf der Anzeige deines Anzuges hervorgehoben indem eine Lichtsäule angezeigt wird, während die Standortmarkierung ausgewählt ist.</string>
 <string name="MA.Location_Marker.04.Paragraph">Bitte beachte, dass dein Anzug nicht für die Verwendung mehrere Standortmarkierungen ausgelegt wurde. Um Irreführungen zu vermeiden, empfehlen wir daher stets nur eine einzelne Markierung im Inventar mitzuführen.</string>
 <string name="MA.Logistics_Hopper.01.Paragraph">Der Logistikcontainer stellt die billigere Version des standard Lagercontainers dar. Daher kann er lediglich 2 Gegenstände aufnehmen und benötigt jeweils 10 Sekunden um einen Gegenstand zu verarbeiten. Damit ist der Logistikcontainer schnell genug um zusammen mit einem nicht verbesserten Erzförderer betrieben zu werden. Achte jedoch darauf Logistikcontainer durch leistungsfähigere Modelle zu ersetzen, sobald sie zu einem Engpass werden.</string>
 <string name="MA.Logistics_Hopper.02.Paragraph">Für weitere Informationen zu den Lagercontainern, nutze die Hilfe zu dem Standard Lagercontainer.</string>
@@ -1089,9 +1089,9 @@ Sonnenlicht</string>
 <string name="MA.Organic_Coal_Enricher.00.Title">Organischer Kohleanreicherer</string>
 <string name="MA.Organic_Lens.00.Title">Organische Linse</string>
 <string name="MA.Organic_Rock.00.Title">Organischer Stein</string>
-<string name="MA.Overclocked_Crystal.00.Title">Übertackteter Kristall</string>
+<string name="MA.Overclocked_Crystal.00.Title">Übertakteter Kristall</string>
 <string name="MA.Particle_Compressor.00.Title">Partikelverdichter</string>
-<string name="MA.Particle_Compressor.01.Paragraph">Der Partikel-Kompressor wird verwendet, um die Ausgänge von maximal 4 Partikel-Filtern in eine dichter verwendbare Form zu komprimieren. Der Ausgang des Partikel-Kompressors ist so dicht, dass er bei der Auslieferung einer Flüssigkeit gleicht. Der Partikel-Kompressor ist in einer 3x3x3-Formation zu bauen.</string>
+<string name="MA.Particle_Compressor.01.Paragraph">Der Partikel-Kompressor wird verwendet, um Partikel von maximal 4 Partikel-Filtern in eine dichtere, verwendbare Form zu komprimieren. Die Partikel werden dabei soweit verdichtet, dass sie sich wie eine Flüssigkeit verhalten. Der Partikel-Kompressor ist in einer 3x3x3-Formation zu bauen.</string>
 <string name="MA.Particle_Storage.00.Title">Partikellagerung</string>
 <string name="MA.Particle_Storage.01.Paragraph">Der Partikelspeicher dient zur Speicherung der Ausgabe von maximal 4 Partikelkompressoren. Dieser Multi-Block erleichtert die Lagerung der gesammelten und komprimierten Partikel vor der Abfüllung. Die Partikellagerung wird in einer 3x7x3 Formation gebaut.</string>
 <string name="MA.Perfect_Faceted_Eye.01.Paragraph">Die Augen aus den lokalen fliegenden Lebensformen machen eine hervorragende optische Komponente. Dieser ist von einem der größeren Exemplaren gekommen und ist gut genug, um benutzt zu werden.</string>
@@ -1257,7 +1257,7 @@ Ja</string>
 <string name="MA.Orange_GlowPod.01.Paragraph">Diese einheimische Pflanzenart strahlt aufgrund einer chemischen Reaktion direkt unter der Oberfläche der Pflanze ein stetiges orangefarbenes Leuchten aus.</string>
 <string name="MA.Orange_GlowPod.02.Paragraph">Diese Pflanze kann für Strom verbrannt werden.</string>
 <string name="MA.Orbital_Energy_Transmitter_Component.00.Title">Orbitale Energie Sender Komponente</string>
-<string name="MA.Orbital_Energy_Transmitter_Component.01.Paragraph">Der Höhepunkt unserer Arbeit auf diesem Planeten. Der Orbital Energie Transmitter (OET) wird genug Energie in die Umlaufbahn schicken, um mit dem Wiederaufbau einer Raumstation zu beginnen. Wir müssen unsere Basis schützen, während wir den OET antreiben, denn wenn unser Zentraler Energie Verteiler stark beschädigt ist, wird sich der OET schnell entladen.</string>
+<string name="MA.Orbital_Energy_Transmitter_Component.01.Paragraph">Der Höhepunkt unserer Arbeit auf diesem Planeten. Der Orbital Energie Transmitter (OET) wird genug Energie in die Umlaufbahn schicken, um mit dem Wiederaufbau einer Raumstation zu beginnen. Wir müssen unsere Basis schützen, während wir den OET antreiben, denn wenn unser Zentraler Energieverteiler stark beschädigt ist, wird sich der OET schnell entladen.</string>
 <string name="MA.Orbital_Energy_Transmitter_Component.02.Header">Konstruktion</string>
 <string name="MA.Orbital_Energy_Transmitter_Component.03.Paragraph">Der Orbital Energy Transmitter ist eine massive Konstruktion, die insgesamt 1053 Komponenten benötigt. Es muss 13 m hoch auf einer 9 x 9 m großen Basis mit freiem Blick auf den Himmel gebaut werden.</string>
 <string name="MA.Orbital_Energy_Transmitter_Component.05.Left">Benötigte Gesamtleistung:
@@ -1474,7 +1474,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.Rough_Hewn_Rock.00.Title">Grobe gehauene Felsen</string>
 <string name="MA.Rough_Hewn_Rock.01.Paragraph">Gesteinsfund knapp unter der Oberfläche. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren.</string>
 <string name="MA.Rubble.00.Title">Schutt</string>
-<string name="MA.Rubble.01.Paragraph">Als Nebenprodukt beim manuellen Erzbergbau gefunden. Kann in Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren. Der Block kann platziert werden.</string>
+<string name="MA.Rubble.01.Paragraph">Als Nebenprodukt beim manuellen Erzbergbau gefunden. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren. Der Block kann platziert werden.</string>
 <string name="MA.Toxic_Cavern_Stone.01.Paragraph">Dieses Material befindet sich etwa 400 bis 700 Meter unter der Oberfläche. Der Block verursacht selbst keinen Giftschaden, obwohl die Kavernen, in denen Sie sie finden, mit giftigen Partikeln gefüllt sind. Kann im Backenbrecher zerkleinert werden, um möglicherweise nützliches Erz zu extrahieren. Der Block kann platziert werden.</string>
 <string name="MA.Ruby_Crystal.00.Title">Rubinkristall</string>
 <string name="MA.Ruby_Crystal.01.Paragraph">Ein Rubinkristall ist ein seltenes Material, das als Basiszutat für Upgrades verwendet wird. Es kann in Höhlen zwischen Tiefe -150 bis -225 gefunden werden.</string>
@@ -1510,13 +1510,13 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
 <string name="MA.Slime_Attractor.04.Left">Benötigt Kraft:
  Anforderungen:</string>
 <string name="MA.Slime_Attractor.05.Right">Nein
- Verwöhnte organische Überreste</string>
+ Verdorbene organische Überreste</string>
 <string name="MA.Slime_Attractor.07.Paragraph">* Schleimer werden gelegentlich aufgrund schlechten Pfades zur Falle oder eines schlechten Leich-Ortes steckenbleiben. Eine gut laufende Falle sollte Schleimer regelmäßig sterben lassen. Wenn das nicht der Fall ist, gehe herum und suche nach Krisenherden, wo sich Schleimer in Gruppen sammelt.</string>
 <string name="MA.Slime_Attractor.08.Paragraph">* Wie Spieler können Schleimer automatisch 1m Blockhöhen zurücklegen. Suchen Sie daher nach Hügeln und Tälern, hinter denen Schleimer stecken bleiben können, da es in den Höhen keinen glatten Übergang gibt. Wenn Sie versuchen, es für sie zu glätten. Wenn es ein großer Berg ist, kann oft ein einfacher Tunnel einen angemessenen Weg bieten. Außerdem können Schleimer in 1m hohen Räumen stecken bleiben. Wie Spieler benötigen sie 2m hohe Räume, um sich zu bewegen, also entweder die 1m hohen Lücken füllen (zuerst den Schleim mit der Waffe töten) oder einen 2m Raum ausgraben.</string>
 <string name="MA.Slime_Attractor.09.Paragraph">"* Versuchen Sie, Ihren Schleimer Attractor weit von Ihrer Basis zu bauen. Unterirdische Böden, die ausgegraben wurden, sowie Terrainschäden von SpiderBot können für Schleimer zu unerwarteten Geländekomplikationen führen. "</string>
 <string name="MA.Snow.01.Paragraph">Eine Mischung aus Dreck und Schnee, die auf dieser Welt allgegenwärtig ist.</string>
 <string name="MA.Soft_Resin.00.Title">Weiches Harz</string>
-<string name="MA.Soft_Resin.01.Paragraph">Weiches Harz scheint ein Nebenprodukt der Versuche von Overmind zu sein, den Zentraler Energie Verteiler zu erreichen. Es ist in der Regel diagonal von unserer Basis, auf der Oberfläche. Organisches Gestein ist hier reichlich vorhanden.</string>
+<string name="MA.Soft_Resin.01.Paragraph">Weiches Harz scheint ein Nebenprodukt der Versuche von Overmind zu sein, den Zentraler Energieverteiler zu erreichen. Es ist in der Regel diagonal von unserer Basis, auf der Oberfläche. Organisches Gestein ist hier reichlich vorhanden.</string>
 <string name="MA.Solar_Cell_MK1.00.Title">Solarzelle MK1</string>
 <string name="MA.Solar_Cell_MK1.01.Paragraph">Die MK1 Solarzelle ist eine der ersten Upgrades, die Sie erforschen, herstellen und anpassen sollten. Sie bietet deutlich mehr Stromerzeugung für den Gefahrenanzug auf der Planetenoberfläche.</string>
 <string name="MA.Solar_Panel.01.Paragraph">Solarmodule sind eine wartungsarme Quelle für erneuerbare Energie. Sie müssen mit direktem Zugang zum Himmel über ihnen platziert werden und werden nur während des Tages Strom erzeugen. Sie werden diese Energie an jede benachbarte Maschine, Stromspeicherblöcke oder Laser Power Transmitter verteilen.</string>
