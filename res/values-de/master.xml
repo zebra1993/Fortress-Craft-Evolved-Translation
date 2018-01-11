@@ -156,7 +156,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Join">Beitreten</string>
     <string name="Edit">Verändern</string>
     <string name="Delete">Löschen</string>
-    <string name="Add_New">Neu hinzufügen</string>
+    <string name="Add_New">Neu</string>
     <string name="Mods">Mods</string>
     <string name="Page">Seite</string>
 
@@ -1081,13 +1081,13 @@ Sehr Energie hungrig!</string>
     <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI Bewegungssteuerung</string><!-- Not optimal-->
     <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI-Roboter.\\nVerschiebt Erze zwischen Containern.\\nGeringer Aufwand, wenig Effizienz.</string>
-    <string name="Basic Matter Mover">Einfacher Massebeweger</string>
+    <string name="Basic Matter Mover">Einfacher Massetransmitter</string>
     <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Gegenstände/min auf 64m Entfernung.</string>
     <string name="Dual Matter Mover">Doppel-Massetransmitter</string>
     <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Gegenstände/min auf 32m Entfernung</string>
-    <string name="Quad Matter Mover">Quad Massetransmitter</string>
+    <string name="Quad Matter Mover">Vierfach-Massetransmitter</string>
     <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Gegenstände/min auf 16m Entfernung</string>
-    <string name="Multi Matter Mover">Multi Massetransmitter</string>
+    <string name="Multi Matter Mover">Multi-Massetransmitter</string>
     <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Gegenstände/min auf 4m Entfernung</string>
     <!--Ore smelters-->
     <string name="Ore Smelter">Erzschmelze</string>
@@ -1468,7 +1468,7 @@ Sehr Energie hungrig!</string>
     <string name="ConstructoBot Ironide Chassis Assembler_DESC">Baut Tier 2 (Ferrit) ConstructoBot-Gehäuse.</string>
     <string name="ConstructoBot Leg Assembler">ConstructoBot Beinmontage</string><!-- Not optimal-->
     <string name="ConstructoBot Leg Assembler_DESC">Baut Tier 0 (Coppator) ConstructoBot-Beine.</string>
-    <string name="ConstructoBot Arm Assembler">ConstructoBot Armmotnage</string><!-- Not optimal-->
+    <string name="ConstructoBot Arm Assembler">ConstructoBot Armmontage</string><!-- Not optimal-->
     <string name="ConstructoBot Arm Assembler_DESC">Baut Tier 0 (Coppator) ConstructoBot-Arme.</string>
 
     <string name="Blast Furnace">Hochofen</string>
@@ -2699,4 +2699,6 @@ Billig und hässlich, dafür verlässlich*
     <string name="Located">Located</string>
     <string name="If_you_can_read_this_I_messed_up">Wenn du dies lesen kannst hab ichs vergeigt</string>
   <string name="CE_Info">Hält die Ladung beim Abholen</string>
-    </resources>
+    <string name="Suit_Heater_Active">Anzugheizung: Aktiv</string>
+  <string name="Suit_Heater_Offline">Anzugheizung: Inaktiv</string>
+  </resources>
