@@ -2718,4 +2718,6 @@ Versuche, einen Giftfilter zu bauen!</string>
   <string name="Game_Loading">Ladevorgang</string>
 
 <string name="Loading">Ladevorgang</string>
-</resources>
+<string name="Last_Item">Zuletzt</string>
+<string name="Last_Item_X">Zuletzt: {0}</string>
+  </resources>
