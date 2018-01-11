@@ -1361,7 +1361,7 @@ Sehr Energie hungrig!</string>
     <string name="Threat Reducer_DESC">Reduziert wesentlich die Bedrohungsstufe.</string>
     <string name="Zipper Merge">1 zu 1 Mischer</string><!-- Not optimal-->
     <string name="Zipper Merge_DESC">Kombiniert 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</string>
-    <string name="3'n1 Zipper Merge">3 und 1 Mischer</string><!-- Not optimal-->
+    <string name="3'n1 Zipper Merge">3 in 1 Mischer</string><!-- Not optimal-->
     <string name="3'n1 Zipper Merge_DESC">Verbindet schnell 2 Linien zu 1 mit RRR L verhalten. Macht Forschungspod Montage zum Kinderpsiel!</string>
     <string name="Rapid Zipper Merge">Schneller 1 zu 1 Mischer</string><!-- Not optimal-->
     <string name="Rapid Zipper Merge_DESC">Kombiniert schnell 2 Linien zu 1 mit einem garantierten 50:50 Verhältniss.</string>
@@ -1874,7 +1874,7 @@ Nutze dies um deine Basis warm zu halten.</string>
     <string name="Motorised Conveyor_CRAFT_HINT">Braucht 5 Energie pro Gegenstand. Weg zeigend von Containern.</string>
     <string name="Zipper Merge_CRAFT_DESC">Führt zwei Förderbandlinien zu einer zusammen in einem garantierten 1:1 Verhältnis.</string>
     <string name="Zipper Merge_CRAFT_HINT">Förderbandlinie direkt anschließen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
-    <string name="Rapid Zipper Merge_CRAFT_DESC">Führt zwei Förderbandlinien zu einer zusammen in einem garantierten 1:1 Verhältnis. Ist jedoch um einiges schneller wie der normale Zipper Merge.</string>
+    <string name="Rapid Zipper Merge_CRAFT_DESC">Führt zwei Förderbandlinien zu einer zusammen in einem garantierten 1:1 Verhältnis. Ist jedoch um einiges schneller wie der normale 1:1 Mischer.</string>
     <string name="Rapid Zipper Merge_CRAFT_HINT">Förderbandlinien direkt anschliessen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
     <string name="3'n1 Zipper Merge_CRAFT_DESC">Führt schnell zwei Förderbandlinien in RRR L Reihenfolge. Macht die Forschungspod montage ein Kinderspiel!</string>
     <string name="3'n1 Zipper Merge_CRAFT_HINT">Förderbandlinien direkt anschliessen. Funktioniert nur, wenn beide Seite versorgt werden.</string>
