@@ -783,7 +783,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Neon Circuit">Neonschaltkreis</string>
     <string name="Neon Circuit_DESC">Neonschaltkreis</string>
     <string name="Neon Border">Neonkante</string>
-    <string name="Neon Border_DESC"/>
+    <string name="Neon Border_DESC">Neonkante</string>
     <string name="Neon Grid">Neon Gitter</string>
     <string name="Neon Grid_DESC">Neongitter</string>
     <string name="Neon Core">Neon Kern</string>
@@ -801,9 +801,9 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Reinforced Concrete Wall">Verstärkte Betonwand</string>
     <string name="Reinforced Concrete Wall_DESC">Verstärkte Betonwand. Sieht der normalen Betonwand ähnlich, hat die selbe Funktion, kostet dafür aber mehr.</string>
     <string name="Lava">Lava</string>
-    <string name="Lava_DESC"/>
+    <string name="Lava_DESC">Ist das heiß hier oder bin ich das?</string>
     <string name="Scorched Earth">Verbrannte Erde</string>
-    <string name="Scorched Earth_DESC"/>
+    <string name="Scorched Earth_DESC">Verbrannte Erde</string>
     <string name="Metal Siding 2">Metall Gehsteig 2</string>
     <string name="Metal Siding 2_DESC">Dies ist ein schöner Metalgehsteig, erhitzt sich in der wärme der Sonne. Bleib micht zu lange drauf stehn sonst schmilzt dein Anzug.</string>
     <string name="Construction Crate">Baurost</string>
@@ -1952,9 +1952,9 @@ Billig und hässlich, dafür verlässlich*
     <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Verbessert die Heizleistung des Anzugs um dich vor extremer Kälte zu schützen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Heater MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt.</string>
-    <string name="Suit Power Pack MK1_CRAFT_DESC">Verdoppelt die Anzugsenergiekapazität. Muss nur einmal im Inventar vorhanden sein.</string>
+    <string name="Suit Power Pack MK1_CRAFT_DESC">Verdoppelt die Energiekapazität Deines Anzugs. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Power Pack MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
-    <string name="Suit Power Pack MK2_CRAFT_DESC">Vervierfacht die Anzugsenergiekapazität. Muss nur einmal im Inventar vorhanden sein.</string>
+    <string name="Suit Power Pack MK2_CRAFT_DESC">Vervierfacht die Energiekapazität Deines Anzugs. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Power Pack MK2_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Verbindet alle Anzugsverbesserungen zu einer Alles in Einem (tm) Anzugsverbesserung. Perfekt.</string>
     <string name="MK1 Suit Upgrade Module_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
@@ -1962,11 +1962,11 @@ Billig und hässlich, dafür verlässlich*
     <string name="Suit Headlight MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Build Gun V2_CRAFT_DESC">Kann mehr Materialien abbauen wie das Standardbauwerkzeug. Kann zudem Erzschmelzen und Konstruktionsanlagen abbauen.</string>
     <string name="Build Gun V2_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
-    <string name="Build Gun V3_CRAFT_DESC">Dieses Monster schneidet durch harze Erze und kann grosse Flächen in einem einzigen Schritt entfernen.</string>
+    <string name="Build Gun V3_CRAFT_DESC">Dieses Monster schneidet durch harze Erze und kann große Flächen in einem einzigen Schritt entfernen.</string>
     <string name="Build Gun V3_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Toxic Particle Filter_CRAFT_DESC">Dieser Anzugsbestandteil erlaubt die Filterung von gefährlichen und halluzinationserzeugenden Gasen.</string>
     <string name="Toxic Particle Filter_CRAFT_HINT">Wird benötigt um die mit Giftsporen gefüllte Höhle zu durchqueren.</string>
-    <string name="Jet Pack_CRAFT_DESC">Nutzt Schubdüsen um Flüge über kurze Distanzen zu ermöglichen. Braucht grosse Mengen Energie. [J] drücken für De-/Aktivierung.</string>
+    <string name="Jet Pack_CRAFT_DESC">Nutzt Schubdüsen um Flüge über kurze Distanzen zu ermöglichen. Braucht große Mengen Energie. [J] drücken für De-/Aktivierung.</string>
     <string name="Jet Pack_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
 
     <string name="Spiderbot Base Component_CRAFT_DESC">Eine Installation wird fähig sein, den Spiderbot zu reparieren, verbessern und aufmunitionieren. Wird in einer 15x15 Platte aufgebaut (225 Blöcke insgesamt).</string>
