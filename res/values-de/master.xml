@@ -2720,4 +2720,6 @@ Versuche, einen Giftfilter zu bauen!</string>
 <string name="Loading">Ladevorgang</string>
 <string name="Last_Item">Zuletzt</string>
 <string name="Last_Item_X">Zuletzt: {0}</string>
-  </resources>
+  <string name="Disconnect_server">Verlasse den Server. Schönen Tag noch!</string>
+
+</resources>
