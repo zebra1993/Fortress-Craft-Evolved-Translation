@@ -1490,11 +1490,11 @@ Sehr Energie hungrig!</string>
     <string name="Laboratory Component_DESC">Führt automatisch Forschung durch. In einem 3x3x3 Würfel platzieren, um das Labor zu erzeugen. (27 Blöcke insgesamt benötigt)</string>
     <string name="Orbital Energy Transmitter Component">Orbitale Energie-Transmitter Komponente</string>
     <string name="Orbital Energy Transmitter Component_DESC">Wird genutzt um Energie ins All zu senden. Wird in einem 9x9 und 13 hohen Konstrukt aufgebaut um einen orbitalen Energieübertrager aufzubauen. (Insgesamt 1053 Blöcke benötigt)</string>
-    <string name="MK4 Battery Component">MK4 Batteriekomponente</string>
+    <string name="MK4 Battery Component">MK4 Energiespeicherkomponente</string>
     <string name="MK4 Battery Component_DESC">Wird ein einer 3x3x3 Konfiguration aufgebaut um einen großen Energiespeicher zu erhalten.(27 Blöcke benötigt)</string>
     <string name="Conduit">Leitung</string><!-- Not optimal-->
     <string name="Conduit_DESC">Verbindet Tier 4 Batterien auf einer Distanz von bis zu 128 Metern mit 10k EPS. Wird in einem 3x3x1 Aufbau an den Tier 4 Energiespeicher angebracht.</string>
-    <string name="MK5 Battery Component">MK5 Batteriekomponente</string>
+    <string name="MK5 Battery Component">MK5 Energiespeicherkomponente</string>
     <string name="MK5 Battery Component_DESC">Wird in einer 5x5 Konfiguration mit 9 Höhe aufgestellt um die grösste Speicherlösung für Energie darzustellen. (Insgesamt 225 Blöcke benötigt)</string>
     <string name="MK2 Solar Panel Component">MK2 Solarpanel Komponente</string>
     <string name="MK2 Solar Panel Component_DESC">Stelle das Solarpanel in einer 3x3 Grundplatte auf. Kann nur auf Hochstufigen Maschinen gebaut werden.</string>
