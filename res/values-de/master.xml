@@ -958,7 +958,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Electric Light">Elektrisches Licht</string>
     <string name="Electric Light_DESC">Elektrisches Licht welches Energie in Licht umwandelt. Kann umgestellt werden um die optimale Beleuchtungsumgebung zu bieten.</string>
     <string name="Fluid Magma">Flüssiges Magma</string>
-    <string name="Fluid Magma_DESC">Flüssige Magma fliesst immer zum tiefsten, erreichbaren Punkt. Wenn zuviel gleichzeitig in bewegung ist wird die Performance massiv eingeschränkt. (Keine Bomben in Lavaseen zünden!!)</string>
+    <string name="Fluid Magma_DESC">Flüssige Magma fließt immer zum tiefsten, erreichbaren Punkt. Wenn zuviel gleichzeitig in Bewegung ist, wird die Performance massiv eingeschränkt. (Keine Bomben in Lavaseen zünden!!)</string>
     <string name="Enriched Coal">Angereicherte Kohle</string>
     <string name="Enriched Coal_DESC">Angereicherte Kohle hat doppeltsoviel Brennwert wie einfache Kohle.</string>
     <string name="Infused Coal">Durchsetzte Kohle</string> <!-- Not optimal-->
