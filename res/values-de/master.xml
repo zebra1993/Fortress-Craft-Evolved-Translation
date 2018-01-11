@@ -1064,13 +1064,13 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.\\nLädt angrenzende Batterien.</string>
     <string name="Organic Solar Panel">Organisches Solarpanel</string>
     <string name="Organic Solar Panel_DESC">Generiert einen kleinen Teil Energie auch bei Nacht durch Sternenlicht.\\nLädt angrenzende Batterien.</string>
-    <string name="Basic Laser Energy Transmitter">Laserenergieübertrager MK0</string>
+    <string name="Basic Laser Energy Transmitter">Laser-Energietransmitter MK0</string>
     <string name="Basic Laser Energy Transmitter_DESC">Überträgt langsam Energie langsam auf Distanz.\\nMax Dist. 64.\\nMöglichst bald ersetzen.</string>
-    <string name="Laser Energy Transmitter MK1">Laserenergieübertrager MK1</string>
+    <string name="Laser Energy Transmitter MK1">Laser-Energietransmitter MK1</string>
     <string name="Laser Energy Transmitter MK1_DESC">Überträgt Energie auf Distanz.\\nMax Dist 64.\\nAuf Batterien richten.</string>
-    <string name="Laser Energy Transmitter MK2">Laserenergieübertrager MK2</string>
+    <string name="Laser Energy Transmitter MK2">Laser-Energietransmitter MK2</string>
     <string name="Laser Energy Transmitter MK2_DESC">Überträgt noch mehr Energie!</string>
-    <string name="Laser Energy Transmitter MK3">Laserenergieübertrager MK3</string>
+    <string name="Laser Energy Transmitter MK3">Laser-Energietransmitter MK3</string>
     <string name="Laser Energy Transmitter MK3_DESC">Größter Einblock Energieüberträger.</string>
     <string name="BFL-9000">BFL-9000</string><!-- BFL means Big Fu**ing laser what would be Scheiss grosser Laser "SGL" but i think BFL is just right :-) -->
     <string name="BFL-9000_DESC">Massiver Minen Laser.
@@ -2591,8 +2591,8 @@ Billig und hässlich, dafür verlässlich*
     <string name="OS_Output">Ausgang der Erzschmelze</string>
     <string name="Installed_Lift">eingesetzter Lift</string>
 
-    <string name="MISSION_(R)otate the LPT towards the PSB">D(R)ehe den Laserenergieübertrager in Richtung des Energiespeicherblocks!</string>
-    <string name="MISSION_Place Tutorial Laser Transmitter">Baue den Tutorial Laserenergieübertrager</string>
+    <string name="MISSION_(R)otate the LPT towards the PSB">D(R)ehe den Laser-Energietransmitter in Richtung des Energiespeicherblocks!</string>
+    <string name="MISSION_Place Tutorial Laser Transmitter">Baue den Tutorial Laser-Energietransmitter</string>
     <string name="MISSION_Place Tutorial Storage Hopper">Baue den Tutorial Lagercontainer</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Baue die Lagercontainer angrenzend an die Erzschmelze.</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">Setze den Lagercontainer an der Erzschmelze zu Nur Hinzufügen.</string>
@@ -2617,7 +2617,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Smelter starved of Oxygen">Erzschmelze ohne Sauerstoff!</string>
     <string name="MISSION_No ore extracted in the last minute">Kein Erz abgebaut in der letzten Minute!</string>
     <string name="MISSION_No bars smelted in the last minute">Keine Barren geschmolzen in der letzten Minute!</string>
-    <string name="MISSION_Build 8 Laser Power Transmitters">Baue 8 Laserenergieübertrager!</string>
+    <string name="MISSION_Build 8 Laser Power Transmitters">Baue 8 Laser-Energietransmitter!</string>
     <string name="MISSION_Fit Faster Motors to Ore Extractors">Rüste die Erzextraktoren mit schnelleren Motoren aus!</string>
     <string name="MISSION_CPH lacking resources">ZEV hat zu wenig Ressourcen!</string>
     <string name="MISSION_Build Ore Extractors">Baue Erzextraktoren!</string>
@@ -2665,7 +2665,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="MISSION_Locate Surface Organic Rock">Finde: Organischen Stein auf der Oberfläche.</string>
     <string name="MISSION_Critical Research Resin Handling">Kritische Forschung: Harzbearbeitung.</string>
     <string name="MISSION_Build a Hard Resin Detector">Baue einen Detektor für gehärtetes Harz.</string>
-    <string name="MISSION_Upgrade your LPTs with Lenses">Verbessere Deine Laserenergieübertrager mit Linsen</string>
+    <string name="MISSION_Upgrade your LPTs with Lenses">"Verbessere Deine Laser-Energietransmitter mit Linsen "</string>
     <string name="MISSION_Fit a Suit Heater">Rüste eine Anzugsheizung aus.</string>
     <string name="MISSION_Traverse the Cold Caverns">Durchquere die kalten Höhlen.</string>
     <string name="MISSION_Construct Cargo Lifts for T2 lifting">Baue Lastenaufzüge um T2 Erze zu fördern.</string>
@@ -2701,4 +2701,18 @@ Billig und hässlich, dafür verlässlich*
   <string name="CE_Info">Hält die Ladung beim Abholen</string>
     <string name="Suit_Heater_Active">Anzugheizung: Aktiv</string>
   <string name="Suit_Heater_Offline">Anzugheizung: Inaktiv</string>
+  <string name="CPH_Offline_defences_offline">ZEV Offline - Abwehr inaktiv.</string>
+
+<string name="Looking_in_attached_hopper">Durchsuche angrenzenden Container nach:</string>
+<string name="Mini_Hopper_Small_Very_Slow">Minicontainer (klein und sehr langsam)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Logistikcontainer (Klein und ziemlich langsam)</string>
+  <string name="Cryo_Hopper">Cryo Container</string>
+  <string name="Hopper_full">Container voll!</string>
+  <string name="Toxic_Filter_Active">Giftfilter: Aktiv</string>
+  <string name="Toxic_Filter_Offline">Giftfilter: Inaktiv</string>
+  <string name="Radiation_protection_Active">Strahlenschutz: Aktiv</string>
+  <string name="Radiation_protection_Offline">Strahlenschutz: Inaktiv</string>
+  
+<string name="Died_Toxic_Fumes_Try_Toxic_Filter">An Giftgas gestorben
+Versuche, einen Giftfilter zu bauen!</string>
   </resources>
