@@ -1946,7 +1946,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Liquid Resin Refiner_CRAFT_DESC">Raffiniert verflüssigtes Harz zu sehr nützlichem raffinierten Flüssigharz.</string>
     <string name="Liquid Resin Refiner_CRAFT_HINT">Benutzt in einigen hochstufigen organischen Rezepten.</string>
     <string name="Hydrojet Cutter_CRAFT_DESC">Verbesserungsmodul für die Konstruktionsanlage, welches erlaubt Anzugsverbesserungen herzustellen. Muss AUF der Konstruktionsanlage platziert werden.</string>
-    <string name="Hydrojet Cutter_CRAFT_HINT">MUSS auf der Konstruktionsanlage platziert werden!</string>
+    <string name="Hydrojet Cutter_CRAFT_HINT">MUSS auf der Konstruktionsanlage platziert werden.</string>
     <!--Suit upgrades-->
     <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpaneelen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
@@ -2720,6 +2720,12 @@ Versuche, einen Giftfilter zu bauen!</string>
 <string name="Loading">Ladevorgang</string>
 <string name="Last_Item">Zuletzt</string>
 <string name="Last_Item_X">Zuletzt: {0}</string>
-  <string name="Disconnect_server">Verlasse den Server. Schönen Tag noch!</string>
+  <string name="Disconnect_server">Verlasse den Server.
+Schönen Tag noch!</string>
 
+<string name="Done_Exit">Fertig, verlasse das Spiel.
+Schönen Tag noch!</string>
+<string name="Exiting">Und Tschüss!</string>
+<string name="Entering">Beitritt</string>
+  
 </resources>
