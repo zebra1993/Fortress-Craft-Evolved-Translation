@@ -2786,8 +2786,8 @@
 <string name="Demolition_Man_DESC">用TNT炸掉超过100万个方块</string>
 <string name="Lazy_Tourist">懒人</string>
 <string name="Lazy_Tourist_DESC">在传送带上移动超过1km</string>
-<string name="Fresh_Air_Is_Overrated_DESC">肝6小时以上</string>
-<string name="Fresh_Air_Is_Overrated">新鲜空气不过如此</string>
+<string name="Fresh_Air_Is_Overrated_DESC">干6小时以上</string>
+<string name="Fresh_Air_Is_Overrated">新鲜的空气被评价过高</string>
 <string name="Working_Class">工人阶级</string>
 <string name="Working_Class_DESC">在别人的世界里放置超过100个方块</string>
 <string name="Big_Version_Little_Version_DESC">放置自定义块</string>
@@ -2844,23 +2844,23 @@
 <string name="Huge">巨大</string>
 <string name="Giant">庞大</string>
 <string name="Enormous">极大</string>
-<string name="Sluggishness">低迷</string>
-<string name="Rapidity">快速性</string>
+<string name="Sluggishness">偷懒</string>
+<string name="Rapidity">迅速</string>
 <string name="Alacrity">敏捷</string>
 <string name="Hastiness">匆忙</string>
-<string name="Celerity">迅捷</string>
+<string name="Celerity">敏捷</string>
 <string name="Patience">耐心</string>
 <string name="Languidity">疲软</string>
-<string name="battery_of">的电池</string>
-<string name="Clip_of">的弹夹</string>
+<string name="battery_of">电池的</string>
+<string name="Clip_of">修剪</string>
 
-<string name="Arther_hint_0">你必须建造额外的塔架！</string>
-<string name="Arther_hint_1">楼梯？NOOOOOOOOOOOOOOOOOOO！</string>
-<string name="Arther_hint_2">剿灭！</string>
-<string name="Arther_hint_3">我想你应该知道我感到很郁闷。</string>
-<string name="Arther_hint_4">转换，发射！</string>
-<string name="Arther_hint_5">奴才，这边走！</string>
-<string name="Arther_hint_6">失望透顶！</string>
+<string name="Arther_hint_0">你一定构造另外派龙！</string>
+<string name="Arther_hint_1">楼梯？nooooooooooooooooooo！</string>
+<string name="Arther_hint_2">消灭！</string>
+<string name="Arther_hint_3">我想你应该知道我很沮丧。</string>
+<string name="Arther_hint_4">变换转出！</string>
+<string name="Arther_hint_5">这样，爪牙！</string>
+<string name="Arther_hint_6">失意的！</string>
 <string name="Arther_hint_7">Klaatu Barada Nikto！</string>
 <string name="Arther_hint_8">或者我们可以用传送器？</string>
 <string name="Arther_hint_9">第一定律失效。</string>
@@ -3017,14 +3017,14 @@
 <string name="ConstructoBot Coppator Arm">构造校对机器人的手臂</string>
 <string name="ConstructoBot Coppator Leg">构造校对机器人的大腿</string>
 <string name="ConstructoBot Ultron Chassis">构造超能机器人的底盘</string>
-<string name="ConstructoBot Cromize Chassis">建造机器人Cromize机壳</string>
-<string name="ConstructoBot Stenforcer Chassis">建造机器人Stenforcer机壳</string>
-<string name="ConstructoBot Titaniux Chassis">建造机器人Titaniux机壳</string>
-<string name="ConstructoBot Rosteeld Chassis">建造机器人Rosteeld机壳</string>
-<string name="ConstructoBot Goldenrod Chassis">建造机器人Goldenrod机壳</string>
-<string name="ConstructoBot Ironide Chassis">建造机器人Ironide机壳</string>
-<string name="ConstructoBot Tindron Chassis">建造机器人Tindron机壳</string>
-<string name="ConstructoBot Bronzite Chassis">建造机器人Bronzite 机壳</string>
+<string name="ConstructoBot Cromize Chassis">constructobot cromize底盘</string>
+<string name="ConstructoBot Stenforcer Chassis">constructobot stenforcer底盘</string>
+<string name="ConstructoBot Titaniux Chassis">constructobot titaniux底盘</string>
+<string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld 底盘</string>
+<string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldenrod 底盘</string>
+<string name="ConstructoBot Ironide Chassis">ConstructoBot Ironide 底盘</string>
+<string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron 底盘</string>
+<string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzite 底盘</string>
 
 
 <string name="Cargo_Lift_Controller">货梯控制器</string>
@@ -3042,7 +3042,7 @@
 <string name="Cargo">货物</string>
 
 <string name="Check_Rail">检查轨道</string>
-<string name="Shaft_depth">矿井深度</string>
+<string name="Shaft_depth">竖井深度</string>
 <string name="No_lift_deployed">无电梯部署</string>
 <string name="Depth">深度</string>
 <string name="Orders">订单</string>
@@ -3159,7 +3159,7 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="View_Log">查看日志</string>
 <string name="Ignore">无视</string>
 
-<string name="CryoPlasm_Lancer">低温等离子枪骑兵</string>
+<string name="CryoPlasm_Lancer">cryoplasm蓝瑟</string>
 <string name="CryoPlasm_Melter">低温等离子熔炉</string>
 <string name="C5_Offline_defences_offline">C5 离线 - 防御离线。</string>
 <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">清除完成！没有CryoPlasm可射击。重新扫描即将...</string>
@@ -3175,7 +3175,7 @@ ARTHER现在将介绍你的基地的一些功能。
 
 <string name="C5_Spawning">C5 Spawning（产卵中？）</string>
 <string name="PeakBuilds">PeakBuilds</string>
-<string name="Use_Freezon_Injector_supercharge_Lancer">使用Freezon喷油器增压这Lancer。</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">使用Freezon Injector增压器这枪骑兵。</string>
 <string name="Melted">融化的</string>
 <string name="s_since_last_firing">S 自上次射击以来。</string>
 <string name="Scan_Size">扫描尺寸</string>
@@ -3223,7 +3223,7 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Sloth">树獭</string>
 <string name="Snail">蜗牛</string>
 <string name="Firing_Mech_of_the">"射击的机甲 "</string>
-<string name="The"/>
+<string name="The">"这个 "</string>
 
 <string name="Unable_locate_Hopper">无法找到Hopper</string>
 <string name="Unable_locate_Freezon_Gas_hopper">无法找到料斗中的Freezon气体</string>
@@ -3404,4 +3404,40 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Total_Storage">总储量</string>
 <string name="E_Stack_Height">（E）堆叠高度</string>
 <string name="Crate_no_centre">箱子没有中心！</string>
+<string name="players_in_game_using_up">玩家在游戏中使用</string>
+<string name="Bars">酒吧</string>
+<string name="Bar">酒吧</string>
+<string name="Shadows_can_slow">阴影可能很慢</string>
+<string name="Soft_Shadows_very_slow">柔和的阴影很慢——很少使用</string>
+<string name="Crate_no_connected_crates">板条箱没有连接的板条箱！</string>
+<string name="or">或</string>
+<string name="Stack">堆栈</string>
+<string name="Crates">包装箱</string>
+<string name="Empty">空</string>
+<string name="item">项目</string>
+  
+<string name="Transfers_stack_of_up_to">传输堆栈</string>
+<string name="items_into_storage">物品入库</string>
+<string name="per_minute">每分钟</string>
+<string name="Utilisation">利用</string>
+<string name="No_storage_attached">没有存储连接</string>
+<string name="Idle">闲置</string>
+<string name="Receiving_items">接收的物品</string>
+<string name="Searching_for_storage_space">搜索存储空间</string>
+<string name="Sending_drone">派遣无人机</string>
+<string name="Retrieving_drone">回收无人机</string>
+
+<string name="MS_MM_I_O_Port">大容量存储器</string>
+<string name="Unable_locate_attached_MS_Plate">无法找到附加的海量存储板</string>
+<string name="No_Centre_Crate_found">没有找到中间板条箱</string>
+<string name="No_MS_Controller_found">没有找到大容量存储控制器！</string>
+<string name="Controller_Power">目前输出</string>  
+  
+<string name="Currently_outputting">控制器的功率</string>
+<string name="Select_item_in_Hotbar_to_use_as_Exemplar">选择在你的快捷栏使用的条目为例</string>
+<string name="Press_E_to_clear_Output_Port">按E清除输出端口</string>
+<string name="Press_E_to_set_Output_to">按E设置输出到</string>
+<string name="Dropping_off">脱落</string>
+  
+<string name="Trencher_Drill">挖沟机钻</string>
 </resources>
