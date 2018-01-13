@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AV.Advanced_Defence.Title">Defesa Avançada</string>
+<string name="AV.Advanced_Defence.00.Title">Defesa avançada</string>
+<string name="AV.Advanced_Defence.01.Paragraph">Nós precisamos construir mais defesas para parar ameaças maiores!</string>
+<string name="AV.Advanced_Logistics.Title">Logísticas Avançadas</string>
+<string name="AV.Advanced_Logistics.00.Title">Logísticas Avançadas</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Melhorias de Mineração Avançada</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">Melhorias de Mineração Avançada</string>
+<string name="AV.Advanced_Power_Grid.Title">Energia Avançada</string>
+<string name="AV.Advanced_Power_Grid.00.Title">Energia Avançada</string>
+</resources>
