@@ -3440,4 +3440,31 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Dropping_off">脱落</string>
   
 <string name="Trencher_Drill">挖沟机钻</string>
-</resources>
+<string name="No_Ore_Found">没有找到矿石</string>
+<string name="Clearing">清理中</string>
+<string name="Scanning">扫描中</string>
+<string name="Idling">空闲中</string>
+
+<string name="Arther_Sign_Press_H">按 H！</string>
+
+<string name="Vein_Cleared">矿脉清除！</string>
+  
+<string name="Drill_state">钻头状态</string>
+<string name="Ore_stored">存储的矿石</string>
+<string name="Drill_utilisation">钻头利用率</string>
+<string name="per_haul">每次运输</string>
+<string name="No_ore_found_for_drilling">没有可挖的矿</string>
+<string name="Out_of_Power_Restarting_at">没电了。重启于</string>
+<string name="stored_power">存储的能量</string>
+<string name="Unconnected_Trencher_Motor">未连接</string>
+  
+<string name="OET_Strike_requested_Quadrant_X">轨道轰炸请求于象限{0}</string>
+<string name="Quadrant">象限</string>
+<string name="has_been_cleared">已被清理！</string>
+  <string name="Quadrant_X_has_been_cleared">象限{0}已被清除！</string>
+  
+<string name="This">这个</string>
+<string name="server_side_mod_is_running">服务器端mod正在运行</string>
+  <string name="This_X_server_side_mod_is_runing">该 {0} 服务器端mod正在运行</string>
+<string name="mod_required_on_server">该服务器需要mod</string>
+  </resources>
