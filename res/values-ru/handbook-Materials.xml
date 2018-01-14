@@ -121,7 +121,7 @@
  "</string>
 <string name="MA.BasicCargoLift.04.Right">"Неограниченно
   5 м/с
-  0,5 м/с^2
+  0,5 м/с²
   300
   35 Э/с
  "</string>
@@ -664,7 +664,7 @@
  "</string>
 <string name="MA.BasicMinecart.04.Right">1 м/с
  25
- 0.5 м/с^2
+ 0.5 м/с²
  16
  15 сек</string>
 <string name="MA.Jet_Turbine_Generator_Intake.00.Title">Входной патрубок Газотурбинного Генератора</string>
@@ -731,7 +731,7 @@
  "</string>
 <string name="MA.BulkCargoLift.04.Right">"Неограниченно
  15 м/с
- 0,5 м/с^2
+ 0,5 м/с²
  3000
  850 Э/c
  "</string>
@@ -745,7 +745,7 @@
  "</string>
 <string name="MA.BulkMinecart.04.Right">"2 м/с
  50
- 1.0 м/с^2
+ 1.0 м/с²
  "</string>
 <string name="MA.BulkMinecart.08.Title">Продвинутое управление вагонеткой</string>
 <string name="MA.Emerald_Focusing_Lens.04.Right">130%</string>
@@ -772,7 +772,7 @@
  "</string>
 <string name="MA.FastMinecart.04.Right">2 м/с
  25
- 1,0 м/с^2
+ 1,0 м/с²
  16
  15 секунд</string>
 <string name="MA.Forced_Induction.05.Right">200%
@@ -1433,7 +1433,7 @@
  "</string>
 <string name="MA.ImprovedCargoLift.04.Right">"Неограниченно
  10 м/с
- 0,5 м/с^2
+ 0,5 м/с²
  1000
  250 Э/с
  "</string>
@@ -1480,7 +1480,7 @@
  "</string>
 <string name="MA.LargeMinecart.04.Right">"1 м/с
  50
- 0.5 м/с^2
+ 0.5 м/с²
  "</string>
 <string name="MA.Lift_Compressor.01.Paragraph">Присоедините к основанию поршня Лифта, чтобы повысить скорость, с которой восстанавливается объём газа в поршне, что важно для часто используемых Лифтов. Этот Компрессор должен быть запитан от внешнего источника питания. Чтобы достичь максимальной высоты в 256 метров, установите два компрессора.</string>
 <string name="MA.Lift_Compressor.03.Left">Восстановление газа:
@@ -1534,7 +1534,7 @@
  "</string>
 <string name="MA.MinecartTurboRail.04.Right">1 м/с
  25
- 0.5 м/с^2
+ 0.5 м/с²
  16
  15 Секунд</string>
 <string name="MA.Missile_Turret_MK1.04.Right">64 м
