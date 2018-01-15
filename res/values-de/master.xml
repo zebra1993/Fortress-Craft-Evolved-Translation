@@ -1965,7 +1965,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Build Gun V3_CRAFT_DESC">Dieses Monster schneidet durch harze Erze und kann große Flächen in einem einzigen Schritt entfernen.</string>
     <string name="Build Gun V3_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Toxic Particle Filter_CRAFT_DESC">Dieser Anzugsbestandteil erlaubt die Filterung von gefährlichen und halluzinationserzeugenden Gasen.</string>
-    <string name="Toxic Particle Filter_CRAFT_HINT">Wird benötigt um die mit Giftsporen gefüllte Höhle zu durchqueren.</string>
+    <string name="Toxic Particle Filter_CRAFT_HINT">Wird benötigt um die mit Giftsporen gefüllte Höhle zu durchqueren</string>
     <string name="Jet Pack_CRAFT_DESC">Nutzt Schubdüsen um Flüge über kurze Distanzen zu ermöglichen. Braucht große Mengen Energie. [J] drücken für De-/Aktivierung.</string>
     <string name="Jet Pack_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
 
@@ -1973,7 +1973,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Spiderbot Base Component_CRAFT_HINT">Die Automation der Spiderbotenergiekerne wird dein Leben massivst vereinfachen!</string>
     <string name="SpiderBot Blaster_CRAFT_DESC">Schnellfeuernde Energiewaffe, jedoch wenig Durchschlagskraft. Ideal für kleine bis mittlere Ziele.</string>
     <string name="SpiderBot Blaster_CRAFT_HINT">Wenn fertiggestellt, in Container legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</string>
-    <string name="SpiderBot Cannon_CRAFT_DESC">Langsam feuernde aber mit grossen Umfeldschaden wirkende Kanone. Kann hohe wie auch niedrige Ziele erfassen, Spezialisiert auf mittelgrosse Ziele.</string>
+    <string name="SpiderBot Cannon_CRAFT_DESC">Langsam feuernde aber mit großem Umfeldschaden wirkende Kanone. Kann hohe wie auch niedrige Ziele erfassen, Spezialisiert auf mittelgrosse Ziele.</string>
     <string name="SpiderBot Cannon_CRAFT_HINT">Wenn fertiggestellt, in Container legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</string>
     <string name="SpiderBot Particle Rifle_CRAFT_DESC">Schnellfeuernde, schultermontierte Energiewaffe. Ideal um auch die grössten Ziele aus dem Himmel zu holen.</string>
     <string name="SpiderBot Particle Rifle_CRAFT_HINT">Wenn fertiggestellt, in Container legen der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</string>
@@ -2007,7 +2007,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Hiemal Block Assembler_CRAFT_HINT">Kann auch zu Bauzwecken verwendet werden.</string>
     <string name="Refinery Controller_CRAFT_DESC">Verarbeitet Biomasse zu nutzvolle Produkte. Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren. Siehe Handbuch für weitere Informationen.</string>
     <string name="Refinery Controller_CRAFT_HINT">Muss an einen Raffineriereaktorkessel angebracht sein um zu funktionieren.</string>
-    <string name="Refinery Reactor Vat Component_CRAFT_DESC">Raffineriereaktorkesselkomponente. Wird in einem 3x3x3 Würfel aufgzbaut (27 Blöcke insgesamt). Es muss eine Raffineriekontrolleinheit angebracht werden.</string>
+    <string name="Refinery Reactor Vat Component_CRAFT_DESC">Raffineriereaktorkesselkomponente. Wird in einem 3x3x3 Würfel aufgebaut (27 Blöcke insgesamt). Es muss eine Raffineriekontrolleinheit angebracht werden.</string>
     <string name="Refinery Reactor Vat Component_CRAFT_HINT">Wird in einem 3x3x3 Würfel aufgebaut um einen Reaktorkessel zu formen.</string>
     <string name="Jet Turbine Generator Housing_CRAFT_DESC">Gehäusebestandteil für Turbinen. Verbrennt Hochenergietreibstoff um eine Turbine anzutreiben und um viel Energie zu produzieren. Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lufteinlass an Front montieren.</string>
     <string name="Jet Turbine Generator Housing_CRAFT_HINT">Wird in einer 3x4 Platte mit 3 Höhe gebaut. Lufteinlass an Front montieren.</string>
@@ -2073,7 +2073,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Crystal Cutter Head_CRAFT_DESC">In Erzförderer einfügen, um die Fördereffizienz auf 30% zu erhöhen. Verbraucht sich langsam. Erlaubt es zudem härtere Materialien zu fördern.</string>
     <string name="Crystal Cutter Head_CRAFT_HINT">Der Kristallkopf ist effizienter, verbraucht sich aber schneller.</string>
     <string name="Organic Cutter Head_CRAFT_DESC">In Erzförderer einfügen, um die Fördereffizienz auf 50% zu erhöhen. Verbraucht sich langsam. Erlaubt es zudem härtere Materialien zu fördern.</string>
-    <string name="Organic Cutter Head_CRAFT_HINT">Der Organische Kopf ist effizienter, verbraucht sich aber schneller.</string>
+    <string name="Organic Cutter Head_CRAFT_HINT">Der organische Kopf ist effizienter, verbraucht sich aber schneller.</string>
     <!--Lenses-->
     <string name="Diamond Focusing Lens_CRAFT_DESC">In Laserenergieüberträger einfügen, um Geschwindigkeit um 15% zu erhöhen.</string>
     <string name="Diamond Focusing Lens_CRAFT_HINT">Erhöht Laserübertragungsgeschwindigkeit um 15%</string>
