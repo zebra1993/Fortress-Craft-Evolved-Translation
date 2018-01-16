@@ -3026,4 +3026,28 @@
   <string name="Jump_Speed_set_to_X">Скорость прыжка установлена на {0}</string>
   
 <string name="If_you_can_read_this_I_messed_up">Если вы это прочли, значит я где-то напортачил</string>
+  <string name="Mutator_OSHA_Active">Всё... ВСЁ опасно. Держитесь подальше.</string>
+<string name="Mutator_OSHA_Not_Active">И снова подвижные части оборудования никому не угрожают!</string>
+<string name="Mutator_AllOre_Active">Булыжники, Грязь и Камень - теперь руда. И это не так круто, как кажется.</string>
+<string name="Mutator_AllOre_Not_Active">В наличии появилось разумное количество Руды.</string>
+<string name="Mutator_SkyIslands_Active">Небесные Острова активны. Несовместимо с обычным Выживанием.</string>
+<string name="Mutator_SkyIslands_Not_Active">Небесные Острова неактивны.</string>
+<string name="Mutator_AggroMobs_Active">Теперь враги атакуют незамедлительно. Турели усовершенствованы.</string>
+<string name="Mutator_AggroMobs_Not_Active">Враги будут делать вид, что они вас не замечают.</string>
+<string name="Unknown_material_Power_required_to_research_X">Неизвестный материал. 
+Энергия необходимая для исследования : {0}</string>
+  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Обрабатывайте Сканы, чтобы открыть новые возможности исследований и рецепты производства</string>
+  <string name="Workshop_deleted">Мастерская удалена</string>
+  
+<string name="Gravity_X">Гравитация: {0}</string>
+  <string name="Movement_Speed_X">Скорость перемещения: {0}</string>
+  <string name="Maximum_Fall_Speed_X">Макс. скорость падения: {0}</string>
+  <string name="Jump_Speed_X">Скорость прыжка: {0}</string>
+  <string name="usage_X_gravity_amount">применение: {0} \'величина гравитации\'</string>
+  <string name="Gravity_set_to_X">Гравитация установлена на {0}</string>
+  <string name="Could_not_parse_X">Невозможно интерпретировать данные</string>
+  <string name="usage_X_speed_amount">применение: {0} \'величина скорости\'</string>
+  <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
+  <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
+  <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
   </resources>
