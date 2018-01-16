@@ -3057,4 +3057,162 @@
 <string name="Mutator_LucrativeMobs_Not_Active">Дроп с врагов теперь всегда полезный.</string>
 <string name="Mutator_RoboMania_Active">Вся логистика, кроме роботов, сверх-усовершенствована.</string>
 <string name="Mutator_RoboMania_Not_Active">Но, вы знаете, роботы - тоже ничего.</string>
+<string name="None_Infested">Заражения нет</string>
+<string name="Go_deeper_Traverse_the_CC">Спускайтесь глубже, исследуйте Холодные Пещеры.</string>
+<string name="Attached_to">Подсоединение к</string>
+<string name="Smelting_time">Время плавки</string>
+
+<string name="currently_in_inventory">есть в инвентаре</string>
+<string name="This_requires">Необходимо</string>
+<string name="Crafting_Queue">Очередь изготовления</string>
+<string name="Automation">Автоматизация</string>
+
+<string name="Craft">Изготовить</string>
+<string name="Craft_x25">Изготовить х25</string>
+<string name="Select_Recipe">Выбрать рецепт</string>
+<string name="Dapper_DLC_not_present">Нет Щёгольского комплекта (Dapper DLC)</string>
+<string name="Inventory_full">Инвентарь переполнен!</string>
+<string name="Crafted_a">"Вы изготовили "</string>
+<string name="No_Lens">Нет линзы</string>
+
+<string name="CPH_Offline_defences_offline">ЦЭК выключен - оборона отключена.</string>
+
+<string name="Snail">Улиточка</string>
+<string name="Unable_locate_Hopper">Бункер не обнаружен</string>
+<string name="Crafted">Изготовлено</string>
+<string name="No_contextual_help_available_at_the_current_time">В данном случае контекстной помощи нет.</string>
+<string name="Materials">Материалы</string>
+<string name="Ores">Руды</string>
+<string name="Crafting_Ingredients">Ингредиенты</string>
+<string name="Machines">Оборудование</string>
+<string name="Suit_Upgrades">Примочки костюма</string>
+<string name="ARTHER_Upgrades">Навороты АРЧЕРа</string>
+<string name="Machine_Upgrades">Усовершенствования оборудования</string>
+<string name="Available_Projects">Доступные проекты</string>
+<string name="Completed_Research">Завершенные исследования</string>
+<string name="Laboratory_recipe">Рецепт Лаборатории</string>
+<string name="Unlocked_Recipes">Открытые рецепты</string>
+<string name="Holobase_active">Голобаза V1.337 активирована!</string>
+<string name="Bars">Слитков</string>
+<string name="Bar">Слиток</string>
+<string name="Power_Sec">Э/с</string>
+<string name="Total">Всего</string>
+<string name="InvStat_Health">Здоровье продлевает жизнь</string>
+<string name="Cancel">Отмена</string>
+<string name="Okay">ОК</string>
+<string name="No_Ore_Found">Руда не обнаружена</string>
+<string name="Clearing">Очистка</string>
+<string name="Scanning">Сканирование</string>
+<string name="Idling">Простаивает</string>
+
+<string name="Arther_Sign_Press_H">Нажмите \'H\' !</string>
+
+<string name="Vein_Cleared">Жила очищена!</string>
+  
+<string name="Drill_state">Состояние бура</string>
+<string name="Ore_stored">Руды накоплено</string>
+<string name="No_ore_found_for_drilling">Руда не обнаружена</string>
+<string name="Out_of_Power_Restarting_at">Нет энергии. Перезагрузка через</string>
+<string name="stored_power">ед. энергии</string>
+<string name="Quadrant">Квадрант</string>
+<string name="has_been_cleared">был очищен!</string>
+  <string name="Quadrant_X_has_been_cleared">Квадрант {0} очищен!</string>
+  
+<string name="This">Это</string>
+<string name="Install">Установить</string>
+<string name="This_mod_contains_third_party_code_which_could_be_unsafe">В этом моде присутствует программный код третьей стороны, что может быть небезопасно. ProjectorGames и Digital Tribe не несут ответственность за последствия запуска этого кода.
+
+
+Для этого мода подтверждение больше не будет запрашиваться.</string>
+<string name="Enable">Вкл.</string>
+<string name="Disable">Выкл.</string>
+  
+<string name="Tutorial_not_complete">Обучение не окончено!</string>
+<string name="You_need_complete_tutorial_before_hosting_multiplayer">Чтобы запустить Многопользовательский Мир вы сначала должны завершить обучение.</string>
+<string name="Good_plan">Хороший план!</string>
+  
+<string name="Mutator_HardcoreInv_Active">Для всех предметов в вашем инвентаре установлено ограничение количества в стопке.</string>
+<string name="Mutator_HardcoreInv_Not_Active">Мы учли ваши горькие слёзы.</string>
+<string name="Mutator_ImportantCPH_Active">Ваш ЦЭП теперь супер-пупер важен. Берегите его, иначе познаете бездну страданий.</string>
+<string name="Mutator_ImportantCPH_Not_Active">Нет штрафов при уничтожении ЦЭП.</string>
+
+<string name="Analysing_area">Анализирую область...</string>
+  <string name="Activation_in">Активация через</string>
+  <string name="DESTROY_NOW_CANCEL">ОТМЕНИТЬ МОЖНО ТОЛЬКО УНИЧТОЖИВ!</string>
+  
+<string name="Bye">Пока</string>
+  <string name="Connecting">Соединение</string>
+  <string name="Connecting_to_server_at">Соединение с сервером</string>
+  <string name="Disconnected">Соединение прервано</string>
+  <string name="No_longer_connected">Уже нет соединения</string>
+  <string name="Not_Connected">Нет соединения</string>
+  <string name="Could_not_reach_server">Не могу достучаться до сервера</string>
+  <string name="Exception_network_thread">Исключение в сетевом потоке</string>
+  
+<string name="You_need_own_FF_DLC_access_skin">Для доступа к этой раскраске необходимо приобрести Морозную Фабрику!</string>
+  <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">Необходимы ВСЕ DLC и дополнения для доступа к этой раскраске!</string>
+  <string name="User_was_missing">Пользователя не было</string>
+  <string name="See_Patreon_for_details">Подробности на http://www.patreon.com/Fortresscraft !</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Вам нужен Щегольский комплект, чтобы заиметь раскраску \'Флаг Великобритании\'!</string>
+  <string name="You_need_Skin_Pack_1_access_skin">Необходим Skin Pack #1 для доступа к этой раскраске!</string>
+  <string name="You_need_CRP_fo_this_see_Patreon_details">Чтобы обладать этим, вам нужен комплект \'Благодарность Сообществу\' (Community Rewards Pack)! (См. http://www.patreon.com/Fortresscraft)</string>
+  <string name="Only_good_boys_girls_this_skin">Только хорошим мальчикам и девочкам доступна такая раскраска!</string>
+  <string name="You_need_Skin_Pack_2_access_skin">Необходим Skin Pack #2 для доступа к этой раскраске!</string>
+  
+<string name="Tutorial_Complete">Обучение завершено!</string>
+  <string name="If_stuck_Press_H_for_help">Если застряли, нажмите \'H\', чтобы получить помощь!</string>
+  <string name="Tutorial_in_progress">Идёт обучение</string>
+  <string name="CPH_is_focus_of_base">Центральный Энергетический Концентратор (ЦЭК) - это ядро вашей базы.</string>
+  <string name="PSB_are_main_method_storing_power">Блоки Энергохранилищ - основное оборудование хранения энергии.</string>
+  <string name="OE_collect_resources_automatically">Экстракторы Руды автоматически добывают руду.</string>
+  <string name="SH_automate_resource_handling">Бункеры помогают автоматизировать подачу и выгрузку ресурсов и предметов</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Если поблизости нет ничего полезного, щёлкните ЛКМ для Поиска Неизвестного!</string>
+  <string name="Researching_Scans_gives_RP">Исследовательские Сканы дают вам Очки исследований</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Почините АРЧЕРа, вашего робота-помощника, произведя необходимое на Заводе!</string>
+  <string name="Look_at_CPH_press_E">Наведитесь на ЦЭК и нажмите E !</string>
+  <string name="Charge_suit_from_PSB">Зарядите костюм от Энергохранилища!</string>
+  <string name="Add_200_power_to_OE">Передайте не менее 200 ед. энергии в Экстрактор Руды</string>
+  <string name="Collect_Coal_from_Hopper">Заберите Уголь из Бункера!</string>
+  <string name="Hold_RMB_Scan_something">Нажмите ПКМ для сканирования!</string>
+  <string name="Research_new_scan">Изучите ваш новый Скан!</string>
+  <string name="Craft_Power_Core">Создайте Силовое Ядро!</string>
+  <string name="CPH_Rebooting">ЦЭК перезагружается</string>
+  <string name="Killed">Убито</string>
+  <string name="attackers">атакующих!</string>
+  <string name="CPH_Health">Здоровье ЦЭК</string>
+  <string name="Converting_world_wait">Идёт преобразование мира. Пожалуйста, подождите!</string>
+  
+<string name="Placed_in_Quadrant">Размещён в Квадранте</string>
+  <string name="Current_Quadrant_already_cleared">Текущий квадрант очищен!</string>
+  <string name="Current_Quadrant_has_Overmind">В текущем квадранте присутствует Сверхразум!</string>
+  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">Активация невозможна, слишком близко к ЦЭК. Переместитесь в сторону верной цели.</string>
+  <string name="Looking_for_OET">Поиск Орбитального Передатчика...</string>
+  <string name="Scan_complete">Сканирование завершено.</string>
+  <string name="Orbital_Bombardment_requested">Запрошена Орбитальная Бомбардировка</string>
+  <string name="You_should_probably_run_away_now">Теперь вам, пожалуй, следовало бы убежать. Есть даже специальное достижение, если вы не будете смотреть на удар!</string>
+  <string name="Press_E_blow_up_everything_within_very_big_range">Нажмите E, чтобы взорвать всё тут к чертям собачьим</string>
+  <string name="NO_OVERMIND_DETECTED">Сверхразумы не обнаружены!</string>
+  <string name="Press_E_confirm_Strike_Location">Нажмите E, чтобы подтвердить место удара.</string>
+  <string name="destruction_chance">вероятность уничтожения</string>
+  
+<string name="Upgraded">Усовершенствовано!</string>
+  
+<string name="Hopper_Scanner">Сканер Бункера</string>
+  <string name="Other">Прочее</string>
+  <string name="Unknown_Ore">Неизвестная Руда</string>
+  <string name="Unknown_Material">Неизвестный Материал</string>
+  <string name="Closest">Ближайший</string>
+  <string name="Press_X_for_Build_Gun">Нажмите X для выбора Строительной Пушки</string>
+  <string name="Wheelmouse_to_Select">Колесо мыши для Выбора</string>  
+  <string name="Ping_Unknown">Поиск Неизвестного</string>
+  <string name="Ping_Known_Ore">Поиск известной руды</string>
+  <string name="Ping_Air">Поиск воздуха</string>
+  <string name="Ping_Coloured_Ore">Поиск меченой руды</string>
+  <string name="NO_POWER">НЕТ ЭНЕРГИИ</string>
+  <string name="Resource_Scanner">Сканер ресурсов</string>
+  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">ЛКМ для Поиска
+ ПКМ для Сканирования
+ Колесо мыши для Выбора</string>
+  <string name="Ore_Scanner">Рудный Сканер</string>
+  
 </resources>
