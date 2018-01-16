@@ -3215,4 +3215,8 @@
  Колесо мыши для Выбора</string>
   <string name="Ore_Scanner">Рудный Сканер</string>
   
-</resources>
+<string name="Head">Фреза</string>
+<string name="Heads">Фрезы</string>
+<string name="Base_Battery">Базовая Батарея</string>
+<string name="Block_Type_X">Блок: {0}</string>
+  </resources>
