@@ -2997,4 +2997,27 @@
   <string name="X_of">{0} из</string>
   
 <string name="Loading">Загрузка мира:</string>
+<string name="Writing_unsaved_changes">Запись несохранённых изменений мира</string>
+<string name="segments_remaining">сегментов осталось</string>
+<string name="Not_safe_Exit">Выход небезопасен!
+Ещё остались несохранённые изменения мира. Преждевременный выход приведёт к потере этих данных.</string>
+<string name="Compressing_save_archives">Архивирование сохранённых данных</string>
+<string name="archives_remaining">архивов осталось</string>
+<string name="Safe_to_Exit">Выход безопасен.
+Архивирование ещё не окончено, но его можно пропустить, не опасаясь потери данных.</string>
+<string name="Done_Exit">Готово, приготовьтесь к выходу. Хорошего дня!</string>
+<string name="Exiting">Выход!</string>
+<string name="Disconnect_server">Отключение от сервера. Хорошего дня!</string>
+
+<string name="Game_Loading">Загрузка...</string>
+
+<string name="Played">Время игры</string>  
+
+  
+<string name="Helmet_Open">Шлем: открытый</string>
+  <string name="Helmet_Closed">Шлем: закрытый</string>
+  <string name="Gender_Male">Пол: мужской</string>
+  <string name="Gender_Female">Пол: женский</string>
+  <string name="Gender_Other">Пол: не определился</string>
+  
 </resources>
