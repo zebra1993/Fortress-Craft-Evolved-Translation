@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Здравствуйте! Ваш язык поддерживается лишь частично. Если хотите перейти на Английский, нажмите кнопку \"Английский\" снизу!</string>
+<resources><string name="Partial_Language_Support">Здравствуйте!
+Ваш язык поддерживается лишь частично.
+Если хотите вернуться к английскому,
+нажмите кнопку «Default (ENGLISH)» ниже.</string>
     <string name="Installed">Есть</string>
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
