@@ -3053,4 +3053,8 @@
   <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
   <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
   <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
-  </resources>
+  <string name="Mutator_LucrativeMobs_Active">КРУШИ. УБИВАЙ. ВЗРЫВАЙ. УНИЧТОЖАЙ. ГРАБЬ. ПОВТОРИ.</string>
+<string name="Mutator_LucrativeMobs_Not_Active">Дроп с врагов теперь всегда полезный.</string>
+<string name="Mutator_RoboMania_Active">Вся логистика, кроме роботов, сверх-усовершенствована.</string>
+<string name="Mutator_RoboMania_Not_Active">Но, вы знаете, роботы - тоже ничего.</string>
+</resources>
