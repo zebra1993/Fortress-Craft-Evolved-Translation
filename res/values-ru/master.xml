@@ -3210,13 +3210,44 @@
   <string name="Ping_Coloured_Ore">Поиск меченой руды</string>
   <string name="NO_POWER">НЕТ ЭНЕРГИИ</string>
   <string name="Resource_Scanner">Сканер ресурсов</string>
-  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">ЛКМ для Поиска
- ПКМ для Сканирования
- Колесо мыши для Выбора</string>
+  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">ЛКМ - поиск
+ПКМ - скан
+СКМ - выбор</string>
   <string name="Ore_Scanner">Рудный Сканер</string>
   
 <string name="Head">Фреза</string>
 <string name="Heads">Фрезы</string>
 <string name="Base_Battery">Базовая Батарея</string>
 <string name="Block_Type_X">Блок: {0}</string>
-  </resources>
+  <string name="Unknown_block_detected_Hold_RMB_scan">Обнаружен неизвестный блок.
+Используйте ПКМ для сканирования.</string>
+  <string name="Block_scanned_not_researched_Return_to_ResearchStation_identify_Press_x_switch_Build_Gun">Блок уже отсканирован, но ещё не изучен.
+Загрузите данные в исследовательскую станцию для идентификации.
+Нажмите «X» для возврата к Строительной Пушке.</string>
+  <string name="Scanning_unknown_block_Continue_hold_button_complete_Scan">Сканируется неизвестный блок.
+Продолжайте удерживать ПКМ до завершения сканирования.</string>
+  <string name="Cannot_rescan_block_Already_Scanned_Scan_at_ResearchStation_x_switch_Build_Gun">Блок уже отсканирован, но ещё не изучен.
+Загрузите данные в исследовательскую станцию для идентификации.
+Нажмите «X» для возврата к Строительной Пушке.</string>
+  <string name="Scanning_X_vein_Continue_hold_button_complete_Scan">Сканируется рудная жила ({0})...
+Продолжайте удерживать ПКМ до завершения сканирования.</string>
+  <string name="Distance_X_m">Расстояние: {0}м</string>
+  <string name="Scanned_new_Block_Return_ResearchStation_x_select_BuildGun">Отсканирован новый блок!
+Загрузите данные в исследовательскую станцию.
+Нажмите «X» для возврата к Строительной Пушке.</string>
+  <string name="Already_Scanned_Return_ResearchStation">Блок уже отсканирован, но ещё не изучен.
+Загрузите данные в исследовательскую станцию для идентификации.
+Нажмите «X» для возврата к Строительной Пушке.</string>
+  <string name="Block_Type_X_Already_Known">Блок {0} уже изучен.</string>
+  <string name="Ore_Report_normal_X_X_X">Отчёт о рудной жиле:
+Тип руды: {0}
+Объём жилы: {1}м³
+Количество руды: {2:N0}</string>
+  <string name="Ore_Report_Big_X_X_X">Отчёт о рудной жиле:
+Тип руды: {0}
+Объём жилы: {1}м³
+Количество руды: {2:N0}М</string>
+  <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">Игровой процесс не отвечал в течении {0} секунд!</string>
+  <string name="Fluid_processing_X">Продолжение игрового процесса: {0}</string>
+  
+</resources>
