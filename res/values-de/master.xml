@@ -36,8 +36,8 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 
-    <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem belieben zu gestalten. Du kannst aus Deinen Kreationen ein eigenes Schema erzeugen, diese als Blaupausen abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne Sie neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
-    <string name="Creative_Info">Dies ist einen existierende Kreativwelt, daher gibt es hier keine coolen Statistiken anzuzeigen.Wie wäre es mit dem Bild einer Katze?</string>
+    <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem Belieben zu gestalten. Du kannst aus Deinen Kreationen ein eigenes Schema erzeugen, dieses als Blaupause abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne es neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
+    <string name="Creative_Info">Dies ist einen existierende Kreativwelt, daher gibt es hier keine coolen Statistiken anzuzeigen. Wie wäre es mit dem Bild einer Katze?</string>
 
     <!-- Mod Menu -->
     <string name="Mod_Management">Mod Menü</string>
@@ -84,7 +84,7 @@
     <string name="Creative">Kreativ</string>
 
     <!-- Difficulty Readbacks -->
-    <string name="Default_Settings_Info">Die Standardeinstellungen sind zum Einstieg für neue Spieler auf sehr schnell und sehr einfach gestellt! Wenn Du noch schnelleren Fortschritt möchtest, kannst Du \'Immer Tag\' bei Tag-/Nachtzyklus auswählen. Passe die Einstellungen nach Deinem belieben an, wenn Du größere Herausforderungen suchst.
+    <string name="Default_Settings_Info">Die Standardeinstellungen sind zum Einstieg für neue Spieler auf sehr schnell und sehr einfach gestellt! Wenn Du noch schnelleren Fortschritt möchtest, kannst Du \'Immer Tag\' bei Tag-/Nachtzyklus auswählen. Passe die Einstellungen nach Deinem Belieben an, wenn Du größere Herausforderungen suchst.
 Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen für diese Welt UNVERÄNDERBAR. Achte zudem auf die durchschnittliche Spieldauer, die sich aus den von Dir vorgenommenen Einstellungen berechnet!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
     <string name="Previous_Visit">In dieser Welt bist Du bereits gewesen!</string>
     <string name="Play_time">Spielzeit</string>
@@ -102,7 +102,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
     <string name="Plentiful_Power_Info">\'Massenhaft Energie\' sorgt dafür, dass jede Energiequelle um ein vielfaches mehr Energie erzeugt. Durch diese Einstellung ist es einfacher, in der Anfangsphase schnellen Fortschritt zu erzielen.</string>
     <string name="Scarce_Power_Info">\'Knappe Energie\' sorgt dafür, dass jede Energiequelle ein ausgeglichenes Mass an Energie erzeugt. Durch diese Einstellung ist es schwieriger, in der Anfangsphase Fortschritt zu erzielen.</string>
 
-    <string name="Eternal_Day_Info">‚Immer Tag‘ bedeutet, dass die Solarzellen zu jeder Zeit Energie sammeln und nicht mit einem Temperaturabfall in der Nacht zu kämpfen haben. Diese Einstellung wird für einen schnellen Fortschritt im Spiel sorgen – Solarzellen generieren 4 mal mehr Energie!</string>
+    <string name="Eternal_Day_Info">\'Immer Tag\' bedeutet, dass die Solarzellen zu jeder Zeit Energie sammeln und nicht mit einem Temperaturabfall in der Nacht zu kämpfen haben. Diese Einstellung wird für einen schnellen Fortschritt im Spiel sorgen – Solarzellen generieren 4 mal mehr Energie!</string>
     <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit sinkt die Temperatur drastisch, die Gegner sind aggressiver und die Sichtweite ist stark eingeschränkt.</string>
     <string name="Eternal_Night_Info">\'Immer Nacht\' bedeutet, Du hast keine Möglichkeit Dich von der eisigen Kälte der Nacht zu erholen. Darüber hinaus können normale Solarzellen und Dein ZEV keine Energie erzeugen. Biologische Solarzellen erzeugen bei dieser Einstellung nur minimal Energie. Diese Einstellung wird Dich vor eine sehr große Herausforderung stellen.</string>
 
@@ -4169,7 +4169,7 @@ Gesamt-Erzmenge: {2:N4}m</string>
 <string name="DigiStructing_Rocket">Digitaler Raketenaufbau</string>
   <string name="Fuelling_Rocket">Befüllen der Rakete</string>
   <string name="Rocket_Launched">Rakete gestartet!</string>
-  <string name="Pad_Empty">Pad leer</string>
+  <string name="Pad_Empty">Pad leer.</string>
   <string name="DigiStruct_power_needed_X">Benötigte Digitaleaufbau-Energie: {0}</string>
   <string name="Waiting_for_target_lock">Warten auf Zielsperre ...</string>
   <string name="High_Octane_Fuel_needed_X">Kraftstoff mit hohem Oktangehalt benötigt: {0}</string>
