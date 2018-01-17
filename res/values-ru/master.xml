@@ -903,7 +903,7 @@
     <string name="BFL-9000_DESC">Огромный горный лазер. 
 Роет тоннель 5x5. 
 Требует много Энергии.</string>
-    <string name="Pyrothermic Generator">Пиротермический генератор</string>
+    <string name="Pyrothermic Generator">Пиротермический Генератор</string>
     <string name="Pyrothermic Generator_DESC">Сжигает топливо, вырабатывая энергию.
 Сжигает 1 ед. в минуту.</string>
     <string name="AI Mover Control">ИИ-носильщик</string>
@@ -1553,7 +1553,7 @@
     <string name="T4 Power Conduit_DESC">" "</string>
     <string name="CryoPlasm Lancer">Криоплазменное Копьё</string>
     <string name="CryoPlasm Lancer_DESC">Малая дальность, быстрое, защита от КриоПлазмы</string>
-    <string name="CryoPlasm Melter">Криоплазменная Плавилня</string>
+    <string name="CryoPlasm Melter">Криоплазменный Плавильщик</string>
     <string name="CryoPlasm Melter_DESC">Плавит КриоПлазму на средних дистанциях. Полезен только в паре с другими типами защиты.</string>
     <string name="CryoPlasm Dazzler Turret">КриоПлазменная Блеск-Турель</string>
     <string name="CryoPlasm Dazzler Turret_DESC">КриоПлазменная защита - быстрая, большая дальность. Работает только по прямой. Требует 250000 энергии для срабатывания.</string>
@@ -2994,8 +2994,8 @@
   <string name="Died_from_hypothermia_Place_Torches_keep_warm_Power_Boosters_emergency_power">Вы умерли от переохлаждения.
 Устанавливайте Факелы для обогрева!
 А Энергоячейки дают резервную энергию!</string>
-  <string name="You_went_swimming_in_magma">Вы решили поплавать в магме!</string>
-  <string name="You_went_wading_in_magma">Вы бороздили магму!</string>
+  <string name="You_went_swimming_in_magma">Вы поплавали в магме!</string>
+  <string name="You_went_wading_in_magma">Вы поплескались в магме!</string>
   <string name="Died_from_heat_exposure">Умер от теплового воздействия</string>
   <string name="X_of">{0} из</string>
   
@@ -3059,7 +3059,7 @@
 <string name="Mutator_RoboMania_Not_Active">Но, вы знаете, роботы - тоже ничего.</string>
 <string name="None_Infested">Заражения нет</string>
 <string name="Go_deeper_Traverse_the_CC">Спускайтесь глубже, исследуйте Холодные Пещеры.</string>
-<string name="Attached_to">Подсоединение к</string>
+<string name="Attached_to">- соединение с -</string>
 <string name="Smelting_time">Время плавки</string>
 
 <string name="currently_in_inventory">есть в инвентаре</string>
@@ -3089,7 +3089,7 @@
 <string name="ARTHER_Upgrades">Навороты АРЧЕРа</string>
 <string name="Machine_Upgrades">Усовершенствования оборудования</string>
 <string name="Available_Projects">Доступные проекты</string>
-<string name="Completed_Research">Завершенные исследования</string>
+<string name="Completed_Research">Завершённые исследования</string>
 <string name="Laboratory_recipe">Рецепт Лаборатории</string>
 <string name="Unlocked_Recipes">Открытые рецепты</string>
 <string name="Holobase_active">Голобаза V1.337 активирована!</string>
@@ -3105,7 +3105,7 @@
 <string name="Scanning">Сканирование</string>
 <string name="Idling">Простаивает</string>
 
-<string name="Arther_Sign_Press_H">Нажмите \'H\' !</string>
+<string name="Arther_Sign_Press_H">Нажмите «H» !</string>
 
 <string name="Vein_Cleared">Жила очищена!</string>
   
@@ -3173,7 +3173,7 @@
   <string name="Charge_suit_from_PSB">Зарядите костюм от Энергохранилища!</string>
   <string name="Add_200_power_to_OE">Передайте не менее 200 ед. энергии в Экстрактор Руды</string>
   <string name="Collect_Coal_from_Hopper">Заберите Уголь из Бункера!</string>
-  <string name="Hold_RMB_Scan_something">Нажмите ПКМ для сканирования!</string>
+  <string name="Hold_RMB_Scan_something">Удерживайте ПКМ для сканирования!</string>
   <string name="Research_new_scan">Изучите ваш новый Скан!</string>
   <string name="Craft_Power_Core">Создайте Силовое Ядро!</string>
   <string name="CPH_Rebooting">ЦЭК перезагружается</string>
@@ -3192,7 +3192,7 @@
   <string name="You_should_probably_run_away_now">Теперь вам, пожалуй, следовало бы убежать. Есть даже специальное достижение, если вы не будете смотреть на удар!</string>
   <string name="Press_E_blow_up_everything_within_very_big_range">Нажмите E, чтобы взорвать всё тут к чертям собачьим</string>
   <string name="NO_OVERMIND_DETECTED">Сверхразумы не обнаружены!</string>
-  <string name="Press_E_confirm_Strike_Location">Нажмите E, чтобы подтвердить место удара.</string>
+  <string name="Press_E_confirm_Strike_Location">Нажмите «E», чтобы подтвердить место удара.</string>
   <string name="destruction_chance">вероятность уничтожения</string>
   
 <string name="Upgraded">Усовершенствовано!</string>
@@ -3202,7 +3202,7 @@
   <string name="Unknown_Ore">Неизвестная Руда</string>
   <string name="Unknown_Material">Неизвестный Материал</string>
   <string name="Closest">Ближайший</string>
-  <string name="Press_X_for_Build_Gun">Нажмите X для выбора Строительной Пушки</string>
+  <string name="Press_X_for_Build_Gun">«X» - Строй-Пушка</string>
   <string name="Wheelmouse_to_Select">Колесо мыши для Выбора</string>  
   <string name="Ping_Unknown">Поиск Неизвестного</string>
   <string name="Ping_Known_Ore">Поиск известной руды</string>
@@ -3213,7 +3213,7 @@
   <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">ЛКМ - поиск
 ПКМ - скан
 СКМ - выбор</string>
-  <string name="Ore_Scanner">Рудный Сканер</string>
+  <string name="Ore_Scanner">Сканер</string>
   
 <string name="Head">Фреза</string>
 <string name="Heads">Фрезы</string>
@@ -3250,4 +3250,275 @@
   <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">Игровой процесс не отвечал в течении {0} секунд!</string>
   <string name="Fluid_processing_X">Продолжение игрового процесса: {0}</string>
   
-</resources>
+<string name="Barrel_of">бочка(у)</string>
+
+<string name="Extractor">Экстрактор</string>
+<string name="Rating">Скорость</string>
+<string name="Motor">Привод</string>
+<string name="Motors">Приводы</string>
+<string name="all_online">Всё работает</string>
+<string name="PTGs">ЛПЭ</string>
+<string name="Infused">Насыщенный</string>
+<string name="Report_assembled_in">Отчёт сформирован за</string>
+<string name="ticks">тиков</string>
+<string name="Construct_Lifts_T2_lifting">Соорудите Грузовые Лифты.</string>
+<string name="Build_OET">Постройте Орбитальный Передатчик Энергии!</string>
+<string name="Overminds_to_destroy">- столько Сверхразумов нужно уничтожить!</string>
+<string name="Charge_OET">Зарядите Орбитальный Передатчик Энергии!</string>
+
+<string name="Blast_Furnace">Доменная печь</string>
+<string name="Desired_PPS">Необходимо Э/с</string>
+<string name="No_Attached_SH_or_MS_found">Бункеры или Склады не подсоединены</string>
+<string name="MS_units">Модули Склада</string>
+<string name="Storage_Hoppers">Бункеры</string>						
+<string name="Storage_Hopper">Бункер</string>
+<string name="No_Attached_SH_found">Нет соединения с Бункером</string>
+<string name="N_C_to_CCB">Нет соединения с Машиной непрерывного литья</string>
+<string name="State">Состояние</string>
+<string name="Smelting">Выплавка</string>
+<string name="Cost">Затраты</string>
+<string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">Незакончено.
+Бесконечное тепло и свет.
+Заменяем!</string>
+<string name="in_inventory">в инвентаре</string>
+
+
+<string name="Cargo_Lift_Controller">Контроллер Грузового Лифта</string>
+<string name="Power_State">Питание:</string>
+<string name="Rack_Rail_storage">Хранилище направляющих</string>
+<string name="Operating_State">Статус:</string>
+<string name="Rail_Depth">Длина Направ-х</string>
+<string name="Rail_State">Состояние</string>
+<string name="Press_T_to_spawn_lift">Нажмите (T) для вызова лифта</string>
+<string name="Lift_Depth">Положение Лифта</string>
+<string name="Lift_State">Состояние Лифта:</string>
+<string name="Moving">Движется</string>
+<string name="Cargo">Груз</string>
+
+<string name="Check_Rail">Проверка Направляющих</string>
+<string name="Shaft_depth">Глубина шахты</string>
+<string name="No_lift_deployed">Нет лифта</string>
+<string name="Depth">Глубина</string>
+<string name="Orders">Указания</string>
+<string name="Top">Верх</string>
+<string name="Bottom">Дно</string>
+<string name="Lift_stuck_wait_rail_scan_complete">Лифт застрял. Дождитесь сканирования направляющих.</string>
+<string name="Lift_stuck_below_depth_Check_blockages">Лифт застрял ниже текущей глубины шахты. Устраните препятствие.</string>
+<string name="Waiting_for_Rack_Rail">Ожидание Направляющих</string>
+<string name="Unknown_State">Неизв. состояние</string>
+<string name="Operating_Lift">Работает</string>
+<string name="Controller_no_Rack_Rail_place">У Контроллера нет Направляющих для установки</string>
+<string name="Check_Depth">Проверьте глубину</string>
+
+<string name="Unloading_finished_Lift_has_no_Cargo">Выгрузка закончена. Лифт свободен!</string>
+<string name="Unloaded">Выгружено</string>
+<string name="items">предметов</string>
+<string name="capacity_free">свободно</string>
+<string name="Lift_is_empty">Лифт пуст!</string>
+<string name="Loading_Complete!">Загрузка завершена!</string>
+<string name="Loaded">Загружен</string>
+
+<string name="C5_Linking_existing">ЦКК подсоединеяется -&gt;</string>
+<string name="C5_ALT_Linking_existing">ЦКК ПЕРЕподсоединеяется -&gt;</string>
+<string name="C5_Clearing">Очистка ЦКК</string>
+<string name="Climate_Control_Centre">Центр Климатического Контроля</string>
+<string name="Set_to_Cold_Mode">Установлено: Режим Холода</string>
+<string name="Warning_Cryoplasm_Detected_At">ВНИМАНИЕ! ЗАМЕЧЕНА КРИОПЛАЗМА:</string>
+<string name="No_threats_detected">Не обнаружено угроз...</string>
+<string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">ВНИМАНИЕ! ЦЭК не работает! КРИОПЛАЗМЕННАЯ ЗАЩИТА НЕАКТИВНА!</string>
+<string name="Emergency_Cryoplasm_Defences_Active">ВКЛЮЧЕНА АВАРИЙНАЯ ЗАЩИТА ОТ КРИОПЛАЗМЫ!</string>
+<string name="Power_Low_Offline_Cryoplasm_Defences_Offline">Недостаток энергии! КРИОПЛАЗМЕННАЯ ЗАЩИТА НЕАКТИВНА!</string>
+<string name="Warning_Offline_Cryoplasm_Defences_Offline">ВНИМАНИЕ! КРИОПЛАЗМЕННАЯ ЗАЩИТА НЕАКТИВНА!</string>
+
+<string name="Mission_Tutorial_Intro">
+Вы пережили падение, АРЧЕР пожертвовал собой, создав небольшое защитное поле.
+
+АРЧЕР объяснит вам основные функции вашей базы.
+
+Защитное поле исчезнет по окончанию инструктажа.</string>
+
+<string name="CPH_Idling_all_attached_power_full">ЦЭК простаивает, т.к. в смежном 
+оборудовании Энергия на максимуме!</string>
+<string name="Needs_resources_Attach_SH_automate">Требуются ресурсы. Подсоедините
+Накопительный Бункер для автоматизации.</string>
+<string name="Burning">Сжигается</string>
+<string name="for">за</string>
+<string name="Time_left">осталось.</string>
+
+<string name="Player_curr_online">Игроков онлайн:</string>
+<string name="Player_joined"></string>
+<string name="Player_left">осталось.</string>
+<string name="Player_disconnected_reason">отсоединён. Причина:</string>
+
+<string name="Active_for_another">Активен в течение</string>
+<string name="Holding">Удерживается</string>
+<string name="segments">сегментов</string>
+<string name="CB_inserted">СтройБот выгружен</string>
+<string name="SH_full_or_locked">Бункер полон или заблокирован!</string>
+<string name="SH_empty">Бункер пуст!</string>
+<string name="Warning_Basin_overheating_Place_much_colder">Внимание! Машина перегревается! Переместите туда, где холоднее!</string>
+<string name="Casting">Литьё</string>
+
+<string name="You_enough_resources_craft">Для изготовления хватает всех ресурсов!</string>
+<string name="Self_Craft">Создать вручную</string>
+<string name="Missing_Mats">Нет материала</string>
+<string name="Start_Automation">Пуск автом-ции</string>
+<string name="Stop_Automation">Останов автом-ции</string>
+
+<string name="Switching">Переключение</string>
+<string name="Cancelling">Отменяется</string>
+<string name="Thanks_buying_Dapper_DLC">Спасибо, что приобрели Щёгольский комплект (Dapper DLC)!</string>
+<string name="This_requires_Dapper_DLC">Для этого нужен Щёгольский комплект (Dapper DLC)!</string>
+<string name="This_requires_FF_DLC">Для этого нужно дополнение Морозной Фабрики (Frozen Factory)!</string>
+<string name="Lacking_Materials_craft_a">"Нехватка материалов для "</string>
+
+<string name="Crash_DiskThread">Сбой дискового потока означает, что данные Мира теперь будут не доступны для чтения и записи.</string>
+<string name="View_Log">См. лог</string>
+<string name="Ignore">Игнорировать</string>
+
+<string name="CryoPlasm_Lancer">Криоплазменное Копьё</string>
+<string name="CryoPlasm_Melter">Криоплазменный Плавильщик</string>
+<string name="Scanning_for_targets">"Поиск целей - "</string>
+<string name="Clearing_area">Очистка области</string>
+<string name="Cleared">"Очищено "</string>
+<string name="blocks">блоков</string>
+<string name="supercharged_shots_remaining">- супер-зарядов осталось.</string>
+<string name="Scan_Size">Область сканирования</string>
+<string name="m_max_size">м макс.</string>
+
+<string name="difficulty_I_afraid_dont_get_respawn">сложность. К сожалению, вы не воскреснете!</string>
+ 
+<string name="Energy_Transmitter">Передатчик Энергии</string>
+<string name="Avg_transfer_per_sec">Средн. Э/с:</string>
+<string name="Click_icon_upgrade">ЛКМ для улучшения</string>
+<string name="Max_transfer_per_sec">Максимум Э/с:</string>
+<string name="Toggle_Mode">Режим</string>
+<string name="OE_Mining">Добыча</string>
+<string name="OE_Out_of_Power">Нет энергии</string>
+<string name="OE_Out_of_Storage">Нет Места</string>
+
+<string name="FALCOR_Bomber">ФАЛКОР-бомбардировщик</string>
+<string name="Angle">Угол</string>
+<string name="FlyState">Статус полёта:</string>
+<string name="Total_of">Всего</string>
+<string name="items_needed">- предметов необходимо</string>
+<string name="No_input_conveyor_found">Нет конвейера на входе!</string>
+<string name="Lacking_ingredient_input_conveyor">Нет нужных ресурсов на конвейере!</string>
+<string name="of">из</string>
+<string name="Cannot_locate">Не обнаруживается</string>
+
+<string name="Landing">Приземляюсь</string>
+<string name="Intersect">Пересечь</string>
+
+<string name="Configuring_Pipe_alignment">Выравнивание труб</string>
+<string name="Guides">Руководства</string>
+<string name="No_projects_completed_Visit_research_station">Нет завершенных проектов. Используйте Исследовательскую станцию.</string>
+<string name="helpfile_for_this_not_been_implemented_sorry">Для этого файла помощи ещё нет. Извините!</string>
+<string name="player_does_not_know_material">Игроку неизвестен этот материал</string>
+<string name="Requirements">Требования</string>
+<string name="Costs_an_additional">Дополнительные затраты:</string>
+<string name="RP_to_research">очков, чтобы исследовать.</string>
+<string name="This_material_is_hidden">Это скрытый материал</string>
+<string name="Player_does_not_know_material">Игроку неизвестен этот материал</string>
+<string name="Material_paintable_with_paint_gun">Этот материал можно окрасить Краскопультом.</string>
+<string name="Material_does_not_block_movement">Этот материал не блокирует передвижение</string>
+<string name="Material_can_be_burned_power_in_CPH_or_Pyrothermic_Generator">Это можно сжечь для получения энергии в ЦЭК или Пиротермическом Генераторе</string>
+<string name="recipe">рецепт</string>
+<string name="Costs">Стоит</string>
+<string name="This_recipe_creates">Этот рецепт создаёт:</string>
+<string name="Hint">Совет</string>
+<string name="Title">Заголовок</string>
+
+<string name="Survival_Handbook">Руководство по Выживанию</string>
+<string name="Creative_Handbook">Руководство по Творческому режиму</string>
+<string name="Reference">Ссылка</string>
+<string name="Research">Исследование</string>
+<string name="Materials_Reference">Ссылка на материал</string>
+<string name="Eligible_Research">Доступные исследования</string>
+<string name="Complete_Research">Завершенные исследования</string>
+
+<string name="Handy_Hint_1">Нажмите «J» для отображения статистики Игрока</string>
+<string name="Handy_Hint_3">Схемы позволяют с лёгкостью дублировать ваше творчество</string>
+<string name="Handy_Hint_4">WSAD для передвижения, Пробел чтобы прыгать, ЛКМ - строить, ПКМ - копать, СКМ - подбирать</string>
+<string name="Handy_Hint_5">Было продано более миллиона копий версии FortressCraft для Xbox</string>
+<string name="Handy_Hint_6">Следуйте за @Fortress_Craft, чтобы быть в курсе новостей и обновлений FortressCraft!</string>
+<string name="Handy_Hint_7">В теории полный Мир может занять 2x10^79 байт при сохранении</string>
+
+<string name="Press_T_to_begin_exploring">Нажмите «T», чтобы начать путешествие</string>
+<string name="Hivemind_killed_Score_was">Разум Роя убит! Ваш счёт</string>
+<string name="Its_looking_at_you">Оно наблюдает.</string>
+
+<string name="Holobase_Map_Mode">Нажмите «U» для входа в режим Карты</string>
+<string name="Holobase_Base_Mode">Нажмите «U» для входа в режим Базы</string>
+<string name="Holobase_Tactical_Mode_enable">Нажмите «Левый Ctrl» для входа в Тактический режим</string>
+<string name="Holobase_Tactical_Mode_disable">Нажмите «Левый Ctrl» для выхода из Тактического режима</string>
+<string name="Holobase_Exit">Нажмите «K» для включить ГолоБазу</string>
+<string name="Currently">Сейчас</string>
+<string name="players_in_game_using_up">игроков в игре, и использовано</string>
+<string name="network_slots">сетевых слотов</string>
+<string name="Total_Power">Всего энергии</string>
+<string name="Total_Time">Всего времени</string>
+<string name="ore_min">руды/мин</string>
+<string name="bars_min">слитков/мин</string>
+
+<string name="Average">В среднем</string>
+
+<string name="InvStat_Strength">Сила увеличивает урон в ближнем бою</string>
+<string name="InvStat_Constitution">Телосложение увеличивает здоровье</string>
+<string name="InvStat_Agility">Ловкость увеличивает Броню</string>
+<string name="InvStat_Intelligence">Интеллект увеличивает ману</string>
+<string name="You_need_to_be_within_5m_Curr_Dist">Нужно быть в пределах 5 м. Сейчас -</string>
+
+<string name="Switch_Mode">Перекл. Режим</string>
+
+<string name="RP">ОИ</string><string name="All_projects_researched">Исследованы все проекты!</string>
+<string name="Start_Project">Начать проект</string>
+<string name="Possible_Projects">Доступные проекты</string>
+<string name="Consult_research_station_for_details">За подробностями обратитесь к Исследовательской станции</string>
+<string name="Analyse">Анализ</string>
+<string name="Experiment">Эксперимент</string>
+<string name="Player_just_started_the">Только что начат</string>
+<string name="Project">Проект</string>
+<string name="Wait_for_full_Battery">Ждать полной зарядки</string>
+<string name="Fire_constantly">Непрерывно</string>
+
+<string name="Light_configured_optimally">Свет настроен оптимально</string>
+<string name="Shadows_can_slow">Тени могут замедлить работу</string>
+<string name="Soft_Shadows_very_slow">Мягкие тени сильно замедляют работу</string>
+<string name="Warning_large_light_sizes_adverse_performance">Внимание! Большой параметр освещения может привести к снижению производительности</string>
+
+<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Лучше использовать «Left-Ctrl» чтобы добыть руду Супер-Копанием.</string>
+<string name="Collected">Собрано</string>
+<string name="Died_repeated_impacts">Гибель от множественных столкновений!</string>
+<string name="Mod_X_third_Party_Code">Мод {0} содержит сторонний код и может быть небезопасен. ProjectorGames и Digital Tribe не несут ответственности за последствия запуска этого кода.
+ 
+Для этого мода больше не будет выводиться этот запрос.</string>
+<string name="Entering">Вход</string>
+  
+<string name="Scan_me_more_information">Просканируйте для получения информации</string>
+<string name="Storage_used">Использовано места</string>
+  
+<string name="MS_Crate">Ящик Склада</string>
+<string name="Trencher_Drill">Траншейный Бур</string>
+<string name="Slime_Attractor">Слизневой Манок</string>
+  <string name="Bait_active">Приманка установлена!</string>
+  <string name="Temperature">Температура</string>
+  <string name="Heating">Нагрев</string>
+  <string name="Requires_X_Ore">Нужно руды: {0}</string>
+  <string name="Click_icon_to_clear">ЛКМ для очистки</string>
+  <string name="Add_Ore">Дать Руды</string>
+  <string name="Stock_X_X">Запас: {0}/{1}</string>
+  <string name="Collect_items_above_limit">Заберите содержимое после наполнения</string>
+  <string name="Processing">Обработка...</string>
+  <string name="Mini_Hopper_Small_Very_Slow">Мини-Бункер (Маленький и очень медленный)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Логистический Бункер (Маленький и медленноватый)</string>
+  <string name="Internal_Temp_X_C_Power_X">Внутр. температура: {0}°C. Энергия: {1}</string>
+  <string name="Hopper_full">Бункер полон!</string>
+  <string name="Q_to_retrieve_contents">(Q) - забрать содержимое</string>
+  <string name="Failed_Inventory_Full">Не получилось! 
+Инвентарь переполнен?</string>
+
+<string name="Add_Remove">Загр. + Выгр.</string>
+  <string name="ERR_TOO_COLD">Ух. СЛИШКОМ ХОЛОДНО</string>
+  <string name="Tut_9_Title">Удачи!</string>
+  </resources>
