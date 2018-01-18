@@ -3691,5 +3691,10 @@
 <string name="CryoPlasm_Inferno">Крио-Инферно</string>
   <string name="Place_on_3x3_Ore_only">Разместите на рудной площадке 3х3!</string>
   <string name="Place_on_3x3_identical_Ore_only">Разместите на однородной рудной площадке 3х3!</string>
-  <string name="Grinding_Ore"></string>
-  </resources>
+  <string name="Grinding_Ore"/>
+  <string name="Toxic_Filter_Active">Противогаз: Активен</string>
+  <string name="Toxic_Filter_Offline">Противогаз: Не активен</string>
+  <string name="Radiation_protection_Active">Радиационная защита: Активна</string>
+  <string name="Radiation_protection_Offline">Радиационная защита: Не активна</string>
+  
+</resources>
