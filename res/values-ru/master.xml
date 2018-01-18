@@ -3814,4 +3814,8 @@
   <string name="out_of_health_some_reason">Почему-то вдруг закончилось здоровье!</string>
   <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Вы погибли от токсичных испарений
 Изготовьте Противогаз!</string>
+  <string name="Idle">Вхолостую</string>
+<string name="Storage_full">Бункер полон</string>
+  <string name="Storage_Empty">Бункер пуст</string>
+  <string name="X_free_slots">{0} слотов свободно</string>
   </resources>
