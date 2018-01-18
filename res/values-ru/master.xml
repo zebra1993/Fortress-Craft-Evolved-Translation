@@ -2,7 +2,7 @@
 <resources><string name="Partial_Language_Support">Здравствуйте!
 Ваш язык поддерживается лишь частично.
 Если хотите вернуться к английскому,
-нажмите кнопку «Default (ENGLISH)» ниже.</string>
+нажмите кнопку «Default (ENGLISH)» ниже!</string>
     <string name="Installed">Есть</string>
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
@@ -3591,4 +3591,5 @@
 Вернитесь к Исследовательской Станции!</string>
   <string name="Return_ResearchStation">Вернитесь к Исследовательской Станции!</string>
   <string name="Already_Scanned">Уже просканировано!</string>
+  <string name="UNKNOWN_TYPE">НЕИЗВЕСТНЫЙ ТИП</string>
   </resources>
