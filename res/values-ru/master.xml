@@ -2508,7 +2508,7 @@
     <string name="Grooved Cement_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
     <string name="Reinforced Concrete Wall_CRAFT_DESC">Спасибо Fartex: Не так сложно, когда игра хорошая. www.patreon.com/FortressCraft</string>
     <string name="Reinforced Concrete Wall_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
-    <string name="Chilled Reinforced Rock_CRAFT_DESC">Спасибо Nexus: If (mDonation &gt; $100) AddShinyNewBlock();//Мне нужно сделать перерыв в кодировании www.patreon.com/FortressCraft</string>
+    <string name="Chilled Reinforced Rock_CRAFT_DESC">Спасибо Nexus: If (mDonation &gt; $100) AddShinyNewBlock();//Мне нужно отдохнуть от программирования... www.patreon.com/FortressCraft</string>
     <string name="Chilled Reinforced Rock_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
     <string name="Dyed Marble_CRAFT_DESC">Спасибо MKMarq: Роскошные материалы для выживания в стиле! www.patreon.com/FortressCraft</string>
     <string name="Dyed Marble_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
@@ -2562,7 +2562,7 @@
     <string name="OverClocker_CRAFT_HINT">Полезный производственный компонент.</string>
     <string name="High Orbital Debris Object Reclaimer_CRAFT_DESC">Хватающая Орбитальные Дрейфующие Обломки Ракета
 Высокоорбитальный Регенератор Мусора (или ВРМ) может использоваться для выбивания орбитального мусора из атмосферы для нашего использования. Строится по схеме 3х1х3.</string>
-    <string name="High Orbital Debris Object Reclaimer_CRAFT_HINT">Обеспечивает чистое небо. Вам действительно это нравится. Вы ДЕЙСТВИТЕЛЬНО хотите очистить небо. Я серьезно! Большой бадда-бум.</string>
+    <string name="High Orbital Debris Object Reclaimer_CRAFT_HINT">Обеспечьте чистое небо. Типа по-настоящему. Вам РЕАЛЬНО нужно обеспечить чистое небо. Я серьезно! Большой бадда-бум.</string>
     <string name="Orbital RailGun Controller_CRAFT_DESC">Это оборудование 9х9х9 автоматически преобразует 1-километровую дорожку. ПОСТРОЙКА НЕ МОЖЕТ БЫТЬ УДАЛЕНА. ДУМАЙТЕ ОЧЕНЬ ТЩАТЕЛЬНО ПЕРЕД СТРОИТЕЛЬСТВОМ.</string>
     <string name="Orbital RailGun Controller_CRAFT_HINT">Стартовая площадка 5x5x1000. Это не опечатка.</string>
     <string name="AI Mover Control_CRAFT_DESC">Автоматически перемещает ресурсы между бункерами на основе разрешений бункеров.
@@ -3507,7 +3507,7 @@
   <string name="Heating">Нагрев</string>
   <string name="Requires_X_Ore">Нужно руды: {0}</string>
   <string name="Click_icon_to_clear">ЛКМ для очистки</string>
-  <string name="Add_Ore">Дать Руды</string>
+  <string name="Add_Ore">Загрузить Руду</string>
   <string name="Stock_X_X">Запас: {0}/{1}</string>
   <string name="Collect_items_above_limit">Заберите содержимое после наполнения</string>
   <string name="Processing">Обработка...</string>
@@ -3584,7 +3584,7 @@
   <string name="Use_LeftCtrl_to_SuperDig">Удерживайте левый «CTRL» для Супер-Копания!</string>
   
 <string name="Tut_1_Title">Центральный Энергетический Концентратор (ЦЭК)</string>
-  <string name="Tut_2_Title">Энергохранилище</string>
+  <string name="Tut_2_Title">Энергохранилища</string>
   <string name="Tut_5_Title">Сканирование</string>
   <string name="Tut_8_Title">Автоматизация</string>
   <string name="New_Scan_Complete">Новый Скан готов!</string>
@@ -3697,4 +3697,121 @@
   <string name="Radiation_protection_Active">Радиационная защита: Активна</string>
   <string name="Radiation_protection_Offline">Радиационная защита: Не активна</string>
   
-</resources>
+<string name="Searching_for_storage_space">Поиск места под хранение</string>
+<string name="Sending_drone">Запуск дрона</string>
+<string name="Retrieving_drone">Возврат дрона</string>
+
+<string name="Controller_Power">Энергия Контроллера</string>  
+  
+<string name="per_haul">за прогон</string>
+<string name="mod_cannot_run_on_server">мод не может быть запущен на этом сервере</string>
+  <string name="Locked_to_version">Зафиксировано на версии</string>
+  <string name="Locked_to_version_X">Зафиксировано на версии</string>
+<string name="Choose_Mutators_Choose_DOOM">Выберите Мутатор, выберите свою СУДЬБУ!</string>
+<string name="This_screen_preview_forthcoming_Mutator_options_Adventures_Pack_DLC">Это предварительный просмотр предстоящих вариантов Мутаторов, которые будут доступны в DLC Adventures Pack! Круто, правда ведь? Вы пока не можете с ними играть, и я все ещё принимаю идеи новых Мутаторов!</string>
+<string name="Mutator_HardcoreCeilings_Not_Active">Потолок вам больше не угрожает.</string>
+<string name="Please_empty_manually">Пожалуйста, выгрузите вручную!</string>
+  <string name="Needs_more_Ore">Нужно больше руды!</string>
+
+  
+<string name="Creative_Mode_No_Info">-- Творческий Режим --
+Информации нет
+Прикольная статистика доступна только в Выживании</string>
+  <string name="looks_like_youve_disconnected">Похоже, соединение прервано!</string>
+  <string name="Sorry">Очень жаль</string>
+  <string name="X_cannot_be_dug_up">{0} нельзя выкопать/срыть!</string>
+
+  <string name="You_dont_have_permissions_to_build_here">У вас нет разрешения строить здесь!</string>
+
+  <string name="Whoops_Nulldata_for_X">Опаньки! Нет данных для {0}</string>
+
+  <string name="You_failed_to_craft_a_X">Не получилось создать {0}</string>
+
+  <string name="You_dont_have_the_resources_to_autocraft_a_X_you_need_X">Недостаточно ресурсов для авто-производства {0} - вам нужно: {1}</string>
+
+  <string name="You_need_to_craft_a_X_at_youre_base">Создайте {0} на вашей базе!</string>
+
+  <string name="You_dont_have_a_X_in_youre_invetory">В вашем инвентаре нет: {0} !</string>
+
+  <string name="You_dont_permissions_delete_this">У вас нет разрешения удалить это.</string>
+
+  <string name="Unnamed">Не названо</string>
+
+
+
+
+
+  <string name="You_need_Dapper_DLC_colourise_torches">Вам нужно дополнение Dapper DLC для перекраски факелов!</string>
+ 
+<string name="Progression_Youve_killed_X_helpless_innocent_lifeforms">Прогресс налицо! {0} - вот столько вы изничтожили беспомощных, невинных форм жизни!</string>
+  <string name="Progression_Youve_generated_X_k_power">Это успех! Вы сгенерировали {0} тыс. единиц энергии!</string>
+  <string name="Progression_Youve_smelted">Это прогресс! Вы выплавили {0} слитков!</string>
+  <string name="Progression_Youve_crafted_X_items">Рука не устала!? Вы создали {0} предметов!</string>
+
+
+<string name="X_archives_to_compress">{0} архивов для сжатия!</string>
+  <string name="I_just_processed_the_X_scan">Я обработал следующий скан - {0}!</string>
+  <string name="I_just_researched_the_X_recipe">Я исследовал рецепт «{0}»!</string>
+  <string name="I_just_researched_the_X_project">Я завершил исследование по проекту «{0}»!</string>
+
+  <string name="Research_project_at_laboratory_Requires">Исследуйте этот проект в лаборатории. Необходимо:</string>
+
+  <string name="Unknown_Requirement_X">Неизвестное требование: {0}</string>
+  <string name="CONTACT_LOST_REASON_X">КОНТАКТ ПОТЕРЯН!
+ПРИЧИНА: {0}</string>
+  <string name="Out_of_fuel">Кончилось топливо</string>
+  <string name="Save_Count_X">Кол-во сохранений: {0}</string>
+
+  
+<string name="Tut_1_Text">
+Ваш ЦЭК - ядро вашей базы и может снабжать вас небольшим количеством энергии при сжигании ресурсов или на дневном свету.
+
+Нацельтесь на ЦЭК и нажмите «E», чтобы открыть его интерфейс.
+
+После этого можно загрузить Уголь.</string>  
+  <string name="Tut_2_Text">
+Энергохранилища - основное оборудование для хранения энергии.
+
+Сейчас найдите Энергохранилище рядом с вами и подсветите его.
+
+При нажатии «Q» ваш костюм начнёт выкачивать из хранилища энергию, необходимую для поддержания тепла.</string>
+  <string name="Tut_3_Title">Экстракторы Руды (ЭР)</string>
+  <string name="Tut_3_Text">
+Экстракторы Руды (ЭР) добывают руду, пока вы где-нибудь прохлаждаетесь, и ещё они требуют энергии.
+
+Найдите свой первый ЭР и откройте его интерфейс, нажав «E». Передайте в него 200 Энергии, которой хватит на 8 минут работы!</string>
+  <string name="Tut_4_Title">Бункеры</string>
+  <string name="Tut_4_Text">
+Бункеры используются для хранения и управления логистикой.
+
+Ваше оборудование может как загружать что-либо в Бункер, так и выгружать. Найдите Бункер и нажмите «Q», чтобы выгрузить из него добытый ранее Уголь к себе в инвентарь.</string>
+  <string name="Tut_5_Text">
+У вас есть Сканер, с помощью которого вы можете искать в окружающем пространстве известные и неизвестные материалы и предметы.
+Как только вы найдёте что-либо Неизвестное, просканируйте это.
+
+Теперь попробуйте найти что-либо непросканированное, подсветите это и удерживайте ПКМ, пока сканирование не завершится.</string>
+  <string name="Tut_6_Title">Исследования</string>
+  <string name="Tut_6_Text">
+После сканирования Неизвестное надо изучить.
+
+Найдите и подсветите Исследовательскую станцию на базе, затем нажмите «E» для взаимодействия. Проведите исследование.
+
+Исследования дают очки для открытия новых технологий.</string>
+  <string name="Tut_7_Title">Простое производство</string>
+  <string name="Tut_7_Text">
+АРЧЕР помогал вам с самого начала - самое время отблагодарить его. 
+
+Подойдите к Заводу, выделите его, нажмите «E» и создайте Силовое Ядро для АРЧЕРА.</string>
+  <string name="Tut_8_Text">
+У вас завалялась парочка Бункеров, Лазерные Передатчики Энергии (ЛПЭ) и остатки Конвейров.
+
+Найдите тренировочные голограммы около вашего ЦЭК. Они показывают как организовать простейшую автоматизацию.
+Разместите своё оборудование на месте голограмм.</string>
+  <string name="Tut_9_Text">
+Отныне вы сами по себе. Всё, что вам нужно знать, содержится в Руководстве по Выживанию. Откройте его, нажав «H».</string>
+  <string name="You_died_in_previous_game_still_dead">Вы умерли в прошлой игре! Вы всё ещё мертвы!</string>
+  <string name="CPH_not_heal_on_Hardcore_difficulty">ЦЭК не восстанавливается на сложности «Хардкор»!</string>
+  <string name="out_of_health_some_reason">Почему-то вдруг закончилось здоровье!</string>
+  <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Вы погибли от токсичных испарений
+Изготовьте Противогаз!</string>
+  </resources>
