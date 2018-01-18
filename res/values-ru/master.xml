@@ -1507,7 +1507,7 @@
     <string name="Magma Storage">Хранилище Магмы</string>
     <string name="Magma Storage_DESC">Принимает Жидкую Магму от соответствующего оборудования через Жидкостные Трубы.</string>
     <string name="Cryo Inferno">КриоИнферно</string>
-    <string name="Cryo Inferno_DESC">Радикальное решение против ползунов. Необходимо свободное пространство между Источником ползунов и устройством.</string>
+    <string name="Cryo Inferno_DESC">Радикальное решение вопроса ползунов. Необходимо свободное пространство между Источником ползунов и устройством.</string>
     <string name="Garbage Thief">Мусорокрад</string>
     <string name="Garbage Thief_DESC">Не имеет значения.</string>
     <string name="Rack Rail_DESC">" "</string>
@@ -3594,9 +3594,11 @@
   <string name="UNKNOWN_TYPE">НЕИЗВЕСТНЫЙ ТИП</string>
   <string name="For_more_information_on_the_X_open_the_Handbook">Для получения дополнительной информации о {0} используйте Справочник (клавиша «H»).</string>
   <string name="Shift_Q_to_toggle_permissions">(Shift+Q) - переключение режима!</string>
-  <string name="Scan_for_more_information">Просканируйте для информации!</string>
+  <string name="Scan_for_more_information">Просканируйте для подробностей!</string>
   <string name="Stored_X">Хранится: {0}</string>
   
 <string name="Find_unknown_materials_using_orescanner_ping_facility">Найдите больше неизвестных материалов с помощью сканера.
 Используйте «M» для выбора сканера, а затем - ЛКМ для поиска.</string>
-  </resources>
+  <string name="Creep">Ползун</string>
+<string name="ColdCreep_killed_Score_was">Ползун уничтожен! Ваш счёт -</string>
+</resources>
