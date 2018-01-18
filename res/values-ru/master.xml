@@ -3615,4 +3615,19 @@
 <string name="Crash_RaycastManager">Сбой рейкастинга означает, что мобы и всё требующее рейкастинга, больше не будут двигаться или функционировать.</string>
 <string name="Crash_MobUpdateThread">Сбой потока обновления врагов означает, что враги больше не будут двигаться и обновлять своё состояние.</string>
 <string name="Crash_MainMenuNetworkThread">Сбой сетевого потока главного меню означает, что игровой статус хранимых серверов не будет обновляться.</string>
-</resources>
+<string name="Airborne Particulate Extractor">Экстрактор воздушных примесей</string>
+<string name="Airborne Particulate Extractor_DESC">Извлекает примесные частицы из окружающей среды</string>
+<string name="Airborne Particulate Compressor">Компрессор воздушных примесей</string>
+<string name="Airborne Particulate Compressor_DESC">Оборудование для создания компактифицированных объёмов примесных частиц</string>
+
+<string name="Crash_NetworkClientThread">Сбой потока сетевого клиента означает, что вы отключены от сервера.</string>
+<string name="crashed">" - покрашилось!"</string>
+<string name="Error_message">"Сообщение об ошибке: "</string>
+<string name="Waiting_for_gas_from_Particulate_Compressor">Ожидание газа от Компрессора примесей.</string>
+  <string name="Particulate_Compressor">Компрессор примесей</string>
+  <string name="Error_no_particulates_found">Ошибка, примеси не обнаружены.</string>
+  <string name="Particulate_Filter">Примесный Фильтр</string>
+  <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Примеси не обнаружены.
+Расположите в объёме с примесями.</string>
+  <string name="Connected_to_Particulate_Compressor">Подсоединено к Компрессору.</string>
+  </resources>
