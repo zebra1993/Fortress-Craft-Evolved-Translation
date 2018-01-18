@@ -3597,4 +3597,6 @@
   <string name="Scan_for_more_information">Просканируйте для информации!</string>
   <string name="Stored_X">Хранится: {0}</string>
   
-</resources>
+<string name="Find_unknown_materials_using_orescanner_ping_facility">Найдите больше неизвестных материалов с помощью сканера.
+Используйте «M» для выбора сканера, а затем - ЛКМ для поиска.</string>
+  </resources>
