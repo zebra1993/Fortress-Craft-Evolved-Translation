@@ -3247,7 +3247,7 @@
   <string name="Ore_Report_Big_X_X_X">Отчёт о рудной жиле:
 Тип руды: {0}
 Объём жилы: {1}м³
-Количество руды: {2:N0}М</string>
+Количество руды: {2:N4}М</string>
   <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">Игровой процесс не отвечал в течении {0} секунд!</string>
   <string name="Fluid_processing_X">Продолжение игрового процесса: {0}</string>
   
@@ -3678,4 +3678,18 @@
   <string name="This_needs_0_1_PPS">Требует 0,1 Э/с.</string>
   
 <string name="Marked_Location">Отмеченное место</string>
+  <string name="X_has_been_researched">Исследовано: {0}!</string>
+  <string name="x_return_Build_Gun">«X» - возврат к Строительной Пушке
+</string>
+  <string name="Already_Scanned_Return_ResearchStation_x_select_BuildGun">Блок уже отсканирован.
+Вернитесь к Исследовательской Станции.
+Нажмите «X» для возврата к Строительной Пушке.</string>
+  <string name="unknown">неизвестн.</string>
+  <string name="Waiting_for_target_lock">Ожидание захвата цели...</string>
+  <string name="CryoPlasm_Cleared_X_m">"Криоплазмы удалено:  {0}m³"</string>
+  
+<string name="CryoPlasm_Inferno">Крио-Инферно</string>
+  <string name="Place_on_3x3_Ore_only">Разместите на рудной площадке 3х3!</string>
+  <string name="Place_on_3x3_identical_Ore_only">Разместите на однородной рудной площадке 3х3!</string>
+  <string name="Grinding_Ore"></string>
   </resources>
