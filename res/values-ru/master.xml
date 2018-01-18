@@ -3347,7 +3347,7 @@
 <string name="Time_left">осталось.</string>
 
 <string name="Player_curr_online">Игроков онлайн:</string>
-<string name="Player_joined"/>
+<string name="Player_joined">присоедили</string>
 <string name="Player_left">осталось.</string>
 <string name="Player_disconnected_reason">отсоединён. Причина:</string>
 
@@ -3605,4 +3605,11 @@
 <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">Для получения дополнительной информации о проекте {0} и списка открываемых им рецептов используйте Справочник (клавиша «H»).</string>
   
 <string name="Length">Длина</string>
+<string name="Inventories">Bydt</string>
+<string name="Debug_Cryospawn_Data">Источник_Ползунов</string>
+<string name="Built">Построен</string>
+<string name="Sleeping_for">Спит</string>
+<string name="Player_Bonus_was">Бонус Игрока:</string>
+
+<string name="Crash_LowFrequencyThread">Сбой низкочастотного игрового потока означает, что оборудование и объекты, связанные с геймплеем, больше не будут обновляться.</string>
 </resources>
