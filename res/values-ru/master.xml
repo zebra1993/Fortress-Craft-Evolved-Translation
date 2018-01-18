@@ -2617,7 +2617,7 @@
 	<string name="MISSION_more unknown objects">больше Факелов для согрева!</string>
 	<string name="MISSION_scans to process">сканов для обработки.</string>
 	<string name="Minute(Short)">мин</string>
-	<string name="RubbleHint">Щебня не будет при использовании Супер-рытья! Для этого удерживайте Лев. Ctrl!</string>
+	<string name="RubbleHint">Щебня не будет при использовании Супер-рытья! Для этого удерживайте левый «CTRL»!</string>
 	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
 
 	<string name="ARTHER_AlreadyScanned">- уже есть такой образец! Нажмите «H» для информации.</string>
@@ -2731,7 +2731,7 @@
   <string name="Hint_4">Чем выше показатель Угрозы, тем большее количество врагов будет вас атаковать</string>
   <string name="Hint_5">Генерация энергии, добыча руды и литьё слитков повышают создаваемую вами Угрозу</string>
   <string name="Hint_7">Грузовые лифты превосходят всё остальное в плане вертикальной транспортировки</string>
-  <string name="Hint_8">Удерживайте «Ctrl», чтобы создать 25 предметов одним кликом</string>
+  <string name="Hint_8">Удерживайте «CTRL», чтобы создать 25 предметов одним кликом</string>
   <string name="Hint_9">Разделяйте \"стопки\" предметов, зажимая клавишу «SHIFT»</string>
   <string name="Hint_10">Максимальное количество руды в стопке - 150 ед., поэтому не забывайте выплавять из неё слитки</string>
   <string name="Hint_11">Используйте Энергоячейки, чтобы быстро восполнить энергию во время путешествия</string>
@@ -3451,8 +3451,8 @@
 
 <string name="Holobase_Map_Mode">Нажмите «U» для входа в режим Карты</string>
 <string name="Holobase_Base_Mode">Нажмите «U» для входа в режим Базы</string>
-<string name="Holobase_Tactical_Mode_enable">Нажмите «Левый CTRL» для входа в Тактический режим</string>
-<string name="Holobase_Tactical_Mode_disable">Нажмите «Левый CTRL» для выхода из Тактического режима</string>
+<string name="Holobase_Tactical_Mode_enable">Нажмите левый «CTRL» для входа в Тактический режим</string>
+<string name="Holobase_Tactical_Mode_disable">Нажмите левый «CTRL» для выхода из Тактического режима</string>
 <string name="Holobase_Exit">Нажмите «K» для выключения ГолоБазы</string>
 <string name="Currently">Сейчас</string>
 <string name="players_in_game_using_up">игроков в игре, и использовано</string>
