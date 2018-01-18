@@ -3630,4 +3630,52 @@
   <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Примеси не обнаружены.
 Расположите в объёме с примесями.</string>
   <string name="Connected_to_Particulate_Compressor">Подсоединено к Компрессору.</string>
+  <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Очистка завершена! Криоплазмы не обнаружено. Ожидание...</string>
+<string name="Melted">Выплавлено</string>
+<string name="s_since_last_firing">сек с последнего выстрела.</string>
+<string name="You_lasted">Вы продержались:</string>
+<string name="You_selected">Выбрано:</string>
+<string name="Cheetah">Гепард</string>
+<string name="Gazelle">Газель</string>
+<string name="Horse">Скакун</string>
+<string name="Coyote">Койот</string>
+<string name="Whippet">Гончая</string>
+<string name="Hamster">Хомяк</string>
+<string name="Sloth">Ленивец</string>
+<string name="Tortoise">Черепашка</string>
+<string name="Unable_locate_Freezon_Gas_hopper">В Бункере нет Фризона</string>
+<string name="Optimal_temperature_diff_reached">Достигнут оптимальный перепад температур!</string>
+<string name="Temperature_diff">Перепад температур</string>
+<string name="Rush_mode_active_boost_on">Включён режим спешки - !</string>
+
+<string name="Handbook_No_specific_help_available">Помощь недоступна. Пожалуйста, обратитесь к следующей странице за подсказками и рецептами!</string>
+<string name="Handy_Hint_0">Мир FortressCraft достигает размеров более 1000 световых лет в любом направлении</string>
+<string name="InvStat_Armor">Броня защищает от урона</string>
+<string name="Last_Item">Последнее -</string>
+<string name="Looking_for_Ore">Поиск руды</string>
+  <string name="Kaboom">Бабах!</string>
+  <string name="Drilling">Бурение...</string>
+  <string name="Stuck">Застревание.</string>
+  <string name="Retriving_Drill_Head">Возврат Бура.</string>
+  <string name="Collecting_Magma">Сбор Магмы!</string>
+  <string name="PPS_Delta_X">Баланс Энергии: {0} Э/с</string>
+  <string name="Drilling_at_depth_X">Бурение на глубине {0}м</string>
+  <string name="Retriving_Drill_at_depth_X">Возврат Бура (на глубине {0}м)</string>
+  <string name="Compressing">Сжатие...</string>
+  <string name="Compressing_X_using_X_PPS">Сжатие: {0} , затрачивая {1} Э/с</string>
+  <string name="Need_X_more_to_begin">Нужно ещё {0} для запуска.</string>
+  <string name="CPH_Offline_filtration_paused">ЦЭК выведен из строя - фильтрация приостановлена!</string>
+  <string name="POWER_LOW">МАЛО ЭНЕРГИИ!</string>
+  <string name="Filtering_using_X_PPS">Для фильтрации нужно {0} Э/с</string>
+  <string name="X_stored">{0} - хранится.</string>
+  <string name="Dist_X_X">Расст.: {0}/{1}</string>
+  <string name="Temperature_X">Температура {0}°C</string>
+  <string name="Liquified_Resin_Needed_X">Необходимо Жидкой Смолы: {0}</string>
+  
+<string name="Power_Cost">Энергозатраты:</string>
+  <string name="Empty_Waypoint">Пустая точка</string>
+  <string name="Place_Sign_next_to_machine_name_it">Поместите Знак рядом с оборудованием, чтобы дать ему название!</string>
+  <string name="This_needs_0_1_PPS">Требует 0,1 Э/с.</string>
+  
+<string name="Marked_Location">Отмеченное место</string>
   </resources>
