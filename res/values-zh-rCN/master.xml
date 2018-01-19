@@ -3526,4 +3526,12 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="You_need_Steam_Heroes_access_Harrison_skin">你需要拥有蒸汽英雄（Steam Heroes）获取哈里森（Harrison ）皮肤！</string>
   <string name="You_need_Skin_Pack_1_access_skin">你需要拥有Skin Pack＃1来获取这个皮肤！</string>
   <string name="You_need_CRP_fo_this_see_Patreon_details">你需要拥有这个社区奖励包！ （更多细节见http://www.patreon.com/Fortresscraft！）</string>
-  </resources>
+  <string name="CREATIVE_selected_results_running_Mutators_unpredictable">创造性的选择！选择的结果是不可预测的！</string>
+<string name="Mutator_HardcoreCeilings_Active">支撑天花板或者面对厄运！天然方块不可放置</string>
+<string name="Mutator_AllOre_Not_Active">相当可观的Ore又出现了</string>
+<string name="Mutator_AggroMobs_Active">现在怪物会攻击视野内的.改装炮塔应对.</string>
+<string name="Mutator_AggroMobs_Not_Active">现在怪物会对你假装冷漠.</string>
+<string name="Mutator_Pandora_Not_Active">坠毁的舱室会包含研究.可能是最棒的.</string>
+<string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明</string>
+<string name="Mutator_HardcoreInv_Not_Active">你的24K纯金眼泪已经被注意到了</string>
+</resources>
