@@ -3467,4 +3467,63 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="server_side_mod_is_running">服务器端mod正在运行</string>
   <string name="This_X_server_side_mod_is_runing">该 {0} 服务器端mod正在运行</string>
 <string name="mod_required_on_server">该服务器需要mod</string>
+  <string name="This_X_mod_required_on_server">这个 {0} mod</string>
+<string name="Install">安装</string>
+<string name="mod_at_version">mod版本</string>
+<string name="to_connect">连接</string>
+  <string name="Install_X_mod_at_version_X">安装</string>
+<string name="mod_optional_on_server">该mod在这个服务器可选</string>
+  <string name="This_X_mod_optional_on_server">这个{0} mod 是可选的</string>  
+<string name="mod_cannot_run_on_server">这个服务器不支持该mod</string>
+  <string name="This_X_mod_cannot_run_on_server">这个{0} mod无法运行在这个服务器上</string>  
+<string name="Locked_to_version">锁定到版本</string>
+  <string name="Locked_to_version_X">锁定到版本</string>
+<string name="This_mod_contains_third_party_code_which_could_be_unsafe">这个mod可能包含不安全的第三方代码。 ProjectorGames和Digital Tribe都不承担因运行第三方代码造成的任何损失责任。 
+
+这个MOD不会在向你询问。</string>
+<string name="Enable">启动</string>
+<string name="Disable">停用</string>
+  
+<string name="Enter_steam_display_name_here">在此输入steam显示的名字</string>
+  
+  
+<string name="Tutorial_not_complete">教程未完成！</string>
+<string name="You_need_complete_tutorial_before_hosting_multiplayer">建多人房间之前请先完成教程。</string>
+<string name="Good_plan">好主意！</string>
+  
+<string name="Mutators_are_permanent_no_changed_for_this_world">突变体是永久性的，不能再为这个世界而改变。</string>
+<string name="Choose_Mutators_Choose_DOOM">选择你的Mutators，选择你的DOOM！</string>
+<string name="This_screen_preview_forthcoming_Mutator_options_Adventures_Pack_DLC">这个屏幕是即将出现的Mutator选项的预览，可作为Adventures Pack DLC的一部分使用！很酷，不是吗？你还不能玩，但我仍然接受新的想法！</string>
+<string name="Mutator_HardcoreCeilings_Not_Active">天花板将不再是一个威胁。</string>
+<string name="Mutator_OSHA_Active">一切都很危险。不要太靠近。</string>
+<string name="Mutator_OSHA_Not_Active">机器再次变得安全。</string>
+<string name="Mutator_AllOre_Active">岩石，泥土和石头现在都是是矿石。这可能听起来不太好。</string>
+<string name="Mutator_SkyIslands_Active">天空岛激活。这与常规的生存模式不兼容。</string>
+<string name="Mutator_SkyIslands_Not_Active">天空岛停用。</string>
+<string name="Mutator_Pandora_Active">坠毁的舱室现在含有各种各样的东西。</string>
+<string name="Mutator_LucrativeMobs_Active">粉碎.杀戮.爆破.破坏.抢劫.重复.</string>
+<string name="Mutator_RoboMania_Active">除机器人之外的所有物流都是超级削弱的。</string>
+<string name="Mutator_RoboMania_Not_Active">机器人还是很酷的，你知道的。</string>
+<string name="Mutator_HardcoreInv_Active">所有物品现在在您的物品栏中都有堆叠限制。</string>
+<string name="Mutator_ImportantCPH_Active">你的CPH现在非常重要。让它好好活着，要么受苦。</string>
+<string name="Mutator_ImportantCPH_Not_Active">CPH死亡无惩罚。</string>
+
+<string name="Analysing_area">扫描区域中...</string>
+  <string name="Bye">再见</string>
+  <string name="Connecting">连接中</string>
+  <string name="Disconnected">断开连接</string>
+  <string name="No_longer_connected">掉线了</string>
+  <string name="Not_Connected">未连接</string>
+  <string name="Could_not_reach_server">无法访问服务器</string>
+  <string name="Exception_network_thread">网络线程抛出的异常</string>
+  
+<string name="You_need_own_FF_DLC_access_skin">要这个皮肤吗，你得有Frozen Factory Expansion pack！</string>
+  <string name="You_need_AmpuTea_access_Explorer_skin">您需要拥有AmpuTea才能获取Explorer皮肤！</string>
+  <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">你需要拥有每一个DLC和扩展包，以获得这个超级独家皮肤！</string>
+  <string name="User_was_missing">用户不存在</string>
+  <string name="See_Patreon_for_details">请参阅http://www.patreon.com/Fortresscraft获取更多细节！</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">你需要拥有Dapper DLC来获取联盟杰克皮肤！</string>
+  <string name="You_need_Steam_Heroes_access_Harrison_skin">你需要拥有蒸汽英雄（Steam Heroes）获取哈里森（Harrison ）皮肤！</string>
+  <string name="You_need_Skin_Pack_1_access_skin">你需要拥有Skin Pack＃1来获取这个皮肤！</string>
+  <string name="You_need_CRP_fo_this_see_Patreon_details">你需要拥有这个社区奖励包！ （更多细节见http://www.patreon.com/Fortresscraft！）</string>
   </resources>
