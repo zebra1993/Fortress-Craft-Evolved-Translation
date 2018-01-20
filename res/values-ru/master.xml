@@ -2618,7 +2618,7 @@
 	<string name="MISSION_more unknown objects">больше Факелов для согрева!</string>
 	<string name="MISSION_scans to process">сканов для обработки.</string>
 	<string name="Minute(Short)">мин</string>
-	<string name="RubbleHint">Щебня не будет, если использовать СуперБур. Для этого удерживайте левый «CTRL».</string>
+	<string name="RubbleHint">Щебня не будет, если использовать СуперБур. Для этого удерживайте левый «CTRL»!</string>
 	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
 
 	<string name="ARTHER_AlreadyScanned">- уже есть такой образец! Нажмите «H» для информации.</string>
@@ -3946,4 +3946,7 @@
   <string name="size_and_or_speed_parameter_could_not_be_parsed">параметр размера и/или скорости не идентифицирован</string>
   <string name="Missing_size_or_speed_parameter">Отсутствует параметр размера или скорости</string>
   <string name="Empty">Пусто</string>
+<string name="Foreman_DESC">Постройте 1000 блоков с помощью Li\'l Builder</string>
+<string name="SwissCheese_DESC">Уберите 1000 блоков с помощью Li\'l Digger</string>
+
 </resources>
