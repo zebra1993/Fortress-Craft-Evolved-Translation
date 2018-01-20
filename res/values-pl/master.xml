@@ -13,7 +13,7 @@
     <string name="Spacebar">Spacja</string>
     <string name="Resource_Level">Poziom Zasobów</string>
     <string name="Power_Level">Poziom Mocy</string>
-    <string name="Conveyor_Speed">Szybkość Pasa</string>
+    <string name="Conveyor_Speed">Szybkość Pasa Transmisyjnego</string>
     <string name="Day_Night_Cycle">Cykl Dnia/Nocy</string>
     <string name="Death_Mode">Tryb Śmierci</string>
     <string name="Mob_Difficulty">Poziom Trudności Potworów</string>
@@ -26,7 +26,7 @@
     <string name="Back">Powrót</string>
     <string name="Mutators">Mutatory</string>
 
-    <string name="Enter_World">Wejdź Do Świat</string>
+    <string name="Enter_World">Wejdź Do Świata</string>
     <string name="Reset_World">Zresetuj Świat</string>
 
 
