@@ -965,8 +965,8 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Infused Coal_DESC">Durchsetzte Kohle hat 2x soviel Brennwert wie angereicherte Kohle und 4x soviel wie normale Kohle.</string>
     <string name="Halloween Cauldron">Halloween Kessel</string>
     <string name="Halloween Cauldron_DESC">Heute Koch ich, Morgen brau ist, Übermorgen hol ich des Spielers Interesse!</string>
-    <string name="Rough Hewn Rock">Roh gehauener stein</string>
-    <string name="Rough Hewn Rock_DESC">Rohgehauener Stein der frisch aus der Landschaft kommt. Kann wieder platziert werden oder in Paste umgewandelt werden.</string>
+    <string name="Rough Hewn Rock">Roh gehauener Stein</string>
+    <string name="Rough Hewn Rock_DESC">Roh gehauener Stein der frisch aus der Landschaft kommt. Kann wieder platziert werden oder in Paste umgewandelt werden.</string>
     <string name="Chilled Cavern Stone">Gekühlter Höhlenstein</string>
     <string name="Chilled Cavern Stone_DESC">Normaler Stein, bloss kälter.</string>
     <string name="Toxic Cavern Stone">Giftiger Höhlenstein</string>
@@ -3364,10 +3364,10 @@ Einige Archive wurden noch nicht komprimiert, aber dies kann ohne Verlust übers
 <string name="Angle">Winkel</string>
 <string name="FlyState">Flugzustand</string>
 <string name="Cheetah">Gepard</string>
-<string name="Gazelle">Gazelle</string>
+<string name="Gazelle">die Gazelle</string>
 <string name="Horse">Pferd</string>
 <string name="Coyote">Kojote</string>
-<string name="Whippet">Whippet</string>
+<string name="Whippet">Wippet</string>
 <string name="Hamster">Hamster</string>
 <string name="Sloth">Faultier</string>
 <string name="Tortoise">Schildkröte</string>
@@ -3736,7 +3736,7 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
   <string name="Unknown_Material">Unbekanntes Material</string>
   <string name="Closest">Am nächsten</string>
   <string name="Press_X_for_Build_Gun">Drücke X für Bau Waffe</string>
-  <string name="Wheelmouse_to_Select">Wheelmouse zu wählen</string>  
+  <string name="Wheelmouse_to_Select">Mausrad zum wählen</string>  
   <string name="Ping_Unknown">Ping unbekannt</string>
   <string name="Ping_Known_Ore">Ping Bekanntes Erz</string>
   <string name="Ping_Air">Ping Luft</string>
@@ -3745,7 +3745,7 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
   <string name="Resource_Scanner">Ressourcen-Scanner</string>
   <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">LMT zu Ping
  RMT zu scannen
- Wheelmouse zu wählen</string>
+ Mausrad zum wählen</string>
   <string name="Ore_Scanner">Erz Scanner</string>
   
 <string name="Mission_Smelting_Automation">Die Automatisierung wird der Schlüssel zum Erfolg sein. Ihr Basis Schmelzer kann mit benachbarten Containern eines beliebigen Typs kommunizieren.
