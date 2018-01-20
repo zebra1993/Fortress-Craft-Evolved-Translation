@@ -2618,7 +2618,7 @@
 	<string name="MISSION_more unknown objects">больше Факелов для согрева!</string>
 	<string name="MISSION_scans to process">сканов для обработки.</string>
 	<string name="Minute(Short)">мин</string>
-	<string name="RubbleHint">Щебня не будет при использовании Супер-рытья! Для этого удерживайте левый «CTRL»!</string>
+	<string name="RubbleHint">Щебня не будет, если использовать СуперБур. Для этого удерживайте левый «CTRL».</string>
 	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
 
 	<string name="ARTHER_AlreadyScanned">- уже есть такой образец! Нажмите «H» для информации.</string>
@@ -3490,7 +3490,7 @@
 <string name="Soft_Shadows_very_slow">Мягкие тени сильно замедляют работу</string>
 <string name="Warning_large_light_sizes_adverse_performance">Внимание! Большой параметр освещения может привести к снижению производительности</string>
 
-<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Лучше использовать левый «CTRL» чтобы добыть руду Супер-Копанием.</string>
+<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Для добычи руды лучше использовать СуперБур (удерживая левый «CTRL»).</string>
 <string name="Collected">Собрано</string>
 <string name="Died_repeated_impacts">Гибель от множественных столкновений!</string>
 <string name="Mod_X_third_Party_Code">Мод {0} содержит сторонний код и может быть небезопасен. ProjectorGames и Digital Tribe не несут ответственности за последствия запуска этого кода.
