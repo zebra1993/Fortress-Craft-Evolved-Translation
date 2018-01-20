@@ -2784,7 +2784,7 @@ Schönen Tag noch!</string>
     <string name="ARTHER_Sunrise">"Sonnenaufgang am Tag entdeckt "</string>
     <string name="ARTHER_Sunset">Die Sonne geht unter. Oberflächentemperatur fällt. Nova geschätzte Ankunft : &amp;#34;</string>
     <string name="ARTHER_UnprocessedScans">" unbearbeitete Scans!"</string>
-    <string name="ARTHER_Vein_Exhausted">" Adern ist erschöpft und hat begonnen zu klären"</string>
+    <string name="ARTHER_Vein_Exhausted">" Adern sind erschöpft und haben begonnen zu klären"</string>
     <string name="ARTHER_Vein_Warning">"Warnung! Einer von uns "</string>
     <string name="Tutorial_Smelter_Permissions">Warnung! Schmelzer erkannt, angehängt an Hinzufügen / Entfernen von Containern - wollten Sie Berechtigungen festlegen?</string>
 
@@ -4207,7 +4207,7 @@ WARNUNG! Erz ist im flüchtigen Zustand, BAUE NICHT DIE MASCHINE AB!</string>
   <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Erzboden; suche Ausladepunkt.
 WARNUNG! Erz ist im flüchtigen Zustand, BAUE NICHT DIE MASCHINE AB!</string>
   <string name="Grinding">Mahlen...</string>
-  <string name="Kaboom">Kaboom!!</string>
+  <string name="Kaboom">Kawumm!</string>
   <string name="Grinder_cannot_function_without_active_C5">Mahler kann ohne aktives Klimakontrollzentrum nicht funktionieren</string>
   <string name="Grinding_X">Mahlen: {0}</string>
   <string name="X_X_to_offload">{0} x {1} zum Entladen!</string>  
