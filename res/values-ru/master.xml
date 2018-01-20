@@ -2875,7 +2875,7 @@
 <string name="Searching_offer_Hopper">Поиск выгружающего бункера</string>
 <string name="Radius">Радиус</string>
 <string name="Found">Найдено</string>
-<string name="Searching_request_Hopper">Поиск запрашивающего бункера</string>
+<string name="Searching_request_Hopper">Поиск принимающего бункера</string>
 <string name="Path">Путь</string>
 <string name="Carrying">Несу</string>
 
@@ -3949,4 +3949,5 @@
 <string name="Foreman_DESC">Постройте 1000 блоков с помощью Li\'l Builder</string>
 <string name="SwissCheese_DESC">Уберите 1000 блоков с помощью Li\'l Digger</string>
 
+<string name="Nearness">Недалёкость</string>
 </resources>
