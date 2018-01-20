@@ -2263,7 +2263,7 @@
     <string name="MK5 PowerCore Charger_CRAFT_HINT">Запомните, Зарядники ставятся в Усилители!</string>
     <string name="Crystal Clock Maker_CRAFT_DESC">Производит часы из Кристалла</string>
     <string name="Crystal Clock Maker_CRAFT_HINT">Полезный производственный компонент.</string>
-    <string name="Lens Polisher_CRAFT_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных Передатчиках Энергии.</string>
+    <string name="Lens Polisher_CRAFT_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных ЭнергоПередатчиках.</string>
     <string name="Lens Polisher_CRAFT_HINT">Полезный производственный компонент.</string>
     <string name="Lens Chromer_CRAFT_DESC">Покрывает Расфокусированные Линзы хромовым покрытием для улучшения их технических характеристик.</string>
     <string name="Lens Chromer_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -2353,7 +2353,7 @@
     <string name="MISSION_Build a Pyrothermic Generator">Постройте Пиротермический Генератор</string>
     <string name="MISSION_No ore extracted in the last minute">Нет добытой руды уже больше минуты!</string>
     <string name="MISSION_No bars smelted in the last minute">Нет литья слитков уже больше минуты!</string>
-    <string name="MISSION_Build 8 Laser Power Transmitters">Постройте 8 Лазерных Передатчиков Энергии!</string>
+    <string name="MISSION_Build 8 Laser Power Transmitters">Постройте 8 Лазерных ЭнергоПередатчиков!</string>
     <string name="MISSION_Fit Faster Motors to Ore Extractors">Установите более быстрый привод на Экстрактор!</string>
     <string name="MISSION_CPH lacking resources">ЦЭК не достаточно ресурсов!</string>
     <string name="MISSION_Build Ore Extractors">Постройте Экстракторы Руды!</string>
@@ -2372,7 +2372,7 @@
     <string name="MISSION_Critical Research Mining Upgrades">Критическое Исследование : Улучшение добычи.</string>
     <string name="MISSION_Critical Research Automation">Критическое Исследование : Автоматизация.</string>
     <string name="MISSION_Fit a Suit Heater">Установите Обогреватель Костюма.</string>
-    <string name="MISSION_Upgrade your LPTs with Lenses">"Улучшите передатчики энергии Линзами "</string>
+    <string name="MISSION_Upgrade your LPTs with Lenses">"Улучшите энергопередатчики Линзами "</string>
     <string name="MISSION_Build a Forced Induction Kit">Постройте Усиливающий Индуктор.</string>
     <string name="MISSION_Place your Forced Induction Kit">Установите Усиливающий Индуктор.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Установите Солнечную Батарею МК1 на ваш костюм.</string>
