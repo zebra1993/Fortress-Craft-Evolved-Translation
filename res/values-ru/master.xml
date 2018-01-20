@@ -3524,7 +3524,7 @@
   <string name="Failed_Inventory_Full">Не получилось! 
 Инвентарь переполнен?</string>
 
-<string name="Add_Remove">Загр. + Выгр.</string>
+<string name="Add_Remove">Загрузка/выгрузка</string>
   <string name="ERR_TOO_COLD">Ух. СЛИШКОМ ХОЛОДНО</string>
   <string name="Tut_9_Title">Удачи!</string>
   <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно связать с Бункерами любого вида.
@@ -4010,4 +4010,6 @@
 <string name="Collected_research_for_additional">Собранные исследования для дополнительной</string>
 <string name="Player_just_collected_the">Я только что собрал</string>
 
-</resources>
+<string name="X_active_Machines_Load_X">{0} машин активно (нагрузка : {1})</string>
+  <string name="X_active_mobs_Load_X">{0} мобов активно (нагрузка : {1})</string>
+  </resources>
