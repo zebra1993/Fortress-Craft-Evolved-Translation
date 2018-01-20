@@ -29,7 +29,7 @@
     <string name="Reset_World">Сброс Мира</string>
 
 
-    <string name="Creative_New">Режим Творчества даёт неограниченную возможность строить что угодно, использовать детальные блоки с высоким разрешением и инструменты для редактирования мира, чертежи и систему быстрого копирования и вставки. В этом режиме не представлены основные моменты Выживания, так что не стоит считать его \"читерским\" по отношению к последнему!</string>
+    <string name="Creative_New">Режим Творчества даёт неограниченную возможность строить что угодно, использовать детальные блоки с высоким разрешением и инструменты для редактирования мира, чертежи и систему быстрого копирования и вставки. В этом режиме не представлены основные моменты Выживания, так что не стоит считать его «читерским» по отношению к последнему!</string>
     <string name="Mod_Management">Управление модами</string>
     <string name="Mod_Name">Название Мода</string>
     <string name="Active">Активен</string>
@@ -70,7 +70,7 @@
     <string name="Survival">Выживание</string>
     <string name="Creative">Творчество</string>
 
-    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите \"Вечный День\" для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
+    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите «Вечный День» для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
 Помните, что после создания Мира эти настройки нельзя изменить. Также обращайте внимание на ожидаемое время по критическим событиям!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
@@ -78,7 +78,7 @@
     <string name="Mods_Selected">модов выбрано.</string>
     <string name="Resources_Plentiful_Info">Изобильный уровень ресурсов даёт огромное количество ресурсов и значительно ускоряет развитие в игре. Подходит для терпеливых и новых игроков.</string>
     <string name="Resources_Scarce_Info">Скудный уровень ресурсов приведёт к неспешной и вдумчивой игре, с исследованием окружения и размышлениями об оптимизации базы. Не рекомендуется для новых игроков!</string>
-    <string name="Resources_Greg_Info">Уровень ресурсов \"Грег\" круто снизит скорость развития в игре. Такой уровень предназначен для играющих круглосуточно и для ВЕСЬМА терпеливых игроков!</string>
+    <string name="Resources_Greg_Info">Уровень ресурсов «Грег» круто снизит скорость развития в игре. Такой уровень предназначен для играющих круглосуточно и для ВЕСЬМА терпеливых игроков!</string>
     <string name="Resources_Rapid_Info">Стремительный уровень ресурсов предназначен для людей с личной жизнью, детьми, работой или тех, кто будет стримить игру на выходных. Прекрасно подходит для быстрого ознакомления с игрой, перед тем, как окунуться в игру с большей сложностью.</string>
 
 
@@ -95,7 +95,7 @@
     <string name="Death_Default_Info">Это режим по умолчанию. Нет штрафов за смерть, за исключением низкого уровня здоровья и долгих прогулок. Делает игру исключительно лёгкой, отсутствуют штрафы за любые виды смерти.</string>
     <string name="Death_Clumsy_Info">Неуклюжий режим подойдёт, если вам нужна хорошая причина, чтобы стараться не умирать! Умирая, вы будете выбрасывать содержимое инвентаря!</string>
     <string name="Death_Ironman_Info">НЕ ДЛЯ НОВИЧКОВ!
-Режим \"Железный Человек\" - только для храбрых, тупых или упёртых. Умирая, Вы будете окончательно и бесповортно ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
+Режим «Железный Человек» - только для храбрых, тупых или упёртых. Умирая, Вы будете окончательно и бесповоротно ТЕРЯТЬ всё содержимое вашего инвентаря!</string>
     <string name="Death_SquishCore_Info">НЕ РЕКОМЕНДУЕТСЯ НИКОМУ!
 
 Месиво - это просто - если вы умираете, то насовсем.</string>
@@ -106,7 +106,7 @@
     <string name="Flatland_Disabled">«Равнина» отключена.</string>
     <string name="Flatland_Enabled">«Равнина» активирована! Делает ландшафт равнинным - отсюда и название!</string>
 
-    <string name="Needs_FF">Требуется дополнение \"Морозная Фабрика\" (Frozen Factory).</string>
+    <string name="Needs_FF">Требуется дополнение «Морозная Фабрика» (Frozen Factory).</string>
 
     <string name="Care_Package_Enabled">Гуманитарная помощь включена! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку МК3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма. Халява! .</string>
 
@@ -701,7 +701,7 @@
     <string name="Pink Flowers">Розовые цветы</string>
     <string name="Pink Flowers_DESC">" "</string>
     <string name="Dyed Marble_DESC">" "</string>
-    <string name="Celtic Knot Tile">Плитка \"Кельтский узел\"</string>
+    <string name="Celtic Knot Tile">Плитка с Кельтским Узлом</string>
     <string name="Celtic Knot Tile_DESC">" "</string>
     <string name="Celtic Braid Pillar">Блок с Кельтским Узлом</string>
     <string name="Celtic Braid Pillar_DESC">" "</string>
@@ -1142,11 +1142,11 @@
     <string name="T4 Turret_DESC">Не важно</string>
     <string name="Logic Laser Emitter">Логический лазер</string>
     <string name="Logic Laser Emitter_DESC">Творческое лазерное устройство. Нереализовано</string>
-    <string name="Laser AND Gate">Лазерный Логический Элемент \"И\"</string>
+    <string name="Laser AND Gate">Лазерный Логический Элемент «И»</string>
     <string name="Laser AND Gate_DESC">" "</string>
-    <string name="Laser OR Gate">Лазерный Логический Элемент \"ИЛИ\"</string>
+    <string name="Laser OR Gate">Лазерный Логический Элемент «ИЛИ»</string>
     <string name="Laser OR Gate_DESC">" "</string>
-    <string name="Laser NOT Gate">Лазерный Логический Элемент \"НЕ\"</string>
+    <string name="Laser NOT Gate">Лазерный Логический Элемент «НЕ»</string>
     <string name="Laser NOT Gate_DESC">" "</string>
     <string name="Laser Pressure Pad">Лазерная нажимная пластина</string>
     <string name="Laser Pressure Pad_DESC">" "</string>
@@ -1622,7 +1622,7 @@
     <string name="Red Warning Light">Красная Мигалка</string>
     <string name="Orange Warning Light">Оранжевая Мигалка</string>
     <string name="Emergency Siren">Сирена</string>
-    <string name="CRP DLC KEY">Ключ от DLC \"CRP\"</string>
+    <string name="CRP DLC KEY">Ключ от DLC «CRP»</string>
     <string name="Adventures Pack DLC_DESC">Спасибо за покупку Adventures Pack DLC!</string>
     <string name="Adventures Pack DLC">Дополнение Adventures Pack</string>
     <string name="Workshop Placement">Размещение Мастерской</string>
@@ -1729,8 +1729,8 @@
     <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Учебный Лазерный Передатчик</string>
     <string name="MISSION_Place Tutorial Storage Hopper">Разместите Учебный Накопительный Бункер</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите Бункеры рядом с Плавильней.</string>
-    <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Добавить».</string>
-    <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на «Только Удалить».</string>
+    <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Загрузка».</string>
+    <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на «Только Выгрузка».</string>
     <string name="MISSION_Minecart derailed">Вагонетка сошла с рельсов!</string>
     <string name="MISSION_Place Ore Extractor on Copper Ore">Поместите Экстрактор Руды на Медную жилу.</string>
     <string name="MISSION_Find Copper Ore with Ping Unknown">Найдите Медную жилу. Сканер -&gt; «Поиск Неизвестного».</string>
@@ -2079,7 +2079,7 @@
     <string name="Exceptional Organic Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 250%.</string>
     <string name="Exceptional Organic Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 250%</string>
     <string name="Empty Fuel Canister_CRAFT_DESC">Пустая Топливная Канистра. Будьте «Зелеными» - используйте повторно, где это возможно!</string>
-    <string name="Empty Fuel Canister_CRAFT_HINT">Будьте \"Зелеными\" - используйте повторно!</string>
+    <string name="Empty Fuel Canister_CRAFT_HINT">Будьте «Зелеными» - используйте повторно!</string>
     <string name="Alloyed Machine Block_CRAFT_DESC">Подсказка: это неэффективный способ изготовления данных блоков. Автоматизация может быть намного эффективнее производства вручную.</string>
     <string name="Alloyed Machine Block_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать их!</string>
     <string name="Hardened Machine Block_CRAFT_DESC">Подсказка: это неэффективный способ изготовления данных блоков. Автоматизация может быть намного эффективнее производства вручную.</string>
@@ -2489,17 +2489,17 @@
     <string name="Truss_CRAFT_DESC">Декоративная металлическая ферма</string>
     <string name="Truss_CRAFT_HINT">Используйте Строительную Пасту!</string>
     <string name="DapperVIP_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperVIP_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="DapperVIP_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="DapperFrame_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperFrame_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="DapperFrame_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="DapperScale_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperScale_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
-    <string name="DapperWall_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="DapperScale_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
+    <string name="DapperWall_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="DapperWall_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
     <string name="Pumpkin Torch_CRAFT_DESC">Черные кошки в комплект не входят</string>
-    <string name="Pumpkin Torch_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="Pumpkin Torch_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="Halloween Cauldron_CRAFT_DESC">Худший источник света из когда-либо существовавших.</string>
-    <string name="Halloween Cauldron_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="Halloween Cauldron_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="Snowman_CRAFT_DESC">Не расплавится, даже если подвергнется воздействию Магмы.</string>
     <string name="Snowman_CRAFT_HINT">У тебя нет дополнения Dapper DLC? Тогда тебе придется отпустить это.</string>
     <string name="Celtic Braid Pillar_CRAFT_DESC">Спасибо ButcherBoyToma за то, что он поддерживает эту игру. Хотите помочь? www.patreon.com/FortressCraft</string>
@@ -3156,7 +3156,7 @@
   <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">Необходимы ВСЕ DLC и дополнения для доступа к этой раскраске!</string>
   <string name="User_was_missing">Пользователя не было</string>
   <string name="See_Patreon_for_details">Подробности на http://www.patreon.com/Fortresscraft !</string>
-  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Вам нужен Щегольский комплект, чтобы заиметь раскраску «Флаг Великобритании»!</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Вам нужен Щёгольский комплект, чтобы заиметь раскраску «Флаг Великобритании»!</string>
   <string name="You_need_Skin_Pack_1_access_skin">Необходим Skin Pack #1 для доступа к этой раскраске!</string>
   <string name="You_need_CRP_fo_this_see_Patreon_details">Чтобы обладать этим, вам нужен комплект «Благодарность Сообществу» (Community Rewards Pack)! (См. http://www.patreon.com/Fortresscraft)</string>
   <string name="Only_good_boys_girls_this_skin">Только хорошим мальчикам и девочкам доступна такая раскраска!</string>
@@ -3568,8 +3568,8 @@
   <string name="Using_X_PPS">Потребляется {0} Э/с.</string>
   <string name="T_to_store_X">«T» - складировать {0}</string>
   <string name="Try_Shift_and_Ctrl">(Пробуйте «SHIFT» и «CTRL»)</string>
-  <string name="Add_Only">Только Загр.</string>
-  <string name="Remove_Only">Только выгрузка</string>
+  <string name="Add_Only">Только Загрузка</string>
+  <string name="Remove_Only">Только Выгрузка</string>
   <string name="Toggle_Vacuum">Всасывание</string>
   <string name="Vacuum_Off">Всасыв.: Выкл.</string>
   <string name="Press_I_to_toggle_I_nventory">Нажмите «I», чтобы открыть Инвентарь</string>
