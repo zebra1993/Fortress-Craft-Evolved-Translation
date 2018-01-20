@@ -3101,10 +3101,10 @@ Alle anderen Prioritäten wurden aufgehoben!</string>
 <string name="not_collecting_ore">kein Erz sammeln</string>
 <string name="Base_Battery">Basisbatterie</string>
 <string name="used">gebraucht</string>
-<string name="PTGs">PTGs</string>
+<string name="PTGs">Pyrothermische Generatoren</string>
 <string name="Enriched">Angereichert</string>
 <string name="Infused">eingeflößt</string>
-<string name="LPTs">LPTs</string>
+<string name="LPTs">LETs</string>
 <string name="with_lenses">mit Linsen</string>
 <string name="Storage">Lager</string>
 <string name="No_MS_system_detected">Kein Massenspeichersystem erkannt</string>
@@ -3174,7 +3174,7 @@ Wil ersetzt werden!</string>
 <string name="ConstructoBot Ultron Chassis">ConstructoBot Ultron Chase</string>
 <string name="ConstructoBot Cromize Chassis">ConstructoBot Cromize Chase</string>
 <string name="ConstructoBot Stenforcer Chassis">ConstructoBot Stenforcer Chase</string>
-<string name="ConstructoBot Titaniux Chassis">ConstructoBot Titaniux Chasis</string>
+<string name="ConstructoBot Titaniux Chassis">ConstructoBot Titanius Chasis</string>
 <string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld Chase</string>
 <string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldrute Chasis</string>
 <string name="ConstructoBot Ironide Chassis">ConstructoBot-Eisenid-Chase</string>
@@ -3509,7 +3509,7 @@ Einige Archive wurden noch nicht komprimiert, aber dies kann ohne Verlust übers
 <string name="Possible_Projects">Mögliche Projekte</string>
 <string name="Consult_research_station_for_details">Einzelheiten erfahren Sie bei der Forschungsstation</string>
 <string name="Analyse">Analysieren</string>
-<string name="Experiment">Experiment</string>
+<string name="Experiment">das Experiment</string>
 <string name="Player_just_started_the">Ich habe gerade angefangen</string>
 <string name="Project">Projekt</string>
 <string name="Collected_research_for_additional">Gesammelte Forschung für ein zusätzliches</string>
@@ -3602,7 +3602,7 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
 <string name="Unconnected_Trencher_Motor">Unverbundener Grabenzieher-Motor</string>
   
 <string name="OET_Strike_requested_Quadrant_X">Orbitale Bombardierung bei Quadrant angefordert {0}</string>
-<string name="Quadrant">Quadrant</string>
+<string name="Quadrant">der Quadrant</string>
 <string name="has_been_cleared">wurde gereinigt!</string>
   <string name="Quadrant_X_has_been_cleared">Quadrant {0} wurde gereinigt!</string>
   
