@@ -1192,7 +1192,7 @@
     <string name="Zipper Merge">Объединитель</string>
     <string name="Zipper Merge_DESC">Объединяет два потока в один в соотношении 50:50.</string>
     <string name="3'n1 Zipper Merge">Объединитель 3-в-1</string>
-    <string name="3'n1 Zipper Merge_DESC">Быстро объединяет два потока в один в следующем порядке: Пр., Пр., Пр., Лев.. Превращает задачу создания Исследовательских Ячеек в сущий пустяк!</string>
+    <string name="3'n1 Zipper Merge_DESC">Быстро объединяет два потока в один в следующем порядке: Пр., Пр., Пр., Лев.. Превращает задачу создания Экспериментальных Ячеек в сущий пустяк!</string>
     <string name="Rapid Zipper Merge">Быстрый Объединитель</string>
     <string name="Rapid Zipper Merge_DESC">Быстро объединяет два потока в один в соотношении 50:50.</string>
     <string name="Fusion Reactor Pylon">Опора термоядерного реактора</string>
@@ -2385,7 +2385,7 @@
     <string name="Zipper Merge_CRAFT_HINT">Подключите непосредственно к конвейерным лентам. Работает только в том случае, если к обеим сторонам подаются материалы.</string>
     <string name="Rapid Zipper Merge_CRAFT_DESC">Быстро объединяет два потока в один в соотношении 50:50. Значительный быстрее, чем обычный Объединитель.</string>
     <string name="Rapid Zipper Merge_CRAFT_HINT">Подключите непосредственно к конвейерным лентам. Работает только в том случае, когда к обеим сторонам подаются материалы.</string>
-    <string name="3'n1 Zipper Merge_CRAFT_DESC">Быстро объединяет два потока в один в следующем порядке: Пр., Пр., Пр., Лев.. Превращает задачу создания Исследовательских Ячеек в сущий пустяк!</string>
+    <string name="3'n1 Zipper Merge_CRAFT_DESC">Быстро объединяет два потока в один в следующем порядке: Пр., Пр., Пр., Лев.. Превращает задачу создания Экспериментальных Ячеек в сущий пустяк!</string>
     <string name="3'n1 Zipper Merge_CRAFT_HINT">Подключите непосредственно к конвейерным лентам. Работает только в том случае, когда к обеим сторонам подаются материалы.</string>
     <string name="Matter Mover_CRAFT_DESC">Передаёт ресурсы от одного присоединенного Накопительного Бункера в другой на расстояние до 64 метров. Прикрепите к стене, чтобы передать по вертикали. Быстр, но прожорлив.</string>
     <string name="Matter Mover_CRAFT_HINT">Переносчик Материи, потребляет много энергии</string>
@@ -3203,7 +3203,7 @@
   <string name="Other">Прочее</string>
   <string name="Unknown_Ore">Неизвестная Руда</string>
   <string name="Unknown_Material">Неизвестный Материал</string>
-  <string name="Closest">Ближайший</string>
+  <string name="Closest">Ближайшее -</string>
   <string name="Press_X_for_Build_Gun">«X» для возврата к
 Строительной Пушке</string>
   <string name="Wheelmouse_to_Select">Колесо мыши для Выбора</string>  
@@ -3558,7 +3558,8 @@
   
 <string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Поместите Испорченную органику в смежный Бункер!</string>
   
-<string name="Add_Ore_to_begin">Для запуска нужна руда!</string>
+<string name="Add_Ore_to_begin">Для запуска
+нужна руда!</string>
   <string name="Click_icon_to_retrieve">ЛКМ по иконке, чтобы забрать</string>
   <string name="Used_X_Free_X_E_Open_Storage_Interface">Занято: {0}. Своб.:{1} 
  «E» - открыть интерфейс</string>
@@ -3665,7 +3666,7 @@
   <string name="Retriving_Drill_at_depth_X">Возврат Бура (на глубине {0}м)</string>
   <string name="Compressing">Сжатие...</string>
   <string name="Compressing_X_using_X_PPS">Сжатие: {0} , затрачивая {1} Э/с</string>
-  <string name="Need_X_more_to_begin">Нужно ещё {0} для запуска.</string>
+  <string name="Need_X_more_to_begin">Нужно ещё {0}.</string>
   <string name="CPH_Offline_filtration_paused">ЦЭК выведен из строя - фильтрация приостановлена!</string>
   <string name="POWER_LOW">МАЛО ЭНЕРГИИ!</string>
   <string name="Filtering_using_X_PPS">Для фильтрации нужно {0} Э/с</string>
@@ -3816,7 +3817,7 @@
   <string name="out_of_health_some_reason">Почему-то вдруг закончилось здоровье!</string>
   <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Вы погибли от токсичных испарений
 Изготовьте Противогаз!</string>
-  <string name="Idle">Вхолостую</string>
+  <string name="Idle">Простаивает</string>
 <string name="Storage_full">Бункер полон</string>
   <string name="Storage_Empty">Бункер пуст</string>
   <string name="X_free_slots">{0} слотов свободно</string>
@@ -3944,4 +3945,5 @@
   <string name="Behaviour_X_updated">Поведение {0} обновлено</string>
   <string name="size_and_or_speed_parameter_could_not_be_parsed">параметр размера и/или скорости не идентифицирован</string>
   <string name="Missing_size_or_speed_parameter">Отсутствует параметр размера или скорости</string>
-  </resources>
+  <string name="Empty">Пусто</string>
+</resources>
