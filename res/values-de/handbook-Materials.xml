@@ -687,7 +687,7 @@ Erzförderungseffizienz:</string>
  25
  "</string>
 <string name="MA.Bulk_Mass_Storage_Stocking_Port.02.Left">"Portkapazität:
- Drohne Inventory:
+ Drohneninventar:
  "</string>
 <string name="MA.Forced_Induction.00.Title">Induktionseinheit</string>
 <string name="MA.Forced_Induction.01.Paragraph">Induktionseinheiten erweitern die Erzschmelze, wodurch diese schneller schmelzt auf Kosten eines weitaus höheren Energieverbrauchs. Um dieses Modul zu verwenden, platziere es auf der Erzschmelze.</string>
@@ -1379,7 +1379,7 @@ Ja</string>
 <string name="MA.Pristine_Faceted_Eye.00.Title">Makelloses facettiertes Auge</string>
 <string name="MA.Pristine_Faceted_Eye.01.Paragraph">Die Augen der lokalen fliegenden Lebensformen bilden eine hervorragende optische Komponente. Dieser ist in einem guten Zustand, um verwendet zu werden.</string>
 <string name="MA.Pristine_Heavy_Chitin.00.Title">Reines schweres Chitin</string>
-<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">Ausgesprochenes KY-Chitin, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
+<string name="MA.Pristine_Heavy_Chitin.01.Paragraph">Ausgesprochen Kitin, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
 <string name="MA.Pristine_Light_Chitin.00.Title">Reines Lichtchitin</string>
 <string name="MA.Pristine_Light_Chitin.01.Paragraph">Ausgesprochenes KY-Zinn, Chitin ist ein langkettiges Polymer, das Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff enthält. Es scheint ein grundlegender Bestandteil vieler lokaler Lebensformen zu sein.</string>
 <string name="MA.Pristine_Phosphorescent_Gland.00.Title">Unberührte phosphoreszierende Drüse</string>
@@ -1695,7 +1695,7 @@ Jeder Bottich enthält viele elektrische Leitungen sowie viele Transportrohre. A
  16
  15 Sekunden</string>
 <string name="MA.Threat_Agitator.00.Title">Bedrohungssteigerer</string>
-<string name="MA.Threat_Agitator.01.Paragraph">"Mit einer ähnlichen Technologie wie der Bedruhungsreduzierer fügt jeder Bedrohungssteigerer 10% der Basisbedrohung hinzu und zieht 5 weitere Insektoide an. Der 10% ige Anstieg der Bedrohung stapelt nicht exponentiell. Der Bedrohungssteigerer nutzt die vierfache Kraft des Bedrohung-Calmers für insgesamt 20 Power-Einheiten pro Sekunde. "</string>
+<string name="MA.Threat_Agitator.01.Paragraph">"Mit einer ähnlichen Technologie wie der Bedrohungsreduzierer fügt jeder Bedrohungssteigerer 10% der Basisbedrohung hinzu und zieht 5 weitere Insektoide an. Der 10% ige Anstieg der Bedrohung stapelt sich nicht exponentiell. Der Bedrohungssteigerer nutzt die vierfache Kraft des Bedrohung-Calmers für insgesamt 20 Power-Einheiten pro Sekunde. "</string>
 <string name="MA.Threat_Agitator.03.Left">Benötigt energie:</string>
 <string name="MA.Threat_Agitator.04.Right">Ja</string>
 <string name="MA.Threat_Reducer.00.Title">Bedrohungsreduzierer</string>
