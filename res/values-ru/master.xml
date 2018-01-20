@@ -4010,8 +4010,8 @@
 <string name="Collected_research_for_additional">Собранные исследования для дополнительной</string>
 <string name="Player_just_collected_the">Я только что собрал</string>
 
-<string name="X_active_Machines_Load_X">{0} машин активно (нагрузка : {1})</string>
-  <string name="X_active_mobs_Load_X">{0} мобов активно (нагрузка : {1})</string>
+<string name="X_active_Machines_Load_X">{0} активных машин (нагрузка : {1})</string>
+  <string name="X_active_mobs_Load_X">{0} активных мобов (нагрузка : {1})</string>
   <string name="Mutator_Pandora_Active">Грузовые Капсулы будут содержать разнообразные предметы.</string>
 <string name="Mutator_Pandora_Not_Active">Грузовые Капсулы будут содержать только помощь для исследований. Может, и к лучшему.</string>
 </resources>
