@@ -7,7 +7,7 @@
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
-    <string name="Dapper_Pack">Щегольский комплект</string>
+    <string name="Dapper_Pack">Щёгольский комплект</string>
     <string name="Not_Installed">Нет</string>
     <string name="Multiplayer_Sign">&lt;Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
@@ -393,16 +393,16 @@
     <string name="ARTHER Battery Cores">Батареи АРЧЕРа</string>
     <string name="ARTHER Upgrade Pack">Набор Улучшений АРЧЕРа</string>
     <string name="ARTHER Upgrade Packs">Наборов Улучшений АРЧЕРа</string>
-    <string name="ARTHER Dapper Hat">Щегольская шляпа АРЧЕРа</string>
-    <string name="ARTHER Dapper Hats">Щегольские шляпы АРЧЕРа</string>
-    <string name="ARTHER Dapper Monocle">Щегольский монокль АРЧЕРа</string>
-    <string name="ARTHER Dapper Monocles">Щегольские монокли АРЧЕРа</string>
-    <string name="ARTHER Dapper Moustache">Щегольские усы АРЧЕРа</string>
-    <string name="ARTHER Dapper Moustaches">Щегольские усы АРЧЕРа</string>
-    <string name="ARTHER Dapper Pack">Щегольский набор АРЧЕРа</string>
-    <string name="ARTHER Dapper Packs">Щегольские наборы АРЧЕРа</string>
-    <string name="ARTHER Dapper Upgrade Pack">Щегольское Усовершенствование АРЧЕРа</string>
-    <string name="ARTHER Dapper Upgrade Packs">Щегольских Усовершенствований АРЧЕРа</string>
+    <string name="ARTHER Dapper Hat">Щёгольская шляпа АРЧЕРа</string>
+    <string name="ARTHER Dapper Hats">Щёгольские шляпы АРЧЕРа</string>
+    <string name="ARTHER Dapper Monocle">Щёгольский монокль АРЧЕРа</string>
+    <string name="ARTHER Dapper Monocles">Щёгольские монокли АРЧЕРа</string>
+    <string name="ARTHER Dapper Moustache">Щёгольские усы АРЧЕРа</string>
+    <string name="ARTHER Dapper Moustaches">Щёгольские усы АРЧЕРа</string>
+    <string name="ARTHER Dapper Pack">Щёгольский набор АРЧЕРа</string>
+    <string name="ARTHER Dapper Packs">Щёгольские наборы АРЧЕРа</string>
+    <string name="ARTHER Dapper Upgrade Pack">Щёгольское Усовершенствование АРЧЕРа</string>
+    <string name="ARTHER Dapper Upgrade Packs">Щёгольских Усовершенствований АРЧЕРа</string>
     <string name="ARTHER Ghost Costume">Костюм призрака АРЧЕРа</string>
     <string name="ARTHER Ghost Costumes">Костюмы призрака АРЧЕРа</string>
     <string name="ARTHER Skeleton Mask">Маска скелета АРЧЕРа</string>
@@ -1343,7 +1343,7 @@
     <string name="Present3_DESC">" "</string>
     <string name="Present4">Подарок 4</string>
     <string name="Present4_DESC">"  "</string>
-    <string name="DapperVIP">Щегольский VIP-блок</string>
+    <string name="DapperVIP">Щёгольский VIP-блок</string>
     <string name="TestDiffuse">Тест диффузии</string>
     <string name="Pumpkin Torch">Тыквенный факел</string>
     <string name="Snowman">Снеговик</string>
@@ -1410,9 +1410,9 @@
     <string name="Celtic Black Braid">Чёрный Кельтский Узел</string>
     <string name="Neon Circuit">Неоновый контур</string>
     <string name="Neon Border">Неоновая кайма</string>
-    <string name="DapperFrame">Щегольская Рама</string>
-    <string name="DapperScale">Щегольская Чешуя</string>
-    <string name="DapperWall">Щегольская Стена</string>
+    <string name="DapperFrame">Щёгольская Рама</string>
+    <string name="DapperScale">Щёгольская Чешуя</string>
+    <string name="DapperWall">Щёгольская Стена</string>
     <string name="Space Warz Hatch1">Люк Космических войн 1</string>
     <string name="Space Warz Hatch2">Люк Космических войн 2</string>
     <string name="Space Warz Siding1">Сайдинг Космических войн 1</string>
@@ -2037,7 +2037,7 @@
     <string name="ARTHER Upgrade Pack_CRAFT_HINT">Используйте это, чтобы сохранить место в инвентаре.</string>
     <string name="ARTHER Dapper Moustache_CRAFT_DESC">Усы АРЧЕРа. Доступны при наличии Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Moustache_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
-    <string name="ARTHER Dapper Hat_CRAFT_DESC">Сохраняет АРЧЕРа щеголеватым И сухим! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
+    <string name="ARTHER Dapper Hat_CRAFT_DESC">Сохраняет АРЧЕРа щёголеватым И сухим! Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Hat_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_DESC">Монокль АРЧЕРа. Доступен при наличии Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
@@ -2488,17 +2488,17 @@
     <string name="Truss_CRAFT_DESC">Декоративная металлическая ферма</string>
     <string name="Truss_CRAFT_HINT">Используйте Строительную Пасту!</string>
     <string name="DapperVIP_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperVIP_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
+    <string name="DapperVIP_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
     <string name="DapperFrame_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperFrame_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
+    <string name="DapperFrame_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
     <string name="DapperScale_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
-    <string name="DapperScale_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
-    <string name="DapperWall_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
+    <string name="DapperScale_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
+    <string name="DapperWall_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
     <string name="DapperWall_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
     <string name="Pumpkin Torch_CRAFT_DESC">Черные кошки в комплект не входят</string>
-    <string name="Pumpkin Torch_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
+    <string name="Pumpkin Torch_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
     <string name="Halloween Cauldron_CRAFT_DESC">Худший источник света из когда-либо существовавших.</string>
-    <string name="Halloween Cauldron_CRAFT_HINT">Требуется дополнение \"DLC Щеголя\" (Dapper DLC)!</string>
+    <string name="Halloween Cauldron_CRAFT_HINT">Требуется дополнение «DLC Щёголя» (Dapper DLC)!</string>
     <string name="Snowman_CRAFT_DESC">Не расплавится, даже если подвергнется воздействию Магмы.</string>
     <string name="Snowman_CRAFT_HINT">У тебя нет дополнения Dapper DLC? Тогда тебе придется отпустить это.</string>
     <string name="Celtic Braid Pillar_CRAFT_DESC">Спасибо ButcherBoyToma за то, что он поддерживает эту игру. Хотите помочь? www.patreon.com/FortressCraft</string>
@@ -2734,7 +2734,7 @@
   <string name="Hint_5">Генерация энергии, добыча руды и литьё слитков повышают создаваемую вами Угрозу</string>
   <string name="Hint_7">Грузовые лифты превосходят всё остальное в плане вертикальной транспортировки</string>
   <string name="Hint_8">Удерживайте «CTRL», чтобы создать 25 предметов одним кликом</string>
-  <string name="Hint_9">Разделяйте \"стопки\" предметов, зажимая клавишу «SHIFT»</string>
+  <string name="Hint_9">Разделяйте стопки предметов, зажимая клавишу «SHIFT»</string>
   <string name="Hint_10">Максимальное количество руды в стопке - 150 ед., поэтому не забывайте выплавять из неё слитки</string>
   <string name="Hint_11">Используйте Энергоячейки, чтобы быстро восполнить энергию во время путешествия</string>
   <string name="Hint_12">Создайте из дерева Ящики, чтобы складывать туда то, что вам сейчас не нужно</string>
@@ -2783,7 +2783,7 @@
 
 
 <string name="ConstructoBot Ironide Chassis">Железитные Корпуса СтройБотов</string>
-<string name="Hint_24">Введите без кавычек строку \"/detail bloom\" в чат, чтобы уменьшить эффект отражения света от оборудования</string>
+<string name="Hint_24">Введите без кавычек строку «/detail bloom» в чат, чтобы уменьшить эффект отражения света от оборудования</string>
   <string name="Hint_40">"Когда вы встаёте на лифт, который имеет возможность двигаться и вниз, и вверх - направление вашего взгляда будет определять направление движения.  Посмотрите вверх, чтобы поехать вверх!"</string>
   <string name="Hint_41">Не бойтесь перестраивать что-либо, если первоначальный проект уже не соответствует вашим потребностям.</string>
   <string name="Hint_42">Откройте вкладку инвентаря усовершенствований, нажав «S» в окне инвентаря. Туда вы можете поместить все усовершенствования своего костюма или АРЧЕРа, чтобы сэкономить место в основном инвентаре.</string>
@@ -2846,9 +2846,9 @@
 <string name="Blockaholic">Блокоголик</string>
 <string name="Blockaholic_DESC">Играйте в сумме более 24 часов</string>
 <string name="Milk_no_sugar">С молоком, но без сахара</string>
-<string name="Milk_no_sugar_DESC">Достичь ранга \"Непонятный\"</string>
+<string name="Milk_no_sugar_DESC">Достичь ранга «Непонятный»</string>
 <string name="Helpin_Noobs">Помогая новичкам</string>
-<string name="Helpin_Noobs_DESC">Проголосовать по мирам, имеющим ранг \"Непонятный\" или ниже</string>
+<string name="Helpin_Noobs_DESC">Проголосовать по мирам, имеющим ранг «Непонятный» или ниже</string>
 <string name="Variety_is_spice_of_life">Разнообразие придаёт остроту жизни</string>
 <string name="Variety_is_spice_of_life_DESC">Постройте все типы блоков</string>
 <string name="Fully_loaded">Совсем загружен</string>
@@ -2856,7 +2856,7 @@
 <string name="Relic_hunter">Охотник за реликвиями</string>
 <string name="Relic_hunter_DESC">Найдите все реликвии</string>
 <string name="I_am_Legend">Я - Легенда</string>
-<string name="I_am_Legend_DESC">Достичь ранга \"Легендарный\"</string>
+<string name="I_am_Legend_DESC">Достичь ранга «Легендарный»</string>
 <string name="Foreman">Прораб</string>
 <string name="SwissCheese">Швейцарский сыр</string>
 <string name="Current_Admins">Текущие Администраторы</string>
@@ -2985,8 +2985,8 @@
 
 <string name="Strong_defenses_detected">Слишком сильная оборона базы. Рекомендовано повысить Угрозу, для увеличения добычи органики</string>
 <string name="Base_Smelter_automation_SH_Permissions">Для автоматизации производства на Базовой Плавильне нужны настроенные Бункеры.</string>
-<string name="Base_Smelter_Input_Automation_Remove_Only_SH">Автоматизируйте загрузку в Базовую Плавильню с помощью Бункера с настройкой \"Только Загрузка\".</string>
-<string name="Base_Smelter_Output_Automation_AO_SH">Автоматизируйте выгрузку из Базовой Плавильни с помощью Бункера с настройкой \"Только Загрузка\".</string>
+<string name="Base_Smelter_Input_Automation_Remove_Only_SH">Автоматизируйте загрузку в Базовую Плавильню с помощью Бункера с настройкой «Только Выгрузка».</string>
+<string name="Base_Smelter_Output_Automation_AO_SH">Автоматизируйте выгрузку из Базовой Плавильни с помощью Бункера с настройкой «Только Загрузка».</string>
 <string name="Explore_Deeper">Исследуйте Глубины!</string>
 <string name="Craft_fit_Suit_Heater">Изготовьте и установите Обогреватель Костюма!</string>
 <string name="Suit_Heater_Active">Обогреватель Костюма: Активен</string>
@@ -3524,8 +3524,8 @@
 <string name="Add_Remove">Загр. + Выгр.</string>
   <string name="ERR_TOO_COLD">Ух. СЛИШКОМ ХОЛОДНО</string>
   <string name="Tut_9_Title">Удачи!</string>
-  <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно сопрячь с Бункерами любого вида.
-Однако, если Бункеры настроены неправильно, может случиться беда! Настройке режимы бункеров так, чтобы один работал только на загрузку, а второй только на выгрузку ресурсов. Положите руду в Бункер с режимом \"Только Загрузка\", и слитки из Плавильни будут сгружаться в другой бункер.</string>
+  <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно связать с Бункерами любого вида.
+Однако, если Бункеры настроены неправильно, может случиться беда! Настройте режимы бункеров так, чтобы один работал только на загрузку, а второй только на выгрузку ресурсов. Положите руду в Бункер с режимом «Только Выгрузка», и слитки из Плавильни будут сгружаться в другой бункер.</string>
   <string name="Smelting_Automation">Автоматизация выплавки слитков</string>
   <string name="Insert_Ore_to_start">Загрузите руду</string>
   <string name="Need">Нужно</string>
