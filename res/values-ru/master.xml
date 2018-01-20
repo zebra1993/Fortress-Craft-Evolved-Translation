@@ -2778,9 +2778,9 @@
 <string name="Locate_Gold_Ore">Найти : Золотая Руда.</string>
 <string name="Locate_Titanium_Ore">Найти : Титановая Руда.</string>
 <string name="Locate_Nickel_Ore">Найти : Никелевая Руда.</string>
-<string name="ConstructoBot Coppator Chassis">Медировые Корпуса СтройБотов</string>
-<string name="ConstructoBot Coppator Arm">Медировые Руки СтройБотов</string>
-<string name="ConstructoBot Coppator Leg">Медировые Ноги СтройБотов</string>
+<string name="ConstructoBot Coppator Chassis">Медировый Корпус СтройБота</string>
+<string name="ConstructoBot Coppator Arm">Медировая Рука СтройБота</string>
+<string name="ConstructoBot Coppator Leg">Медировая Нога СтройБота</string>
 <string name="ConstructoBot Tindron Chassis">Оловронные Корпуса СтройБотов</string>
 <string name="ConstructoBot Bronzite Chassis">Бронзитовые Корпуса СтройБотов</string>
 
@@ -2935,7 +2935,7 @@
 <string name="Needs_more_power_to_offload">Требуется больше энергии для разгрузки!</string>
 <string name="Cannot_locate_adjacent_offload_Hoppers">Не удается найти соседние Бункеры для разгрузки!</string>
 <string name="Attached_machines">Прикрепленное оборудование</string>
-<string name="Total_Machines">Всё Оборудование</string>
+<string name="Total_Machines">Оборудования всего</string>
 <string name="CB_failed_get_storage_machine_">СтройБот не смог найти оборудование для хранения!</string>
 
 <string name="Transferred">Перемещено</string>
@@ -2986,7 +2986,7 @@
 <string name="used_of">использовано из</string>
 <string name="Recommendation">Рекомендация</string>
 
-<string name="Strong_defenses_detected">Слишком сильная оборона базы. Рекомендовано повысить Угрозу, для увеличения добычи органики</string>
+<string name="Strong_defenses_detected">Слишком сильная оборона базы. Рекомендовано повысить Угрозу для увеличения добычи органики</string>
 <string name="Base_Smelter_automation_SH_Permissions">Для автоматизации производства на Базовой Плавильне нужны настроенные Бункеры.</string>
 <string name="Base_Smelter_Input_Automation_Remove_Only_SH">Автоматизируйте загрузку в Базовую Плавильню с помощью Бункера с настройкой «Только Выгрузка».</string>
 <string name="Base_Smelter_Output_Automation_AO_SH">Автоматизируйте выгрузку из Базовой Плавильни с помощью Бункера с настройкой «Только Загрузка».</string>
@@ -3419,7 +3419,7 @@
 <string name="Configuring_Pipe_alignment">Выравнивание труб</string>
 <string name="Guides">Руководства</string>
 <string name="No_projects_completed_Visit_research_station">Нет завершенных проектов. Используйте Исследовательскую станцию.</string>
-<string name="helpfile_for_this_not_been_implemented_sorry">Для этого файла помощи ещё нет. Извините!</string>
+<string name="helpfile_for_this_not_been_implemented_sorry">Для этого объекта файла помощи ещё нет. Извините!</string>
 <string name="player_does_not_know_material">Игроку неизвестен этот материал</string>
 <string name="Requirements">Требования</string>
 <string name="Costs_an_additional">Дополнительные затраты:</string>
@@ -3611,8 +3611,8 @@
 <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">Для получения дополнительной информации о проекте {0} и списка открываемых им рецептов используйте Справочник (клавиша «H»).</string>
   
 <string name="Length">Длина</string>
-<string name="Inventories">Bydt</string>
-<string name="Debug_Cryospawn_Data">Источник_Ползунов</string>
+<string name="Inventories">Инвентарь</string>
+<string name="Debug_Cryospawn_Data">[DEBUG]Информация о Ползунах</string>
 <string name="Built">Построен</string>
 <string name="Sleeping_for">Спит</string>
 <string name="Player_Bonus_was">Бонус Игрока:</string>
@@ -3652,7 +3652,7 @@
 <string name="Unable_locate_Freezon_Gas_hopper">В Бункере нет Фризона</string>
 <string name="Optimal_temperature_diff_reached">Достигнут оптимальный перепад температур!</string>
 <string name="Temperature_diff">Перепад температур</string>
-<string name="Rush_mode_active_boost_on">Включён режим спешки - !</string>
+<string name="Rush_mode_active_boost_on">Включён режим спешки - погнали!</string>
 
 <string name="Handbook_No_specific_help_available">Помощь недоступна. Пожалуйста, обратитесь к следующей странице за подсказками и рецептами!</string>
 <string name="Handy_Hint_0">Мир FortressCraft достигает размеров более 1000 световых лет в любом направлении</string>
@@ -3963,5 +3963,51 @@
 <string name="Hasty">Стремительный</string>
 <string name="Bounds">Границы</string>
 <string name="Aloofness">Отчуждённость</string>
-<string name="Proximity">"близость "</string>
+<string name="Proximity">Близость</string>
+<string name="Concurrency">Совпадение</string>
+<string name="Juxtaposition">Наложение</string>
+<string name="Propinquity">Соседство</string>
+<string name="Farsight">Предусмотрительность</string>
+<string name="ConstructoBot Ultron Chassis">Ультроновый Корпус СтройБота</string>
+<string name="ConstructoBot Cromize Chassis">Кромитовый Корпус СтройБота</string>
+<string name="ConstructoBot Stenforcer Chassis">Стенлитовый Корпус СтройБота</string>
+<string name="ConstructoBot Titaniux Chassis">Никтановый Корпус СтройБота</string>
+<string name="ConstructoBot Rosteeld Chassis">Ростальтовый Корпус СтройБота</string>
+<string name="ConstructoBot Goldenrod Chassis">Золорутовый Корпус СтройБота</string>
+<string name="Order">Команда</string>
+<string name="Switch">Сменить</string>
+<string name="Toggle">Переключить</string>
+<string name="Error_failed_to_locate_non_null_item_unload">Ошибка. Не удалось обнаружить действительный предмет для выгрузки!</string>
+<string name="C5_Spawning">ЦКК готовится</string>
+<string name="PeakBuilds">ПиковоеСтроительство</string>
+<string name="CB_collected">СтройБот собран</string>
+<string name="C5_Offline_defences_offline">ЦКК не активен - Защита отключена.</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">Используйте Фризоновый Инжектор для зарядки Копья.</string>
+<string name="Storing_Freezon_ready_inject">Фризон накоплен, готов к инжекции!</string>
+<string name="No_Freezon_compatible_machine_located">Фризон-совместимого оборудования не обнаружено</string>
+
+<string name="Attempting_drop">Попытка выгрузки</string>
+<string name="into_hopper">в Бункер!</string>
+<string name="Failed_insert">Не удалось подать</string>
+<string name="into_storage_hopper">в Бункер?</string>
+
+<string name="No_Valid_attached_Hoppers">Нет присоединенных Бункеров!</string>
+<string name="Looking_in_attached_hopper">Поиск в присоединенном Бункере:</string>
+<string name="s_Freezon_boost_left">с до конца Фризонового усиления!</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">"Поместите Фризоновый контейнер в Бункер для увеличения Энерг./с в 20  раз!"</string>
+<string name="Placing_verifying_pipes">Размещение и проверка труб.</string>
+<string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
+<string name="Cant_locate_pipes_in_adjacent_SH">Нет труб в присоединенном Бункере!</string>
+<string name="Freezon_Gas_required_full_performance">Для максимальной эффективности нужен Фризон!</string>
+<string name="Handy_Hint_2">Супер-строительство позволяет вносить существенные изменения в мир - попробуйте!</string>
+<string name="SuperBuild_lets_you_create_massive_structures_quickly">СуперСтроительство позволяет быстро создавать громадные структуры. Жмите «F10» чтобы выйти</string>
+<string name="Schematics_lets_you_easily_duplicate_your_creations">Схемы позволяют с лёгкостью копировать ваши творения. «F11» - выход</string>
+
+<string name="ready_to_inject">готов к инжекции!</string>
+<string name="Collect">Собрать</string>
+<string name="Current">Энергия</string>
+<string name="Collect_Research">Собрать Исследование</string>
+<string name="Collected_research_for_additional">Собранные исследования для дополнительной</string>
+<string name="Player_just_collected_the">Я только что собрал</string>
+
 </resources>
