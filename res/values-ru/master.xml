@@ -1724,7 +1724,7 @@
     <string name="OS_Output">Выход Плавильни</string>
     <string name="Installed_Lift">Установленный Лифт</string>
 
-    <string name="MISSION_(R)otate the LPT towards the PSB">Повернуть (клавиша «R») ЛПЭ в направлении Энергохранилища!</string>
+    <string name="MISSION_(R)otate the LPT towards the PSB">Повернуть (клавиша «R») ЛЭП в направлении Энергохранилища!</string>
     <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Учебный Лазерный Передатчик</string>
     <string name="MISSION_Place Tutorial Storage Hopper">Разместите Учебный Накопительный Бункер</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите Бункеры рядом с Плавильней.</string>
@@ -2977,7 +2977,7 @@
   <string name="Day">День</string>
   <string name="items_with">предметов с</string>
 <string name="Ore_Thief_3k">Рудокрад</string>
-<string name="LPTs">ЛПЭ</string>
+<string name="LPTs">ЛЭП</string>
 <string name="No_MS_system_detected">Не обнаружен Склад</string>
 <string name="MS_Crates_with">ящиков на Складке с</string>
 <string name="used_of">использовано из</string>
@@ -3805,7 +3805,7 @@
 
 Подойдите к Заводу, выделите его, нажмите «E» и создайте Силовое Ядро для АРЧЕРА.</string>
   <string name="Tut_8_Text">
-У вас завалялась парочка Бункеров, Лазерные Передатчики Энергии (ЛПЭ) и остатки Конвейров.
+У вас завалялась парочка Бункеров, Лазерные Передатчики Энергии (ЛЭП) и остатки Конвейров.
 
 Найдите тренировочные голограммы около вашего ЦЭК. Они показывают как организовать простейшую автоматизацию.
 Разместите своё оборудование на месте голограмм.</string>
@@ -3933,7 +3933,7 @@
   <string name="Unknown_command_X">Неизвестная команда: {0}</string>
   
 <string name="Level_X_X_X">Уровень {0} {1} {2}</string>
-  <string name="Range_X"></string>
+  <string name="Range_X"/>
   <string name="Shot_Delay_X">Задержка выстрела: {0}</string>
   <string name="X_shots_sec">{0} выстрелов/с</string>
   <string name="workshop_command_only_works_inside_workshop">команды мастерской работают только внутри мастерской</string>
