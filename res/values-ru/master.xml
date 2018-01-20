@@ -2960,7 +2960,7 @@
 <string name="Your_Base_Smelter_needs_Automation_via_Hoppers">Работу Базовой Плавильни необходимо автоматизировать, применив Бункеры</string>
 <string name="Build_a_Threat_Scanner">Создайте Сканер Угроз</string>
 <string name="Construct_Lab">Постройте Лабораторию</string>
-<string name="Supersonic">Сверхзвуковая</string>
+<string name="Supersonic">Сверхзвуковой</string>
 <string name="Hypersonic">Гиперзвуковая</string>
 <string name="Ultrasonic">Ультразвуковая</string>
 <string name="Myopia">Близорукость</string>
@@ -3955,5 +3955,12 @@
 <string name="Nearness">Недалёкость</string>
 <string name="Crawling">Ползущий</string>
 <string name="Inert">Инертный</string>
-<string name="Torpid">вялый</string>
+<string name="Torpid">Вялый</string>
+<string name="Sluggish">Медлительный</string>
+<string name="Plodding">Догоняющий</string>
+<string name="Balanced">Сбалансированный</string>
+<string name="Quick">Быстрый</string>
+<string name="Hasty">Стремительный</string>
+<string name="Bounds">Границы</string>
+<string name="Aloofness">Отчуждённость</string>
 </resources>
