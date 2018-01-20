@@ -1728,8 +1728,8 @@
     <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Учебный Лазерный Передатчик</string>
     <string name="MISSION_Place Tutorial Storage Hopper">Разместите Учебный Накопительный Бункер</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите Бункеры рядом с Плавильней.</string>
-    <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на \'Только Добавить\'.</string>
-    <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на \'Только Удалить\'</string>
+    <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Добавить».</string>
+    <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на «Только Удалить».</string>
     <string name="MISSION_Minecart derailed">Вагонетка сошла с рельсов!</string>
     <string name="MISSION_Place Ore Extractor on Copper Ore">Поместите Экстрактор Руды на Медную жилу.</string>
     <string name="MISSION_Find Copper Ore with Ping Unknown">Найдите Медную жилу. Сканер -&gt; «Поиск Неизвестного».</string>
@@ -3026,7 +3026,7 @@
   <string name="Gender_Other">Пол: не определился</string>
   
 <string name="Import_not_finished">Импорт ещё не завершён</string>
-  <string name="usage_X_slot_number">применение: {0} \'номер слота\'</string>
+  <string name="usage_X_slot_number">применение: {0} «номер слота»</string>
   <string name="failed_to_parse_slot_number">не получилось интерпретировать номер слота</string>
   <string name="Jump_Speed_set_to_X">Скорость прыжка установлена на {0}</string>
   
@@ -3048,10 +3048,10 @@
   <string name="Movement_Speed_X">Скорость перемещения: {0}</string>
   <string name="Maximum_Fall_Speed_X">Макс. скорость падения: {0}</string>
   <string name="Jump_Speed_X">Скорость прыжка: {0}</string>
-  <string name="usage_X_gravity_amount">применение: {0} \'величина гравитации\'</string>
+  <string name="usage_X_gravity_amount">применение: {0} «величина гравитации»</string>
   <string name="Gravity_set_to_X">Гравитация установлена на {0}</string>
   <string name="Could_not_parse_X">Невозможно интерпретировать данные</string>
-  <string name="usage_X_speed_amount">применение: {0} \'величина скорости\'</string>
+  <string name="usage_X_speed_amount">применение: {0} «величина скорости»</string>
   <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
   <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
   <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
@@ -3155,9 +3155,9 @@
   <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">Необходимы ВСЕ DLC и дополнения для доступа к этой раскраске!</string>
   <string name="User_was_missing">Пользователя не было</string>
   <string name="See_Patreon_for_details">Подробности на http://www.patreon.com/Fortresscraft !</string>
-  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Вам нужен Щегольский комплект, чтобы заиметь раскраску \'Флаг Великобритании\'!</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Вам нужен Щегольский комплект, чтобы заиметь раскраску «Флаг Великобритании»!</string>
   <string name="You_need_Skin_Pack_1_access_skin">Необходим Skin Pack #1 для доступа к этой раскраске!</string>
-  <string name="You_need_CRP_fo_this_see_Patreon_details">Чтобы обладать этим, вам нужен комплект \'Благодарность Сообществу\' (Community Rewards Pack)! (См. http://www.patreon.com/Fortresscraft)</string>
+  <string name="You_need_CRP_fo_this_see_Patreon_details">Чтобы обладать этим, вам нужен комплект «Благодарность Сообществу» (Community Rewards Pack)! (См. http://www.patreon.com/Fortresscraft)</string>
   <string name="Only_good_boys_girls_this_skin">Только хорошим мальчикам и девочкам доступна такая раскраска!</string>
   <string name="You_need_Skin_Pack_2_access_skin">Необходим Skin Pack #2 для доступа к этой раскраске!</string>
   
