@@ -888,7 +888,8 @@
     <string name="Motorised Logistics Hopper">Моторизированный Логистический Бункер</string>
     <string name="Motorised Logistics Hopper_DESC">Не реализован ввиду ограничения по свойствам конвейеров. Ой.</string>
     <string name="Solar Panel">Солнечная Батарея</string>
-    <string name="Solar Panel_DESC">Генерирует энергию при дневном освещении. Заряжает подсоединенные устройства.</string>
+    <string name="Solar Panel_DESC">Генерирует энергию при дневном освещении. 
+Заряжает подсоединенные устройства.</string>
     <string name="Organic Solar Panel">Органическая Солнечная Батарея</string>
     <string name="Organic Solar Panel_DESC">Генерирует малое количество энергии ночью от света Новы. Заряжает подсоединенные батареи.</string>
     <string name="Basic Laser Energy Transmitter">Базовый Лазерный ЭнергоПередатчик</string>
