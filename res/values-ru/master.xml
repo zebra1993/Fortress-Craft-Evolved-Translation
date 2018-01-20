@@ -1705,7 +1705,9 @@
     <string name="Organic Solar Panel MK2">Органическая Солнечная Батарея МК2</string>
     <string name="Glow Tubes">Светящиеся трубки</string>
     <string name="Glow Tubes_DESC">В этих здоровенных светящихся трубках содержатся волокна, которые могут пригодиться.</string>
-    <string name="Workshop Placement_DESC">Разместите попарно по диагонали. Создаёт Мастерскую детализированных блоков. Размер от 2x2x2 до 8x8x8</string>
+    <string name="Workshop Placement_DESC">Разместите попарно по диагонали.
+Создаёт Мастерскую детальных блоков.
+Размер от 2x2x2 до 8x8x8</string>
 
     <string name="Airbone Particulate Extractor">Экстрактор воздушных примесей</string>
     <string name="Suggested_Guide">Предлагаемое Руководство</string>
@@ -3844,7 +3846,7 @@
 
   <string name="You_cant_build_this_at_height_X">Это нельзя построить на высоте {0}!</string>
 
-  <string name="Loading_Detail_Block">Загрузка Детализированного Блока</string>
+  <string name="Loading_Detail_Block">Загрузка Детального Блока</string>
 
   <string name="Unlocked_from">Разблокировано с помощью</string>
   <string name="Altitude_X_m_Accel_X">Высота : {0} м. Ускорение: {1} м/с²</string>
@@ -3951,4 +3953,5 @@
 <string name="SwissCheese_DESC">Уберите 1000 блоков с помощью Li\'l Digger</string>
 
 <string name="Nearness">Недалёкость</string>
+<string name="Crawling">Ползущий</string>
 </resources>
