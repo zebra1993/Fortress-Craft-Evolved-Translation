@@ -2,7 +2,7 @@
 <resources><string name="Partial_Language_Support">Здравствуйте!
 Ваш язык поддерживается лишь частично.
 Если хотите вернуться к английскому,
-нажмите кнопку «Default (ENGLISH)» ниже!</string>
+нажмите кнопку «[b]Default (ENGLISH)[/b]» ниже!</string>
     <string name="Installed">Есть</string>
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
@@ -2331,7 +2331,7 @@
     <string name="Titanium Pipe_CRAFT_DESC">Титановые Слитки экструдируются в Титановые Трубы, используемые в производстве.</string>
     <string name="Titanium Pipe_CRAFT_HINT">Титановая Труба</string>
     <string name="Plastic Pellet_CRAFT_DESC">Сырой пластик в виде гранул, используется в производстве.</string>
-    <string name="Plastic Pellet_CRAFT_HINT"></string>
+    <string name="Plastic Pellet_CRAFT_HINT"/>
     <string name="High Energy Composite Fuel_CRAFT_DESC">Твердое топливо, содержащее окислитель. Очень взрывоопасно. Используется как топливо для реактивных турбин или для небольших ракет.</string>
     <string name="High Energy Composite Fuel_CRAFT_HINT">ВЭКТ</string>
     <string name="MISSION_Extract and refine Biomass">Добудьте и очистите Биомассу.</string>
