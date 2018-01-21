@@ -2,7 +2,7 @@
 <resources><string name="Partial_Language_Support">Здравствуйте!
 Ваш язык поддерживается лишь частично.
 Если хотите вернуться к английскому,
-нажмите кнопку «[b]Default (ENGLISH)[/b]» ниже!</string>
+нажмите кнопку «Default (ENGLISH)» ниже!</string>
     <string name="Installed">Есть</string>
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
@@ -17,13 +17,13 @@
     <string name="Conveyor_Speed">Скорость конвейеров</string>
     <string name="Day_Night_Cycle">Цикл день/ночь</string>
     <string name="World_Sign">Выбор Мира</string>
-    <string name="Spacebar">Пробел</string>
+    <string name="Spacebar">Жми «Пробел»</string>
     <string name="Mob_Difficulty">Сложность врагов</string>
     <string name="Death_Mode">Режим смерти</string>
     <string name="Mode">Режим</string>
     <string name="Select_Mods">Выбор модов</string>
     <string name="Back">Назад</string>
-    <string name="Mutators">Модификаторы</string>
+    <string name="Mutators">Мутаторы</string>
 
     <string name="Enter_World">Войти в Мир</string>
     <string name="Reset_World">Сброс Мира</string>
@@ -1728,9 +1728,9 @@
     <string name="Installed_Lift">Установленный Лифт</string>
 
     <string name="MISSION_(R)otate the LPT towards the PSB">Поверните (клавиша «R») ЛЭП в направлении Энергохранилища!</string>
-    <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Учебный Лазерный Передатчик</string>
-    <string name="MISSION_Place Tutorial Storage Hopper">Разместите Учебный Накопительный Бункер</string>
-    <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите Бункеры рядом с Плавильней.</string>
+    <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Базовый Лазерный ЭнергоПередатчик</string>
+    <string name="MISSION_Place Tutorial Storage Hopper">Разместите Логистический Бункер</string>
+    <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите 2 Накопительных Бункера рядом с Плавильней.</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Загрузка».</string>
     <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на «Только Выгрузка».</string>
     <string name="MISSION_Minecart derailed">Вагонетка сошла с рельсов!</string>
@@ -1776,7 +1776,7 @@
     <string name="MISSION_Build a 3x3x3 Laboratory">Постройте Лабораторию (3х3х3 блока)!</string>
     <string name="MISSION_Extract or Smelt Iron">Добудьте или выплавите железо.</string>
     <string name="MISSION_Find Iron Ore with Ping Unknown">Найдите Железную Руду сканером, активировав «Поиск Неизвестного».</string>
-    <string name="MISSION_Use Scanner(M) to Find Iron Ore">Используйте Сканер (клавиша «М»), чтобы отыскать Железную Руду.</string>
+    <string name="MISSION_Use Scanner(M) to Find Iron Ore">Используйте Сканер (клавиша «M»), чтобы отыскать Железную Руду.</string>
     <string name="MISSION_Travel Deeper to locate Iron Ore">Копайте глубже чтобы найти Железную Руду.</string>
     <string name="MISSION_Critical Research Local Life Forms">Критическое исследование : Местные формы жизни.</string>
     <string name="MISSION_Critical Research Base Defence">Критическое исследование : Оборона Базы.</string>
@@ -2135,7 +2135,7 @@
     <string name="NanoDisintegrator_CRAFT_DESC">Одноразовое оборудование, способное уничтожить всё, на чём оно установлено. ПРИМЕНЯТЬ С ОСТОРОЖНОСТЬЮ.</string>
     <string name="NanoDisintegrator_CRAFT_HINT">ОБРАЩАЙТЕСЬ С ОСТОРОЖНОСТЬЮ.</string>
     <string name="Blank Ore Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие руды, не тратя запас энергии. Скомбинируйте с рудой в меню ручного производства (С), чтобы задать целевую руду.</string>
-    <string name="Blank Ore Ping_CRAFT_HINT">Скомбинируйте с рудой в меню ручного производства «С», чтобы задать целевую руду.</string>
+    <string name="Blank Ore Ping_CRAFT_HINT">Скомбинируйте с рудой в меню ручного производства «C», чтобы задать целевую руду.</string>
     <string name="Coal Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие только Угольной Руды, не тратя запас энергии.</string>
     <string name="Coal Ping_CRAFT_HINT">" "</string>
     <string name="Iron Ore Ping_CRAFT_DESC">Расходный материал, который сканирует на наличие только Железной Руды, не тратя запас энергии.</string>
@@ -2362,9 +2362,9 @@
     <string name="MISSION_Build Ore Extractors">Постройте Экстракторы Руды!</string>
     <string name="MISSION_Build more Ore Extractors">Постройте больше Экстракторов Руды!</string>
     <string name="MISSION_Test the Grappling Hook (F)">"Протестируйте Крюк (клавиша «F») "</string>
-    <string name="MISSION_Test the GlowSticks (G)">Протестируйте Светящие палочки (клавиша «G»)</string>
+    <string name="MISSION_Test the GlowSticks (G)">Протестируйте Светящиеся Палочки (клавиша «G»)</string>
     <string name="MISSION_Watch the Video Tutorials (H)">Посмотрите Видео-обучение (клавиша «H»)</string>
-    <string name="MISSION_Use Left-Ctrl to Superbuild">Удерживайте левый «CTRL» для суперстроительства!</string>
+    <string name="MISSION_Use Left-Ctrl to Superbuild">Удерживайте левый «Ctrl» для суперстроительства!</string>
     <string name="MISSION_Incoming orbital debris detected">Падают орбитальные обломки!</string>
     <string name="MISSION_Orbital debris impact detected">Обнаружены орбитальные обломки!</string>
     <string name="MISSION_Critical Research Suit Upgrades">Критическое Исследование : Улучшения Костюма.</string>
@@ -2615,13 +2615,13 @@
 	<string name="MISSION_Offline">неактивн.</string>
 	<string name="MISSION_Open Handbook">Нажмите «H», чтобы открыть справку.</string>
 	<string name="MISSION_PTGs Inactive">неактивных ПТГ</string>
-	<string name="MISSION_Place">Разместите</string>
-	<string name="MISSION_Scan">Просканируйте</string>
-	<string name="MISSION_Tutorial Conveyors">Всего конвейеров</string>
-	<string name="MISSION_more unknown objects">больше Факелов для согрева!</string>
+	<string name="MISSION_Place">Разместите конвейеры ( осталось</string>
+	<string name="MISSION_Scan">Просканируйте больше неизвестных материалов ( осталось</string>
+	<string name="MISSION_Tutorial Conveyors">)</string>
+	<string name="MISSION_more unknown objects">)</string>
 	<string name="MISSION_scans to process">сканов для обработки.</string>
 	<string name="Minute(Short)">мин</string>
-	<string name="RubbleHint">Щебня не будет, если использовать СуперБур. Для этого удерживайте левый «CTRL»!</string>
+	<string name="RubbleHint">Щебня не будет, если использовать СуперБур. Для этого удерживайте левый «Ctrl»!</string>
 	<string name="ARTHER_No_Coal">Внимание! Уголь не сжигается уже минуту!</string>
 
 	<string name="ARTHER_AlreadyScanned">- уже есть такой образец! Нажмите «H» для информации.</string>
@@ -2637,7 +2637,7 @@
     <string name="ARTHER_AmbienceDisabled">Фоновые звуки выключены</string>
     <string name="ARTHER_AmbienceEnabled">Фоновые звуки включены</string>
     <string name="ARTHER_ChargingSolar">АРЧЕР заряжается от солнечной энергии...</string>
-    <string name="ARTHER_Close">АРЧЕР будет летать поблизости! Нажмите «TAB» для увеличения дистанции!</string>
+    <string name="ARTHER_Close">АРЧЕР будет летать поблизости! Нажмите «Tab» для увеличения дистанции!</string>
     <string name="ARTHER_Days">" дней&amp;#34;"</string>
     <string name="ARTHER_Docked">Стыковка и Зарядка...</string>
     <string name="ARTHER_FightLose">Центральный Энергетический Концентратор разрушен! Авто-ремонт активирован...</string>
@@ -2652,7 +2652,7 @@
     <string name="ARTHER_More_Extractors">Необходимо построить Экстрактор руды!</string>
     <string name="ARTHER_NeedCore">АРЧЕРУ НУЖНО СИЛОВОЕ ЯДРО, ПРОИЗВЕДЕННОЕ НА ЗАВОДЕ, НЕМЕДЛЕННО!</string>
     <string name="ARTHER_PressH">Центральный Энергетический Концентратор завершил диагностику. Пожалуйста, нажмите «H», чтобы получить доступ к Справочнику и завершить процесс загрузки.</string>
-    <string name="ARTHER_Far">Дистанция увеличена. Нажмите «TAB», если захотите приблизить АРЧЕРа!</string>
+    <string name="ARTHER_Far">Дистанция увеличена. Нажмите «Tab», если захотите приблизить АРЧЕРа!</string>
     <string name="ARTHER_UnprocessedScans">" необработанных сканов!"</string>
     <string name="ARTHER_Vein_Exhausted">" жилы были исчерпаны и началась очистка"</string>
     <string name="ARTHER_Vein_Warning">"Внимание! Один из "</string>
@@ -2717,14 +2717,14 @@
     <string name="Lost?">Потерялся?</string>
     <string name="Surface">Поверхность</string>
     <string name="Chargeable_Explosive">Заряжаемая Взрывчатка</string>
-    <string name="CE_Controls">Нажмите «SHIFT»+«E», чтобы поджечь запал</string>
+    <string name="CE_Controls">Нажмите «Shift»+«E», чтобы поджечь запал</string>
     <string name="CE_CurrentCharge">Текущая величина заряда</string>
     <string name="MM_Glue">предметов. Используется</string>
     
     <string name="CE_Detonate">Взрывчатка взорвётся через</string>
     <string name="CE_Info">Сохраняет заряд будучи в инвентаре</string>
     <string name="Hint_1">Нажмите «F», чтобы использовать Крюк</string>
-  <string name="Hint_38">Нажмите «G», чтобы использовать световую палочку.</string>
+  <string name="Hint_38">Нажмите «G», чтобы использовать Светящуюся Палочку.</string>
   <string name="Hint_6">Нажмите «T» на Экстракторе Руды, чтобы отключить уведомления от этого Экстрактора Руды</string>
   <string name="Hint_22">Нажмите «E» на Турели, чтобы увидеть её зону поражения</string>
   <string name="Hint_36">В любой непонятной ситуации - жмите «H».</string>
@@ -2736,8 +2736,8 @@
   <string name="Hint_4">Чем выше показатель Угрозы, тем большее количество врагов будет вас атаковать</string>
   <string name="Hint_5">Генерация энергии, добыча руды и литьё слитков повышают создаваемую вами Угрозу</string>
   <string name="Hint_7">Грузовые лифты превосходят всё остальное в плане вертикальной транспортировки</string>
-  <string name="Hint_8">Удерживайте «CTRL», чтобы создать 25 предметов одним кликом</string>
-  <string name="Hint_9">Разделяйте стопки предметов, зажимая клавишу «SHIFT»</string>
+  <string name="Hint_8">Удерживайте «Ctrl», чтобы создать 25 предметов одним кликом</string>
+  <string name="Hint_9">Разделяйте стопки предметов, зажимая клавишу «Shift»</string>
   <string name="Hint_10">Максимальное количество руды в стопке - 150 ед., поэтому не забывайте выплавять из неё слитки</string>
   <string name="Hint_11">Используйте Энергоячейки, чтобы быстро восполнить энергию во время путешествия</string>
   <string name="Hint_12">Создайте из дерева Ящики, чтобы складывать туда то, что вам сейчас не нужно</string>
@@ -2811,7 +2811,7 @@
   <string name="Hint_60">Как давно вы говорили своей маме, что любите её? Наверное, стоит ей позвонить.</string>
   <string name="Hint_61">Трубы лучше всего подходят для Холодных пещер, - конвейеры там замерзают</string>
   <string name="Hint_62">Плазменная Фреза увеличивает эффективность добычи у Экстракторов Руды до 100%</string>
-  <string name="Hint_65">Перетащите предметы в инвентаре, зажимая «SHIFT», чтобы разделить стопки!</string>
+  <string name="Hint_65">Перетащите предметы в инвентаре, зажимая «Shift», чтобы разделить стопки!</string>
   <string name="Hint_66">Вы строите - они разрушают. Поэтому вам нужно развивать оборону.</string>
 
 <string name="Genesis">Бытие</string>
@@ -3445,7 +3445,7 @@
 
 <string name="Handy_Hint_1">Нажмите «J» для отображения статистики Игрока</string>
 <string name="Handy_Hint_3">Схемы позволяют с лёгкостью дублировать ваше творчество</string>
-<string name="Handy_Hint_4">WSAD для передвижения, Пробел чтобы прыгать, ЛКМ - строить, ПКМ - копать, СКМ - подбирать</string>
+<string name="Handy_Hint_4">«W», «S», «A», «D» для передвижения, «Пробел» чтобы прыгать, ЛКМ - строить, ПКМ - копать, СКМ - подбирать</string>
 <string name="Handy_Hint_5">Было продано более миллиона копий версии FortressCraft для Xbox</string>
 <string name="Handy_Hint_6">Следуйте за @Fortress_Craft, чтобы быть в курсе новостей и обновлений FortressCraft!</string>
 <string name="Handy_Hint_7">В теории полный Мир может занять 2x10^79 байт при сохранении</string>
@@ -3456,8 +3456,8 @@
 
 <string name="Holobase_Map_Mode">Нажмите «U» для входа в режим Карты</string>
 <string name="Holobase_Base_Mode">Нажмите «U» для входа в режим Базы</string>
-<string name="Holobase_Tactical_Mode_enable">Нажмите левый «CTRL» для входа в Тактический режим</string>
-<string name="Holobase_Tactical_Mode_disable">Нажмите левый «CTRL» для выхода из Тактического режима</string>
+<string name="Holobase_Tactical_Mode_enable">Нажмите левый «Ctrl» для входа в Тактический режим</string>
+<string name="Holobase_Tactical_Mode_disable">Нажмите левый «Ctrl» для выхода из Тактического режима</string>
 <string name="Holobase_Exit">Нажмите «K» для выключения ГолоБазы</string>
 <string name="Currently">Сейчас</string>
 <string name="players_in_game_using_up">игроков в игре, и использовано</string>
@@ -3485,7 +3485,9 @@
 <string name="Experiment">Эксперимент</string>
 <string name="Player_just_started_the">Только что начат</string>
 <string name="Project">Проект</string>
-<string name="Wait_for_full_Battery">Ждать полной зарядки</string>
+<string name="Wait_for_full_Battery">Ждать
+полной
+зарядки</string>
 <string name="Fire_constantly">Непрерывно</string>
 
 <string name="Light_configured_optimally">Свет настроен оптимально</string>
@@ -3493,7 +3495,7 @@
 <string name="Soft_Shadows_very_slow">Мягкие тени сильно замедляют работу</string>
 <string name="Warning_large_light_sizes_adverse_performance">Внимание! Большой параметр освещения может привести к снижению производительности</string>
 
-<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Для добычи руды лучше использовать СуперБур (удерживая левый «CTRL»).</string>
+<string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Для добычи руды лучше использовать СуперБур (удерживая левый «Ctrl»).</string>
 <string name="Collected">Собрано</string>
 <string name="Died_repeated_impacts">Гибель от множественных столкновений!</string>
 <string name="Mod_X_third_Party_Code">Мод {0} содержит сторонний код и может быть небезопасен. ProjectorGames и Digital Tribe не несут ответственности за последствия запуска этого кода.
@@ -3564,12 +3566,12 @@
 <string name="Add_Ore_to_begin">Для запуска
 нужна руда!</string>
   <string name="Click_icon_to_retrieve">ЛКМ по иконке, чтобы забрать</string>
-  <string name="Used_X_Free_X_E_Open_Storage_Interface">Занято: {0}. Своб.:{1} 
- «E» - открыть интерфейс</string>
+  <string name="Used_X_Free_X_E_Open_Storage_Interface">Занято: {0}. Свободно:{1}
+«E» - открыть интерфейс</string>
   <string name="Last_Item_X">Последний предмет: {0}</string>
   <string name="Using_X_PPS">Потребляется {0} Э/с.</string>
   <string name="T_to_store_X">«T» - складировать {0}</string>
-  <string name="Try_Shift_and_Ctrl">(Пробуйте «SHIFT» и «CTRL»)</string>
+  <string name="Try_Shift_and_Ctrl">(Пробуйте «Shift» и «Ctrl»)</string>
   <string name="Add_Only">Только Загрузка</string>
   <string name="Remove_Only">Только Выгрузка</string>
   <string name="Toggle_Vacuum">Всасывание</string>
@@ -3582,12 +3584,12 @@
   
 <string name="Suit_Power_X_X">Энергия костюма: {0}/{1}</string>
   <string name="Solar_Efficiency_X">Эффективность солнечной батареи: {0}</string>
-  <string name="Hold_LeftShift_dismantle_MultiBlock_Machines">Удерживайте левый «SHIFT», чтобы разбирать многоблочное оборудование!</string>
+  <string name="Hold_LeftShift_dismantle_MultiBlock_Machines">Удерживайте левый «Shift», чтобы разбирать многоблочное оборудование!</string>
   <string name="Valuable_machine">Дорогостоящее оборудование!</string>
   <string name="Multiblock_machine">Многоблочное оборудование!</string>
   <string name="Quarry">Карьер!</string>
   <string name="Use_an_Ore_Extractor">Используйте Экстрактор Руды!</string>
-  <string name="Use_LeftCtrl_to_SuperDig">Удерживайте левый «CTRL», чтобы использовать СуперБур!</string>
+  <string name="Use_LeftCtrl_to_SuperDig">Удерживайте левый «Ctrl», чтобы использовать СуперБур!</string>
   
 <string name="Tut_1_Title">Центральный Энергетический Концентратор (ЦЭК)</string>
   <string name="Tut_2_Title">Энергохранилища</string>
@@ -3600,7 +3602,7 @@
   <string name="Already_Scanned">Уже просканировано!</string>
   <string name="UNKNOWN_TYPE">НЕИЗВЕСТНЫЙ ТИП</string>
   <string name="For_more_information_on_the_X_open_the_Handbook">Для получения дополнительной информации о {0} используйте Справочник (клавиша «H»).</string>
-  <string name="Shift_Q_to_toggle_permissions">«SHIFT»+«Q» - переключение режима!</string>
+  <string name="Shift_Q_to_toggle_permissions">«Shift»+«Q» - переключение режима!</string>
   <string name="Scan_for_more_information">Просканируйте для подробностей!</string>
   <string name="Stored_X">Хранится: {0}</string>
   
@@ -3692,7 +3694,7 @@
 Нажмите «X» для возврата к Строительной Пушке.</string>
   <string name="unknown">неизвестн.</string>
   <string name="Waiting_for_target_lock">Ожидание захвата цели...</string>
-  <string name="CryoPlasm_Cleared_X_m">"Криоплазмы удалено:  {0}m³"</string>
+  <string name="CryoPlasm_Cleared_X_m">"Криоплазмы удалено:  {0}м³"</string>
   
 <string name="CryoPlasm_Inferno">Крио-Инферно</string>
   <string name="Place_on_3x3_Ore_only">Разместите на рудной площадке 3х3!</string>
@@ -3883,15 +3885,15 @@
   <string name="CryoStorage_Active">Криостат активирован!</string>
   <string name="Shift_E_Toggle_Vacuum_Status_X">«Shift»+«E»- режим Всасывания: {0}</string>
   <string name="Orders_X">Указания: {0}</string>
-  <string name="Too_large_Use_LeftShift">Слишком большое! Удерживайте левый «SHIFT»!</string>
-  <string name="Hold_LeftShift_to_break_this">Удерживайте левый «SHIFT», чтобы это разобрать!</string>
+  <string name="Too_large_Use_LeftShift">Слишком большое! Удерживайте левый «Shift»!</string>
+  <string name="Hold_LeftShift_to_break_this">Удерживайте левый «Shift», чтобы это разобрать!</string>
   <string name="This_is_too_hard_There_no_way_to_dig_up_yet">Не поддаётся!
 Вы пока ещё не можете такое разрушать!</string>
   <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">Слишком трудно!
 Обновление Строительной Пушки должно помочь!</string>
   <string name="Died_from_temperature_exposure_See_log_file_for_details">Смерть наступила от воздействия температуры (См. журнал!)</string>
   
-<string name="Scanned_X_m_X">Просканировано {0} м, {1}</string>
+<string name="Scanned_X_m_X">Просканировано {0}М, {1}</string>
    
 <string name="Extend_X_X">Положение: {0}/ {1}</string>
   <string name="Pressure_X_bar">Давление: {0} бар</string>
@@ -4015,4 +4017,6 @@
   <string name="Mutator_Pandora_Active">Грузовые Капсулы будут содержать разнообразные предметы.</string>
 <string name="Mutator_Pandora_Not_Active">Грузовые Капсулы будут содержать только помощь для исследований. Может, и к лучшему.</string>
 <string name="C5_exposion_FAILED_retrying_12s">Развёртывание ЦКК не удалось - повторная попытка через 12 с</string>
+<string name="Mutators_are_permanent_no_changed_for_this_world">Мутаторы задаются один раз при создании мира и в дальнейшем не могут быть изменены.</string>
+<string name="CREATIVE_selected_results_running_Mutators_unpredictable">Выбран режим Творчества! Результаты запуска мутаторов в этом режиме непредсказуемы!</string>
 </resources>
