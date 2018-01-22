@@ -1078,7 +1078,7 @@
     <string name="Research Assembler_DESC">" "</string>
     <string name="Laboratory">Лаборатория</string>
     <string name="Laboratory_DESC">Не имеет значения</string>
-    <string name="Deployed Explosive">Установленная взрывчатка</string>
+    <string name="Deployed Explosive">Устанавливаемая Взрывчатка</string>
     <string name="Deployed Explosive_DESC">Запитайте энергией, чтобы увеличить радиус взрыва</string>
     <string name="ARTHER Charging Station">Зарядная станция АРЧЕРа</string>
     <string name="ARTHER Charging Station_DESC">Быстро перезаряжает АРЧЕРа</string>
@@ -1094,7 +1094,7 @@
     <string name="CryoPlasm">КриоПлазма</string>
     <string name="Bulk Mass Storage Input Port">Вместительный Входной Порт Склада</string>
     <string name="Basic Mass Storage Output Port">Базовый выходной порт Склада</string>
-    <string name="Mass Storage Output Port">Выходной порт Склада</string>
+    <string name="Mass Storage Output Port">Выходной Порт Склада</string>
     <string name="Bulk Mass Storage Output Port">Вместительный выходной порт Склад</string>
     <string name="Minecart Empty Gate">Ворота пустых вагонеток</string>
     <string name="Minecart Empty Gate_DESC">Вагонетки, следующие по КРАСНОЙ стрелке будут повёрнуты взад, если они не пустые. ЗЕЛЁНАЯ - свободный проезд.</string>
@@ -1641,7 +1641,7 @@
     <string name="Cant_Dig">нельзя рыть.</string>
     <string name="Fit_Head">Установите Фрезу получше!</string>
     <string name="OE_Searching">Ищу руду...</string>
-    <string name="Next">След.</string><string name="In">через</string><string name="Total_Stored">Всего</string>
+    <string name="Next">След.</string><string name="In">через_</string><string name="Total_Stored">Запасы:_</string>
     <string name="Drill_Rate">Скорость бурения</string>
     <string name="Durability">Долговечность</string>
     <string name="Ore_Per_Min">ед. в минуту</string>
@@ -1654,8 +1654,7 @@
     <string name="Economy_Drill_Motor">Эконом. буровой привод</string>
     <string name="Standard_Cutter_Head">Стандартная Фреза</string>
     <string name="Add_Power">Доб. энергию</string>
-    <string name="Click_UG">Щелкните по иконке,
-чтобы улучшить</string>
+    <string name="Click_UG">ЛКМ для улучшения</string>
     <string name="Mining">Добыча</string>
     <string name="Upgrade_Drill_Head">Улучшить
 Бур</string><string name="Fluid Pipe (Straight)">Жидкостная труба (Прямая)</string>
@@ -2099,11 +2098,11 @@
     <string name="Bulk Mass Storage Input Port_CRAFT_DESC">Поставляет предметы с конвейера в Комплекс Складов. Подаёт по 25 шт. предметов одного типа; Предварительная сортировка может значительно повысить эффективность.</string>
     <string name="Bulk Mass Storage Input Port_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="Basic Mass Storage Stocking Port_CRAFT_DESC">Передаёт определенное количество предметов на Склад.</string>
-    <string name="Basic Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Складов одним типом предмета!</string>
+    <string name="Basic Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Ящиков Склада одним типом предмета!</string>
     <string name="Mass Storage Stocking Port_CRAFT_DESC">Передаёт определенное количество элементов на Склад.</string>
-    <string name="Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Складов одним типом предмета!</string>
+    <string name="Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Ящиков Склада одним типом предмета!</string>
     <string name="Bulk Mass Storage Stocking Port_CRAFT_DESC">Передаёт определенное количество элементов на Склад.</string>
-    <string name="Bulk Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Складов одним типом предмета!</string>
+    <string name="Bulk Mass Storage Stocking Port_CRAFT_HINT">Предотвращает засорение Ящиков Склада одним типом предмета!</string>
     <string name="Basic Mass Storage Output Port_CRAFT_DESC">Удаляет указанный тип предметов со Склада. Удаляет по 5 шт. предметов одного типа.</string>
     <string name="Basic Mass Storage Output Port_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="Mass Storage Output Port_CRAFT_DESC">Удаляет указанный тип предметов со Склада. Удаляет по 12 шт. предметов одного типа.</string>
@@ -2664,8 +2663,7 @@
     <string name="Tutorial_Smelter_Permissions">Внимание! Плавильня обнаружила установленный на загрузку/выгрузку Накопительный Бункер - не хотите ли настроить режим бункера?</string>
 
 <string name="Menu_Quit">ВЫХОД</string>
-    <string name="OE_Retrieve">Нажмите на иконку, 
-чтобы забрать</string>
+    <string name="OE_Retrieve">ЛКМ - забрать</string>
     <string name="Resources">Ресурсы</string>
 
     <string name="Menu_Resume">ПРОДОЛЖИТЬ</string>
@@ -2982,7 +2980,7 @@
 <string name="Ore_Thief_3k">Рудокрад</string>
 <string name="LPTs">ЛЭП</string>
 <string name="No_MS_system_detected">Не обнаружен Склад</string>
-<string name="MS_Crates_with">ящиков на Складке с</string>
+<string name="MS_Crates_with">Ящиков Склада с</string>
 <string name="used_of">использовано из</string>
 <string name="Recommendation">Рекомендация</string>
 
@@ -3171,7 +3169,7 @@
   <string name="PSB_are_main_method_storing_power">Блоки Энергохранилищ - основное оборудование хранения энергии.</string>
   <string name="OE_collect_resources_automatically">Экстракторы Руды автоматически добывают руду.</string>
   <string name="SH_automate_resource_handling">Бункеры помогают автоматизировать подачу и выгрузку ресурсов и предметов</string>
-  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Если поблизости нет ничего полезного, щёлкните ЛКМ для Поиска Неизвестного!</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Если поблизости нет ничего полезного, щёлкните ЛКМ по Поиску Неизвестного в сканере!</string>
   <string name="Researching_Scans_gives_RP">Исследовательские Сканы дают вам Очки исследований</string>
   <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Почините АРЧЕРа, вашего робота-помощника, произведя необходимое на Заводе!</string>
   <string name="Look_at_CPH_press_E">Наведитесь на ЦЭК и нажмите «E»!</string>
@@ -3207,8 +3205,7 @@
   <string name="Unknown_Ore">Неизвестная Руда</string>
   <string name="Unknown_Material">Неизвестный Материал</string>
   <string name="Closest">Ближайшее -</string>
-  <string name="Press_X_for_Build_Gun">«X» для возврата к
-Строительной Пушке</string>
+  <string name="Press_X_for_Build_Gun">«X» - Cтроит. Пушка</string>
   <string name="Wheelmouse_to_Select">Колесо мыши для Выбора</string>  
   <string name="Ping_Unknown">Поиск Неизвестного</string>
   <string name="Ping_Known_Ore">Поиск известной руды</string>
@@ -3551,7 +3548,7 @@
   <string name="Recipes">Рецепты</string>
   <string name="Projects">Проекты</string>
   <string name="Recipes_X">Рецептов ({0})</string>
-  <string name="Projects_X">Проектов ({0})</string>
+  <string name="Projects_X">Проекты ({0})</string>
   <string name="Value">Величина</string>
   <string name="In_order_know_what_material_is_will_process_scan">Чтобы узнать, что это, необходимо обработать скан.</string>
   <string name="Unprocessed_Scan">Необработанный скан</string>
@@ -3619,10 +3616,10 @@
 <string name="Sleeping_for">Спит</string>
 <string name="Player_Bonus_was">Бонус Игрока:</string>
 
-<string name="Crash_LowFrequencyThread">Сбой низкочастотного игрового потока означает, что оборудование и объекты, связанные с геймплеем, больше не будут обновляться.</string>
-<string name="Crash_RaycastManager">Сбой рейкастинга означает, что мобы и всё требующее рейкастинга, больше не будут двигаться или функционировать.</string>
+<string name="Crash_LowFrequencyThread">Сбой низкочастотного игрового потока означает, что оборудование и объекты связанные с геймплеем перестанут обновляться.</string>
+<string name="Crash_RaycastManager">Сбой рейкастинга означает, что мобы и всё требующее рейкастинга перестанут двигаться или функционировать.</string>
 <string name="Crash_MobUpdateThread">Сбой потока обновления врагов означает, что враги больше не будут двигаться и обновлять своё состояние.</string>
-<string name="Crash_MainMenuNetworkThread">Сбой сетевого потока главного меню означает, что игровой статус хранимых серверов не будет обновляться.</string>
+<string name="Crash_MainMenuNetworkThread">Сбой сетевого потока главного меню означает, что игровой статус хранимых серверов перестанет обновляться.</string>
 <string name="Airborne Particulate Extractor">Экстрактор воздушных примесей</string>
 <string name="Airborne Particulate Extractor_DESC">Извлекает примесные частицы из окружающей среды</string>
 <string name="Airborne Particulate Compressor">Компрессор воздушных примесей</string>
@@ -4019,4 +4016,74 @@
 <string name="C5_exposion_FAILED_retrying_12s">Развёртывание ЦКК не удалось - повторная попытка через 12 с</string>
 <string name="Mutators_are_permanent_no_changed_for_this_world">Мутаторы задаются один раз при создании мира и в дальнейшем не могут быть изменены.</string>
 <string name="CREATIVE_selected_results_running_Mutators_unpredictable">Выбран режим Творчества! Результаты запуска мутаторов в этом режиме непредсказуемы!</string>
+<string name="Crash_NetworkServerThread">Сбой потока сетевого сервера означает, что вы больше не хостите игру.</string>
+<string name="Crash_FluidManager">Сбой диспетчера жидкости означает, что жидкости перестанут обновляться.</string>
+<string name="Crash_SegmentMeshRenderer">Сбой визуализатора сетки сегмента означает, что изменения ландшафта и новые открытые области больше не будут отображаться.</string>
+<string name="Crash_SegmentManagerThread">Сбой диспетчера сегментов означает, что окружение перестанет загружаться при передвижении или телепортации.</string>
+<string name="Crash_TerrainGenThread">Сбой потока генератора ландшафта означает, что новый ландшафт перестанет генерироваться.</string>
+
+<string name="InvStat_Damage">Урон увеличивает количество урона, нанесенного в бою</string>
+<string name="InvStat_Crit">Крит увеличивает шанс того, что атака станет критической</string>
+<string name="InvStat_Mana">Мана увеличивает число раз применений заклинания</string>
+
+<string name="Item_Injector">Инжектор прежметов</string>
+<string name="Unable_locate_items_in_hopper">Предметы в Бункере не обнаружены</string>
+<string name="Offloading_at_Distance">Выгрузка на расстоянии</string>
+<string name="Unable_exit_AFK_mode_editing_text">Нельзя выйти из режима AFK - мы редактируем текст!</string>
+<string name="Releasing_AFK_mode_back_normal_game">Возврат в игру из AFK-режима!</string>
+  
+<string name="Security_Warning">Предупреждение о безопасности</string>
+<string name="Connection_timed_out">Время соединения истекло</string>
+  <string name="Recieved_bad_data_server_Version_mismatch">От сервера получена неверная информация. Несоответствие версий?</string>
+  
+<string name="Not_currently_control_of_mass_storage_array">Сейчас нет Склада под контролем</string>
+<string name="center_block">центральный блок</string>
+<string name="Stored">На хранении</string>
+<string name="Removed">Удалено</string>
+<string name="Connected_DELETED_BLOCK">Присоед. к УДАЛЁННОМУ БЛОКУ</string>
+<string name="Error_Centre_is_null">Ошибка, Центр -- нулевой!</string>
+<string name="Solo_Storage_Connect_more_crates">Единичный ящик; Подсоедините дополнительные ящики склада!</string>
+<string name="Total_Storage">Всего на хранении</string>
+<string name="E_Stack_Height">«E» - высота штабеля</string>
+<string name="Crate_no_centre">У модуля нет центра!</string>
+<string name="Crate_no_connected_crates">К Ящику не подсоединены другие Ящики!</string>
+<string name="or">или</string>
+<string name="Stack">Штабель</string>
+<string name="Crates">Ящики</string>
+<string name="item">предмет</string>
+  
+<string name="Transfers_stack_of_up_to">Перемещает штабель -</string>
+<string name="items_into_storage">предметов в хранилище</string>
+<string name="per_minute">в минуту</string>
+<string name="Utilisation">Использование</string>
+<string name="No_storage_attached">Нет присоединенных хранилищ</string>
+<string name="Receiving_items">Приём предметов</string>
+<string name="MS_MM_I_O_Port">Складской порт-переносчик материи</string>
+<string name="Unable_locate_attached_MS_Plate">Модуль Склада не обнаружен</string>
+<string name="No_Centre_Crate_found">Центральный ящик не обнаружен</string>
+<string name="No_MS_Controller_found">Контроллер Склада не обнаружен!</string>
+<string name="Currently_outputting">Сейчас выгружется:</string>
+<string name="Select_item_in_Hotbar_to_use_as_Exemplar">Выберите предмет в панели быстрого доступа, чтобы применить его как образец</string>
+<string name="Press_E_to_clear_Output_Port">Нажмите «E» для очистки Порта</string>
+<string name="Press_E_to_set_Output_to">Нажмите «E» чтобы задать выгружаемое</string>
+<string name="Dropping_off">Сброс</string>
+  
+<string name="Unconnected_Trencher_Motor">Неподсоединенный Привод Траншейного Бура</string>
+  
+<string name="OET_Strike_requested_Quadrant_X">Орбитальная бомбардировка запрошена в квадранте № {0}</string>
+<string name="server_side_mod_is_running">запущен серверный мод</string>
+  <string name="This_X_server_side_mod_is_runing">Этот серверный мод запущен -- {0}</string>
+<string name="mod_required_on_server">мод требуется на этом сервере</string>
+  <string name="This_X_mod_required_on_server">На этом сервере нужен следующий мод -- {0}</string>
+<string name="mod_at_version">мод версии</string>
+<string name="to_connect">чтобы присоединиться</string>
+  <string name="Install_X_mod_at_version_X">Установите мод {0} версии {1}, чтобы присоединиться</string>
+<string name="mod_optional_on_server">на этом сервере наличие мода опционально</string>
+  <string name="This_X_mod_optional_on_server">на этом сервере наличие мода {0} опционально</string>  
+<string name="This_X_mod_cannot_run_on_server">Мод {0} нельзя запустить на этом сервере</string>  
+<string name="Mutator_HardcoreCeilings_Active">Потолок берегите, глупцы! Блоки естественного происхождения больше не размещаются.</string>
+<string name="Looking_for_MS_Crate">Поиск Ящика Склада...</string>
+  <string name="Surveying_MS_Crate_distances">Анализируется расположение модулей Ящиков Склада...</string>
+  <string name="Loads">Обилие</string>
+  <string name="Lots">Много</string>	
 </resources>
