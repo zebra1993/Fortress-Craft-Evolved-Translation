@@ -2207,7 +2207,7 @@
     <string name="Improved Cargo Lift_CRAFT_HINT">Может быть обновлено позже.</string>
     <string name="Bulk Cargo Lift_CRAFT_DESC">Вмещает 3000 единиц груза, перемещаясь с максимальной скоростью 10 м/с. Устанавливается в Контроллер Грузового Лифта.</string>
     <string name="Bulk Cargo Lift_CRAFT_HINT">Это лучший лифт на данный момент.</string>
-    <string name="Research Assembler_CRAFT_DESC">"Автоматически собирает Исследовательские Ячейки.  Требуется энергия и прикрепленные Бункеры, содержащие металлические пластины и ПП. См. Запись в справочнике."</string>
+    <string name="Research Assembler_CRAFT_DESC">Автоматически собирает Исследовательские Ячейки. Требуется энергия и прикреплённые Бункеры, содержащие металлические плсатины и ПП. См. запись в справочнике.</string>
     <string name="Research Assembler_CRAFT_HINT">Используйте, чтобы разблокировать Проекты!</string>
     <string name="Orbital Energy Transmitter Component_CRAFT_DESC">Используйте для передачи энергии Орбитальной Космической Станции. Должно быть построено по схеме 9х13х9 (всего 1053 шт.).</string>
     <string name="Orbital Energy Transmitter Component_CRAFT_HINT">Строится в конфигурации 9x13x9.</string>
@@ -2441,7 +2441,7 @@
     <string name="ARTHER Ghost Mask_CRAFT_HINT">Бу-у-у-у.</string>
     <string name="ARTHER Turret_CRAFT_DESC">Оборонительная турель, которая будет работать только при установленном в неё АРЧЕРе. Большая зона поражения 64 метра и малое потребление энергии. Идеально подходит для ранней защиты конвейера!</string>
     <string name="ARTHER Turret_CRAFT_HINT">Подсказка: это идеальное устройство для охраны 128 метров конвейеров.</string>
-    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">"Позволяет уничтожать КриоПлазму на очень большой дистанции.  Полезно для сдерживания основных направлений атаки."</string>
+    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать КриоПлазму на очень большой дистанции. Полезно для сдерживания основных направлений атаки.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">Строится по схеме 3х3х3.</string>
     <string name="Iron Gear_CRAFT_DESC">Скошенная шестерня, применяющаяся в различных приводах и передачах.</string>
     <string name="Iron Gear_CRAFT_HINT">Скошенные работают тише!</string>
@@ -2595,8 +2595,8 @@
     <string name="Mass Storage I/O Port_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="ARTHER_No_Ore">Внимание! Уголь не сжигается уже минуту!</string>
 	<string name="ARTHER_Press_K">Нажмите «K» для включения ГолоБазы.</string>
-	<string name="ARTHER_Press_M">"Нажмите «M», чтобы достать Сканер! "</string>
-	<string name="ARTHER_Unknown_Block">"Обнаружен неизвестный блок "</string>
+	<string name="ARTHER_Press_M">"Нажмите «M», чтобы достать Сканер. "</string>
+	<string name="ARTHER_Unknown_Block">"Обнаружен неизвестный блок... "</string>
 	<string name="Finished Current Research">закончено текущее исследование!</string>
 	<string name="Finished Research">закончено</string>
 	<string name="Lab">Лаб.</string>
@@ -3993,7 +3993,7 @@
 <string name="No_Valid_attached_Hoppers">Нет присоединенных Бункеров!</string>
 <string name="Looking_in_attached_hopper">Поиск в присоединенном Бункере:</string>
 <string name="s_Freezon_boost_left">с до конца Фризонового усиления!</string>
-<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">"Поместите Фризоновый контейнер в Бункер для увеличения Энерг./с в 20  раз!"</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Поместите Фризоновый контейнер в Бункер для увеличения Э/с в 20 раз!</string>
 <string name="Placing_verifying_pipes">Размещение и проверка труб.</string>
 <string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
 <string name="Cant_locate_pipes_in_adjacent_SH">Нет труб в присоединенном Бункере!</string>
