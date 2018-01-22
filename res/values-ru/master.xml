@@ -4086,4 +4086,5 @@
   <string name="Surveying_MS_Crate_distances">Анализируется расположение модулей Ящиков Склада...</string>
   <string name="Loads">Обилие</string>
   <string name="Lots">Много</string>	
-</resources>
+<string name="Client_Thread_null">Клиентский поток -- нулевой!</string>
+  </resources>
