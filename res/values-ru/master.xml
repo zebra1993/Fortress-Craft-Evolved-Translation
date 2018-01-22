@@ -4087,4 +4087,18 @@
   <string name="Loads">Обилие</string>
   <string name="Lots">Много</string>	
 <string name="Client_Thread_null">Клиентский поток -- нулевой!</string>
+  <string name="Network_Client_closing">Сетевой Клиент закрывается!</string>
+  <string name="Network_Client_not_connected">Нет соединения у Сетевого Клиента!</string>
+
+  
+<string name="Detail_block_loading">Загрузка детального блока</string>
+
+  <string name="Empty_Detail_slot">Пустой детальный слот</string>
+
+  <string name="PPS_X_baked">{0} готово</string>
+  <string name="Launch_in_T_X">Запуск через T - {0} с</string>
+  <string name="Refreshing">Обновление...</string>
+  <string name="PUBLIC_Waiting_for_response">[PUBLIC] (В ожидании ответа)</string>
+  <string name="Server_Readout">"Информация о сервере - "</string>
+  <string name="Server_Transmission_Progress_X">Статус передачи сервера : {0}</string>
   </resources>
