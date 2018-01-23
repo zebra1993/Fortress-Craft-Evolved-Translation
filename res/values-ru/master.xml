@@ -642,7 +642,7 @@
     <string name="Wooden Crate">Деревянный ящик</string>
     <string name="Grooved Cement">Желобчатый цемент</string>
     <string name="Grass_DESC">Травушка-муравушка</string>
-    <string name="Rock_DESC">" "</string>
+    <string name="Rock_DESC">Обычный камень. Он повсюду. Просто камень</string>
     <string name="Dirt_DESC">Грязная</string>
     <string name="Wooden Planks_DESC">" "</string>
     <string name="Rubble_DESC">Отход, получаемый при добыче руды вручную</string>
@@ -1079,7 +1079,7 @@
     <string name="Laboratory">Лаборатория</string>
     <string name="Laboratory_DESC">Не имеет значения</string>
     <string name="Deployed Explosive">Устанавливаемая Взрывчатка</string>
-    <string name="Deployed Explosive_DESC">Запитайте энергией, чтобы увеличить радиус взрыва</string>
+    <string name="Deployed Explosive_DESC">Зарядите энергией, чтобы увеличить радиус взрыва</string>
     <string name="ARTHER Charging Station">Зарядная станция АРЧЕРа</string>
     <string name="ARTHER Charging Station_DESC">Быстро перезаряжает АРЧЕРа</string>
     <string name="Auto Builder">Авто-строитель</string>
@@ -1669,7 +1669,7 @@
     <string name="LaserBorer">Лазерный Бур</string>
     <string name="Chilled Reinforced Rock">Усиленный Морозный камень</string>
     <string name="Waypoint Machine">Отметочная Машина</string>
-    <string name="Waypoint Machine_DESC">Установите и запитайте для создания Отметки. Переопределите название, присоединив Знак.</string>
+    <string name="Waypoint Machine_DESC">Установите и зарядите для создания Отметки. Переопределите название, присоединив Знак.</string>
     <string name="ConstructoBot Direction">Указатель СтройБота</string>
     <string name="ConstructoBot Direction_DESC">Заставляет СтройБота двигаться в указанном направлении.</string>
     <string name="ConstructoBot Cargo Control">Грузовой контроль СтройБота</string>
@@ -1955,7 +1955,7 @@
     <string name="Conveyor Belt Filter_CRAFT_HINT">Установите между бункерами и конвейерами</string>
     <string name="Advanced Conveyor Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы вставить конкретные материалы в вашу логистическую сеть.</string>
     <string name="Advanced Conveyor Filter_CRAFT_HINT">Позволяет отбирать определенные типы объектов.</string>
-    <string name="Motorised Conveyor_CRAFT_DESC">Прикрепите к Накопительному Бункеру и дайте энергию для насыщения самой быстрой транспортной системы!</string>
+    <string name="Motorised Conveyor_CRAFT_DESC">Прикрепите к Накопительному Бункеру и подведите энергию для скоростной подачи ресурсов в наибыстрейшие транспортные системы!</string>
     <string name="Motorised Conveyor_CRAFT_HINT">Потребляет 5 единиц энергии на предмет. Направьте в сторону от Накопительного Бункера.</string>
     <string name="Conveyor Turntable_CRAFT_DESC">Автоматически поворачивается после передачи предмета. Старайтесь не располагать рядом с Накопительными Бункерами и другими Поворотными столами. Используется для разделения линии.</string>
     <string name="Conveyor Turntable_CRAFT_HINT">Используется для разделения конвейерной линии.</string>
@@ -2121,7 +2121,7 @@
     <string name="Workfloor Excavator MK2_CRAFT_HINT">Способен выкапывать руду.</string>
     <string name="Workfloor Excavator MK3_CRAFT_DESC">Автоматически и быстро выкапывает круг шириной 33 метра, высотой 3 метра.</string>
     <string name="Workfloor Excavator MK3_CRAFT_HINT">Способен выкапывать руду.</string>
-    <string name="Auto Builder_CRAFT_DESC">Помещает предметы из прикрепленного Накопительного Бункера по основным направлениям. Зачем строить конвейерные линии самому, когда оборудование может сделать это за вас? Требуется энергия.</string>
+    <string name="Auto Builder_CRAFT_DESC">Расставляет предметы из прикрепленного Накопительного Бункера по основным направлениям. Зачем строить конвейерные линии самому, когда оборудование может сделать это за вас? Требуется энергия.</string>
     <string name="Auto Builder_CRAFT_HINT">Зачем строить конвейерные линии самому, когда оборудование может сделать это за вас?</string>
     <string name="Manufacturing Plant_CRAFT_DESC">Заводы позволяют автоматизировать сборку и строительство. Для перемещения требуется Строительная Пушка В2!</string>
     <string name="Manufacturing Plant_CRAFT_HINT">Для перемещения требуется Строительная Пушка В2!</string>
@@ -2129,7 +2129,7 @@
     <string name="Location Marker_CRAFT_HINT">Выбор маркера в панели быстрого доступа покажет его сохраненное местоположение</string>
     <string name="Teleporter_CRAFT_DESC">Используйте маркер местоположения и энергию для телепортации. Подпрыгните над ним для активации.</string>
     <string name="Teleporter_CRAFT_HINT">Подпрыгните, чтобы активировать!</string>
-    <string name="Chargeable Explosive_CRAFT_DESC">Запитайте энергией, чтобы увеличить радиус взрыва. Сохраняет заряд, когда в инвентаре. Ради вашей безопасности - не заряжайте вблизи важной инфраструктуры.</string>
+    <string name="Chargeable Explosive_CRAFT_DESC">Зарядите энергией, чтобы увеличить радиус взрыва. Сохраняет заряд, когда в инвентаре. Ради вашей безопасности - не заряжайте вблизи важной инфраструктуры.</string>
     <string name="Chargeable Explosive_CRAFT_HINT">Зарядите энергией перед использованием!</string>
     <string name="NanoDisintegrator_CRAFT_DESC">Одноразовое оборудование, способное уничтожить всё, на чём оно установлено. ПРИМЕНЯТЬ С ОСТОРОЖНОСТЬЮ.</string>
     <string name="NanoDisintegrator_CRAFT_HINT">ОБРАЩАЙТЕСЬ С ОСТОРОЖНОСТЬЮ.</string>
@@ -2170,7 +2170,7 @@
     <string name="Geological Surveyor_CRAFT_DESC">Выдает отчет о доступных ресурсах под устройством. Используйте, чтобы подобрать наилучшее место для вашего Карьера!</string>
     <string name="Geological Surveyor_CRAFT_HINT">Используйте, чтобы подобрать наилучшее место для вашего Карьера!</string>
     <string name="Basic Quarry_CRAFT_DESC">Даёт все ресурсы, найденные во время выкапывания шахты.</string>
-    <string name="Basic Quarry_CRAFT_HINT">А ещё всю землю и камень...</string>
+    <string name="Basic Quarry_CRAFT_HINT">А ещё выроет всю землю и камень...</string>
     <string name="Minecart Depot_CRAFT_DESC">Используется, чтобы поставить Вагонетки на рельсы из присоединенного Накопительного Бункера.</string>
     <string name="Minecart Depot_CRAFT_HINT">Рекомендаций нет.</string>
     <string name="Minecart Unload Station_CRAFT_DESC">Перемещает материал из Вагонеток в прикрепленные Накопительные Бункеры.</string>
@@ -2230,11 +2230,11 @@
     <string name="Climate Control Centre_CRAFT_DESC">Центр Климат-Контроля Холодных Пещер (ЦКК) необходим для терраформирования холодных пещер, преобразуя их в гостеприимную среду. Всё оборудование уровня Т4 требует функционирования ЦКК. Всего 175 шт. блоков.</string>
     <string name="Climate Control Centre_CRAFT_HINT">Строится по схеме 5х7х5.</string>
     <string name="Trencher Drill component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill component_CRAFT_HINT">Эффективность зависит от воздействия жилы на сверло</string>
+    <string name="Trencher Drill component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
     <string name="Trencher Drill Mk2 component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill Mk2 component_CRAFT_HINT">Эффективность зависит от воздействия жилы на сверло</string>
+    <string name="Trencher Drill Mk2 component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
     <string name="Trencher Drill Mk3 component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill Mk3 component_CRAFT_HINT">Эффективность зависит от воздействия жилы на сверло</string>
+    <string name="Trencher Drill Mk3 component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
     <string name="Trencher Motor component_CRAFT_DESC">Формирует Привод Траншейного Бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с Буром.</string>
     <string name="Trencher Motor component_CRAFT_HINT">Потребляет энергию и добывает буром в руду.</string>
     <string name="Geothermal Generator comp._CRAFT_DESC">Геотермальный Генератор. Установите в холодной области и подключите к нему теплопроводящие трубы. Строится по схеме 5х3х5 (всего 75 шт.)</string>
@@ -2379,7 +2379,7 @@
     <string name="MISSION_Place your Forced Induction Kit">Установите Усиливающий Индуктор.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Установите Солнечную Батарею МК1 на ваш костюм.</string>
     <string name="MISSION_PTG starved of Oxygen">Пиротермическому генератору нужен кислород!</string>
-    <string name="Waypoint Machine_CRAFT_DESC">Установите и запитайте для создания Отметки. Переопределите название, присоединив Знак.</string>
+    <string name="Waypoint Machine_CRAFT_DESC">Установите и зарядите для создания Отметки. Переопределите название, присоединив Знак.</string>
     <string name="Waypoint Machine_CRAFT_HINT">Не время лениться!</string>
     <string name="ARC Smelter Upgrade_CRAFT_DESC">Поместите сверху простой Плавильни, чтобы плавить руды 4 уровня. УМЕНЬШАЕТ скорость на 400%. Увеличение потребляемой энергии : неизвестно.</string>
     <string name="ARC Smelter Upgrade_CRAFT_HINT">Используйте это, чтобы построить свою первую Машину непрерывного литья.</string>
@@ -2403,7 +2403,7 @@
     <string name="Spiderbot Base Component_CRAFT_HINT">Настройка сборочной линии для Док-станции ПаукоБота сделает вашу жизнь намного проще!</string>
     <string name="SpiderBot Blaster_CRAFT_DESC">Стреляет быстро, малая поражающая способность. Идеально подходит для малых и средних целей.</string>
     <string name="SpiderBot Blaster_CRAFT_HINT">После сборки поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
-    <string name="SpiderBot Cannon_CRAFT_DESC">Стреляет медленно, большая поражающая способность. Способность к выбору подходящих целей. Специализируется на средних целей.</string>
+    <string name="SpiderBot Cannon_CRAFT_DESC">Низкая скорострельность, большая поражающая способность с уроном по площади. Наводится на цели от малых до больших, специализируясь на средних целях.</string>
     <string name="SpiderBot Cannon_CRAFT_HINT">После сборки поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
     <string name="SpiderBot Particle Rifle_CRAFT_DESC">Стреляет быстро, устанавливается на плечи. Идеально подходит для малых и больших целей.</string>
     <string name="SpiderBot Particle Rifle_CRAFT_HINT">После сборки, поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
@@ -2439,7 +2439,7 @@
     <string name="ARTHER Charging Station_CRAFT_HINT">Это круто. Используй это.</string>
     <string name="ARTHER Ghost Mask_CRAFT_DESC">Соберите и другие маски, чтобы создать совершенную маску!</string>
     <string name="ARTHER Ghost Mask_CRAFT_HINT">Бу-у-у-у.</string>
-    <string name="ARTHER Turret_CRAFT_DESC">Оборонительная турель, которая будет работать только при установленном в неё АРЧЕРе. Большая зона поражения 64 метра и малое потребление энергии. Идеально подходит для ранней защиты конвейера!</string>
+    <string name="ARTHER Turret_CRAFT_DESC">Оборонительная турель, которая будет работать только при установленном в неё АРЧЕРе. Радиус поражения - 64 метра, малое потребление энергии. Идеально подходит для защиты конвейеров на начальном этапе!</string>
     <string name="ARTHER Turret_CRAFT_HINT">Подсказка: это идеальное устройство для охраны 128 метров конвейеров.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать КриоПлазму на очень большой дистанции. Полезно для сдерживания основных направлений атаки.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">Строится по схеме 3х3х3.</string>
@@ -2570,9 +2570,9 @@
     <string name="Orbital RailGun Controller_CRAFT_HINT">Стартовая площадка 5x5x1000. Это не опечатка.</string>
     <string name="AI Mover Control_CRAFT_DESC">Автоматически перемещает ресурсы между бункерами на основе разрешений бункеров.
   Дешевый и скверный, но надежный*
-  *На самом деле это не так.</string>
+  *На самом деле нет.</string>
     <string name="AI Mover Control_CRAFT_HINT">Дешевый и скверный, но надежный*
- *На самом деле это не так.</string>
+ *На самом деле нет.</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Принимает Ракеты и Жала и производит бронебойные ракеты.</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Принимает Базовые Ракеты и 50 000 единиц энергии, чтобы наполнить их еще большей энергией.</string>
@@ -2864,7 +2864,7 @@
 <string name="Admins">Администраторы</string>
 <string name="Pending">Ожидание</string>
 <string name="Admin">Админ</string>
-<string name="Usage"></string>
+<string name="Usage"/>
 <string name="Command">команда</string>
 <string name="valid_Commands">доступные команды</string>
 <string name="Playername">имя</string>
@@ -3027,7 +3027,7 @@
   <string name="Gender_Other">Пол: не определился</string>
   
 <string name="Import_not_finished">Импорт ещё не завершён</string>
-  <string name="usage_X_slot_number"></string>
+  <string name="usage_X_slot_number"/>
   <string name="failed_to_parse_slot_number">не получилось интерпретировать номер слота</string>
   <string name="Jump_Speed_set_to_X">Скорость прыжка установлена на {0}</string>
   
@@ -3049,10 +3049,10 @@
   <string name="Movement_Speed_X">Скорость перемещения: {0}</string>
   <string name="Maximum_Fall_Speed_X">Макс. скорость падения: {0}</string>
   <string name="Jump_Speed_X">Скорость прыжка: {0}</string>
-  <string name="usage_X_gravity_amount"></string>
+  <string name="usage_X_gravity_amount"/>
   <string name="Gravity_set_to_X">Гравитация установлена на {0}</string>
   <string name="Could_not_parse_X">Невозможно интерпретировать данные</string>
-  <string name="usage_X_speed_amount"></string>
+  <string name="usage_X_speed_amount"/>
   <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
   <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
   <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
@@ -3482,8 +3482,7 @@
 <string name="Experiment">Эксперимент</string>
 <string name="Player_just_started_the">Только что начат</string>
 <string name="Project">Проект</string>
-<string name="Wait_for_full_Battery">Ждать
-полной
+<string name="Wait_for_full_Battery">Ждать полной
 зарядки</string>
 <string name="Fire_constantly">Непрерывно</string>
 
@@ -3885,7 +3884,7 @@
   <string name="Too_large_Use_LeftShift">Слишком большое! Удерживайте левый «Shift»!</string>
   <string name="Hold_LeftShift_to_break_this">Удерживайте левый «Shift», чтобы это разобрать!</string>
   <string name="This_is_too_hard_There_no_way_to_dig_up_yet">Не поддаётся!
-Вы пока ещё не можете такое разрушать!</string>
+Вы пока ещё не можете такое добывать!</string>
   <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">Слишком трудно!
 Обновление Строительной Пушки должно помочь!</string>
   <string name="Died_from_temperature_exposure_See_log_file_for_details">Смерть наступила от воздействия температуры (См. журнал!)</string>
