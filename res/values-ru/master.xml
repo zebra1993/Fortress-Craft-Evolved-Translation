@@ -1662,7 +1662,7 @@
     <string name="Fluid Pipe (Bend)">Жидкостная труба (Гнутая)</string>
     <string name="Fluid Pipe (Bend)_DESC">Позволяет соединять между собой соответствующее оборудование. Также подходит для перемещения газов.</string>
     <string name="Airbone Particulate Compressor">Компрессор воздушных примесей</string>
-    <string name="Compressed Gas Storage">Хранилище сжатого Газа</string>
+    <string name="Compressed Gas Storage">Резервуар сжатого Газа</string>
     <string name="Compressed Gas Bottler">Заправщик Сжатым Газом</string>
     <string name="Compressed Magma Storage">Хранилище Сжатой Магмы</string>
     <string name="Creep Inferno">Ползунное Инферно</string>
@@ -2864,7 +2864,7 @@
 <string name="Admins">Администраторы</string>
 <string name="Pending">Ожидание</string>
 <string name="Admin">Админ</string>
-<string name="Usage">используется</string>
+<string name="Usage"></string>
 <string name="Command">команда</string>
 <string name="valid_Commands">доступные команды</string>
 <string name="Playername">имя</string>
@@ -3027,7 +3027,7 @@
   <string name="Gender_Other">Пол: не определился</string>
   
 <string name="Import_not_finished">Импорт ещё не завершён</string>
-  <string name="usage_X_slot_number">применение: {0} «номер слота»</string>
+  <string name="usage_X_slot_number"></string>
   <string name="failed_to_parse_slot_number">не получилось интерпретировать номер слота</string>
   <string name="Jump_Speed_set_to_X">Скорость прыжка установлена на {0}</string>
   
@@ -3049,10 +3049,10 @@
   <string name="Movement_Speed_X">Скорость перемещения: {0}</string>
   <string name="Maximum_Fall_Speed_X">Макс. скорость падения: {0}</string>
   <string name="Jump_Speed_X">Скорость прыжка: {0}</string>
-  <string name="usage_X_gravity_amount">применение: {0} «величина гравитации»</string>
+  <string name="usage_X_gravity_amount"></string>
   <string name="Gravity_set_to_X">Гравитация установлена на {0}</string>
   <string name="Could_not_parse_X">Невозможно интерпретировать данные</string>
-  <string name="usage_X_speed_amount">применение: {0} «величина скорости»</string>
+  <string name="usage_X_speed_amount"></string>
   <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
   <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
   <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
@@ -3924,8 +3924,8 @@
   <string name="Collecting">Накопление...</string>
   <string name="Nothing_to_compress_attach_Particle_Filter">Сжимать нечего.
 Соедините с Фильтром Примесей.</string>
-  <string name="Connected_to_Gas_Storage">Подсоединено к Хранилищу сжатого Газа.</string>
-  <string name="Scanning_for_pipe_connections_to_Gas_Storage_in_X">Обнаружение соединений труб с Хранилищем сжатого Газа через {0} с</string>
+  <string name="Connected_to_Gas_Storage">Подсоединено к Газовому Резервуару.</string>
+  <string name="Scanning_for_pipe_connections_to_Gas_Storage_in_X">Обнаружение соединений труб с Газовым Резервуаром через {0} с</string>
   
 <string name="Need_X_more_alloyed_blocks_to_construct">{0} шт. - столько Легированных Блоков ещё нужно, чтобы построить</string>
   <string name="Requires_Adventures_Pack_or_Patronage">Требует наличия Adventures Pack или статуса патрона игры на https://www.patreon.com/Fortresscraft!</string>
@@ -3936,7 +3936,7 @@
   <string name="Unknown_command_X">Неизвестная команда: {0}</string>
   
 <string name="Level_X_X_X">Уровень {0} {1} {2}</string>
-  <string name="Range_X"/>
+  <string name="Range_X">Дальность: {0}</string>
   <string name="Shot_Delay_X">Задержка выстрела: {0}</string>
   <string name="X_shots_sec">{0} выстрелов/с</string>
   <string name="workshop_command_only_works_inside_workshop">команды мастерской работают только внутри мастерской</string>
@@ -4101,4 +4101,72 @@
   <string name="PUBLIC_Waiting_for_response">[PUBLIC] (В ожидании ответа)</string>
   <string name="Server_Readout">"Информация о сервере - "</string>
   <string name="Server_Transmission_Progress_X">Статус передачи сервера : {0}</string>
+  <string name="X_Stock_of_X">"{1} -- {0} шт. на хранении "</string>
+
+<string name="Error_machine_tier_not_recognized">Ошибка! Уровень оборудования не опознан!</string>
+  <string name="Looking_for_Attached_Storage">Поиск присоединенного хранилища</string>
+  <string name="Searching_for_Storage">Поиск хранилища</string>
+  <string name="Fully_Stocked">Заполнено</string>
+  <string name="Currently_stocking_Unknown_Material">Хранится: Неизвестный материал</string>
+  <string name="Currently_stocking_X">Хранится : {0}</string>
+  <string name="Stockpile_quantity_X_X_Press_E_configure_Stock_Limits">Хранится: {0}/{1} 
+Жмите «E» для настройки пределов хранения
+</string>
+  <string name="Press_E_configure_item_stock">Жмите «E», для настройки объекта хранения</string>
+  <string name="Local_inventory_X_Drone_inventory_X">Локальный инвентарь: {0} 
+ Инвентарь дрона: {1}</string>
+  
+  <string name="Set_Item_Stock">Задайте объект хранения</string>
+  <string name="Refuse_items_above_limit">Отказ от приёма при переполнении</string>
+  <string name="Choose_Item">Выберите предмет</string>
+  <string name="ERROR_Unknown_cube_X_added">ОШИБКА Добавлен неизвестный куб[{0}]</string>
+  <string name="NetworkSync_X">Синхронизация сети: {0}</string>
+  <string name="Mag_Range_X">Дальность магнита: {0}</string>
+  <string name="Select_Shape_First">Сначала выберите форму</string>
+  <string name="Instant">Мгновенный</string>
+  <string name="Smooth">Гладкий</string>
+  <string name="Layered">Слоистый</string>
+  <string name="FILL_SOLID">ЗАЛИВКА-МАТЕРИЯ</string>
+  <string name="FILL_HOLLOW">ЗАЛИВКА-ПУСТОТЫ</string>
+  <string name="Anchor_Base">Якорь : База</string>
+  <string name="Anchor_Centre">Якорь : Центр</string>
+  <string name="Not_Buildable">Нельзя построить</string>
+  
+<string name="High_Octane_Fuel_needed_X">Необходимо Высокооктанового Топлива: {0}</string>
+  
+<string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Турель Инферно успешно уничтожила Источник Криоплазмы!</string>
+  <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Подсоедините Хранилище Магмы с помощью жидкостных труб...</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Поиск Источника Криоплазмы в радиусе 64 м...</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">{0} на линии огня и мешает нацелиться на Источник Криоплазмы!</string>
+  <string name="Time_remaining_X">Осталось времени: {0}</string>
+  <string name="WARNING_REGROWTH_IN_X">ВНИМАНИЕ! ОТРАСТАНИЕ ЧЕРЕЗ: {0}</string>
+  <string name="NEED_COMPRESSED_MAGMA_NOW">СРОЧНО НУЖНА СЖАТАЯ МАГМА!</string>
+  
+<string name="Waiting_gas_from_Gas_Storage_Tank">Ожидание газа от Газового Резервуара.</string>
+  <string name="Storing_X">Запасено: {0}.</string>
+  <string name="Looking_for_Hopper_offload_to">Поиск Бункера для выгрузки...</string>
+  
+<string name="Gas_Storage">Газовый Резервуар</string> 
+  <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">Поиск трубных соединений с Газовым Заправщиком через {0} с</string>
+
+<string name="Please_wait_paging">Пожалуйста, подождите - перенумерация...</string>
+  <string name="X_X_to_offload">{0}x {1} к выгрузке!</string>  
+  
+<string name="Drill_cannot_be_deployed_due_to_obstruction_of_X">Остановка развёртывания Бура. Помеха:</string>
+  <string name="X_m_power_still_required_X">Всё ещё нужно {0}М энергии
+ {1}</string>
+  <string name="Spread_X">Разброс: {0}</string>
+  <string name="Recoil_Reduction_X">Снижение отдачи: {0}%</string>
+  <string name="Max_Charge_X">Макс. заряд: {0}</string>
+  <string name="Charge_Rate_X">Скорость зарядки: {0}</string>
+  <string name="Mod_Socket_X">Ячейка модиф. - {0}</string>
+
+<string name="Whitelisting_is_currently_X">"Белый список сейчас "</string>
+  <string name="valid_commands_on_off_add_remove">доступные комманды: вкл выкл добавить удалить</string>
+  <string name="whitelist_turned_on">Белый список активирован</string>
+  <string name="whitelist_turned_off">Белый список деактивирован</string>
+  <string name="X_removed_from_whitelist">Удалено из Белого списка: \"{0}\"</string>
+  <string name="X_not_found_in_whitelist">\"{0}\" - не найдено в Белом списке</string>
+  
+<string name="Behaviour_X_removed">Поведение {0} удалено</string>
   </resources>
