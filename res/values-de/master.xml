@@ -1689,9 +1689,9 @@ Sehr Energie hungrig!</string>
     <string name="H.O.D.O.R.">H.O.D.O.R.</string>
     <string name="H.O.D.O.R._DESC">Der Hoch Orbit Trümmer Objekt Rückbringer ermöglicht das Zurückbringen von orbitalem Schrott. Dieser kann mit Glück Forschungsteile erhalten. Wird als 3x1x3 gebaut.</string>
 
-    <string name="Orbital RailGun Controller">Orbital Scheinengeschütz Steuerung</string>
+    <string name="Orbital RailGun Controller">Orbital RailGun Steuerung</string>
     <string name="Orbital RailGun Controller_DESC">Norden. Dies zeigt Richtung Norden.</string>
-    <string name="Orbital RailGun Induction Ring">Orbital Scheinengeschütz Induktionsring</string>
+    <string name="Orbital RailGun Induction Ring">Orbital RailGun Induktionsring</string>
     <string name="Orbital RailGun Induction Ring_DESC">Norden. Dies zeigt Richtung Norden.</string>
 
     <string name="Hydroponics Bay">Hydroponikeinheit</string>
@@ -2763,7 +2763,7 @@ Schönen Tag noch!</string>
     <string name="ARTHER_ChargingSolar">ARTHER Aufladen mit Solarenergie ...</string>
     <string name="ARTHER_Close">ARTHER bleibt in der Nähe! Drücken Sie TAB, um ARTHER zurückzuschicken!</string>
     <string name="ARTHER_Days">" Tage&amp;#34;"</string>
-    <string name="ARTHER_Docked">Angekoppelt und aufgeladen ...</string>
+    <string name="ARTHER_Docked">Angekoppelt und wird aufgeladen ...</string>
     <string name="ARTHER_Extractor_Issue">Erzförderer haben Probleme!</string>
     <string name="ARTHER_Far">Umziehen. Drücken Sie die TAB-Taste, um ARTHER wieder aufzurufen!</string>
     <string name="ARTHER_FightLose">Centraler Energie Verteiler wurde zerstört! Auto-Reparatur aktiviert ...</string>
