@@ -1552,9 +1552,9 @@
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал МК4</string>
     <string name="T4 Power Conduit_DESC">" "</string>
-    <string name="CryoPlasm Lancer">Криоплазменное Копьё</string>
+    <string name="CryoPlasm Lancer">КриоПлазменное Копьё</string>
     <string name="CryoPlasm Lancer_DESC">Малая дальность, быстрое, защита от КриоПлазмы</string>
-    <string name="CryoPlasm Melter">Криоплазменный Плавильщик</string>
+    <string name="CryoPlasm Melter">КриоПлазменный Плавильщик</string>
     <string name="CryoPlasm Melter_DESC">Плавит КриоПлазму на средних дистанциях. Полезен только в паре с другими типами защиты.</string>
     <string name="CryoPlasm Dazzler Turret">КриоПлазменная Блеск-Турель</string>
     <string name="CryoPlasm Dazzler Turret_DESC">КриоПлазменная защита - быстрая, большая дальность. Работает только по прямой. Требует 250000 энергии для срабатывания.</string>
@@ -2230,11 +2230,11 @@
     <string name="Climate Control Centre_CRAFT_DESC">Центр Климат-Контроля Холодных Пещер (ЦКК) необходим для терраформирования холодных пещер, преобразуя их в гостеприимную среду. Всё оборудование уровня Т4 требует функционирования ЦКК. Всего 175 шт. блоков.</string>
     <string name="Climate Control Centre_CRAFT_HINT">Строится по схеме 5х7х5.</string>
     <string name="Trencher Drill component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
+    <string name="Trencher Drill component_CRAFT_HINT">Эффективность зависит от степени охвата жилы буром</string>
     <string name="Trencher Drill Mk2 component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill Mk2 component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
+    <string name="Trencher Drill Mk2 component_CRAFT_HINT">Эффективность зависит от степени охвата жилы буром</string>
     <string name="Trencher Drill Mk3 component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
-    <string name="Trencher Drill Mk3 component_CRAFT_HINT">Эффективность зависит степени охвата жилы буром</string>
+    <string name="Trencher Drill Mk3 component_CRAFT_HINT">Эффективность зависит от степени охвата жилы буром</string>
     <string name="Trencher Motor component_CRAFT_DESC">Формирует Привод Траншейного Бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с Буром.</string>
     <string name="Trencher Motor component_CRAFT_HINT">Потребляет энергию и добывает буром в руду.</string>
     <string name="Geothermal Generator comp._CRAFT_DESC">Геотермальный Генератор. Установите в холодной области и подключите к нему теплопроводящие трубы. Строится по схеме 5х3х5 (всего 75 шт.)</string>
@@ -3379,8 +3379,8 @@
 <string name="View_Log">См. лог</string>
 <string name="Ignore">Игнорировать</string>
 
-<string name="CryoPlasm_Lancer">Криоплазменное Копьё</string>
-<string name="CryoPlasm_Melter">Криоплазменный Плавильщик</string>
+<string name="CryoPlasm_Lancer">КриоПлазменное Копьё</string>
+<string name="CryoPlasm_Melter">КриоПлазменный Плавильщик</string>
 <string name="Scanning_for_targets">"Поиск целей - "</string>
 <string name="Clearing_area">Очистка области</string>
 <string name="Cleared">"Очищено "</string>
@@ -3634,7 +3634,7 @@
   <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Примеси не обнаружены.
 Расположите в объёме с примесями.</string>
   <string name="Connected_to_Particulate_Compressor">Подсоединено к Компрессору.</string>
-  <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Очистка завершена! Криоплазмы не обнаружено. Ожидание...</string>
+  <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Очистка завершена! КриоПазмы не обнаружено. Ожидание...</string>
 <string name="Melted">Выплавлено</string>
 <string name="s_since_last_firing">сек с последнего выстрела.</string>
 <string name="You_lasted">Вы продержались:</string>
@@ -3690,7 +3690,7 @@
 Нажмите «X» для возврата к Строительной Пушке.</string>
   <string name="unknown">неизвестн.</string>
   <string name="Waiting_for_target_lock">Ожидание захвата цели...</string>
-  <string name="CryoPlasm_Cleared_X_m">Криоплазмы удалено: {0}м³</string>
+  <string name="CryoPlasm_Cleared_X_m">КриоПлазмы удалено: {0}м³</string>
   
 <string name="CryoPlasm_Inferno">Крио-Инферно</string>
   <string name="Place_on_3x3_Ore_only">Разместите на рудной площадке 3х3!</string>
@@ -4133,10 +4133,10 @@
   
 <string name="High_Octane_Fuel_needed_X">Необходимо Высокооктанового Топлива: {0}</string>
   
-<string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Турель Инферно успешно уничтожила Источник Криоплазмы!</string>
+<string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Турель Инферно успешно уничтожила Источник КриоПлазмы!</string>
   <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Подсоедините Хранилище Магмы с помощью жидкостных труб...</string>
-  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Поиск Источника Криоплазмы в радиусе 64 м...</string>
-  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">{0} на линии огня и мешает нацелиться на Источник Криоплазмы!</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Поиск Источника КриоПлазмы в радиусе 64 м...</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">{0} на линии огня и мешает нацелиться на Источник КриоПлазмы!</string>
   <string name="Time_remaining_X">Осталось времени: {0}</string>
   <string name="WARNING_REGROWTH_IN_X">ВНИМАНИЕ! ОТРАСТАНИЕ ЧЕРЕЗ: {0}</string>
   <string name="NEED_COMPRESSED_MAGMA_NOW">СРОЧНО НУЖНА СЖАТАЯ МАГМА!</string>
