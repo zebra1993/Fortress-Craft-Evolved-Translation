@@ -7,9 +7,10 @@
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
-    <string name="Dapper_Pack">Щёгольский комплект</string>
+    <string name="Dapper_Pack">"Щёгольский
+    комплект"</string>
     <string name="Not_Installed">Нет</string>
-    <string name="Multiplayer_Sign">&lt;Мультиплеер</string>
+    <string name="Multiplayer_Sign">Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
     <string name="Create_World">Создать Мир</string>
     <string name="Resource_Level">Уровень Ресурсов</string>
@@ -110,7 +111,7 @@
 
     <string name="Care_Package_Enabled">Гуманитарная помощь включена! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку МК3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма. Халява! .</string>
 
-    <string name="Flatland_Locked">Режим «Равнина» будет доступен после уничтожения Источника КриоПлазмы.</string>
+    <string name="Flatland_Locked">Режим «Равнина» будет доступен после уничтожения Источника Криоплазмы.</string>
     <string name="Rush_Mode">Режим спешки</string>
     <string name="Flatland">Равнина</string>
     <string name="Care_Package">Гуманитарная помощь</string>
@@ -892,11 +893,11 @@
 Заряжает подсоединенные устройства.</string>
     <string name="Organic Solar Panel">Органическая Солнечная Батарея</string>
     <string name="Organic Solar Panel_DESC">Генерирует малое количество энергии ночью от света Новы. Заряжает подсоединенные батареи.</string>
-    <string name="Basic Laser Energy Transmitter">Базовый Лазерный ЭнергоПередатчик</string>
+    <string name="Basic Laser Energy Transmitter">Базовый Лазерный Энергопередатчик</string>
     <string name="Basic Laser Energy Transmitter_DESC">Медлительный дистанционный передатчик энергии. Максимальная дистанция — 32. Усовершенствуйте как можно скорее.</string>
-    <string name="Laser Energy Transmitter MK1">Лазерный ЭнергоПередатчик МК1</string>
-    <string name="Laser Energy Transmitter MK2">Лазерный ЭнергоПередатчик МК2</string>
-    <string name="Laser Energy Transmitter MK3">Лазерный ЭнергоПередатчик МК3</string>
+    <string name="Laser Energy Transmitter MK1">Лазерный Энергопередатчик МК1</string>
+    <string name="Laser Energy Transmitter MK2">Лазерный Энергопередатчик МК2</string>
+    <string name="Laser Energy Transmitter MK3">Лазерный Энергопередатчик МК3</string>
     <string name="Laser Energy Transmitter MK1_DESC">Дистанционный передатчик энергии. Макс. дистанция — 64. Цельтесь в машины.</string>
     <string name="Laser Energy Transmitter MK2_DESC">Передаёт энергию ещё быстрее!</string>
     <string name="Laser Energy Transmitter MK3_DESC">Самый большой одноблочный передатчик энергии.</string>
@@ -1073,7 +1074,7 @@
     <string name="Mass Storage Controller">Контроллер Склада</string>
     <string name="Macerator">Измельчитель</string>
     <string name="Macerator_DESC">Перерабатывает ненужные камни, отсеивая вкрапления руды</string>
-    <string name="Mass Storage Controller_DESC">Контроллер Склада для запитанного Склада</string>
+    <string name="Mass Storage Controller_DESC">Контроллер Склада для питания энергозависимых Портов Склада. Подсоединяется к Складу</string>
     <string name="Research Assembler">Исследовательский Сборщик</string>
     <string name="Research Assembler_DESC">" "</string>
     <string name="Laboratory">Лаборатория</string>
@@ -1088,10 +1089,10 @@
     <string name="H.E.I.S.T.">ГРАБИК</string>
     <string name="Slime Attractor">Слизневая Приманка</string>
     <string name="Slime Attractor_DESC">Приманивает слизней.</string>
-    <string name="Cryoplasm">КриоПлазма</string>
+    <string name="Cryoplasm">Криоплазма</string>
     <string name="Cryoplasm_DESC">Эта невероятно твёрдая органическая неньютоновская жидкость была разбужена Центром климатического контроля! Понадобится специальное оружие, чтобы справиться с ней!</string>
     <string name="CryoPlasm_DESC">Эта невероятно твёрдая органическая неньютоновская жидкость была разбужена Центром климатического контроля! Понадобится специальное оружие, чтобы справиться с ней!</string>
-    <string name="CryoPlasm">КриоПлазма</string>
+    <string name="CryoPlasm">Криоплазма</string>
     <string name="Bulk Mass Storage Input Port">Вместительный Входной Порт Склада</string>
     <string name="Basic Mass Storage Output Port">Базовый выходной порт Склада</string>
     <string name="Mass Storage Output Port">Выходной Порт Склада</string>
@@ -1259,7 +1260,7 @@
     <string name="Mephitic Missile Assembler">Сборщик ядовитых Ракет</string>
     <string name="Liquified Resin">Текучая смола</string>
     <string name="Liquified Resin_DESC">Твердая смола была размягчена, и теперь её можно собирать.</string>
-    <string name="Cold Creep Spawner">Источник КриоПолзуна</string>
+    <string name="Cold Creep Spawner">Источник Ползуна</string>
     <string name="Cold Creep Spawner_DESC">" "</string>
     <string name="NanoDisintegrator">Нано-дезинтегратор</string>
     <string name="NanoDisintegrator_DESC">Нано-дезинтегратор. Может спокойной очистить область 3х3х3 даже от самой твердой материи. Обращаться с осторожностью.</string>
@@ -1421,11 +1422,11 @@
     <string name="Space Warz Siding3">Сайдинг Космических войн 3</string>
     <string name="Imbued Machine Block Assembler_DESC">Автоматические создаёт Насыщенные Машинные Блоки из Энергоячеек и Улучшенных Машинных Блоков.</string>
     <string name="Lens Polisher">Полировщик Линз</string>
-    <string name="Lens Polisher_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных ЭнергоПередатчиках.</string>
+    <string name="Lens Polisher_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных Энергопередатчиках.</string>
     <string name="Lens Chromer">Хромировщик Линз</string>
     <string name="Lens Chromer_DESC">Покрывает Расфокусированные Линзы хромовым покрытием для улучшения их технических характеристик.</string>
     <string name="Cryo Bomb Assembler">Сборщик КриоБомб</string>
-    <string name="Cryo Bomb Assembler_DESC">Производит бомбы, спроектированные для установки на ФАЛКОРы-бомбардировщики. Помогает уничтожать большие количества КриоПлазмы на значительном расстоянии.</string>
+    <string name="Cryo Bomb Assembler_DESC">Производит бомбы, спроектированные для установки на ФАЛКОРы-бомбардировщики. Помогает уничтожать большие количества Криоплазмы на значительном расстоянии.</string>
     <string name="Chromed Block Assembler">Сборщик Хромированных Блоков</string>
     <string name="Chromed Block Assembler_DESC">Покрывает Хромом Насыщенные Машинные Блоки.</string>
     <string name="Hiemal Block Assembler">Сборщик Морозных Блоков</string>
@@ -1445,10 +1446,10 @@
     <string name="Blast Furnace_DESC">" "</string>
     <string name="Continuous Casting Basin">Машина непрерывного литья</string>
     <string name="Continuous Casting Basin_DESC">" "</string>
-    <string name="Casting Pipe (Straight)">Литая труба (Прямая)</string>
+    <string name="Casting Pipe (Straight)">Литейная Труба (Прямая)</string>
     <string name="Casting Pipe (Straight)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
     <string name="Casting Pipe (Bend)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
-    <string name="Casting Pipe (Bend)">Литая труба (Гнутая)</string>
+    <string name="Casting Pipe (Bend)">Литейная Труба (Гнутая)</string>
     <string name="Refinery Reactor Vat Component">Компонент Биореактора Очистителя</string>
     <string name="Refinery Reactor Vat Component_DESC">Реактор обеспечивает протекание биохимических реакций под высоким давлением. Для изготовления Биореактора расположите компоненты в виде куба 3х3х3. Подсоедините к нему Контроллер Очистителя для запуска в работу.</string>
     <string name="Jet Turbine Generator Housing">Корпус Газотурбинного Генератора</string>
@@ -1543,7 +1544,7 @@
     <string name="Imbued Machine Block">Насыщенный Машинный Блок</string>
     <string name="Imbued Machine Block_DESC">Компонент оборудования уровня 4. Ещё может использоваться для строительства</string>
     <string name="CryoMine">КриоМина</string>
-    <string name="CryoMine_DESC">Взрывается отравляющим газом, будучи активирована КриоПлазмой.</string>
+    <string name="CryoMine_DESC">Взрывается отравляющим газом, будучи активирована Криоплазмой.</string>
     <string name="Bomber FALCOR">ФАЛКОР-бомбардировщик</string>
     <string name="Bomber FALCOR_DESC">Бросает бомбы в густые отростки Ползуна. Большая дальность.</string>
     <string name="Freezon Injector">Фризоновый Инжектор</string>
@@ -1552,12 +1553,12 @@
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал МК4</string>
     <string name="T4 Power Conduit_DESC">" "</string>
-    <string name="CryoPlasm Lancer">КриоПлазменное Копьё</string>
-    <string name="CryoPlasm Lancer_DESC">Малая дальность, быстрое, защита от КриоПлазмы</string>
-    <string name="CryoPlasm Melter">КриоПлазменный Плавильщик</string>
-    <string name="CryoPlasm Melter_DESC">Плавит КриоПлазму на средних дистанциях. Полезен только в паре с другими типами защиты.</string>
-    <string name="CryoPlasm Dazzler Turret">КриоПлазменная Блеск-Турель</string>
-    <string name="CryoPlasm Dazzler Turret_DESC">КриоПлазменная защита - быстрая, большая дальность. Работает только по прямой. Требует 250000 энергии для срабатывания.</string>
+    <string name="CryoPlasm Lancer">Криоплазменное Копьё</string>
+    <string name="CryoPlasm Lancer_DESC">Малая дальность, быстрое, защита от Криоплазмы</string>
+    <string name="CryoPlasm Melter">Криоплазменный Плавильщик</string>
+    <string name="CryoPlasm Melter_DESC">Плавит Криоплазму на средних дистанциях. Полезен только в паре с другими типами защиты.</string>
+    <string name="CryoPlasm Dazzler Turret">Криоплазменная Блеск-Турель</string>
+    <string name="CryoPlasm Dazzler Turret_DESC">Криоплазменная защита - быстрая, большая дальность. Работает только по прямой. Требует 250000 энергии для срабатывания.</string>
     <string name="Magma Bore">Магма-Бур</string>
     <string name="Magma Bore_DESC">.</string>
     <string name="Hard Resin Detector">Детектор Твёрдой Смолы</string>
@@ -1586,7 +1587,7 @@
     <string name="Auto Organic Thief">Органикрад</string>
     <string name="Auto Organic Thief_DESC">Автоматически забирает Испорченную Органику из инвентаря.</string>
     <string name="Laser Borer">Лазерный Бур</string>
-    <string name="Laser Borer_DESC">Мощное лазерное бурильное устройство, заправляемое МЛБУ. Быстро создаёт шахту 3х3 по направлению к центру Холодных Пещер. Строится по схеме 3х3х3.</string>
+    <string name="Laser Borer_DESC">Мощное лазерное бурильное устройство, заправляемое ВЭКТ. Быстро создаёт шахту 3х3 по направлению к центру Холодных Пещер. Строится по схеме 3х3х3.</string>
     <string name="High Orbital Debris Object Reclaimer">Хватающая Орбитальные Дрейфующие Обломки Ракета</string>
     <string name="High Orbital Debris Object Reclaimer_DESC">Позволяет запускать ракеты, чтобы сбить обломки с орбиты на поверхность. Строится по схеме 3х3х1.</string>
     <string name="Fuel Compressor.">Топливный Компрессор.</string>
@@ -1727,7 +1728,7 @@
     <string name="Installed_Lift">Установленный Лифт</string>
 
     <string name="MISSION_(R)otate the LPT towards the PSB">Поверните (клавиша «R») ЛЭП в направлении Энергохранилища!</string>
-    <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Базовый Лазерный ЭнергоПередатчик</string>
+    <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Базовый Лазерный Энергопередатчик</string>
     <string name="MISSION_Place Tutorial Storage Hopper">Разместите Логистический Бункер</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите 2 Накопительных Бункера рядом с Плавильней.</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Загрузка».</string>
@@ -1830,7 +1831,7 @@
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Очистителях и больших батареях!</string>
     <string name="MK2 Organic Solar Component_CRAFT_DESC">Генерирует среднее количество энергии в течение дня и малое количество ночью. Имеет те же ограничения на размещение, что и в обычной версии.</string>
     <string name="MK2 Organic Solar Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Очистителях и больших батареях!</string>
-    <string name="Pyrothermic Generator_CRAFT_DESC">Сжигает ресурсы в прикрепленном Бункере для энергоснабжения соседнего оборудования. С глубиной эффективность уменьшается из-за плохой вентиляции. Используйте Лазерные ЭнергоПередатчики, для передачи энергии на бОльшие глубины.</string>
+    <string name="Pyrothermic Generator_CRAFT_DESC">Сжигает ресурсы в прикрепленном Бункере для энергоснабжения соседнего оборудования. С глубиной эффективность уменьшается из-за плохой вентиляции. Используйте Лазерные Энергопередатчики, для передачи энергии на бОльшие глубины.</string>
     <string name="Pyrothermic Generator_CRAFT_HINT">Нужно подключить к Бункеру</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Очень медленно передает энергию от генератора или аккумулятора энергии. Может питать оборудование, энергохранилища или другой энергопередатчик. Прикрепите к стене, чтобы передать энергию по вертикали.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Максимальная дальность : 64 метра. Усовершенствуйте как можно скорее.</string>
@@ -1864,7 +1865,7 @@
     <string name="MK5 Battery Component_CRAFT_HINT">Счетверённое Энергохранилище из батарей МК3!</string>
     <string name="Organic Power Storage_CRAFT_DESC">Действует как буфер между электрогенераторами и потребителями, сохраняя до 8500 единиц. Смежные Энергохранилища будут делить энергию поровну.</string>
     <string name="Organic Power Storage_CRAFT_HINT">Малая пропускная способность, большая емкость.</string>
-    <string name="Ore Extractor_CRAFT_DESC">Автоматически извлекает руду из жилы, к которой прикреплен. Объем внутреннего хранилища может быть увеличен с помощью Накопительных Бункеров. Требуется энергия. Может быть модернизирован.</string>
+    <string name="Ore Extractor_CRAFT_DESC">Автоматически извлекает руду из жилы, к которой прикреплен. Объём хранилища можно увеличить, прикрепляя Накопительные Бункеры. Требуется энергия. Может быть модернизирован.</string>
     <string name="Ore Extractor_CRAFT_HINT">Подключите к Бункеру для автоматического хранения</string>
     <string name="MiniHopper_CRAFT_DESC">Хранилище начального уровня. Хранит до 10 ресурсов, но передает очень медленно.</string>
     <string name="MiniHopper_CRAFT_HINT">Очень медленно выбрасывает ресурсы.</string>
@@ -1959,7 +1960,7 @@
     <string name="Motorised Conveyor_CRAFT_HINT">Потребляет 5 единиц энергии на предмет. Направьте в сторону от Накопительного Бункера.</string>
     <string name="Conveyor Turntable_CRAFT_DESC">Автоматически поворачивается после передачи предмета. Старайтесь не располагать рядом с Накопительными Бункерами и другими Поворотными столами. Используется для разделения линии.</string>
     <string name="Conveyor Turntable_CRAFT_HINT">Используется для разделения конвейерной линии.</string>
-    <string name="Transport Pipe_CRAFT_DESC">Быстрый, но дорогостоящий метод передачи материалов между Накопительными Бункерами. Никакой энергии не требуется. Невосприимчив к сильному холоду и менее восприимчив к атаке.</string>
+    <string name="Transport Pipe_CRAFT_DESC">Быстрый, но дорогостоящий метод передачи материалов между Накопительными Бункерами. Никакой энергии не требуется. Невосприимчивы к сильному холоду и менее восприимчивы к атакам.</string>
     <string name="Transport Pipe_CRAFT_HINT">Невосприимчив к сильному холоду.</string>
     <string name="Transport Pipe Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы ограничить тип материала, входящего в сеть транспортных трубопроводов.</string>
     <string name="Transport Pipe Filter_CRAFT_HINT">Может крепиться к стенам и потолкам</string>
@@ -1969,7 +1970,7 @@
     <string name="FALCOR MK1_CRAFT_HINT">Идеально подходит для сбора останков Ос!</string>
     <string name="Logistics FALCOR_CRAFT_DESC">Автоматически собирает выбранные предметы с ФАЛКОР-Маяков, установленных на Накопительных Бункерах.</string>
     <string name="Logistics FALCOR_CRAFT_HINT">Идеально подходит для низкопроизводительной, дальней логистики.</string>
-    <string name="FALCOR Bomber_CRAFT_DESC">Автоматически доставляет Крио-бомбы к удаленной КриоПлазме.</string>
+    <string name="FALCOR Bomber_CRAFT_DESC">Автоматически доставляет Крио-бомбы к удаленной Криоплазме.</string>
     <string name="FALCOR Bomber_CRAFT_HINT">Нужны Бомбы в подсоединённом Бункере.</string>
     <string name="Cryo Bomb Assembler_CRAFT_DESC">Создаёт Крио-бомбы.</string>
     <string name="Cryo Bomb Assembler_CRAFT_HINT">Нужны Бомбы в подсоединённом Бункере.</string>
@@ -1981,7 +1982,7 @@
     <string name="Coiler Plant_CRAFT_HINT">То что нужно для начала автоматизации</string>
     <string name="PCB Assembling Plant_CRAFT_DESC">Конвейерное оборудование для автоматического преобразования Катушек в Печатные Платы. Не требует энергоснабжения или Накопительных Бункеров.</string>
     <string name="PCB Assembling Plant_CRAFT_HINT">Печатные Платы используются во многих электронных компонентах</string>
-    <string name="Construction Paste Grinder_CRAFT_DESC">Преобразует бесполезный мусор в Строительную Пасту. Все эстетические блоки используют Строительную Пасту!</string>
+    <string name="Construction Paste Grinder_CRAFT_DESC">Преобразует бесполезный мусор в Строительную Пасту. Все декоративные блоки создаются из Строительной Пасты!</string>
     <string name="Construction Paste Grinder_CRAFT_HINT">Мило.</string>
     <string name="Pipe Extrusion Plant_CRAFT_DESC">Конвейерное оборудование для автоматического преобразования Слитков в Трубы. Не требует энергоснабжения или Накопительных Бункеров.</string>
     <string name="Pipe Extrusion Plant_CRAFT_HINT">Самое то для автоматизации</string>
@@ -2043,7 +2044,7 @@
     <string name="ARTHER Dapper Hat_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_DESC">Монокль АРЧЕРа. Доступен при наличии Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
-    <string name="CryoMine_CRAFT_DESC">Автоматически детонирующие Хлорные Мины позволяют вам избегать областей КриоПлазмы.</string>
+    <string name="CryoMine_CRAFT_DESC">Автоматически детонирующие Хлорные Мины позволяют вам избегать областей Криоплазмы.</string>
     <string name="CryoMine_CRAFT_HINT">Это. Не. Вдыхать. Договорились?</string>
     <string name="Basic Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 200% за счет увеличения потребления энергии.</string>
     <string name="Basic Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 200%. Потребляет намного больше энергии!</string>
@@ -2061,23 +2062,23 @@
     <string name="Crystal Cutter Head_CRAFT_HINT">Кристаллическая Фреза более эффективна, но быстрее изнашивается.</string>
     <string name="Organic Cutter Head_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить эффективность на 50% за счет снижения потерь руды. Кроме того, позволяет добывать более прочные материалы.</string>
     <string name="Organic Cutter Head_CRAFT_HINT">Органическая головка более эффективна, но быстрее изнашивается.</string>
-    <string name="Diamond Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 15%.</string>
+    <string name="Diamond Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 15%.</string>
     <string name="Diamond Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 15%</string>
-    <string name="Emerald Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 30%.</string>
+    <string name="Emerald Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 30%.</string>
     <string name="Emerald Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 30%</string>
-    <string name="Ruby Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 50%.</string>
+    <string name="Ruby Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 50%.</string>
     <string name="Ruby Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 50%</string>
-    <string name="Sapphire Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 90%.</string>
+    <string name="Sapphire Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 90%.</string>
     <string name="Sapphire Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 90%</string>
-    <string name="Topaz Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 150%.</string>
+    <string name="Topaz Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 150%.</string>
     <string name="Topaz Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 150%</string>
-    <string name="Sugalite Focusing Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 200%.</string>
+    <string name="Sugalite Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 200%.</string>
     <string name="Sugalite Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 200%</string>
-    <string name="Crude Organic Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 25%.</string>
+    <string name="Crude Organic Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 25%.</string>
     <string name="Crude Organic Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 25%</string>
-    <string name="Organic Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 100%.</string>
+    <string name="Organic Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 100%.</string>
     <string name="Organic Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 100%</string>
-    <string name="Exceptional Organic Lens_CRAFT_DESC">Вставьте в Лазерный ЭнергоПередатчик, чтобы увеличить скорость на 250%.</string>
+    <string name="Exceptional Organic Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 250%.</string>
     <string name="Exceptional Organic Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 250%</string>
     <string name="Empty Fuel Canister_CRAFT_DESC">Пустая Топливная Канистра. Будьте «Зелеными» - используйте повторно, где это возможно!</string>
     <string name="Empty Fuel Canister_CRAFT_HINT">Будьте «Зелеными» - используйте в качестве вторсырья!</string>
@@ -2086,7 +2087,7 @@
     <string name="Hardened Machine Block_CRAFT_DESC">Подсказка: это неэффективный способ изготовления данных блоков. Автоматизация может быть намного эффективнее производства вручную.</string>
     <string name="Hardened Machine Block_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать их!</string>
     <string name="Alloyed Block Assembler_CRAFT_HINT">Они широко используются, так что настоятельно рекомендуется автоматизировать производство!</string>
-    <string name="Alloyed Block Assembler_CRAFT_DESC">Насыщает Упрочнённые блоки золотом, превращая их в Легированные блоки.</string>
+    <string name="Alloyed Block Assembler_CRAFT_DESC">Покрывает Упрочнённые блоки золотом, превращая их в Легированные блоки.</string>
     <string name="HardenedBlock Assembler_CRAFT_DESC">Смешивает Никель и Титан для создания Легированных блоков.</string>
     <string name="HardenedBlock Assembler_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать производство!</string>
     <string name="Mass Storage Block_CRAFT_DESC">Комплекс Складов. Разместите на горизонтальной плоскости. Используйте порты ввода-вывода для доступа к содержимому!</string>
@@ -2252,7 +2253,7 @@
     <string name="ARTHER Pumpkin Mask_CRAFT_DESC">Изготавливается из Оранжевого стручка, что даёт приятное оранжевое свечение.</string>
     <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Оооо-ООООО-ооооо!</string>
     <string name="Laser Borer_CRAFT_HINT">Внимание! Опасно! Перед подачей топлива убедитесь, что он правильно установлен.</string>
-    <string name="Laser Borer_CRAFT_DESC">Использует ВЭКТ для сверхзарядки БЕЛ-9000, для бурения вертикальной шахты 3х3 и добычи полезных ископаемых с огромной скоростью. Подайте ВЭКТ через прикрепленный Накопительный Бункер. Строится по схеме 3х3х3.</string>
+    <string name="Laser Borer_CRAFT_DESC">Использует ВЭКТ, чтобы усилить БЕЛ-9000 для бурения вертикальных шахт сечением 3х3 и с огромной скоростью добывать полезные ископаемые. Заправьте ВЭК-Топливом через прикрепленный Накопительный Бункер. Строится по схеме 3х3х3.</string>
     <string name="MK1 PowerCore Charger_CRAFT_DESC">Создает оборудование, способное автоматически изготавливать Энергоячейки. Энергоячейка даст энергию АРЧЕРу. Поместите в панель быстрого доступа, чтобы использовать.</string>
     <string name="MK1 PowerCore Charger_CRAFT_HINT">Запомните, Энергоячейки заряжаются Зарядниками!</string>
     <string name="MK2 PowerCore Charger_CRAFT_DESC">Создаёт одноразовую Энергоячейку, восполняющую энергию АРЧЕРа. Поместите в панель быстрого доступа, чтобы использовать.</string>
@@ -2265,7 +2266,7 @@
     <string name="MK5 PowerCore Charger_CRAFT_HINT">Запомните, Энергоячейки заряжаются Зарядниками!</string>
     <string name="Crystal Clock Maker_CRAFT_DESC">Производит часы из Кристалла</string>
     <string name="Crystal Clock Maker_CRAFT_HINT">Полезный производственный компонент.</string>
-    <string name="Lens Polisher_CRAFT_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных ЭнергоПередатчиках.</string>
+    <string name="Lens Polisher_CRAFT_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных Энергопередатчиках.</string>
     <string name="Lens Polisher_CRAFT_HINT">Полезный производственный компонент.</string>
     <string name="Lens Chromer_CRAFT_DESC">Покрывает Расфокусированные Линзы хромовым покрытием для улучшения их технических характеристик.</string>
     <string name="Lens Chromer_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -2355,7 +2356,7 @@
     <string name="MISSION_Build a Pyrothermic Generator">Постройте Пиротермический Генератор</string>
     <string name="MISSION_No ore extracted in the last minute">Нет добытой руды уже больше минуты!</string>
     <string name="MISSION_No bars smelted in the last minute">Нет литья слитков уже больше минуты!</string>
-    <string name="MISSION_Build 8 Laser Power Transmitters">Постройте 8 Лазерных ЭнергоПередатчиков!</string>
+    <string name="MISSION_Build 8 Laser Power Transmitters">Постройте 8 Лазерных Энергопередатчиков!</string>
     <string name="MISSION_Fit Faster Motors to Ore Extractors">Установите более быстрый привод на Экстрактор!</string>
     <string name="MISSION_CPH lacking resources">ЦЭК не достаточно ресурсов!</string>
     <string name="MISSION_Build Ore Extractors">Постройте Экстракторы Руды!</string>
@@ -2441,7 +2442,7 @@
     <string name="ARTHER Ghost Mask_CRAFT_HINT">Бу-у-у-у.</string>
     <string name="ARTHER Turret_CRAFT_DESC">Оборонительная турель, которая будет работать только при установленном в неё АРЧЕРе. Радиус поражения - 64 метра, малое потребление энергии. Идеально подходит для защиты конвейеров на начальном этапе!</string>
     <string name="ARTHER Turret_CRAFT_HINT">Подсказка: это идеальное устройство для охраны 128 метров конвейеров.</string>
-    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать КриоПлазму на очень большой дистанции. Полезно для сдерживания основных направлений атаки.</string>
+    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать Криоплазму на очень большой дистанции. Полезно для сдерживания основных направлений атаки.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">Строится по схеме 3х3х3.</string>
     <string name="Iron Gear_CRAFT_DESC">Скошенная шестерня, применяющаяся в различных приводах и передачах.</string>
     <string name="Iron Gear_CRAFT_HINT">Скошенные работают тише!</string>
@@ -2458,7 +2459,7 @@
     <string name="Minecart Empty Gate_CRAFT_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они НЕ ПУСТЫЕ. В ЗЕЛЕНОМ направлении проезд свободен.</string>
     <string name="Minecart Empty Gate_CRAFT_HINT">Применяется для управления вагонетками.</string>
     <string name="ConstructoBot Direction_CRAFT_DESC">Заставляет СтройБота проследовать в указанном направлении.</string>
-    <string name="ConstructoBot Direction_CRAFT_HINT">Указатель СтройБота</string>
+    <string name="ConstructoBot Direction_CRAFT_HINT">" "</string>
     <string name="ConstructoBot Cargo Control_CRAFT_DESC">Заставляет СтройБота с грузом двигаться в направлении ЗЕЛЁНОЙ стрелки.</string>
     <string name="ConstructoBot Cargo Control_CRAFT_HINT">Грузовой контроль СтройБота</string>
     <string name="ConstructoBot Loaded Control_CRAFT_HINT">Контроль полного СтройБота</string>
@@ -2557,7 +2558,7 @@
     <string name="MagmaBore Component_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Magma Storage_CRAFT_DESC">Хранит Магму и перекачивает её в Крио-Инферно через Жидкостные трубы. Строится по схеме 3х7х3 (всего 63 шт.).</string>
     <string name="Magma Storage_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
-    <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник КриоПлазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
+    <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник Криоплазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
     <string name="Cryo Inferno_CRAFT_HINT">Требуется 15 минут сжигания с максимальным временем прерывания 30 секунд. Удачи.</string>
     <string name="Freezon Injector_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы ввести Канистры со Сжатым Фризоном в совместимое оборудование.</string>
     <string name="Freezon Injector_CRAFT_HINT">Посмотрите в справочнике список совместимого оборудования и эффектов.</string>
@@ -2585,9 +2586,9 @@
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
     <string name="Hydrojet Cutter_CRAFT_DESC">Модернизированный модуль для Завода, позволяет производить модернизацию костюма. Должен быть помещен на Завод.</string>
     <string name="Hydrojet Cutter_CRAFT_HINT">Это ДОЛЖНО быть размещено на вашем Заводе.</string>
-    <string name="CryoPlasm Lancer_CRAFT_DESC">Позволяет отчищать КриоПлазму на очень короткой дистанции. Полезно для поддержания Усиков в страхе.</string>
+    <string name="CryoPlasm Lancer_CRAFT_DESC">Позволяет отчищать Криоплазму на очень короткой дистанции. Полезно для поддержания Усиков в страхе.</string>
     <string name="CryoPlasm Lancer_CRAFT_HINT">Это базовая турель; используйте её в сочетании с более совершенным оружием.</string>
-    <string name="CryoPlasm Melter_CRAFT_DESC">Позволяет плавить КриоПлазму на средней дистанции. Полезно для направления КриоПлазмы в уничтожитель.</string>
+    <string name="CryoPlasm Melter_CRAFT_DESC">Позволяет плавить Криоплазму на средней дистанции. Полезно для направления Криоплазмы в уничтожитель.</string>
     <string name="CryoPlasm Melter_CRAFT_HINT">Отлично работает в паре с Блеск-Турелью.</string>
     <string name="MK1 Robot Arm_CRAFT_DESC">Автоматически переносит определенный тип руды между конвеерами.</string>
     <string name="MK1 Robot Arm_CRAFT_HINT">Используйте при организации конвееров с рудой.</string>
@@ -2601,7 +2602,7 @@
 	<string name="Finished Research">закончено</string>
 	<string name="Lab">Лаб.</string>
 	<string name="Laboratory has">В Лаборатории есть:</string>
-	<string name="Located">РАСПОЛОЖЕН!</string>
+	<string name="Located">Обнаружено!</string>
 	<string name="MISSION_All">Все</string>
 	<string name="MISSION_Clearing">– начата очистка.</string>
 	<string name="MISSION_Crystal_Offline">неактивных Крист. Экстракторов</string>
@@ -2610,7 +2611,7 @@
 	<string name="MISSION_More Conveyors">больше конвейеров.</string>
 	<string name="MISSION_More Torches">" больше Факелов для согрева!"</string>
 	<string name="MISSION_OES_Offline">неактивных Экстракторов!</string>
-	<string name="MISSION_OE_Offline">- установленный экстрактор неактивен!</string>
+	<string name="MISSION_OE_Offline">- установленный экстрактор неактивен</string>
 	<string name="MISSION_Offline">неактивн.</string>
 	<string name="MISSION_Open Handbook">Нажмите «H», чтобы открыть справку.</string>
 	<string name="MISSION_PTGs Inactive">неактивных ПТГ</string>
@@ -2765,7 +2766,7 @@
   <string name="Hint_37">Автоматизируйте производство, чтобы сэкономить время и пространство.</string>
   <string name="Hint_39">Ищите Кристаллы в подземных пещерах. Вы можете разместить Кристаллы для освещения без использования энергии.</string>
   <string name="with_lenses">с Линзами</string>
-<string name="LPT_need_lenses_fitting">Улучшите Лазерные ЭнергоПередатчики , вставив в них Линзы</string>
+<string name="LPT_need_lenses_fitting">Улучшите Лазерные Энергопередатчики , вставив в них Линзы</string>
 
 <string name="Extract_or_Smelt_Copper">Добудьте или выплавите Медь.</string>
 <string name="Extract_or_Smelt_Tin">Добудьте или выплавите Олово.</string>
@@ -2946,7 +2947,7 @@
 <string name="NO_SCANNER_BUILT">ОТСУТСТВУЕТ СКАНЕР</string>
 <string name="Ore">Руда</string>
 <string name="Ore_Extractors">Экстракторы Руды</string>
-<string name="not_collecting_ore">не добывает руду</string>
+<string name="not_collecting_ore">шт. неактивно</string>
 <string name="used">использовано</string>
 <string name="Enriched">Обогащенный</string>
 <string name="Mynocks_detected">Обнаружены Миноки</string>
@@ -2980,8 +2981,8 @@
 <string name="Ore_Thief_3k">Рудокрад</string>
 <string name="LPTs">ЛЭП</string>
 <string name="No_MS_system_detected">Не обнаружен Склад</string>
-<string name="MS_Crates_with">Ящиков Склада с</string>
-<string name="used_of">использовано из</string>
+<string name="MS_Crates_with">- всего ящиков на складе. Места занято:</string>
+<string name="used_of">из</string>
 <string name="Recommendation">Рекомендация</string>
 
 <string name="Strong_defenses_detected">Слишком сильная оборона базы. Рекомендовано повысить Угрозу для увеличения добычи органики</string>
@@ -3065,7 +3066,7 @@
 <string name="Attached_to">- соединение с -</string>
 <string name="Smelting_time">Время плавки</string>
 
-<string name="currently_in_inventory">есть в инвентаре</string>
+<string name="currently_in_inventory">шт. в инвентаре</string>
 <string name="This_requires">Необходимо</string>
 <string name="Crafting_Queue">Очередь изготовления</string>
 <string name="Automation">Автоматизация</string>
@@ -3200,7 +3201,7 @@
   
 <string name="Upgraded">Усовершенствовано!</string>
   
-<string name="Hopper_Scanner">Сканер Бункера</string>
+<string name="Hopper_Scanner">Запасы</string>
   <string name="Other">Прочее</string>
   <string name="Unknown_Ore">Неизвестная Руда</string>
   <string name="Unknown_Material">Неизвестный Материал</string>
@@ -3220,7 +3221,7 @@
   
 <string name="Head">Фреза</string>
 <string name="Heads">Фрезы</string>
-<string name="Base_Battery">Базовая Батарея</string>
+<string name="Base_Battery">Энергия Базы</string>
 <string name="Block_Type_X">Блок: {0}</string>
   <string name="Unknown_block_detected_Hold_RMB_scan">Обнаружен неизвестный блок.
 Используйте ПКМ для сканирования.</string>
@@ -3256,7 +3257,7 @@
 <string name="Barrel_of">бочка(у)</string>
 
 <string name="Extractor">Экстрактор</string>
-<string name="Rating">Скорость</string>
+<string name="Rating">Эфф-ть</string>
 <string name="Motor">Привод</string>
 <string name="Motors">Приводы</string>
 <string name="all_online">Всё работает</string>
@@ -3379,8 +3380,8 @@
 <string name="View_Log">См. лог</string>
 <string name="Ignore">Игнорировать</string>
 
-<string name="CryoPlasm_Lancer">КриоПлазменное Копьё</string>
-<string name="CryoPlasm_Melter">КриоПлазменный Плавильщик</string>
+<string name="CryoPlasm_Lancer">Криоплазменное Копьё</string>
+<string name="CryoPlasm_Melter">Криоплазменный Плавильщик</string>
 <string name="Scanning_for_targets">"Поиск целей - "</string>
 <string name="Clearing_area">Очистка области</string>
 <string name="Cleared">"Очищено "</string>
@@ -3500,7 +3501,7 @@
 <string name="Entering">Вход</string>
   
 <string name="Scan_me_more_information">Просканируйте для получения информации</string>
-<string name="Storage_used">Использовано места</string>
+<string name="Storage_used">Занято места</string>
   
 <string name="MS_Crate">Ящик Склада</string>
 <string name="Trencher_Drill">Траншейный Бур</string>
@@ -3690,7 +3691,7 @@
 Нажмите «X» для возврата к Строительной Пушке.</string>
   <string name="unknown">неизвестн.</string>
   <string name="Waiting_for_target_lock">Ожидание захвата цели...</string>
-  <string name="CryoPlasm_Cleared_X_m">КриоПлазмы удалено: {0}м³</string>
+  <string name="CryoPlasm_Cleared_X_m">Криоплазмы удалено: {0}м³</string>
   
 <string name="CryoPlasm_Inferno">Крио-Инферно</string>
   <string name="Place_on_3x3_Ore_only">Разместите на рудной площадке 3х3!</string>
@@ -3807,7 +3808,7 @@
 
 Подойдите к Заводу, выделите его, нажмите «E» и создайте Силовое Ядро для АРЧЕРА.</string>
   <string name="Tut_8_Text">
-У вас завалялась парочка Бункеров, Лазерных ЭнергоПередатчиков (ЛЭП) и остатки Конвейеров.
+У вас завалялась парочка Бункеров, Лазерных Энергопередатчиков (ЛЭП) и остатки Конвейеров.
 
 Найдите тренировочные голограммы около вашего ЦЭК. Они показывают как организовать простейшую автоматизацию.
 Разместите своё оборудование на месте голограмм.</string>
@@ -4057,7 +4058,7 @@
 <string name="Utilisation">Использование</string>
 <string name="No_storage_attached">Нет присоединенных хранилищ</string>
 <string name="Receiving_items">Приём предметов</string>
-<string name="MS_MM_I_O_Port">Складской порт-переносчик материи</string>
+<string name="MS_MM_I_O_Port">Порт склада с переносчиком материи</string>
 <string name="Unable_locate_attached_MS_Plate">Модуль Склада не обнаружен</string>
 <string name="No_Centre_Crate_found">Центральный ящик не обнаружен</string>
 <string name="No_MS_Controller_found">Контроллер Склада не обнаружен!</string>
@@ -4133,10 +4134,10 @@
   
 <string name="High_Octane_Fuel_needed_X">Необходимо Высокооктанового Топлива: {0}</string>
   
-<string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Турель Инферно успешно уничтожила Источник КриоПлазмы!</string>
+<string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Турель Инферно успешно уничтожила Источник Криоплазмы!</string>
   <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Подсоедините Хранилище Магмы с помощью жидкостных труб...</string>
-  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Поиск Источника КриоПлазмы в радиусе 64 м...</string>
-  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">{0} на линии огня и мешает нацелиться на Источник КриоПлазмы!</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Поиск Источника Криоплазмы в радиусе 64 м...</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">{0} на линии огня и мешает нацелиться на Источник Криоплазмы!</string>
   <string name="Time_remaining_X">Осталось времени: {0}</string>
   <string name="WARNING_REGROWTH_IN_X">ВНИМАНИЕ! ОТРАСТАНИЕ ЧЕРЕЗ: {0}</string>
   <string name="NEED_COMPRESSED_MAGMA_NOW">СРОЧНО НУЖНА СЖАТАЯ МАГМА!</string>
