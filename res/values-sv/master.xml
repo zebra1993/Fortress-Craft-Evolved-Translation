@@ -2,43 +2,85 @@
 <resources>
   <string name="Language_Name">Engelska</string>
 <string name="Translation_Incomplete">Översättning inkomplett!</string>
-    <string name="Dapper_Pack">Dapper Packet</string>
+    <string name="Dapper_Pack">Dapper Paket</string>
     <string name="Quit_Sign">Avsluta</string>
     <string name="Create_World">Skapa Värld</string>
     <string name="Spacebar">Mellanslag</string>
-    <string name="World_Sign">Välj Värld</string>
+    <string name="World_Sign">Världsval</string>
     <string name="Installed">Installerad</string>
     <string name="Not_Installed">Inte Installerad</string>
-    <string name="Resource_Level">Resurs Mängd</string>
-    <string name="Conveyor_Speed">Transportbandets Hastighet</string>
-    <string name="Day_Night_Cycle">Dag/Natt cykel</string>
-    <string name="Rush_Mode">Stress</string>
-    <string name="Seed">Hastighet</string>
+    <string name="Resource_Level">Resursnivå</string>
+    <string name="Conveyor_Speed">Transportbands Hastighet</string>
+    <string name="Day_Night_Cycle">Dag/Natt Cykel</string>
+    <string name="Rush_Mode">Rusläge</string>
+    <string name="Seed">Frö</string>
     <string name="Back">Tillbaka</string>
     <string name="Reset_World">Återställ Världen</string>
 
 
-    <string name="Enter_World">Starta Värld</string>
-    <string name="Downloading">Nedladdning</string>
+    <string name="Enter_World">Gå in i Världen</string>
+    <string name="Downloading">Laddar Ner</string>
 
     <string name="Locked">Låst</string>
 
-    <string name="Fast">Snabt</string>
-    <string name="Slow">Sakta</string>
+    <string name="Fast">Snabb</string>
+    <string name="Slow">Långsam</string>
 
-    <string name="Normal">Normalt</string>
-    <string name="Eternal Night">Evigt Natt</string>
+    <string name="Normal">Normal</string>
+    <string name="Eternal Night">Evig Natt</string>
 
-    <string name="Eternal Day">Evigt Dag</string>
+    <string name="Eternal Day">Evig Dag</string>
     <string name="Trivial Mobs">Lätta Fiender</string>
     <string name="Normal Mobs">Normala Fiender</string>
     <string name="Hard Mobs">Svåra Fiender</string>
 
-    <string name="None">Inget</string>
+    <string name="None">Ingen</string>
     <string name="GlassBlock">GlasBlock</string>
     <string name="Partial_Language_Support">Välkommen! Ditt språk är inte komplett. Om du vill ha det på Engelska , Klicka då på \"English\" nedanför!</string>
-    <string name="Skin_Pack">Resurspaket</string>
+    <string name="Skin_Pack">Skin Paket</string>
     <string name="Multiplayer_Sign">&lt;Flerspelare</string>
-    <string name="Power_Level">Ström Generation</string>
+    <string name="Power_Level">Kraftnivå</string>
     <string name="Mob_Difficulty">Monsters Svårighetsgrad</string>
-    </resources>
+    <string name="Frozen_Factory">Frusen Fabrik</string>
+    <string name="Death_Mode">Dödsläge</string>
+    <string name="Flatland">Plattmark</string>
+    <string name="Care_Package">Vårdpaket</string>
+    <string name="Survival_Options">Överlevnadsalternativ</string>
+    <string name="Mode">Läge</string>
+    <string name="Select_Mods">Välj Mods</string>
+    <string name="Mutators">Mutatorer</string>
+
+    <string name="Creative_New">Kreativt Läge ger dig en oändlig förmåga att bygga vad som helst, hög-upplösnings detaljblock, omfattande världredigeringsverktyg, schema, ritningar och kopiera-klistra system. Den innehåller inte de flesta överlevnadselementen och bör inte betraktas som ett \"fuskläge\" för Överlevnadsläget!</string>
+    <string name="Creative_Info">Detta är en befintlig Kreativ Värld, men tyvärr har jag egentligen inte cool statistik att visa här. Vill du ha en bild av en katt istället?</string>
+
+    <string name="Mod_Management">Mod Hantering</string>
+    <string name="Mod_Name">Mod Namn</string>
+    <string name="Active">Aktiv</string>
+    <string name="Version">Version</string>
+    <string name="Lock">Lås</string>
+    <string name="Status">Status</string>
+    <string name="Workshop">Workshop</string>
+
+    <string name="Update_Pending">Uppdatering Väntar</string>
+    <string name="On">På</string>
+    <string name="Off">Av</string>
+    <string name="Plentiful">Rikligt</string>
+    <string name="Clumsy">Klumpig</string>
+    <string name="Survival">Överlevnad</string>
+    <string name="Creative">Kreativt</string>
+
+    <string name="Previous_Visit">Du har varit i den här Överlevnads världen innan!</string>
+    <string name="Play_time">Speltid</string>
+    <string name="Mod_Selected">mod vald.</string>
+    <string name="Mods_Selected">mods valda.</string>
+    <string name="Existing_Seed">Nuvarande Frö</string>
+
+    <string name="Resources_Plentiful_Info">Rikliga Resurser ger dig massor av resurser och kommer massivt snabba på din tidiga och sena spelprogression. Det här är en bra utgångspunkt för tålmodiga nybörjare.</string>
+    <string name="Jump_Speed_set_to_X">Hopp Hastighet satt till</string>
+  
+<string name="Loads">Massor</string>
+  <string name="Tons">Ton</string>
+  <string name="SuperFast">SuperSnabb</string>
+  <string name="Day">Dag</string>
+  <string name="Lots">Mycket</string>	
+</resources>
