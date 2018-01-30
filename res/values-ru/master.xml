@@ -7,8 +7,8 @@
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
-    <string name="Dapper_Pack">"Щёгольский
-    комплект"</string>
+    <string name="Dapper_Pack">Щёгольский
+комплект</string>
     <string name="Not_Installed">Нет</string>
     <string name="Multiplayer_Sign">Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
@@ -1924,11 +1924,11 @@
     <string name="MK4 Forced Induction_CRAFT_HINT">Удваивает скорость работы Плавильни.</string>
     <string name="MK5 Forced Induction_CRAFT_DESC">Поместите сверху простой Плавильни, чтобы увеличить скорость на 400%, но потребление энергии возрастёт на 3200%. Увеличивает скорость сбора Плавильней в 4 раза!</string>
     <string name="MK5 Forced Induction_CRAFT_HINT">Удваивает скорость работы Плавильни.</string>
-    <string name="Turret MK1_CRAFT_DESC">Эта Турель - основной элемент обороны с потреблением энергии. Диапазон 16 метров. Требуется энергия.</string>
+    <string name="Turret MK1_CRAFT_DESC">Эта Турель - основной элемент обороны с потреблением энергии. Дальность 16 метров. Требуется энергия.</string>
     <string name="Turret MK1_CRAFT_HINT">Не размещайте на Плавильне!</string>
-    <string name="Turret MK2_CRAFT_DESC">Эта Турель - основной элемент обороны с потреблением энергии. Диапазон 20 метров. Требуется энергия.</string>
+    <string name="Turret MK2_CRAFT_DESC">Эта Турель - основной элемент обороны с потреблением энергии. Дальность 20 метров. Требуется энергия.</string>
     <string name="Turret MK2_CRAFT_HINT">Можете разместить на своей Плавильне, если хотите.</string>
-    <string name="Turret MK3_CRAFT_DESC">Защита для больших расстояний. Диапазон 72 метра. Медленная стрельба, но высокий урон. Требуется энергия.</string>
+    <string name="Turret MK3_CRAFT_DESC">Защита для больших расстояний. Дальность 72 метра. Низкая скорострельность, но высокий урон. Требуется энергия.</string>
     <string name="Turret MK3_CRAFT_HINT">Усовершенствуйте свои Турели МК2 с помощью дропа с врагов.</string>
     <string name="Missile Turret MK1_CRAFT_DESC">Высокомощная система ракетной обороны. Будет нацелена только на крупных врагов. Боеприпасы должны быть изготовлены и храниться в соседнем Накопительном Бункере. Имеет минимальный радиус действия в 64 метра.</string>
     <string name="Missile Turret MK1_CRAFT_HINT">Требуются специально созданные ракеты.</string>
@@ -3250,7 +3250,7 @@
   <string name="Ore_Report_Big_X_X_X">Отчёт о рудной жиле:
 Тип руды: {0}
 Объём жилы: {1}м³
-Количество руды: {2:N4}М</string>
+Количество руды: {2:N4} М</string>
   <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">Игровой процесс не отвечал в течении {0} секунд!</string>
   <string name="Fluid_processing_X">Продолжение игрового процесса: {0}</string>
   
@@ -3425,7 +3425,7 @@
 <string name="This_material_is_hidden">Это скрытый материал</string>
 <string name="Player_does_not_know_material">Игроку неизвестен этот материал</string>
 <string name="Material_paintable_with_paint_gun">Этот материал можно окрасить Краскопультом.</string>
-<string name="Material_does_not_block_movement">Этот материал не блокирует передвижение</string>
+<string name="Material_does_not_block_movement">Этот объект не блокирует передвижение</string>
 <string name="Material_can_be_burned_power_in_CPH_or_Pyrothermic_Generator">Это можно сжечь для получения энергии в ЦЭК или Пиротермическом Генераторе</string>
 <string name="recipe">рецепт</string>
 <string name="Costs">Стоит</string>
@@ -3547,7 +3547,7 @@
   <string name="Scans">Сканы</string>
   <string name="Recipes">Рецепты</string>
   <string name="Projects">Проекты</string>
-  <string name="Recipes_X">Рецептов ({0})</string>
+  <string name="Recipes_X">Рецепты ({0})</string>
   <string name="Projects_X">Проекты ({0})</string>
   <string name="Value">Величина</string>
   <string name="In_order_know_what_material_is_will_process_scan">Чтобы узнать, что это, необходимо обработать скан.</string>
@@ -3770,46 +3770,35 @@
   
 <string name="Tut_1_Text">
 Ваш ЦЭК - ядро вашей базы и может снабжать вас небольшим количеством энергии при сжигании ресурсов или на дневном свету.
-
 Нацельтесь на ЦЭК и нажмите «E», чтобы открыть его интерфейс.
-
 После этого можно загрузить Уголь.</string>  
   <string name="Tut_2_Text">
 Энергохранилища - основное оборудование для хранения энергии.
-
 Сейчас найдите Энергохранилище рядом с вами и подсветите его.
-
 При нажатии «Q» ваш костюм начнёт выкачивать из хранилища энергию, необходимую для поддержания тепла.</string>
   <string name="Tut_3_Title">Экстракторы Руды (ЭР)</string>
   <string name="Tut_3_Text">
 Экстракторы Руды (ЭР) добывают руду, пока вы где-нибудь прохлаждаетесь, и ещё они требуют энергии.
-
 Найдите свой первый ЭР и откройте его интерфейс, нажав «E». Передайте в него 200 Энергии, которой хватит на 8 минут работы!</string>
   <string name="Tut_4_Title">Бункеры</string>
   <string name="Tut_4_Text">
 Бункеры используются в качестве хранилищ и для управления логистикой.
-
 Ваше оборудование может как загружать что-либо в Бункер, так и выгружать. Найдите Бункер и нажмите «Q», чтобы выгрузить из него добытый ранее Уголь к себе в инвентарь.</string>
   <string name="Tut_5_Text">
 У вас есть Сканер, с помощью которого вы можете искать в окружающем пространстве известные и неизвестные материалы и предметы.
 Как только вы найдёте что-либо Неизвестное, просканируйте это.
-
 Теперь попробуйте найти что-либо непросканированное, подсветите это и удерживайте ПКМ, пока сканирование не завершится.</string>
   <string name="Tut_6_Title">Исследования</string>
   <string name="Tut_6_Text">
 После сканирования Неизвестное надо изучить.
-
 Найдите и подсветите Исследовательскую станцию на базе, затем нажмите «E» для взаимодействия. Проведите исследование.
-
 Исследования дают очки для открытия новых технологий.</string>
   <string name="Tut_7_Title">Простое производство</string>
   <string name="Tut_7_Text">
 АРЧЕР помогал вам с самого начала - самое время отблагодарить его. 
-
 Подойдите к Заводу, выделите его, нажмите «E» и создайте Силовое Ядро для АРЧЕРА.</string>
   <string name="Tut_8_Text">
 У вас завалялась парочка Бункеров, Лазерных Энергопередатчиков (ЛЭП) и остатки Конвейеров.
-
 Найдите тренировочные голограммы около вашего ЦЭК. Они показывают как организовать простейшую автоматизацию.
 Разместите своё оборудование на месте голограмм.</string>
   <string name="Tut_9_Text">
@@ -4169,4 +4158,5 @@
   <string name="X_not_found_in_whitelist">\"{0}\" - не найдено в Белом списке</string>
   
 <string name="Behaviour_X_removed">Поведение {0} удалено</string>
+  <string name="Next_bottle_filled_in_X">Заполнение канистры через : {0}s</string>
   </resources>
