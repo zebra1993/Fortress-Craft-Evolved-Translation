@@ -1258,7 +1258,7 @@
     <string name="Fuel Canister Crafter">Изготовитель Топливных Канистр</string>
     <string name="Fuel Canister Crafter_DESC">Создаёт пустую Топливную Канистру из одной Железной Трубы.</string>
     <string name="Mephitic Missile Assembler">Сборщик ядовитых Ракет</string>
-    <string name="Liquified Resin">Текучая смола</string>
+    <string name="Liquified Resin">Текучая Смола</string>
     <string name="Liquified Resin_DESC">Твердая смола была размягчена, и теперь её можно собирать.</string>
     <string name="Cold Creep Spawner">Источник Ползуна</string>
     <string name="Cold Creep Spawner_DESC">" "</string>
@@ -1534,8 +1534,8 @@
     <string name="Workfloor Excavator MK2_DESC">Выкапывает плоскую площадку высотой 3 метра, по 16 метров в каждом направлении (33х33х3). Поглощает в два раза больше энергии, чем МК1, но может рыть сквозь руду.</string>
     <string name="Workfloor Excavator MK3_DESC">Экскаватор МК3 - это ошеломляюще быстрое веерное раскапывание, в 4 раза быстрее МК2! Также роет сквозь руду.</string>
     <string name="Laser Resin Ablator">Лазерный Аблятор Смолы</string>
-    <string name="Laser Resin Ablator_DESC">Превращает Твёрдую смолу в Аблированную Смолу</string>
-    <string name="Laser Resin Liquifier">Лазерный Разжижитель Смолы</string>
+    <string name="Laser Resin Ablator_DESC">Превращает блоки Твёрдой Смолы в блоки Аблированной Смолы</string>
+    <string name="Laser Resin Liquifier">Разжижитель Смолы</string>
     <string name="Laser Resin Liquifier_DESC">Преобразует, собирает и уничтожает близлежащую Аблированную смолу.</string>
     <string name="Partially Ablated Resin">Частично Аблированная Смола</string>
     <string name="Partially Ablated Resin_DESC">Твердый поверхностный слой снят; теперь можно разжижать мягкое внутреннее ядро.</string>
@@ -1934,7 +1934,7 @@
     <string name="Missile Turret MK1_CRAFT_HINT">Требуются специально созданные ракеты.</string>
     <string name="Threat Scanner_CRAFT_DESC">Предоставляет систему раннего предупреждения. Оценивает угрозу, создаваемую вашей базой, и время до следующей атаки.</string>
     <string name="Threat Scanner_CRAFT_HINT">Разместите несколько установок для триангуляции источника опасности.</string>
-    <string name="Hard Resin Detector_CRAFT_DESC">Предоставляет отчет с ранним предупреждением о соседних растущих кластерах с Твердой Смолой.</string>
+    <string name="Hard Resin Detector_CRAFT_DESC">Указывает и даёт информацию о ближайших кластерах с растущей Твердой Смолой.</string>
     <string name="Hard Resin Detector_CRAFT_HINT">Не нуждается в энергии; Просто проверяйте его время от времени!</string>
     <string name="Slime Attractor_CRAFT_DESC">Использует Гнилую Органику для приманки слизней.</string>
     <string name="Slime Attractor_CRAFT_HINT">Ну, такая ловушка.</string>
@@ -1992,9 +1992,9 @@
     <string name="Empty Missile Assembler_CRAFT_HINT">Эти ракеты нуждаются в заправке, прежде чем они будут полезны!</string>
     <string name="Missile Fueller_CRAFT_DESC">Автоматически наполняет Пустые ракеты. Требуется энергия и прикрепленные Накопительные Бункеры, содержащие ингредиенты. Выдает ракеты в прикрепленные Накопительные Бункеры.</string>
     <string name="Missile Fueller_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Laser Resin Ablator_CRAFT_DESC">Использует много энергии для абляции поверхности Твёрдой Смолы, что позволяет ее сжижать, а затем очищать.</string>
+    <string name="Laser Resin Ablator_CRAFT_DESC">Использует концентрированные потоки энергии для абляции поверхности Твёрдой Смолы, что позволяет её сжижать, а затем очищать.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Отлично подходит для очистки мертвых Разумов Роя для полезных материалов.</string>
-    <string name="Laser Resin Liquifier_CRAFT_DESC">Использует много энергии для доступа к мягкому ядру блока Твёрдой Смолы, как только оно было Аблированно. Прикрепите к Накопительному Бункеру.</string>
+    <string name="Laser Resin Liquifier_CRAFT_DESC">Разжижает и удаляет потоком плазмы мягкую Аблированную Смолу, оставшуюся после абляции Твёрдой Смолы. Прикрепите Накопительный Бункер.</string>
     <string name="Laser Resin Liquifier_CRAFT_HINT">Отлично подходит для очистки мертвых Разумов Роя для полезных материалов.</string>
     <string name="Liquid Resin Refiner_CRAFT_DESC">Преобразует Текучую Смолу в чрезвычайно полезную Очищенную Жидкую Смолу.</string>
     <string name="Liquid Resin Refiner_CRAFT_HINT">Используется в ряде высокотехнологичных органических рецептов.</string>
