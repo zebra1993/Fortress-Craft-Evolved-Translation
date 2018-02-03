@@ -4170,5 +4170,7 @@
   <string name="Scanning_pipe_connection_Particle_Compressor_in_X">Поиск подсоединения труб к Компрессору Примесей через {0} с</string>
   
 <string name="Built_to_X">Построить к {0}</string>
-  <string name="X_ready_to_compress">{0} готово для сжатия</string>
+  <string name="X_ready_to_compress">{0} готово к сжатию.</string>
+  <string name="Drill_Search_completed_X_of_X">Процесс поиска Бура: {0} из {1}</string>
+  <string name="Looking_for_linked_centre">Поиск подсоединенного центра...</string>
   </resources>
