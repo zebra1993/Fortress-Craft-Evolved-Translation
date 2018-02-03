@@ -4173,4 +4173,6 @@
   <string name="X_ready_to_compress">{0} готово к сжатию.</string>
   <string name="Drill_Search_completed_X_of_X">Процесс поиска Бура: {0} из {1}</string>
   <string name="Looking_for_linked_centre">Поиск подсоединенного центра...</string>
+  <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Руда получена; требуется выгрузка.
+ВНИМАНИЕ! Руда может быть потеряна, НЕ УДАЛЯЙТЕ ОБОРУДОВАНИЕ!</string>
   </resources>
