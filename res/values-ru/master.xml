@@ -4165,4 +4165,5 @@
   <string name="WARNING_ALL_CRYOPLASM_SPAWNERS_MUST_KILLED_BEFORE_USING">--ВНИМАНИЕ! ПЕРЕД ПРИМЕНЕНИЕМ УНИЧТОЖЬТЕ ВСЕ ВОСЕМЬ ИСТОЧНИКОВ КРИОПЛАЗМЫ--</string>
   <string name="Storing_X_Coal_and_X_HEF_Canisters">Хранится: Уголь - {0}; ВЭКТ - {1}</string>
   
-</resources>
+<string name="You_will_be_REQUIRED_to_kill_before_using_this_item_full_release">Ты должен ОБЯЗТЕЛЬНО убить этих, прежде чем использовать этот предмет в полной версии</string>
+  </resources>
