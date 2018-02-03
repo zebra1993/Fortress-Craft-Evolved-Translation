@@ -3216,7 +3216,7 @@
   <string name="Resource_Scanner">Сканер ресурсов</string>
   <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">ЛКМ - поиск
 ПКМ - скан
-Скролл - выбор</string>
+Колёсико - выбор</string>
   <string name="Ore_Scanner">Сканер</string>
   
 <string name="Head">Фреза</string>
@@ -3543,7 +3543,7 @@
 <string name="PROCESS">Обработать</string>
   <string name="NO_SCANS">Нет сканов</string>
   <string name="RESEARCH">Исследовать</string>
-  <string name="Scans_X">Сканов ({0})</string>
+  <string name="Scans_X">Сканы ({0})</string>
   <string name="Scans">Сканы</string>
   <string name="Recipes">Рецепты</string>
   <string name="Projects">Проекты</string>
@@ -4038,7 +4038,7 @@
 <string name="Crate_no_connected_crates">К Ящику не подсоединены другие Ящики!</string>
 <string name="or">или</string>
 <string name="Stack">Штабель</string>
-<string name="Crates">Ящики</string>
+<string name="Crates">шт. ящиков</string>
 <string name="item">предмет</string>
   
 <string name="Transfers_stack_of_up_to">Перемещает штабель -</string>
@@ -4159,4 +4159,5 @@
   
 <string name="Behaviour_X_removed">Поведение {0} удалено</string>
   <string name="Next_bottle_filled_in_X">Заполнение канистры через : {0}s</string>
+  <string name="Scanning_area_optimal_targetting">Область сканируется для оптимального наведения...</string>
   </resources>
