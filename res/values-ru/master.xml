@@ -2717,10 +2717,10 @@
     <string name="Surface">Поверхность</string>
     <string name="Chargeable_Explosive">Заряжаемая Взрывчатка</string>
     <string name="CE_Controls">Нажмите «Shift»+«E», чтобы поджечь запал</string>
-    <string name="CE_CurrentCharge">Текущая величина заряда</string>
+    <string name="CE_CurrentCharge">Текущий заряд</string>
     <string name="MM_Glue">предметов. Используется</string>
     
-    <string name="CE_Detonate">Взрывчатка взорвётся через</string>
+    <string name="CE_Detonate">Взрыв через</string>
     <string name="CE_Info">Сохраняет заряд будучи в инвентаре</string>
     <string name="Hint_1">Нажмите «F», чтобы использовать Крюк</string>
   <string name="Hint_38">Нажмите «G», чтобы использовать Светящуюся Палочку.</string>
@@ -2935,7 +2935,7 @@
 <string name="Cannot_locate_adjacent_offload_Hoppers">Не удается найти соседние Бункеры для разгрузки!</string>
 <string name="Attached_machines">Прикрепленное оборудование</string>
 <string name="Total_Machines">Оборудования всего</string>
-<string name="CB_failed_get_storage_machine_">СтройБот не смог найти оборудование для хранения!</string>
+<string name="CB_failed_get_storage_machine_">СтройБот не смог найти хранилища!</string>
 
 <string name="Transferred">Перемещено</string>
 <string name="free_slots">свободных ячеек</string>
