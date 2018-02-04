@@ -4431,5 +4431,206 @@
   <string name="Tons">Tons</string>
   <string name="SuperFast">SuperFast</string>
   <string name="Day">Day</string>
-  <string name="Lots">Lots</string>	
+  <string name="Lots">Lots</string>
+<!--Update 04.02.2018-->
+  <!-- Patch 18 changes -->
+  <!-- Rooms -->
+  <string name="MedBay_T0">Basic MedBay</string>
+  <string name="MedBay_Not_In_Room">MedBays must be built inside rooms!</string>
+  <string name="Not_In_Room">This must be built inside a room!</string>
+
+  <string name="AmpuleCrafter_T0">Basic Ampule Crafter</string>
+  <string name="AmpuleDispenser">Ampule Dispenser</string>
+   <string name="E_To_Extract">Press E to Extract</string>
+
+  <string name="Base_Production_Scanner">Base Production Scanner</string>
+  <string name="Base_Production_NoData">Awaiting Network Data...</string>
+  <string name="Base_Production_NoFilter">#NoFilter</string>
+
+  <string name="RoomLight #1">Lights rooms. Paintable!</string>
+  <string name="RoomLight #2">Lights rooms. Paintable!</string>
+  <string name="RoomLight #3">Lights rooms. Paintable!</string>
+  <string name="RoomLight #4">Lights rooms. Paintable!</string>
+  <string name="RoomLight #5">Lights rooms. Paintable!</string>
+  <string name="RoomLight #6">Lights rooms. Paintable!</string>
+  <string name="RoomLight #7">Lights rooms. Paintable!</string>
+  <string name="RoomLight #8">Lights rooms. Paintable!</string>
+
+  <string name="RoomLight #1_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #2_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #3_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #4_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #5_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #6_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #7_DESC">Lights rooms. Paintable!</string>
+  <string name="RoomLight #8_DESC">Lights rooms. Paintable!</string>
+  
+  <string name="RoomLight #1_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #2_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #3_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #4_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #5_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #6_CRAFT_DESC">This Room light will alert you to CPH attacks silently.</string>
+  <string name="RoomLight #7_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+  <string name="RoomLight #8_CRAFT_DESC">Paintable, light that only works in Rooms.</string>
+
+  <string name="RoomLight #1_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+  <string name="RoomLight #2_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #3_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #4_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #5_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #6_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+  <string name="RoomLight #7_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #8_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  
+  <string name="Basic MedBay">Basic MedBay</string>
+  <string name="Basic MedBay_DESC">Place on a wall in a room, give it power, and stand near it to heal.</string>  
+  <string name="Basic MedBay_CRAFT_DESC">Place on a wall in a room, give it power, and stand near it to heal.</string>
+  <string name="Basic MedBay_CRAFT_HINT">No hint. It's that simple.</string>
+
+  <string name="Hydroponics Bay_CRAFT_DESC">Place Plant Seeds onto these to grow them.</string>
+  <string name="Hydroponics Bay_CRAFT_HINT">Grows plants much faster.</string>
+  
+  <string name="Advanced Hydroponics Bay">Advanced Hydroponics Bay</string>
+  <string name="Advanced Hydroponics Bay_DESC">Grows plants much faster. Maybe requires power, haven't decided.</string>  
+  <string name="Advanced Hydroponics Bay_CRAFT_DESC">Place Plant Seeds onto these to grow them.</string>
+  <string name="Advanced Hydroponics Bay_CRAFT_HINT">Grows plants much faster.</string>
+
+  <string name="MK1 Ampule">MK1 Ampule</string>
+  <string name="MK2 Ampule">MK2 Ampule</string>
+  <string name="MK3 Ampule">MK3 Ampule</string>
+  <string name="MK4 Ampule">MK4 Ampule</string>
+  <string name="MK5 Ampule">MK5 Ampule</string>
+  <string name="MK1 Ampule_CRAFT_DESC">Regenerates Health over a fixed amount of time.</string>
+  <string name="MK1 Ampule_CRAFT_HINT">Place in Suitinventory to auto use</string>
+  
+	<string name="Iron Gear Maker">Iron Gear Maker</string>
+	<string name="Iron Gear Maker_DESC">Creates Iron Gears.</string>
+	<string name="Iron Gear Maker_CRAFT_DESC">A machine that supports autocrafting of Iron Bars into Iron Gears.</string>
+	<string name="Iron Gear Maker_CRAFT_HINT">Much more efficient than doing it by hand!</string>
+	
+	<string name="Airlock_Inner">AirLock Inner</string>
+	<string name="AirLock_Inner_DESC">Not relevant.</string>
+	<string name="AirLock Inner">AirLock Inner</string>
+	<string name="AirLock Inner_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Inner_CRAFT_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Inner_CRAFT_HINT">Build in a 3x3x1 or 1x3x3 layout</string>
+	
+	<string name="Airlock_Outer">AirLock Outer</string>
+	<string name="AirLock_Outer_DESC">Not relevant.</string>
+	<string name="AirLock Outer">AirLock Outer</string>
+	<string name="AirLock Outer_DESC">Connects Airlocks to the Outside</string>
+	<string name="AirLock Outer_CRAFT_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Outer_CRAFT_HINT">Build in a 3x3x1 or 1x3x3 layout</string>
+	
+	<string name="Reinforced Plated Room Floor">Reinforced Plated Room Floor</string>
+	<string name="Reinforced Plated Room Floor_DESC">Paintable, reinforced floor, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_DESC">Paintable, reinforced floor, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Detail 1">Room Decoration 1</string>
+	<string name="Room Detail 1_DESC">Reinforced wall decoration, specifically designed for Rooms.</string>
+	<string name="Room Detail 1_CRAFT_DESC">Reinforced wall decoration, specifically designed for Rooms.</string>
+	<string name="Room Detail 1_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Alloyed Space Window">Alloyed Space Window</string>
+	<string name="Alloyed Space Window_DESC">Paintable, reinforced window.</string>
+	<string name="Alloyed Space Window_CRAFT_DESC">Paintable, reinforced window. Not recommended for use in Rooms.</string>
+	<string name="Alloyed Space Window_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Ventilation Grille">Room Ventilation Grille</string>
+	<string name="Room Ventilation Grille_DESC">Lets Air passthrought</string>
+	<string name="Room Ventilation Grille_CRAFT_DESC">Future machine - use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Ventilation Grille_CRAFT_HINT">DON'T BOTHER BUILDING THIS YET!</string>
+	
+	<string name="Reinforced Plating">Reinforced Plating</string>
+	<string name="Reinforced Plating_DESC">Reinforced, Paintable Wall designed for Rooms.</string>
+	<string name="Reinforced Plating_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Reinforced Plating_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Wall Panel">Room Wall Panel</string>
+	<string name="Room Wall Panel_DESC"></string>
+	<string name="Room Wall Panel_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Room Wall Panel_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Light Reflector">Room Light Reflector</string>
+	<string name="Room Light Reflector_DESC"></string>
+	<string name="Room Light Reflector_CRAFT_DESC">Reinforced ceiling reflector, specifically designed for Rooms.</string>
+	<string name="Room Light Reflector_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Logistics Grommet">Logistics Grommet</string>
+	<string name="Logistics Grommet_DESC">Conveyors transfer items through this.</string>
+	<string name="Logistics Grommet_CRAFT_DESC">Conveyors transfer items through this.</string>
+	<string name="Logistics Grommet_CRAFT_HINT">First pass!</string>
+	
+	<string name="Energy Grommet">Energy Grommet</string>
+	<string name="Energy Grommet_DESC">PTGs, Solar Panels and PSBs will transfer power through this.</string>
+	<string name="Energy Grommet_CRAFT_DESC">PTGs, Solar Panels and PSBs will transfer power through this.</string>
+	<string name="Energy Grommet_CRAFT_HINT">First pass!</string>
+	
+	<string name="Room Extractor Fan">Room Extractor Fan</string>
+	<string name="Room Extractor Fan_DESC">Future machine - use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Extractor Fan_CRAFT_DESC">Future machine - use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Extractor Fan_CRAFT_HINT">DON'T BOTHER BUILDING THIS YET!</string>
+	
+	<string name="Reinforced Plated Room Wall">Reinforced Plated Room Wall</string>
+	<string name="Reinforced Plated Room Wall_DESC"></string>
+	<string name="Reinforced Plated Room Wall_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Wall_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="BaubleBerry Seed">BaubleBerry Seed</string>
+	<string name="BaubleBerry Seeds">BaubleBerry Seeds</string>
+	<string name="Tri Seed">Tri Seed</string>
+	<string name="Tri Seeds">Tri Seeds</string>
+	<string name="UnderGrump Seed">UnderGrump Seed</string>
+	<string name="UnderGrump Seeds">UnderGrump Seeds</string>
+	<string name="GoopyDangler Seed">oopyDangler Seed</string>
+	<string name="GoopyDangler Seeds">GoopyDangler Seeds</string>
+	<string name="Coxcomb Seed">Coxcomb Seed</string>
+	<string name="Coxcomb Seeds">Coxcomb Seeds</string>
+	<string name="LeafyDangler Seed">LeafyDangler Seed</string>
+	<string name="LeafyDangler Seeds">LeafyDangler Seeds</string>
+	<string name="TundraBreath Seed">TundraBreath Seed</string>
+	<string name="TundraBreath Seeds">TundraBreath Seeds</string>
+	
+	<string name="Super Construction Paste Grinder">Super Construction Paste Grinder</string>
+	<string name="Super Construction Paste Grinder_DESC">Uses 'garbage' or Coal blocks to make Construction Paste at a 1:8 ratio.</string>
+	<string name="Super Construction Paste Grinder_CRAFT_DESC">Converts useless garbage and Coal into Construction Paste. All aesthetic blocks use construction paste!</string>
+	<string name="Super Construction Paste Grinder_CRAFT_HINT">Only works if you have the Dapper Indie Supporter DLC.</string>
+	
+	<string name="Lightweight Machine Housing Crafter">Lightweight Machine Housing Crafter</string>
+	<string name="Lightweight Machine Housing Crafter_DESC">Turns 6 plates into 1 Housing.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">A machine that supports autocrafting of Tin Plates into Lightweight Machine Housings.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Much more efficient than doing it by hand!</string>
+	
+	<string name="Priority Splitter">Priority Splitter</string>
+	<string name="Priority Splitter_DESC">Sends all incoming items Right, unless blocked, then Left.</string>
+	<string name="Priority Splitter_CRAFT_DESC">Sends all incoming items Right, unless blocked, then Left.</string>
+	<string name="Priority Splitter_CRAFT_HINT">Connect directly to conveyor belts or Hoppers. Only works correctly if both sides have an output.</string>	
+	
+	<string name="HerbiCor">HerbiCor</string>
+	<string name="HerbiCor_DESC">Collects nearby outdoor unharvested Plants and returns them.\nNeeds attached storage hopper.</string>
+	<string name="HerbiCor_CRAFT_DESC">Collects nearby outdoor unharvested Plants and returns them. Requires attached Storage Hopper.</string>
+	<string name="HerbiCor_CRAFT_HINT">Also good for framerate!</string>	
+	
+	<string name="Generic Room Controller">Generic Room Controller</string>
+	<string name="Generic Room Controller_DESC">Sends all incoming items Right, unless blocked, then Left.</string>
+	<string name="Generic Room Controller_CRAFT_DESC">Place in a Room and follow the instructions.</string>
+	<string name="Generic Room Controller_CRAFT_HINT">Build it on the floor. Instructions are in the bottom left once you do!</string>	
+
+	<string name="Ampule Dispenser">Ampule Dispenser</string>
+	<string name="Ampule Dispenser_DESC">Place above an Ampule Crafter</string>
+	<string name="Ampule Dispenser_CRAFT_HINT">Use to craft and upgrade Ampules from an attached Ampule Crafter</string>
+	<string name="Ampule Dispenser_CRAFT_DESC">Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)</string>	
+	
+	<string name="Ampule Crafter">Ampule Crafter</string>
+	<string name="Ampule Crafter_DESC">Place below an Ampule Dispenser, attached to a Storage Hopper of plants.</string>
+	<string name="Ampule Crafter_CRAFT_HINT">Use to craft and upgrade Ampules into an attached Ampule Crafter</string>
+	<string name="Ampule Crafter_CRAFT_DESC">Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)</string>
+	
+	<string name="Base Scanner">Base Scanner</string>
+	<string name="Base Scanner_DESC">Place in a room. Observe. Learn. Progress!</string>
+	<string name="Base Scanner_CRAFT_HINT">A filterable, real-time graph monitoring every aspect of your base's performance.</string>
+	<string name="Base Scanner_CRAFT_DESC">Place in a room. Observe. Learn. Progress!</string>
+	
 </resources>
