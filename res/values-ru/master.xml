@@ -1269,7 +1269,7 @@
     <string name="My First Wallpaper">Мои первые обои</string>
     <string name="My First Basket">Моя первая корзинка</string>
     <string name="My First Basket_DESC">"  "</string>
-    <string name="My First Bookcase">Моя первый книжный шкаф</string>
+    <string name="My First Bookcase">Мой первый книжный шкаф</string>
     <string name="My First Bookcase_DESC">"  "</string>
     <string name="My First Closet">Мой первый чулан</string>
     <string name="My First Closet_DESC">"  "</string>
@@ -1954,7 +1954,7 @@
     <string name="Down Sloped Conveyor_CRAFT_HINT">Уязвим к экстремальному холоду!</string>
     <string name="Conveyor Belt Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы обеспечить возможность ввода определённых типов материалов в конвейерную сеть.</string>
     <string name="Conveyor Belt Filter_CRAFT_HINT">Установите между бункерами и конвейерами</string>
-    <string name="Advanced Conveyor Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы вставить конкретные материалы в вашу логистическую сеть.</string>
+    <string name="Advanced Conveyor Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру для выгрузки конкретных ресурсов в вашу логистическую сеть.</string>
     <string name="Advanced Conveyor Filter_CRAFT_HINT">Позволяет отбирать определенные типы объектов.</string>
     <string name="Motorised Conveyor_CRAFT_DESC">Прикрепите к Накопительному Бункеру и подведите энергию для скоростной подачи ресурсов в наибыстрейшие транспортные системы!</string>
     <string name="Motorised Conveyor_CRAFT_HINT">Потребляет 5 единиц энергии на предмет. Направьте в сторону от Накопительного Бункера.</string>
@@ -3299,7 +3299,7 @@
 <string name="Moving">Движется</string>
 <string name="Cargo">Груз</string>
 
-<string name="Check_Rail">Проверка Направляющих</string>
+<string name="Check_Rail">Поиск Напр-щих</string>
 <string name="Shaft_depth">Глубина шахты</string>
 <string name="No_lift_deployed">Нет лифта</string>
 <string name="Depth">Глубина</string>
@@ -3308,7 +3308,8 @@
 <string name="Bottom">Дно</string>
 <string name="Lift_stuck_wait_rail_scan_complete">Лифт застрял. Дождитесь сканирования направляющих.</string>
 <string name="Lift_stuck_below_depth_Check_blockages">Лифт застрял ниже текущей глубины шахты. Устраните препятствие.</string>
-<string name="Waiting_for_Rack_Rail">Ожидание Направляющих</string>
+<string name="Waiting_for_Rack_Rail">Ожидание
+Направляющих</string>
 <string name="Unknown_State">Неизв. состояние</string>
 <string name="Operating_Lift">Работает</string>
 <string name="Controller_no_Rack_Rail_place">У Контроллера нет Направляющих для установки</string>
