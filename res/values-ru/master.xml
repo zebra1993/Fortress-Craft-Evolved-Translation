@@ -4180,5 +4180,7 @@
   <string name="Deadly">Смертоносный</string>
   <string name="Exact">Точный</string>
   <string name="Precise">Прецизионный</string>
-  <string name="Useless">бесполезный</string>
+  <string name="Useless">Бесполезный</string>
+  <string name="Compositing_materials">Подготовка материалов...</string>
+  <string name="Looking_for_X_coal_and_X_HEFC">Требуется {0} угля и {1} ВЭКТ...</string>
   </resources>
