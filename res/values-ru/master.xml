@@ -4186,4 +4186,5 @@
   <string name="Compositing_X_s_left_X_PPS">Производство; {0} с осталось. @ {1} Э/с</string>
   <string name="STORAGE_FULL_OFFLOAD">ХРАНИЛИЩЕ ЗАПОЛНЕНО! РАЗГРУЗИТЕ!</string>
   <string name="No_fuel_to_offload">Нет топлива к выгрузке</string>
+  <string name="Power_X_X">Энергия: {0}/ {1}</string>
   </resources>
