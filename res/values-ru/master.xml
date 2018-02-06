@@ -2748,7 +2748,7 @@
   <string name="Hint_18">Разместите Бункер рядом с оборудованием, чтобы загружать ресурсы для производства</string>
   <string name="Hint_19">Оборудование будет работать медленнее, если поступление энергии ниже указанного (Э/с) в спецификации</string>
   <string name="Pajitnov_Complex">Комплекс Пажитнова</string>
-<string name="Hint_20">Загружайте Направляющие в Контроллер Грузового Лифта, чтобы он мог спускаться дальше</string>
+<string name="Hint_20">Загрузите Направляющие в Контроллер Грузового Лифта, чтобы он мог спускаться дальше</string>
   <string name="Hint_21">Для транспортировки предметов Контроллеру Грузового Лифта нужны Грузовой Лифт и энергия</string>
   <string name="Hint_23">Для добычи руды из Кристаллических Отложений требуется Фреза</string>
   <string name="Hint_25">Автоматизируй заранее, автоматизируй все!</string>
@@ -4176,4 +4176,9 @@
   <string name="Looking_for_linked_centre">Поиск подсоединенного центра...</string>
   <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Руда получена; требуется выгрузка.
 ВНИМАНИЕ! Руда может быть потеряна, НЕ УДАЛЯЙТЕ ОБОРУДОВАНИЕ!</string>
+  <string name="Obtaining_materials">Получение материалов</string>
+  <string name="Deadly">Смертоносный</string>
+  <string name="Exact">Точный</string>
+  <string name="Precise">Прецизионный</string>
+  <string name="Useless">бесполезный</string>
   </resources>
