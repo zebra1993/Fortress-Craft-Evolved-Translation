@@ -2694,8 +2694,8 @@
     <string name="MM_Aim_2">м.</string>
     <string name="MM_HopperError">Присодиненный бункер пуст или заперт!</string>
     <string name="MM_HopperFull">Принимающий бункер полон!</string>
-    <string name="MM_TooClose">Мин. расстояние 1 м; нацельте в другом направлении!</string>
-    <string name="MM_NoHopper">Подсоедините к незакрытому Накопительному бункеру!</string>
+    <string name="MM_TooClose">Мин. расстояние 1 м; измените направление!</string>
+    <string name="MM_NoHopper">Присоедините к незапертому бункеру!</string>
     <string name="MM_Holding">Удерж.</string>
     <string name="MM_PastTense">Перенесено</string>
     <string name="World Settings">Настройки Мира</string>
@@ -2734,7 +2734,7 @@
   <string name="Hint_3">Не затягивайте с постройкой Сканера Угроз, чтобы не упустить момент, когда нужно возводить оборону</string>
   <string name="Hint_4">Чем выше показатель Угрозы, тем большее количество врагов будет вас атаковать</string>
   <string name="Hint_5">Генерация энергии, добыча руды и литьё слитков повышают создаваемую вами Угрозу</string>
-  <string name="Hint_7">Грузовые лифты превосходят всё остальное в плане вертикальной транспортировки</string>
+  <string name="Hint_7">Грузовые лифты лучше всего для вертикальной транспортировки</string>
   <string name="Hint_8">Удерживайте «Ctrl», чтобы создать 25 предметов одним кликом</string>
   <string name="Hint_9">Разделяйте стопки предметов, зажимая клавишу «Shift»</string>
   <string name="Hint_10">Максимальное количество руды в стопке - 150 ед., поэтому не забывайте выплавять из неё слитки</string>
