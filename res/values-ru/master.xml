@@ -2693,7 +2693,7 @@
     <string name="MM_Aim_1">"Нацельтесь на Бункер на расстоянии до "</string>
     <string name="MM_Aim_2">м.</string>
     <string name="MM_HopperError">Присодиненный бункер пуст или заперт!</string>
-    <string name="MM_HopperFull">Приёмный бункер полон!</string>
+    <string name="MM_HopperFull">Принимающий бункер полон!</string>
     <string name="MM_TooClose">Мин. расстояние 1 м; нацельте в другом направлении!</string>
     <string name="MM_NoHopper">Подсоедините к незакрытому Накопительному бункеру!</string>
     <string name="MM_Holding">Удерж.</string>
