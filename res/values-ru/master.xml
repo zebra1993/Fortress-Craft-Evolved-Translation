@@ -4187,4 +4187,7 @@
   <string name="STORAGE_FULL_OFFLOAD">ХРАНИЛИЩЕ ЗАПОЛНЕНО! РАЗГРУЗИТЕ!</string>
   <string name="No_fuel_to_offload">Нет топлива к выгрузке</string>
   <string name="Power_X_X">Энергия: {0}/ {1}</string>
+  <string name="Storing_X_coal_and_X_HEF_Canisters">Хранится: Уголь - {0}; ВЭКТ - {1}</string>
+  
+<string name="Fuelling_Rocket">Заправка ракеты</string>
   </resources>
