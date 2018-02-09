@@ -171,7 +171,7 @@
 
     <string name="Organic Cutter Head">Органическая Фреза</string>
     <string name="Plasma Cutter Head">Плазменная Фреза</string>
-    <string name="Location Marker">Метка Местоположения</string>
+    <string name="Location Marker">Координатная Метка</string>
     <string name="Glow Stick">Светящаяся Палочка</string>
     <string name="Glow Sticks">Светящихся Палочек</string>
     <string name="Chargeable Explosive">Заряжаемая Взрывчатка</string>
@@ -426,7 +426,7 @@
     <string name="SpiderBot Power Cores">Силовые ядра ПаукоБота</string>
     <string name="Basic Drill Motor">Базовый Буровой Привод</string>
     <string name="Basic Drill Motors">Базовые Буровые Приводы</string>
-    <string name="Enhanced Drill Motor">Улучшенный буровой привод</string>
+    <string name="Enhanced Drill Motor">Улучш. Буровой Привод</string>
     <string name="Enhanced Drill Motors">Улучшенные буровые приводы</string>
     <string name="Magnetic Drill Motor">Магнитный буровой привод</string>
     <string name="Magnetic Drill Motors">Магнитные буровые приводы</string>
@@ -434,17 +434,17 @@
     <string name="Fusion Drill Motors">Термоядерные буровые приводы</string>
     <string name="Antimatter Drill Motor">Антиматер. Буров. Привод</string>
     <string name="Antimatter Drill Motors">Антиматериальные буровые приводы</string>
-    <string name="Diamond Focusing Lens">Алмазная Фокусирующая Линза</string>
+    <string name="Diamond Focusing Lens">Алмазная Фокусир. Линза</string>
     <string name="Diamond Focusing Lenses">Алмазные Фокусирующие Линзы</string>
-    <string name="Emerald Focusing Lens">Изумрудная Фокусирующая Линза</string>
+    <string name="Emerald Focusing Lens">Изумрудная Фокусир. Линза</string>
     <string name="Emerald Focusing Lenses">Изумрудные Фокусирующие Линзы</string>
-    <string name="Ruby Focusing Lens">Рубиновая Фокусирующая Линза</string>
+    <string name="Ruby Focusing Lens">Рубиновая Фокусир. Линза</string>
     <string name="Ruby Focusing Lenses">Рубиновые Фокусирующие Линзы</string>
-    <string name="Sapphire Focusing Lens">Сапфировая Фокусирующая Линза</string>
+    <string name="Sapphire Focusing Lens">Сапфировая Фокусир. Линза</string>
     <string name="Sapphire Focusing Lenses">Сапфировые Фокусирующие Линзы</string>
-    <string name="Topaz Focusing Lens">Топазовая Фокусирующая Линза</string>
+    <string name="Topaz Focusing Lens">Топазовая Фокусир. Линза</string>
     <string name="Topaz Focusing Lenses">Топазовые Фокусирующие Линзы</string>
-    <string name="Sugalite Focusing Lens">Сахаритовая Фокусирующая Линза</string>
+    <string name="Sugalite Focusing Lens">Сахаритовая Фокусир. Линза</string>
     <string name="Sugalite Focusing Lenses">Сахаритовые Фокусирующие Линзы</string>
     <string name="Crude Organic Lens">Грубая Органическая Линза</string>
     <string name="Crude Organic Focusing Lenses">Грубые Органические Фокусирующие Линзы</string>
@@ -989,7 +989,7 @@
     <string name="Minecart Buffer">Буфер вагонеточный</string>
     <string name="Minecart Buffer_DESC">Обращает направление движения вагонеток</string>
     <string name="Minecart Full Gate">Ворота полных вагонеток</string>
-    <string name="Minecart Full Gate_DESC">Вагонетки, следующие по КРАСНОЙ стрелке будут повёрнуты взад, если они не заполнены. ЗЕЛЕНАЯ - свободный проезд.</string>
+    <string name="Minecart Full Gate_DESC">Вагонетки по направлению КРАСНОЙ стрелки разворачиваются, если они НЕ ПОЛНЫЕ. В ЗЕЛЕНОМ направлении движение не ограничено.</string>
     <string name="MK2 Forced Induction">Усиливающий Индуктор МК2</string>
     <string name="MK3 Forced Induction">Усиливающий Индуктор МК3</string>
     <string name="MK4 Forced Induction">Усиливающий Индуктор МК4</string>
@@ -1014,7 +1014,7 @@
     <string name="Auto Excavator">Авто-экскаватор</string>
     <string name="Auto Excavator_DESC">Автоматически роет вертикальные шахты снизу-вверх.</string>
     <string name="Teleporter">Телепорт</string>
-    <string name="Teleporter_DESC">Телепортирует игрока в местоположение, установленное установленным маркером местоположения. Требует много энергии!</string>
+    <string name="Teleporter_DESC">Телепортирует игрока в местоположение, установленное установленной Координатной Меткой. Требует много энергии!</string>
     <string name="Geological Surveyor">Геологический Разведчик</string>
     <string name="Geological Surveyor_DESC">Обеспечивает правильное размещение карьеров.</string>
     <string name="Manufacturing Plant">Завод</string>
@@ -1098,7 +1098,7 @@
     <string name="Mass Storage Output Port">Выходной Порт Склада</string>
     <string name="Bulk Mass Storage Output Port">Вместительный выходной порт Склад</string>
     <string name="Minecart Empty Gate">Ворота пустых вагонеток</string>
-    <string name="Minecart Empty Gate_DESC">Вагонетки, следующие по КРАСНОЙ стрелке будут повёрнуты взад, если они не пустые. ЗЕЛЁНАЯ - свободный проезд.</string>
+    <string name="Minecart Empty Gate_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они НЕ ПУСТЫЕ. В ЗЕЛЕНОМ направлении движение не ограничено.</string>
     <string name="Minecart Depot">Депо Вагонеток</string>
     <string name="Minecart Depot_DESC">Размещает вагонетку из присоединенного Накопительного Бункера</string>
     <string name="Minecart Brake">Вагонеточный тормоз</string>
@@ -1455,7 +1455,7 @@
     <string name="Jet Turbine Generator Housing">Корпус Газотурбинного Генератора</string>
     <string name="Jet Turbine Generator Housing_DESC">Газотурбинный Генератор сжигает Высокоэнергетическое Композитное Топливо (ВЭКТ), интенсивно вырабатывая энергию. Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Оборудуйте входной патрубок ГТ-генератора на стороне 3х3, чтобы собрать генератор.</string>
     <string name="Jet Turbine Generator Intake">Входной патрубок Газотурбинного Генератора</string>
-    <string name="Jet Turbine Generator Intake_DESC">Входной патрубок газотурбинного генератора подсоединяется к вертикальной стороне 3х3 корпуса газотурбинного генератора.</string>
+    <string name="Jet Turbine Generator Intake_DESC">Патрубок Газотурбинного Генератора должен размещаться на вертикальной стороне Корпуса с размером 3х3.</string>
     <string name="Laboratory Component">Компонент Лаборатории</string>
     <string name="Laboratory Component_DESC">Постройте по схеме 3x3x3 (всего 27 шт.), чтобы создать Лабораторию. В ней автоматически проводятся эксперименты.</string>
     <string name="Orbital Energy Transmitter Component">Компонент Орбитального передатчика энергии</string>
@@ -1481,7 +1481,7 @@
     <string name="Blast Furnace component">Компонент Доменной печи</string>
     <string name="Blast Furnace component_DESC">Формирует Доменную печь. Строится по схеме 3х7х3 (всего 63 шт.)</string>
     <string name="Casting Basin component">Компонент Машины непрерывного литья</string>
-    <string name="Casting Basin component_DESC">Формирует Машину непрерывного литья. Строится по схеме 5х3х5 (всего 75 шт.)</string>
+    <string name="Casting Basin component_DESC">Формирует Машину непрерывного литья. Строится с основанием 5х5 и высотой 3 блока (всего 75 шт.)</string>
     <string name="Cargo Lift Controller">Контроллер Грузового Лифта</string>
     <string name="Ore Thief">Рудокрад</string>
     <string name="Ore Thief_DESC">Не имеет значения.</string>
@@ -1499,7 +1499,7 @@
     <string name="MagmaBore Component">Компонент Магма-бура</string>
     <string name="MagmaBore Component_DESC">Прорезается огромным буром прямо в магмовые пещеры, чтобы заполнить Холодные Пещеры теплом. Строится по схеме 33х3х33 (всего 3276 шт.). Необходимо свободное пространство на расстоянии 8 метров.</string>
     <string name="Particle Filter">Фильтр Примесей</string>
-    <string name="Particle Filter_DESC">Фильтрует из воздуха полезные частицы. В долгосрочной перспективе не влияет на качество воздуха. Строится по схеме 5х3х5. (всего 75 шт.)</string>
+    <string name="Particle Filter_DESC">Фильтрует из воздуха полезные частицы. В долгосрочной перспективе не влияет на качество воздуха. Строится по схеме 5х5х3. (всего 75 шт.)</string>
     <string name="Particle Compressor">Компрессор Примесей</string>
     <string name="Particle Compressor_DESC">Сжимает газ из добытых примесей, подготавливая к хранению и заправке контейнеров. Строится по схеме 3х3х3.</string>
     <string name="Particle Storage">Хранилище Примесей</string>
@@ -1670,7 +1670,7 @@
     <string name="LaserBorer">Лазерный Бур</string>
     <string name="Chilled Reinforced Rock">Усиленный Морозный камень</string>
     <string name="Waypoint Machine">Отметочная Машина</string>
-    <string name="Waypoint Machine_DESC">Установите и зарядите для создания Отметки. Переопределите название, присоединив Знак.</string>
+    <string name="Waypoint Machine_DESC">Установите и зарядите машину для создания видимой именованной отметки. Задайте или переопределите название, присоединив Знак и отредактировав его.</string>
     <string name="ConstructoBot Direction">Указатель СтройБота</string>
     <string name="ConstructoBot Direction_DESC">Заставляет СтройБота двигаться в указанном направлении.</string>
     <string name="ConstructoBot Cargo Control">Грузовой контроль СтройБота</string>
@@ -1741,9 +1741,9 @@
     <string name="MISSION_Find Tin Ore with Ping Unknown">Найдите Оловянную жилу. Сканер -&gt; «Поиск Неизвестного».</string>
     <string name="MISSION_Use Scanner(M) to Find Tin Ore">Используйте Сканер (клавиша «M»), чтобы отыскать Оловянную Руду.</string>
     <string name="MISSION_Extract or Smelt Lithium">Добудьте или выплавьте Литий.</string>
-    <string name="MISSION_Extract or Smelt Nickel">Добудьте или выплавите Никель.</string>
-    <string name="MISSION_Extract or Smelt Gold">Добудьте или выплавите Золото.</string>
-    <string name="MISSION_Extract or Smelt Titanium">Добудьте или выплавите Титан</string>
+    <string name="MISSION_Extract or Smelt Nickel">Добудьте или выплавьте Никель.</string>
+    <string name="MISSION_Extract or Smelt Gold">Добудьте или выплавьте Золото.</string>
+    <string name="MISSION_Extract or Smelt Titanium">Добудьте или выплавьте Титан</string>
     <string name="MISSION_Extract Crystal Ore">Добудьте Кристаллы.</string>
     <string name="MISSION_Reminder">Напоминание</string>
     <string name="MISSION_Terraform the Cold Cavern">Измените климат в Холодных Пещерах.</string>
@@ -1774,7 +1774,7 @@
     <string name="MISSION_Locate Soft Resin">Найти : Мягкая Смола.</string>
     <string name="MISSION_Critical Research Laboratories">Критическое исследование : Лаборатория.</string>
     <string name="MISSION_Build a 3x3x3 Laboratory">Постройте Лабораторию (3х3х3 блока)!</string>
-    <string name="MISSION_Extract or Smelt Iron">Добудьте или выплавите железо.</string>
+    <string name="MISSION_Extract or Smelt Iron">Добудьте или выплавьте железо.</string>
     <string name="MISSION_Find Iron Ore with Ping Unknown">Найдите Железную Руду сканером, активировав «Поиск Неизвестного».</string>
     <string name="MISSION_Use Scanner(M) to Find Iron Ore">Используйте Сканер (клавиша «M»), чтобы отыскать Железную Руду.</string>
     <string name="MISSION_Travel Deeper to locate Iron Ore">Копайте глубже чтобы найти Железную Руду.</string>
@@ -2026,10 +2026,10 @@
     <string name="Refinery Controller_CRAFT_HINT">Нужно подключить к Биореактору Очистителя.</string>
     <string name="Refinery Reactor Vat Component_CRAFT_DESC">Компонент Биореактора Очистителя. Должны быть построен по схеме 3х3х3 (всего 27 шт.). Требуется подключить к Контроллеру Очистителя.</string>
     <string name="Refinery Reactor Vat Component_CRAFT_HINT">Постройте по схеме 3х3х3, чтобы сформировать Биореактор Очистителя.</string>
-    <string name="Jet Turbine Generator Housing_CRAFT_DESC">Компонент корпуса для Газотурбинного Генератора. Сжигает ВЭК-Топливо для вращения турбины, генерирующей много энергии. Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Прикрепите вход спереди.</string>
+    <string name="Jet Turbine Generator Housing_CRAFT_DESC">Компонент корпуса Газотурбинного Генератора, который сжигает ВЭКТ, интенсивно вырабатывая энергию. Корпус строится с основанием 4х3 и высотой 3 м. Оборудуйте Входным Патрубком на стороне 3х3.</string>
     <string name="Jet Turbine Generator Housing_CRAFT_HINT">Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Оборудуйте входной патрубок ГТ-генератора на стороне 3х3, чтобы собрать генератор.</string>
     <string name="Jet Turbine Generator Intake_CRAFT_DESC">Элемент Газотурбинного генератора для нагнетания больших объёмов воздуха. Прикрепите на торец корпуса Генератора в виде плоскости высотой 3 метра и шириной 3 метра.</string>
-    <string name="Jet Turbine Generator Intake_CRAFT_HINT">Газотурбинный Генератор размещен спереди корпуса в вертикальной форме 3 на 3.</string>
+    <string name="Jet Turbine Generator Intake_CRAFT_HINT">Патрубок Газотурбинного Генератора должен размещаться на вертикальной стороне корпуса с размером 3х3.</string>
     <string name="ARTHER Power Core_CRAFT_DESC">Устраняет повреждения АРЧЕРа, позволяя ему надежно перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Power Core_CRAFT_HINT">Позволяет АРЧЕРу надежно перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Battery Core_CRAFT_DESC">Позволяет АРЧЕРу сохранять заряд в 8 раз больше, который он может передать вам если у вас заканчивается энергия. Требуется в одном экземпляре для переноса в инвентаре.</string>
@@ -2126,9 +2126,9 @@
     <string name="Auto Builder_CRAFT_HINT">Зачем строить конвейерные линии самому, когда оборудование может сделать это за вас?</string>
     <string name="Manufacturing Plant_CRAFT_DESC">Заводы позволяют автоматизировать сборку и строительство. Для перемещения требуется Строительная Пушка В2!</string>
     <string name="Manufacturing Plant_CRAFT_HINT">Для перемещения требуется Строительная Пушка В2!</string>
-    <string name="Location Marker_CRAFT_DESC">Сохраняет местоположение. Используйте с оборудованием, которому требуется цель, например, телепорт. См. Справочник для получения дополнительной информации.</string>
-    <string name="Location Marker_CRAFT_HINT">Выбор маркера в панели быстрого доступа покажет его сохраненное местоположение</string>
-    <string name="Teleporter_CRAFT_DESC">Используйте маркер местоположения и энергию для телепортации. Подпрыгните над ним для активации.</string>
+    <string name="Location Marker_CRAFT_DESC">Сохраняет координаты указанного места. Используйте с оборудованием, которому требуется цель, например, телепорт. См. Справочник для получения дополнительной информации.</string>
+    <string name="Location Marker_CRAFT_HINT">Выбор метки в панели быстрого доступа покажет её сохраненное местоположение</string>
+    <string name="Teleporter_CRAFT_DESC">Вставьте Координатную Метку и подведите энергию, достаточную для телепортации. Подпрыгните над ним для активации.</string>
     <string name="Teleporter_CRAFT_HINT">Подпрыгните, чтобы активировать!</string>
     <string name="Chargeable Explosive_CRAFT_DESC">Зарядите энергией, чтобы увеличить радиус взрыва. Сохраняет заряд, когда в инвентаре. Ради вашей безопасности - не заряжайте вблизи важной инфраструктуры.</string>
     <string name="Chargeable Explosive_CRAFT_HINT">Зарядите энергией перед использованием!</string>
@@ -2264,7 +2264,7 @@
     <string name="MK4 PowerCore Charger_CRAFT_HINT">Запомните, Энергоячейки заряжаются Зарядниками!</string>
     <string name="MK5 PowerCore Charger_CRAFT_DESC">Создаёт одноразовую Энергоячейку, восполняющую энергию АРЧЕРа. Поместите в панель быстрого доступа, чтобы использовать.</string>
     <string name="MK5 PowerCore Charger_CRAFT_HINT">Запомните, Энергоячейки заряжаются Зарядниками!</string>
-    <string name="Crystal Clock Maker_CRAFT_DESC">Производит часы из Кристалла</string>
+    <string name="Crystal Clock Maker_CRAFT_DESC">Производит тактовые генераторы из кристаллов</string>
     <string name="Crystal Clock Maker_CRAFT_HINT">Полезный производственный компонент.</string>
     <string name="Lens Polisher_CRAFT_DESC">Прецизионное оборудование для производства Расфокусированных Линз из любых низкоуровневых Линз. Полученные Линзы могут быть покрыты Хромом для применения в Лазерных Энергопередатчиках.</string>
     <string name="Lens Polisher_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -2380,7 +2380,7 @@
     <string name="MISSION_Place your Forced Induction Kit">Установите Усиливающий Индуктор.</string>
     <string name="MISSION_Fit a MK1 Solar Cell to your suit">Установите Солнечную Батарею МК1 на ваш костюм.</string>
     <string name="MISSION_PTG starved of Oxygen">Пиротермическому генератору нужен кислород!</string>
-    <string name="Waypoint Machine_CRAFT_DESC">Установите и зарядите для создания Отметки. Переопределите название, присоединив Знак.</string>
+    <string name="Waypoint Machine_CRAFT_DESC">Установите и зарядите машину для создания видимой именованной отметки. Задайте или переопределите название, присоединив Знак и отредактировав его.</string>
     <string name="Waypoint Machine_CRAFT_HINT">Не время лениться!</string>
     <string name="ARC Smelter Upgrade_CRAFT_DESC">Поместите сверху простой Плавильни, чтобы плавить руды 4 уровня. УМЕНЬШАЕТ скорость на 400%. Увеличение потребляемой энергии : неизвестно.</string>
     <string name="ARC Smelter Upgrade_CRAFT_HINT">Используйте это, чтобы построить свою первую Машину непрерывного литья.</string>
@@ -2456,7 +2456,7 @@
     <string name="Copper Housing_CRAFT_DESC">Медный Корпус.</string>
     <string name="Minecart Full Gate_CRAFT_DESC">Вагонетки по направлению КРАСНОЙ стрелки разворачиваются, если они НЕ ПОЛНЫЕ. В ЗЕЛЕНОМ направлении движение не ограничено.</string>
     <string name="Minecart Full Gate_CRAFT_HINT">Применяется для управления вагонетками.</string>
-    <string name="Minecart Empty Gate_CRAFT_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они НЕ ПУСТЫЕ. В ЗЕЛЕНОМ направлении проезд свободен.</string>
+    <string name="Minecart Empty Gate_CRAFT_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они НЕ ПУСТЫЕ. В ЗЕЛЕНОМ направлении движение не ограничено.</string>
     <string name="Minecart Empty Gate_CRAFT_HINT">Применяется для управления вагонетками.</string>
     <string name="ConstructoBot Direction_CRAFT_DESC">Заставляет СтройБота проследовать в указанном направлении.</string>
     <string name="ConstructoBot Direction_CRAFT_HINT">" "</string>
@@ -2530,7 +2530,7 @@
     <string name="Perfect Faceted Eye_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
     <string name="Massive Faceted Eye_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
     <string name="Massive Faceted Eye_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
-    <string name="Casting Basin component_CRAFT_DESC">Быстро превращает жидкий металл в слитки. Способна работать с хромом и молибденом. Строится по схеме 5х3х5 (всего 75 шт.)</string>
+    <string name="Casting Basin component_CRAFT_DESC">Быстро превращает жидкий металл в слитки. Способна работать с хромом и молибденом. Строится по схеме 5дх5шх3в (всего 75 шт.)</string>
     <string name="Casting Basin component_CRAFT_HINT">Присоедините к четырём Доменным печам для достижения максимальной эффективности.</string>
     <string name="Blast Furnace component_CRAFT_DESC">Превращает руду в жидкий металл с высокой скоростью. Способна работать с хромом и молибденом. Строится по схеме 3х7х3.</string>
     <string name="Blast Furnace component_CRAFT_HINT">Используйте Трубы для подключения.</string>
@@ -2754,7 +2754,7 @@
   <string name="Hint_25">Автоматизируй заранее, автоматизируй все!</string>
   <string name="Hint_26">Мир большой, сделай себе одолжение - не жалей места для строительства</string>
   <string name="Hint_27">Склад упрощает работу конвейеров</string>
-  <string name="Hint_28">Лифты дешевы и быстрее, чем подниматься по лестнице</string>
+  <string name="Hint_28">Лифты дешевы, и с ними быстрее, чем подниматься по лестнице</string>
   <string name="Hint_29">Хорошо вооруженный ПаукоБот может защитить даже от значительного натиска</string>
   <string name="Hint_30">ФАЛКОРы отлично подходят для очистки поля боя</string>
   <string name="Hint_31">Когда конвейеров недостаточно, справятся Вагонетки!</string>
@@ -2764,12 +2764,12 @@
 <string name="Hint_34">Полная Fortress энергия и время суток отражаются ниже Панели быстрого доступа</string>
   <string name="Hint_35">Наклонные конвейеры быстрее (и красивее), чем обычные Конвейеры</string>
   <string name="Hint_37">Автоматизируйте производство, чтобы сэкономить время и пространство.</string>
-  <string name="Hint_39">Ищите Кристаллы в подземных пещерах. Вы можете разместить Кристаллы для освещения без использования энергии.</string>
+  <string name="Hint_39">Ищите Кристаллы в подземных пещерах. Кристаллы можно разместить для освещения без энергозатрат.</string>
   <string name="with_lenses">с Линзами</string>
 <string name="LPT_need_lenses_fitting">Улучшите Лазерные Энергопередатчики , вставив в них Линзы</string>
 
-<string name="Extract_or_Smelt_Copper">Добудьте или выплавите Медь.</string>
-<string name="Extract_or_Smelt_Tin">Добудьте или выплавите Олово.</string>
+<string name="Extract_or_Smelt_Copper">Добудьте или выплавьте Медь.</string>
+<string name="Extract_or_Smelt_Tin">Добудьте или выплавьте Олово.</string>
 <string name="Locate_Copper_Ore">Найти : Медная Руда.</string>
 <string name="Locate_Tin_Ore">Найти : Оловянная Руда.</string>
 <string name="Locate_Iron_Ore">Найти : Железная Руда.</string>
@@ -3491,7 +3491,7 @@
 <string name="Light_configured_optimally">Свет настроен оптимально</string>
 <string name="Shadows_can_slow">Тени могут замедлить работу</string>
 <string name="Soft_Shadows_very_slow">Мягкие тени сильно замедляют работу</string>
-<string name="Warning_large_light_sizes_adverse_performance">Внимание! Большой параметр освещения может привести к снижению производительности</string>
+<string name="Warning_large_light_sizes_adverse_performance">Внимание! Высокий уровень параметра освещения может привести к снижению производительности</string>
 
 <string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Собран щебень! Для добычи руды лучше использовать СуперБур (удерживая левый «Ctrl»).</string>
 <string name="Collected">Собрано</string>
@@ -3525,7 +3525,7 @@
 Инвентарь переполнен?</string>
 
 <string name="Add_Remove">Загрузка/выгрузка</string>
-  <string name="ERR_TOO_COLD">Ух. СЛИШКОМ ХОЛОДНО</string>
+  <string name="ERR_TOO_COLD">ОЧЕНЬ ХОЛОДНО</string>
   <string name="Tut_9_Title">Удачи!</string>
   <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно связать с Бункерами любого вида.
 Однако, если Бункеры настроены неправильно, может случиться беда! Настройте режимы бункеров так, чтобы один работал только на загрузку, а второй только на выгрузку ресурсов. Положите руду в Бункер с режимом «Только Выгрузка», и слитки из Плавильни будут сгружаться в другой бункер.</string>
@@ -3566,7 +3566,7 @@
   <string name="Click_icon_to_retrieve">ЛКМ по иконке, чтобы забрать</string>
   <string name="Used_X_Free_X_E_Open_Storage_Interface">Занято: {0}. Свободно:{1}
 «E» - открыть интерфейс</string>
-  <string name="Last_Item_X">Последний предмет: {0}</string>
+  <string name="Last_Item_X">Последнее: {0}</string>
   <string name="Using_X_PPS">Потребляется {0} Э/с.</string>
   <string name="T_to_store_X">«T» - складировать {0}</string>
   <string name="Try_Shift_and_Ctrl">(Пробуйте «Shift» и «Ctrl»)</string>
@@ -3679,7 +3679,7 @@
   <string name="Liquified_Resin_Needed_X">Необходимо Жидкой Смолы: {0}</string>
   
 <string name="Power_Cost">Энергозатраты:</string>
-  <string name="Empty_Waypoint">Пустая Отметка</string>
+  <string name="Empty_Waypoint">Отметки нет</string>
   <string name="Place_Sign_next_to_machine_name_it">Поместите Знак рядом с оборудованием, чтобы дать ему название!</string>
   <string name="This_needs_0_1_PPS">Требует 0,1 Э/с.</string>
   
@@ -3775,7 +3775,7 @@
 После этого можно загрузить Уголь.</string>  
   <string name="Tut_2_Text">
 Энергохранилища - основное оборудование для хранения энергии.
-Сейчас найдите Энергохранилище рядом с вами и подсветите его.
+Сейчас найдите Энергохранилище рядом с вами и наведитесь на его.
 При нажатии «Q» ваш костюм начнёт выкачивать из хранилища энергию, необходимую для поддержания тепла.</string>
   <string name="Tut_3_Title">Экстракторы Руды (ЭР)</string>
   <string name="Tut_3_Text">
@@ -3799,7 +3799,7 @@
 АРЧЕР помогал вам с самого начала - самое время отблагодарить его. 
 Подойдите к Заводу, выделите его, нажмите «E» и создайте Силовое Ядро для АРЧЕРА.</string>
   <string name="Tut_8_Text">
-У вас завалялась парочка Бункеров, Лазерных Энергопередатчиков (ЛЭП) и остатки Конвейеров.
+У вас завалялась парочка Бункеров, Лазерных Энергопередатчиков (ЛЭП) и Конвейеров.
 Найдите тренировочные голограммы около вашего ЦЭК. Они показывают как организовать простейшую автоматизацию.
 Разместите своё оборудование на месте голограмм.</string>
   <string name="Tut_9_Text">
@@ -3812,7 +3812,7 @@
   <string name="Idle">Простаивает</string>
 <string name="Storage_full">Бункер полон</string>
   <string name="Storage_Empty">Бункер пуст</string>
-  <string name="X_free_slots">{0} слотов свободно</string>
+  <string name="X_free_slots">Свободно: {0}</string>
   <string name="Arther_hint_14">Указания?!</string>
 <string name="Arther_hint_17">Я ТАКИ БУДУ СНОШАТЬ ЭТОТ ЛАЗЕР!</string>
 <string name="Garbage_Thief_3001">Мусорокрад</string>
@@ -3921,8 +3921,8 @@
   <string name="Requires_Adventures_Pack_or_Patronage">Требует наличия Adventures Pack или статуса патрона игры на https://www.patreon.com/Fortresscraft!</string>
   <string name="WARNING_X_ACTIVE_HIVEMINDS_FOUND">--ВНИМАНИЕ! Обнаружены активные Разумы Роя: {0} шт.--</string>
   <string name="added_waypoint_X">добавили путевую Отметку \'{0}\'</string>
-  <string name="X_removed_from_waypoint_list">\"{0}\" удалено из списка Отметок</string>
-  <string name="X_not_found_in_waypoint_list">\"{0}\" на найдено в списке Отметок</string>
+  <string name="X_removed_from_waypoint_list">\"{0}\" удалено из списка отметок</string>
+  <string name="X_not_found_in_waypoint_list">\"{0}\" на найдено в списке отметок</string>
   <string name="Unknown_command_X">Неизвестная команда: {0}</string>
   
 <string name="Level_X_X_X">Уровень {0} {1} {2}</string>
@@ -4203,4 +4203,56 @@
   <string name="SMG">Пистолет-пулемет</string>
   <string name="Cannon">Пушка</string>
   <string name="Minigun">Миниган</string>
-  </resources>
+  <string name="Tons">Тонны</string>
+  <string name="MedBay_T0">Базовый Медотсек</string>
+  <string name="MedBay_Not_In_Room">Медотсек может располагаться только внутри комнаты!</string>
+  <string name="Not_In_Room">Это можно установить только внутри комнаты!</string>
+
+  <string name="RoomLight #1">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #2">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #3">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #4">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #5">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #6">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #7">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #8">Освещение для комнаты. Можно перекрасить!</string>
+
+  <string name="RoomLight #1_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #2_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #3_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #4_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #5_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #6_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #7_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  <string name="RoomLight #8_DESC">Освещение для комнаты. Можно перекрасить!</string>
+  
+  <string name="RoomLight #1_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #2_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #3_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #4_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #5_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #7_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+  <string name="RoomLight #8_CRAFT_DESC">Перекрашиваемый источник света, работающий только внутри комнат.</string>
+
+  <string name="RoomLight #2_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  <string name="RoomLight #3_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  <string name="RoomLight #4_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  <string name="RoomLight #5_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  <string name="RoomLight #6_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+  <string name="RoomLight #7_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  <string name="RoomLight #8_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
+  
+  <string name="Basic MedBay">Базовый Медотсек</string>
+  <string name="Reinforced Plated Room Floor_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+	
+	<string name="Room Detail 1_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+	
+	<string name="Reinforced Plating_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+	
+	<string name="Room Wall Panel_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+	
+	<string name="Room Light Reflector_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
+	
+	<string name="Logistics Grommet">Логистический Люверс</string>
+	<string name="Energy Grommet">Энергетический Люверс</string>
+	</resources>
