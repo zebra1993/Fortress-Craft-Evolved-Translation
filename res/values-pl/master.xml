@@ -77,7 +77,7 @@ Pamiętaj, że te ustawienia są ZABLOKOWANE na czas trwania twojego świata i w
     <string name="Play_time">Czas gry</string>
     <string name="Mod_Selected">wybrana modyfikacja.</string>
     <string name="Mods_Selected">wybrane modyfikacje.</string>
-    <string name="Existing_Seed">Istniejący Seed</string>
+    <string name="Existing_Seed">Istniejące Ziarno</string>
 
     <string name="Resources_Plentiful_Info">Obfite Zasoby dadzą Ci mnóstwo surowców, i bardzo przyspieszą twój postęp w początkowej i końcowej fazie gry. To dobry punkt zaczepienia dla cierpliwych, początkujących graczy.</string>
     <string name="Resources_Scarce_Info">Ograniczone Zasoby spowodują spowolnienie gry, dadzą więcej czasu na eksplorację i optymalizację twojej bazy. Nie polecane dla początkujących!</string>
@@ -91,7 +91,7 @@ Pamiętaj, że te ustawienia są ZABLOKOWANE na czas trwania twojego świata i w
     <string name="Day_Night_Info">Normalny cykl Dnia/Nocy trwa 24 minuty. Przez 12 minut ciemności, doświadczysz ekstremalnych spadków temperatury, zwiększonej agresji potworów i ograniczonej widoczności.</string>
     <string name="Eternal_Night_Info">Wieczna Noc oznacza brak wytchnienia od przejmującego zimna podczas dnia, oraz brak dostępu do nie organicznej technologii solarnej; między innymi twojego OCZ. Jest to znaczące wyzwanie.</string>
 
-    <string name="Death_Default_Info">Oto tryb domyślny. Nie ma kar za śmierć, pominąwszy niski poziom zdrowia i długi spacer. Sprawia to, że gra staje się ekstremalnie łatwa, w związku z brakiem kary, za żaden ekscytujący sposób w który możesz umrzeć.</string>
+    <string name="Death_Default_Info">Oto tryb domyślny. Nie ma kar za śmierć, pominąwszy niski poziom zdrowia i długi spacer. Sprawia to, że gra staje się ekstremalnie łatwa, w związku z brakiem kary za każdy ekscytujący sposób na który możesz umrzeć.</string>
     <string name="Death_Clumsy_Info">Tryb niezdary jest polecany jeśli szukasz rozsądnego wyzwania, i dobrego powodu, żeby nie umierać! Podczas śmierci upuścisz cały ekwipunek!</string>
     <string name="Death_Ironman_Info">NIE DLA POCZĄTKUJĄCYCH!
 
@@ -132,9 +132,9 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="SquishCore">SquishCore</string>
     <string name="Hardcore">Hardcore</string>
 
-    <string name="Care_Package">Pakunek</string>
+    <string name="Care_Package">Pakiet Opieki</string>
     <string name="Resources_Greg_Info">Skąpe Surowce, mocno obniżą szybkość twojego postępu. Tryb ten jest zbalansowany dla dedykowanych 24/7 serwerów wieloosobowych i BARDZO cierpliwych ludzi!</string>
-    <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących puścić strumyk z gry w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed zwiększonym poziomem trudności.</string>
+    <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących puścić strumieniować grę w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed powrotem na zwiększony poziom trudności.</string>
 
 
     <string name="MISSION_CPH lacking resources">Brakuje zasobów w OCZ!</string>
@@ -159,9 +159,9 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Molybdenum Bar">Sztabka Molibdenu</string>
     <string name="Molybdenum Bars">Sztabek Molibdenu</string>
     <string name="Plastic Pellet">Plastikowy Nabój</string>
-    <string name="Care_Package_Locked">Opcja Pakunek zostanie odblokowana w momencie zbudowania Centrum Kontroli Klimatu.</string>
-    <string name="Care_Package_Disabled">Pakunek wyłączony.</string>
-    <string name="Care_Package_Enabled">Pakunek włączony! Ta opcja da Ci ogromną przewagę na początku nowego świata, włączając w to MK3 działo budowlane, powiększoną baterią w skafandrze, panel słoneczny i ogrzewanie skafandra, od samego startu. Daj im popalić chłopcze.</string>
+    <string name="Care_Package_Locked">Pakiet Opieki zostanie odblokowany w momencie zbudowania Centrum Kontroli Klimatu.</string>
+    <string name="Care_Package_Disabled">Pakiet Opieki wyłączony.</string>
+    <string name="Care_Package_Enabled">Pakiet Opieki włączony! Ta opcja da Ci ogromną przewagę na początku nowego świata, włączając w to MK3 działo budowlane, powiększoną baterią w skafandrze, panel słoneczny i ogrzewanie skafandra, od samego startu. Daj im popalić chłopcze.</string>
 
     <string name="Flatland_Locked">Tryb Super Płaski zostanie odblokowany po zabiciu Spawnera Krioplazmy.</string>
     <string name="Flatland_Disabled">Tryb Super Płaski wyłączony.</string>
