@@ -3920,9 +3920,9 @@
 <string name="Need_X_more_alloyed_blocks_to_construct">{0} шт. - столько Легированных Блоков ещё нужно, чтобы построить</string>
   <string name="Requires_Adventures_Pack_or_Patronage">Требует наличия Adventures Pack или статуса патрона игры на https://www.patreon.com/Fortresscraft!</string>
   <string name="WARNING_X_ACTIVE_HIVEMINDS_FOUND">--ВНИМАНИЕ! Обнаружены активные Разумы Роя: {0} шт.--</string>
-  <string name="added_waypoint_X">добавили путевую Отметку \'{0}\'</string>
-  <string name="X_removed_from_waypoint_list">\"{0}\" удалено из списка отметок</string>
-  <string name="X_not_found_in_waypoint_list">\"{0}\" на найдено в списке отметок</string>
+  <string name="added_waypoint_X">добавили путевую отметку «{0}»</string>
+  <string name="X_removed_from_waypoint_list">«{0}» удалено из списка отметок</string>
+  <string name="X_not_found_in_waypoint_list">«{0}» на найдено в списке отметок</string>
   <string name="Unknown_command_X">Неизвестная команда: {0}</string>
   
 <string name="Level_X_X_X">Уровень {0} {1} {2}</string>
@@ -4155,8 +4155,8 @@
   <string name="valid_commands_on_off_add_remove">доступные комманды: вкл выкл добавить удалить</string>
   <string name="whitelist_turned_on">Белый список активирован</string>
   <string name="whitelist_turned_off">Белый список деактивирован</string>
-  <string name="X_removed_from_whitelist">Удалено из Белого списка: \"{0}\"</string>
-  <string name="X_not_found_in_whitelist">\"{0}\" - не найдено в Белом списке</string>
+  <string name="X_removed_from_whitelist">Удалено из Белого списка: «{0}»</string>
+  <string name="X_not_found_in_whitelist">«{0}» - не найдено в Белом списке</string>
   
 <string name="Behaviour_X_removed">Поведение {0} удалено</string>
   <string name="Next_bottle_filled_in_X">Заполнение канистры через : {0}s</string>
