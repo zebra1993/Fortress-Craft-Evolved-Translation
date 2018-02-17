@@ -845,7 +845,7 @@
     <string name="GlowShroom">Светогриб</string>
     <string name="BaubleBerry">Бездельягода</string>
     <string name="UnderGrump">Подворч</string>
-    <string name="GoopyDangler">Слизерунд</string>
+    <string name="GoopyDangler">Слизентяй</string>
     <string name="CoxComb">Расчешина</string>
     <string name="LeafyDangler">Листенивец</string>
     <string name="Cold Cavern Flora 1">Растение холодных пещер 1</string>
@@ -855,7 +855,7 @@
     <string name="Cold Cavern Flora 5">Растение холодных пещер 5</string>
     <string name="Cold Cavern Flora 6">Растение холодных пещер 6</string>
     <string name="Cold Cavern Flora 7">Растение холодных пещер 7</string>
-    <string name="TundraBreath">Дыхание тундры</string>
+    <string name="TundraBreath">Тундровей</string>
     <string name="Toxic Cavern Flora 1">Растение токсичных пещер 1</string>
     <string name="Toxic Cavern Flora 2">Растение токсичных пещер 2</string>
     <string name="Toxic Cavern Flora 3">Растение токсичных пещер 3</string>
@@ -1086,7 +1086,7 @@
     <string name="Auto Builder_DESC">Автоматически совершенствует конвейеры</string>
     <string name="H.E.I.S.T._DESC">Гибкий Разгрузочный Автомат из Бункеров в Инвентарь Костюма - Автоматически перемещает предметы в инвентарь игрока. Сокращённо - ГРАБИК.</string>
     <string name="H.E.I.S.T.">ГРАБИК</string>
-    <string name="Slime Attractor">Слизневая Приманка</string>
+    <string name="Slime Attractor">Слизневой Манок</string>
     <string name="Slime Attractor_DESC">Приманивает слизней.</string>
     <string name="Cryoplasm">Криоплазма</string>
     <string name="Cryoplasm_DESC">Эта невероятно твёрдая органическая неньютоновская жидкость была разбужена Центром климатического контроля! Понадобится специальное оружие, чтобы справиться с ней!</string>
@@ -1174,7 +1174,7 @@
     <string name="Hive Core_DESC">" "</string>
     <string name="Hardened Resin">Твёрдая Смола</string>
     <string name="Hardened Resin_DESC">Эта невероятно жесткая органическая структура, кажется, защищает мягкое и уязвимое ядро. Прорубить её могут только нано-дезинтегарторы.</string>
-    <string name="MobSpawner">Вражья приманка</string>
+    <string name="MobSpawner">Источник Врагов</string>
     <string name="MobSpawner_DESC">Прекрасно подходит для тестирования обороны.</string>
     <string name="Insulated Copper Wire">Изолированный медный провод</string>
     <string name="Insulated Copper Wire_DESC">" "</string>
@@ -1788,7 +1788,7 @@
     <string name="MISSION_Fit SpiderBot Particle Rifle">Установите Корпускулярную Винтовку на ПаукоБота!</string>
     <string name="MISSION_Lab Research Upgraded Power">Исследование лаборатории: Улучшение Энергии.</string>
     <string name="MISSION_ARTHER demands a Charge Station">АРЧЕР требует Станцию Подзарядки.</string>
-    <string name="MISSION_Build a Slime Attractor">Постройте Слизневую Приманку.</string>
+    <string name="MISSION_Build a Slime Attractor">Постройте Слизневой Манок.</string>
     <string name="MISSION_Build an Induction Charger">Постройте Индукционную Зарядку!</string>
     <string name="Copper Bar_CRAFT_DESC">Медные Слитки - это очищенная Медь. Используются в производстве.</string>
     <string name="Copper Bar_CRAFT_HINT">Из Медного Слитка можно наделать кучу проводов и... сдать</string>
@@ -2864,7 +2864,7 @@
 <string name="Admins">Администраторы</string>
 <string name="Pending">Ожидание</string>
 <string name="Admin">Админ</string>
-<string name="Usage"/>
+<string name="Usage">употребление</string>
 <string name="Command">команда</string>
 <string name="valid_Commands">доступные команды</string>
 <string name="Playername">имя</string>
@@ -3506,7 +3506,7 @@
 <string name="MS_Crate">Ящик Склада</string>
 <string name="Trencher_Drill">Траншейный Бур</string>
 <string name="Slime_Attractor">Слизневой Манок</string>
-  <string name="Bait_active">Приманка установлена!</string>
+  <string name="Bait_active">Манок активирован!</string>
   <string name="Temperature">Температура</string>
   <string name="Heating">Нагрев</string>
   <string name="Requires_X_Ore">Нужно руды: {0}</string>
@@ -4350,4 +4350,90 @@
   <string name="Generic Room Controller">Контроллер Комнаты</string>
 	<string name="Ampule Dispenser">Ампульный Дозатор</string>
 	<string name="Drill_utilisation">Использование бура</string>
+<string name="Firing_Mech_of_the">"Выстреливается Мех: "</string>
+<string name="The">"Это: "</string>
+
+<string name="Enter_steam_display_name_here">Введите сюда имя из Steam</string>
+  
+  
+<string name="Discharge_Volley">Разряд</string>
+  <string name="LaunchPad_Collision">Столкновение Стартовой Площадки</string>
+
+  <string name="Unset">Неустановлен</string>
+  <string name="Perfect">Идеальный</string>
+  <string name="Accurate">Меткий</string>
+  <string name="Careful">Аккуратный</string>
+  
+  <string name="Careless">Неосторожный</string>
+  <string name="Crappy">Хреновый</string>
+  <string name="Lax">Неточный</string>
+  <string name="Sloppy">Небрежный</string>
+  <string name="Inaccurate">Промахивающийся</string>
+  <string name="X_Scope">{0} Прицел</string>
+  
+  <string name="Undamped">Несломленный</string>
+  <string name="Impeded">Затрудненный</string>
+  <string name="Inhibiting">Сдерживающий</string>
+  <string name="block_added_by_mod_which_has_been_deactivated">Этот блок был добавлен модом, который сейчас не подключен</string>
+  
+<string name="Electrocuting">Замыкающий</string>
+  <string name="Advanced Hydroponics Bay">Улучшенный отсек Гидропоники</string>
+  <string name="Advanced Hydroponics Bay_DESC">Позволяет выращивать растения значительно быстрее. (Возможно, в будущем будет требовать энергию).</string>  
+  <string name="Advanced Hydroponics Bay_CRAFT_DESC">Поместите сюда семена растений, чтобы прорастить их.</string>
+  <string name="Advanced Hydroponics Bay_CRAFT_HINT">Ускоряет созревание растений.</string>
+
+  <string name="BaubleBerry Seed">Семя Бездельягоды</string>
+	<string name="BaubleBerry Seeds">Семена Бездельягоды</string>
+	<string name="Tri Seed">Семя Тризерна</string>
+	<string name="Tri Seeds">Семена Тризерна</string>
+	<string name="UnderGrump Seed">Семя Подворча</string>
+	<string name="UnderGrump Seeds">Семена Подворча</string>
+	<string name="GoopyDangler Seed">Семя Слизентяя</string>
+	<string name="GoopyDangler Seeds">Семена Слизентяя</string>
+	<string name="Coxcomb Seed">Семя Расчешины</string>
+	<string name="Coxcomb Seeds">Семена Расчешины</string>
+	<string name="LeafyDangler Seed">Семя Листенивца</string>
+	<string name="LeafyDangler Seeds">Семена Листенивца</string>
+	<string name="TundraBreath Seed">Семя Тундровея</string>
+	<string name="TundraBreath Seeds">Семена Тундровея</string>
+	
+	<string name="Super Construction Paste Grinder">Супер-Пастомешалка</string>
+	<string name="Super Construction Paste Grinder_DESC">Преобразует «мусорные» блоки или Уголь в Пасту в соотношении 1:8.</string>
+	<string name="Super Construction Paste Grinder_CRAFT_DESC">Преобразует бесполезный мусор (пустую породу, камни, почву) или Уголь в Строительную Пасту. Все декоративные блоки создаются из Строительной Пасты!</string>
+	<string name="Super Construction Paste Grinder_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
+	
+	<string name="Lightweight Machine Housing Crafter">Синтезатор Лёгких Машинных Корпусов</string>
+	<string name="Lightweight Machine Housing Crafter_DESC">Превращает 6 Оловянных Пластин в 1 Машинный Корпус.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Оборудование для автоматизации производства Оловянных Пластин в Лёгкие машинные корпуса.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Заметно эффективнее ручного труда!</string>
+	
+	<string name="Priority Splitter">Обходной Разделитель</string>
+	<string name="Priority Splitter_DESC">Перемещает все предметы направо, если направление не блокировано. В ином случае - налево.</string>
+	<string name="Priority Splitter_CRAFT_DESC">Перемещает все предметы направо, если направление не блокировано. В ином случае - налево.</string>
+	<string name="Priority Splitter_CRAFT_HINT">Подсоединяется к конвейерам/трубам или бункерам. Работает при наличии оборудования под выгрузку на обоих направлениях.</string>	
+	
+	<string name="HerbiCor">Гербикор</string>
+	<string name="HerbiCor_DESC">Собирает ближайшие растения на поверхности планеты.
+Для работы использует подсоединенный бункер.</string>
+	<string name="HerbiCor_CRAFT_DESC">Собирает ближайшие растения на поверхности планеты. Для работы использует подсоединенный бункер.</string>
+	<string name="HerbiCor_CRAFT_HINT">А ещё положительно влияет на частоту кадров!</string>	
+	
+	<string name="Generic Room Controller_DESC">Перемещает все предметы направо, если направление не блокировано. В ином случае - налево.</string>
+	<string name="Generic Room Controller_CRAFT_DESC">Разместите в Комнате и следуйте инструкциям.</string>
+	<string name="Generic Room Controller_CRAFT_HINT">Разместите на полу комнаты. См. инструкции на панели внизу слева!</string>	
+
+	<string name="Ampule Dispenser_DESC">Разместите над Ампульным Станком</string>
+	<string name="Ampule Dispenser_CRAFT_HINT">Нужен для производства и улучшения Ампул из подсоединенного Ампульного Станка</string>
+	<string name="Ampule Dispenser_CRAFT_DESC">Возьмите один себе и ВСЕГДА носите с собой. (Положите себе в инвентарь, чтобы использовать автоматически)</string>	
+	
+	<string name="Ampule Crafter">Ампульный Станок</string>
+	<string name="Ampule Crafter_DESC">Расположите под Ампульным Дозатором, подсоединённым к Бункеру с растениями.</string>
+	<string name="Ampule Crafter_CRAFT_HINT">Нужен для производства и улучшения Ампул из подсоединенного Ампульного Станка</string>
+	<string name="Ampule Crafter_CRAFT_DESC">Возьмите один себе и ВСЕГДА носите с собой. (Положите себе в инвентарь, чтобы использовать автоматически)</string>
+	
+	<string name="Base Scanner">Сканер Базы</string>
+	<string name="Base Scanner_DESC">Разместите в Комнате. Наблюдайте. Изучайте. Развивайтесь!</string>
+	<string name="Base Scanner_CRAFT_HINT">Настраиваемый монитор для графического представления каждого аспекта производительности вашей базы.</string>
+	<string name="Base Scanner_CRAFT_DESC">Разместите в Комнате. Наблюдайте. Изучайте. Развивайтесь!</string>
+	
 </resources>
