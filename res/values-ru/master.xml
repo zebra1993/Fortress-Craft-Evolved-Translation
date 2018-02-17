@@ -4437,4 +4437,9 @@
 	<string name="Base Scanner_CRAFT_DESC">Разместите в Комнате. Наблюдайте. Изучайте. Развивайтесь!</string>
 	
 <string name="Damped">Затухающий</string>
+  <string name="Absorbing">Поглощающий</string>
+  <string name="Interdicting">Препятствующий</string>
+  
+  <string name="Vibration">Вибрация</string>
+  <string name="Wobbliness">Вихляние</string>
   </resources>
