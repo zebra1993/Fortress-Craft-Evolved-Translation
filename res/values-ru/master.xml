@@ -4455,4 +4455,5 @@
   <string name="Gantry_Search_completed_X_of_X">Определение Платформы: {0} из {1}</string>
   <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Платформ не может разместиться. Этому мешает {0}</string>
   <string name="Built_Ring_at_X">Построено Кольцо на расстоянии {0} м</string>
+  <string name="No_linked_centre_found">Нет связи с центром</string>
   </resources>
