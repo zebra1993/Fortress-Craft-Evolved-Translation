@@ -4445,5 +4445,14 @@
   <string name="Balance">Баланс</string>
   <string name="Steadiess">Устойчивость</string>
   <string name="Solidness">Твёрдость</string>
-  <string name="Fixation">фиксация</string>
+  <string name="Fixation">Фиксация</string>
+  <string name="DigiStructing_Rocket">Цифрострукция Ракеты</string>
+  <string name="Pad_Empty">Площадка пуста.</string>
+  <string name="DigiStruct_power_needed_X">Нужно энергии для Цифрострукции: {0}</string>
+  <string name="Checking_Gantry_Clearance">Проверка пространства под Платформу...</string>
+  <string name="Checking_Drill_Clearance">Проверка пространства под Бур...</string>
+  <string name="DigiStructing_Drill">Цифрострукция Бура...</string>
+  <string name="Gantry_Search_completed_X_of_X">Определение Платформы: {0} из {1}</string>
+  <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Платформ не может разместиться. Этому мешает {0}</string>
+  <string name="Built_Ring_at_X">Построено Кольцо на расстоянии {0} м</string>
   </resources>
