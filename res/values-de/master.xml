@@ -4381,4 +4381,7 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="SuperFast">Super schnell</string>
   <string name="Day">Tag</string>
   <string name="Lots">Haufen</string>	
-</resources>
+<string name="MedBay_Not_In_Room">Die Krankenstation muss in einem Raum gebaut werden!</string>
+  <string name="Not_In_Room">Dies muss in einem Raum gebaut werden!</string>
+
+  </resources>
