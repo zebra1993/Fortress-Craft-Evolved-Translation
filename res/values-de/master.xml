@@ -102,7 +102,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
     <string name="Plentiful_Power_Info">\'Massenhaft Energie\' sorgt dafür, dass jede Energiequelle um ein vielfaches mehr Energie erzeugt. Durch diese Einstellung ist es einfacher, in der Anfangsphase schnellen Fortschritt zu erzielen.</string>
     <string name="Scarce_Power_Info">\'Knappe Energie\' sorgt dafür, dass jede Energiequelle ein ausgeglichenes Mass an Energie erzeugt. Durch diese Einstellung ist es schwieriger, in der Anfangsphase Fortschritt zu erzielen.</string>
 
-    <string name="Eternal_Day_Info">\'Immer Tag\' bedeutet, dass die Solarzellen zu jeder Zeit Energie sammeln und nicht mit einem Temperaturabfall in der Nacht zu kämpfen haben. Diese Einstellung wird für einen schnellen Fortschritt im Spiel sorgen – Solarzellen generieren 4 mal mehr Energie!</string>
+    <string name="Eternal_Day_Info">\'Immer Tag\' bedeutet, dass die Solarzellen zu jeder Zeit Energie sammeln und nicht mit einem Temperaturabfall in der Nacht zu rechnen ist. Diese Einstellung wird für einen schnellen Fortschritt im Spiel sorgen – Solarzellen generieren 4 mal mehr Energie!</string>
     <string name="Day_Night_Info">Ein normaler Tag/Nachtwechsel dauert 24 Minuten. In den 12 Minuten Dunkelheit sinkt die Temperatur drastisch, die Gegner sind aggressiver und die Sichtweite ist stark eingeschränkt.</string>
     <string name="Eternal_Night_Info">\'Immer Nacht\' bedeutet, Du hast keine Möglichkeit Dich von der eisigen Kälte der Nacht zu erholen. Darüber hinaus können normale Solarzellen und Dein ZEV keine Energie erzeugen. Biologische Solarzellen erzeugen bei dieser Einstellung nur minimal Energie. Diese Einstellung wird Dich vor eine sehr große Herausforderung stellen.</string>
 
@@ -136,7 +136,7 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
 Nicht empfohlen. Zwar wird der Spielfluss nicht beeinträchtigt, jedoch stellt das Spiel keine Herausforderung mehr dar (und ein Großteil des Spielspaßes fällt hierdurch weg). 
 Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwarmintelligenzen und anderer Gegner vermindern.</string>
     <string name="Normal_Mobs_Info">Normale Gegner - Wie es sein sollte. Gute Wahl!</string>
-    <string name="Hard_Mobs_Info">Schwere Gegner - Wähle dies und du wirst mit aggressiveren, schwereren Gegnern zu kämpfen haben. Diese Auswahl ist nur für SEHR ERFAHRENE Spieler gedacht!</string>
+    <string name="Hard_Mobs_Info">Schwere Gegner - Wähle dies und du wirst mit viel schwereren und aggresiveren Gegnern zu tun bekommen. Diese Auswahl ist nur für SEHR ERFAHRENE Spieler gedacht!</string>
 
     <string name="OrbitalPar">Spielzeit bis OET einmalig geladen wurde</string>
     <string name="FFPar">Spielzeit bis Frozen Factory durchgespielt ist</string><!--No idea what that means-->
