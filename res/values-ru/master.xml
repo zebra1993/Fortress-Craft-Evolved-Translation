@@ -256,10 +256,10 @@
     <string name="Copper Wire (Old)">Медный Провод (Старый)</string>
     <string name="Servo Motor">СервоПривод</string>
     <string name="Servo Motors">СервоПриводы</string>
-    <string name="Lightweight Machine Plate">Лёгкая Машинная Плита</string>
-    <string name="Lightweight Machine Plates">Лёгкие Машинные Плиты</string>
-    <string name="Lightweight Machine Housing">Лёгкий Машинный Корпус</string>
-    <string name="Lightweight Machine Housings">Лёгкие Машинные Корпуса</string>
+    <string name="Lightweight Machine Plate">Лёгкая Плита</string>
+    <string name="Lightweight Machine Plates">Лёгкие Пластины</string>
+    <string name="Lightweight Machine Housing">Лёгкий Корпус</string>
+    <string name="Lightweight Machine Housings">Лёгкие Корпуса</string>
     <string name="Basic Minecart">Базовая Вагонетка</string>
     <string name="Basic Minecarts">Базовые Вагонетки</string>
     <string name="Fast Minecart">Быстрая Вагонетка</string>
@@ -1036,8 +1036,8 @@
     <string name="Assembly Station">Монтажная станция</string>
     <string name="Assembly Station_DESC">Модуль Завода. Включает рецепты Сборочной станции при подключении к Заводу.</string>
     <string name="Refinery Controller_DESC">Управляет химическими реакциями преобразования углеводов.</string>
-    <string name="Refinery Controller">Контроллер Очистителя</string>
-    <string name="Refinery Reactor Vat">Биореактор Очистителя</string>
+    <string name="Refinery Controller">Контроллер Биореактора</string>
+    <string name="Refinery Reactor Vat">Биореактор</string>
     <string name="Refinery Reactor Vat_DESC">Игрок не должен это прочесть...</string>
     <string name="Jet Turbine Generator_DESC">Игрок не должен это прочесть…</string>
     <string name="Jet Turbine Generator">Газотурбинный Генератор</string>
@@ -1192,7 +1192,7 @@
     <string name="Threat Reducer_DESC">Существенно уменьшает угрозу.</string>
     <string name="Zipper Merge">Объединитель</string>
     <string name="Zipper Merge_DESC">Объединяет два потока в один в соотношении 50:50.</string>
-    <string name="3'n1 Zipper Merge">Объединитель 3-в-1</string>
+    <string name="3'n1 Zipper Merge">Объединитель 3-и-1</string>
     <string name="3'n1 Zipper Merge_DESC">Быстро объединяет два потока в один в следующем порядке: Пр., Пр., Пр., Лев.. Превращает задачу создания Экспериментальных Ячеек в сущий пустяк!</string>
     <string name="Rapid Zipper Merge">Быстрый Объединитель</string>
     <string name="Rapid Zipper Merge_DESC">Быстро объединяет два потока в один в соотношении 50:50.</string>
@@ -1449,8 +1449,8 @@
     <string name="Casting Pipe (Straight)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
     <string name="Casting Pipe (Bend)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
     <string name="Casting Pipe (Bend)">Литейная Труба (Гнутая)</string>
-    <string name="Refinery Reactor Vat Component">Компонент Биореактора Очистителя</string>
-    <string name="Refinery Reactor Vat Component_DESC">Реактор обеспечивает протекание биохимических реакций под высоким давлением. Для изготовления Биореактора расположите компоненты в виде куба 3х3х3. Подсоедините к нему Контроллер Очистителя для запуска в работу.</string>
+    <string name="Refinery Reactor Vat Component">Компонент Биореактора</string>
+    <string name="Refinery Reactor Vat Component_DESC">Реактор обеспечивает протекание биохимических реакций под высоким давлением. Для изготовления Биореактора расположите компоненты в виде куба 3х3х3. Подсоедините к нему Контроллер Биореактора для запуска в работу.</string>
     <string name="Jet Turbine Generator Housing">Корпус Газотурбинного Генератора</string>
     <string name="Jet Turbine Generator Housing_DESC">Газотурбинный Генератор сжигает Высокоэнергетическое Композитное Топливо (ВЭКТ), интенсивно вырабатывая энергию. Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Оборудуйте входной патрубок ГТ-генератора на стороне 3х3, чтобы собрать генератор.</string>
     <string name="Jet Turbine Generator Intake">Входной патрубок Газотурбинного Генератора</string>
@@ -1767,7 +1767,7 @@
     <string name="MISSION_Build FALCOR Beacons">Постройте ФАЛКОР-Маяки!</string>
     <string name="MISSION_Improve FALCOR Network">Улучшите сеть ФАЛКОРов!</string>
     <string name="MISSION_Critical Research Hydrocarbons">Критическое исследование : Углеводороды.</string>
-    <string name="MISSION_Build Refinery">Постройте Очиститель.</string>
+    <string name="MISSION_Build Refinery">Постройте Биореактор.</string>
     <string name="MISSION_Build a Jet Turbine">Постройте Газотурбинный Генератор.</string>
     <string name="MISSION_Explore remote surface for Organic Rock">Поищите Органический Камень в отдаленных областях.</string>
     <string name="MISSION_Locate Soft Resin">Найти : Мягкая Смола.</string>
@@ -1826,10 +1826,10 @@
     <string name="Solar Panel_CRAFT_DESC">Солнечная панель преобразует солнечный свет в небольшое количество энергии, питая прилегающее оборудование.
  Требуется чистое небо.</string>
     <string name="Organic Solar Panel_CRAFT_HINT">Требуется чистое небо!</string>
-    <string name="MK2 Solar Panel Component_CRAFT_DESC">Генерирует среднее количество энергии в течение дня. Может устанавливаться только в плоской конфигурации 3x3 поверх исследовательской лаборатории, Очистителей или крупных Энергохранилищ.</string>
-    <string name="MK2 Solar Panel Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Очистителях и больших батареях!</string>
+    <string name="MK2 Solar Panel Component_CRAFT_DESC">Генерирует среднее количество энергии в течение дня. Может устанавливаться только в плоской конфигурации 3x3 поверх исследовательской лаборатории, Биореакторов или крупных Энергохранилищ.</string>
+    <string name="MK2 Solar Panel Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Биореакторах и больших батареях!</string>
     <string name="MK2 Organic Solar Component_CRAFT_DESC">Генерирует среднее количество энергии в течение дня и малое количество ночью. Имеет те же ограничения на размещение, что и в обычной версии.</string>
-    <string name="MK2 Organic Solar Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Очистителях и больших батареях!</string>
+    <string name="MK2 Organic Solar Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Биореакторах и больших батареях!</string>
     <string name="Pyrothermic Generator_CRAFT_DESC">Сжигает ресурсы в прикрепленном Бункере для энергоснабжения соседнего оборудования. С глубиной эффективность уменьшается из-за плохой вентиляции. Используйте Лазерные Энергопередатчики, для передачи энергии на бОльшие глубины.</string>
     <string name="Pyrothermic Generator_CRAFT_HINT">Нужно подключить к Бункеру</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Очень медленно передает энергию от генератора или аккумулятора энергии. Может питать оборудование, энергохранилища или другой энергопередатчик. Прикрепите к стене, чтобы передать энергию по вертикали.</string>
@@ -2021,15 +2021,15 @@
     <string name="Magnetic Block Assembler_CRAFT_HINT">Может также использоваться для строительства.</string>
     <string name="Chromed Block Assembler_CRAFT_DESC">Компонент для продвинутой техники.</string>
     <string name="Chromed Block Assembler_CRAFT_HINT">Может также использоваться для строительства.</string>
-    <string name="Refinery Controller_CRAFT_DESC">Перерабатывает Биомассу в полезные продукты. Должен быть присоединен к Биореактору Очистителя для работы. См. Справочник для получения дополнительной информации.</string>
-    <string name="Refinery Controller_CRAFT_HINT">Нужно подключить к Биореактору Очистителя.</string>
-    <string name="Refinery Reactor Vat Component_CRAFT_DESC">Компонент Биореактора Очистителя. Должны быть построен по схеме 3х3х3 (всего 27 шт.). Требуется подключить к Контроллеру Очистителя.</string>
-    <string name="Refinery Reactor Vat Component_CRAFT_HINT">Постройте по схеме 3х3х3, чтобы сформировать Биореактор Очистителя.</string>
+    <string name="Refinery Controller_CRAFT_DESC">Управляет переработкой Биомассы и Очищенной смолы в полезные продукты. Должен быть соединен с Биореактором. См. Справочник для получения дополнительной информации.</string>
+    <string name="Refinery Controller_CRAFT_HINT">Нужно подключить к Биореактору.</string>
+    <string name="Refinery Reactor Vat Component_CRAFT_DESC">Компонент Биореактора. Строится по схеме 3х3х3 (27 блоков). Требуется подключить к Контроллеру Биореактора.</string>
+    <string name="Refinery Reactor Vat Component_CRAFT_HINT">Постройте по схеме 3х3х3, чтобы сформировать Биореактор.</string>
     <string name="Jet Turbine Generator Housing_CRAFT_DESC">Компонент корпуса Газотурбинного Генератора, который сжигает ВЭКТ, интенсивно вырабатывая энергию. Корпус строится с основанием 4х3 и высотой 3 м. Оборудуйте Входным Патрубком на стороне 3х3.</string>
     <string name="Jet Turbine Generator Housing_CRAFT_HINT">Постройте параллелепипед с основанием 4х3 и высотой 3 блока. Оборудуйте входной патрубок ГТ-генератора на стороне 3х3, чтобы собрать генератор.</string>
     <string name="Jet Turbine Generator Intake_CRAFT_DESC">Элемент Газотурбинного генератора для нагнетания больших объёмов воздуха. Прикрепите на торец корпуса Генератора в виде плоскости высотой 3 метра и шириной 3 метра.</string>
     <string name="Jet Turbine Generator Intake_CRAFT_HINT">Патрубок Газотурбинного Генератора должен размещаться на вертикальной стороне корпуса с размером 3х3.</string>
-    <string name="ARTHER Power Core_CRAFT_DESC">Устраняет повреждения АРЧЕРа, позволяя ему надежно перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
+    <string name="ARTHER Power Core_CRAFT_DESC">Устраняет повреждения АРЧЕРа, позволяя ему уверенно перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Power Core_CRAFT_HINT">Позволяет АРЧЕРу снова перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Battery Core_CRAFT_DESC">Позволяет АРЧЕРу сохранять заряд в 8 раз больше, который он может передать вам если у вас заканчивается энергия. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Battery Core_CRAFT_HINT">Позволяет АРЧЕРу собирать больше энергии</string>
@@ -2207,13 +2207,13 @@
     <string name="Improved Cargo Lift_CRAFT_HINT">Может быть обновлено позже.</string>
     <string name="Bulk Cargo Lift_CRAFT_DESC">Вмещает 3000 единиц груза, перемещаясь с максимальной скоростью 10 м/с. Устанавливается в Контроллер Грузового Лифта.</string>
     <string name="Bulk Cargo Lift_CRAFT_HINT">Это лучший лифт на данный момент.</string>
-    <string name="Research Assembler_CRAFT_DESC">Автоматически собирает Исследовательские Ячейки. Требуется энергия и прикреплённые Бункеры, содержащие металлические плсатины и ПП. См. запись в справочнике.</string>
+    <string name="Research Assembler_CRAFT_DESC">Автоматически собирает Исследовательские Ячейки. Требуется энергия и прикреплённые Бункеры, содержащие металлические пластины и ПП. См. запись в справочнике.</string>
     <string name="Research Assembler_CRAFT_HINT">Используйте, чтобы разблокировать Проекты!</string>
     <string name="Orbital Energy Transmitter Component_CRAFT_DESC">Используйте для передачи энергии Орбитальной Космической Станции. Должно быть построено по схеме 9х13х9 (всего 1053 шт.).</string>
     <string name="Orbital Energy Transmitter Component_CRAFT_HINT">Строится в конфигурации 9x13x9.</string>
     <string name="Orbital Strike Controller_CRAFT_DESC">Нужно для атак по поверхности. Размещать возле базы противника.</string>
     <string name="Orbital Strike Controller_CRAFT_HINT">Работает только если ОПЭ полностью заряжен!</string>
-    <string name="Laboratory Component_CRAFT_DESC">Используйте для исследований передовых проектов с экспериментами. Должны быть построен по схеме 3х3х3 (всего 27 шт.). См. Справочник для получения дополнительной информации.</string>
+    <string name="Laboratory Component_CRAFT_DESC">Используется для исследований передовых проектов и изучения компонентов из аварийных капсул. Строится по схеме 3х3х3 (27 блоков). См. Справочник для получения дополнительной информации.</string>
     <string name="Laboratory Component_CRAFT_HINT">Лаборатория строится по схеме 3х3х3 (всего 27 шт.).</string>
     <string name="Neon Border_CRAFT_DESC">Спасибо TadForever: Все ошибки имеют свое применение. www.patreon.com/FortressCraft</string>
     <string name="Neon Border_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
@@ -2423,11 +2423,11 @@
     <string name="Black Storage Crate_CRAFT_HINT">Соедините несколько ящиков вместе, чтобы увеличить доступное пространство.</string>
     <string name="White Storage Crate_CRAFT_DESC">Простой деревянный ящик, который может хранить небольшое количество предметов. Невозможно автоматизировать. Для увеличения объема хранилища можно объединить несколько ящиков.</string>
     <string name="White Storage Crate_CRAFT_HINT">Соедините несколько ящиков вместе, чтобы увеличить доступное пространство.</string>
-    <string name="Steel Alloy Smelter_CRAFT_DESC">Используете для получения Стальных Слитков.</string>
+    <string name="Steel Alloy Smelter_CRAFT_DESC">Используется для получения Стальных Слитков.</string>
     <string name="Steel Alloy Smelter_CRAFT_HINT">Король автоматизации!</string>
     <string name="Advanced Machine Block Assembler_CRAFT_DESC">Стандартный компонент современного оборудования.</string>
     <string name="Advanced Machine Block Assembler_CRAFT_HINT">Может также использоваться для строительства.</string>
-    <string name="Imbued Machine Block Assembler_CRAFT_DESC">Стандартный компонент продвинутого оборудования. Использует 4 Улучшенных Машинных Блока и одну Энергоячейку МК5.</string>
+    <string name="Imbued Machine Block Assembler_CRAFT_DESC">Компонент часто используемый в продвинутом оборудовании. Изготавливается из 4 Улучшенных Машинных Блоков и 1 Энергоячейки МК5.</string>
     <string name="Imbued Machine Block Assembler_CRAFT_HINT">Может также использоваться для строительства.</string>
     <string name="Hiemal Block Assembler_CRAFT_DESC">Компонент для продвинутого оборудования.</string>
     <string name="Hiemal Block Assembler_CRAFT_HINT">Может также использоваться для строительства.</string>
@@ -2604,13 +2604,13 @@
 	<string name="Located">Обнаружено!</string>
 	<string name="MISSION_All">Все</string>
 	<string name="MISSION_Clearing">– начата очистка.</string>
-	<string name="MISSION_Crystal_Offline">неактивных Крист. Экстракторов</string>
-	<string name="MISSION_Inactive_PTGs">неактивных Пирот.Ген-ов.</string>
+	<string name="MISSION_Crystal_Offline">Неактивные Экстракторы кристал. отложений</string>
+	<string name="MISSION_Inactive_PTGs">Неактивные ПТГ.</string>
 	<string name="MISSION_Many Items">" предметов на земле! Нужны ФАЛКОРы!"</string>
 	<string name="MISSION_More Conveyors">больше конвейеров.</string>
 	<string name="MISSION_More Torches">" больше Факелов для согрева!"</string>
 	<string name="MISSION_OES_Offline">неактивных Экстракторов!</string>
-	<string name="MISSION_OE_Offline">- установленный экстрактор неактивен</string>
+	<string name="MISSION_OE_Offline">- экстрактор неактивен</string>
 	<string name="MISSION_Offline">неактивн.</string>
 	<string name="MISSION_Open Handbook">Нажмите «H», чтобы открыть справку.</string>
 	<string name="MISSION_PTGs Inactive">неактивных ПТГ</string>
@@ -2864,7 +2864,7 @@
 <string name="Admins">Администраторы</string>
 <string name="Pending">Ожидание</string>
 <string name="Admin">Админ</string>
-<string name="Usage">употребление</string>
+<string name="Usage">применение</string>
 <string name="Command">команда</string>
 <string name="valid_Commands">доступные команды</string>
 <string name="Playername">имя</string>
@@ -2974,7 +2974,7 @@
 <string name="Auto_Organic_Thief">Органикрад</string>
 
 <string name="Storage">Хранилище</string>
-<string name="SuperFast">Очень Быстрый</string>
+<string name="SuperFast">Сверхбыстрые</string>
   <string name="Day">День</string>
   <string name="items_with">предметов с</string>
 <string name="Ore_Thief_3k">Рудокрад</string>
@@ -3027,7 +3027,7 @@
   <string name="Gender_Other">Пол: не определился</string>
   
 <string name="Import_not_finished">Импорт ещё не завершён</string>
-  <string name="usage_X_slot_number"/>
+  <string name="usage_X_slot_number">Применение: {0} «номер слота»</string>
   <string name="failed_to_parse_slot_number">не получилось интерпретировать номер слота</string>
   <string name="Jump_Speed_set_to_X">Скорость прыжка установлена на {0}</string>
   
@@ -3049,10 +3049,10 @@
   <string name="Movement_Speed_X">Скорость перемещения: {0}</string>
   <string name="Maximum_Fall_Speed_X">Макс. скорость падения: {0}</string>
   <string name="Jump_Speed_X">Скорость прыжка: {0}</string>
-  <string name="usage_X_gravity_amount"/>
+  <string name="usage_X_gravity_amount">Применение: {0} «величина гравитации»</string>
   <string name="Gravity_set_to_X">Гравитация установлена на {0}</string>
   <string name="Could_not_parse_X">Невозможно интерпретировать данные</string>
-  <string name="usage_X_speed_amount"/>
+  <string name="usage_X_speed_amount">Применение: {0} «величина скорости»</string>
   <string name="Movement_Speed_set_to_X">Скорость перемещения установлена на {0}</string>
   <string name="Current_maxfallspeed_X">Значение maxfallspeed: {0}</string>
   <string name="Maximum_falling_speed_set_to_X">Макс. скорость падения установлена на {0}</string>
@@ -3336,9 +3336,7 @@
 
 <string name="Mission_Tutorial_Intro">
 Вы пережили падение, АРЧЕР пожертвовал собой, создав небольшое защитное поле.
-
 АРЧЕР объяснит вам основные функции вашей базы.
-
 Защитное поле исчезнет по окончанию инструктажа.</string>
 
 <string name="CPH_Idling_all_attached_power_full">ЦЭК простаивает, т.к. в смежном 
@@ -3785,9 +3783,8 @@
 Бункеры используются в качестве хранилищ и для управления логистикой.
 Ваше оборудование может как загружать что-либо в Бункер, так и выгружать. Найдите Бункер и нажмите «Q», чтобы выгрузить из него добытый ранее Уголь к себе в инвентарь.</string>
   <string name="Tut_5_Text">
-У вас есть Сканер, с помощью которого вы можете искать в окружающем пространстве известные и неизвестные материалы и предметы.
-Как только вы найдёте что-либо Неизвестное, просканируйте это.
-Теперь попробуйте найти что-либо непросканированное, подсветите это и удерживайте ПКМ, пока сканирование не завершится.</string>
+У вас есть Сканер, с помощью которого вы можете искать в окружающем пространстве известные и неизвестные материалы и предметы. При обнаружении чего-либо неизвестного его нужно просканировать.
+Сейчас попробуйте найти что-либо непросканированное, нацельтесь на это и удерживайте ПКМ, пока сканирование не завершится.</string>
   <string name="Tut_6_Title">Исследования</string>
   <string name="Tut_6_Text">
 После сканирования Неизвестное надо изучить.
@@ -4073,7 +4070,7 @@
 <string name="Mutator_HardcoreCeilings_Active">Потолок берегите, глупцы! Блоки естественного происхождения больше не размещаются.</string>
 <string name="Looking_for_MS_Crate">Поиск Ящика Склада...</string>
   <string name="Surveying_MS_Crate_distances">Анализируется расположение модулей Ящиков Склада...</string>
-  <string name="Loads">Обилие</string>
+  <string name="Loads">Обильно</string>
   <string name="Lots">Много</string>	
 <string name="Client_Thread_null">Клиентский поток -- нулевой!</string>
   <string name="Network_Client_closing">Сетевой Клиент закрывается!</string>
@@ -4301,12 +4298,12 @@
 	<string name="Reinforced Plated Room Floor">Пол Комнаты Усиленный Обшитый</string>
 	<string name="Reinforced Plated Room Floor_DESC">Окрашиваемый усиленный пол, специально спроектированный для строительства комнат.</string>
 	<string name="Reinforced Plated Room Floor_CRAFT_DESC">Окрашиваемый усиленный пол, специально спроектированный для строительства комнат.</string>
-	<string name="Room Detail 1">Декорация Комнаты 1</string>
-	<string name="Room Detail 1_DESC">Усиленная декорация для стен в комнатах.</string>
-	<string name="Room Detail 1_CRAFT_DESC">Усиленная декорация для стен в комнатах.</string>
-	<string name="Alloyed Space Window">Легированный Иллюминатор</string>
+	<string name="Room Detail 1">Украшенная стена 1</string>
+	<string name="Room Detail 1_DESC">Усиленная украшенная стена, специально разработанная для строительства Комнат.</string>
+	<string name="Room Detail 1_CRAFT_DESC">Усиленная украшенная стена, специально разработанная для строительства Комнат.</string>
+	<string name="Alloyed Space Window">Прочное Окно</string>
 	<string name="Alloyed Space Window_DESC">Окрашиваемое усиленное окно.</string>
-	<string name="Alloyed Space Window_CRAFT_DESC">Окрашиваемое усиленное окно. Не рекомендует использовать в комнатах.</string>
+	<string name="Alloyed Space Window_CRAFT_DESC">Окрашиваемое усиленное окно. Не рекомендуется использовать в комнатах.</string>
 	<string name="Alloyed Space Window_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
 	
 	<string name="Room Ventilation Grille">Вентиляционная Решётка</string>
@@ -4323,13 +4320,13 @@
 	<string name="Room Light Reflector">Световой Отражатель для комнат</string>
 	<string name="Room Light Reflector_DESC">_</string>
 	<string name="Room Light Reflector_CRAFT_DESC">Усиленный потолочный отражатель для использования в комнатах.</string>
-	<string name="Logistics Grommet_DESC">Необходимо для прохода продукции на конвейерах через стену комнаты.</string>
-	<string name="Logistics Grommet_CRAFT_DESC">Необходимо для прохода продукции на конвейерах через стену комнаты.</string>
-	<string name="Logistics Grommet_CRAFT_HINT">Первый проход!</string>
+	<string name="Logistics Grommet_DESC">Необходим для прохода продукции на конвейерах через стену комнаты.</string>
+	<string name="Logistics Grommet_CRAFT_DESC">Необходим для прохода продукции на конвейерах через стену комнаты.</string>
+	<string name="Logistics Grommet_CRAFT_HINT">Первый пошёл!</string>
 	
-	<string name="Energy Grommet_DESC">ЛЭП, Солнечные батареи и Энергохранилища могут передавать энергию через это устройство.</string>
-	<string name="Energy Grommet_CRAFT_DESC">ЛЭП, Солнечные батареи и Энергохранилища могут передавать энергию через это устройство.</string>
-	<string name="Energy Grommet_CRAFT_HINT">Первый проход!</string>
+	<string name="Energy Grommet_DESC">ЛЭП, Солнечные батареи и Энергохранилища могут передавать энергию через это устройство (но не лазерные лучи).</string>
+	<string name="Energy Grommet_CRAFT_DESC">ЛЭП, Солнечные батареи и Энергохранилища могут передавать через это устройство энергию (но не лазерные лучи!).</string>
+	<string name="Energy Grommet_CRAFT_HINT">Создаёт энергетический канал между устройствами, подключенными к обеим сторонам!</string>
 	
 	<string name="Room Extractor Fan">Комнатный Вытяжной Вентилятор</string>
 	<string name="Room Extractor Fan_DESC">В будущем будет использоваться для повышения уровня Чистоты комнаты.</string>
@@ -4402,9 +4399,9 @@
 	<string name="Super Construction Paste Grinder_CRAFT_DESC">Преобразует бесполезный мусор (пустую породу, камни, почву) или Уголь в Строительную Пасту. Все декоративные блоки создаются из Строительной Пасты!</string>
 	<string name="Super Construction Paste Grinder_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
 	
-	<string name="Lightweight Machine Housing Crafter">Синтезатор Лёгких Машинных Корпусов</string>
-	<string name="Lightweight Machine Housing Crafter_DESC">Превращает 6 Оловянных Пластин в 1 Машинный Корпус.</string>
-	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Оборудование для автоматизации производства Оловянных Пластин в Лёгкие машинные корпуса.</string>
+	<string name="Lightweight Machine Housing Crafter">Синтезатор Лёгких Корпусов</string>
+	<string name="Lightweight Machine Housing Crafter_DESC">Превращает 6 Оловянных Пластин в 1 Лёгкий Корпус.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Оборудование для производства Лёгких корпусов из 6 Оловянных Пластин.</string>
 	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Заметно эффективнее ручного труда!</string>
 	
 	<string name="Priority Splitter">Обходной Разделитель</string>
@@ -4453,7 +4450,27 @@
   <string name="Checking_Drill_Clearance">Проверка пространства под Бур...</string>
   <string name="DigiStructing_Drill">Цифрострукция Бура...</string>
   <string name="Gantry_Search_completed_X_of_X">Определение Платформы: {0} из {1}</string>
-  <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Платформ не может разместиться. Этому мешает {0}</string>
+  <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Платформа не может разместиться. Этому мешает {0}</string>
   <string name="Built_Ring_at_X">Построено Кольцо на расстоянии {0} м</string>
-  <string name="No_linked_centre_found">Нет связи с центром</string>
+  <string name="No_linked_centre_found">Нет связи с центром!</string>
+  <string name="Orbital_RailGun_Link">Звено Орбитального Рельсотрона</string>
+  <string name="usage_X_command">применение: {0} «команда»</string>
+  <string name="valid_commands_add_remove">допустимые команды: добавить удалить</string>
+  <string name="usage_X_add_name_r_g_b">применение: {0} add «имя» (R G B)</string>
+  <string name="usage_X_remove_name">применение: {0} remove «имя»</string>
+  <string name="Flubbing">Вялый</string>
+  <string name="Bouncy">Прыгучий</string>
+  <string name="Crazy_ass">Шило-в-жопе</string>
+  <string name="Tingling">Трепещущий</string>
+  <string name="usage_whitelist_add_name">Применение: whitelist add «имя»</string>
+  <string name="X_added_to_single_access_list">«{0}» добавл. в список одиночного доступа</string>
+  <string name="usage_whitelist_remove_name">Применение: whitelist remove «имя»</string>
+  <string name="X_removed_from_single_access_list">«{0}» удал. из списка одиночного доступа</string>
+  <string name="usage_X">Применение: {0}</string>
+  <string name="usage_X_behaviour">применение: {0} «поведение»</string>
+  <string name="Design_does_not_have_behaviour_X">У проекта нет такого поведения {0}</string>
+  <string name="usage_X_library_design_path">Применение: {0} «путь к библиотечному проекту»</string>
+  <string name="slot_number_not_custom">номер слота не настраиваемый!</string>
+  <string name="Buildable_slot_X_selected">Выбран слот с возможностью строительства: {0}</string>
+  <string name="World_parameter_usage_X">Применение Параметра мира: {0}</string>
   </resources>
