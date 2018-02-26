@@ -3659,7 +3659,7 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
 <string name="Mutator_ImportantCPH_Active">Ihr ZEV ist jetzt super-Duper wichtig. Halten Sie es am Leben oder leiden.</string>
 <string name="Mutator_ImportantCPH_Not_Active">Keine Strafe für ZEV Tod.</string>
 
-<string name="Analysing_area">Scanne bereich</string>
+<string name="Analysing_area">Scanne bereich...</string>
   <string name="Activation_in">Zündung in</string>
   <string name="DESTROY_NOW_CANCEL">UM ABZUBRECHEN ZERSTÖRS!</string>
   
@@ -3977,7 +3977,7 @@ Drücken Sie E, um Stapellimits zu konfigurieren
   <string name="X_free_slots">{0} freie Plätze</string>
   <string name="Processing">Wird bearbeitet...</string>
   <string name="ERROR_Unknown_cube_X_added">FEHLER Unbekannter Würfel [{0}] hinzugefügt</string>
-  <string name="Used_X_Free_X_E_Open_Storage_Interface">Verwendet: {0}. Kostenlos: {1}
+  <string name="Used_X_Free_X_E_Open_Storage_Interface">Verwendet: {0}. Frei: {1}
  (E) Offene Speicherschnittstelle</string>
   <string name="Internal_Temp_X_C_Power_X">Interne Temp: {0} °C. Energie: {1}</string>
   <string name="Using_X_PPS">Verwenden von {0} EPS.</string>
@@ -4390,4 +4390,25 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="MK3 Ampule">MK3 Ampulle</string>
   <string name="MK4 Ampule">MK4 Ampulle</string>
   <string name="MK5 Ampule">MK5 Ampulle</string>
+  <string name="Base_Production_NoFilter">#KeinFilter</string>
+
+  <string name="RoomLight #1">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #2">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #3">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #4">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #5">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #6">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #7">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #8">Raumlicht. Farbwechsel möglich!</string>
+
+  <string name="RoomLight #1_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #2_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #3_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #4_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #5_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #6_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #7_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #8_DESC">Raumlicht. Farbwechsel möglich!</string>
+  
+  <string name="RoomLight #1_CRAFT_DESC">Gefärbtes Licht, arbeitet nur in Räumen.</string>
   </resources>
