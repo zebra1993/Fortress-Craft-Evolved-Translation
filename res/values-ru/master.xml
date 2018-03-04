@@ -70,8 +70,8 @@
     <string name="Survival">Выживание</string>
     <string name="Creative">Творчество</string>
 
-    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите «Вечный День» для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вашей душе будет угодно!
-Помните, что после создания Мира эти настройки нельзя изменить. Также обращайте внимание на ожидаемое время по критическим событиям!</string>
+    <string name="Default_Settings_Info">Настройки по умолчанию таковы, что для новичков игра будет очень быстрой и лёгкой. Ежели вы хотите ещё ускорить развитие игры - выберите «Вечный День» для цикла день/ночь. А если вам хочется испытать свои возможности, то ковыряйтесь с настройками, как вам будет угодно!
+После создания Мира эти настройки НЕЛЬЗЯ изменить. Также обратите внимание на ожидаемое время по критическим событиям (см. ниже)!</string>
     <string name="Previous_Visit">Вы уже были в этом Мире Выживания!</string>
     <string name="Play_time">Время игры</string>
     <string name="Mod_Selected">мод выбран.</string>
@@ -484,7 +484,7 @@
     <string name="Compressed Magma">Сжатая Магма</string>
     <string name="Freezon Gas">Фризоновый Газ</string>
     <string name="FreezonGas">Фризоновый Газ</string>
-    <string name="Compressed Freezon Canister">Канистра со Сжатым Фризоном</string>
+    <string name="Compressed Freezon Canister">Баллон со Сжатым Фризоном</string>
     <string name="CompressedFreezon">Сжатый Фризон</string>
     <string name="Chlorine Gas">Газообразный Хлор</string>
     <string name="ChlorineGas">Газообразный Хлор</string>
@@ -893,7 +893,7 @@
     <string name="Organic Solar Panel">Органическая Солнечная Батарея</string>
     <string name="Organic Solar Panel_DESC">Генерирует малое количество энергии ночью от света Новы. Заряжает подсоединенные батареи.</string>
     <string name="Basic Laser Energy Transmitter">Базовый Лазерный Энергопередатчик</string>
-    <string name="Basic Laser Energy Transmitter_DESC">Медлительный дистанционный передатчик энергии. Максимальная дистанция — 32. Усовершенствуйте как можно скорее.</string>
+    <string name="Basic Laser Energy Transmitter_DESC">Медлительный дистанционный передатчик энергии. Максимальная дистанция — 32 м. Усовершенствуйте как можно скорее.</string>
     <string name="Laser Energy Transmitter MK1">Лазерный Энергопередатчик МК1</string>
     <string name="Laser Energy Transmitter MK2">Лазерный Энергопередатчик МК2</string>
     <string name="Laser Energy Transmitter MK3">Лазерный Энергопередатчик МК3</string>
@@ -1223,15 +1223,15 @@
     <string name="Pipe Coater">Установка Покрытия Труб</string>
     <string name="Pipe Coater_DESC">Создаёт Теплопроводящие Трубы.</string>
     <string name="Mesh Weaver">Сетеплёт</string>
-    <string name="Mesh Weaver_DESC">Плетёт сети из Кристаллических Волокон.</string>
+    <string name="Mesh Weaver_DESC">Плетёт сети из волокон Кристаллических Отложений.</string>
     <string name="Empty Missile Assembler">Сборщик Пустых Ракет</string>
-    <string name="Empty Missile Assembler_DESC">Создаёт Пустые ракеты из высокоэнергетического композитного топлива, медных труб и золотых проводов.</string>
-    <string name="Missile Fueller">Ракетный Заправщик</string>
+    <string name="Empty Missile Assembler_DESC">Создаёт Пустые ракеты из медных труб и золотых проводов.</string>
+    <string name="Missile Fueller">Заправщик Ракет</string>
     <string name="Missile Fueller_DESC">Заправляет Пустые Ракеты Высокоэнергетическим Композитным Топливом.</string>
     <string name="Armour Piercing Warhead Fitter">Установщик Бронебойных Боеголовок</string>
     <string name="Armour Piercing Warhead Fitter_DESC">Использует Жала для монтажа бронебойных зарядов.</string>
     <string name="Warhead Imbuer">Усилитель Боеголовок</string>
-    <string name="Warhead Imbuer_DESC">Наполняет обычные ракеты энергией плазмы.</string>
+    <string name="Warhead Imbuer_DESC">Наполняет обычные ракеты энергией плазмы, что делает их в 3 раза мощнее.</string>
     <string name="SpiderBot Core Charger">Зарядник ПаукоБота</string>
     <string name="SpiderBot Core Charger_DESC">Наполняет Литиевые Катушки энергией. Загружайте их в Док-станцию ПаукоБота.</string>
     <string name="Liquid Resin Refiner">Очиститель Текучей Смолы</string>
@@ -1287,7 +1287,7 @@
     <string name="DapperScale_DESC">"  "</string>
     <string name="DapperFrame_DESC">"  "</string>
     <string name="DapperVIP_DESC">" "</string>
-    <string name="CryoChilled Missile Assembler_DESC">Используются Канистры с Фризоном, накладывается эффект замедления на атакованных врагов. Плюс 15% дополнительного урона!</string>
+    <string name="CryoChilled Missile Assembler_DESC">Используются Баллоны с Фризоном, накладывается эффект замедления на атакованных врагов. Плюс 15% дополнительного урона!</string>
     <string name="Steel Alloy Smelter_DESC">Выплавляет Низкокачественные Стальные Слитки из железа и никеля.</string>
     <string name="Butcherboy Floor Stone_DESC">" "</string>
     <string name="Out_Of_Storage">Нет Места</string>
@@ -1400,7 +1400,7 @@
     <string name="Steel Alloy Smelter">Сталеплавильня</string>
     <string name="Advanced Machine Block Assembler_DESC">Производит Улучшенные Машинные Блоки из Стали и Кристаллических Тактовых Генераторов.</string>
     <string name="Imbued Machine Block Assembler">Сборщик Насыщенных Машинных блоков</string>
-    <string name="Mephitic Missile Assembler_DESC">Используются канистры с Хлором, накладывается отравляющий эффект на атакованных врагов. Плюс 50% дополнительного урона в течение 30 секунд.</string>
+    <string name="Mephitic Missile Assembler_DESC">Используются баллоны с Хлором, накладывается отравляющий эффект на атакованных врагов. Плюс 50% дополнительного урона в течение 30 секунд.</string>
     <string name="Advanced Machine Block Assembler">Сборщик Улучшенных Машинных блоков</string>
     <string name="Next_Ore">След. руда</string>
     <string name="Clearing_Vein">Очистка жилы</string>
@@ -1435,19 +1435,19 @@
     <string name="Alloyed Block Assembler">Сборщик Легированных Блоков</string>
     <string name="Alloyed Block Assembler_DESC">Легирует Золотом Упрочненные Машинные Блоки.</string>
     <string name="HardenedBlock Assembler">Сборщик Упрочнённых Блоков</string>
-    <string name="HardenedBlock Assembler_DESC">Использует Никель и Титан для создания Упрочнённых блоков.</string>
+    <string name="HardenedBlock Assembler_DESC">Создаёт Упрочненные Машинные Блоки из Никеля и Титана.</string>
     <string name="Construction Paste Grinder">Пастомешалка</string>
-    <string name="Construction Paste Grinder_DESC">Измельчает «мусорные» блоки для получения Строительной Пасты.</string>
+    <string name="Construction Paste Grinder_DESC">Перерабатывает «мусорные» блоки в Строительную Пасту.</string>
     <string name="Cluster Missile Crafter">Сборщик Кластерных ракет</string>
-    <string name="Cluster Missile Crafter_DESC">Превращает одну Плазменную ракету в 8 скоростных кластерных ракет, каждая из которых наносит 1/4 от исходного урона. В общем итоге урон исходной ракеты удваивается.</string>
+    <string name="Cluster Missile Crafter_DESC">Берёт 1 Плазменную Ракету и превращает её в 8 быстрых ракет, каждая из которых наносит 1/4 первоначального урона, в общей сложности удваивая урон.</string>
     <string name="ConstructoBot Coppator Chassis Assembler">Сборщик Медировых Корпусов СтройБотов</string>
     <string name="Blast Furnace">Доменная печь</string>
     <string name="Blast Furnace_DESC">" "</string>
     <string name="Continuous Casting Basin">Машина непрерывного литья</string>
     <string name="Continuous Casting Basin_DESC">" "</string>
     <string name="Casting Pipe (Straight)">Литейная Труба (Прямая)</string>
-    <string name="Casting Pipe (Straight)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
-    <string name="Casting Pipe (Bend)_DESC">По этим трубам расплавленный метал течёт из Доменной печи в Машину непрерывного литья</string>
+    <string name="Casting Pipe (Straight)_DESC">По этим трубам расплавленный металл из Доменной печи подаётся в Машину непрерывного литья</string>
+    <string name="Casting Pipe (Bend)_DESC">По этим трубам расплавленный металл из Доменной печи подаётся в Машину непрерывного литья</string>
     <string name="Casting Pipe (Bend)">Литейная Труба (Гнутая)</string>
     <string name="Refinery Reactor Vat Component">Компонент Биореактора</string>
     <string name="Refinery Reactor Vat Component_DESC">Реактор обеспечивает протекание биохимических реакций под высоким давлением. Для изготовления Биореактора расположите компоненты в виде куба 3х3х3. Подсоедините к нему Контроллер Биореактора для запуска в работу.</string>
@@ -1464,7 +1464,7 @@
     <string name="Conduit">Энергетический канал</string>
     <string name="Conduit_DESC">Передаёт энергию между батареями МК4 на расстояние 128 метров со скоростью 10000 ед./с. Строится в конфигурации 3х3х1 на одной из сторон батареи.</string>
     <string name="MK5 Battery Component">Компонент Энергетической батареи МК5</string>
-    <string name="MK5 Battery Component_DESC">Строится по схеме 5х9х5 (всего 225 шт.). Применяется в решениях с самыми большими объемами энергии</string>
+    <string name="MK5 Battery Component_DESC">Строится с основанием 5х5 и высотой 9 (225 блоков). Применяется в решениях с самыми большими объемами энергии</string>
     <string name="MK2 Solar Panel Component">Компонент Солнечной Батареи МК2</string>
     <string name="MK2 Solar Panel Component_DESC">Солнечная Батарея строится в конфигурации, (ДхШхВ): 3х3х1. ТОЛЬКО для установки на верх высокоуровневого оборудования.</string>
     <string name="T4 Energy Turret component">Компонент энергетической турели МК4</string>
@@ -1472,13 +1472,13 @@
     <string name="Fusion Reactor Pylon comp.">Компонент столба термоядерного реактора.</string>
     <string name="Fusion Reactor Pylon comp._DESC">Создайте столб, входящий в конструкцию термоядерного реактора. Используйте монитор термоядерного реактора для помощи по постройке.</string>
     <string name="Geothermal Generator comp.">Компонент Геотермального Генератора</string>
-    <string name="Geothermal Generator comp._DESC">Производит энергию за счёт перепада температур. Строится по схеме 5х5х3.</string>
+    <string name="Geothermal Generator comp._DESC">Производит энергию за счёт перепада температур. Строится с основанием 5х5 и высотой 3 м.</string>
     <string name="Trencher Drill component">Компонент Траншейного Бура</string>
     <string name="Trencher Drill component_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяя с приводом бура</string>
     <string name="Trencher Motor component">Компонент Привода Траншейного Бура</string>
     <string name="Trencher Motor component_DESC">Формирует Привод Траншейного Бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяя с Буром</string>
     <string name="Blast Furnace component">Компонент Доменной печи</string>
-    <string name="Blast Furnace component_DESC">Формирует Доменную печь. Строится по схеме 3х7х3 (всего 63 шт.)</string>
+    <string name="Blast Furnace component_DESC">Формирует Доменную печь. Основание - 3х3, высота - 7. (всего 63 шт.)</string>
     <string name="Casting Basin component">Компонент Машины непрерывного литья</string>
     <string name="Casting Basin component_DESC">Формирует Машину непрерывного литья. Строится с основанием 5х5 и высотой 3 блока (всего 75 шт.)</string>
     <string name="Cargo Lift Controller">Контроллер Грузового Лифта</string>
@@ -1488,19 +1488,19 @@
     <string name="Induction Charger_DESC">Не имеет значения.</string>
     <string name="Climate Control Centre_DESC">Не имеет значения.</string>
     <string name="Climate Control Centre">Центр Климатического Контроля</string>
-    <string name="Cargo Lift Controller_DESC">Размещает Направляющие и обеспечивает функционирование грузового лифта. Строится по схеме 3х1х3</string>
+    <string name="Cargo Lift Controller_DESC">Размещает Направляющие и обеспечивает функционирование грузового лифта. Строится по схеме 3х3 в горизонтальной плоскости</string>
     <string name="Spiderbot Base Component">Компонент Док-станции ПаукоБота</string>
-    <string name="Spiderbot Base Component_DESC">Док-станция позволяет обновлять, перезаряжать и снабжать ПаукоБота. Строится по схеме 15х1х15 (всего 225 шт.).</string>
+    <string name="Spiderbot Base Component_DESC">Док-станция позволяет обновлять и перезаряжать ПаукоБота. Строится по схеме 15х15 (всего 225 шт.) горизонтально.</string>
     <string name="MK2 Organic Solar Component">Компонент Органической Солнечной Батареи МК2</string>
     <string name="MK2 Organic Solar Component_DESC">Создаёт Солнечную Батарею в конфигурации 3х3х1. Генерирует небольшое количество энергии ночью.</string>
     <string name="Hard Rock Grinder">Дробилка Твердой Породы</string>
     <string name="Hard Rock Grinder_DESC">Одноразовое оборудование. Позволяет добыть небольшое количество Хрома или Молибдена. Строится по схеме 3х1х3.</string>
     <string name="MagmaBore Component">Компонент Магма-бура</string>
-    <string name="MagmaBore Component_DESC">Прорезается огромным буром прямо в магмовые пещеры, чтобы заполнить Холодные Пещеры теплом. Строится по схеме 33х3х33 (всего 3276 шт.). Необходимо свободное пространство на расстоянии 8 метров.</string>
+    <string name="MagmaBore Component_DESC">Прорезается огромным буром до пещер с магмой, чтобы заполнить Холодные Пещеры теплом магмы. Строится с основанием 33х33, высотой 3 (3276 блока). Буру требуется 80 метров свободного пространства по высоте.</string>
     <string name="Particle Filter">Фильтр Примесей</string>
     <string name="Particle Filter_DESC">Фильтрует из воздуха полезные частицы. В долгосрочной перспективе не влияет на качество воздуха. Строится по схеме 5х5х3. (всего 75 шт.)</string>
     <string name="Particle Compressor">Компрессор Примесей</string>
-    <string name="Particle Compressor_DESC">Сжимает газ из добытых примесей, подготавливая к хранению и заправке контейнеров. Строится по схеме 3х3х3.</string>
+    <string name="Particle Compressor_DESC">Сжимает отфильтрованные из воздуха газообразные примеси, подготавливая к хранению и заправке контейнеров. Строится по схеме 3х3х3.</string>
     <string name="Particle Storage">Хранилище Примесей</string>
     <string name="Particle Storage_DESC">Хранилище для сжатого газа, подготовленного под заправку контейнеров. Строится по схеме 3х7х3 (всего 63 шт.)</string>
     <string name="Gas Bottler">Газовый Заправщик</string>
@@ -1525,7 +1525,7 @@
     <string name="SpiderBotBase">Док-станция ПаукоБота</string>
     <string name="SpiderBotBase_DESC">" "</string>
     <string name="H.O.D.O.R.">ВРМ.</string>
-    <string name="H.O.D.O.R._DESC">Хватающая Орбитальные Дрейфующие Обломки Ракета позволяет перемещать обломки с орбиты на планету. Строится по схеме 3х3х1.</string>
+    <string name="H.O.D.O.R._DESC">Хватающая Орбитальные Дрейфующие Обломки Ракета позволяет сбивать обломки с орбиты на планету. Строится по схеме 3х3х1.</string>
     <string name="Workfloor Excavator MK1">Площадочный Экскаватор МК1</string>
     <string name="Workfloor Excavator MK2">Площадочный Экскаватор МК2</string>
     <string name="Workfloor Excavator MK3">Площадочный Экскаватор МК3</string>
@@ -1547,7 +1547,7 @@
     <string name="Bomber FALCOR">ФАЛКОР-бомбардировщик</string>
     <string name="Bomber FALCOR_DESC">Бросает бомбы в густые отростки Ползуна. Большая дальность.</string>
     <string name="Freezon Injector">Фризоновый Инжектор</string>
-    <string name="Freezon Injector_DESC">Использует канистры с Фризоном для повышения производительности некоторого оборудования.</string>
+    <string name="Freezon Injector_DESC">Использует баллоны с Фризоном для повышения производительности некоторого оборудования.</string>
     <string name="Ruined Organic Thief">Сломанный Органикрад</string>
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал МК4</string>
@@ -1662,7 +1662,7 @@
     <string name="Fluid Pipe (Bend)">Жидкостная труба (Гнутая)</string>
     <string name="Fluid Pipe (Bend)_DESC">Позволяет соединять между собой соответствующее оборудование. Также подходит для перемещения газов.</string>
     <string name="Airbone Particulate Compressor">Компрессор воздушных примесей</string>
-    <string name="Compressed Gas Storage">Резервуар сжатого Газа</string>
+    <string name="Compressed Gas Storage">Резервуар со сжатыми примесями</string>
     <string name="Compressed Gas Bottler">Заправщик Сжатым Газом</string>
     <string name="Compressed Magma Storage">Хранилище Сжатой Магмы</string>
     <string name="Creep Inferno">Ползунное Инферно</string>
@@ -1692,10 +1692,10 @@
     <string name="ConstructoBot Constructor_DESC">Собирает СтройБотов из подаваемых Рук, Корпуса и Ног.</string>
     <string name="Orbital RailGun Controller">Контроллер Орбитального Рельсотрона</string>
     <string name="Orbital RailGun Induction Ring">Индукционное кольцо Орбитального Рельсотрона</string>
-    <string name="Hydroponics Bay">Отсек гидропоники</string>
+    <string name="Hydroponics Bay">Модуль гидропоники</string>
     <string name="Hydroponics Bay_DESC">Автоматически выращивает растения. Требует установки Купола.</string>
     <string name="Hydroponics Canopy">Гидропонный купол</string>
-    <string name="Hydroponics Canopy_DESC">Расположите его над Отсеком гидропоники, чтобы значительно ускорить рост растений.</string>
+    <string name="Hydroponics Canopy_DESC">Расположите его над Модулем гидропоники, чтобы значительно ускорить рост растений.</string>
     <string name="Emergency Siren_DESC">Подсоедините к оборудованию, для отслеживания его состояния.</string>
     <string name="Red Warning Light_DESC">Подсоедините к оборудованию, для отслеживания его состояния.</string>
     <string name="Warning Strobe_DESC">Подсоедините к оборудованию, для отслеживания его состояния.</string>
@@ -1847,7 +1847,7 @@
     <string name="Power Storage MK3_CRAFT_DESC">Действует как буфер между электрогенераторами и потребителями, сохраняя до 5000 единиц. Смежные Энергохранилища будут делить энергию поровну.</string>
     <string name="Power Storage MK3_CRAFT_HINT">Подключите к оборудованию для его энергоснабжения</string>
     <string name="Induction Charger_CRAFT_DESC">Низкотехнологичный, но простой в использовании способ энергоснабжения большого количества оборудования. Постройте по схеме 5x1x5.</string>
-    <string name="Induction Charger_CRAFT_HINT">Отлично подходит для Ракетных Батарей, Зарядных Устройств и Очистителей Смол!</string>
+    <string name="Induction Charger_CRAFT_HINT">Отлично подходит для Ракетных Батарей, Зарядных Устройств и Очистителей Смолы!</string>
     <string name="Garbage Thief_CRAFT_DESC">Удобный способ удаления нежелательного мусора и прочей грязи из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подключенный Бункер.</string>
     <string name="Garbage Thief_CRAFT_HINT">Не время лениться!</string>
     <string name="Bar Keeper_CRAFT_DESC">Автоматически удаляет слитки у игроков, когда они покидают сервер. Не слишком полезен для одиночной игры. Работает как Рудокрад, но для слитков! Постройте по схеме 3x3.</string>
@@ -1930,7 +1930,7 @@
     <string name="Turret MK3_CRAFT_DESC">Защита для больших расстояний. Дальность 72 метра. Низкая скорострельность, но высокий урон. Требуется энергия.</string>
     <string name="Turret MK3_CRAFT_HINT">Усовершенствуйте свои Турели МК2 с помощью дропа с врагов.</string>
     <string name="Missile Turret MK1_CRAFT_DESC">Высокомощная система ракетной обороны. Будет нацелена только на крупных врагов. Боеприпасы должны быть изготовлены и храниться в соседнем Накопительном Бункере. Имеет минимальный радиус действия в 64 метра.</string>
-    <string name="Missile Turret MK1_CRAFT_HINT">Требуются специально созданные ракеты.</string>
+    <string name="Missile Turret MK1_CRAFT_HINT">Для осуществления оборонной функции, нужно заряжать производимыми ракетами.</string>
     <string name="Threat Scanner_CRAFT_DESC">Предоставляет систему раннего предупреждения. Оценивает угрозу, создаваемую вашей базой, и время до следующей атаки.</string>
     <string name="Threat Scanner_CRAFT_HINT">Разместите несколько установок для триангуляции источника опасности.</string>
     <string name="Hard Resin Detector_CRAFT_DESC">Указывает и даёт информацию о ближайших кластерах с растущей Твердой Смолой.</string>
@@ -1985,27 +1985,27 @@
     <string name="Construction Paste Grinder_CRAFT_HINT">Мило.</string>
     <string name="Pipe Extrusion Plant_CRAFT_DESC">Конвейерное оборудование для автоматического преобразования Слитков в Трубы. Не требует энергоснабжения или Накопительных Бункеров.</string>
     <string name="Pipe Extrusion Plant_CRAFT_HINT">Самое то для автоматизации</string>
-    <string name="Fuel Canister Crafter_CRAFT_DESC">Простой способ создания Пустые Топливные Канистры.</string>
+    <string name="Fuel Canister Crafter_CRAFT_DESC">Простой способ создания Пустых Топливных Канистр.</string>
     <string name="Fuel Canister Crafter_CRAFT_HINT">Отлично подходит для топлива!</string>
     <string name="Empty Missile Assembler_CRAFT_DESC">Автоматически производит Пустые ракеты. Требуется энергия и прикрепленные Накопительные Бункеры, содержащие ингредиенты. Выдает ракеты в прикрепленные Накопительные Бункеры.</string>
-    <string name="Empty Missile Assembler_CRAFT_HINT">Эти ракеты нуждаются в заправке, прежде чем они будут полезны!</string>
-    <string name="Missile Fueller_CRAFT_DESC">Автоматически наполняет Пустые ракеты. Требуется энергия и прикрепленные Накопительные Бункеры, содержащие ингредиенты. Выдает ракеты в прикрепленные Накопительные Бункеры.</string>
-    <string name="Missile Fueller_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
+    <string name="Empty Missile Assembler_CRAFT_HINT">Пустые Ракеты нужно заправить, прежде чем их можно будет использовать!</string>
+    <string name="Missile Fueller_CRAFT_DESC">Автоматически заправляет Пустые ракеты. Требуется энергия, Пустые Ракеты и ВЭКТ. Выгружает ракеты в прикрепленные Бункеры.</string>
+    <string name="Missile Fueller_CRAFT_HINT">Теперь ракеты будут готовы к запуску!</string>
     <string name="Laser Resin Ablator_CRAFT_DESC">Использует концентрированные потоки энергии для абляции поверхности Твёрдой Смолы, что позволяет её сжижать, а затем очищать.</string>
-    <string name="Laser Resin Ablator_CRAFT_HINT">Отлично подходит для очистки мертвых Разумов Роя для полезных материалов.</string>
+    <string name="Laser Resin Ablator_CRAFT_HINT">Это оборудование создано для сбора полезного ресурса - Смолы, источаемой Разумами Роя.</string>
     <string name="Laser Resin Liquifier_CRAFT_DESC">Разжижает и удаляет потоком плазмы мягкую Аблированную Смолу, оставшуюся после абляции Твёрдой Смолы. Прикрепите Накопительный Бункер.</string>
-    <string name="Laser Resin Liquifier_CRAFT_HINT">Отлично подходит для очистки мертвых Разумов Роя для полезных материалов.</string>
+    <string name="Laser Resin Liquifier_CRAFT_HINT">Это оборудование создано для сбора полезного ресурса - Смолы, источаемой Разумами Роя.</string>
     <string name="Liquid Resin Refiner_CRAFT_DESC">Преобразует Текучую Смолу в чрезвычайно полезную Очищенную Жидкую Смолу.</string>
-    <string name="Liquid Resin Refiner_CRAFT_HINT">Используется в ряде высокотехнологичных органических рецептов.</string>
+    <string name="Liquid Resin Refiner_CRAFT_HINT">Используется в ряде высокотехнологичных рецептов, использующих органику.</string>
     <string name="Solar Cell MK1_CRAFT_DESC">Повышает эффективность солнечных панелей вашего костюма. Требуется в одном экземпляре для переноса в инвентаре. Требуется Гидроабразивный Резак.</string>
     <string name="Solar Cell MK1_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр! Может производиться только при наличии Гидроабразивного Резка.</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Увеличивает мощность обогрева костюма, защищая вас от сильного холода. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="Suit Heater MK1_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр.</string>
     <string name="Suit Power Pack MK1_CRAFT_DESC">Удваивает Энергоёмкость вашего костюма. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="Suit Power Pack MK1_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр! Может производиться только при наличии Гидроабразивного Резка.</string>
-    <string name="Suit Power Pack MK2_CRAFT_DESC">Четырёхкратная Энергоёмкость вашего костюма. Требуется в одном экземпляре переноса в инвентаре.</string>
+    <string name="Suit Power Pack MK2_CRAFT_DESC">Увеличивает энергоёмкость вашего костюма в 4 раза. Требуется в одном экземпляре переноса в инвентаре.</string>
     <string name="Suit Power Pack MK2_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр!</string>
-    <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Преобразует ВСЕ предыдущие обновления костюма в супер-пупер Всё В Одном™. Отлично.</string>
+    <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Преобразует ВСЕ предыдущие обновления костюма в супер-пупер Всё-В-Одном™. Шик.</string>
     <string name="MK1 Suit Upgrade Module_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр!</string>
     <string name="Suit Headlight MK1_CRAFT_DESC">Уменьшает потребление энергии фонарём вашего костюма. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="Suit Headlight MK1_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр</string>
@@ -2031,9 +2031,9 @@
     <string name="Jet Turbine Generator Intake_CRAFT_HINT">Патрубок Газотурбинного Генератора должен размещаться на вертикальной стороне корпуса с размером 3х3.</string>
     <string name="ARTHER Power Core_CRAFT_DESC">Устраняет повреждения АРЧЕРа, позволяя ему уверенно перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Power Core_CRAFT_HINT">Позволяет АРЧЕРу снова перемещаться. Требуется в одном экземпляре для переноса в инвентаре.</string>
-    <string name="ARTHER Battery Core_CRAFT_DESC">Позволяет АРЧЕРу сохранять заряд в 8 раз больше, который он может передать вам если у вас заканчивается энергия. Требуется в одном экземпляре для переноса в инвентаре.</string>
+    <string name="ARTHER Battery Core_CRAFT_DESC">Позволяет АРЧЕРу сохранять заряд в 8 раз больше, который он может передать вам, если у вас заканчивается энергия. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Battery Core_CRAFT_HINT">Позволяет АРЧЕРу собирать больше энергии</string>
-    <string name="ARTHER Solar Panel_CRAFT_DESC">Увеличивает скорость, с которой АРЧЕР восстанавливает энергию от солнечного света. Требуется в одном экземпляре для переноса в инвентаре..</string>
+    <string name="ARTHER Solar Panel_CRAFT_DESC">Увеличивает скорость, с которой АРЧЕР восстанавливает энергию от солнечного света. Требуется в одном экземпляре для переноса в инвентаре.</string>
     <string name="ARTHER Solar Panel_CRAFT_HINT">Позволяет АРЧЕРу собирать энергию быстрее</string>
     <string name="ARTHER Upgrade Pack_CRAFT_DESC">Объединяет Солнечную Батарею, Ядро и Батареи. Используйте это, чтобы сэкономить место в инвентаре.</string>
     <string name="ARTHER Upgrade Pack_CRAFT_HINT">Используйте это, чтобы сохранить место в инвентаре.</string>
@@ -2043,18 +2043,18 @@
     <string name="ARTHER Dapper Hat_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_DESC">Монокль АРЧЕРа. Доступен при наличии Dapper Indie Supporter DLC.</string>
     <string name="ARTHER Dapper Monocle_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
-    <string name="CryoMine_CRAFT_DESC">Автоматически детонирующие Хлорные Мины позволяют вам избегать областей Криоплазмы.</string>
+    <string name="CryoMine_CRAFT_DESC">Автоматически детонирующие Хлорные Мины позволяют вам очищать от Криоплазмы обширные области.</string>
     <string name="CryoMine_CRAFT_HINT">Это. Не. Вдыхать. Договорились?</string>
     <string name="Basic Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 200% за счет увеличения потребления энергии.</string>
-    <string name="Basic Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 200%. Потребляет намного больше энергии!</string>
+    <string name="Basic Drill Motor_CRAFT_HINT">Увеличивает скорость загрузки руды до 200%. Потребляет намного больше энергии!</string>
     <string name="Enhanced Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 400% за счет увеличения потребления энергии.</string>
-    <string name="Enhanced Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 400%</string>
+    <string name="Enhanced Drill Motor_CRAFT_HINT">Увеличивает скорость загрузки руды до 400%</string>
     <string name="Magnetic Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 800% за счет увеличения потребления энергии.</string>
-    <string name="Magnetic Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 800%</string>
+    <string name="Magnetic Drill Motor_CRAFT_HINT">Увеличивает скорость загрузки руды до 800%</string>
     <string name="Fusion Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 1600% за счет увеличения потребления энергии.</string>
-    <string name="Fusion Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 1600%</string>
+    <string name="Fusion Drill Motor_CRAFT_HINT">Увеличивает скорость загрузки руды до 1600%</string>
     <string name="Antimatter Drill Motor_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить скорость добычи до 3200% за счет увеличения потребления энергии.</string>
-    <string name="Antimatter Drill Motor_CRAFT_HINT">Увеличивает скорость сбора руды до 3200%</string>
+    <string name="Antimatter Drill Motor_CRAFT_HINT">Увеличивает скорость загрузки руды до 3200%</string>
     <string name="Steel Cutter Head_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить эффективность на 20% за счет снижения потерь руды. Кроме того, позволяет добывать более прочные материалы.</string>
     <string name="Steel Cutter Head_CRAFT_HINT">Более высокая эффективность означает, что Экстрактор даст бОльший выход руды. Скорость добычи не увеличивается.</string>
     <string name="Crystal Cutter Head_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить эффективность на 30% за счет снижения потерь руды. Кроме того, позволяет добывать более прочные породы.</string>
@@ -2080,7 +2080,7 @@
     <string name="Exceptional Organic Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 250%.</string>
     <string name="Exceptional Organic Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 250%</string>
     <string name="Empty Fuel Canister_CRAFT_DESC">Пустая Топливная Канистра. Будьте «Зелеными» - используйте повторно, где это возможно!</string>
-    <string name="Empty Fuel Canister_CRAFT_HINT">Будьте «Зелеными» - используйте в качестве вторсырья!</string>
+    <string name="Empty Fuel Canister_CRAFT_HINT">Будьте «Зелеными» - используйте повторно!</string>
     <string name="Alloyed Machine Block_CRAFT_DESC">Подсказка: это неэффективный способ изготовления данных блоков. Автоматизация может быть намного эффективнее производства вручную.</string>
     <string name="Alloyed Machine Block_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать их!</string>
     <string name="Hardened Machine Block_CRAFT_DESC">Подсказка: это неэффективный способ изготовления данных блоков. Автоматизация может быть намного эффективнее производства вручную.</string>
@@ -2217,18 +2217,18 @@
     <string name="Laboratory Component_CRAFT_HINT">Лаборатория строится по схеме 3х3х3 (всего 27 шт.).</string>
     <string name="Neon Border_CRAFT_DESC">Спасибо TadForever: Все ошибки имеют свое применение. www.patreon.com/FortressCraft</string>
     <string name="Neon Border_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
-    <string name="CryoHopper_CRAFT_DESC">Сохраняет до 50 единиц. Используется для хранения замороженных объектов. Это может значительно увеличит срок годности Испорченной Органики.</string>
+    <string name="CryoHopper_CRAFT_DESC">Сохраняет до 50 предметов. Используется для хранения в замороженном состоянии. Помогает значительно увеличить срок годности Испорченной Органики.</string>
     <string name="CryoHopper_CRAFT_HINT">Если поместить в холодное место, он будет потреблять гораздо меньше энергии.</string>
     <string name="Organic Reassembler_CRAFT_DESC">Загружайте 10 шт. Испорченной Органики и получите единицу Рекомбинированной Органики.</string>
     <string name="Organic Reassembler_CRAFT_HINT">Рекомбинированную Органику можно использовать для создания самодельных Органических Компонентов.</string>
     <string name="Coal Enricher_CRAFT_DESC">Преобразуйте Измельчитель, используя железы Ос и Слизней, чтобы получить вдвое больше энергии от сжигания Угля. Не требует дополнительных ресурсов для функционирования - просто подайте немного энергии!</string>
-    <string name="Coal Enricher_CRAFT_HINT">Дает почти 2-кратный выигрыш при сжигании Угля.</string>
+    <string name="Coal Enricher_CRAFT_HINT">Дает почти 2-кратный выход энергии, в сравнении со сжиганием обычного Угля.</string>
     <string name="Crystal Coal Infuser_CRAFT_DESC">Преобразуйте Измельчитель, используя Кристаллы для дальнейшего улучшения Обогащенного Угля с помощью Кристаллических Отложений, ещё раз удвоив выход энергии.</string>
-    <string name="Crystal Coal Infuser_CRAFT_HINT">Дает почти 4-кратный выигрыш в сжигании Угля.</string>
+    <string name="Crystal Coal Infuser_CRAFT_HINT">Дает почти 4-кратный выход энергии, в сравнении со сжиганием обычного Угля.</string>
     <string name="Plasma Head Charger_CRAFT_DESC">Использует большое количество энергии для накачки стандартных Стальных Фрез плазменной энергией.</string>
-    <string name="Plasma Head Charger_CRAFT_HINT">Дает четырёхкратную скорость Экстрактора Руды, но заряд заканчивается после 2000 шт. добытой руды.</string>
+    <string name="Plasma Head Charger_CRAFT_HINT">Позволяет повысить эффективность Экстрактора Руды в 4 раза, но заряд заканчивается после 2000 ед. добытой руды.</string>
     <string name="Climate Control Centre_CRAFT_DESC">Центр Климат-Контроля Холодных Пещер (ЦКК) необходим для терраформирования холодных пещер, преобразуя их в гостеприимную среду. Всё оборудование уровня Т4 требует функционирования ЦКК. Всего 175 шт. блоков.</string>
-    <string name="Climate Control Centre_CRAFT_HINT">Строится по схеме 5х7х5.</string>
+    <string name="Climate Control Centre_CRAFT_HINT">Строится с основанием 5х5 и высотой 7 м.</string>
     <string name="Trencher Drill component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
     <string name="Trencher Drill component_CRAFT_HINT">Эффективность зависит от степени охвата жилы буром</string>
     <string name="Trencher Drill Mk2 component_CRAFT_DESC">Формирует рабочую часть траншейного бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с приводом бура.</string>
@@ -2237,9 +2237,9 @@
     <string name="Trencher Drill Mk3 component_CRAFT_HINT">Эффективность зависит от степени охвата жилы буром</string>
     <string name="Trencher Motor component_CRAFT_DESC">Формирует Привод Траншейного Бура. Строится по схеме 3х3х3 (всего 27 шт.), соединяясь с Буром.</string>
     <string name="Trencher Motor component_CRAFT_HINT">Потребляет энергию и добывает буром в руду.</string>
-    <string name="Geothermal Generator comp._CRAFT_DESC">Геотермальный Генератор. Установите в холодной области и подключите к нему теплопроводящие трубы. Строится по схеме 5х3х5 (всего 75 шт.)</string>
+    <string name="Geothermal Generator comp._CRAFT_DESC">Геотермальный Генератор. Установите в холодных пещерах и загрузите в него теплопроводящие трубы. Строится с основанием 5х5, высотой 3 (75 блоков)</string>
     <string name="Geothermal Generator comp._CRAFT_HINT">Производит много энергии.</string>
-    <string name="Hard Rock Grinder_CRAFT_DESC">Позволит нам медленно и неэффективно размалывать руды 4 уровня. С помощью новых руд мы можем строить новое оборудование! Строится по схеме 3х1х3.</string>
+    <string name="Hard Rock Grinder_CRAFT_DESC">Позволяет медленно и неэффективно добывать руды 4 уровня, из которых можно изготовить новое оборудование! Строится по схеме 3х1х3.</string>
     <string name="Hard Rock Grinder_CRAFT_HINT">ОБОРУДОВАНИЕ ОДНОРАЗОВОГО ПРИМЕНЕНИЯ!</string>
     <string name="ARTHER Goblin Mask_CRAFT_DESC">Изготавливается из Зелёного стручка, что даёт приятное зеленое свечение.</string>
     <string name="ARTHER Goblin Mask_CRAFT_HINT">БууУуууУуУ! Йа ГоБлИн!</string>
@@ -2250,7 +2250,7 @@
     <string name="ARTHER Skeleton Mask_CRAFT_DESC">Помните, как вы измельчали те растения? Ну так нате вам за это маску.</string>
     <string name="ARTHER Skeleton Mask_CRAFT_HINT">Ты-ы-ы-ды-ы-ы-щ!</string>
     <string name="ARTHER Pumpkin Mask_CRAFT_DESC">Изготавливается из Оранжевого стручка, что даёт приятное оранжевое свечение.</string>
-    <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Оооо-ООООО-ооооо!</string>
+    <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Уууу-УУУУ-ууууу!</string>
     <string name="Laser Borer_CRAFT_HINT">Внимание! Опасно! Перед подачей топлива убедитесь, что он правильно установлен.</string>
     <string name="Laser Borer_CRAFT_DESC">Использует ВЭКТ, чтобы усилить БЕЛ-9000 для бурения вертикальных шахт сечением 3х3 и с огромной скоростью добывать полезные ископаемые. Заправьте ВЭК-Топливом через прикрепленный Накопительный Бункер. Строится по схеме 3х3х3.</string>
     <string name="MK1 PowerCore Charger_CRAFT_DESC">Создает оборудование, способное автоматически изготавливать Энергоячейки. Энергоячейка даст энергию АРЧЕРу. Поместите в панель быстрого доступа, чтобы использовать.</string>
@@ -2441,7 +2441,7 @@
     <string name="ARTHER Ghost Mask_CRAFT_HINT">Бу-у-у-у.</string>
     <string name="ARTHER Turret_CRAFT_DESC">Оборонительная турель, которая будет работать только при установленном в неё АРЧЕРе. Радиус поражения - 64 метра, малое потребление энергии. Идеально подходит для защиты конвейеров на начальном этапе!</string>
     <string name="ARTHER Turret_CRAFT_HINT">Подсказка: это идеальное устройство для охраны 128 метров конвейеров.</string>
-    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать Криоплазму на очень большой дистанции. Полезно для сдерживания основных направлений атаки.</string>
+    <string name="CryoPlasm Dazzler Turret_CRAFT_DESC">Позволяет уничтожать Криоплазму на очень большой дистанции. Полезно для отражения атак по основным направлениям.</string>
     <string name="CryoPlasm Dazzler Turret_CRAFT_HINT">Строится по схеме 3х3х3.</string>
     <string name="Iron Gear_CRAFT_DESC">Скошенная шестерня, применяющаяся в различных приводах и передачах.</string>
     <string name="Iron Gear_CRAFT_HINT">Скошенные работают тише!</string>
@@ -2516,50 +2516,50 @@
     <string name="Dyed Marble_CRAFT_DESC">Спасибо MKMarq: Роскошные материалы для выживания с шиком! www.patreon.com/FortressCraft</string>
     <string name="Dyed Marble_CRAFT_HINT">Хотите помочь? www.patreon.com/FortressCraft</string>
     <string name="Pristine Heavy Chitin_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Pristine Heavy Chitin_CRAFT_HINT">Испорченная органика должна быть замороженной!</string>
+    <string name="Pristine Heavy Chitin_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Pristine Light Chitin_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Pristine Light Chitin_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
+    <string name="Pristine Light Chitin_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Pristine Stinger_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Pristine Stinger_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
+    <string name="Pristine Stinger_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Pristine Phosphorescent Gland_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Pristine Phosphorescent Gland_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
+    <string name="Pristine Phosphorescent Gland_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Pristine Faceted Eye_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Pristine Faceted Eye_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
+    <string name="Pristine Faceted Eye_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Perfect Faceted Eye_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Perfect Faceted Eye_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
+    <string name="Perfect Faceted Eye_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
     <string name="Massive Faceted Eye_CRAFT_DESC">Используется в ряде полезных рецептов.</string>
-    <string name="Massive Faceted Eye_CRAFT_HINT">Испорченная Органика должна быть замороженной!</string>
-    <string name="Casting Basin component_CRAFT_DESC">Быстро превращает жидкий металл в слитки. Способна работать с хромом и молибденом. Строится по схеме 5дх5шх3в (всего 75 шт.)</string>
+    <string name="Massive Faceted Eye_CRAFT_HINT">Испорченная Органика должна храниться в холоде!</string>
+    <string name="Casting Basin component_CRAFT_DESC">Быстро льёт слитки из жидкого металла, подаваемого по литьевым трубам из Доменной Печи. Способна работать с хромом и молибденом. Габариты: 5дх5шх3в (75 блоков)</string>
     <string name="Casting Basin component_CRAFT_HINT">Присоедините к четырём Доменным печам для достижения максимальной эффективности.</string>
-    <string name="Blast Furnace component_CRAFT_DESC">Превращает руду в жидкий металл с высокой скоростью. Способна работать с хромом и молибденом. Строится по схеме 3х7х3.</string>
+    <string name="Blast Furnace component_CRAFT_DESC">Очень быстро плавит руду в жидкий металл. Способна работать с хромом и молибденом. Строится с основанием 3х3 высотой 7.</string>
     <string name="Blast Furnace component_CRAFT_HINT">Используйте Трубы для подключения.</string>
     <string name="Casting Pipe (Straight)_CRAFT_DESC">Используется для подключения Доменных печей к Машинам непрерывного литья.</string>
     <string name="Casting Pipe (Straight)_CRAFT_HINT">Используйте Трубы для подключения.</string>
     <string name="Casting Pipe (Bend)_CRAFT_DESC">Используется для подключения Доменных печей к Машинам непрерывного литья.</string>
-    <string name="Casting Pipe (Bend)_CRAFT_HINT">Используйте Трубы для подключения.</string>
-    <string name="Mesh Weaver_CRAFT_DESC">Создаёт Кристаллическую Сетку.</string>
-    <string name="Mesh Weaver_CRAFT_HINT">Никаких признаков.</string>
+    <string name="Casting Pipe (Bend)_CRAFT_HINT">Для подключения используйте Трубы.</string>
+    <string name="Mesh Weaver_CRAFT_DESC">Плетёт Кристаллическую Сетку из Кристаллических отложений.</string>
+    <string name="Mesh Weaver_CRAFT_HINT">Нет подсказок.</string>
     <string name="Pipe Coater_CRAFT_DESC">Создаёт теплопроводящие трубы, используемые в Геотермальном Генераторе.</string>
-    <string name="Pipe Coater_CRAFT_HINT">Никаких признаков.</string>
-    <string name="Particle Filter_CRAFT_DESC">Фильтрует из воздуха полезные частицы. Строится по схеме 5х3х5. (всего 75 шт.).</string>
+    <string name="Pipe Coater_CRAFT_HINT">Нет подсказок.</string>
+    <string name="Particle Filter_CRAFT_DESC">Фильтрует из воздуха полезные частицы. Строится с основанием 5х5 и высотой 3 м. (всего 75 блоков).</string>
     <string name="Particle Filter_CRAFT_HINT">Маловероятно долгосрочное влияние на качество воздуха.</string>
-    <string name="Particle Compressor_CRAFT_DESC">Сжимает газ из добытых примесей, подготавливая к хранению и заправке контейнеров. Строится по схеме 3х3х3 (всего 27 шт.).</string>
-    <string name="Particle Compressor_CRAFT_HINT">Это оборудование может иметь 4 Фильтра, прикрепленные к нему.</string>
-    <string name="Particle Storage_CRAFT_DESC">Хранилище для сжатого газа, подготовленного под заправку контейнеров. Строится по схеме 3х7х3 (всего 63 шт.).</string>
-    <string name="Particle Storage_CRAFT_HINT">Это оборудование может иметь 4 Фильтра, прикрепленные к нему.</string>
-    <string name="Gas Bottler_CRAFT_DESC">Впрыскивает сжатый газ в контейнеры. Строится по схеме 3х3х9 (всего 81 шт.).</string>
-    <string name="Gas Bottler_CRAFT_HINT">Все прикрепленные Накопительные Бункеры получат сжатый газ.</string>
+    <string name="Particle Compressor_CRAFT_DESC">Сжимает добытые газообразные примеси, подготавливая к хранению и заправке контейнеров. Строится по схеме 3х3х3 (всего 27 шт.).</string>
+    <string name="Particle Compressor_CRAFT_HINT">К этому оборудованию можно подсоединить до 4 Фильтров Примесей.</string>
+    <string name="Particle Storage_CRAFT_DESC">Хранилище для сжатых примесей, подготовленных к заправке в контейнеры. Габариты: 3х3 в поперечнике, высотой 7 м (63 блока).</string>
+    <string name="Particle Storage_CRAFT_HINT">К этому оборудованию можно подсоединить до 4 Компрессоров Примесей.</string>
+    <string name="Gas Bottler_CRAFT_DESC">Впрыскивает сжатые примеси в контейнеры. Строится с основанием 3х9 высотой 3 м (81 блок).</string>
+    <string name="Gas Bottler_CRAFT_HINT">В прикрепленные Бункеры будут подаваться баллоны со сжатым газом.</string>
     <string name="Fluid Pipe (Straight)_CRAFT_DESC">Используется для соединения различного оборудования. Через меню производства вручную преобразуется в поворотный отвод («колено»).</string>
     <string name="Fluid Pipe (Straight)_CRAFT_HINT">Если оно не светится, вероятно, оно не на том месте!</string>
     <string name="Fluid Pipe (Bend)_CRAFT_DESC">Используется для соединения различного оборудования.</string>
     <string name="Fluid Pipe (Bend)_CRAFT_HINT">Если оно не светится, вероятно, оно не на том месте!</string>
-    <string name="MagmaBore Component_CRAFT_DESC">Копает очень, очень, очень большую дыру, затем наливает магму через нее. Строится по схеме 33х3х33 (всего 3267 шт.)</string>
+    <string name="MagmaBore Component_CRAFT_DESC">Копает очень, очень, очень большую дыру, затем выкачивает через неё магму. Строится с основанием 33х33 высотой 3 м (3267 блоков)</string>
     <string name="MagmaBore Component_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Magma Storage_CRAFT_DESC">Хранит Магму и перекачивает её в Крио-Инферно через Жидкостные трубы. Строится по схеме 3х7х3 (всего 63 шт.).</string>
     <string name="Magma Storage_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник Криоплазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
     <string name="Cryo Inferno_CRAFT_HINT">Требуется 15 минут сжигания с максимальным временем прерывания 30 секунд. Удачи.</string>
-    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы ввести Канистры со Сжатым Фризоном в совместимое оборудование.</string>
+    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы подать Баллоны со Сжатым Фризоном в совместимое оборудование.</string>
     <string name="Freezon Injector_CRAFT_HINT">Посмотрите в справочнике список совместимого оборудования и эффектов.</string>
     <string name="OverClocker_CRAFT_DESC">Разгоняет существующие Кристаллические Тактовые Генераторы на более высокую частоту, используя для этого больше энергии.</string>
     <string name="OverClocker_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -2573,19 +2573,19 @@
   *На самом деле нет.</string>
     <string name="AI Mover Control_CRAFT_HINT">Дешевый и скверный, но надежный*
  *На самом деле нет.</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Принимает Ракеты и Жала и производит бронебойные ракеты.</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Создаёт Бронебойные Ракеты из Плазменных Ракет и Жал.</string>
     <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Warhead Imbuer_CRAFT_DESC">Принимает Базовые Ракеты и 50 000 единиц энергии, чтобы наполнить их еще большей энергией.</string>
+    <string name="Warhead Imbuer_CRAFT_DESC">Преобразует Базовые Ракеты в Плазменные Ракеты, затрачивая 50 000 единиц энергии. Ракеты с плазменной боеголовкой в 3 раза мощнее обычных.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Cluster Missile Crafter_CRAFT_DESC">Принимает одну Ракету и превращает ее в 8 быстрых ракет, каждая из которых наносит 1/4 первоначального урона, в общей сложности удваивая урон.</string>
+    <string name="Cluster Missile Crafter_CRAFT_DESC">Берёт 1 Плазменную Ракету и превращает её в 8 быстрых ракет, каждая из которых наносит 1/4 первоначального урона, в общей сложности удваивая урон.</string>
     <string name="Cluster Missile Crafter_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="Mephitic Missile Assembler_CRAFT_DESC">Улучшает Ракеты и наносит 50% урона с течением времени.</string>
+    <string name="Mephitic Missile Assembler_CRAFT_DESC">Улучшает Плазменные Ракеты и добавляет 50% урона, наносимого с течением времени.</string>
     <string name="Mephitic Missile Assembler_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
-    <string name="CryoChilled Missile Assembler_CRAFT_DESC">Улучшает Ракеты и добавляет сильный замедляющий эффект.</string>
+    <string name="CryoChilled Missile Assembler_CRAFT_DESC">Улучшает Плазменные Ракеты и добавляет сильный замедляющий эффект.</string>
     <string name="CryoChilled Missile Assembler_CRAFT_HINT">Эти ракеты готовы к запуску!</string>
     <string name="Hydrojet Cutter_CRAFT_DESC">Модернизированный модуль для Завода, позволяет производить модернизацию костюма. Должен быть помещен на Завод.</string>
     <string name="Hydrojet Cutter_CRAFT_HINT">Это ДОЛЖНО быть размещено на вашем Заводе.</string>
-    <string name="CryoPlasm Lancer_CRAFT_DESC">Позволяет отчищать Криоплазму на очень короткой дистанции. Полезно для поддержания Усиков в страхе.</string>
+    <string name="CryoPlasm Lancer_CRAFT_DESC">Позволяет уничтожать Криоплазму на очень короткой дистанции. Полезно для сдерживания отростков.</string>
     <string name="CryoPlasm Lancer_CRAFT_HINT">Это базовая турель; используйте её в сочетании с более совершенным оружием.</string>
     <string name="CryoPlasm Melter_CRAFT_DESC">Позволяет плавить Криоплазму на средней дистанции. Полезно для направления Криоплазмы в уничтожитель.</string>
     <string name="CryoPlasm Melter_CRAFT_HINT">Отлично работает в паре с Блеск-Турелью.</string>
@@ -2606,7 +2606,7 @@
 	<string name="MISSION_Clearing">– начата очистка.</string>
 	<string name="MISSION_Crystal_Offline">Неактивные Экстракторы кристал. отложений</string>
 	<string name="MISSION_Inactive_PTGs">Неактивные ПТГ.</string>
-	<string name="MISSION_Many Items">" предметов на земле! Нужны ФАЛКОРы!"</string>
+	<string name="MISSION_Many Items">" _предметов на земле! Нужны ФАЛКОРы!"</string>
 	<string name="MISSION_More Conveyors">больше конвейеров.</string>
 	<string name="MISSION_More Torches">" больше Факелов для согрева!"</string>
 	<string name="MISSION_OES_Offline">неактивных Экстракторов!</string>
@@ -2793,7 +2793,7 @@
   <string name="Hint_45">Базовая Плавильня - ключ к увеличению объёмов производства, пока вам недоступны металлы более высокого уровня.</string>
   <string name="Hint_46">Много чего можно превратить в Строительную Пасту - не только всякий мусор. Например, можно превратить в пасту Уголь.</string>
   <string name="Unspent_RP">Неизрасходованные Очки Исследования</string>
-<string name="Hint_48">Миноки на конвейерах кормят Рой. Защити конвейеры от этих тварей!</string>
+<string name="Hint_48">Миноки на конвейерах кормят Разум Роя. Защити конвейеры от этих тварей!</string>
   <string name="Hint_63">Разум Роя можно специально подкармливать!</string>
   <string name="Hint_49">Мягкая Смола может порождать червей. Будьте осторожны.</string>
   <string name="Hint_59">Будьте осторожны с Мягкой Смолой - там могут зарождаться черви.</string>
@@ -2949,7 +2949,7 @@
 <string name="not_collecting_ore">шт. неактивно</string>
 <string name="used">использовано</string>
 <string name="Enriched">Обогащенный</string>
-<string name="Mynocks_detected">Обнаружены Миноки</string>
+<string name="Mynocks_detected">шт. миноков обнаружено</string>
 <string name="Research_Progress">Ход исследований</string>
 <string name="Extensive_Mynock_Infestation">Обнаружено обширное заражение Миноками. Откройте Голобазу (H), чтобы сориентироваться и установить Турели в местах заражения</string>
 <string name="Automate_Extraction_Smelting_Tin_and_Copper">Автоматизируйте добычу и выплавку Олова и Меди</string>
@@ -2980,7 +2980,7 @@
 <string name="Ore_Thief_3k">Рудокрад</string>
 <string name="LPTs">ЛЭП</string>
 <string name="No_MS_system_detected">Не обнаружен Склад</string>
-<string name="MS_Crates_with">- всего ящиков на складе. Места занято:</string>
+<string name="MS_Crates_with">- всего ящиков на складах. Места занято:</string>
 <string name="used_of">из</string>
 <string name="Recommendation">Рекомендация</string>
 
@@ -3514,7 +3514,7 @@
   <string name="Collect_items_above_limit">Накапливать при превышении предела</string>
   <string name="Processing">Обработка...</string>
   <string name="Mini_Hopper_Small_Very_Slow">Мини-Бункер (Маленький и очень медленный)</string>
-  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Логистический Бункер (Маленький и медленноватый)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Логистический Бункер</string>
   <string name="Internal_Temp_X_C_Power_X">Внутр. температура: {0}°C. Энергия: {1}</string>
   <string name="Hopper_full">Бункер полон!</string>
   <string name="Q_to_retrieve_contents">«Q» - забрать содержимое</string>
@@ -3629,12 +3629,12 @@
 <string name="Waiting_for_gas_from_Particulate_Compressor">Ожидание газа от Компрессора примесей.</string>
   <string name="Particulate_Compressor">Компрессор примесей</string>
   <string name="Error_no_particulates_found">Ошибка, примеси не обнаружены.</string>
-  <string name="Particulate_Filter">Примесный Фильтр</string>
+  <string name="Particulate_Filter">Фильтр Примесей</string>
   <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Примеси не обнаружены.
 Расположите в объёме с примесями.</string>
-  <string name="Connected_to_Particulate_Compressor">Подсоединено к Компрессору.</string>
+  <string name="Connected_to_Particulate_Compressor">Подсоединён к Компрессору.</string>
   <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Очистка завершена! КриоПазмы не обнаружено. Ожидание...</string>
-<string name="Melted">Выплавлено</string>
+<string name="Melted">Оплавено</string>
 <string name="s_since_last_firing">сек с последнего выстрела.</string>
 <string name="You_lasted">Вы продержались:</string>
 <string name="You_selected">Выбрано:</string>
@@ -3670,14 +3670,14 @@
   <string name="CPH_Offline_filtration_paused">ЦЭК выведен из строя - фильтрация приостановлена!</string>
   <string name="POWER_LOW">МАЛО ЭНЕРГИИ!</string>
   <string name="Filtering_using_X_PPS">Для фильтрации нужно {0} Э/с</string>
-  <string name="X_stored">{0} - хранится.</string>
+  <string name="X_stored">{0} (накоплено).</string>
   <string name="Dist_X_X">Расст.: {0}/{1}</string>
   <string name="Temperature_X">Температура {0}°C</string>
   <string name="Liquified_Resin_Needed_X">Необходимо Жидкой Смолы: {0}</string>
   
 <string name="Power_Cost">Энергозатраты:</string>
   <string name="Empty_Waypoint">Отметки нет</string>
-  <string name="Place_Sign_next_to_machine_name_it">Поместите Знак рядом с оборудованием, чтобы дать ему название!</string>
+  <string name="Place_Sign_next_to_machine_name_it">Прикрепите Знак к этой машине и введите текст, чтобы создать текстовую отметку!</string>
   <string name="This_needs_0_1_PPS">Требует 0,1 Э/с.</string>
   
 <string name="Marked_Location">Отмеченное место</string>
@@ -3887,7 +3887,7 @@
   
 <string name="Initialising">Инициализация...</string>
   <string name="Locating_Resources">Поиск ресурсов...</string>
-  <string name="Connected_to_Gas_Bottling_Plant">Подсоединено к Газовому Заправщику.</string>
+  <string name="Connected_to_Gas_Bottling_Plant">Подсоединён к Газовому Заправщику.</string>
   <string name="Grinder_finalising">Завершаю дробление...</string>
   <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Завершаю...
 ВНИМАНИЕ! Руда в неустойчивом состоянии, НЕ УДАЛЯЙТЕ ОБОРУДОВАНИЕ!</string>
@@ -3910,7 +3910,7 @@
   <string name="Collecting">Накопление...</string>
   <string name="Nothing_to_compress_attach_Particle_Filter">Сжимать нечего.
 Соедините с Фильтром Примесей.</string>
-  <string name="Connected_to_Gas_Storage">Подсоединено к Газовому Резервуару.</string>
+  <string name="Connected_to_Gas_Storage">Подсоединён к Резервуару Примесей.</string>
   <string name="Scanning_for_pipe_connections_to_Gas_Storage_in_X">Обнаружение соединений труб с Газовым Резервуаром через {0} с</string>
   
 <string name="Need_X_more_alloyed_blocks_to_construct">{0} шт. - столько Легированных Блоков ещё нужно, чтобы построить</string>
@@ -3979,7 +3979,7 @@
 <string name="No_Valid_attached_Hoppers">Нет присоединенных Бункеров!</string>
 <string name="Looking_in_attached_hopper">Поиск в присоединенном Бункере:</string>
 <string name="s_Freezon_boost_left">с до конца Фризонового усиления!</string>
-<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Поместите Фризоновый контейнер в Бункер для увеличения Э/с в 20 раз!</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Загрузите Баллон с Фризоном в Бункер для увеличения Э/с в 20 раз!</string>
 <string name="Placing_verifying_pipes">Размещение и проверка труб.</string>
 <string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
 <string name="Cant_locate_pipes_in_adjacent_SH">Нет труб в присоединенном Бункере!</string>
@@ -4128,11 +4128,11 @@
   <string name="WARNING_REGROWTH_IN_X">ВНИМАНИЕ! ОТРАСТАНИЕ ЧЕРЕЗ: {0}</string>
   <string name="NEED_COMPRESSED_MAGMA_NOW">СРОЧНО НУЖНА СЖАТАЯ МАГМА!</string>
   
-<string name="Waiting_gas_from_Gas_Storage_Tank">Ожидание газа от Газового Резервуара.</string>
+<string name="Waiting_gas_from_Gas_Storage_Tank">Ожидание газа от Резервуара Примесей.</string>
   <string name="Storing_X">Запасено: {0}.</string>
   <string name="Looking_for_Hopper_offload_to">Поиск Бункера для выгрузки...</string>
   
-<string name="Gas_Storage">Газовый Резервуар</string> 
+<string name="Gas_Storage">Резервуар Примесей</string> 
   <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">Поиск трубных соединений с Газовым Заправщиком через {0} с</string>
 
 <string name="Please_wait_paging">Пожалуйста, подождите - перенумерация...</string>
@@ -4155,7 +4155,7 @@
   <string name="X_not_found_in_whitelist">«{0}» - не найдено в Белом списке</string>
   
 <string name="Behaviour_X_removed">Поведение {0} удалено</string>
-  <string name="Next_bottle_filled_in_X">Заполнение канистры через : {0}s</string>
+  <string name="Next_bottle_filled_in_X">Заправка баллона: {0}s</string>
   <string name="Scanning_area_optimal_targetting">Область сканируется для оптимального наведения...</string>
   <string name="No_Marker">Нет метки</string>
   <string name="WARNING_No_C5_found_this_will_be_requirement_before_release">--ВНИМАНИЕ! ЦКК не обнаружен - его наличие обязательно перед выпуском полной версии!</string>
@@ -4200,8 +4200,8 @@
   <string name="Cannon">Пушка</string>
   <string name="Minigun">Миниган</string>
   <string name="Tons">Тонны</string>
-  <string name="MedBay_T0">Базовый Медотсек</string>
-  <string name="MedBay_Not_In_Room">Медотсек может располагаться только внутри комнаты!</string>
+  <string name="MedBay_T0">Базовая Медкапсула</string>
+  <string name="MedBay_Not_In_Room">Медкапсула может располагаться только внутри комнаты!</string>
   <string name="Not_In_Room">Это можно установить только внутри комнаты!</string>
 
   <string name="RoomLight #1">Освещение для комнаты. Можно перекрасить!</string>
@@ -4238,7 +4238,7 @@
   <string name="RoomLight #7_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
   <string name="RoomLight #8_CRAFT_HINT">Требует наличия Dapper DLC Pack</string>
   
-  <string name="Basic MedBay">Базовый Медотсек</string>
+  <string name="Basic MedBay">Базовая Медкапсула</string>
   <string name="Reinforced Plated Room Floor_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
 	
 	<string name="Room Detail 1_CRAFT_HINT">Использует Строительную Пасту. Вы потеряете Пасту при разрушении объекта, так что стройте с умом!</string>
@@ -4278,22 +4278,22 @@
   
 	<string name="Iron Gear Maker">Штамп Железных Шестерён</string>
 	<string name="Iron Gear Maker_DESC">Создаёт Железные Шестерни.</string>
-	<string name="Iron Gear Maker_CRAFT_DESC">Оборудование для автоматического производства Шестерён из Железных Слитков.</string>
+	<string name="Iron Gear Maker_CRAFT_DESC">Оборудование для автоматического производства Шестерён из Железных Пластин.</string>
 	<string name="Iron Gear Maker_CRAFT_HINT">Заметно эффективнее ручного труда!</string>
 	
 	<string name="Airlock_Inner">Дверь Шлюза Внутренняя</string>
 	<string name="AirLock_Inner_DESC">Не имеет значения.</string>
 	<string name="AirLock Inner">Дверь Шлюза Внутренняя</string>
-	<string name="AirLock Inner_DESC">Соединяет комнату со шлюзом</string>
+	<string name="AirLock Inner_DESC">Соединяет комнату со шлюзом. Не защищает от Камоботов.</string>
 	<string name="AirLock Inner_CRAFT_DESC">Соединяет комнату со шлюзом</string>
-	<string name="AirLock Inner_CRAFT_HINT">Строится по схеме 1х3х3</string>
+	<string name="AirLock Inner_CRAFT_HINT">Строится по схеме 3х3. Не защищает от Камоботов.</string>
 	
 	<string name="Airlock_Outer">Дверь Шлюза Внешняя</string>
 	<string name="AirLock_Outer_DESC">Не имеет значения.</string>
 	<string name="AirLock Outer">Дверь Шлюза Внешняя</string>
 	<string name="AirLock Outer_DESC">Отделяет Шлюз от внешнего мира</string>
 	<string name="AirLock Outer_CRAFT_DESC">Соединяет комнату со шлюзом</string>
-	<string name="AirLock Outer_CRAFT_HINT">Строится по схеме 1х3х3</string>
+	<string name="AirLock Outer_CRAFT_HINT">"Строится по схеме 3х3.  Не защищает от Камоботов."</string>
 	
 	<string name="Reinforced Plated Room Floor">Пол Комнаты Усиленный Обшитый</string>
 	<string name="Reinforced Plated Room Floor_DESC">Окрашиваемый усиленный пол, специально спроектированный для строительства комнат.</string>
@@ -4320,8 +4320,8 @@
 	<string name="Room Light Reflector">Световой Отражатель для комнат</string>
 	<string name="Room Light Reflector_DESC">_</string>
 	<string name="Room Light Reflector_CRAFT_DESC">Усиленный потолочный отражатель для использования в комнатах.</string>
-	<string name="Logistics Grommet_DESC">Необходим для прохода продукции на конвейерах через стену комнаты.</string>
-	<string name="Logistics Grommet_CRAFT_DESC">Необходим для прохода продукции на конвейерах через стену комнаты.</string>
+	<string name="Logistics Grommet_DESC">Необходим для прохода предметов на конвейерах через стену комнаты.</string>
+	<string name="Logistics Grommet_CRAFT_DESC">Необходим для прохода предметов на конвейерах через стену комнаты.</string>
 	<string name="Logistics Grommet_CRAFT_HINT">Первый пошёл!</string>
 	
 	<string name="Energy Grommet_DESC">ЛЭП, Солнечные батареи и Энергохранилища могут передавать энергию через это устройство (но не лазерные лучи).</string>
@@ -4374,7 +4374,7 @@
   <string name="block_added_by_mod_which_has_been_deactivated">Этот блок был добавлен модом, который сейчас не подключен</string>
   
 <string name="Electrocuting">Замыкающий</string>
-  <string name="Advanced Hydroponics Bay">Улучшенный отсек Гидропоники</string>
+  <string name="Advanced Hydroponics Bay">Улучшенный модуль Гидропоники</string>
   <string name="Advanced Hydroponics Bay_DESC">Позволяет выращивать растения значительно быстрее. (Возможно, в будущем будет требовать энергию).</string>  
   <string name="Advanced Hydroponics Bay_CRAFT_DESC">Поместите сюда семена растений, чтобы прорастить их.</string>
   <string name="Advanced Hydroponics Bay_CRAFT_HINT">Ускоряет созревание растений.</string>
@@ -4395,11 +4395,11 @@
 	<string name="TundraBreath Seeds">Семена Тундровея</string>
 	
 	<string name="Super Construction Paste Grinder">Супер-Пастомешалка</string>
-	<string name="Super Construction Paste Grinder_DESC">Преобразует «мусорные» блоки или Уголь в Пасту в соотношении 1:8.</string>
+	<string name="Super Construction Paste Grinder_DESC">Преобразует «мусорные» блоки или Уголь в Строительную Пасту в соотношении 1:8.</string>
 	<string name="Super Construction Paste Grinder_CRAFT_DESC">Преобразует бесполезный мусор (пустую породу, камни, почву) или Уголь в Строительную Пасту. Все декоративные блоки создаются из Строительной Пасты!</string>
 	<string name="Super Construction Paste Grinder_CRAFT_HINT">Работает только в том случае, если у вас есть Dapper Indie Supporter DLC.</string>
 	
-	<string name="Lightweight Machine Housing Crafter">Синтезатор Лёгких Корпусов</string>
+	<string name="Lightweight Machine Housing Crafter">Сборщик Лёгких Корпусов</string>
 	<string name="Lightweight Machine Housing Crafter_DESC">Превращает 6 Оловянных Пластин в 1 Лёгкий Корпус.</string>
 	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Оборудование для производства Лёгких корпусов из 6 Оловянных Пластин.</string>
 	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Заметно эффективнее ручного труда!</string>
@@ -4446,7 +4446,7 @@
   <string name="DigiStructing_Rocket">Цифрострукция Ракеты</string>
   <string name="Pad_Empty">Площадка пуста.</string>
   <string name="DigiStruct_power_needed_X">Нужно энергии для Цифрострукции: {0}</string>
-  <string name="Checking_Gantry_Clearance">Проверка пространства под Платформу...</string>
+  <string name="Checking_Gantry_Clearance">Проверка пространства под фермы...</string>
   <string name="Checking_Drill_Clearance">Проверка пространства под Бур...</string>
   <string name="DigiStructing_Drill">Цифрострукция Бура...</string>
   <string name="Gantry_Search_completed_X_of_X">Определение Платформы: {0} из {1}</string>
@@ -4460,7 +4460,7 @@
   <string name="usage_X_remove_name">применение: {0} remove «имя»</string>
   <string name="Flubbing">Вялый</string>
   <string name="Bouncy">Прыгучий</string>
-  <string name="Crazy_ass">Шило-в-жопе</string>
+  <string name="Crazy_ass">Безбашенный</string>
   <string name="Tingling">Трепещущий</string>
   <string name="usage_whitelist_add_name">Применение: whitelist add «имя»</string>
   <string name="X_added_to_single_access_list">«{0}» добавл. в список одиночного доступа</string>
