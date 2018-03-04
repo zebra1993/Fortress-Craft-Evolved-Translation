@@ -135,7 +135,7 @@
     <string name="Game_Mode">游戏模式</string>
     <string name="Dedicated">专用的</string>
     <string name="Players">玩家</string>
-    <string name="Ping">脉冲扫描</string>
+    <string name="Ping">Ping</string>
     <string name="Hide_Host_Address">隐藏主机地址</string>
     <string name="Host_Address">主机地址</string>
     <string name="Unable_To_Join">无法加入</string>
@@ -167,14 +167,14 @@
     <string name="Chromium Bars">铬锭</string>
     <string name="Molybdenum Bar">钼锭</string>
     <string name="Molybdenum Bars">钼锭</string>
-    <string name="Plastic Pellet">塑料粒子</string>
-    <string name="Plastic Pellets">塑料粒子</string>
+    <string name="Plastic Pellet">塑料颗粒</string>
+    <string name="Plastic Pellets">塑料颗粒</string>
     <string name="High Energy Composite Fuel">高能复合燃料</string>
     <string name="Empty Metal Tube">金属空罐</string>
     <string name="Empty Metal Tubes">金属空罐</string>
     <string name="Empty Fuel Canister">空燃料罐</string>
     <string name="Empty Fuel Canisters">空燃料罐</string>
-    <string name="High Octane Fuel">高辛烷值燃料</string>
+    <string name="High Octane Fuel">高辛烷燃料</string>
     <string name="Gold Bar">金锭</string>
     <string name="Gold Bars">金锭</string>
     <string name="Tin Bar">锡锭</string>
@@ -236,8 +236,8 @@
     <string name="Coal Pings">煤矿扫描脉冲</string>
     <string name="Iron Ore Ping">铁矿扫描脉冲</string>
     <string name="Iron Ore Pings">铁矿扫描脉冲</string>
-    <string name="Copper Ore Ping">煤矿扫描脉冲</string>
-    <string name="Copper Ore Pings">煤矿扫描脉冲</string>
+    <string name="Copper Ore Ping">铜矿扫描脉冲</string>
+    <string name="Copper Ore Pings">铜矿扫描脉冲</string>
     <string name="Tin Ore Ping">锡矿扫描脉冲</string>
     <string name="Tin Ore Pings">锡矿扫描脉冲</string>
     <string name="Lithium Ore Ping">锂矿扫描脉冲</string>
@@ -3534,4 +3534,37 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Mutator_Pandora_Not_Active">坠毁的舱室会包含研究.可能是最棒的.</string>
 <string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明</string>
 <string name="Mutator_HardcoreInv_Not_Active">你的24K纯金眼泪已经被注意到了</string>
-</resources>
+<string name="Unable_find_any_ore">找不到任何矿石</string>
+  <string name="Unable_clear_output_hopper">无法明确的输出料斗</string>
+  <string name="Last_Item_X">最近一项: {0}</string>
+  <string name="Internal_Temp_X_C_Power_X">内部温度: {0}°C. 能量: {1}</string>
+  <string name="Using_X_PPS">使用 {0} PPS.</string>
+  <string name="Overheating_NEEDS_MORE_POWER">过热! 需要更多能量!</string>
+  <string name="Overheating_Contents_Spoiling">过热! 内容变质!</string>
+  <string name="Shift_E_Toggle_Vacuum_Status_X">（Shift+E）切换真空状态: {0}</string>
+  <string name="T_to_store_X">（T）存储 {0}</string>
+  <string name="Try_Shift_and_Ctrl">（尝试 Shift 和 Ctrl）</string>
+  <string name="Hopper_full">料斗满了!</string>
+  <string name="Q_to_retrieve_contents">（Q）取出内容!</string>
+  <string name="Shift_Q_to_toggle_permissions">（Shift+Q）切换权限!</string>
+  <string name="Scan_for_more_information">扫描更多信息!</string>
+  <string name="NetworkSync_X">网络同步: {0}</string>
+  <string name="Failed_Inventory_Full">失败! 
+库存已满?</string>
+
+<string name="Stored_X">存储 {0}</string>
+  
+<string name="UNKNOWN_TYPE">未知类型</string>
+  <string name="Add_Remove">添加+移出</string>
+  <string name="Add_Only">只添加</string>
+  <string name="Remove_Only">只移出</string>
+  <string name="Toggle_Vacuum">切换真空</string>
+  <string name="Vacuum_Off">真空: 关</string>
+  <string name="Press_I_to_toggle_I_nventory">按 I 键切换 （I）库存</string>
+  <string name="Vacuum_On">真空: 开</string>
+  <string name="Used_X_X">使用: {0}/{1}</string>
+  
+<string name="Stacked_X_x_X">堆积 {0}x {1}</string>
+  
+<string name="Suit_Power_X_X">西装电源: {0}/{1}</string>
+  </resources>
