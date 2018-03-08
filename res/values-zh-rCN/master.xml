@@ -1285,7 +1285,7 @@
     <string name="Track Terminus">轨道终点</string>
     <string name="Track Gate_DESC">" "</string>
     <string name="Track Terminus_DESC">" "</string>
-    <string name="Track Point">轨道 Point</string>
+    <string name="Track Point">跟踪点</string>
     <string name="Track Station">轨道车站</string>
     <string name="Track Point_DESC">" "</string>
     <string name="Track Station_DESC">" "</string>
@@ -2675,7 +2675,7 @@
     <string name="CE_Detonate">爆炸物将在</string>
     <string name="CE_Seconds">秒内起爆</string>
 
-    <string name="CE_Info">拾起后保持蓄能</string>
+    <string name="CE_Info">拾取后保持充电状态</string>
     <string name="CE_Level">蓄能等级</string>
     <string name="Lost?">丢失信号？</string>
     <string name="Surface">地表</string>
@@ -2945,7 +2945,7 @@
 <string name="not_collecting_ore">未采集矿石</string>
 <string name="Base_Battery">基地电池</string>
 <string name="used">已使用</string>
-<string name="PTGs">PTGs</string>
+<string name="PTGs">燃料发电机</string>
 <string name="Enriched">富集了</string>
 <string name="Infused">已注入</string>
 <string name="LPTs">LPTs</string>
@@ -3174,7 +3174,7 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Airborne Particulate Compressor_DESC">AirBorne微粒提取器压缩机_DESC</string>
 
 <string name="C5_Spawning">C5 Spawning（产卵中？）</string>
-<string name="PeakBuilds">PeakBuilds</string>
+<string name="PeakBuilds">建造峰值</string>
 <string name="Use_Freezon_Injector_supercharge_Lancer">使用Freezon Injector增压器这枪骑兵。</string>
 <string name="Melted">融化的</string>
 <string name="s_since_last_firing">S 自上次射击以来。</string>
@@ -3517,7 +3517,7 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="Could_not_reach_server">无法访问服务器</string>
   <string name="Exception_network_thread">网络线程抛出的异常</string>
   
-<string name="You_need_own_FF_DLC_access_skin">要这个皮肤吗，你得有Frozen Factory Expansion pack！</string>
+<string name="You_need_own_FF_DLC_access_skin">您需要拥有 冻结工厂扩展包 才能访问此皮肤！</string>
   <string name="You_need_AmpuTea_access_Explorer_skin">您需要拥有AmpuTea才能获取Explorer皮肤！</string>
   <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">你需要拥有每一个DLC和扩展包，以获得这个超级独家皮肤！</string>
   <string name="User_was_missing">用户不存在</string>
@@ -3527,13 +3527,13 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="You_need_Skin_Pack_1_access_skin">你需要拥有Skin Pack＃1来获取这个皮肤！</string>
   <string name="You_need_CRP_fo_this_see_Patreon_details">你需要拥有这个社区奖励包！ （更多细节见http://www.patreon.com/Fortresscraft！）</string>
   <string name="CREATIVE_selected_results_running_Mutators_unpredictable">创造性的选择！选择的结果是不可预测的！</string>
-<string name="Mutator_HardcoreCeilings_Active">支撑天花板或者面对厄运！天然方块不可放置</string>
-<string name="Mutator_AllOre_Not_Active">相当可观的Ore又出现了</string>
+<string name="Mutator_HardcoreCeilings_Active">支撑天花板或者面对厄运！天然方块不可放置。</string>
+<string name="Mutator_AllOre_Not_Active">相当可观的矿石又出现了。</string>
 <string name="Mutator_AggroMobs_Active">现在怪物会攻击视野内的.改装炮塔应对.</string>
 <string name="Mutator_AggroMobs_Not_Active">现在怪物会对你假装冷漠.</string>
 <string name="Mutator_Pandora_Not_Active">坠毁的舱室会包含研究.可能是最棒的.</string>
-<string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明</string>
-<string name="Mutator_HardcoreInv_Not_Active">你的24K纯金眼泪已经被注意到了</string>
+<string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明。</string>
+<string name="Mutator_HardcoreInv_Not_Active">你咸咸的眼泪已经被注意到了。</string>
 <string name="Unable_find_any_ore">找不到任何矿石</string>
   <string name="Unable_clear_output_hopper">无法明确的输出料斗</string>
   <string name="Last_Item_X">最近一项: {0}</string>
@@ -3567,4 +3567,33 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Stacked_X_x_X">堆积 {0}x {1}</string>
   
 <string name="Suit_Power_X_X">西装电源: {0}/{1}</string>
+  <string name="Activation_in">激活的</string>
+  <string name="DESTROY_NOW_CANCEL">取消立即破坏！</string>
+  
+<string name="Connecting_to_server_at">连接到服务器</string>
+  <string name="Only_good_boys_girls_this_skin">只有好的小男孩和女孩才能使用这种皮肤！</string>
+  <string name="You_need_Skin_Pack_2_access_skin">你需要拥有Skin Pack＃2来访问这个皮肤！</string>
+  
+<string name="Tutorial_Complete">教程完成！</string>
+  <string name="If_stuck_Press_H_for_help">如果卡住了，请按H寻求帮助！</string>
+  <string name="Tutorial_in_progress">教程进行中</string>
+  <string name="CPH_is_focus_of_base">中央电力枢纽（CPH）是您基地的重点。</string>
+  <string name="PSB_are_main_method_storing_power">电力存储块（PSBS）是存储电力的主要方法。</string>
+  <string name="OE_collect_resources_automatically">矿石提取器自动收集资源。</string>
+  <string name="SH_automate_resource_handling">贮存料斗可以自动执行资源处理</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">如果找不到任何东西，请使用左键 Ping未知！</string>
+  <string name="Researching_Scans_gives_RP">研究扫描给你研究点</string>
+  <string name="Look_at_CPH_press_E">看看CPH并按E！</string>
+  <string name="Charge_suit_from_PSB">从PSB收取你的西装！</string>
+  <string name="Add_200_power_to_OE">向矿石提取器添加至少200个电源</string>
+  <string name="Collect_Coal_from_Hopper">从料斗收集煤炭！</string>
+  <string name="Hold_RMB_Scan_something">按住右键扫描一些东西！</string>
+  <string name="Research_new_scan">研究你的新扫描！</string>
+  <string name="Craft_Power_Core">制作一个能量核心！</string>
+  <string name="CPH_Rebooting">CPH重新启动</string>
+  <string name="Killed">杀死</string>
+  <string name="attackers">攻击者！</string>
+  <string name="CPH_Health">CPH健康</string>
+  <string name="LOIC_En_Route">LOIC在路上！</string>
+  <string name="LOIC_returning_recharge">LOIC返回充电！</string>
   </resources>
