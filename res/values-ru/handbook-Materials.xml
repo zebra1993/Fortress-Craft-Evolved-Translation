@@ -1375,7 +1375,7 @@
 <string name="MA.Transport_Pipe_Filter.00.Title">Фильтр Транспортной Трубы</string>
 <string name="MA.Transport_Pipe.00.Title">Транспортная Труба</string>
 <string name="MA.Tree_Trunk.00.Title">Бревно</string>
-<string name="MA.Tree_Trunk.01.Paragraph">Ингредиент для изготовления Деревянных Досок. Добываются при срезании деревьев. Блок можно размещать. Завод не нужен, чтобы из Бревен сделать Доски.</string>
+<string name="MA.Tree_Trunk.01.Paragraph">Ингредиент для изготовления Деревянных Досок. Добывается из деревьев или светящихся трубок. Блок можно размещать. Завод не нужен, чтобы из Бревен сделать Доски.</string>
 <string name="MA.Truss.00.Title">Ферма</string>
 <string name="MA.Window.00.Title">Окно</string>
 <string name="MA.Laser_Energy_Transmitter_MK2.04.Left">Энергии в импульсе:
