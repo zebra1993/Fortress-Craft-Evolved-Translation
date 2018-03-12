@@ -1259,7 +1259,7 @@
     <string name="Mephitic Missile Assembler">Сборщик ядовитых Ракет</string>
     <string name="Liquified Resin">Текучая Смола</string>
     <string name="Liquified Resin_DESC">Твердая смола была размягчена, и теперь её можно собирать.</string>
-    <string name="Cold Creep Spawner">Источник Ползуна</string>
+    <string name="Cold Creep Spawner">Источник КриоПлазмы</string>
     <string name="Cold Creep Spawner_DESC">" "</string>
     <string name="NanoDisintegrator">Нано-дезинтегратор</string>
     <string name="NanoDisintegrator_DESC">Нано-дезинтегратор. Может спокойной очистить область 3х3х3 даже от самой твердой материи. Обращаться с осторожностью.</string>
@@ -1506,9 +1506,11 @@
     <string name="Gas Bottler">Газовый Заправщик</string>
     <string name="Gas Bottler_DESC">Впрыскивает сжатый газ в контейнеры. Строится по схеме 3х3х9 (всего 81 шт.)</string>
     <string name="Magma Storage">Хранилище Магмы</string>
-    <string name="Magma Storage_DESC">Принимает Жидкую Магму от соответствующего оборудования через Жидкостные Трубы.</string>
+    <string name="Magma Storage_DESC">Принимает Жидкую Магму от Магма-бура через Жидкостные Трубы. У Магма-бура труба подсоединяется к центру круглой \"розетки\".</string>
     <string name="Cryo Inferno">КриоИнферно</string>
-    <string name="Cryo Inferno_DESC">Радикальное решение вопроса ползунов. Необходимо свободное пространство между Источником ползунов и устройством.</string>
+    <string name="Cryo Inferno_DESC">Радикальное решение криоплазменного вопроса. Необходимо свободное пространство между Источником криоплазмы и турелью.
+Необходимо подсоединить через жидкостную трубу к Хранилищу Магмы.
+Хранилище Магмы, в свою очередь, наполняется от Магма-Бура.</string>
     <string name="Garbage Thief">Мусорокрад</string>
     <string name="Garbage Thief_DESC">Не имеет значения.</string>
     <string name="Rack Rail_DESC">" "</string>
@@ -1545,7 +1547,7 @@
     <string name="CryoMine">КриоМина</string>
     <string name="CryoMine_DESC">Взрывается отравляющим газом, будучи активирована Криоплазмой.</string>
     <string name="Bomber FALCOR">ФАЛКОР-бомбардировщик</string>
-    <string name="Bomber FALCOR_DESC">Бросает бомбы в густые отростки Ползуна. Большая дальность.</string>
+    <string name="Bomber FALCOR_DESC">Сбрасывает произведенные бомбы на плотные криоплазменные отростки в большом радиусе.</string>
     <string name="Freezon Injector">Фризоновый Инжектор</string>
     <string name="Freezon Injector_DESC">Использует баллоны с Фризоном для повышения производительности некоторого оборудования.</string>
     <string name="Ruined Organic Thief">Сломанный Органикрад</string>
@@ -1860,7 +1862,7 @@
     <string name="MK4 Battery Component_CRAFT_HINT">Сдвоенное Энергохранилище из батарей МК3!</string>
     <string name="Conduit_CRAFT_DESC">Восстанавливает до 10000 Э/с, уравнивая энергию между батареями. Избегайте прямого попадания в глаза.</string>
     <string name="Conduit_CRAFT_HINT">Не стойте прямо в луче.</string>
-    <string name="MK5 Battery Component_CRAFT_DESC">Сохраняет до 4.5 миллионов единиц Энергии. Строится в виде башни с высотой 9 метров при основании 5x5 (всего 225). Не принимает энергию от соседних Энергохранилищ.</string>
+    <string name="MK5 Battery Component_CRAFT_DESC">Ёмкость - до 4,5 миллионов единиц Энергии. Строится в виде башни с высотой 9 метров при основании 5x5 (всего 225). Не принимает энергию от соседних Энергохранилищ.</string>
     <string name="MK5 Battery Component_CRAFT_HINT">Счетверённое Энергохранилище из батарей МК3!</string>
     <string name="Organic Power Storage_CRAFT_DESC">Действует как буфер между электрогенераторами и потребителями, сохраняя до 8500 единиц. Смежные Энергохранилища будут делить энергию поровну.</string>
     <string name="Organic Power Storage_CRAFT_HINT">Малая пропускная способность, большая емкость.</string>
@@ -2488,7 +2490,7 @@
     <string name="ConstructoBot Constructor_CRAFT_DESC">Создает оборудование, которое может создавать СтройБотов.</string>
     <string name="ConstructoBot Constructor_CRAFT_HINT">Сборщик СтройБотов</string>
     <string name="Truss_CRAFT_DESC">Декоративная металлическая ферма</string>
-    <string name="Truss_CRAFT_HINT">Используйте Строительную Пасту!</string>
+    <string name="Truss_CRAFT_HINT">Делается из Строительной Пасты!</string>
     <string name="DapperVIP_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
     <string name="DapperVIP_CRAFT_HINT">Требуется Щёгольский комплект (Dapper DLC)!</string>
     <string name="DapperFrame_CRAFT_DESC">Декоративный золотой блок - спасибо за поддержку FortressCraft!</string>
@@ -2558,7 +2560,7 @@
     <string name="Magma Storage_CRAFT_DESC">Хранит Магму и перекачивает её в Крио-Инферно через Жидкостные трубы. Строится по схеме 3х7х3 (всего 63 шт.).</string>
     <string name="Magma Storage_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник Криоплазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
-    <string name="Cryo Inferno_CRAFT_HINT">Требуется 15 минут сжигания с максимальным временем прерывания 30 секунд. Удачи.</string>
+    <string name="Cryo Inferno_CRAFT_HINT">Для уничтожения источника Криоплазмы турель КриоИнферно должна жечь его в течение 15 минут, при этом не должно быть перерывов дольше 30 секунд. Удачи.</string>
     <string name="Freezon Injector_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы подать Баллоны со Сжатым Фризоном в совместимое оборудование.</string>
     <string name="Freezon Injector_CRAFT_HINT">Посмотрите в справочнике список совместимого оборудования и эффектов.</string>
     <string name="OverClocker_CRAFT_DESC">Разгоняет существующие Кристаллические Тактовые Генераторы на более высокую частоту, используя для этого больше энергии.</string>
@@ -2587,7 +2589,7 @@
     <string name="Hydrojet Cutter_CRAFT_HINT">Это ДОЛЖНО быть размещено на вашем Заводе.</string>
     <string name="CryoPlasm Lancer_CRAFT_DESC">Позволяет уничтожать Криоплазму на очень короткой дистанции. Полезно для сдерживания отростков.</string>
     <string name="CryoPlasm Lancer_CRAFT_HINT">Это базовая турель; используйте её в сочетании с более совершенным оружием.</string>
-    <string name="CryoPlasm Melter_CRAFT_DESC">Позволяет плавить Криоплазму на средней дистанции. Полезно для направления Криоплазмы в уничтожитель.</string>
+    <string name="CryoPlasm Melter_CRAFT_DESC">Позволяет плавить Криоплазму на средней дистанции. Полезно для сбивания Криоплазмы вниз.</string>
     <string name="CryoPlasm Melter_CRAFT_HINT">Отлично работает в паре с Блеск-Турелью.</string>
     <string name="MK1 Robot Arm_CRAFT_DESC">Автоматически переносит определенный тип руды между конвеерами.</string>
     <string name="MK1 Robot Arm_CRAFT_HINT">Используйте при организации конвееров с рудой.</string>
@@ -3356,7 +3358,7 @@
 <string name="Holding">Удерживается</string>
 <string name="segments">сегментов</string>
 <string name="CB_inserted">СтройБот выгружен</string>
-<string name="SH_full_or_locked">Бункер полон или заблокирован!</string>
+<string name="SH_full_or_locked">Бункер полон или заперт!</string>
 <string name="SH_empty">Бункер пуст!</string>
 <string name="Warning_Basin_overheating_Place_much_colder">Внимание! Машина перегревается! Переместите туда, где холоднее!</string>
 <string name="Casting">Литьё</string>
@@ -3609,7 +3611,7 @@
   
 <string name="Length">Длина</string>
 <string name="Inventories">Инвентарь</string>
-<string name="Debug_Cryospawn_Data">[DEBUG]Информация о Ползунах</string>
+<string name="Debug_Cryospawn_Data">[DEBUG]Информация о К-Плазме</string>
 <string name="Built">Построен</string>
 <string name="Sleeping_for">Спит</string>
 <string name="Player_Bonus_was">Бонус Игрока:</string>
