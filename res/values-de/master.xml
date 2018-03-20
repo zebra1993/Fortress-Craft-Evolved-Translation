@@ -4470,4 +4470,29 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	<string name="AirLock Outer_CRAFT_DESC">Verbindet Räume mit Luftschleusen</string>
 	<string name="AirLock Outer_CRAFT_HINT">Erstellen Sie ein 3x3x1 oder 1x3x3 Layout</string>
 	
+	<string name="Reinforced Plated Room Floor">Verstärkter, mit Platten versehener Raumboden</string>
+	<string name="Reinforced Plated Room Floor_DESC">Streichbarer, verstärkter Boden, speziell für Räume entworfen.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_DESC">Streichbarer, verstärkter Boden, speziell für Räume entworfen.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_HINT">Verbraucht Paste - Du wirst Paste verlieren, wenn du es ausgräbst. Mit Vorsicht platzieren.</string>
+	
+	<string name="Room Detail 1">Raumdekoration 1</string>
+	<string name="Room Detail 1_DESC">Verstärkte Wanddekoration, speziell für Räume entworfen.</string>
+	<string name="Room Detail 1_CRAFT_DESC">Verstärkte Wanddekoration, speziell für Räume entworfen.</string>
+	<string name="Room Detail 1_CRAFT_HINT">Verbraucht Paste - beim ausgraben geht Paste verloren, also mit Vorsicht platzieren.</string>
+	
+	<string name="Alloyed Space Window">Legiertes Weltraumfenster</string>
+	<string name="Alloyed Space Window_DESC">Streichbares, verstärktes Fenster.</string>
+	<string name="Alloyed Space Window_CRAFT_DESC">Streichbares, verstärktes Fenster. Nicht für den gebrauch in Räumen empfohlen.</string>
+	<string name="Alloyed Space Window_CRAFT_HINT">Verbraucht Paste - beim Ausgraben geht Paste verloren, also mit Vorsicht platzieren.</string>
+	
+	<string name="Room Ventilation Grille">Raumbelüftungsgitter</string>
+	<string name="Room Ventilation Grille_DESC">Lässt Luft durch</string>
+	<string name="Room Ventilation Grille_CRAFT_DESC">Zukünftige Maschine - wird benutzt um die Sauberkeitsrate eines Raumes zu verbessern. ?Es muss ein Sauberraum Ziel getroffen werden?</string>
+	<string name="Room Ventilation Grille_CRAFT_HINT">DAS MUSS NOCH NICHT GEBAUT WERDEN!</string>
+	
+	<string name="Reinforced Plating">Verstärkte Beschichtung</string>
+	<string name="Reinforced Plating_DESC">Verstärkte, Streichbare, für Räume entworfene Wand.</string>
+	<string name="Reinforced Plating_CRAFT_DESC">Streichbare, verstärkte Wand. Speziell für Räume entworfen.</string>
+	<string name="Reinforced Plating_CRAFT_HINT">Verbraucht Paste - beim Ausgraben geht Paste verloren, also mit Obacht platzieren!</string>
+	
 	</resources>
