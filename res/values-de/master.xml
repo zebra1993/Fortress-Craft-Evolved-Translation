@@ -4411,4 +4411,30 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="RoomLight #8_DESC">Raumlicht. Farbwechsel möglich!</string>
   
   <string name="RoomLight #1_CRAFT_DESC">Gefärbtes Licht, arbeitet nur in Räumen.</string>
+  <string name="MedBay_T0">Update 04.02.2018
+ Patch 18 ändert sich
+ Räume</string>
+  <string name="AmpuleCrafter_T0">Basis Ampullenherstellung</string>
+  <string name="AmpuleDispenser">Ampullenspender</string>
+   <string name="E_To_Extract">Drücke E zum Extrahieren</string>
+
+  <string name="Base_Production_Scanner">Basisproduktionsscanner</string>
+  <string name="RoomLight #2_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #3_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #4_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #5_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #6_CRAFT_DESC">Dieses Raumlicht warnt Sie leise vor ZEV-Angriffen.</string>
+  <string name="RoomLight #7_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #8_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+
+  <string name="RoomLight #1_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
+  <string name="RoomLight #2_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  <string name="RoomLight #3_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  <string name="RoomLight #4_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  <string name="RoomLight #5_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  <string name="RoomLight #6_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
+  <string name="RoomLight #7_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  <string name="RoomLight #8_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
+  
+  <string name="Basic MedBay">Grundlegende Krankenstation</string>
   </resources>
