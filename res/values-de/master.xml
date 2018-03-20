@@ -4438,4 +4438,18 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   
   <string name="Basic MedBay">Grundlegende Krankenstation</string>
   <string name="Basic MedBay_DESC">An einer Wand in einem Raum platzieren, mit Energie versorgen und in der Nähe stehen um geheilt zu werden.</string>  
-  </resources>
+  <string name="Basic MedBay_CRAFT_DESC">An einer Wand in einem Raum platzieren, mit Energie versorgen und in der Nähe stehen um geheilt zu werden.</string>
+  <string name="Basic MedBay_CRAFT_HINT">Kein Hinweis. So einfach ist das.</string>
+
+  <string name="Hydroponics Bay_CRAFT_DESC">Setze Pflanzensamen darauf, um sie anzubauen.</string>
+  <string name="Hydroponics Bay_CRAFT_HINT">Lässt Pflanzen viel schneller wachsen.</string>
+  
+  <string name="Advanced Hydroponics Bay_DESC">Lässt Pflanzen viel schneller wachsen. Vielleicht braucht sie Energie, noch nicht entschieden.</string>  
+  <string name="Advanced Hydroponics Bay_CRAFT_DESC">Setze Pflanzensamen darauf, um sie anzubauen.</string>
+  <string name="Advanced Hydroponics Bay_CRAFT_HINT">Lässt Pflanzen viel schneller wachsen.</string>
+
+  <string name="MK1 Ampule_CRAFT_DESC">Regeneriert Gesundheit über einen festgelegten Zeitraum.</string>
+  <string name="MK1 Ampule_CRAFT_HINT">Legen es in dein Anzuginventar, um es automatisch zu verwenden</string>
+  
+	<string name="Iron Gear Maker">Eisen-Zahnrad-Hersteller</string>
+	</resources>
