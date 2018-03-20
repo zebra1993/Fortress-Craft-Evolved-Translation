@@ -4451,5 +4451,12 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="MK1 Ampule_CRAFT_DESC">Regeneriert Gesundheit über einen festgelegten Zeitraum.</string>
   <string name="MK1 Ampule_CRAFT_HINT">Legen es in dein Anzuginventar, um es automatisch zu verwenden</string>
   
-	<string name="Iron Gear Maker">Eisen-Zahnrad-Hersteller</string>
+	<string name="Iron Gear Maker">Eisenzahnrad Hersteller</string>
+	<string name="Iron Gear Maker_DESC">Stellt Eisenzahnräder her.</string>
+	<string name="Iron Gear Maker_CRAFT_DESC">Eine Maschine, die automatisch Eisenzahnräder aus Eisenbarren herstellt.</string>
+	<string name="Iron Gear Maker_CRAFT_HINT">Viel effizienter als Handarbeit!</string>
+	
+	<string name="Airlock_Inner">Luftschleuse Innen</string>
+	<string name="AirLock_Inner_DESC">Irrelevant.</string>
+	<string name="AirLock Inner">Luftschleuse Innen</string>
 	</resources>
