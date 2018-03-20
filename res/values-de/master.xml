@@ -4473,21 +4473,21 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	<string name="Reinforced Plated Room Floor">Verstärkter, mit Platten versehener Raumboden</string>
 	<string name="Reinforced Plated Room Floor_DESC">Streichbarer, verstärkter Boden, speziell für Räume entworfen.</string>
 	<string name="Reinforced Plated Room Floor_CRAFT_DESC">Streichbarer, verstärkter Boden, speziell für Räume entworfen.</string>
-	<string name="Reinforced Plated Room Floor_CRAFT_HINT">Verbraucht Paste - Du wirst Paste verlieren, wenn du es ausgräbst. Mit Vorsicht platzieren.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_HINT">Verbraucht Paste - Du wirst Paste verlieren, wenn du es ausgräbst. Mit Vorsicht platzieren!</string>
 	
 	<string name="Room Detail 1">Raumdekoration 1</string>
 	<string name="Room Detail 1_DESC">Verstärkte Wanddekoration, speziell für Räume entworfen.</string>
 	<string name="Room Detail 1_CRAFT_DESC">Verstärkte Wanddekoration, speziell für Räume entworfen.</string>
-	<string name="Room Detail 1_CRAFT_HINT">Verbraucht Paste - beim ausgraben geht Paste verloren, also mit Vorsicht platzieren.</string>
+	<string name="Room Detail 1_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
 	
 	<string name="Alloyed Space Window">Legiertes Weltraumfenster</string>
 	<string name="Alloyed Space Window_DESC">Streichbares, verstärktes Fenster.</string>
 	<string name="Alloyed Space Window_CRAFT_DESC">Streichbares, verstärktes Fenster. Nicht für den gebrauch in Räumen empfohlen.</string>
-	<string name="Alloyed Space Window_CRAFT_HINT">Verbraucht Paste - beim Ausgraben geht Paste verloren, also mit Vorsicht platzieren.</string>
+	<string name="Alloyed Space Window_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
 	
 	<string name="Room Ventilation Grille">Raumbelüftungsgitter</string>
 	<string name="Room Ventilation Grille_DESC">Lässt Luft durch</string>
-	<string name="Room Ventilation Grille_CRAFT_DESC">Zukünftige Maschine - wird benutzt um die Sauberkeitsrate eines Raumes zu verbessern. ?Es muss ein Sauberraum Ziel getroffen werden?</string>
+	<string name="Room Ventilation Grille_CRAFT_DESC">Zukünftige Maschine - wird benutzt um die Sauberkeitsrate eines Raumes zu verbessern. Es muss ein Sauberraum Ziel getroffen werden.</string>
 	<string name="Room Ventilation Grille_CRAFT_HINT">DAS MUSS NOCH NICHT GEBAUT WERDEN!</string>
 	
 	<string name="Reinforced Plating">Verstärkte Beschichtung</string>
@@ -4507,4 +4507,79 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	
 	<string name="Logistics Grommet">Logistik-Tülle</string>
 	<string name="Logistics Grommet_DESC">Förderbänder transportieren hiermit Gegenstände.</string>
-	</resources>
+	<string name="Advanced Hydroponics Bay">Fortgeschrittene Hydroponik-Bucht</string>
+  <string name="Logistics Grommet_CRAFT_DESC">Förderbänder transportieren hiermit Gegenstände.</string>
+	<string name="Logistics Grommet_CRAFT_HINT">Erster Pass!</string>
+	
+	<string name="Energy Grommet">Energie-Tülle</string>
+	<string name="Energy Grommet_DESC">PTGs, Solar Panels und PSBs werden Energie übertragen.</string>
+	<string name="Energy Grommet_CRAFT_DESC">PTGs, Solar Panels und PSBs werden Energie übertragen.</string>
+	<string name="Energy Grommet_CRAFT_HINT">Erster Pass!</string>
+	
+	<string name="Room Extractor Fan">Raumabzugsventilator</string>
+	<string name="Room Extractor Fan_DESC">Zukünftige Maschine - verwenden Sie diese Option, um die Reinigungsstufe Ihres Zimmers zu verbessern, die erforderlich ist, um die Reinraumbezeichnung zu erhalten.</string>
+	<string name="Room Extractor Fan_CRAFT_DESC">Zukünftige Maschine - verwenden Sie diese Option, um die Reinigungsstufe Ihres Zimmers zu verbessern, die erforderlich ist, um die Reinraumbezeichnung zu erhalten.</string>
+	<string name="Room Extractor Fan_CRAFT_HINT">NICHT BOTHER AUFBAUEN DIESES NOCH!</string>
+	
+	<string name="Reinforced Plated Room Wall">Verstärkte, überzogene Raumwand</string>
+	<string name="Reinforced Plated Room Wall_DESC">Verstärkte,überzogene Raumwand</string>
+	<string name="Reinforced Plated Room Wall_CRAFT_DESC">Überstreichbare, verstärkte Wand, speziell für Räume konzipiert.</string>
+	<string name="Reinforced Plated Room Wall_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
+	
+	<string name="BaubleBerry Seed">Bauble-Beerensamen</string>
+	<string name="BaubleBerry Seeds">Bauble-Beerensamen</string>
+	<string name="Tri Seed">Tri Samen</string>
+	<string name="Tri Seeds">Tri Samen</string>
+	<string name="UnderGrump Seed">UnderGrump Samen</string>
+	<string name="UnderGrump Seeds">UnderGrump Samen</string>
+	<string name="GoopyDangler Seed">GoopyDangler Samen</string>
+	<string name="GoopyDangler Seeds">GoopyDangler Samen</string>
+	<string name="Coxcomb Seed">Coxcomb-Samen</string>
+	<string name="Coxcomb Seeds">Coxcomb-Samen</string>
+	<string name="LeafyDangler Seed">LeafyDangler Samen</string>
+	<string name="LeafyDangler Seeds">LeafyDangler Samen</string>
+	<string name="TundraBreath Seed">TundraBreath Samen</string>
+	<string name="TundraBreath Seeds">TundraBreath Samen</string>
+	
+	<string name="Super Construction Paste Grinder">Super Construction Paste Grinder</string>
+	<string name="Super Construction Paste Grinder_DESC">Verwendet \"Müll\" oder Kohleblöcke, um Baupaste im Verhältnis 1: 8 herzustellen.</string>
+	<string name="Super Construction Paste Grinder_CRAFT_DESC">Wandelt nutzlosen Müll und Kohle in Baupaste um. Alle ästhetischen Blöcke verwenden Konstruktionspaste!</string>
+	<string name="Super Construction Paste Grinder_CRAFT_HINT">Funktioniert nur, wenn Sie den Dapper Indie Supporter DLC haben.</string>
+	
+	<string name="Lightweight Machine Housing Crafter">Leichte Maschinenhaus Herstellung</string>
+	<string name="Lightweight Machine Housing Crafter_DESC">Dreht 6 Platten in 1 Gehäuse.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Eine Maschine, die das Automatische herstellen von Maschinengehäusen aus Zinnplatten unterstützt.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Viel effizienter als Handarbeit!</string>
+	
+	<string name="Priority Splitter">Prioritätssplitter</string>
+	<string name="Priority Splitter_DESC">Sendet alle eingehenden Elemente Richtig, sofern nicht blockiert, dann Links.</string>
+	<string name="Priority Splitter_CRAFT_DESC">Sendet alle eingehenden Elemente Richtig, sofern nicht blockiert, dann Links.</string>
+	<string name="Priority Splitter_CRAFT_HINT">Direkt an Förderbänder oder Container anschließen. Funktioniert nur korrekt, wenn beide Seiten einen Ausgang haben.</string>	
+	
+	<string name="HerbiCor">HerbiCor</string>
+	<string name="HerbiCor_DESC">Sammelt in der Nähe von nicht geernteten Pflanzen im Freien und gibt sie zurück.
+Benötigt angehängten Lagercontainer.</string>
+	<string name="HerbiCor_CRAFT_DESC">Sammelt in der Nähe von nicht geernteten Pflanzen im Freien und gibt sie zurück. Benötigt angehängten Lagercontainer.</string>
+	<string name="HerbiCor_CRAFT_HINT">Auch gut für Framerate!</string>	
+	
+	<string name="Generic Room Controller">Allgemeiner Raum-Controller</string>
+	<string name="Generic Room Controller_DESC">Sendet alle eingehenden Elemente Richtig, sofern nicht blockiert, dann Links.</string>
+	<string name="Generic Room Controller_CRAFT_DESC">Platz in einem Raum und folgen Sie den Anweisungen.</string>
+	<string name="Generic Room Controller_CRAFT_HINT">Baue es auf dem Boden. Anweisungen sind in dem unteren linken Fenster, wenn Sie es tun!</string>	
+
+	<string name="Ampule Dispenser">Ampullenspender</string>
+	<string name="Ampule Dispenser_DESC">Platzieren Sie über einem Ampulenhersteller</string>
+	<string name="Ampule Dispenser_CRAFT_HINT">Verwenden Sie, um Ampules aus einem angeschlossenen Ampulenherzusteller und zu verbessern</string>
+	<string name="Ampule Dispenser_CRAFT_DESC">Trage eins. IMMER einen tragen. (In Inventar setzen, um automatisch zu feuern)</string>	
+	
+	<string name="Ampule Crafter">Ampullenhersteller</string>
+	<string name="Ampule Crafter_DESC">Platzieren Sie sie unter einem Ampullenspender, der an einem Vorratsbehälter für Pflanzen befestigt ist.</string>
+	<string name="Ampule Crafter_CRAFT_HINT">Verwenden Sie, um Ampules zu einem angeschlossenen Ampullenhersteller herzustellen und zu verbessern</string>
+	<string name="Ampule Crafter_CRAFT_DESC">Trage eins. IMMER einen tragen. (In Inventar setzen, um automatisch zu feuern)</string>
+	
+	<string name="Base Scanner">Basisscanner</string>
+	<string name="Base Scanner_DESC">Platz in einem Raum. Beobachten. Lernen. Fortschritt!</string>
+	<string name="Base Scanner_CRAFT_HINT">Ein filterbares Echtzeit-Diagramm, das jeden Aspekt der Leistung Ihrer Basis überwacht.</string>
+	<string name="Base Scanner_CRAFT_DESC">Platz in einem Raum. Beobachten. Lernen. Fortschritt!</string>
+	
+</resources>
