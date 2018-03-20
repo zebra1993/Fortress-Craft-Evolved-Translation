@@ -4463,4 +4463,7 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	<string name="AirLock Inner_CRAFT_DESC">Verbindet Räume mit Luftschleusen</string>
 	<string name="AirLock Inner_CRAFT_HINT">Erstellen Sie ein 3x3x1 oder 1x3x3 Layout</string>
 	
+	<string name="Airlock_Outer">Luftschleuse Außen</string>
+	<string name="AirLock_Outer_DESC">Irrelevant.</string>
+	<string name="AirLock Outer">Luftschleuse Außen</string>
 	</resources>
