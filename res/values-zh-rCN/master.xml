@@ -3596,4 +3596,19 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="CPH_Health">CPH健康</string>
   <string name="LOIC_En_Route">LOIC在路上！</string>
   <string name="LOIC_returning_recharge">LOIC返回充电！</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">通过制造工厂来修复你的机器人助手ARTHER！</string>
+  <string name="Discharge_Volley">让子弹放电</string>
+  <string name="OET_Charge">OET充电</string>
+  <string name="Converting_world_wait">正在转换世界，请稍等！</string>
+  
+<string name="Placed_in_Quadrant">放在象限里</string>
+  <string name="Current_Quadrant_already_cleared">这个象限已被清空！</string>
+  <string name="Current_Quadrant_has_Overmind">这个象限激活了主宰！</string>
+  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">离CPH太近了而不能激活，移到一个有效的目标旁边！</string>
+  <string name="Scanning_area_optimal_targetting">为最佳定位扫描区域…</string>
+  <string name="Looking_for_OET">寻找轨道传送器…</string>
+  <string name="Scan_complete">扫描完成。</string>
+  <string name="Orbital_Bombardment_requested">请求轨道轰炸</string>
+  <string name="You_should_probably_run_away_now">你现在最好离开这里，如果你不看向罢工(打击)，那你可以达成一项成就！</string>
+  <string name="No_charged_OET_located">没有带电的轨道传送器定位。</string>
   </resources>
