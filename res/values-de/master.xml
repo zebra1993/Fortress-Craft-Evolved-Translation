@@ -4466,4 +4466,6 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	<string name="Airlock_Outer">Luftschleuse Außen</string>
 	<string name="AirLock_Outer_DESC">Irrelevant.</string>
 	<string name="AirLock Outer">Luftschleuse Außen</string>
+	<string name="AirLock Outer_DESC">Verbindet Luftschleusen mit der Außenwelt</string>
+	<string name="AirLock Outer_CRAFT_DESC">Verbindet Räume mit Luftschleusen</string>
 	</resources>
