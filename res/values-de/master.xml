@@ -4495,4 +4495,15 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 	<string name="Reinforced Plating_CRAFT_DESC">Streichbare, verstärkte Wand. Speziell für Räume entworfen.</string>
 	<string name="Reinforced Plating_CRAFT_HINT">Verbraucht Paste - beim Ausgraben geht Paste verloren, also mit Obacht platzieren!</string>
 	
+	<string name="Room Wall Panel">Zimmerwand</string>
+	<string name="Room Wall Panel_DESC">Zimmerwand</string>
+	<string name="Room Wall Panel_CRAFT_DESC">Überstreichbare, verstärkte Wand, speziell für Räume konzipiert.</string>
+	<string name="Room Wall Panel_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
+	
+	<string name="Room Light Reflector">Raumlicht-Reflektor</string>
+	<string name="Room Light Reflector_DESC">Raumlicht-Reflektor</string>
+	<string name="Room Light Reflector_CRAFT_DESC">Verstärkter Deckenreflektor, speziell für Räume konzipiert.</string>
+	<string name="Room Light Reflector_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
+	
+	<string name="Logistics Grommet">Logistik-Tülle</string>
 	</resources>
