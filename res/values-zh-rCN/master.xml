@@ -4477,4 +4477,21 @@ Needs attached storage hopper.</string>
 	<string name="Base Scanner_CRAFT_HINT">A filterable, real-time graph monitoring every aspect of your base\'s performance.</string>
 	<string name="Base Scanner_CRAFT_DESC">Place in a room. Observe. Learn. Progress!</string>
 	
-</resources>
+<string name="found">发现</string>
+  <string name="Progression_Youve_smelted">进展！ 你已经熔炼了AMOUNT锭！</string>
+  <string name="RESEARCH">研究</string>
+  <string name="Unknown_Requirement_X">未知要求：{0}</string>
+  <string name="Unknown">未知</string>
+  <string name="unknown">未知的</string>
+  <string name="Pressure_X_bar">压力：{0}栏</string>
+  <string name="Powered_compressor_required_beyond_X_m">{0} m以外需要动力压缩机</string>
+  <string name="Home_Raise_Lift">（家庭）举起电梯。</string>
+  <string name="End_Lower_Lift">（结束）较低的提升。</string>
+  
+<string name="Looking_offload_X_HEFCs">希望卸载{0}高辛烷值燃料罐</string>
+  <string name="Compositing_materials">合成材料...</string>
+  <string name="Compositing_X_s_left_X_PPS">合成; {0}剩下。 @ {1} pps</string>
+  <string name="STORAGE_FULL_OFFLOAD">存储已满！卸载！</string>
+  <string name="No_fuel_to_offload">没有燃油卸载</string>
+  <string name="Power_X_X">功率：｛0｝／｛1｝</string>
+  </resources>
