@@ -4494,4 +4494,17 @@ Needs attached storage hopper.</string>
   <string name="STORAGE_FULL_OFFLOAD">存储已满！卸载！</string>
   <string name="No_fuel_to_offload">没有燃油卸载</string>
   <string name="Power_X_X">功率：｛0｝／｛1｝</string>
-  </resources>
+  <string name="Storing_X_coal_and_X_HEF_Canisters">储存 {0} 煤和 {1} HEF容器</string>
+  
+<string name="DigiStruct_power_needed_X">DigiStruct需要能量； {0}</string>
+  <string name="Waiting_for_target_lock">等待目标锁上...</string>
+  <string name="CryoPlasm_Cleared_X_m">已清楚CryoPlasm； {0}立方米</string>
+  
+<string name="Storing_X_Coal_and_X_HEF_Canisters">储存 {0} 煤和 {1} HEF容器</string>
+  
+<string name="Advanced Hydroponics Bay">跟高级的Hydroponics Bay</string>
+  <string name="Iron Gear Maker">铁齿轮制造者</string>
+	<string name="Room Wall Panel_DESC">" "</string>
+	<string name="Room Light Reflector_DESC">" "</string>
+	<string name="Reinforced Plated Room Wall_DESC">" "</string>
+	</resources>
