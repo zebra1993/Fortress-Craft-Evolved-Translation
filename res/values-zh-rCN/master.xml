@@ -813,12 +813,12 @@
     <string name="Tundra">冻土</string>
     <string name="Tundra_DESC">" "</string>
     <string name="Diamond Crystal">金刚石</string>
-    <string name="DapperScale_DESC">" "</string>
-    <string name="DapperFrame_DESC">" "</string>
-    <string name="DapperVIP_DESC">" "</string>
+    <string name="DapperScale_DESC">...</string>
+    <string name="DapperFrame_DESC">...</string>
+    <string name="DapperVIP_DESC">...</string>
     <string name="DapperVIP">礼服VIP</string>
     <string name="Present1_DESC">" "</string>
-    <string name="DapperWall_DESC">" "</string>
+    <string name="DapperWall_DESC">...</string>
     <string name="TestDiffuse_DESC">" "</string>
     <string name="Snowman_DESC">" "</string>
     <string name="Diamond Crystal_DESC">这两种晶体可以抛光后制造各种镜头和其他有用的东西。</string>
@@ -942,16 +942,15 @@
     <string name="Motorised Logistics Hopper">主动式周转送料罐</string>
     <string name="Motorised Logistics Hopper_DESC">尚未实现，不是送料器的关系而是传送带的限制，真不幸。</string>
     <string name="Solar Panel">太阳能发电板</string>
-    <string name="Solar Panel_DESC">在白天发电。
-对相邻电池充电.</string>
+    <string name="Solar Panel_DESC">在白天发电\\n对相邻电池充电。</string>
     <string name="CryoHopper_DESC">低温保存设备，需要电力。在低温环境下效率更好。</string>
     <string name="Ivy_DESC">" "</string>
     <string name="DapperFrame">Dapper框架</string>
-    <string name="DapperScale">DapperScale</string>
+    <string name="DapperScale">Dapper刻度</string>
     <string name="DapperWall">Dapper墙</string>
     <string name="TestDiffuse">散布测试</string>
     <string name="TriSeed">三仔果</string>
-    <string name="UnderGrump">UnderGrump</string>
+    <string name="UnderGrump">在坏脾气下</string>
     <string name="GoopyDangler">胶状半流体Dangler[暂译]（GoopyDangler）</string>
     <string name="CoxComb">篦子（CoxComb）</string>
     <string name="LeafyDangler">枝繁叶茂的Dangler[暂译]</string>
@@ -1002,58 +1001,36 @@
     <string name="ConfigurableLight">灯光模块</string>
     <string name="ConfigurableLight_DESC">" "</string>
     <string name="Central Power Hub">能源中枢</string>
-    <string name="Central Power Hub_DESC">产生少量能源。
-可以燃烧资源来产出能量。
-对相邻结构进行充能。</string>
+    <string name="Central Power Hub_DESC">产生少量能源。\\n可以燃烧资源来产出能量。\\n对相邻结构进行充能。</string>
     <string name="Ore Extractor">矿物分离器</string>
-    <string name="Ore Extractor_DESC">采集矿物。
-内部可以存储25个矿物
-每分钟采集1个矿物。</string>
+    <string name="Ore Extractor_DESC">有效的采集矿物。\\n内部可以存储25个矿物。\\n每分钟采集1个矿物。</string>
     <string name="Power Storage Block">能量块</string>
-    <string name="Power Storage Block_DESC">存储电能
-从周边发电设备吸收电能
-给其它机械供电。</string>
+    <string name="Power Storage Block_DESC">存储少量电能。\\n从周边发电设备吸收电能。\\n给其它机械供电。</string>
     <string name="Power Storage MK2">能量块 MK2</string>
-    <string name="Power Storage MK2_DESC">存储更多电能
-从周边发电设备吸收电能
-给其它机械供电。</string>
-    <string name="Power Storage MK3_DESC">存储更多电能
-从周边发电设备吸收电能
-给其它机械供电。</string>
+    <string name="Power Storage MK2_DESC">存储更多电能。\\n从周边发电设备吸收电能。\\n给其它机械供电。</string>
+    <string name="Power Storage MK3_DESC">存储更多电能。\\n从周边发电设备吸收电能。\\n给其它机械供电。</string>
     <string name="Power Storage MK3">能量块 MK3</string>
     <string name="Organic Power Storage">有机能量块</string>
     <string name="Organic Power Storage_DESC">只能低速传送电能。</string>
-    <string name="StorageHopper_DESC">可以存储100个物体
-自动传输
-使用E键来修改传输方式。</string>
+    <string name="StorageHopper_DESC">可以存储100个物体。\\n自动传输。\\n使用E键来修改传输方式。</string>
     <string name="LogisticsHopper_DESC">每10秒传输1个物体。</string>
     <string name="MiniHopper_DESC">每30秒传输一个物体。</string>
     <string name="Organic Solar Panel">有机太阳能发电板</string>
-    <string name="Organic Solar Panel_DESC">在夜间也能发出少许电量
-给周边电池充电。</string>
+    <string name="Organic Solar Panel_DESC">在夜间也能发出少许电量\\n给周边电池充电。</string>
     <string name="Basic Laser Energy Transmitter">基础型激光输电器</string>
-    <string name="Basic Laser Energy Transmitter_DESC">可以缓慢地将电力传送到远方
-最大距离32
-尽快升级。</string>
+    <string name="Basic Laser Energy Transmitter_DESC">可以缓慢地将电力传送到远方。\\n最大距离32。\\n尽快升级。</string>
     <string name="Laser Energy Transmitter MK1">激光输电器 MK1</string>
-    <string name="Laser Energy Transmitter MK1_DESC">将电力输送到远方
-最大距离64
-对准能量块。</string>
+    <string name="Laser Energy Transmitter MK1_DESC">将电力输送到远方。\\n最大距离64。\\n对准能量块。</string>
     <string name="Laser Energy Transmitter MK2">激光输电器 MK2</string>
     <string name="Laser Energy Transmitter MK2_DESC">更有效率的远程输电器！</string>
     <string name="Laser Energy Transmitter MK3">激光输电器 MK3</string>
     <string name="Laser Energy Transmitter MK3_DESC">最强力的单砖块输电器。</string>
     <string name="BFL-9000">BFL-9000</string>
-    <string name="BFL-9000_DESC">大型采矿激光
-切割出5X5的隧道
-耗电大户。</string>
+    <string name="BFL-9000_DESC">大型采矿激光。\\n切割出5X5的隧道。\\n耗电大户。</string>
     <string name="Pyrothermic Generator">火电站</string>
-    <string name="Pyrothermic Generator_DESC">将燃料转化为电力
-每分钟消耗1单位燃料。</string>
+    <string name="Pyrothermic Generator_DESC">将燃料转化为电力。\\n每分钟消耗1单位燃料。</string>
     <string name="AI Mover Control">AI搬运工控制器</string>
-    <string name="AI Mover Control_DESC">创建一个AI机器人
-在矿点和送料罐之间移动
-效率低下。</string>
+    <string name="AI Mover Control_DESC">创建一个AI机器人。\\n在矿点和送料罐之间移动。\\n效率低下。</string>
     <string name="Basic Matter Mover">基础型物质传输器</string>
     <string name="Basic Matter Mover_DESC">最大传输率： 150个/分钟 最大传输距离:64米</string>
     <string name="Dual Matter Mover">双管物质传输器</string>
@@ -1097,26 +1074,19 @@
     <string name="Motorised Conveyor">高速传送带</string>
     <string name="Motorised Conveyor_DESC">以150个/分钟的速度传送物体！</string>
     <string name="Research Station">科研站</string>
-    <string name="Research Station_DESC">处理扫描结果，研发科技。
-需要电力。</string>
+    <string name="Research Station_DESC">处理扫描结果和研发科技\\n技术。需要电力。</string>
     <string name="Forced Induction">增压进气设备</string>
-    <string name="Forced Induction_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
+    <string name="Forced Induction_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
     <string name="MK2 Forced Induction">MK2增压进气设备</string>
-    <string name="MK2 Forced Induction_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
-    <string name="MK3 Forced Induction_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
-    <string name="MK4 Forced Induction_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
-    <string name="MK5 Forced Induction_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
+    <string name="MK2 Forced Induction_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
+    <string name="MK3 Forced Induction_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
+    <string name="MK4 Forced Induction_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
+    <string name="MK5 Forced Induction_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
     <string name="MK3 Forced Induction">MK3增压进气设备</string>
     <string name="MK4 Forced Induction">MK4增压进气设备</string>
     <string name="MK5 Forced Induction">MK5增压进气设备</string>
     <string name="ARC Smelter Upgrade">电弧炉升级装置</string>
-    <string name="ARC Smelter Upgrade_DESC">消耗更多电力来提升熔炉效率
-需要盖在熔炉顶上。</string>
+    <string name="ARC Smelter Upgrade_DESC">消耗更多电力来提升熔炉效率。\\n需要盖在熔炉顶上。</string>
     <string name="Turret MK1">机枪塔MK1</string>
     <string name="Turret MK1_DESC">适合保卫工厂。</string>
     <string name="Turret MK2">机枪塔MK2</string>
@@ -1130,38 +1100,23 @@
     <string name="Geological Surveyor">地质勘探器</string>
     <string name="Geological Surveyor_DESC">确保你的采矿场不会放偏。</string>
     <string name="Manufacturing Plant">制造车间</string>
-    <string name="Manufacturing Plant_DESC">重要自动化生产机械
-可以通过安装模块来升级
-需要电力。</string>
+    <string name="Manufacturing Plant_DESC">重要自动化生产机械。\\n可以通过安装模块来升级。\\n需要电力。</string>
     <string name="3D Printer">3D打印机</string>
-    <string name="3D Printer_DESC">制造车间模块.
-当连接至制造工厂时
-解锁3D打印工序。</string>
+    <string name="3D Printer_DESC">制造车间模块.\\n解锁3D打印工序\\n当连接至制造工厂时。</string>
     <string name="Compressor">压缩机模块</string>
-    <string name="Compressor_DESC">制造车间模块
-连接到制造厂
-解锁压缩机。</string>
+    <string name="Compressor_DESC">制造车间模块。\\n解锁压缩机\\n当连接到制造厂时。</string>
     <string name="Extruder Module">挤出机模块</string>
-    <string name="Extruder Module_DESC">制造车间模块
-连接到制造工厂
-解锁挤出机生产工序。</string>
+    <string name="Extruder Module_DESC">制造车间模块。\\n解锁挤出机生产工序\\n当连接到制造工厂时。</string>
     <string name="Chip Etcher">芯片蚀刻模块</string>
-    <string name="Chip Etcher_DESC">制造车间模块
-连接至制造工厂
-解锁芯片蚀刻机工序。</string>
+    <string name="Chip Etcher_DESC">制造车间模块。\\n解锁芯片蚀刻机工序\\n当连接至制造工厂时。</string>
     <string name="Hydrojet Cutter">水刀切割器</string>
-    <string name="Hydrojet Cutter_DESC">制造车间模块
-连接至建造工厂
-解锁水刀切割机。</string>
+    <string name="Hydrojet Cutter_DESC">制造车间模块。\\n解锁水刀切割机\\n当连接至制造工厂时。</string>
     <string name="Robotic Welder">机械焊臂</string>
-    <string name="Robotic Welder_DESC">制造车间模块
-安装后解锁焊接产物。</string>
+    <string name="Robotic Welder_DESC">制造车间模块。\\n当连接至制造工厂时解锁焊接产物。</string>
     <string name="Incubator">孵化器</string>
-    <string name="Incubator_DESC">制造车间模块
-安装后解锁孵化产物。</string>
+    <string name="Incubator_DESC">制造车间模块。\\n安装后解锁孵化产物。</string>
     <string name="Assembly Station">组装站</string>
-    <string name="Assembly Station_DESC">制造车间模块
-安装后解锁组装类机械。</string>
+    <string name="Assembly Station_DESC">制造车间模块。\\n安装后解锁组装类机械。</string>
     <string name="Refinery Controller">精炼控制器</string>
     <string name="Refinery Controller_DESC">控制精炼过程，可以将碳水化合物重组为其它形态。</string>
     <string name="Refinery Reactor Vat">精炼反应釜</string>
@@ -1289,8 +1244,7 @@
     <string name="T4 Turret">T4机枪塔</string>
     <string name="T4 Turret_DESC">无关</string>
     <string name="Logic Laser Emitter">周转激光发射器</string>
-    <string name="Logic Laser Emitter_DESC">很有创意的激光机械
-还没做好</string>
+    <string name="Logic Laser Emitter_DESC">很有创意的激光机械。\\n还没做好</string>
     <string name="Laser AND Gate">激光与门</string>
     <string name="Laser AND Gate_DESC">" "</string>
     <string name="Laser OR Gate">激光或门</string>
@@ -1308,13 +1262,9 @@
     <string name="Lift w/underside Piston">升降机</string>
     <string name="Lift w/underside Piston_DESC">工作范围64米，工作速度每秒1米</string>
     <string name="Lift Compressor">升降机压缩器</string>
-    <string name="Lift Compressor_DESC">需要电力
-增加T1升降机速度
-安装到T1升降机上使用。</string>
+    <string name="Lift Compressor_DESC">需要电力。\\n增加T1升降机速度\\n安装到T1升降机上使用。</string>
     <string name="Lift Manual Control Module">升降机手工控制模块</string>
-    <string name="Lift Manual Control Module_DESC">允许手工操作升降机
-使用Home和End键来控制
-安装到T1升降机上使用。</string>
+    <string name="Lift Manual Control Module_DESC">允许手工操作升降机\\n使用Home和End键来控制！\\n安装到T1升降机上使用。</string>
     <string name="MK1 Robot Arm">MK1 机械臂</string>
     <string name="MK1 Robot Arm_DESC">可以在传送带之间转移东西。</string>
     <string name="Advanced Robot Arm Control Module">高级机械臂控制模块</string>
@@ -1346,7 +1296,7 @@
     <string name="Zipper Merge">双路并轨器</string>
     <string name="Zipper Merge_DESC">以1：1的比率合并两条传送带。</string>
     <string name="3'n1 Zipper Merge">3\'n1 拉链并道</string>
-    <string name="3'n1 Zipper Merge_DESC">Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!</string>
+    <string name="3'n1 Zipper Merge_DESC">以RRR L的顺序快速地将两行合并成一行。使用这个使研究Pod组装一个doddle！</string>
     <string name="Rapid Zipper Merge">高速双路并轨器</string>
     <string name="Rapid Zipper Merge_DESC">以1：1的比例高速合并两条传送带。</string>
     <string name="Fusion Reactor Pylon">聚变反应塔</string>
@@ -1554,15 +1504,13 @@
     <string name="Construction Paste">建筑混合浆</string>
     <string name="Construction Paste_DESC">" "</string>
     <string name="FALCOR MK1">FALCOR MK1</string>
-    <string name="FALCOR MK1_DESC">将FALCOR信标处的物品搬回。
-需要安装在送料罐旁边。</string>
+    <string name="FALCOR MK1_DESC">将FALCOR信标处的物品搬回。\\n需要安装在送料罐旁边。</string>
     <string name="Logistics FALCOR">物流FALCOR</string>
-    <string name="Logistics FALCOR_DESC">从安装在送料罐顶上的FALCOR信标处运回。
-需要安装在送料罐旁边。</string>
+    <string name="Logistics FALCOR_DESC">从安装在送料罐顶上的FALCOR信标处运回。\\n需要安装在送料罐旁边。</string>
     <string name="FALCOR Beacon">FALCOR信标</string>
     <string name="FALCOR Beacon_DESC">" "</string>
     <string name="SpiderBotBase">蜘蛛机器人基地</string>
-    <string name="SpiderBotBase_DESC">Not relevant</string>
+    <string name="SpiderBotBase_DESC">不相关</string>
     <string name="Laser Resin Ablator">激光树脂烧蚀器</string>
     <string name="Laser Resin Ablator_DESC">切割附近的硬化树脂</string>
     <string name="Laser Resin Liquifier">激光树脂液化机</string>
@@ -1686,7 +1634,7 @@
     <string name="Red Warning Light">红色警报灯</string>
     <string name="Warning Strobe">闪烁警告灯</string>
     <string name="Organic Solar Panel MK2">有机太阳能发电板 MK2</string>
-    <string name="Organic Solar Panel MK2_DESC">Not relevant</string>
+    <string name="Organic Solar Panel MK2_DESC">不相关</string>
     <string name="Glow Tubes">荧光草</string>
     <string name="Glow Tubes_DESC">这些到处生长的发光植物含有有用的纤维质。</string>
     <string name="Never Visibole">永远不可见</string>
@@ -1694,9 +1642,7 @@
     <string name="Large Rocks">大石块</string>
     <string name="Large Rocks_DESC">大型地表石块，含有微量矿物。</string>
     <string name="Workshop Placement">工作室布局</string>
-    <string name="Workshop Placement_DESC">以斜向成对放置
-创建具体的工作室
-尺寸 2x2x2 到 8x8x8</string>
+    <string name="Workshop Placement_DESC">以斜向成对放置\\n创建具体的工作室\\n尺寸 2x2x2 到 8x8x8</string>
    <string name="Solar Panel_CRAFT_DESC">太阳能发电板在白天将部分阳光转化为电能，供给周围设备。需要天气晴朗。</string>
     <string name="Solar Panel_CRAFT_HINT">非常适合装在设备顶部</string>
 	<string name="Organic Solar Panel_CRAFT_DESC">太阳能发电板在白天将部分阳光转化为电能，供给周围设备。需要天气晴朗。</string>
@@ -2618,8 +2564,8 @@
 
     <string name="ARTHER_No_Ore">警告！ 最近一分钟没有煤在燃烧！</string>
     <string name="ARTHER_Press_K">按K检查全系激光器。</string>
-    <string name="ARTHER_Press_M">按M键切换到矿石扫描仪！</string>
-    <string name="ARTHER_Unknown_Block">检测到未知方块...</string>
+    <string name="ARTHER_Press_M">"按M键切换到矿石扫描仪！ "</string>
+    <string name="ARTHER_Unknown_Block">"检测到未知方块... "</string>
     <string name="Finished Current Research">当前研究已完成！</string>
     <string name="Finished Research">完成</string>
     <string name="Lab">实验室</string>
@@ -2651,14 +2597,14 @@
     <string name="ARTHER_AttackDetected">发现地表攻击！</string>
     <string name="ARTHER_AutomateGold">. 我们至少要下到-300m的深度然后将金矿的开采自动化。&amp;#34;</string>
     <string name="ARTHER_AutomateIron">. 我们至少要下到-65m的深度然后将铁矿的开采自动化。&amp;#34;</string>
-    <string name="ARTHER_AutomateLithium">. 我们至少要下到-120m的深度然后将锂矿的开采自动化</string>
+    <string name="ARTHER_AutomateLithium">。 我们至少要下到-120m的深度然后将锂矿的开采自动化。&amp;#34;</string>
     <string name="ARTHER_AutomateNickel">. 我们至少要下到-400m的深度然后将金矿的开采自动化&amp;#34;</string>
     <string name="ARTHER_AutomateTitanium">. 我们至少要下到-350m的深度然后将钛矿的开采自动化&amp;#34;</string>
     <string name="ARTHER_Boot">&amp;#34;A.R.T.H.E.R.版本号 1.337f 现已上线。</string>
     <string name="ARTHER_BuildPTG">你应该造一个热能发电机PTG！</string>
     <string name="ARTHER_ChargingSolar">ARTHER 通过太阳能充电...</string>
     <string name="ARTHER_Close">ARTHER 离得近！按TAB键来让他回去！</string>
-    <string name="ARTHER_Days">天</string>
+    <string name="ARTHER_Days">" 天&amp;#34;"</string>
     <string name="ARTHER_Docked">停靠并充能...</string>
     <string name="ARTHER_Extractor_Issue">矿物采掘器出问题了！</string>
     <string name="ARTHER_Far">远离。按TAB把ARTHER召唤回来！</string>
@@ -2670,7 +2616,7 @@
     <string name="ARTHER_FindLithium">如果我们下到更深的地方就能找到锂矿！按M选择扫描仪！</string>
     <string name="ARTHER_FindNickel">如果我们下到更深的地方就能找到镍矿！我们应该下到更深的地方然后Ping未知材料。</string>
     <string name="ARTHER_FindTitanium">如果我们下到更深的地方就能找到钛矿！我们应该下到更深的地方然后Ping未知材料。</string>
-    <string name="ARTHER_GoDeeper">大多数矿藏都发现自更深的地下。按M选择扫描仪然后Ping未知材料</string>
+    <string name="ARTHER_GoDeeper">大多数矿藏都发现自更深的地下。按M选择扫描仪然后Ping未知材料。&amp;#34;</string>
     <string name="ARTHER_More_Extractors">我们得造矿物分离器！</string>
     <string name="ARTHER_NeedCore">急需在制造工厂造一个A.R.T.H.E.R.的能量核心！十万火急！</string>
     <string name="ARTHER_NoPowerCore">错误，没有A.R.T.H.E.R. 电源核心 ++ ??? ++奶酪错误。 从头开始。</string>
@@ -3000,10 +2946,10 @@
 <string name="not_collecting_ore">未采集矿石</string>
 <string name="Base_Battery">基地电池</string>
 <string name="used">已使用</string>
-<string name="PTGs">PTGs</string>
+<string name="PTGs">轻便遥测地面站</string>
 <string name="Enriched">富集了</string>
 <string name="Infused">已注入</string>
-<string name="LPTs">LPTs</string>
+<string name="LPTs">轻便遥测地面站</string>
 <string name="with_lenses">带镜头</string>
 <string name="Storage">存储</string>
 <string name="No_MS_system_detected">未检测到大容量存储系统</string>
@@ -3145,7 +3091,7 @@ ARTHER现在将介绍你的基地的一些功能。
 电已满！</string>
 <string name="Needs_resources_Attach_SH_automate">需要资源。附上一个储料斗以自动化。</string>
 <string name="Burning">燃烧</string>
-<string name="for">for</string>
+<string name="for">持续</string>
 <string name="Time_left">还剩。</string>
 
 <string name="Player_curr_online">当前在线玩家：</string>
@@ -3209,7 +3155,7 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Crash_TerrainGenThread">地形生成线程崩溃意味着新的地形将不再生成。</string>
 
 <string name="crashed">崩溃！</string>
-<string name="Error_message">错误信息：</string>
+<string name="Error_message">"错误信息： "</string>
 <string name="View_Log">查看日志</string>
 <string name="Ignore">无视</string>
 
@@ -3228,7 +3174,7 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Airborne Particulate Compressor_DESC">AirBorne微粒提取器压缩机_DESC</string>
 
 <string name="C5_Spawning">C5 Spawning（产卵中？）</string>
-<string name="PeakBuilds">PeakBuilds</string>
+<string name="PeakBuilds">顶峰建筑</string>
 <string name="Use_Freezon_Injector_supercharge_Lancer">使用Freezon Injector增压器这枪骑兵。</string>
 <string name="Melted">融化的</string>
 <string name="s_since_last_firing">S 自上次射击以来。</string>
@@ -3581,13 +3527,13 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="You_need_Skin_Pack_1_access_skin">你需要拥有Skin Pack＃1来获取这个皮肤！</string>
   <string name="You_need_CRP_fo_this_see_Patreon_details">你需要拥有这个社区奖励包！ （更多细节见http://www.patreon.com/Fortresscraft！）</string>
   <string name="CREATIVE_selected_results_running_Mutators_unpredictable">创造性的选择！选择的结果是不可预测的！</string>
-<string name="Mutator_HardcoreCeilings_Active">支撑天花板或者面对厄运！天然方块不可放置</string>
-<string name="Mutator_AllOre_Not_Active">相当可观的Ore又出现了</string>
+<string name="Mutator_HardcoreCeilings_Active">支撑天花板或者面对厄运！天然方块不可放置.</string>
+<string name="Mutator_AllOre_Not_Active">相当可观的Ore又出现了.</string>
 <string name="Mutator_AggroMobs_Active">现在怪物会攻击视野内的.改装炮塔应对.</string>
 <string name="Mutator_AggroMobs_Not_Active">现在怪物会对你假装冷漠.</string>
 <string name="Mutator_Pandora_Not_Active">坠毁的舱室会包含研究.可能是最棒的.</string>
-<string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明</string>
-<string name="Mutator_HardcoreInv_Not_Active">你的24K纯金眼泪已经被注意到了</string>
+<string name="Mutator_LucrativeMobs_Not_Active">现在怪物会更加聪明.</string>
+<string name="Mutator_HardcoreInv_Not_Active">你的24K纯金眼泪已经被注意到了.</string>
 <string name="Unable_find_any_ore">找不到任何矿石</string>
   <string name="Unable_clear_output_hopper">无法清除输出漏斗</string>
   <string name="Last_Item_X">最近一项: {0}</string>
@@ -3621,19 +3567,19 @@ ARTHER现在将介绍你的基地的一些功能。
 <string name="Stacked_X_x_X">堆积 {0}x {1}</string>
   
 <string name="Suit_Power_X_X">西装电源: {0}/{1}</string>
-  <string name="Activation_in">Activation in</string>
+  <string name="Activation_in">激活</string>
   <string name="DESTROY_NOW_CANCEL">DESTROY NOW TO CANCEL!</string>
   
-<string name="Connecting_to_server_at">Connecting to server at</string>
-  <string name="Only_good_boys_girls_this_skin">Only good little boys and girls can use this skin!</string>
-  <string name="You_need_Skin_Pack_2_access_skin">You need to own Skin Pack #2 to access this skin!</string>
+<string name="Connecting_to_server_at">连接至服务器</string>
+  <string name="Only_good_boys_girls_this_skin">只有好的小孩可以用这个皮肤！</string>
+  <string name="You_need_Skin_Pack_2_access_skin">你需要拥有皮肤包#2以获得这个皮肤！</string>
   
-<string name="Tutorial_Complete">Tutorial Complete!</string>
-  <string name="If_stuck_Press_H_for_help">If you\'re stuck, Press H for help!</string>
-  <string name="Tutorial_in_progress">Tutorial in progress</string>
+<string name="Tutorial_Complete">完成教程！</string>
+  <string name="If_stuck_Press_H_for_help">如果你卡住了，按H来获得帮助！</string>
+  <string name="Tutorial_in_progress">正在进行教程中</string>
   <string name="CPH_is_focus_of_base">The Central Power Hub （CPH） is the focus of your base.</string>
   <string name="PSB_are_main_method_storing_power">Power Storage Blocks （PSBS） are the main method of storing power.</string>
-  <string name="OE_collect_resources_automatically">Ore Extractors collect resources automatically.</string>
+  <string name="OE_collect_resources_automatically">矿石采集器能自动的收集资源。</string>
   <string name="SH_automate_resource_handling">Storage Hoppers automate resource handling</string>
   <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can\'t find anything!</string>
   <string name="Researching_Scans_gives_RP">Researching Scans gives you Research Points</string>
@@ -3769,7 +3715,7 @@ For fancy Statistics, play Survival</string>
 
 <string name="PPS_X_baked">{0} baked</string>
   <string name="X_archives_to_compress">{0} archives to compress!</string>
-  <string name="Safe_to_exit">可以安全地离开。一些档案还没有被压缩，但是这可以被忽略而不会丢失。</string>
+  <string name="Safe_to_exit">可以安全地离开。</string>
   <string name="Save_Queue_X">Save Queue: {0}</string>
   
 <string name="I_just_processed_the_X_scan">I just processed the {0} scan!</string>
