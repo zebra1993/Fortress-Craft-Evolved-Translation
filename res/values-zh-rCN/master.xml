@@ -1285,7 +1285,7 @@
     <string name="Track Terminus">轨道终点</string>
     <string name="Track Gate_DESC">" "</string>
     <string name="Track Terminus_DESC">" "</string>
-    <string name="Track Point">轨道 Point</string>
+    <string name="Track Point">轨道 Point（要点）</string>
     <string name="Track Station">轨道车站</string>
     <string name="Track Point_DESC">" "</string>
     <string name="Track Station_DESC">" "</string>
@@ -3580,43 +3580,43 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="CPH_is_focus_of_base">The Central Power Hub （CPH） is the focus of your base.</string>
   <string name="PSB_are_main_method_storing_power">Power Storage Blocks （PSBS） are the main method of storing power.</string>
   <string name="OE_collect_resources_automatically">矿石采集器能自动的收集资源。</string>
-  <string name="SH_automate_resource_handling">Storage Hoppers automate resource handling</string>
+  <string name="SH_automate_resource_handling">自动化资源处理存储槽内</string>
   <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can\'t find anything!</string>
-  <string name="Researching_Scans_gives_RP">Researching Scans gives you Research Points</string>
-  <string name="Look_at_CPH_press_E">Look at the CPH and press E!</string>
-  <string name="Charge_suit_from_PSB">Charge your suit from the PSB!</string>
-  <string name="Add_200_power_to_OE">Add at least 200 power to the Ore Extractor</string>
-  <string name="Collect_Coal_from_Hopper">Collect Coal from the Hopper!</string>
-  <string name="Hold_RMB_Scan_something">Hold RMB to Scan something!</string>
-  <string name="Research_new_scan">Research your new scan!</string>
-  <string name="Craft_Power_Core">Craft a Power Core!</string>
+  <string name="Researching_Scans_gives_RP">研究扫描给你研究点</string>
+  <string name="Look_at_CPH_press_E">按E看CPH！</string>
+  <string name="Charge_suit_from_PSB">把你的衣服从PSB里拿出来！</string>
+  <string name="Add_200_power_to_OE">向矿石提取器至少添加200的功率</string>
+  <string name="Collect_Coal_from_Hopper">从漏斗里收集煤！</string>
+  <string name="Hold_RMB_Scan_something">保持RMB扫描某物！</string>
+  <string name="Research_new_scan">研究新的扫描！</string>
+  <string name="Craft_Power_Core">制造动力核心！</string>
   <string name="CPH_Rebooting">CPH 重启</string>
   <string name="Killed">消灭</string>
   <string name="attackers">攻击者!</string>
   <string name="CPH_Health">CPH 健康</string>
-  <string name="LOIC_En_Route">LOIC En-Route!</string>
-  <string name="LOIC_returning_recharge">LOIC returning to recharge!</string>
-  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Repair your robotic assistant ARTHER by crafting it at the manufacturing plant!</string>
-  <string name="Discharge_Volley">Discharge Volley</string>
-  <string name="OET_Charge">OET Charge</string>
-  <string name="Converting_world_wait">Converting world, please wait!</string>
+  <string name="LOIC_En_Route">Loic 路线！</string>
+  <string name="LOIC_returning_recharge">Loic回到补给！</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">通过制定在制造厂修理你的机器人助手、！</string>
+  <string name="Discharge_Volley">放电截击</string>
+  <string name="OET_Charge">OET 电荷</string>
+  <string name="Converting_world_wait">转换世界，请稍候！</string>
   
-<string name="Placed_in_Quadrant">Placed in Quadrant</string>
-  <string name="Current_Quadrant_already_cleared">Current Quadrant is already cleared!</string>
-  <string name="Current_Quadrant_has_Overmind">Current Quadrant has active Overmind!</string>
-  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">Too close to CPH to activate! Move near a valid target!</string>
-  <string name="Scanning_area_optimal_targetting">Scanning area for optimal targetting...</string>
-  <string name="Looking_for_OET">Looking for Orbital Transmitter...</string>
-  <string name="Scan_complete">Scan complete.</string>
-  <string name="Orbital_Bombardment_requested">Orbital Bombardment requested</string>
-  <string name="You_should_probably_run_away_now">You should probably run away now. There\'s an achievement if you if don\'t look at the strike!</string>
-  <string name="No_charged_OET_located">No charged Orbital Transmitter located.</string>
-  <string name="OET_ready_for_Strike_Controller">OET ready for Strike Controller!</string>
-  <string name="LOIC_Travel_distance_still">LOIC Travel distance still</string>
-  <string name="Press_E_blow_up_everything_within_very_big_range">Press E to blow up everything within a very big range of here</string>
-  <string name="Press_E_confirm_Strike_Location">Press E to confirm Strike Location.</string>
-  <string name="Overmind_within">Overmind within</string>
-  <string name="destruction_chance">destruction chance</string>
+<string name="Placed_in_Quadrant">放置在象限</string>
+  <string name="Current_Quadrant_already_cleared">当前象限已经清除！</string>
+  <string name="Current_Quadrant_has_Overmind">目前象限有活跃的主宰！</string>
+  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">CPH太近，激活！移动到一个有效的目标附近！</string>
+  <string name="Scanning_area_optimal_targetting">为优化目标的扫描区域…</string>
+  <string name="Looking_for_OET">寻找轨道发射机…</string>
+  <string name="Scan_complete">扫描完成。</string>
+  <string name="Orbital_Bombardment_requested">轨道轰炸的要求</string>
+  <string name="You_should_probably_run_away_now">你现在应该逃跑了。如果你不去看罢工，那会有一个成就！</string>
+  <string name="No_charged_OET_located">无电荷轨道发射机。</string>
+  <string name="OET_ready_for_Strike_Controller">OET 准备罢工控制器！</string>
+  <string name="LOIC_Travel_distance_still">Loic行程进行中</string>
+  <string name="Press_E_blow_up_everything_within_very_big_range">按E把范围内的一切都炸掉</string>
+  <string name="Press_E_confirm_Strike_Location">按E确认罢工（攻击）地点。</string>
+  <string name="Overmind_within">主宰在</string>
+  <string name="destruction_chance">破坏的机会</string>
   
 <string name="Upgraded">升级！</string>
   
@@ -3653,129 +3653,129 @@ However, if you\'re not specific with your instructions, then all sorts of bad t
 <string name="Creative_Mode_No_Info">-- Creative Mode --
 No Information available
 For fancy Statistics, play Survival</string>
-  <string name="Played">Played</string>  
+  <string name="Played">玩</string>  
 
   
-<string name="looks_like_youve_disconnected">It looks like you\'ve been disconnected!</string>
-  <string name="Sorry">Sorry</string>
+<string name="looks_like_youve_disconnected">看来你已经断线了！</string>
+  <string name="Sorry">抱歉</string>
   <string name="Client_Thread_null">Client Thread is null!</string>
-  <string name="Network_Client_closing">Network Client is closing!</string>
-  <string name="Network_Client_not_connected">Network Client is not connected!</string>
+  <string name="Network_Client_closing">网络客户端关闭！</string>
+  <string name="Network_Client_not_connected">网络客户端未连接！</string>
 
   
-<string name="Detail_block_loading">Detail block loading</string>
+<string name="Detail_block_loading">详细的分块加载</string>
 
-  <string name="Empty_Detail_slot">Empty Detail slot</string>
+  <string name="Empty_Detail_slot">空了槽</string>
 
-  <string name="X_cannot_be_dug_up">{0} cannot be dug up!</string>
+  <string name="X_cannot_be_dug_up">{ 0 }无法挖掘！</string>
 
-  <string name="You_dont_have_permissions_to_build_here">You dont have permissions to build here!</string>
+  <string name="You_dont_have_permissions_to_build_here">您没有在这里建立的权限！</string>
 
-  <string name="You_cannot_build_with_X">You cannot build with {0}!</string>
+  <string name="You_cannot_build_with_X">不能用{ 0 }构建！</string>
 
-  <string name="Whoops_Nulldata_for_X">Whoops! Nulldata for {0}</string>
+  <string name="Whoops_Nulldata_for_X">哇！{ 0 }的空数据</string>
 
-  <string name="You_failed_to_craft_a_X">You failed to craft a {0}</string>
+  <string name="You_failed_to_craft_a_X">你没能制造{ 0 }</string>
 
-  <string name="You_dont_have_the_resources_to_autocraft_a_X_you_need_X">You don\'t have the resources to auto-craft a {0} - you need {1}</string>
+  <string name="You_dont_have_the_resources_to_autocraft_a_X_you_need_X">您没有自动生成{ 0 }的资源—您需要{ 1 }</string>
 
-  <string name="You_need_to_craft_a_X_at_youre_base">You need to craft a {0} at your base!</string>
+  <string name="You_need_to_craft_a_X_at_youre_base">你需要在你的基地制造一个{ 0 }！</string>
 
-  <string name="You_dont_have_a_X_in_youre_invetory">You don\'t have a {0} in your inventory!</string>
+  <string name="You_dont_have_a_X_in_youre_invetory">你的库存中没有{ 0 }！</string>
 
-  <string name="You_cannot_build_with_unknown_items">You cannot build with unknown items!</string>
+  <string name="You_cannot_build_with_unknown_items">不能用未知项构建！</string>
 
-  <string name="You_cannot_build_on_top_of_X">You cannot build on top of {0}</string>
+  <string name="You_cannot_build_on_top_of_X">不能在{ 0 }之上构建</string>
 
-  <string name="You_cannot_build_top_of_this">You cannot build on top of this!</string>
+  <string name="You_cannot_build_top_of_this">你不能建立在这之上！</string>
 
-  <string name="You_cant_build_X_at_hight_X">You can\'t build {0} at height {1}!</string>
+  <string name="You_cant_build_X_at_hight_X">无法在高度{ 1 }处构建{ 0 }！</string>
 
-  <string name="You_cant_build_this_at_height_X">You can\'t build this at height {0}!</string>
+  <string name="You_cant_build_this_at_height_X">你不能在高度建造{ 0 }！</string>
 
-  <string name="Warning_Cannot_dug_up_once_constructed">Warning! Cannot be dug up once constructed!</string>
-
-
-  <string name="You_dont_permissions_delete_this">You don\'t have permissions to delete this.</string>
-
-  <string name="Loading_Detail_Block">Loading Detail Block</string>
-
-  <string name="Unnamed">Unnamed</string>
+  <string name="Warning_Cannot_dug_up_once_constructed">警告！挖不出！</string>
 
 
+  <string name="You_dont_permissions_delete_this">您没有删除此权限的权限。</string>
+
+  <string name="Loading_Detail_Block">加载细节块</string>
+
+  <string name="Unnamed">无名</string>
 
 
 
-  <string name="You_need_Dapper_DLC_colourise_torches">You need the Dapper DLC to colourise torches!</string>
+
+
+  <string name="You_need_Dapper_DLC_colourise_torches">你需要短小精悍的DLC提供的火炬！</string>
  
-<string name="Progression_Youve_killed_X_helpless_innocent_lifeforms">Progression! You\'ve killed {0} helpless innocent lifeforms!</string>
-  <string name="Progression_Youve_generated_X_k_power">Progression! You\'ve generated {0}k power!</string>
-  <string name="Progression_Youve_crafted_X_items">Progression! You\'ve crafted {0} items!</string>
+<string name="Progression_Youve_killed_X_helpless_innocent_lifeforms">进展!你杀了{ 0 }无助无辜的生命！</string>
+  <string name="Progression_Youve_generated_X_k_power">进展!您生成{ 0 }k功率！</string>
+  <string name="Progression_Youve_crafted_X_items">进展!您制作了{ 0 }项目！</string>
 
 
-<string name="PPS_X_baked">{0} baked</string>
-  <string name="X_archives_to_compress">{0} archives to compress!</string>
-  <string name="Safe_to_exit">可以安全地离开。</string>
-  <string name="Save_Queue_X">Save Queue: {0}</string>
+<string name="PPS_X_baked">{ 0 }烘焙</string>
+  <string name="X_archives_to_compress">{0} 档案压缩！</string>
+  <string name="Safe_to_exit">安全退出</string>
+  <string name="Save_Queue_X">保存队列：{ 0 }</string>
   
-<string name="I_just_processed_the_X_scan">I just processed the {0} scan!</string>
-  <string name="I_just_researched_the_X_recipe">I just researched the {0} recipe!</string>
-  <string name="I_just_researched_the_X_project">I just researched the {0} project!</string>
+<string name="I_just_processed_the_X_scan">我刚刚处理了{ 0 }扫描！</string>
+  <string name="I_just_researched_the_X_recipe">我刚刚研究了{ 0 }配方！</string>
+  <string name="I_just_researched_the_X_project">我刚刚研究了{ 0 }项目！</string>
 
-  <string name="PROCESS">PROCESS</string>
-  <string name="NO_SCANS">NO SCANS</string>
-  <string name="Unknown_material_Power_required_to_research_X">Power required to research: {0}</string>
-  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Process Unknown Material scans to unlock new Research Projects and Manufacturing Recipes, as well as earn Research Points.</string>
-  <string name="Find_unknown_materials_using_orescanner_ping_facility">Find more unknown materials using the ore scanner\'s ping facility.
-Press M to select the ore scanner then Left Mouse Button to send off a material ping.</string>
-  <string name="For_more_information_on_the_X_open_the_Handbook">For more information on the {0} open the handbook （press H）.</string>
-  <string name="Scans_X">Scans （{0}）</string>
-  <string name="Scans">Scans</string>
-  <string name="Recipes">Recipes</string>
-  <string name="Projects">Projects</string>
-  <string name="Recipes_X">Recipes （{0}）</string>
-  <string name="Projects_X">Projects （{0}）</string>
-  <string name="Value">Value</string>
-  <string name="In_order_know_what_material_is_will_process_scan">In order to know what this material is, you will have to process the scan.</string>
-  <string name="Unprocessed_Scan">Unprocessed Scan</string>
+  <string name="PROCESS">过程</string>
+  <string name="NO_SCANS">没有扫描</string>
+  <string name="Unknown_material_Power_required_to_research_X">研究所需的功率：{ 0 }</string>
+  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">处理未知的材料扫描，解锁新的研究项目和制造配方，以及赚取研究点</string>
+  <string name="Find_unknown_materials_using_orescanner_ping_facility">使用矿石扫描仪的平设施找到更多未知材料。
+按M选择矿石扫描仪，然后离开鼠标按钮发送一个材料平。</string>
+  <string name="For_more_information_on_the_X_open_the_Handbook">有关{ 0 }的更多信息，请打开手册（按H）。</string>
+  <string name="Scans_X">扫描（{0}）</string>
+  <string name="Scans">扫描</string>
+  <string name="Recipes">配方</string>
+  <string name="Projects">项目</string>
+  <string name="Recipes_X">配方 （{0}）</string>
+  <string name="Projects_X">项目 （{0}）</string>
+  <string name="Value">价值</string>
+  <string name="In_order_know_what_material_is_will_process_scan">为了知道这种材料是什么，你必须进行扫描。</string>
+  <string name="Unprocessed_Scan">未经加工的扫描</string>
   
   
-  <string name="Power_required_to_research_X">Power required to research : {0}</string>
-  <string name="Research_project_at_laboratory_Requires">Research this project at the laboratory - Requires:</string>
+  <string name="Power_required_to_research_X">研究所需的功率：{ 0 }</string>
+  <string name="Research_project_at_laboratory_Requires">在实验室研究这个项目-需要：</string>
 
-  <string name="Unlocked_from">Unlocked from</string>
-  <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">For more information on the {0} and a list of what it will unlock, open the handbook （press H）.</string>
+  <string name="Unlocked_from">解锁</string>
+  <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">有关{ 0 }及其解锁列表的更多信息，请打开手册（按H）。</string>
   
-<string name="CONTACT_LOST_REASON_X">CONTACT LOST!
-REASON: {0}</string>
-  <string name="Altitude_X_m_Accel_X">Altitude : {0}m. Accel: {1}m/s²</string>
-  <string name="Fuel_X_X">Fuel : {0}l /{1}kg</string>
-  <string name="Velocity_x_Orbital_Velocity_X">Velocity: {0}m/s. Orbital Velocity: {1}m/s</string>
-  <string name="Mass_X">Mass : {0}kg</string>
-  <string name="Thrust_X">Thrust : {0}N / {1}N</string>
-  <string name="TOO_HEAVY_NEED_AT_LEAST_X_Thrust">TOO HEAVY
-NEED AT LEAST {0}N of Thrust!</string>
-  <string name="Out_of_fuel">Out of fuel</string>
-  <string name="Launch_in_T_X">Launch in T - {0}s</string>
-  <string name="LaunchPad_Collision">LaunchPad Collision</string>
+<string name="CONTACT_LOST_REASON_X">失去了联系！
+原因：{ 0 }</string>
+  <string name="Altitude_X_m_Accel_X">海拔高度：{ 0 } M. 加速：{ 1 }米/秒²</string>
+  <string name="Fuel_X_X">燃料：{ 0 }升 { { 1 }千克</string>
+  <string name="Velocity_x_Orbital_Velocity_X">速度：{0}米/秒。轨道速度：{1}米/秒</string>
+  <string name="Mass_X">质量：{ 0 }千克</string>
+  <string name="Thrust_X">推力 : {0}N / {1}N</string>
+  <string name="TOO_HEAVY_NEED_AT_LEAST_X_Thrust">太重了
+需要至少{ 0 }推力！</string>
+  <string name="Out_of_fuel">缺少燃料</string>
+  <string name="Launch_in_T_X">在T - { 0 }中启动</string>
+  <string name="LaunchPad_Collision">启动碰撞</string>
 
-  <string name="Unset">Unset</string>
-  <string name="Perfect">Perfect</string>
-  <string name="Deadly">Deadly</string>
-  <string name="Exact">Exact</string>
-  <string name="Precise">Precise</string>
-  <string name="Accurate">Accurate</string>
-  <string name="Careful">Careful</string>
+  <string name="Unset">撤消</string>
+  <string name="Perfect">完美的</string>
+  <string name="Deadly">致命的</string>
+  <string name="Exact">精确</string>
+  <string name="Precise">精确的</string>
+  <string name="Accurate">准确的</string>
+  <string name="Careful">小心</string>
   
-  <string name="Careless">Careless</string>
-  <string name="Crappy">Crappy</string>
-  <string name="Lax">Lax</string>
-  <string name="Sloppy">Sloppy</string>
-  <string name="Inaccurate">Inaccurate</string>
-  <string name="Useless">Useless</string>
-  <string name="X_Scope">{0} Scope</string>
+  <string name="Careless">粗心的</string>
+  <string name="Crappy">蹩脚的</string>
+  <string name="Lax">不严格的</string>
+  <string name="Sloppy">草率的</string>
+  <string name="Inaccurate">不准确的</string>
+  <string name="Useless">无用的</string>
+  <string name="X_Scope">{ 0 }范围</string>
   
-  <string name="Refreshing">Refreshing...</string>
+  <string name="Refreshing">使人耳目一新的</string>
   <string name="PUBLIC_Waiting_for_response">[PUBLIC] （Waiting for response）</string>
   <string name="Contacting_server">访问服务器...</string>
   
@@ -3809,26 +3809,26 @@ NEED AT LEAST {0}N of Thrust!</string>
   <string name="Add_Ore_to_begin">添加矿石开始！</string>
   <string name="Click_icon_to_retrieve">点击图标检索</string>
   <string name="Ingredient_in_Ore_Smelter">矿石冶炼厂里成分</string>
-  <string name="Gathering_Materials">Gathering Materials</string>
+  <string name="Gathering_Materials">收集资料</string>
   
 <string name="Gained_X_power">获取 {0} 能量!</string>
   
-  <string name="Undamped">Undamped</string>
-  <string name="Impeded">Impeded</string>
-  <string name="Inhibiting">Inhibiting</string>
-  <string name="Damped">Damped</string>
-  <string name="Absorbing">Absorbing</string>
-  <string name="Interdicting">Interdicting</string>
+  <string name="Undamped">无阻尼</string>
+  <string name="Impeded">阻碍</string>
+  <string name="Inhibiting">抑制</string>
+  <string name="Damped">阻尼</string>
+  <string name="Absorbing">吸收</string>
+  <string name="Interdicting">阻断</string>
   
-  <string name="Vibration">Vibration</string>
-  <string name="Wobbliness">Wobbliness</string>
+  <string name="Vibration">振动</string>
+  <string name="Wobbliness">摇摆不定</string>
   <string name="Balance">Balance</string>
-  <string name="Steadiess">Steadiess</string>
-  <string name="Solidness">Solidness</string>
-  <string name="Fixation">Fixation</string>
+  <string name="Steadiess">稳定</string>
+  <string name="Solidness">坚固</string>
+  <string name="Fixation">固定</string>
   <string name="X_Stock_of_X">"{0} 库存量 {1} "</string>
 
-<string name="Error_machine_tier_not_recognized">Error machine tier not recognized!</string>
+<string name="Error_machine_tier_not_recognized">错误机器层未识别！</string>
   <string name="Looking_for_Attached_Storage">Looking for Attached Storage</string>
   <string name="Searching_for_Storage">Searching for Storage</string>
   <string name="Fully_Stocked">Fully Stocked</string>
@@ -4426,7 +4426,7 @@ Needs attached storage hopper.</string>
 <string name="found">发现</string>
   <string name="Progression_Youve_smelted">进展！ 你已经熔炼了AMOUNT锭！</string>
   <string name="RESEARCH">研究</string>
-  <string name="Unknown_Requirement_X">未知要求：{0}</string>
+  <string name="Unknown_Requirement_X">未知要求：{ 0 }</string>
   <string name="Unknown">未知</string>
   <string name="unknown">未知的</string>
   <string name="Pressure_X_bar">压力：{0}栏</string>
