@@ -3581,7 +3581,7 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="PSB_are_main_method_storing_power">Power Storage Blocks （PSBS） are the main method of storing power.</string>
   <string name="OE_collect_resources_automatically">矿石采集器能自动的收集资源。</string>
   <string name="SH_automate_resource_handling">自动化资源处理存储槽内</string>
-  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can\'t find anything!</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can\'t find anything！</string>
   <string name="Researching_Scans_gives_RP">研究扫描给你研究点</string>
   <string name="Look_at_CPH_press_E">按E看CPH！</string>
   <string name="Charge_suit_from_PSB">把你的衣服从PSB里拿出来！</string>
@@ -3775,7 +3775,7 @@ For fancy Statistics, play Survival</string>
   <string name="Useless">无用的</string>
   <string name="X_Scope">{ 0 }范围</string>
   
-  <string name="Refreshing">使人耳目一新的</string>
+  <string name="Refreshing">使人耳目一新的。。。</string>
   <string name="PUBLIC_Waiting_for_response">[PUBLIC] （Waiting for response）</string>
   <string name="Contacting_server">访问服务器...</string>
   
@@ -3829,31 +3829,31 @@ For fancy Statistics, play Survival</string>
   <string name="X_Stock_of_X">"{0} 库存量 {1} "</string>
 
 <string name="Error_machine_tier_not_recognized">错误机器层未识别！</string>
-  <string name="Looking_for_Attached_Storage">Looking for Attached Storage</string>
-  <string name="Searching_for_Storage">Searching for Storage</string>
-  <string name="Fully_Stocked">Fully Stocked</string>
-  <string name="Looking_for_MS_Crate">Looking for Mass Storage Crate...</string>
-  <string name="Surveying_MS_Crate_distances">Surveying mass storage crate distances...</string>
-  <string name="Currently_stocking_Unknown_Material">Currently stocking : Unknown Material</string>
-  <string name="Currently_stocking_X">Currently stocking : {0}</string>
+  <string name="Looking_for_Attached_Storage">正在寻找附加存储</string>
+  <string name="Searching_for_Storage">正在寻找存储</string>
+  <string name="Fully_Stocked">库存满了</string>
+  <string name="Looking_for_MS_Crate">正在寻找大容量储存箱。。。</string>
+  <string name="Surveying_MS_Crate_distances">正在测量大容量储存箱的距离。。。</string>
+  <string name="Currently_stocking_Unknown_Material">目前存储：未知材料</string>
+  <string name="Currently_stocking_X">目前存储：{0}</string>
   <string name="Stockpile_quantity_X_X_Press_E_configure_Stock_Limits">Stockpile quantity: {0}/{1} 
 Press E to configure Stock limits
 </string>
-  <string name="Press_E_configure_item_stock">Press E to configure item to stock</string>
+  <string name="Press_E_configure_item_stock">按E来存储物品</string>
   <string name="Local_inventory_X_Drone_inventory_X">Local inventory: {0} 
  Drone inventory: {1}</string>
   
-  <string name="Set_Item_Stock">Set Item to Stock</string>
-  <string name="Decrease_Limit">Decrease Limit</string>
-  <string name="Increase_Limit">Increase Limit</string>
-  <string name="Refuse_items_above_limit">Refuse items when above limit</string>
-  <string name="Choose_Item">Choose Item</string>
-  <string name="Enter_Search_Term">Enter Item Search Term</string>
-  <string name="Inventory_Item">Inventory Item</string>
+  <string name="Set_Item_Stock">存储物品</string>
+  <string name="Decrease_Limit">减小限制</string>
+  <string name="Increase_Limit">增大限制</string>
+  <string name="Refuse_items_above_limit">当大于限制时拒绝物品</string>
+  <string name="Choose_Item">选择物品</string>
+  <string name="Enter_Search_Term">输入搜索词项</string>
+  <string name="Inventory_Item">库存物品</string>
   <string name="Stock_X_X">库存: {0}/{1}</string>
-  <string name="Collect_items_above_limit">Collect items when above limit</string>
-  <string name="Searching_for">Searching for:</string>
-  <string name="Stocking_X">Stocking: {0}</string>
+  <string name="Collect_items_above_limit">当大于限制时收集物品</string>
+  <string name="Searching_for">寻找：</string>
+  <string name="Stocking_X">库存中：{0}</string>
   <string name="Stockpile_cleared">库存清理完毕！</string>
   
 <string name="Storage_full">存储已满</string>
@@ -3866,9 +3866,9 @@ Press E to configure Stock limits
   <string name="Cryo_Hopper">低温料斗</string>
   <string name="Used_X_Free_X_E_Open_Storage_Interface">使用:{0}. 空闲:{1} 
 （E）打开存储接口</string>
-  <string name="CryoStorage_Active">CryoStorage Active!</string>
+  <string name="CryoStorage_Active">激活冷冻保存！</string>
   <string name="Solar_Efficiency_X">太阳能效率: {0}</string>
-  <string name="Mag_Range_X">Mag Range: {0}</string>
+  <string name="Mag_Range_X">Mag的范围：{0}</string>
   <string name="Suit_Heater_Active">西装加热器: 激活</string>
   <string name="Suit_Heater_Offline">西装加热器: 离线</string>
   <string name="Toxic_Filter_Active">有毒过滤器: 激活</string>
@@ -3876,29 +3876,29 @@ Press E to configure Stock limits
   <string name="Radiation_protection_Active">辐射防护: 激活</string>
   <string name="Radiation_protection_Offline">辐射防护: 离线</string>
   
-<string name="Orders_X">Orders: {0}</string>
-  <string name="Select_Shape_First">Select Shape First</string>
-  <string name="Instant">Instant</string>
-  <string name="Smooth">Smooth</string>
-  <string name="Layered">Layered</string>
+<string name="Orders_X">指令：{0}</string>
+  <string name="Select_Shape_First">最先选择形状</string>
+  <string name="Instant">立即</string>
+  <string name="Smooth">光滑的</string>
+  <string name="Layered">分层</string>
   <string name="FILL_SOLID">FILL-SOLID</string>
   <string name="FILL_HOLLOW">FILL-HOLLOW</string>
   <string name="Anchor_Base">锚: 基地</string>
   <string name="Anchor_Centre">锚: 中心</string>
   <string name="Not_Buildable">不可构建</string>
   
-<string name="Hold_LeftShift_dismantle_MultiBlock_Machines">Hold Left-Shift to dismantle MultiBlock Machines!</string>
-  <string name="Valuable_machine">Valuable machine!</string>
-  <string name="Multiblock_machine">Multiblock machine!</string>
-  <string name="Quarry">Quarry!</string>
-  <string name="Too_large_Use_LeftShift">Too large! Use LeftShift!</string>
-  <string name="Hold_LeftShift_to_break_this">Hold LeftShift to break this!</string>
+<string name="Hold_LeftShift_dismantle_MultiBlock_Machines">按住左边的Shift来拆除有多个模块的机器！</string>
+  <string name="Valuable_machine">珍贵的机器！</string>
+  <string name="Multiblock_machine">有多个模块的机器！</string>
+  <string name="Quarry">猎物！</string>
+  <string name="Too_large_Use_LeftShift">太大了！用LeftShift！</string>
+  <string name="Hold_LeftShift_to_break_this">按住LeftShift来打破这个！</string>
   <string name="This_is_too_hard_There_no_way_to_dig_up_yet">This is too hard!
 There is no way to dig this up yet!</string>
   <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">This is too hard!
 Upgrade your Build Gun may help!</string>
-  <string name="Use_an_Ore_Extractor">Use an Ore Extractor!</string>
-  <string name="Use_LeftCtrl_to_SuperDig">Use-Left Ctrl to SuperDig!</string>
+  <string name="Use_an_Ore_Extractor">用一个矿石采集器！</string>
+  <string name="Use_LeftCtrl_to_SuperDig">用Left Ctrl来进行高级挖掘！</string>
   
 <string name="ERR_TOO_COLD">ERR. TOO COLD</string>
   <string name="Died_from_hypothermia_Craft_Suit_Heater">Died from hypothermia
@@ -3906,12 +3906,12 @@ Craft a Suit Heater.</string>
   <string name="Died_from_hypothermia_Place_Torches_keep_warm_Power_Boosters_emergency_power">Died from hypothermia
 Place Torches to keep warm!
 Power Boosters give emergency power!</string>
-  <string name="You_went_swimming_in_magma">You went swimming in magma!</string>
-  <string name="You_went_wading_in_magma">You went wading in magma!</string>
-  <string name="Died_from_heat_exposure">Died from heat exposure</string>
+  <string name="You_went_swimming_in_magma">你在岩浆里游泳！</string>
+  <string name="You_went_wading_in_magma">你行走在岩浆里！</string>
+  <string name="Died_from_heat_exposure">因暴露在过热环境而死亡</string>
   <string name="Died_from_temperature_exposure_See_log_file_for_details">Died from temperature exposure （See log file for details!</string>
   
-<string name="Save_Count_X">Save count: {0}</string>
+<string name="Save_Count_X">保存的次数：{0}</string>
 
   
 <string name="Tut_1_Title">Central Power Hub （CPH）</string>
@@ -3938,36 +3938,36 @@ Locate your OE, and access it with E again. Feed it 200 power, and it will work 
 Storage Hoppers （SH） store and process items automatically.
 
 Your machines will take resources from, or give them to, a Storage Hopper. Locate your SH, and press Q to empty it. Remove the Coal that has been mined.</string>
-  <string name="Tut_5_Title">Scanning</string>
+  <string name="Tut_5_Title">扫描中</string>
   <string name="Tut_5_Text">
 You can \'ping\' to locate known or unknown items in the world.
 Once an unknown item is found, you can then scan it.
 
 Find an unscanned item now （inside OR outside the forcefield）, highlight it, and hold Right Mouse until it is scanned.</string>
-  <string name="Tut_6_Title">Researching</string>
+  <string name="Tut_6_Title">研究中</string>
   <string name="Tut_6_Text">
 Once scanned, Unknown Items need to be researched.
 
 Locate and highlight your Research Station, then press E to interact and complete the research.
 
 Researching earns points to unlock new technologies.</string>
-  <string name="Tut_7_Title">Simple Crafting</string>
+  <string name="Tut_7_Title">简单的制作</string>
   <string name="Tut_7_Text">
 ARTHER has helped you through the start of your survival mission - now it\'s time to say Thank you. 
 
 Head to the Crafting Plant, select it, press E and make a Power Core for ARTHER.</string>
-  <string name="Tut_8_Title">Automation</string>
+  <string name="Tut_8_Title">自动化</string>
   <string name="Tut_8_Text">
 You\'ve got a few Storage Hoppers, Laser Power Transmitters and Conveyor Belts left over.
 
 Locate the holo-tutorial around the CPH.
 This shows you an ideal miniature Automation setup. Place your machines there.</string>
-  <string name="Tut_9_Title">Good luck!</string>
+  <string name="Tut_9_Title">祝你好运！</string>
   <string name="Tut_9_Text">
 From now, you\'re on your own. Everything you need to know is in your Survival Handbook. Open it by pressing H.</string>
-  <string name="You_died_in_previous_game_still_dead">You died in a previous game! You\'re still dead!</string>
-  <string name="CPH_not_heal_on_Hardcore_difficulty">The CPH does not heal on Hardcore difficulty!</string>
-  <string name="out_of_health_some_reason">Ran out of health for some reason!</string>
+  <string name="You_died_in_previous_game_still_dead">你在上一个游戏里死掉了！你现在仍然死着！</string>
+  <string name="CPH_not_heal_on_Hardcore_difficulty">在困难模式下CPH不能治疗！</string>
+  <string name="out_of_health_some_reason">因某些原因失去健康！</string>
   <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Died from Toxic Fumes
 Try crafting a Toxic Filter!</string>
   <string name="Unknown_block_detected_Hold_RMB_scan">Unknown block detected...
@@ -3975,7 +3975,7 @@ Hold RMB to scan!</string>
   <string name="Block_scanned_not_researched_Return_to_ResearchStation_identify_Press_x_switch_Build_Gun">Block has been scanned but not researched!
 Return to your Research Station to identify it!
 Press X to switch to Build Gun</string>
-  <string name="X_has_been_researched">{0} has been researched!</string>
+  <string name="X_has_been_researched">{0}已经被研究了！</string>
   <string name="x_return_Build_Gun">X to return to Build Gun
 </string>
   <string name="Scanning_unknown_block_Continue_hold_button_complete_Scan">Scanning unknown block...
@@ -3988,7 +3988,7 @@ Press X to switch to Build Gun</string>
 Continue to hold button to complete Scan</string>
   <string name="Block_Type_X">Block Type: {0}</string>
   <string name="Distance_X_m">Distance : {0}m.</string>
-  <string name="New_Scan_Complete">New Scan Complete!</string>
+  <string name="New_Scan_Complete">新的扫描完成了！</string>
   <string name="Scanned_new_Block_Return_ResearchStation">Scanned new Block!
 Return to your Research Station!</string>
   <string name="Scanned_new_Block_Return_ResearchStation_x_select_BuildGun">Scanned new Block!
@@ -3999,10 +3999,10 @@ Return to your Research Station!</string>
   <string name="Already_Scanned_Return_ResearchStation_x_select_BuildGun">Already Scanned!
 Return to your Research Station!
 X to select Build Gun</string>
-  <string name="Return_ResearchStation">Return to Research Station!</string>
+  <string name="Return_ResearchStation">返回研究站！</string>
   <string name="Block_Type_X_Already_Known">Block Type: {0}
 Already Known</string>
-  <string name="Already_Scanned">Already Scanned!</string>
+  <string name="Already_Scanned">已经扫描了！</string>
   <string name="Ore_Report_normal_X_X_X">Ore Report:
 Type: {0}
 Volume: {1} m3
@@ -4011,53 +4011,53 @@ Total Ore Amount: {2:N0}</string>
 Type: {0}
 Volume: {1} m3
 Total Ore Amount: {2:N4}m</string>
-  <string name="Scanned_X_m_X">Scanned {0}m, {1}</string>
+  <string name="Scanned_X_m_X">扫描了 {0}米，{1}</string>
    
-<string name="Extend_X_X">Extend: {0}/ {1}</string>
-  <string name="Current_Speed_X_ms">Current Speed: {0}m/s</string>
-  <string name="Initialising">Initialising...</string>
-  <string name="Locating_Resources">Locating Resources...</string>
-  <string name="Looking_for_X_coal_and_X_HEFC">Looking for {0} more coal and {1} more HEFC...</string>
-  <string name="X_HOF_ready_offload">{0} High Octane Fuel ready to offload</string>
-  <string name="DigiStructing_Rocket">DigiStructing Rocket</string>
-  <string name="Fuelling_Rocket">Fuelling Rocket</string>
-  <string name="Rocket_Launched">Rocket Launched!</string>
-  <string name="Pad_Empty">Pad Empty.</string>
-  <string name="High_Octane_Fuel_needed_X">High Octane Fuel needed: {0}</string>
+<string name="Extend_X_X">扩大了：{0}/{1}</string>
+  <string name="Current_Speed_X_ms">当前速度：{0}m/s</string>
+  <string name="Initialising">初始化中。。。</string>
+  <string name="Locating_Resources">定位资源中。。。</string>
+  <string name="Looking_for_X_coal_and_X_HEFC">正在寻找 {0}个更多的煤和 {1}个更多的HEFC。。。</string>
+  <string name="X_HOF_ready_offload">{0} 高辛烷油料可以卸下了</string>
+  <string name="DigiStructing_Rocket">数码结构的火箭</string>
+  <string name="Fuelling_Rocket">燃油火箭</string>
+  <string name="Rocket_Launched">火箭已发射！</string>
+  <string name="Pad_Empty">护具空了。</string>
+  <string name="High_Octane_Fuel_needed_X">需要高辛烷油料：{0}</string>
   
-<string name="CPH_Offline_Dazzler_Offline">CPH Offline; Dazzler Offline.</string>
-  <string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Inferno has successfully neutralised a CryoPlasm Spawner!</string>
-  <string name="CryoPlasm_Inferno">CryoPlasm Inferno</string>
-  <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Please attach a Magma Storage via Fluid Pipes...</string>
-  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Scanning for CryoPlasm Spawns within 64 metres...</string>
-  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">Cannot target CryoPlasm Spawner, blocked by {0}!</string>
-  <string name="Time_remaining_X">Time remaining: {0}</string>
-  <string name="WARNING_REGROWTH_IN_X">WARNING! REGROWTH IN: {0}</string>
-  <string name="NEED_COMPRESSED_MAGMA_NOW">NEED COMPRESSED MAGMA NOW!</string>
+<string name="CPH_Offline_Dazzler_Offline">CPH下线；Dazzler下线。</string>
+  <string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">地狱已经成功的中和了CryoPlasm Spawner！</string>
+  <string name="CryoPlasm_Inferno">CryoPlasm的地狱</string>
+  <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">请附加一个岩浆储存器经由流体管道。。。</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">正在64米内扫描CryoPlasm的卵。。。</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">不能定位CryoPlasm Spawner，被 {0} 个所阻挡！</string>
+  <string name="Time_remaining_X">剩余时间： {0}</string>
+  <string name="WARNING_REGROWTH_IN_X">警告！在 {0} 内再次生长</string>
+  <string name="NEED_COMPRESSED_MAGMA_NOW">现在需要被压缩的岩浆！</string>
   
-<string name="Waiting_gas_from_Gas_Storage_Tank">Waiting on gas from a Gas Storage Tank.</string>
-  <string name="Storing_X">Storing: {0}.</string>
-  <string name="Next_bottle_filled_in_X">Next bottle filled in : {0}s</string>
-  <string name="Looking_for_Hopper_offload_to">Looking for Hopper to offload to...</string>
+<string name="Waiting_gas_from_Gas_Storage_Tank">正在等待储气罐的气体。</string>
+  <string name="Storing_X">储存有： {0}。</string>
+  <string name="Next_bottle_filled_in_X">{0} 秒内下一个瓶子将被装满</string>
+  <string name="Looking_for_Hopper_offload_to">正在寻找漏斗以卸货。。。</string>
   
-<string name="Gas_Storage">Gas Storage</string> 
-  <string name="Waiting_for_gas_from_Particulate_Compressor">Waiting for gas from a Particulate Compressor.</string>
-  <string name="Connected_to_Gas_Bottling_Plant">Connected to Gas Bottling Plant.</string>
-  <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">Scanning for pipe connections to a Gas Bottling Plant in {0}s</string>
+<string name="Gas_Storage">储气罐</string> 
+  <string name="Waiting_for_gas_from_Particulate_Compressor">正在等待微粒压缩机的气体。</string>
+  <string name="Connected_to_Gas_Bottling_Plant">连接到气体灌装厂。</string>
+  <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">在 {0} 秒内扫描连接到气体灌装厂的管道</string>
 
-<string name="Looking_for_Ore">Looking For Ore</string>
-  <string name="Please_wait_paging">Please wait, paging...</string>
-  <string name="Place_on_3x3_Ore_only">Place on 3x3 Ore only!</string>
-  <string name="Place_on_3x3_identical_Ore_only">Place on 3x3 identical Ore only!</string>
-  <string name="Grinding_Ore">Grinding Ore...</string>
-  <string name="Grinder_finalising">Grinder finalising...</string>
+<string name="Looking_for_Ore">正在寻找矿石</string>
+  <string name="Please_wait_paging">正在寻呼，请等待。。。</string>
+  <string name="Place_on_3x3_Ore_only">只能放在3x3的矿石上！</string>
+  <string name="Place_on_3x3_identical_Ore_only">只能放在完全相同的3x3的矿石上！</string>
+  <string name="Grinding_Ore">研磨矿石中。。。</string>
+  <string name="Grinder_finalising">磨床敲定。。。</string>
   <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Finalising...
 WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Ore ground; looking to offload.
 WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
-  <string name="Grinding">Grinding...</string>
-  <string name="Kaboom">Kaboom!</string>
-  <string name="Grinder_cannot_function_without_active_C5">Grinder cannot function without active Cold Cavern Climate Control Centre</string>
+  <string name="Grinding">研磨中。。。</string>
+  <string name="Kaboom">大爆炸！</string>
+  <string name="Grinder_cannot_function_without_active_C5">无法。。</string>
   <string name="Grinding_X">Grinding: {0}</string>
   <string name="X_X_to_offload">{0}x {1} to offload!</string>  
   
@@ -4442,9 +4442,9 @@ Needs attached storage hopper.</string>
   <string name="Power_X_X">功率：｛0｝／｛1｝</string>
   <string name="Storing_X_coal_and_X_HEF_Canisters">储存 {0} 煤和 {1} HEF容器</string>
   
-<string name="DigiStruct_power_needed_X">DigiStruct需要能量； {0}</string>
+<string name="DigiStruct_power_needed_X">数码结构需要能量； {0}</string>
   <string name="Waiting_for_target_lock">等待目标锁上...</string>
-  <string name="CryoPlasm_Cleared_X_m">已清楚CryoPlasm； {0}立方米</string>
+  <string name="CryoPlasm_Cleared_X_m">已清除CryoPlasm： {0}立方米</string>
   
 <string name="Storing_X_Coal_and_X_HEF_Canisters">储存 {0} 煤和 {1} HEF容器</string>
   
