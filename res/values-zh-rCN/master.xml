@@ -4063,15 +4063,15 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   
 <string name="CPH_Offline_Borer_Offline">CPH Offline; Borer Offline.</string>
   <string name="Unable_to_locate_input_Storage_Hopper">Unable to locate input Storage Hopper</string>
-  <string name="Looking_for_High_Energy_Composite_Fuel">Looking for High Energy Composite Fuel...</string>
+  <string name="Looking_for_High_Energy_Composite_Fuel">寻找高能量复合燃料中...</string>
   
   <string name="Checking_Gantry_Clearance">Checking Gantry Clearance...</string>
   <string name="Checking_Drill_Clearance">Checking Drill Clearance...</string>
   <string name="DigiStructing_Drill">DigiStructing Drill...</string>
-  <string name="Drilling">Drilling...</string>
-  <string name="Stuck">Stuck.</string>
-  <string name="Retriving_Drill_Head">Retriving Drill Head.</string>
-  <string name="Collecting_Magma">Collecting Magma!</string>
+  <string name="Drilling">钻孔中...</string>
+  <string name="Stuck">堵塞.</string>
+  <string name="Retriving_Drill_Head">检索钻头中.</string>
+  <string name="Collecting_Magma">收集岩浆中!</string>
   <string name="Gantry_Search_completed_X_of_X">Gantry Search completed {0} of {1}</string>
   <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Gantry cannot be deployed due to obstruction of {0}</string>
   <string name="Drill_Search_completed_X_of_X">Drill Search completed {0} of {1}</string>
