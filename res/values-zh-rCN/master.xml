@@ -4057,9 +4057,9 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Grinding">研磨中。。。</string>
   <string name="Kaboom">大爆炸！</string>
-  <string name="Grinder_cannot_function_without_active_C5">无法。。</string>
+  <string name="Grinder_cannot_function_without_active_C5">无法这样的啊。。</string>
   <string name="Grinding_X">Grinding: {0}</string>
-  <string name="X_X_to_offload">{0}x {1} to offload!</string>  
+  <string name="X_X_to_offload">{0}x {1} 要被卸下！</string>  
   
 <string name="CPH_Offline_Borer_Offline">CPH Offline; Borer Offline.</string>
   <string name="Unable_to_locate_input_Storage_Hopper">Unable to locate input Storage Hopper</string>
