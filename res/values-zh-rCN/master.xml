@@ -4057,7 +4057,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Grinding">研磨中。。。</string>
   <string name="Kaboom">大爆炸！</string>
-  <string name="Grinder_cannot_function_without_active_C5">无法这样的啊。。</string>
+  <string name="Grinder_cannot_function_without_active_C5">没有主动冷洞室气候控制中心，磨床不能起作用</string>
   <string name="Grinding_X">Grinding: {0}</string>
   <string name="X_X_to_offload">{0}x {1} 要被卸下！</string>  
   
