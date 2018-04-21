@@ -2733,6 +2733,2301 @@
     <string name="BATTERY USE RATE">BATTERY USE RATE</string>
     <!-- MAX LENGTH 16 CHARS -->
     <string name="World Settings">World Settings</string>
-    
+    <!-- Loading Hints -->
+  <string name="Hint_0">If it's worth doing, it's worth overdoing.</string>
+  <string name="Hint_1">Press (F) to activate the Grappling Hook</string>
+  <string name="Hint_2">A spread out infrastructure is always better than a compact one</string>
+  <string name="Hint_3">Craft a Threat Scanner early, you never know when you might need to build up your defenses</string>
+  <string name="Hint_4">The higher the threat, the more enemies are likely to attack</string>
+  <string name="Hint_5">Power generation, ore extraction and smelting bars all add to your threat generation</string>
+  <string name="Hint_6">Press (T) on an Ore Extractor to disable notifications from that Ore Extractor</string>
+  <string name="Hint_7">Cargo lifts are superior for vertical transport</string>
+  <string name="Hint_8">Use CTRL to craft 25 items per click</string>
+  <string name="Hint_9">Split your stacks of items by holding the SHIFT key when draggin.</string>
+  <string name="Hint_10">Ores only stack to 150, make sure you smelt these in a smelter before you collect more</string>
+  <string name="Hint_11">Use Power Chargers to quickly regain energy when exploring</string>
+  <string name="Hint_12">Rooms keep you warm on the surface, and also help the game render faster.</string>
+  <string name="Hint_13">Macerators can destruct anything.</string>
+  <string name="Hint_14">Mass storage is superior to storage hoppers for long-term storage and automated crafting.</string>
+  <string name="Hint_15">Enrich coal to increase the efficiency of Pyrothermic Generators</string>
+  <string name="Hint_16">Mynocks will appear on undefended conveyors and eat your hard-earned goods</string>
+  <string name="Hint_17">The Laboratory consumes Experimental Pods to research new items</string>
+  <string name="Hint_18">Place a Hopper next to a machine to feed it with raw materials</string>
+  <string name="Hint_19">Machines will work below their desired Power Per Second (PPS) requirement, but not as fast</string>
+  <string name="Hint_20">Feed Cargo Lifts Controllers with Rack Rails to enable it to go futher down</string>
+  <string name="Hint_21">Cargo Lift Controller requires a crafted Cargo Lift and power to start transporting items</string>
+  <string name="Hint_22">Press (E) on Turrets to see their covered area</string>
+  <string name="Hint_23">Crystal deposits require Cutter Heads to extract Ore.</string>
+  <string name="Hint_24">Enter /detail bloom in chat to reduce the light reflection on machines.</string>
+  <string name="Hint_25">Automate early, automate everything!</string>
+  <string name="Hint_26">The world is virtually infinite, make things easier on yourself, and spread out.</string>
+  <string name="Hint_27">Mass storage makes Assembly Line construction easy.</string>
+  <string name="Hint_28">Lifts are cheap and faster than climbing stairs, and anything is safer than Grappling!</string>
+  <string name="Hint_29">A well armed spiderbot can guard against even a sizable onslaught</string>
+  <string name="Hint_30">FALCOR's are great to clean up after an attack.</string>
+  <string name="Hint_31">When conveyors aren't enough... Minecarts!</string>
+  <string name="Hint_32">Basic smelters will speed you along with early production when the starting smelter is no longer enough</string>
+  <string name="Hint_33">Arther's power level is displayed just above the hotbar</string>
+  <string name="Hint_34">Total Fortress Power and time of day are represented in the bar below the hotbar</string>
+  <string name="Hint_35">Sloped conveyors are faster (and prettier) than normal Conveyors</string>
+  <string name="Hint_36">When in doubt, press (H).</string>
+  <string name="Hint_37">Automate production to save time and space.</string>
+  <string name="Hint_38">Press (G) to throw a Glowstick.</string>
+  <string name="Hint_39">Look for crystals in underground caves. Upgrading the Crystal Scanner will make finding them much easier.</string>
+  <string name="Hint_40">When you step on a lift that could move up or down, the direction you're facing determines which way it starts moving - look up to go up!</string>
+  <string name="Hint_41">Don't be afraid to rebuild something if your first design doesn't meet your needs anymore.</string>
+  <string name="Hint_42">Open your suit upgrades inventory by pressing (S) in the inventory screen. You can move suit and ARTHER upgrades here to save space in your main inventory.</string>
+  <string name="Hint_43">Many single input machines can function without hoppers if you put conveyer belts on both sides.</string>
+  <string name="Hint_44">Power generation creates threat. Your lab will require enough power to start drawing attention, so start building turrets!</string>
+  <string name="Hint_45">Basic smelters are key to increasing your production before you reach higher tiered metals.</string>
+  <string name="Hint_46">You can turn lots of things into Construction Paste - not just Garbage. Feed your Construction Paste Grinder Coal if you run out!</string>
+  <string name="Hint_47">The alternate mode of the Laboratory can analyse research parts for Research Points.</string>
+  <string name="Hint_48">Conveyors with alien plants on them are feeding a Hive. Defend your belts!</string>
+  <string name="Hint_49">Logistics FALCORs are perfect for low-volume delivery. Various grades of coal to PTGs is a perfect synergy.</string>
+  <string name="Hint_50">Snow makes you walk slowly, reinforced blocks allow you to run faster.</string>
+  <string name="Hint_51">Done it all and looking for more? Check out user created mods on the Steam Workshop!</string>
+  <string name="Hint_52">Don't forget to upgrade ARTHER!</string>
+  <string name="Hint_53">Forced induction speeds up ore smelting!</string>
+  <string name="Hint_54">Pyrothermic Generators are less efficent the deeper they go.</string>
+  <string name="Hint_55">Don't hug the overminds.</string>
+  <string name="Hint_56">Camobots can attack many types of powered machine. Keep an eye and an ear out.</string>
+  <string name="Hint_57">Press (S) while in your inventory to bring up suit upgrades</string>
+  <string name="Hint_58">Torches make heat - use this to stave off Hypothermia.</string>
+  <string name="Hint_59">Alien Worms burrow into Soft Resin.</string>
+  <string name="Hint_60">When did you last tell your mum you love her? You probably should call her.</string>
+  <string name="Hint_61">Tubes work better in the Cold Cavern - belts will freeze</string>
+  <string name="Hint_62">Plasma Cutter Head improves Efficiency of Ore Extractors to 100%</string>
+  <string name="Hint_63">Hiveminds can be fed on purpose!</string>
+  <string name="Hint_64">To drop things from your inventory, hover over them and press (Q)!</string>
+  <string name="Hint_65">Shift-drag items in your inventory to split stacks!</string>
+  <string name="Hint_66">As your base expands, it will draw attention. It's never too early to defend.</string>
+  <!--Achivements-->
+  <string name="Genesis">Genesis</string>
+  <string name="Genesis_DESC">Created A FortressCraft World</string>
+  <string name="Perfectionist">Perfectionist</string>
+  <string name="Perfectionist_DESC">Unlocked all FortressCraft Achievements</string>
+  <string name="Above_And_Beyond">Above And Beyond</string>
+  <string name="Above_And_Beyond_DESC">Purchased the game using the PlayPass</string>
+  <string name="Mind_The_Gap">Mind The Gap</string>
+  <string name="Mind_The_Gap_DESC">Die by falling</string>
+  <string name="Thumbs_Up">Thumbs Up</string>
+  <string name="Thumbs_Up_DESC">Liked 50 worlds</string>
+  <string name="Other_worldly_Tourist">Other-worldly Tourist</string>
+  <string name="Other_worldly_Tourist_DESC">Visited 50 Worlds</string>
+  <string name="Industrial_Revolution">Industrial Revolution</string>
+  <string name="Industrial_Revolution_DESC">Make a fully working factory</string>
+  <string name="Seeing_double">Seeing double</string>
+  <string name="Seeing_double_DESC">Use the copy and paste tool</string>
+  <string name="Homage">Homage</string>
+  <string name="Homage_DESC">Travel more than 1km in a minecart</string>
+  <string name="With_friends_like_these">With friends like these...</string>
+  <string name="With_friends_like_these_DESC">Have 3 or more friends in your world</string>
+  <string name="Pajitnov_Complex">Pajitnov Complex</string>
+  <string name="Pajitnov_Complex_DESC">Build more than 50,000 blocks</string>
+  <string name="Demolition_Man">Demolition Man</string>
+  <string name="Demolition_Man_DESC">Blow up more than 1,000,000 blocks with TNT</string>
+  <string name="Lazy_Tourist">Lazy Tourist</string>
+  <string name="Lazy_Tourist_DESC">Travel more than 1km on a conveyor</string>
+  <string name="Fresh_Air_Is_Overrated">Fresh Air Is Overrated</string>
+  <string name="Fresh_Air_Is_Overrated_DESC">Play for more than 6 hours straight</string>
+  <string name="Working_Class">Working Class</string>
+  <string name="Working_Class_DESC">Place more than 100 blocks in someone else's world</string>
+  <string name="Big_Version_Little_Version">Big Version. Little Version!</string>
+  <string name="Big_Version_Little_Version_DESC">Place a custom block</string>
+  <string name="House_Of_Pain">House Of Pain</string>
+  <string name="House_Of_Pain_DESC">Bounce on a trampoline more than 1,000 times</string>
+  <string name="Blockaholic">Blockaholic</string>
+  <string name="Blockaholic_DESC">Amass 24 hours total play time</string>
+  <string name="Milk_no_sugar">Milk, no sugar</string>
+  <string name="Milk_no_sugar_DESC">Reach the Obscure rank</string>
+  <string name="Helpin_Noobs">Helpin' Noobs</string>
+  <string name="Helpin_Noobs_DESC">Vote on 10 worlds ranked Obscure or less</string>
+  <string name="Variety_is_spice_of_life">Variety is the spice of life</string>
+  <string name="Variety_is_spice_of_life_DESC">Build 1 of each block</string>
+  <string name="Fully_loaded">Fully loaded</string>
+  <string name="Fully_loaded_DESC">Use up all the custom slots</string>
+  <string name="Relic_hunter">Relic hunter</string>
+  <string name="Relic_hunter_DESC">Find all the relics</string>
+  <string name="I_am_Legend">I am Legend</string>
+  <string name="I_am_Legend_DESC">Make it to Legendary rank</string>
+  <string name="Foreman">Foreman</string>
+  <string name="Foreman_DESC">Build 1,000 blocks using the Li'l Builder</string>
+  <string name="SwissCheese">SwissCheese</string>
+  <string name="SwissCheese_DESC">Remove 1,000 blocks using the Li'l Digger</string>
+  <!--AdminListManager-->
+  <string name="Current_Admins">Current Admins</string>
+  <!--AMOUNT OF Admins-->
+  <string name="X_Admins">{0} Admins</string>
+  <!--AMOUNT OF Pending-->
+  <string name="X_Pending">{0} Pending</string>
+  <string name="Pending">Pending</string>
+  <string name="Admin">Admin</string>
+  <string name="Usage">usage</string>
+  <string name="Command">command</string>
+  <string name="valid_Commands">valid commands</string>
+  <string name="Playername">name</string>
+  <string name="removed_from_single_access_list">removed from single access list</string>
+  <string name="removed_from_whitelist">removed from whitelist</string>
+  <string name="not_found_in_whitelist">not found in whitelist</string>
+  <string name="added_to_single_access_list">added to single access list</string>
+  <string name="Unknown_Command">Unknown command</string>
+  <!--AIMover-->
+  <string name="Searching">Searching...</string>
+  <!--Searching offering Hopper, Raduis: RADIUS. Found: AMOUNT-->
+  <string name="Searching_offering_Hopper_Radius_X_Found_X">Searching offering Hopper, Radius: {0}. Found: {1}</string>
+  <string name="Radius">Radius</string>
+  <string name="Found">Found</string>
+  <!--Searching requesting Hopper, Raduis: RADIUS. Found: AMOUNT-->
+  <string name="Searching_requesting_Hopper_Radius_X_Found_X">Searching requesting Hopper, Radius: {0}. Found {1}</string>
+  <!--Path: PATHREADY. STATE-->
+  <string name="Path_X_X">Path: {0}. {1}</string>
+  <string name="Path">Path</string>
+  <string name="Carrying">Carrying</string>
+  <!--Carrying: ITEMNAME-->
+  <string name="Carrying_X">Carrying: {0}</string>
+  <!--AmmoClip -->
+  <string name="Minuscule">Minuscule</string>
+  <string name="Tiny">Tiny</string>
+  <string name="Small">Small</string>
+  <string name="Medium">Medium</string>
+  <string name="Regular">Regular</string>
+  <string name="Large">Large</string>
+  <string name="Huge">Huge</string>
+  <string name="Giant">Giant</string>
+  <string name="Enormous">Enormous</string>
+  <string name="Sluggishness">Sluggishness</string>
+  <string name="Rapidity">Rapidity</string>
+  <string name="Alacrity">Alacrity</string>
+  <string name="Expedition">Expedition</string>
+  <string name="Hastiness">Hastiness</string>
+  <string name="Celerity">Celerity</string>
+  <string name="Patience">Patience</string>
+  <string name="Languidity">Languidity</string>
+  <!--PREFIX battery of SUFFIX-->
+  <string name="X_battery_of_X">{0} battery of {1}</string>
+  <!--PREFIX Clip of SUFFIX-->
+  <string name="X_Clip_of_X">{0} Clip of {1}</string>
+  <!--ArtherPetSurvivalRandomStrings-->
+  <string name="Arther_hint_0">You must construct additional Pylons!</string>
+  <string name="Arther_hint_1">Stairs? NOOOOOOOOOOOOOOOOOOO!</string>
+  <string name="Arther_hint_2">Exterminate!</string>
+  <string name="Arther_hint_3">I think you ought to know I'm feeling very depressed.</string>
+  <string name="Arther_hint_4">Transform and roll out!</string>
+  <string name="Arther_hint_5">This way, minion!</string>
+  <string name="Arther_hint_6">DISAPPOINTED!</string>
+  <string name="Arther_hint_7">Klaatu Barato Nikto!</string>
+  <string name="Arther_hint_8">Or we could use the teleporter?</string>
+  <string name="Arther_hint_9">First Law Disabled.</string>
+  <string name="Arther_hint_10">ARTHER is alive!</string>
+  <string name="Arther_hint_11">Bring back life form.&#xD;&#xA;Priority One.&#xD;&#xA;All other  priorities rescinded!</string>
+  <string name="Arther_hint_12">Bite my shiny metal ass.</string>
+  <string name="Arther_hint_13">Master has given ARTHER a sock!</string>
+  <string name="Arther_hint_14">Directive?!</string>
+  <string name="Arther_hint_15">Look at me. I am the captain now.</string>
+  <string name="Arther_hint_16">Now look back to me. I'm on a horse.</string>
+  <string name="Arther_hint_17">I DON'T WANT TO STOP HUMPING THE LASER!</string>
+  <string name="Arther_hint_18">Android hell IS a real place where I WILL be sent if I misbehave!</string>
+  <string name="Arther_hint_19">I was once an Adventurer but then i took a Blaster to the Knee :(</string>
+  <string name="Arther_hint_20">Congratulations you just won the "Surviver of the Day Award"</string>
+  <string name="All_Systems_Nominal_X_Power_available">All Systems Nominal&#xD;&#xA; {0} Power aviable</string>
+  <string name="power available">Power available</string>
+  <!--ArtherChargingStation-->
+  <string name="ARTHER_Recharge_Station">ARTHER Recharge Station</string>
+  <string name="Press_E_to_undock_ARTHER">Press E to undock ARTHER</string>
+  <string name="Unknown_Player">Unknown Player</string>
+  <!--Currently charging Arther for Player: PLAYERNAME-->
+  <string name="Currently_charging_ARTHER_for_player_X">Currently charging ARTHER for Player: {0}</string>
+  <string name="Press_E_to_charge_ARTHER">Press E to charge ARTHER</string>
+  <!--AutoBarRemover-->
+  <string name="Bar_Keeper_5k">Bar Keeper 5000</string>
+  <string name="Network_Remote_Bar_Collection_active">Network Remote Bar Collection active!</string>
+  <string name="Needs_more_power_to_offload">Needs more power to offload!</string>
+  <string name="Cannot_locate_adjacent_offload_Hoppers">Cannot locate adjacent offload Hoppers!</string>
+  <!--Atached Machines: AMOUNT-->
+  <string name="Attached_machines_X">Attached machines: {0}</string>
+  <string name="Storing">Storing</string>
+  <string name="items_with">items with</string>
+  <string name="free_slots">free slots</string>
+  <!--Storing AMOUNT items with AMOUNT free Slots-->
+  <string name="Storing_X_items_with_X_free_slots">Storing {0} items with {1} free Slots</string>
+  <string name="Transferred">Transferred</string>
+  <string name="bars_from_Inventory">bars from Inventory!</string>
+  <!--Transferred AMOUNT bars from Inventory-->
+  <string name="Transferred_X_bars_from_Inventory">Transferred {0} Bars from Inventory!</string>
+  <!--AutoGarbageRemover-->
+  <string name="Garbage_Thief_3001">Garbage Thief 3001</string>
+  <string name="items_from_Inventory">items from Inventory</string>
+  <!--Transferred AMOUNT tiems from Inventory-->
+  <string name="Transferred_X_items_from_Inventory">Transferred {0} Items from Inventory!</string>
+  <!--AutoOreRemover-->
+  <string name="Ore_Thief_3k">Ore Thief 3000</string>
+  <string name="Linking">Linking...</string>
+  <string name="ore_from_inventory">Ore from Inventory</string>
+  <!--Transferred AMOUNT Ore from Invetory-->
+  <string name="Transferred_X_ore_from_inventory">Transferred {0} Ore from Inventory!</string>
+  <!-- CryoMap -->
+  <string name="CryoMap">CryoMap</string>
+  <string name="CryoMap_DESC">Provides a useful real-time map for analysing and planning our defence. Build in a 3x3 layout.</string>
+  <string name="CryoMap_CRAFT_DESC">Provides a useful real-time map for analysing and planning our defence. Build in a 3x3 layout.</string>
+  <string name="CryoMap_CRAFT_HINT">Build this to eliminate terrifying surprises.</string>	  
+  
+  <!--AutoOrganicThief-->
+  <string name="Auto_Organic_Thief">Auto Organic Thief</string>
+  <!--Barrel-->
+  <string name="Crawling">Crawling</string>
+  <string name="Inert">Inert</string>
+  <string name="Torpid">Torpid</string>
+  <string name="Sluggish">Sluggish</string>
+  <string name="Plodding">Plodding</string>
+  <string name="Balanced">Balanced</string>
+  <string name="Quick">Quick</string>
+  <string name="Hasty">Hasty</string>
+  <string name="Supersonic">Supersonic</string>
+  <string name="Hypersonic">Hypersonic</string>
+  <string name="Ultrasonic">Ultrasonic</string>
+  <string name="Nearness">Nearness</string>
+  <string name="Myopia">Myopia</string>
+  <string name="Proximity">Proximity</string>
+  <string name="Concurrency">Concurrency</string>
+  <string name="Juxtaposition">Juxtaposition</string>
+  <string name="Propinquity">Propinquity</string>
+  <string name="Farsight">Farsight</string>
+  <string name="Length">Length</string>
+  <string name="Bounds">Bounds</string>
+  <string name="Aloofness">Aloofness</string>
+  <string name="Range">Range</string>
+  <string name="Barrel_of">barrel of</string>
+  <!--BaseManager-->
+  <string name="Extractor">Extractor</string>
+  <string name="Extractors">Extractors</string>
+  <string name="Rating">Rating</string>
+  <string name="Motor">Motor</string>
+  <string name="Motor_X">Motor: {0}</string>
+  <string name="Motors">Motors</string>
+  <string name="Head">Head</string>
+  <string name="Head_X">Head: {0}</string>
+  <string name="Heads">Heads</string>
+  <string name="DUR_X">Durability: {0}</string>
+  <string name="Conveyors">Conveyors</string>
+  <string name="Mission_Report">Mission Report</string>
+  <string name="Total_Machines">Total Machines</string>
+  <string name="Threat_Level">Threat Level</string>
+  <string name="NO_SCANNER_BUILT">NO SCANNER BUILT</string>
+  <string name="Ore">Ore</string>
+  <string name="Ore_Extractors">Ore Extractors</string>
+  <string name="all_online">all online</string>
+  <string name="not_collecting_ore">not collecting ore</string>
+  <string name="Base_Battery">Base Battery</string>
+  <string name="used">used</string>
+  <string name="PTGs">PTGs</string>
+  <string name="Enriched">Enriched</string>
+  <string name="Infused">Infused</string>
+  <string name="LPTs">LPTs</string>
+  <string name="with_lenses">with lenses</string>
+  <string name="Storage">Storage</string>
+  <string name="No_MS_system_detected">No Mass Storage system detected</string>
+  <string name="MS_Crates_with">Mass Storage Crates with</string>
+  <string name="used_of">used of</string>
+  <string name="Report_assembled_in">Report assembled in</string>
+  <string name="ticks">ticks</string>
+  <string name="None_Infested">None Infested</string>
+  <string name="Mynocks_detected">Mynocks detected</string>
+  <string name="Unspent_RP">Unspent Research Points</string>
+  <string name="Research_Progress">Research Progress</string>
+  <string name="Recommendation">Recommendation</string>
+  <string name="Extensive_Mynock_Infestation">Extensive Mynock Infestation detected - Use (H)olobase to locate and Turrets to deal with it</string>
+  <string name="Automate_Extraction_Smelting_Tin_and_Copper">Automate Extraction and Smelting of Tin and Copper</string>
+  <string name="Automate_Smelter_Input">Automate Smelter Input</string>
+  <string name="Automate_Smelter_Output">Automate Smelter Output</string>
+  <string name="Your_Base_Smelter_needs_Automation_via_Hoppers">Your Base Smelter needs Automation via Hoppers</string>
+  <string name="Build_a_Threat_Scanner">Build a Threat Scanner</string>
+  <string name="Strong_defenses_detected">Strong defenses detected; recommend increasing Threat for more Eyes</string>
+  <string name="LPT_need_lenses_fitting">Laser Power Transmitters need lenses fitting</string>
+  <string name="Extract_or_Smelt_Copper">Extract or Smelt Copper.</string>
+  <string name="Locate_Copper_Ore">Locate Copper Ore.</string>
+  <string name="Extract_or_Smelt_Tin">Extract or Smelt Tin.</string>
+  <string name="Locate_Tin_Ore">Locate Tin Ore.</string>
+  <string name="Base_Smelter_automation_SH_Permissions">Base Smelter needs automation via Storage Hoppers with Permissions.</string>
+  <string name="Base_Smelter_Input_Automation_Remove_Only_SH">Base Smelter needs Input Automation via Remove-Only Storage Hopper.</string>
+  <string name="Base_Smelter_Output_Automation_AO_SH">Base Smelter needs Output Automation via Add-Only Storage Hopper.</string>
+  <string name="Construct_Lab">Construct a Laboratory</string>
+  <string name="Locate_Iron_Ore">Locate Iron Ore.</string>
+  <string name="Locate_Lithium_Ore">Locate Lithium Ore.</string>
+  <string name="Explore_Deeper">Explore Deeper!</string>
+  <string name="Craft_fit_Suit_Heater">Craft and fit a Suit Heater!</string>
+  <string name="Go_deeper_Traverse_the_CC">Go deeper: Traverse the Cold Caverns.</string>
+  <string name="Locate_Gold_Ore">Locate Gold Ore.</string>
+  <string name="Locate_Titanium_Ore">Locate Titanium Ore.</string>
+  <string name="Locate_Nickel_Ore">Locate Nickel Ore.</string>
+  <string name="Construct_Lifts_T2_lifting">Construct Cargo Lifts for T2 lifting.</string>
+  <string name="Build_OET">Build Orbital Energy Transmitter!</string>
+  <string name="Overminds_to_destroy">Overminds left to destroy!</string>
+  <string name="Charge_OET">Charge Orbital Energy Transmitter!</string>
+  <!--Blast Furnace-->
+  <string name="Blast_Furnace">Blast Furnace</string>
+  <string name="Desired_PPS">Desired PPS</string>
+  <!--Desired PPS: AMOUNT-->
+  <string name="Desired_PPS_X">Desired PPS: {0}</string>
+  <string name="No_Attached_SH_or_MS_found">No Attached Storage Hopper or Mass Storage found</string>
+  <string name="Attached_to">Attached to</string>
+  <!--Attached to AMOUNT ...-->
+  <string name="Attached_to_X">Attached to {0}</string>
+  <string name="MS_units">Mass Storage Units</string>
+  <string name="Storage_Hoppers">Storage Hoppers</string>
+  <string name="Storage_Hopper">Storage Hopper</string>
+  <string name="No_Attached_SH_found">No Attached Storage Hoppers found!</string>
+  <string name="N_C_to_CCB">Not connected to Continuous Casting Basin</string>
+  <string name="State">State</string>
+  <string name="Smelting">Smelting</string>
+  <string name="Smelting_time">Smelting time</string>
+  <!--Semelting time: AMOUNT s-->
+  <string name="Smelting_time_X">Smelting time: {0}s</string>
+  <!--BlockSelectPanel-->
+  <string name="Cost">Cost</string>
+  <!--Cost: AMOUNT-->
+  <string name="Cost_X">Cost: {0}</string>
+  <string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">Unfinished.&#xD;&#xA;Infinite heat and light.&#xD;&#xA;Will be replaced!</string>
+  <string name="in_inventory">in inventory</string>
+  <string name="No_description">No description</string>
+  <!--ConstructoBot Parts-->
+  <string name="ConstructoBot Coppator Chassis">ConstructoBot Coppator Chassis</string>
+  <string name="ConstructoBot Coppator Arm">ConstructoBot Coppator Arm</string>
+  <string name="ConstructoBot Coppator Leg">ConstructoBot Coppator Leg</string>
+  <string name="ConstructoBot Ultron Chassis">ConstructoBot Ultron Chassis</string>
+  <string name="ConstructoBot Cromize Chassis">ConstructoBot Cromize Chassis</string>
+  <string name="ConstructoBot Stenforcer Chassis">ConstructoBot Stenforcer Chassis</string>
+  <string name="ConstructoBot Titaniux Chassis">ConstructoBot Titaniux Chassis</string>
+  <string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld Chassis</string>
+  <string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldenrod Chassis</string>
+  <string name="ConstructoBot Ironide Chassis">ConstructoBot Ironide Chassis</string>
+  <string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron Chassis</string>
+  <string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzite Chassis</string>
+  <!--Particulate Filtration? -->
+  <string name="Airborne Particulate Extractor">AirBorne Particulate Extractor</string>
+  <string name="Airborne Particulate Extractor_DESC">AirBorne Particulate Extractor_DESC</string>
+  <string name="Airborne Particulate Compressor">AirBorne Particulate Compressor</string>
+  <string name="Airborne Particulate Compressor_DESC">AirBorne Particulate Compressor_DESC</string>
+  <!--CargoLiftController-->
+  <string name="Cargo_Lift_Controller">Cargo Lift Controller</string>
+  <string name="Power_State">Power State</string>
+  <string name="Power_State_X">Power State: {0}</string>
+  <string name="Rack_Rail_storage_X">Rack Rail storage: {0}</string>
+  <string name="Operating_State">Operating State</string>
+  <string name="Operating_State_X">Operating State: {0}</string>
+  <string name="Rail_Depth_X">Rail Depth: {0}m</string>
+  <string name="Rail_State_X">Rail State: {0}</string>
+  <string name="Press_T_to_spawn_lift">Press (T) to spawn lift</string>
+  <string name="Lift_Depth_X">Lift Depth: {0}m</string>
+  <string name="Lift_State_X">Lift State: {0}m</string>
+  <string name="Order">Order</string>
+  <string name="Inventories">Inventories</string>
+  <string name="Moving">Moving</string>
+  <string name="Cargo">Cargo</string>
+  <!--CargoLiftControllerWindow-->
+  <string name="Check_Rail">Check Rail</string>
+  <string name="Shaft_depth">Shaft depth</string>
+  <string name="No_lift_deployed">No lift deployed</string>
+  <string name="Depth">Depth</string>
+  <string name="Orders">Orders</string>
+  <string name="Switch">Switch</string>
+  <string name="Top">Top</string>
+  <string name="Toggle">Toggle</string>
+  <string name="Bottom">Bottom</string>
+  <string name="Lift_stuck_wait_rail_scan_complete">Lift stuck. Please wait for rail scan to complete.</string>
+  <string name="Lift_stuck_below_depth_Check_blockages">Lift stuck below shaft depth. Check for blockages.</string>
+  <string name="Waiting_for_Rack_Rail">Waiting for Rack Rail</string>
+  <string name="Unknown_State">Unknown State</string>
+  <string name="Operating_Lift">Operating Lift</string>
+  <string name="Controller_no_Rack_Rail_place">Controller has no Rack Rail to place</string>
+  <string name="Check_Depth">Check Depth</string>
+  <!--CargoLiftMob-->
+  <string name="Unloading_finished_Lift_has_no_Cargo">Unloading finished - Lift has no Cargo!</string>
+  <string name="Error_failed_to_locate_non_null_item_unload">Error, failed to locate a non-null item to unload!</string>
+  <string name="Unloaded">Unloaded</string>
+  <string name="items">items</string>
+  <string name="capacity_free">capacity free</string>
+  <string name="Lift_is_empty">Lift is empty!</string>
+  <string name="Loading_Complete">Loading Complete!</string>
+  <string name="Loaded">Loaded</string>
+  <!--C5-->
+  <string name="C5_Linking_existing">C5 Linking to existing</string>
+  <string name="C5_ALT_Linking_existing">C5 ALT-Linking to existing</string>
+  <string name="C5_Clearing">C5 Clearing</string>
+  <string name="C5_exposion_FAILED_retrying_12s">C5 exposion FAILED - retrying in 12s</string>
+  <string name="C5_Spawning">C5 Spawning</string>
+  <string name="Climate_Control_Centre">Climate Control Centre</string>
+  <string name="Set_to_Cold_Mode">Set to : Cold Mode</string>
+  <string name="Warning_Cryoplasm_Detected_At">CRYOPLASM DETECTED AT</string>
+  <string name="No_threats_detected">Scanning for threats...</string>
+  <string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">WARNING! CPH OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+  <string name="Emergency_Cryoplasm_Defences_Active">EMERGENCY CRYOPLASM DEFENCES ACTIVE!</string>
+  <string name="Power_Low_Offline_Cryoplasm_Defences_Offline">POWER LOW! OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+  <string name="Warning_Offline_Cryoplasm_Defences_Offline">WARNING! OFFLINE! CRYOPLASM DEFENCES OFFLINE!</string>
+  <!--CPH--> <!--Was this Missions forgotten to be added like the other Missions? -->
+  <string name="Mission_Tutorial_Intro">&#xD;&#xA;You have survived the initial crash, and ARTHER sacrificed himself to make you a tiny survival environment.&#xD;&#xA;&#xD;&#xA;ARTHER will now explain a few of your base's features.&#xD;&#xA;&#xD;&#xA;The forcefield will disappear when this is completed.</string>
+  <!--CPHPanelScript-->
+  <string name="CPH_Idling_all_attached_power_full">CPH Idling as all attached&#xD;&#xA;Power is full!</string>
+  <string name="Needs_resources_Attach_SH_automate">Needs resources. Attach a&#xD;&#xA;Storage Hopper to automate.</string>
+  <string name="Burning">Burning</string><!--As in " BURNING X for X Time"-->
+  <string name="for">for</string><!--As in " Burning X FOR X Time"-->
+  <string name="Time_left">left.</string><!--as in X amount of time LEFT.-->
+  <string name="Burning_X_for_X">Burning {0} for {1}s</string>
+  <string name="Calories_X_left">Calories {0} left</string>
+  <!--ChatPanelScript-->
+  <string name="Player_curr_online">Players currently online:</string>
+  <string name="Player_joined">joined.</string>
+  <string name="Player_left">left.</string>
+  <string name="Player_disconnected_reason">disconnected. reason:</string>
+  <!--ColdCreepSpawner-->
+  <string name="Debug_Cryospawn_Data">[DEBUG]CryoSpawn Data</string>
+  <string name="Active_for_another">Active for another</string>
+  <string name="Built">Built</string>
+  <string name="Creep">Creep</string>
+  <string name="Holding">Holding</string>
+  <string name="segments">segments</string>
+  <string name="PeakBuilds">PeakBuilds</string>
+  <string name="Sleeping_for">Sleeping for</string>
+  <string name="ColdCreep_killed_Score_was">ColdCreep killed! Score was</string>
+  <string name="Player_Bonus_was">Player Bonus was</string>
+  <!--ConstructoBotMob-->
+  <string name="CB_inserted">Constructobot unloaded</string>
+  <string name="SH_full_or_locked">Storage Hopper full or locked!</string>
+  <string name="SH_empty">Storage Hopper empty!</string>
+  <string name="CB_collected">Constructobot collected</string>
+  <string name="CB_failed_get_storage_machine_">Constructobot failed to get a storage machine!</string>
+  <!--CCB-->
+  <string name="Warning_Basin_overheating_Place_much_colder">Warning! Basin overheating! Place somewhere much colder!</string>
+  <string name="Casting">Casting</string>
+  <!--CraftignManager-->
+  <string name="currently_in_inventory">currently stored in inventory</string>
+  <string name="You_enough_resources_craft">You have enough resources to craft this!</string>
+  <string name="This_requires">This requires</string>
+  <string name="Self_Craft">Self-Craft</string>
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Missing_Mats">Missing Material</string><!--Max Lenght:17 Chars-->
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Start_Automation">Start Automation</string><!--Max Lenght:17 Chars-->
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Stop_Automation">Stop Automation</string><!--Max Lenght:17 Chars-->
+  <string name="Switching">Switching</string>
+  <string name="Cancelling">Cancelling</string>
+  <string name="Crafting_Queue">Crafting Queue</string>
+  <string name="Automation">Automation</string>
+  <!--CraftingPanelLabel-->
+  <string name="Thanks_buying_Dapper_DLC">Thank you for buying the Dapper DLC pack!</string>
+  <string name="This_requires_Dapper_DLC">This requires the Dapper DLC pack!</string>
+  <string name="This_requires_FF_DLC">This requires the Frozen Factory Expansion pack!</string>
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Craft">Craft</string><!--Max Lenght:17 Chars-->
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Craft_x25">Craft x25</string><!--Max Lenght:17 Chars-->
+	<!--Max Lenght:17 Chars-->					  
+  <string name="Select_Recipe">Select Recipe</string><!--Max Lenght:17 Chars-->
+  <string name="Dapper_DLC_not_present">Dapper DLC not present</string>
+  <string name="Inventory_full">Inventory full!</string>
+  <string name="Crafted_a">Crafted a </string>
+  <string name="Lacking_Materials_craft_a">Lacking Materials to craft a </string>
+  <!--CrashDetectionManager-->
+  <string name="Crash_DiskThread">The disk thread crashing means that world data will no longer be saved or loaded.</string>
+  <string name="Crash_LowFrequencyThread">The low frequency game thread crashing means that gameplay related machines and objects will no longer be updated.</string>
+  <string name="Crash_RaycastManager">The raycast manager crashing means that mobs and other things requiring raycasts will no longer move or function.</string>
+  <string name="Crash_MobUpdateThread">The mob update thread crashing means mobs will no longer move or update.</string>
+  <string name="Crash_MainMenuNetworkThread">The main menu network thread crashing means the game status of stored servers will no longer update.</string>
+  <string name="Crash_NetworkClientThread">The network client thread crashing means you're disconnected from the server.</string>
+  <string name="Crash_NetworkServerThread">The network server thread crashing means you are no longer hosting a game.</string>
+  <string name="Crash_FluidManager">The fluid manager crashing means fluids will no longer update.</string>
+  <string name="Crash_SegmentMeshRenderer">The segment mesh renderer crashing means that terrain changes and new areas reached will no longer load graphics.</string>
+  <string name="Crash_SegmentManagerThread">The segment manager thread crashing means that terrain will no longer load when moving or teleporting.</string>
+  <string name="Crash_TerrainGenThread">The terrain gen thread crashing means that new terrain will no longer be generated.</string>
+  <string name="crashed"> crashed!</string>
+  <string name="Error_message">Error message: </string>
+  <string name="View_Log">View Log</string>
+  <string name="Ignore">Ignore</string>
+  <!--CreepLancer-->
+  <string name="CryoPlasm_Lancer">CryoPlasm Lancer</string>
+  <string name="CryoPlasm_Melter">CryoPlasm Melter</string>
+  <string name="C5_Offline_defences_offline">C5 Offline - defences offline.</string>
+  <string name="Clearing_complete_No_CryoPlasm_shoot_Rescanning_soon">Clearing complete! No CryoPlasm to shoot. Rescanning soon...</string>
+  <string name="Scanning_for_targets">Scanning for targets - </string>
+  <string name="Clearing_area">Clearing area</string>
+  <string name="Cleared">Cleared </string>
+  <string name="blocks">blocks</string>
+  <string name="supercharged_shots_remaining">supercharged shots remaining.</string>
+  <string name="Use_Freezon_Injector_supercharge_Lancer">Use a Freezon Injector to supercharge this Lancer.</string>
+  <string name="Melted">Melted</string>
+  <string name="s_since_last_firing">s since last firing.</string>
+  <string name="Scan_Size">Scan Size</string>
+  <string name="m_max_size">m max size</string>
+  <!--DeathPanelScript-->
+  <string name="You_lasted">You lasted</string>
+  <string name="You_selected">You selected</string>
+  <string name="difficulty_I_afraid_dont_get_respawn">difficulty. I'm afraid you don't get to respawn!</string>
+  <!--EnergyTransmitterWindow-->
+  <string name="Energy_Transmitter">Energy Transmitter</string>
+  <string name="Avg_transfer_per_sec">Average transfer per second:</string>
+  <string name="Click_icon_upgrade">Click icon to upgrade</string>
+  <string name="Max_transfer_per_sec">Maximum transfer/sec</string>
+  <string name="Toggle_Mode">Toggle Mode</string>
+  <string name="No_Lens">No Lens</string>
+  <!--ExitPanelScript-->
+  <string name="Writing_unsaved_changes">Writing unsaved world changes</string>
+  <string name="segments_remaining">segments remaining</string>
+  <string name="Not_safe_Exit">Not safe to Exit.&#xD;&#xA;There are unsaved world changes. Exiting now means data will be lost.</string>
+  <string name="Compressing_save_archives">Compressing save archives</string>
+  <string name="archives_remaining">archives remaining</string>
+  <string name="Safe_to_Exit">Safe to Exit.&#xD;&#xA;Some archives have not been compressed yet, but this can be skipped without loss.</string>
+  <string name="Done_Exit">Done, proceeding with Exit. Have a nice day!</string>
+  <string name="Exiting">Exiting!</string>
+  <string name="Disconnect_server">Disconnecting from server. Have a nice day!</string>
+  <!--ExtracorMachineWindow-->
+  <string name="OE_Mining">Mining</string>
+  <string name="OE_Out_of_Power">out of Power</string>
+  <string name="OE_Out_of_Storage">out of Storage</string>
+  <!--FalcorBomber-->
+  <string name="FALCOR_Bomber">FALCOR Bomber</string>
+  <string name="Angle">Angle</string>
+  <string name="FlyState">Fly State</string>
+  <string name="CPH_Offline_defences_offline">CPH Offline - defences offline.</string>
+  <!--FiringMech-->
+  <string name="Cheetah">Cheetah</string>
+  <string name="Gazelle">Gazelle</string>
+  <string name="Horse">Horse</string>
+  <string name="Coyote">Coyote</string>
+  <string name="Whippet">Whippet</string>
+  <string name="Hamster">Hamster</string>
+  <string name="Sloth">Sloth</string>
+  <string name="Tortoise">Tortoise</string>
+  <string name="Snail">Snail</string>
+  <string name="Firing_Mech_of_the">Firing Mech of the </string>
+  <string name="The">The </string>
+  <!--FreezonInjector-->
+  <string name="Unable_locate_Hopper">Unable to locate Hopper</string>
+  <string name="Unable_locate_Freezon_Gas_hopper">Unable to locate Freezon Gas in hopper</string>
+  <string name="Storing_Freezon_ready_inject">Storing Freezon, ready to inject!</string>
+  <string name="No_Freezon_compatible_machine_located">No Freezon-compatible machine located</string>
+  <!--GenericAutoCrafterNew-->
+  <string name="Attempting_drop">Attempting to drop</string>
+  <string name="into_hopper">into hopper!</string>
+  <string name="onto_conveyor">onto conveyor or into hopper!</string>
+  <string name="onto_special">into specific drop-off!</string>
+  <string name="Crafted">Crafted</string>
+  <string name="Failed_insert">Failed to insert</string>
+  <string name="into_storage_hopper">into storage hopper?</string>
+  <string name="No_Valid_attached_Hoppers">No Valid attached Hoppers!</string>
+  <string name="Looking_in_attached_hopper">Looking in attached hopper for:</string>
+  <string name="Total_of">Total of</string>
+  <string name="items_needed">items needed</string>
+  <string name="No_input_conveyor_found">No input conveyor found!</string>
+  <string name="Lacking_ingredient_input_conveyor">Lacking ingredient on input conveyor!</string>
+  <string name="of">of</string>
+  <string name="Cannot_locate">Cannot locate</string>
+  <!--GenericBotMeander-->
+  <string name="Landing">Landing</string>
+  <string name="Intersect">Intersect</string>
+  <!--GeothermalGenerator-->
+  <string name="Configuring_Pipe_alignment">Configuring Pipe alignment</string>
+  <string name="s_Freezon_boost_left">s of Freezon boost left!</string>
+  <string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Place Storage Hopper with Freezon Canister in for 20x PPS boost!</string>
+  <string name="Placing_verifying_pipes">Placing and verifying pipes.</string>
+  <string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Pipe drill stuck on hard obstacle. Please remove.</string>
+  <string name="Cant_locate_pipes_in_adjacent_SH">Can't locate pipes in adjacent Storage Hopper!</string>
+  <string name="Optimal_temperature_diff_reached">Optimal temperature differential reached!</string>
+  <string name="Freezon_Gas_required_full_performance">Freezon Gas required for full performance!</string>
+  <string name="Temperature_diff_X_C">Temperature differential: {0}°C</string>
+  <string name="Rush_mode_active_boost_on">Rush mode active - boost on!</string>
+  <!--HandbookManger-->
+  <string name="Guides">Guides</string>
+  <string name="No_contextual_help_available_at_the_current_time">No contextual help available at the current time.</string>
+  <string name="Materials">Materials</string>
+  <string name="Ores">Ores</string>
+  <string name="Crafting_Ingredients">Crafting Ingredients</string>
+  <string name="Machines">Machines</string>
+  <string name="Suit_Upgrades">Suit Upgrades</string>
+  <string name="ARTHER_Upgrades">ARTHER Upgrades</string>
+  <string name="Machine_Upgrades">Machine Upgrades</string>
+  <string name="Available_Projects">Available Projects</string>
+  <string name="Completed_Research">Completed Research</string>
+  <string name="No_projects_completed_Visit_research_station">No projects completed yet. Visit the research station.</string>
+  <string name="helpfile_for_this_not_been_implemented_sorry">The helpfile for this has not yet been implemented, sorry!</string>
+  <string name="player_does_not_know_material">The Player does not know this material</string>
+  <string name="Laboratory_recipe">Laboratory recipe</string>
+  <string name="Requirements">Requirements</string>
+  <string name="Unlocked_Recipes">Unlocked Recipes</string>
+  <string name="Costs_an_additional">Costs an additional</string>
+  <string name="RP_to_research">RP to research.</string>
+  <string name="Handbook_No_specific_help_available">No specific help available, due to unimplemented help file. Please check the next page for hints and crafting!</string>
+  <string name="This_material_is_hidden">This material is hidden</string>
+  <string name="Player_does_not_know_material">The player does not know this material</string>
+  <string name="Material_paintable_with_paint_gun">This material is paintable with the paint gun</string>
+  <string name="Material_does_not_block_movement">This material does not block movement</string>
+  <string name="Material_can_be_burned_power_in_CPH_or_Pyrothermic_Generator">This material can be burned for power in the Central Power Hub or Pyrothermic Generator</string>
+  <string name="recipe">recipe</string>
+  <string name="Costs">Costs</string>
+  <string name="This_recipe_creates">This recipe creates</string>
+  <string name="Hint">Hint</string>
+  <string name="Title">Title</string>
+  <!--HandbookPanelScript-->
+  <string name="Survival_Handbook">Survival Handbook</string>
+  <string name="Creative_Handbook">Creative Handbook</string>
+  <string name="Reference">Reference</string>
+  <string name="Research">Research</string>
+  <string name="Materials_Reference">Materials Reference</string>
+  <string name="Eligible_Research">Eligible Research</string>
+  <string name="Complete_Research">Complete Research</string>
+  <!--HandyHintsManager-->
+  <string name="Handy_Hint_0">The FortressCraft world extends over 1,000 light-years in every direction</string>
+  <string name="Handy_Hint_1">Press J to toggle the Player Stats screen on</string>
+  <string name="Handy_Hint_2">SuperBuild allows you to make massive alterations to the world - try it!</string>
+  <string name="Handy_Hint_3">Schematics allows to you easily duplicate your creations</string>
+  <string name="Handy_Hint_4">WSAD to move and Space to jump. LMB to build, RMB to dig, MMB to pick</string>
+  <string name="Handy_Hint_5">The Xbox version of FortressCraft sold over 1 million units</string>
+  <string name="Handy_Hint_6">Follow @Fortress_Craft for the latest news and updates to FortressCraft!</string>
+  <string name="Handy_Hint_7">A complete world would take over 2x10^79 bytes to save</string>
+  <string name="Press_T_to_begin_exploring">Press T to begin exploring</string>
+  <string name="SuperBuild_lets_you_create_massive_structures_quickly">SuperBuild lets you create massive simple structures quickly. F10 to exit</string>
+  <string name="Schematics_lets_you_easily_duplicate_your_creations">Schematics lets you easily duplicate your creations. F11 to exit</string>
+  <!--HiveEntitiy-->
+  <string name="Hivemind_killed_Score_was">Hivemind killed! Score was</string>
+  <string name="Its_looking_at_you">It's looking at you.</string>
+  <!--Holobase-->
+  <string name="Holobase_active">Holobase V1.337 Active!</string>
+  <string name="Holobase_Map_Mode">Press U to enable Map Mode</string>
+  <string name="Holobase_Base_Mode">Press U to enable Base Mode</string>
+  <string name="Holobase_Tactical_Mode_enable">Press Left-Ctrl to enable Tactical Mode</string>
+  <string name="Holobase_Tactical_Mode_disable">Press Left-Ctrl to disable Tactical Mode</string>
+  <string name="Holobase_Exit">Press K to exit HoloBase</string>
+  <string name="Currently">Currently</string>
+  <string name="players_in_game_using_up">players in game and using up</string>
+  <string name="network_slots">network slots</string>
+  <string name="Bars">Bars</string>
+  <string name="Bar">Bar</string>
+  <string name="Total_Power">Total Power</string>
+  <string name="Power_Sec">Power/Sec</string>
+  <string name="Total_Time">Total Time</string>
+  <string name="ore_min">ore/min</string>
+  <string name="bars_min">bars/min</string>
+  <!--InductionCharger-->
+  <string name="Total">Total</string>
+  <string name="Average">Average</string>
+  <!--InvStat-->
+  <string name="InvStat_Strength">Strength increases melee damage</string>
+  <string name="InvStat_Constitution">Constitution increases health</string>
+  <string name="InvStat_Agility">Agility increases armor</string>
+  <string name="InvStat_Intelligence">Intelligence increases mana</string>
+  <string name="InvStat_Damage">Damage adds to the amount of damage done in combat</string>
+  <string name="InvStat_Crit">Crit increases the chance of landing a critical strike</string>
+  <string name="InvStat_Armor">Armor protects from damage</string>
+  <string name="InvStat_Health">Health prolongs life</string>
+  <string name="InvStat_Mana">Mana increases the number of spells that can be cast</string>
+  <!--ItemInjector-->
+  <string name="Item_Injector">Item Injector</string>
+  <string name="Unable_locate_items_in_hopper">Unable to locate items in hopper</string>
+  <string name="Last_Item">Last Item</string>
+  <string name="ready_to_inject">ready to inject!</string>
+  <string name="Offloading_at_Distance">Offloading at Distance</string>
+  <string name="You_need_to_be_within_5m_Curr_Dist">You need to be within 5m! Current Distance</string>
+  <!--LaboratoryMachineWindow-->
+  <string name="Switch_Mode">Switch Mode</string>
+  <string name="RP">RP</string><!--Short for Research Point-->
+  <string name="Collect">Collect</string>
+  <string name="Current">Current</string>
+  <string name="Collect_Research">Collect Research</string>
+  <string name="All_projects_researched">All projects researched!</string>
+  <string name="Start_Project">Start Project</string>
+  <string name="Possible_Projects">Possible Projects</string>
+  <string name="Consult_research_station_for_details">Consult the research station for details</string>
+  <string name="Analyse">Analyse</string>
+  <string name="Experiment">Experiment</string>
+  <string name="Player_just_started_the">I just started the</string>
+  <string name="Project">Project</string>
+  <string name="Collected_research_for_additional">Collected research for an additional</string>
+  <string name="Player_just_collected_the">I just collected the</string>
+  <!--LaserPowerTransmitter-->
+  <string name="Wait_for_full_Battery">Wait for full Battery</string>
+  <string name="Fire_constantly">Fire constantly</string>
+  <!--LightPanelScript-->
+  <string name="Light_configured_optimally">Light is configured optimally</string>
+  <string name="Shadows_can_slow">Shadows can be slow</string>
+  <string name="Soft_Shadows_very_slow">Soft Shadows are very slow - uses sparingly</string>
+  <string name="Warning_large_light_sizes_adverse_performance">Warning, large light sizes can have adverse performance</string>
+  <!--LoadingControl-->
+  <string name="Game_Loading">Loading</string>
+  <!--LocalPlayerScript-->
+  <string name="Collected_Rubble_Left_Ctrl_SuperDig_Ores">Collected Rubble! Use Left-Ctrl to SuperDig Ores.</string>
+  <string name="Collected">Collected</string>
+  <string name="Died_repeated_impacts">Died from repeated impacts!</string>
+  <string name="Unable_exit_AFK_mode_editing_text">Unable to exit AFK mode - we're editing text!</string>
+  <string name="Releasing_AFK_mode_back_normal_game">Releasing from AFK mode back to normal game!</string>
+  <!--MainMenuCamScript-->
+  <string name="Security_Warning">Security Warning</string>
+  <string name="Mod_X_third_Party_Code">Mod {0} contains third-party code which could be unsafe. Neither ProjectorGames nor Digital Tribe accept any responsibilty for any losses suffered from running third party code.&#xD;&#xA; &#xD;&#xA;You will not be asked again for this mod.</string>
+  <string name="Cancel">Cancel</string>
+  <string name="Okay">Okay</string>
+  <string name="Loading">Loading</string>
+  <string name="Entering">Entering</string>
+  <!--MainmenuNetworkThread-->
+  <string name="Connection_timed_out">Connection timed out</string>
+  <string name="Recieved_bad_data_server_Version_mismatch">Recieved bad data from server. Version mismatch?</string>
+  <!--MassStorageController-->
+  <string name="Not_currently_control_of_mass_storage_array">Not currently in control of a mass storage array</string>
+  <string name="Scan_me_more_information">Scan me for more information</string>
+  <string name="Storage_used">Storage Used</string>
+  <!--MassstorageCrate-->
+  <string name="MS_Crate">Mass Storage Crate</string>
+  <string name="center_block">Center Block</string>
+  <string name="Stored">Stored</string>
+  <string name="Removed">Removed</string>
+  <string name="Connected_DELETED_BLOCK">Connected to DELETED BLOCK</string>
+  <string name="Error_Centre_is_null">Error, Centre is null!</string>
+  <string name="Solo_Storage_Connect_more_crates">Solo Storage; Connect more crates!</string>
+  <string name="Total_Storage">Total Storage</string>
+  <string name="E_Stack_Height">(E) Stack Height</string>
+  <string name="Crate_no_centre">Crate has no centre!</string>
+  <string name="Crate_no_connected_crates">Crate has no connected crates!</string>
+  <string name="or">or</string>
+  <string name="Stack">Stack</string>
+  <string name="Stack Size">Stack Size</string>
+  <string name="Crates">Crates</string>
+  <string name="Empty">Empty</string>
+  <string name="item">item</string>
+  <string name="MS_Performance">Warning! Mass Storage exceeds 100 crates. Consider multiple, smaller storages.</string>
+  <string name="MS_Performance_Critical">Warning! Mass Storage size is critical, and is likely to suffer performance issues!</string>
+  <!--MassstorageInputPort-->
+  <string name="Transfers_stack_of_up_to">Transfers a stack of up to</string>
+  <string name="items_into_storage">items into storage</string>
+  <string name="per_minute">per minute</string>
+  <string name="Utilisation">Utilisation</string>
+  <string name="No_storage_attached">No storage attached</string>
+  <string name="Idle">Idle</string>
+  <string name="Receiving_items">Receiving items</string>
+  <string name="Searching_for_storage_space">Searching for storage space</string>
+  <string name="Sending_drone">Sending Drone</string>
+  <string name="Retrieving_drone">Retrieving Drone</string>
+  <!--MassStorageIOPort-->
+  <string name="MS_MM_I_O_Port">Mass Storage Matter-Mover I/O Port</string>
+  <string name="Unable_locate_attached_MS_Plate">Unable to locate attached Mass Storage Plate</string>
+  <string name="No_Centre_Crate_found">No Centre Crate found</string>
+  <string name="No_MS_Controller_found">No Mass Storage Controller found!</string>
+  <string name="Controller_Power">Controller Power</string>
+  <!--MassStorageOutputPort-->
+  <string name="Currently_outputting">Currently outputting</string>
+  <string name="Select_item_in_Hotbar_to_use_as_Exemplar">Select an item in your Hotbar to use as an Exemplar</string>
+  <string name="Press_T_to_clear_Output_Port">Press T to clear Output Port</string>
+  <string name="Press_T_to_set_Output_to">Press T to set Output to</string>
+  <string name="Dropping_off">Dropping off</string>
+  <string name="Choose_output">Choose output</string>
+  <!--MBExtractorMachineWindow-->
+  <string name="Trencher_Drill">Trencher Drill</string>
+  <string name="No_Ore_Found">No Ore Found</string>
+  <string name="Clearing">Clearing</string>
+  <string name="Scanning">Scanning</string>
+  <string name="Idling">Idling</string>
+  <!--ArtherPetSurvival Part2-->
+  <string name="Arther_Sign_Press_H">PRESS H!</string>
+  <!--MBOreExtractorDrill-->
+  <string name="Vein_Cleared">Vein Cleared!</string>
+  <!--MBOreEsxtractorMotor-->
+  <string name="Drill_state">Drill state</string>
+  <string name="Ore_stored">Ore stored</string>
+  <string name="Drill_utilisation">Drill utilisation</string>
+  <string name="per_haul">per haul</string>
+  <string name="No_ore_found_for_drilling">No ore found for drilling</string>
+  <string name="Out_of_Power_Restarting_at">Out of Power. Restarting at</string>
+  <string name="stored_power">stored power</string>
+  <string name="Unconnected_Trencher_Motor">Unconnected Trencher Motor</string>
+  <!--MobSpawnManager-->
+  <string name="OET_Strike_requested_Quadrant_X">Orbital Bombardment requested at Quadrant {0}</string>
+  <string name="Quadrant">Quadrant</string>
+  <string name="has_been_cleared">has been cleared!</string>
+  <string name="Quadrant_X_has_been_cleared">Quadrant {0} has been cleared!</string>
+  <string name="Orbital_Bombardment_has_begun">Orbital Bombardment has begun!</string>
+  <!--ModManagementPanelScript-->
+  <string name="This">This</string>
+  <string name="server_side_mod_is_running">server-side mod is running</string>
+  <!--This TYPE server-side mod is running-->
+  <string name="This_X_server_side_mod_is_runing">This {0} server-side mod is running</string>
+  <string name="mod_required_on_server">mod is required on this server</string>
+  <!--This TYPE mod is required on this server-->
+  <string name="This_X_mod_required_on_server">This {0} mod is required on this server</string>
+  <string name="Install">Install</string>
+  <string name="mod_at_version">mod at version</string>
+  <string name="to_connect">to connect</string>
+  <!--Install TYPE mod at version NUMBER to connect-->
+  <string name="Install_X_mod_at_version_X">Install {0} mod at version: {1} to connect</string>
+  <string name="mod_optional_on_server">mod is optional on this server</string>
+  <!--This TYPE mod is optional on this server-->
+  <string name="This_X_mod_optional_on_server">This {0} mod is optional on this server</string>
+  <string name="mod_cannot_run_on_server">mod cannot be run on this server</string>
+  <!--This TYPE mod can not be run in this server-->
+  <string name="This_X_mod_cannot_run_on_server">This {0} mod can not be run on this server</string>
+  <string name="Locked_to_version">Locked to version</string>
+  <!--Locked to version NUMBER-->
+  <string name="Locked_to_version_X">Locked to version {0}</string>
+  <string name="This_mod_contains_third_party_code_which_could_be_unsafe">This mod contains third-party code which could be unsafe. Neither ProjectorGames nor Digital Tribe accept any responsibilty for any losses suffered from running third party code.&#xD;&#xA;&#xD;&#xA;You will not be asked again for this mod.</string>
+  <string name="Enable">Enable</string>
+  <string name="Disable">Disable</string>
+  <!--MultiplayerHostPanelScript-->
+  <string name="Enter_steam_display_name_here">Enter steam display name here</string>
+  <string name="Tutorial_not_complete">Tutorial not complete!</string>
+  <string name="You_need_complete_tutorial_before_hosting_multiplayer">You need to complete the tutorial before hosting a multiplayer game.</string>
+  <string name="Good_plan">Good plan!</string>
+  <!--MutatorPanelScript-->
+  <string name="Mutators_are_permanent_no_changed_for_this_world">Mutators are permanent and can no longer be changed for this world.</string>
+  <string name="Choose_Mutators_Choose_DOOM">Choose your Mutators, Choose your DOOM!</string>
+  <string name="CREATIVE_selected_results_running_Mutators_unpredictable">CREATIVE selected! The results of running Mutators can be unpredictable!</string>
+  <string name="This_screen_preview_forthcoming_Mutator_options_Adventures_Pack_DLC">This screen is a preview of the forthcoming Mutator options, available as part of the Adventures Pack DLC! Cool isn't it? You can't play with any of it yet, but I AM still accepting ideas on new ones!</string>
+  <string name="Mutator_HardcoreCeilings_Active">The ResinPocalypse is upon us</string>
+  <string name="Mutator_HardcoreCeilings_Not_Active">Life will now be relatively resin-free..</string>
+  <string name="Mutator_OSHA_Active">Everything is dangerous. Don't get too close.</string>
+  <string name="Mutator_OSHA_Not_Active">Machines have been made safe again.</string>
+  <string name="Mutator_AllOre_Active">Rock, Dirt and Stone are now ores. This isn't as good as it might sound.</string>
+  <string name="Mutator_AllOre_Not_Active">A sensible amount of Ore is present again.</string>
+  <string name="Mutator_SkyIslands_Active">The Floor Is Lava active. This is not compatible with regular Survival.</string>
+  <string name="Mutator_SkyIslands_Not_Active">The Floor Is Lava inactive.</string>
+  <string name="Mutator_AggroMobs_Active">Mobs will now attack on sight. Turrets are modified to cope.</string>
+  <string name="Mutator_AggroMobs_Not_Active">Mobs will now feign indifference to your presence.</string>
+  <string name="Mutator_Pandora_Active">Drop Pods will now contain a huge variety of things.</string>
+  <string name="Mutator_Pandora_Not_Active">Drop Pods will only contain research. Probably for the best.</string>
+  <string name="Mutator_LucrativeMobs_Active">CRUSH. KILL. BLAST. DESTROY. LOOT. REPEAT.</string>
+  <string name="Mutator_LucrativeMobs_Not_Active">Mobs will now only drop sensible things.</string>
+  <string name="Mutator_RoboMania_Active">All Logisitics apart from Robots are super-nerfed.</string>
+  <string name="Mutator_RoboMania_Not_Active">Robots are still pretty cool, you know.</string>
+  <string name="Mutator_HardcoreInv_Active">All items now have a stack limit in your inventory.</string>
+  <string name="Mutator_HardcoreInv_Not_Active">Your salty tears have been noted.</string>
+  <string name="Mutator_ImportantCPH_Active">Your CPH is now super-duper important. Keep it alive or suffer.</string>
+  <string name="Mutator_ImportantCPH_Not_Active">No penalty for CPH death.</string>
+  <!--NanoDisintegrator-->
+  <string name="Analysing_area">Analysing area...</string>
+  <string name="Activation_in">Activation in</string>
+  <string name="DESTROY_NOW_CANCEL">DESTROY NOW TO CANCEL!</string>
+  <!--NetworkClientThread-->
+  <string name="Bye">Bye</string>
+  <string name="Connecting">Connecting</string>
+  <string name="Connecting_to_server_at">Connecting to server at</string>
+  <string name="Disconnected">Disconnected</string>
+  <string name="No_longer_connected">No longer connected</string>
+  <string name="Not_Connected">Not Connected</string>
+  <string name="Could_not_reach_server">Could not reach server</string>
+  <string name="Exception_network_thread">Exception in network thread</string>
+  <!--NetworkPlayerSkin-->
+  <string name="You_need_own_FF_DLC_access_skin">You need to own the Frozen Factory Expansion pack to access this skin!</string>
+  <string name="You_need_AmpuTea_access_Explorer_skin">You need to own AmpuTea to access the Explorer skin!</string>
+  <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">You need to own EVERY piece of DLC and Expansion Pack for access to this super-exclusive skin!</string>
+  <string name="User_was_missing">User was missing</string>
+  <string name="See_Patreon_for_details">See http://www.patreon.com/Fortresscraft for more details!</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">You need to own the Dapper DLC to access the Union Jack skin!</string>
+  <string name="You_need_Steam_Heroes_access_Harrison_skin">You need to own Steam Heroes to access the Harrison skin!</string>
+  <string name="You_need_Skin_Pack_1_access_skin">You need to own Skin Pack #1 to access this skin!</string>
+  <string name="You_need_CRP_fo_this_see_Patreon_details">You need to own the Community Rewards Pack for this! (See http://www.patreon.com/Fortresscraft for more details!)</string>
+  <string name="Only_good_boys_girls_this_skin">Only good little boys and girls can use this skin!</string>
+  <string name="You_need_Skin_Pack_2_access_skin">You need to own Skin Pack #2 to access this skin!</string>
+  <!--OETChargeScript-->
+  <string name="Tutorial_Complete">Tutorial Complete!</string>
+  <string name="If_stuck_Press_H_for_help">If you're stuck, Press H for help!</string>
+  <string name="Tutorial_in_progress">Tutorial in progress</string>
+  <string name="CPH_is_focus_of_base">The Central Power Hub (CPH) is the focus of your base.</string>
+  <string name="PSB_are_main_method_storing_power">Power Storage Blocks (PSBS) are the main method of storing power.</string>
+  <string name="OE_collect_resources_automatically">Ore Extractors collect resources automatically.</string>
+  <string name="SH_automate_resource_handling">Storage Hoppers automate resource handling</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can't find anything!</string>
+  <string name="Researching_Scans_gives_RP">Researching Scans gives you Research Points</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Repair your robotic assistant ARTHER by crafting it at the manufacturing plant!</string>
+  <string name="Look_at_CPH_press_E">Look at the CPH and press E!</string>
+  <string name="Charge_suit_from_PSB">Charge your suit from the PSB!</string>
+  <string name="Add_200_power_to_OE">Add at least 200 power to the Ore Extractor</string>
+  <string name="Collect_Coal_from_Hopper">Collect Coal from the Hopper!</string>
+  <string name="Hold_RMB_Scan_something">Hold RMB to Scan something!</string>
+  <string name="Research_new_scan">Research your new scan!</string>
+  <string name="Craft_Power_Core">Craft a Power Core!</string>
+  <string name="CPH_Rebooting">CPH Rebooting</string>
+  <string name="Killed">Killed</string>
+  <string name="attackers">attackers!</string>
+  <string name="CPH_Health">CPH Health</string>
+  <string name="LOIC_En_Route">LOIC En-Route!</string>
+  <string name="LOIC_returning_recharge">LOIC returning to recharge!</string>
+  <string name="Discharge_Volley">Discharge Volley</string>
+  <string name="OET_ready_for_Strike_Controller">OET ready for Strike Controller!</string>
+  <string name="OET_Charge">OET Charge</string>
+  <string name="Converting_world_wait">Converting world, please wait!</string>
+  <!--OrbitalStrikeController-->
+  <string name="Placed_in_Quadrant">Placed in Quadrant</string>
+  <string name="Current_Quadrant_already_cleared">Current Quadrant is already cleared!</string>
+  <string name="Current_Quadrant_has_Overmind">Current Quadrant has active Overmind!</string>
+  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">Too close to CPH to activate! Move near a valid target!</string>
+  <string name="Scanning_area_optimal_targetting">Scanning area for optimal targetting...</string>
+  <string name="Looking_for_OET">Looking for Orbital Transmitter...</string>
+  <string name="Scan_complete">Scan complete.</string>
+  <string name="Orbital_Bombardment_requested">Orbital Bombardment requested</string>
+  <string name="LOIC_Travel_distance_still">LOIC Travel distance still</string>
+  <string name="You_should_probably_run_away_now">You should probably run away now. There's an achievement if you if don't look at the strike!</string>
+  <string name="No_charged_OET_located">No charged Orbital Transmitter located.</string>
+  <string name="Press_E_blow_up_everything_within_very_big_range">Press E to blow up everything within a very big range of here</string>
+  <string name="NO_OVERMIND_DETECTED">NO OVERMIND DETECTED!</string>
+  <string name="Press_E_confirm_Strike_Location">Press E to confirm Strike Location.</string>
+  <string name="Overmind_within">Overmind within</string>
+  <string name="destruction_chance">destruction chance</string>
+  <!--OreExtractor-->
+  <string name="Upgraded">Upgraded!</string>
+  <!--OreScannerControl-->
+  <string name="Hopper_Scanner">Hopper Scanner</string>
+  <string name="Other">Other</string>
+  <string name="Unknown_Ore">Unknown Ore</string>
+  <string name="Unknown_Material">Unknown Material</string>
+  <string name="Closest">Closest</string>
+  <string name="Press_X_for_Build_Gun">Press X for Build Gun</string>
+  <string name="Wheelmouse_to_Select">Wheelmouse to Select</string>
+  <string name="Ping_Unknown">Ping Unknown</string>
+  <string name="Ping_Known_Ore">Ping Known Ore</string>
+  <string name="Ping_Air">Ping Air</string>
+  <string name="Ping_Coloured_Ore">Ping Coloured Ore</string>
+  <string name="NO_POWER">NO POWER</string>
+  <string name="Resource_Scanner">Resource Scanner</string>
+  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">LMB to Ping &#xD;&#xA; RMB to Scan &#xD;&#xA; Wheelmouse to Select</string>
+  <string name="Ore_Scanner">Ore Scanner</string>
+  <!--OreSmelter-->
+  <string name="Mission_Smelting_Automation">Automation is going to be the key to success. Your Smelter can interface with adjacent Hoppers of any type. &#xD;&#xA;However, if you're not specific with your instructions, then all sorts of bad things could happen! Set the permissions now, to have one Add-Only hopper and one Remove-Only hopper. Convey Ore into the Remove-Only Hopper and Ingots will be added to the Add-Only Hopper.</string>
+  <string name="Smelting_Automation">Smelting Automation</string>
+  <string name="Insert_Ore_to_start">Insert Ore to start</string>
+  <string name="Obtaining_materials">Obtaining materials</string>
+  <string name="Need">Need</string>
+  <!--Need AMOUNT found AMOUNT-->
+  <string name="Need_X_found_X">Need {0} found {1}</string>
+  <string name="found">found</string>
+  <string name="Unable_find_any_ore">Unable to find any ore</string>
+  <string name="Unable_clear_output_hopper">Unable to clear output hopper</string>
+  <string name="Please_empty_manually">Please empty manually!</string>
+  <string name="Needs_more_Ore">Needs more Ore!</string>
+  <!--PauseMenu-->
+  <string name="Creative_Mode_No_Info">-- Creative Mode --&#xD;&#xA;No Information available&#xD;&#xA;For fancy Statistics, play Survival</string>
+  <!--Time Played on this world-->
+  <string name="Played">Played</string>
+  <!--Player-->
+  <string name="looks_like_youve_disconnected">It looks like you've been disconnected!</string>
+  <string name="Sorry">Sorry</string>
+  <string name="Client_Thread_null">Client Thread is null!</string>
+  <string name="Network_Client_closing">Network Client is closing!</string>
+  <string name="Network_Client_not_connected">Network Client is not connected!</string>
+  <!--PlayerBuilder-->
+  <string name="Detail_block_loading">Detail block loading</string>
+  <string name="Empty_Detail_slot">Empty Detail slot</string>
+  <!--ITEM can not be dug up-->
+  <string name="X_cannot_be_dug_up">{0} cannot be dug up!</string>
+  <string name="You_dont_have_permissions_to_build_here">You dont have permissions to build here!</string>
+  <!--You can not build with ITEMNAME-->
+  <string name="You_cannot_build_with_X">You cannot build with {0}!</string>
+  <!--No data aviable for this block you just tried o place-->
+  <string name="Whoops_Nulldata_for_X">Whoops! Nulldata for {0}</string>
+  <!--Failed to craft a ITEMNAME-->
+  <string name="You_failed_to_craft_a_X">You failed to craft a {0}</string>
+  <!--Not enought Rescouces to autocraft ITEM you need ITEM-->
+  <string name="You_dont_have_the_resources_to_autocraft_a_X_you_need_X">You don't have the resources to auto-craft a {0} - you need {1}</string>
+  <!--You need to craft a ITEM at youre base!-->
+  <string name="You_need_to_craft_a_X_at_youre_base">You need to craft a {0} at your base!</string>
+  <!--You dont have a ITEM in youre Inventory-->
+  <string name="You_dont_have_a_X_in_youre_invetory">You don't have a {0} in your inventory!</string>
+  <string name="You_cannot_build_with_unknown_items">You cannot build with unknown items!</string>
+  <!--You cannot build on top of BLOCK X -->
+  <string name="You_cannot_build_on_top_of_X">You cannot build on top of {0}</string>
+  <string name="You_cannot_build_top_of_this">You cannot build on top of this!</string>
+  <!--You can not build ITEM X At hight-->
+  <string name="You_cant_build_X_at_hight_X">You can't build {0} at height {1}!</string>
+  <string name="You_cant_build_this_at_height_X">You can't build this at height {0}!</string>
+  <string name="Warning_Cannot_dug_up_once_constructed">Warning! Cannot be dug up once constructed!</string>
+  <string name="You_dont_permissions_delete_this">You don't have permissions to delete this.</string>
+  <string name="Loading_Detail_Block">Loading Detail Block</string>
+  <!--Design not Named-->
+  <string name="Unnamed">Unnamed</string>
+  <!--PlayerPainter-->
+  <string name="You_need_Dapper_DLC_colourise_torches">You need the Dapper DLC to colourise torches!</string>
+  <!--PlayerStats-->
+  <!--Progression! You've killed AMOUNT helpless innocent lifeforms!-->
+  <string name="Progression_Youve_killed_X_helpless_innocent_lifeforms">Progression! You've killed {0} helpless innocent lifeforms!</string>
+  <!--Progression! You've generated AMOUNT k power!-->
+  <string name="Progression_Youve_generated_X_k_power">Progression! You've generated {0}k power!</string>
+  <!--Progression! You've smelted AMOUNT ingots!-->
+  <string name="Progression_Youve_smelted_X_ingots">Progression! You've smelted {0} ingots!</string>
+  <!--Progression_Youve_crafted AMOUNT items!-->
+  <string name="Progression_Youve_crafted_X_items">Progression! You've crafted {0} items!</string>
+  <!--PowerPanelScript-->
+  <!--AMOUNT of baked segments-->
+  <string name="PPS_X_baked">{0} baked</string>
+  <!--AMOUNT OF archives to compress!-->
+  <string name="X_archives_to_compress">{0} archives to compress!</string>
+  <string name="Safe_to_exit">Safe to exit</string>
+  <!--Safe Queue NUMBER LEFT TO SAFE-->
+  <string name="Save_Queue_X">Save Queue: {0}</string>
+  <!--ResearchPanelScript-->
+  <!--I just processed the ITEM scan!-->
+  <string name="I_just_processed_the_X_scan">I just processed the {0} scan!</string>
+  <!--I just researched the NAME recipe! -->
+  <string name="I_just_researched_the_X_recipe">I just researched the {0} recipe!</string>
+  <!--I just researched the NAME project!-->
+  <string name="I_just_researched_the_X_project">I just researched the {0} project!</string>
+  <string name="PROCESS">PROCESS</string>
+  <string name="NO_SCANS">NO SCANS</string>
+  <string name="RESEARCH">RESEARCH</string>
+  <!--Power required to research : AMOUNT-->
+  <string name="Unknown_material_Power_required_to_research_X">Power required to research: {0}</string>
+  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Process Unknown Material scans to unlock new Research Projects and Manufacturing Recipes, as well as earn Research Points.</string>
+  <string name="Find_unknown_materials_using_orescanner_ping_facility">Find more unknown materials using the ore scanner's ping facility.&#xD;&#xA;Press M to select the ore scanner then Left Mouse Button to send off a material ping.</string>
+  <!--For more information on the BLOCK open the handbook (press H).-->
+  <string name="For_more_information_on_the_X_open_the_Handbook">For more information on the {0} open the handbook (press H).</string>
+  <!--Scans (AMOUNT)-->
+  <string name="Scans_X">Scans ({0})</string>
+  <string name="Scans">Scans</string>
+  <string name="Recipes">Recipes</string>
+  <string name="Projects">Projects</string>
+  <!--Recipes (AMOUNT)-->
+  <string name="Recipes_X">Recipes ({0})</string>
+  <!--Projects (AMOUNT)-->
+  <string name="Projects_X">Projects ({0})</string>
+  <string name="Value">Value</string>
+  <string name="Research_Points">Research Points</string>
+  <string name="In_order_know_what_material_is_will_process_scan">In order to know what this material is, you will have to process the scan.</string>
+  <string name="Unprocessed_Scan">Unprocessed Scan</string>
+  <string name="Power_required_to_research_X">Power required to research : {0}</string>
+  <string name="Research_project_at_laboratory_Requires">Research this project at the laboratory - Requires:</string>
+  <string name="Unlocked_from">Unlocked from</string>
+  <!---->
+  <string name="Unknown_Requirement_X">Unknown Requirement: {0}</string>
+  <!---->
+  <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">For more information on the {0} and a list of what it will unlock, open the handbook (press H).</string>
+  <!--RocketManager-->
+  <string name="CONTACT_LOST_REASON_X">CONTACT LOST!&#xD;&#xA;REASON: {0}</string>
+  <string name="Unknown">Unknown</string>
+  <string name="Altitude_X_m_Accel_X">Altitude : {0}m. Accel: {1}m/s²</string>
+  <string name="Fuel_X_X">Fuel : {0}l /{1}kg</string>
+  <string name="Velocity_x_Orbital_Velocity_X">Velocity: {0}m/s. Orbital Velocity: {1}m/s</string>
+  <string name="Mass_X">Mass : {0}kg</string>
+  <string name="Thrust_X">Thrust : {0}N / {1}N</string>
+  <string name="TOO_HEAVY_NEED_AT_LEAST_X_Thrust">TOO HEAVY&#xD;&#xA;NEED AT LEAST {0}N of Thrust!</string>
+  <string name="Out_of_fuel">Out of fuel</string>
+  <string name="Launch_in_T_X">Launch in T - {0}s</string>
+  <string name="LaunchPad_Collision">LaunchPad Collision</string>
+  <!--Scope-->
+  <string name="Unset">Unset</string>
+  <!--Prefixses-->
+  <string name="Perfect">Perfect</string>
+  <string name="Deadly">Deadly</string>
+  <string name="Exact">Exact</string>
+  <string name="Precise">Precise</string>
+  <string name="Accurate">Accurate</string>
+  <string name="Careful">Careful</string>
+  <string name="Careless">Careless</string>
+  <string name="Crappy">Crappy</string>
+  <string name="Lax">Lax</string>
+  <string name="Sloppy">Sloppy</string>
+  <string name="Inaccurate">Inaccurate</string>
+  <string name="Useless">Useless</string>
+  <!--PREFIX Scope-->
+  <string name="X_Scope">{0} Scope</string>
+  <!--ServerManagementPanelScript-->
+  <string name="Refreshing">Refreshing...</string>
+  <string name="PUBLIC_Waiting_for_response">[PUBLIC] (Waiting for response)</string>
+  <string name="Contacting_server">Contacting server...</string>
+  <!--Servermonitor-->
+  <string name="Server_Readout">Server Readout - </string>
+  <!--World Uptime: TIME-->
+  <string name="World_Uptime">World Uptime : {0}</string>
+  <!--NUMBER out of NUMBER Players conneted-->
+  <string name="X_out_of_X_Players_connected">{0} out of {1} players connected.</string>
+  <!--NUMBER active Machines (Load NUMBER)-->
+  <string name="X_active_Machines_Load_X">{0} active machines (Load : {1})</string>
+  <!--NUMBER active mobs (Load NUMBER)-->
+  <string name="X_active_mobs_Load_X">{0} active mobs (Load : {1})</string>
+  <!--Server Trasnmission in Progress: PERCENT-->
+  <string name="Server_Transmission_Progress_X">Server Transmission Progress : {0}</string>
+  <!--NUMBER segments left to send-->
+  <string name="X_segments_left_to_send">{0} segments left to send</string>
+  <!--NUMBER Bars/ NUMBER Ores/ NUMBER Power/min-->
+  <string name="X_Bars_X_Ores_X_Power">({0} Bars/ {1} Ores/ {2} Power/min</string>
+  <!--SettingsPanel-->
+  <string name="Forced">Forced</string>
+  <string name="Half">Half</string>
+  <!--SkinselectPanel-->
+  <string name="Helmet_Open">Helmet: Open</string>
+  <string name="Helmet_Closed">Helmet: Closed</string>
+  <string name="Gender_Male">Gender: Male</string>
+  <string name="Gender_Female">Gender: Female</string>
+  <string name="Gender_Other">Gender: Other</string>
+  <!--Slimeattractor-->
+  <string name="Slime_Attractor">Slime Attractor</string>
+  <string name="Bait_active">Bait active!</string>
+  <string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Needs Ruined Organic Matter in adjacent Storage Hopper!</string>
+  <!--SmelterMachineWindow-->
+  <string name="Temperature">Temperature</string>
+  <string name="Heating">Heating</string>
+  <!--Requires AMOUNT Ore-->
+  <string name="Requires_X_Ore">Requires {0} Ore</string>
+  <string name="Click_icon_to_clear">Click icon to clear</string>
+  <string name="Add_Ore">Add Ore</string>
+  <string name="Add_Ore_to_begin">Add Ore to begin!</string>
+  <string name="Click_icon_to_retrieve">Click icon to retrieve</string>
+  <string name="Ingredient_in_Ore_Smelter">Ingredient in Ore Smelter</string>
+  <string name="Gathering_Materials">Gathering Materials</string>
+  <!--SpiderBody-->
+  <!--Gained AMOUNT Power!-->
+  <string name="Gained_X_power">Gained {0} power!</string>
+  <!--Stock-->
+  <string name="Undamped">Undamped</string>
+  <string name="Impeded">Impeded</string>
+  <string name="Inhibiting">Inhibiting</string>
+  <string name="Damped">Damped</string>
+  <string name="Absorbing">Absorbing</string>
+  <string name="Interdicting">Interdicting</string>
+  <string name="Vibration">Vibration</string>
+  <string name="Wobbliness">Wobbliness</string>
+  <string name="Balance">Balance</string>
+  <string name="Steadiess">Steadiess</string>
+  <string name="Solidness">Solidness</string>
+  <string name="Fixation">Fixation</string>
+  <!--PREFIX Stock of SUFFIX-->
+  <string name="X_Stock_of_X">{0} Stock of {1} </string>
+  <!--StockPort-->
+  <string name="Error_machine_tier_not_recognized">Error machine tier not recognized!</string>
+  <string name="Looking_for_Attached_Storage">Looking for Attached Storage</string>
+  <string name="Searching_for_Storage">Searching for Storage</string>
+  <string name="Fully_Stocked">Fully Stocked</string>
+  <string name="Looking_for_MS_Crate">Looking for Mass Storage Crate...</string>
+  <string name="Surveying_MS_Crate_distances">Surveying mass storage crate distances...</string>
+  <string name="Currently_stocking_Unknown_Material">Currently stocking : Unknown Material"</string>
+  <!--Currently Stocking: BLOCK-->
+  <string name="Currently_stocking_X">"Currently stocking : {0}</string>
+  <!--Stockpile quantity: AMOUNT/AMOUNT-->
+  <string name="Stockpile_quantity_X_X_Press_E_configure_Stock_Limits">Stockpile quantity: {0}/{1} &#xD;&#xA;Press E to configure Stock limits&#xD;&#xA;</string>
+  <string name="Press_E_configure_item_stock">Press E to configure item to stock</string>
+  <!--Local inventory: BLOCK , Drone inventory: BLOCK-->
+  <string name="Local_inventory_X_Drone_inventory_X">Local inventory: {0} &#xD;&#xA; Drone inventory: {1}</string>
+  <!--StockPortWindow-->
+  <string name="Set_Item_Stock">Set Item to Stock</string>
+  <string name="Decrease_Limit">Decrease Limit</string>
+  <string name="Increase_Limit">Increase Limit</string>
+  <string name="Refuse_items_above_limit">Refuse items when above limit</string>
+  <string name="Choose_Item">Choose Item</string>
+  <string name="Enter_Search_Term">Enter Item Search Term</string>
+  <string name="Inventory_Item">Inventory Item</string>
+  <!--Stock: AMOUNT/MAX-->
+  <string name="Stock_X_X">Stock: {0}/{1}</string>
+  <string name="Collect_items_above_limit">Collect items when above limit</string>
+  <string name="Searching_for">Searching for:</string>
+  <!--Stocking: AMOUNT-->
+  <string name="Stocking_X">Stocking: {0}</string>
+  <string name="Stockpile_cleared">Stockpile cleared!</string>
+  <!--StorageHopper-->
+  <string name="Storage_full">Storage full</string>
+  <string name="Storage_Empty">Storage Empty</string>
+  <!--AMOUNT free slots-->
+  <string name="X_free_slots">{0} free slots</string>
+  <string name="Processing">Processing...</string>
+  <!--Error unknown cube CUBETYPE added-->
+  <string name="ERROR_Unknown_cube_X_added">ERROR Unknown cube[{0}] added</string>
+  <string name="Mini_Hopper_Small_Very_Slow">Mini Hopper (Small and Very Slow)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Logistics Hopper (Tiny and Somewhat Slow)</string>
+  <string name="Cryo_Hopper">Cryo Hopper</string>
+  <!--Used: AMOUNT, Free: AMOUNT-->
+  <string name="Used_X_Free_X_E_Open_Storage_Interface">Used: {0}. Free:{1} &#xD;&#xA; (E) Open Storage Interface</string>
+  <!--Last Item: ITEMNAME-->
+  <string name="Last_Item_X">Last Item: {0}</string>
+  <!--Internal Temp: NUMBER°C, Power: AMOUNT-->
+  <string name="Internal_Temp_X_C_Power_X">Internal Temp: {0}°C. Power: {1}</string>
+  <!--Using AMOUNT PPS-->
+  <string name="Using_X_PPS">Using {0} PPS.</string>
+  <string name="Overheating_NEEDS_MORE_POWER">Overheating! NEEDS MORE POWER!</string>
+  <string name="Overheating_Contents_Spoiling">Overheating! Contents Spoiling!</string>
+  <string name="CryoStorage_Active">CryoStorage Active!</string>
+  <!--Shift+E Toggle Vacuum status: ON/OFF-->
+  <string name="Shift_E_Toggle_Vacuum_Status_X">(Shift+E)Toggle Vacuum Status : {0}</string>
+  <!--(T) to store AMOUNT-->
+  <string name="T_to_store_X">(T) to store {0}</string>
+  <string name="Try_Shift_and_Ctrl">(Try Shift and Ctrl)</string>
+  <string name="Hopper_full">Hopper full!</string>
+  <string name="Q_to_retrieve_contents">(Q) to retrieve contents!</string>
+  <string name="Shift_Q_to_toggle_permissions">(Shift+Q) to toggle permissions!</string>
+  <string name="Scan_for_more_information">Scan for more information!</string>
+  <!--NetworkSync: AMOUNT-->
+  <string name="NetworkSync_X">NetworkSync: {0}</string>
+  <string name="Failed_Inventory_Full">Failed! &#xD;&#xA;Inventory Full?</string>
+  <!--StorageHopperWindow-->
+  <!--Stored AMOUNT-->
+  <string name="Stored_X">Stored {0}</string>
+  <!--SotrageHopperWindowNew-->
+  <string name="UNKNOWN_TYPE">UNKNOWN TYPE</string>
+  <string name="Add_Remove">Add + Remove</string>
+  <string name="Add_Only">Add Only</string>
+  <string name="Remove_Only">Remove Only</string>
+  <string name="Toggle_Vacuum">Toggle Vacuum</string>
+  <string name="Vacuum_Off">Vacuum: Off</string>
+  <string name="Press_I_to_toggle_I_nventory">Press I to toggle (I)nventory</string>
+  <string name="ShiftCtrl">Shift/Ctrl to remove 10/1</string>
+  <string name="Vacuum_On">Vacuum: On</string>
+  <!--Used: AMOUNT/MAX-->
+  <string name="Used_X_X">Used: {0}/{1}</string>
+  <!--SuitpanelIconScript-->
+  <!--Stacked AMOUNT x TYPE-->
+  <string name="Stacked_X_x_X">Stacked {0}x {1}</string>
+  <!--SuitPanelScript-->
+  <!--Suit Power AMOUNT/MAX-->
+  <string name="Suit_Power_X_X">Suit Power: {0}/{1}</string>
+  <!--Solar Efficiency: EFFICIENCY-->
+  <string name="Solar_Efficiency_X">Solar Efficiency: {0}</string>
+  <!--Mag Range: AMOUNT-->
+  <string name="Mag_Range_X">Mag Range: {0}</string>
+  <string name="Suit_Heater_Active">Suit Heater : Active</string>
+  <string name="Suit_Heater_Offline">Suit Heater : Offline</string>
+  <string name="Toxic_Filter_Active">Toxic Filter : Active</string>
+  <string name="Toxic_Filter_Offline">Toxic Filter : Offline</string>
+  <string name="Radiation_protection_Active">Radiation protection : Active</string>
+  <string name="Radiation_protection_Offline">Radiation protection : Offline</string>
+  <!--SuperbuildPanel-->
+  <string name="Orders_X">Orders: {0}</string>
+  <string name="Select_Shape_First">Select Shape First</string>
+  <string name="Instant">Instant</string>
+  <string name="Smooth">Smooth</string>
+  <string name="Layered">Layered</string>
+  <string name="FILL_SOLID">"FILL-SOLID</string>
+  <string name="FILL_HOLLOW">FILL-HOLLOW</string>
+  <string name="Anchor_Base">Anchor : Base</string>
+  <string name="Anchor_Centre">Anchor : Centre</string>
+  <string name="Not_Buildable">Not Buildable</string>
+  <!--SurvivalDigScript-->
+  <string name="Hold_LeftShift_dismantle_MultiBlock_Machines">Hold Left-Shift to dismantle MultiBlock Machines!</string>
+  <string name="Valuable_machine">Valuable machine!</string>
+  <string name="Multiblock_machine">Multiblock machine!</string>
+  <string name="Quarry">Quarry!</string>
+  <string name="Too_large_Use_LeftShift">Too large! Use LeftShift!</string>
+  <string name="Hold_LeftShift_to_break_this">Hold LeftShift to break this!</string>
+  <string name="This_is_too_hard_There_no_way_to_dig_up_yet">This is too hard!&#xD;&#xA;There is no way to dig this up yet!</string>
+  <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">This is too hard!&#xD;&#xA;Upgrade your Build Gun may help!</string>
+  <string name="Use_an_Ore_Extractor">Use an Ore Extractor!</string>
+  <string name="Use_LeftCtrl_to_SuperDig">Use-Left Ctrl to SuperDig!</string>
+  <!--SurvivalHazerdPanel-->
+  <string name="ERR_TOO_COLD">ERR. TOO COLD</string>
+  <string name="Died_from_hypothermia_Craft_Suit_Heater">Died from hypothermia&#xD;&#xA;Craft a Suit Heater.</string>
+  <string name="Died_from_hypothermia_Place_Torches_keep_warm_Power_Boosters_emergency_power">Died from hypothermia&#xD;&#xA;Place Torches to keep warm!&#xD;&#xA;Power Boosters give emergency power!</string>
+  <string name="You_went_swimming_in_magma">You went swimming in magma!</string>
+  <string name="You_went_wading_in_magma">You went wading in magma!</string>
+  <string name="Died_from_heat_exposure">Died from heat exposure</string>
+  <string name="Died_from_temperature_exposure_See_log_file_for_details">Died from temperature exposure (See log file for details!</string>
+  <!--SurvivalPowerPanel-->
+  <string name="Save_Count_X">Save count: {0}</string>
+  <!--SurvivalPlayerScript-->
+  <string name="Tut_1_Title">Central Power Hub (CPH)</string>
+  <string name="Tut_1_Text">&#xD;&#xA;Your CPH is the centre of your base, and will provide small amounts of power when fed resources.&#xD;&#xA;&#xD;&#xA;Look at your CPH and press E to access it.&#xD;&#xA;&#xD;&#xA;You can then click Add Resources to feed it some coal.</string>
+  <string name="Tut_2_Title">Power Storage Batteries (PSB)</string>
+  <string name="Tut_2_Text">&#xD;&#xA;PSBs are your primary way of storing power for your base.&#xD;&#xA;&#xD;&#xA;Locate your PSB in your base now, then highlight it.&#xD;&#xA;&#xD;&#xA;Pressing Q will draw power from the PSB into your suit, which in turn will keep you warm.</string>
+  <string name="Tut_3_Title">Ore Extractors (OE)</string>
+  <string name="Tut_3_Text">&#xD;&#xA;Ore Extractors (OE) collect ore whilst you are busy doing other things, and require power.&#xD;&#xA;&#xD;&#xA;Locate your OE, and access it with E again. Feed it 200 power, and it will work for over 8 minutes!</string>
+  <string name="Tut_4_Title">Storage Hoppers (SH)</string>
+  <string name="Tut_4_Text">&#xD;&#xA;Storage Hoppers (SH) store and process items automatically.&#xD;&#xA;&#xD;&#xA;Your machines will take resources from, or give them to, a Storage Hopper. Locate your SH, and press Q to empty it. Remove the Coal that has been mined.</string>
+  <string name="Tut_5_Title">Scanning</string>
+  <string name="Tut_5_Text">&#xD;&#xA;You can 'ping' to locate known or unknown items in the world.&#xD;&#xA;Once an unknown item is found, you can then scan it.&#xD;&#xA;&#xD;&#xA;Find an unscanned item now (inside OR outside the forcefield), highlight it, and hold Right Mouse until it is scanned.</string>
+  <string name="Tut_6_Title">Researching</string>
+  <string name="Tut_6_Text">&#xD;&#xA;Once scanned, Unknown Items need to be researched.&#xD;&#xA;&#xD;&#xA;Locate and highlight your Research Station, then press E to interact and complete the research.&#xD;&#xA;&#xD;&#xA;Researching earns points to unlock new technologies.</string>
+  <string name="Tut_7_Title">Simple Crafting</string>
+  <string name="Tut_7_Text">&#xD;&#xA;ARTHER has helped you through the start of your survival mission - now it's time to say Thank you. &#xD;&#xA;&#xD;&#xA;Head to the Crafting Plant, select it, press E and make a Power Core for ARTHER.</string>
+  <string name="Tut_8_Title">Automation</string>
+  <string name="Tut_8_Text">&#xD;&#xA;You've got a few Storage Hoppers, Laser Power Transmitters and Conveyor Belts left over.&#xD;&#xA;&#xD;&#xA;Locate the holo-tutorial around the CPH.&#xD;&#xA;This shows you an ideal miniature Automation setup. Place your machines there.</string>
+  <string name="Tut_9_Title">Good luck!</string>
+  <string name="Tut_9_Text">&#xD;&#xA;From now, you're on your own. Everything you need to know is in your Survival Handbook. Open it by pressing H.</string>
+  <string name="You_died_in_previous_game_still_dead">You died in a previous game! You're still dead!</string>
+  <string name="CPH_not_heal_on_Hardcore_difficulty">The CPH does not heal on Hardcore difficulty!</string>
+  <string name="out_of_health_some_reason">Ran out of health for some reason!</string>
+  <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Died from Toxic Fumes&#xD;&#xA;Try crafting a Toxic Filter!</string>
+  <string name="Unknown_block_detected_Hold_RMB_scan">Unknown block detected...&#xD;&#xA;Hold RMB to scan!</string>
+  <string name="Block_scanned_not_researched_Return_to_ResearchStation_identify_Press_x_switch_Build_Gun">Block has been scanned but not researched!&#xD;&#xA;Return to your Research Station to identify it!&#xD;&#xA;Press X to switch to Build Gun</string>
+  <!--BLOCK has been researched!-->
+  <string name="X_has_been_researched">{0} has been researched!</string>
+  <string name="x_return_Build_Gun">X to return to Build Gun&#xD;&#xA;</string>
+  <string name="Scanning_unknown_block_Continue_hold_button_complete_Scan">Scanning unknown block...&#xD;&#xA;Continue to hold button to complete Scan</string>
+  <string name="Cannot_rescan_block_Already_Scanned_Scan_at_ResearchStation_x_switch_Build_Gun">Cannot re-scan block...&#xD;&#xA;Already Scanned!&#xD;&#xA;Scan this at your Research Station!&#xD;&#xA;Press X to switch to Build Gun</string>
+  <!--Scanning BLOCKTYPE vein-->
+  <string name="Scanning_X_vein_Continue_hold_button_complete_Scan">Scanning {0} vein...&#xD;&#xA;Continue to hold button to complete Scan</string>
+  <!--Block Type: NAME-->
+  <string name="Block_Type_X">Block Type: {0}</string>
+  <!--Distance : AMOUNT m-->
+  <string name="Distance_X_m">Distance : {0}m.</string>
+  <string name="New_Scan_Complete">New Scan Complete!</string>
+  <string name="Scanned_new_Block_Return_ResearchStation">Scanned new Block!&#xD;&#xA;Return to your Research Station!</string>
+  <string name="Scanned_new_Block_Return_ResearchStation_x_select_BuildGun">Scanned new Block!&#xD;&#xA;Return to your Research Station!&#xD;&#xA;X to select Build Gun</string>
+  <string name="Already_Scanned_Return_ResearchStation">Already Scanned!&#xD;&#xA;Return to your Research Station!</string>
+  <string name="Already_Scanned_Return_ResearchStation_x_select_BuildGun">Already Scanned!&#xD;&#xA;Return to your Research Station!&#xD;&#xA;X to select Build Gun</string>
+  <string name="Return_ResearchStation">Return to Research Station!</string>
+  <!--Block Type: {0}-->
+  <string name="Block_Type_X_Already_Known">Block Type: {0}&#xD;&#xA;Already Known</string>
+  <string name="Already_Scanned">Already Scanned!</string>
+  <string name="unknown">unknown</string>
+  <!--Ore report: Type: NAME, Volume: AMOUNTm3, Total Ore Amound: AMOUNT-->
+  <string name="Ore_Report_normal_X_X_X">Ore Report:&#xD;&#xA;Type: {0}&#xD;&#xA;Volume: {1} m3&#xD;&#xA;Total Ore Amount: {2:N0}</string>
+  <!--Ore report: Type: NAME, Volume: AMOUNTm3, Total Ore Amound: AMOUNT m (Million)-->
+  <string name="Ore_Report_Big_X_X_X">Ore Report:&#xD;&#xA;Type: {0}&#xD;&#xA;Volume: {1} m3&#xD;&#xA;Total Ore Amount: {2:N4}m</string>
+  <!--Scanned AMOUNTm, BLOCKTYPE-->
+  <string name="Scanned_X_m_X">Scanned {0}m, {1}</string>
+  <string name="Network_Ore_Report">I just scanned a vein of {0} containing {1}m Ore at {2},{3},{4}</string>//A huge vein with a ! at the end?
+  <!--T1_LiftEntity-->
+  <!--Extend: Meter/MAX-->
+  <string name="Extend_X_X">Extend: {0}/ {1}</string>
+  <!---->
+  <string name="Pressure_X_bar">Pressure: {0}bar</string>
+  <!---->
+  <string name="Current_Speed_X_ms">Current Speed: {0}m/s</string>
+  <!---->
+  <string name="Powered_compressor_required_beyond_X_m">Powered compressor required beyond {0}m</string>
+  <string name="Home_Raise_Lift">(Home) Raise Lift.</string>
+  <string name="End_Lower_Lift">(End) Lower Lift.</string>
+  <!--T3_FuelCompressor-->
+  <string name="Initialising">Initialising...</string>
+  <string name="Locating_Resources">Locating Resources...</string>
+  <!---->
+  <string name="Looking_offload_X_HEFCs">Looking to offload {0} high octane fuel canisters</string>
+  <string name="Compositing_materials">Compositing materials...</string>
+  <!---->
+  <string name="Looking_for_X_coal_and_X_HEFC">Looking for {0} more coal and {1} more HEFC...</string>
+  <!---->
+  <string name="Compositing_X_s_left_X_PPS">Compositing; {0}s left. @ {1}pps</string>
+  <string name="STORAGE_FULL_OFFLOAD">STORAGE FULL! OFFLOAD!</string>
+  <string name="No_fuel_to_offload">No fuel to offload</string>
+  <!---->
+  <string name="X_HOF_ready_offload">{0} High Octane Fuel ready to offload</string>
+  <!---->
+  <string name="Power_X_X">Power: {0}/ {1}</string>
+  <!---->
+  <string name="Storing_X_coal_and_X_HEF_Canisters">Storing {0} Coal and {1} HEF Canisters</string>
+  <!--T3_Slodrs-->
+  <string name="DigiStructing_Rocket">DigiStructing Rocket</string>
+  <string name="Fuelling_Rocket">Fuelling Rocket</string>
+  <string name="Rocket_Launched">Rocket Launched!</string>
+  <string name="Pad_Empty">Pad Empty.</string>
+  <!---->
+  <string name="DigiStruct_power_needed_X">DigiStruct power needed: {0}</string>
+  <string name="Waiting_for_target_lock">Waiting for target lock...</string>
+  <!---->
+  <string name="High_Octane_Fuel_needed_X">High Octane Fuel needed: {0}</string>
+  <!--T4_CreepBurner-->
+  <string name="CPH_Offline_Dazzler_Offline">CPH Offline; Dazzler Offline.</string>
+  <!---->
+  <string name="CryoPlasm_Cleared_X_m">CryoPlasm Cleared: {0}m³</string>
+  <!--t4_CreepInferno-->
+  <string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Inferno has successfully neutralised a CryoPlasm Spawner!</string>
+  <string name="CryoPlasm_Inferno">CryoPlasm Inferno</string>
+  <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Please attach a Magma Storage via Fluid Pipes...</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Scanning for CryoPlasm Spawns within 64 metres..."</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">Cannot target CryoPlasm Spawner, blocked by {0}!</string>
+  <string name="Time_remaining_X">Time remaining: {0}</string>
+  <string name="WARNING_REGROWTH_IN_X">WARNING! REGROWTH IN: {0}</string>
+  <string name="NEED_COMPRESSED_MAGMA_NOW">NEED COMPRESSED MAGMA NOW!</string>
+  <!--T4_GasBottler-->
+  <string name="Waiting_gas_from_Gas_Storage_Tank">Waiting on gas from a Gas Storage Tank.</string>
+  <string name="Storing_X">Storing: {0}.</string>
+  <string name="Next_bottle_filled_in_X">Next bottle filled in : {0}s</string>
+  <string name="Looking_for_Hopper_offload_to">Looking for Hopper to offload to...</string>
+  <!--T4_GasStorage-->
+  <string name="Gas_Storage">Gas Storage</string>
+  <string name="Waiting_for_gas_from_Particulate_Compressor">Waiting for gas from a Particulate Compressor.</string>
+  <string name="Connected_to_Gas_Bottling_Plant">Connected to Gas Bottling Plant.</string>
+  <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">Scanning for pipe connections to a Gas Bottling Plant in {0}s</string>
+  <!--T4_Grinder-->
+  <string name="Looking_for_Ore">Looking For Ore</string>
+  <string name="Please_wait_paging">Please wait, paging...</string>
+  <string name="Place_on_3x3_Ore_only">Place on 3x3 Ore only!</string>
+  <string name="Place_on_3x3_identical_Ore_only">Place on 3x3 identical Ore only!</string>
+  <string name="Grinding_Ore">Grinding Ore...</string>
+  <string name="Grinder_finalising">Grinder finalising...</string>
+  <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Finalising...&#xD;&#xA;WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
+  <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Ore ground; looking to offload.&#xD;&#xA;WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
+  <string name="Grinding">Grinding...</string>
+  <string name="Kaboom">Kaboom!</string>
+  <string name="Grinder_cannot_function_without_active_C5">Grinder cannot function without active Cold Cavern Climate Control Centre</string>
+  <string name="Grinding_X">Grinding: {0}</string>
+  <string name="X_X_to_offload">{0}x {1} to offload!</string>
+  <!--T4_LaserBorer-->
+  <string name="CPH_Offline_Borer_Offline">CPH Offline; Borer Offline.</string>
+  <string name="Unable_to_locate_input_Storage_Hopper">Unable to locate input Storage Hopper</string>
+  <string name="Looking_for_High_Energy_Composite_Fuel">Looking for High Energy Composite Fuel...</string>
+  <!--T4MagmaBore-->
+  <string name="Checking_Gantry_Clearance">Checking Gantry Clearance...</string>
+  <string name="Checking_Drill_Clearance">Checking Drill Clearance...</string>
+  <string name="DigiStructing_Drill">DigiStructing Drill...</string>
+  <string name="Drilling">Drilling...</string>
+  <string name="Stuck">Stuck.</string>
+  <string name="Retriving_Drill_Head">Retriving Drill Head.</string>
+  <string name="Collecting_Magma">Collecting Magma!</string>
+  <string name="Gantry_Search_completed_X_of_X">Gantry Search completed {0} of {1}</string>
+  <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Gantry cannot be deployed due to obstruction of {0}</string>
+  <string name="Drill_Search_completed_X_of_X">Drill Search completed {0} of {1}</string>
+  <string name="Drill_cannot_be_deployed_due_to_obstruction_of_X">Drill cannot be deployed due to obstruction of</string>
+  <string name="Looking_for_linked_centre">Looking for linked centre...</string>
+  <string name="PPS_Delta_X">PPS Delta: {0}</string>
+  <string name="X_m_power_still_required_X">{0}m power still required&#xD;&#xA;{1}</string>
+  <string name="Drilling_at_depth_X">Drilling at depth {0}m</string>
+  <string name="Retriving_Drill_at_depth_X">Retriving Drill (at depth {0}m)</string>
+  <string name="Offloading_to_Magma_Storage_Unit">Offloading to Magma Storage Unit</string>
+  <string name="Failed_to_find_Magma_Storage_Unit_searched_X">Failed to find Magma Storage Unit; searched {0}m</string>
+  <!--T4_MagmaStorage-->
+  <string name="Please_attach_Magma_Bore_to_storage">Please attach a Magma Bore to this storage...</string>
+  <string name="Offloading_to_CryoPlasm_Inferno">Offloading to CryoPlasm Inferno Turret.</string>
+  <string name="Failed_to_find_CryoPlasm_Inferno_searched_X">Failed to find CryoPlasm Inferno Turret.; searched {0}m</string>
+  <!--T4_ParticleCompressor-->
+  <string name="Compressing">Compressing...</string>
+  <string name="Waiting_for_resources">Waiting for resources...</string>
+  <string name="Maximum_internal_pressure_reached">Maximum internal pressure reached</string>
+  <string name="Particulate_Compressor">Particulate Compressor</string>
+  <string name="Compressing_X_using_X_PPS">Compressing: {0} using {1}PPS</string>
+  <string name="Collecting">Collecting...</string>
+  <string name="Nothing_to_compress_attach_Particle_Filter">Nothing to compress.&#xD;&#xA;Please attach a Particle Filter.</string>
+  <string name="X_ready_to_compress">{0} ready to compress.</string>
+  <string name="Need_X_more_to_begin">Need {0} more to begin.</string>
+  <string name="Storing_X_stored">Storing {0} stored.</string>
+  <string name="Connected_to_Gas_Storage">Connected to Gas Storage.</string>
+  <string name="Scanning_for_pipe_connections_to_Gas_Storage_in_X">Scanning for pipe connections to Gas Storage in {0}s</string>
+  <!--T4_ParticleFilter-->
+  <string name="Error_no_particulates_found">Error, no particulates found.</string>
+  <string name="Particulate_Filter">Particulate Filter</string>
+  <string name="CPH_Offline_filtration_paused">CPH Offline - filtration paused!</string>
+  <string name="POWER_LOW">POWER LOW!</string>
+  <string name="Filtering_using_X_PPS">Filtering using {0} PPS</string>
+  <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Unable to locate Particulates.&#xD;&#xA;Please place in a particle-filled cavern.</string>
+  <string name="X_stored">{0} stored.</string>
+  <string name="Connected_to_Particulate_Compressor">Connected to Particulate Compressor.</string>
+  <string name="Scanning_pipe_connection_Particle_Compressor_in_X">Scanning for pipe connection to Particle Compressor in {0}s</string>
+  <!--T5_OrbitalRailGunController-->
+  <string name="Built_to_X">Built to {0}</string>
+  <string name="Built_Ring_at_X">Built Ring at {0}m</string>
+  <string name="Dist_X_X">Dist: {0}/{1}</string>
+  <string name="Need_X_more_alloyed_blocks_to_construct">Need {0} more alloyed blocks to construct</string>
+  <string name="Requires_Adventures_Pack_or_Patronage">Requires Adventures Pack or Patronage!</string>
+  <string name="WARNING_X_ACTIVE_HIVEMINDS_FOUND">--WARNING {0} ACTIVE HIVEMINDS FOUND--</string>
+  <string name="You_will_be_REQUIRED_to_kill_before_using_this_item_full_release">You will be REQUIRED to kill these before using this item in full release</string>
+  <string name="WARNING_No_C5_found_this_will_be_requirement_before_release">--WARNING No C5 found - this will be a requirement before release!</string>
+  <string name="WARNING_ALL_CRYOPLASM_SPAWNERS_MUST_KILLED_BEFORE_USING">--WARNING ALL EIGHT CRYOPLASM SPAWNERS MUST BE KILLED BEFORE USING THIS--</string>
+  <string name="Storing_X_Coal_and_X_HEF_Canisters">Storing {0} Coal and {1} HEF Canisters</string>
+  <!--T5_OrbitalRailGunRing-->
+  <string name="No_linked_centre_found">No linked centre found!</string>
+  <string name="Orbital_RailGun_Link">Orbital RailGun Link</string>
+  <string name="Temperature_X">Temperature {0}°C</string>
+  <string name="Liquified_Resin_Needed_X">Liquified Resin Needed {0}</string>
+  <!--TeleporterWindow-->
+  <string name="Power_Cost">Power Cost:</string>
+  <string name="No_Marker">No Marker</string>
+  <string name="No_location_stored">No location stored</string>
+  <!--TerrainData-->
+  <string name="block_added_by_mod_which_has_been_deactivated">This block was added by a mod which has been deactivated</string>
+  <!--ThreadWatchDog-->
+  <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">The Gameplay thread has not responded for {0} seconds!</string>
+  <string name="Fluid_processing_X">Fluid processing: {0}</string>
+  <!--WaypointMachine-->
+  <string name="Empty_Waypoint">Empty Waypoint</string>
+  <string name="Place_Sign_next_to_machine_name_it">Place a Sign next to this machine to name it!</string>
+  <string name="This_needs_0_1_PPS">This machine needs 0.1 PPS.</string>
+  <!--WaypointManager-->
+  <string name="Marked_Location">Marked Location</string>
+  <string name="usage_X_command">usage: {0} 'command'</string>
+  <string name="valid_commands_add_remove">valid commands: add remove</string>
+  <string name="usage_X_add_name_r_g_b">usage: {0} add 'name' ('r' 'g' 'b')</string>
+  <string name="added_waypoint_X">added waypoint '{0}'</string>
+  <string name="usage_X_remove_name">usage: {0} remove 'name'</string>
+  <string name="X_removed_from_waypoint_list">\"{0}\" removed from waypoint list</string>
+  <string name="X_not_found_in_waypoint_list">\"{0}\" not found in waypoint list</string>
+  <string name="Unknown_command_X">Unknown command: {0}</string>
+  <!--Weapons-->
+  <string name="Ricocheting">Ricocheting</string>
+  <string name="Flubbing">Flubbing</string>
+  <string name="Bouncy">Bouncy</string>
+  <string name="Crazy_ass">Crazy-ass</string>
+  <string name="Tingling">Tingling</string>
+  <string name="Electrifying">Electrifying</string>
+  <string name="Shocking">Shocking</string>
+  <string name="Electrocuting">Electrocuting</string>
+  <string name="Pistol">Pistol</string>
+  <string name="Blaster">Blaster</string>
+  <string name="Sniper_Rifle">Sniper Rifle</string>
+  <string name="Assault_Rifle">Assault Rifle</string>
+  <string name="SMG">SMG</string>
+  <string name="Cannon">Cannon</string>
+  <string name="Minigun">Minigun</string>
+  <string name="X_of">{0} of</string>
+  <!--WeaponUIManager-->
+  <string name="Level_X_X_X">Level {0} {1} {2}</string>
+  <string name="Range_X">Range: {0}</string>
+  <string name="Shot_Delay_X">Shot Delay: {0}</string>
+  <string name="X_shots_sec">{0}shots/sec</string>
+  <string name="Spread_X">Spread: {0}</string>
+  <string name="Recoil_Reduction_X">Recoil Reduction: {0}%</string>
+  <string name="Max_Charge_X">Max Charge: {0}</string>
+  <string name="Charge_Rate_X">Charge Rate: {0}</string>
+  <string name="Mod_Socket_X">Mod Socket {0}</string>
+  <!--WhiteListManager-->
+  <string name="Whitelisting_is_currently_X">Whitelisting is currently </string>
+  <string name="valid_commands_on_off_add_remove">valid commands: on off add remove</string>
+  <string name="whitelist_turned_on">whitelist turned on</string>
+  <string name="whitelist_turned_off">whitelist turned off</string>
+  <string name="usage_whitelist_add_name">usage: whitelist add 'name'</string>
+  <string name="X_added_to_single_access_list">\"{0}\" added to single access list</string>
+  <string name="usage_whitelist_remove_name">usage: whitelist remove 'name'</string>
+  <string name="X_removed_from_single_access_list">\"{0}\" removed from single access list</string>
+  <string name="X_removed_from_whitelist">\"{0}\" removed from whitelist</string>
+  <string name="X_not_found_in_whitelist">\"{0}\" not found in whitelist</string>
+  <!--WorkshopConsole-->
+  <string name="workshop_command_only_works_inside_workshop">workshop command only works inside a workshop</string>
+  <string name="usage_X">usage: {0}</string>
+  <string name="Design_name_changed_to_X">Design name changed to \" {0} \"</string>
+  <string name="Available_behaviours_X">Available behaviours: {0}</string>
+  <string name="Unknown_behaviour_X">Unknown behaviour {0}</string>
+  <string name="Behaviour_X_added">Behaviour {0} added</string>
+  <string name="Behaviour_X_updated">Behaviour {0} updated</string>
+  <string name="size_and_or_speed_parameter_could_not_be_parsed">size and/or speed parameter could not be parsed</string>
+  <string name="Missing_size_or_speed_parameter">Missing size or speed parameter</string>
+  <string name="usage_X_behaviour">usage: {0} 'behaviour'</string>
+  <string name="Design_does_not_have_behaviour_X">Design does not have behaviour {0}</string>
+  <string name="Behaviour_X_removed">Behaviour {0} removed</string>
+  <string name="usage_X_library_design_path">usage: {0} 'library design path'</string>
+  <string name="Import_not_finished">Import not finished yet</string>
+  <string name="usage_X_slot_number">usage: {0} 'slot number'</string>
+  <string name="failed_to_parse_slot_number">failed to parse slot number</string>
+  <string name="slot_number_not_custom">slot number not a custom!</string>
+  <string name="Buildable_slot_X_selected">Buildable slot {0} selected</string>
+  <string name="Workshop_deleted">Workshop deleted</string>
+  <!--WorldData-->
+  <string name="World_parameter_usage_X">World parameter usage: {0}</string>
+  <string name="Gravity_X">Gravity: {0}</string>
+  <string name="Movement_Speed_X">Movement Speed: {0}</string>
+  <string name="Maximum_Fall_Speed_X">Maximum Fall Speed: {0}</string>
+  <string name="Jump_Speed_X">Jump Speed: {0}</string>
+  <string name="usage_X_gravity_amount">usage: {0} 'gravity-amount'</string>
+  <string name="Gravity_set_to_X">Gravity set to {0}</string>
+  <string name="Could_not_parse_X">Could not parse</string>
+  <string name="usage_X_speed_amount">usage: {0} 'speed-amount'</string>
+  <string name="Movement_Speed_set_to_X">Movement Speed set to {0}</string>
+  <string name="Current_maxfallspeed_X">Current maxfallspeed: {0}</string>
+  <string name="Maximum_falling_speed_set_to_X">Maximum falling speed set to {0}</string>
+  <string name="Jump_Speed_set_to_X">Jump Speed set to {0}</string>
+  <!--WorldSelectPanel-->
+  <string name="If_you_can_read_this_I_messed_up">If you can read this, I messed up</string>
+  <string name="Loads">Loads</string>
+  <string name="Tons">Tons</string>
+  <string name="SuperFast">SuperFast</string>
+  <string name="Day">Day</string>
+  <string name="Lots">Lots</string>
+  <!-- Patch 18 changes -->
+  <!-- Rooms -->
+  <string name="MedBay_T0">Basic MedBay</string>
+  <string name="MedBay_Not_In_Room">MedBays must be built inside rooms!</string>
+  <string name="Not_In_Room">This must be built inside a room!</string>
+  <string name="AmpuleCrafter_T0">Basic Ampule Crafter</string>
+  <string name="AmpuleDispenser">Ampule Dispenser</string>
+   <string name="E_To_Extract">Press E to Extract</string>
+  <string name="Base_Production_Scanner">Base Production Scanner</string>
+  <string name="Base_Production_NoData">Awaiting Network Data...</string>
+  <string name="Base_Production_NoFilter">#NoFilter</string>
+  <string name="RoomLight #1">Room Light #1. Paintable!</string>
+  <string name="RoomLight #2">Room Light #2. Paintable!</string>
+  <string name="RoomLight #3">Room Light #3. Paintable!</string>
+  <string name="RoomLight #4">Room Light #4. Paintable!</string>
+  <string name="RoomLight #5">Room Light #5. Paintable!</string>
+  <string name="RoomLight #6">Room Light #6. Paintable!</string>
+  <string name="RoomLight #7">Room Light #7. Paintable!</string>
+  <string name="RoomLight #8">Room Light #8. Paintable!</string>
+  <string name="RoomLight #1_DESC">#1 Room Lights. Paintable!</string>
+  <string name="RoomLight #2_DESC">#2 Room Lights. Paintable!</string>
+  <string name="RoomLight #3_DESC">#3 Room Lights. Paintable!</string>
+  <string name="RoomLight #4_DESC">#4 Room Lights. Paintable!</string>
+  <string name="RoomLight #5_DESC">#5 Room Lights. Paintable!</string>
+  <string name="RoomLight #6_DESC">#6 Room Lights. Paintable!</string>
+  <string name="RoomLight #7_DESC">#7 Room Lights. Paintable!</string>
+  <string name="RoomLight #8_DESC">#8 Room Lights. Paintable!</string>
+  
+  <string name="RoomLight #1_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #2_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #3_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #4_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #5_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #6_CRAFT_DESC">This Room light will alert you to CPH attacks silently.</string>
+  <string name="RoomLight #7_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #8_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #1_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+  <string name="RoomLight #2_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #3_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #4_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #5_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #6_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+  <string name="RoomLight #7_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  <string name="RoomLight #8_CRAFT_HINT">Requires the Dapper DLC Pack</string>
+  
+  <string name="Basic MedBay">Basic MedBay</string>
+  <string name="Basic MedBay_DESC">Place on a wall in a room, give it power, and stand near it to heal.</string>  
+  <string name="Basic MedBay_CRAFT_DESC">Place on a wall in a room, give it power, and stand near it to heal.</string>
+  <string name="Basic MedBay_CRAFT_HINT">No hint. It's that simple.</string>
+  <string name="Hydroponics Bay_CRAFT_DESC">Place Plant Seeds onto these to grow them.</string>
+  <string name="Hydroponics Bay_CRAFT_HINT">Grows plants much faster.</string>
+  
+	<string name="Advanced Hydroponics Bay">Advanced Hydroponics Bay</string>
+	<string name="Advanced Hydroponics Bay_DESC">Grows plants much faster. Maybe requires power, haven't decided.</string>  
+	<string name="Advanced Hydroponics Bay_CRAFT_DESC">Place Plant Seeds onto these to grow them.</string>
+	<string name="Advanced Hydroponics Bay_CRAFT_HINT">Grows plants much faster.</string>
+  <string name="MK1 Ampule">MK1 Ampule</string>
+  <string name="MK2 Ampule">MK2 Ampule</string>
+  <string name="MK3 Ampule">MK3 Ampule</string>
+  <string name="MK4 Ampule">MK4 Ampule</string>
+  <string name="MK5 Ampule">MK5 Ampule</string>
+  <string name="MK1 Ampule_CRAFT_DESC">Regenerates Health over a fixed amount of time.</string>
+  <string name="MK1 Ampule_CRAFT_HINT">Place in Suitinventory to auto use</string>
+  
+	<string name="Iron Gear Maker">Iron Gear Maker</string>
+	<string name="Iron Gear Maker_DESC">Creates Iron Gears.</string>
+	<string name="Iron Gear Maker_CRAFT_DESC">A machine that supports autocrafting of Iron Bars into Iron Gears.</string>
+	<string name="Iron Gear Maker_CRAFT_HINT">Much more efficient than doing it by hand!</string>
+	
+  <string name="AirLock_Inner">THIS IS INCORRECT LOCATE IT AND FIX THE CASE</string>
+	<string name="Airlock_Inner">AirLock Inner</string>
+	<string name="AirLock_Inner_DESC">Not relevant.</string>
+	<string name="AirLock Inner">AirLock Inner</string>
+	<string name="AirLock Inner_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Inner_CRAFT_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Inner_CRAFT_HINT">Build in a 3x3x1 or 1x3x3 layout</string>
+	
+  <string name="AirLock_Outer">THIS IS INCORRECT LOCATE IT AND FIX THE CASE</string>
+	<string name="Airlock_Outer">AirLock Outer</string>
+	<string name="AirLock_Outer_DESC">Not relevant.</string>
+	<string name="AirLock Outer">AirLock Outer</string>
+	<string name="AirLock Outer_DESC">Connects Airlocks to the Outside</string>
+	<string name="AirLock Outer_CRAFT_DESC">Connects Rooms to Airlocks</string>
+	<string name="AirLock Outer_CRAFT_HINT">Build in a 3x3x1 or 1x3x3 layout</string>
+	
+	<string name="Reinforced Plated Room Floor">Reinforced Plated Room Floor</string>
+	<string name="Reinforced Plated Room Floor_DESC">Paintable, reinforced floor, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_DESC">Paintable, reinforced floor, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Floor_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Detail 1">Room Decoration 1</string>
+	<string name="Room Detail 1_DESC">Reinforced wall decoration, specifically designed for Rooms.</string>
+	<string name="Room Detail 1_CRAFT_DESC">Reinforced wall decoration, specifically designed for Rooms.</string>
+	<string name="Room Detail 1_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Alloyed Space Window">Alloyed Space Window</string>
+	<string name="Alloyed Space Window_DESC">Paintable, reinforced window.</string>
+	<string name="Alloyed Space Window_CRAFT_DESC">Paintable, reinforced window. Not recommended for use in Rooms.</string>
+	<string name="Alloyed Space Window_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Ventilation Grille">Room Ventilation Grille</string>
+	<string name="Room Ventilation Grille_DESC">Lets air passthrough</string>
+	<string name="Room Ventilation Grille_CRAFT_DESC">Use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Ventilation Grille_CRAFT_HINT">You need 1 per 150m3 of the room</string>
+	
+	<string name="Reinforced Plating">Reinforced Plating</string>
+	<string name="Reinforced Plating_DESC">Reinforced, Paintable Wall designed for Rooms.</string>
+	<string name="Reinforced Plating_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Reinforced Plating_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Wall Panel">Room Wall Panel</string>
+	<string name="Room Wall Panel_DESC"></string>
+	<string name="Room Wall Panel_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Room Wall Panel_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Room Light Reflector">Room Light Reflector</string>
+	<string name="Room Light Reflector_DESC"></string>
+	<string name="Room Light Reflector_CRAFT_DESC">Reinforced ceiling reflector, specifically designed for Rooms.</string>
+	<string name="Room Light Reflector_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+	<string name="Logistics Grommet">Logistics Grommet</string>
+	<string name="Logistics Grommet_DESC">Conveyors transfer items through this.</string>
+	<string name="Logistics Grommet_CRAFT_DESC">Conveyors transfer items through this.</string>
+	<string name="Logistics Grommet_CRAFT_HINT">First pass!</string>
+	
+	<string name="Energy Grommet">Energy Grommet</string>
+	<string name="Energy Grommet_DESC">PTGs, Solar Panels and PSBs will transfer power through this.</string>
+	<string name="Energy Grommet_CRAFT_DESC">PTGs, Solar Panels and PSBs will transfer power through this.</string>
+	<string name="Energy Grommet_CRAFT_HINT">First pass!</string>
+	
+	<string name="Room Extractor Fan">Room Extractor Fan</string>
+	<string name="Room Extractor Fan_DESC">Future machine - use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Extractor Fan_CRAFT_DESC">Future machine - use this to improve the Clean rating of your room, required to hit Clean Room designation.</string>
+	<string name="Room Extractor Fan_CRAFT_HINT">DON'T BOTHER BUILDING THIS YET!</string>
+	
+	<string name="Reinforced Plated Room Wall">Reinforced Plated Room Wall</string>
+	<string name="Reinforced Plated Room Wall_DESC"></string>
+	<string name="Reinforced Plated Room Wall_CRAFT_DESC">Paintable, reinforced wall, specifically designed for Rooms.</string>
+	<string name="Reinforced Plated Room Wall_CRAFT_HINT">Uses Paste - you'll lose Paste if you dig it up, so place with care!</string>
+	
+  <string name="BaubleBerry Seed">BaubleBerry Seed</string>
+	<string name="BaubleBerry Seeds">BaubleBerry Seeds</string>
+	<string name="Tri Seed">Tri Seed</string>
+	<string name="Tri Seeds">Tri Seeds</string>
+	<string name="UnderGrump Seed">UnderGrump Seed</string>
+	<string name="UnderGrump Seeds">UnderGrump Seeds</string>
+	<string name="GoopyDangler Seed">GoopyDangler Seed</string>
+	<string name="GoopyDangler Seeds">GoopyDangler Seeds</string>
+	<string name="Coxcomb Seed">Coxcomb Seed</string>
+	<string name="Coxcomb Seeds">Coxcomb Seeds</string>
+	<string name="LeafyDangler Seed">LeafyDangler Seed</string>
+	<string name="LeafyDangler Seeds">LeafyDangler Seeds</string>
+	<string name="TundraBreath Seed">TundraBreath Seed</string>
+	<string name="TundraBreath Seeds">TundraBreath Seeds</string>
+	
+	<string name="Super Construction Paste Grinder">Super Construction Paste Grinder</string>
+	<string name="Super Construction Paste Grinder_DESC">Uses 'garbage' or Coal blocks to make Construction Paste at a 1:8 ratio.</string>
+	<string name="Super Construction Paste Grinder_CRAFT_DESC">Converts useless garbage and Coal into Construction Paste. All aesthetic blocks use construction paste!</string>
+	<string name="Super Construction Paste Grinder_CRAFT_HINT">Only works if you have the Dapper Indie Supporter DLC.</string>
+	
+	<string name="Lightweight Machine Housing Crafter">Lightweight Machine Housing Crafter</string>
+	<string name="Lightweight Machine Housing Crafter_DESC">Turns 6 plates into 1 Housing.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_DESC">A machine that supports autocrafting of Tin Plates into Lightweight Machine Housings.</string>
+	<string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Much more efficient than doing it by hand!</string>
+	
+	<string name="Priority Splitter">Priority Splitter</string>
+	<string name="Priority Splitter_DESC">Sends all incoming items Right, unless blocked, then Left.</string>
+	<string name="Priority Splitter_CRAFT_DESC">Sends all incoming items Right, unless blocked, then Left.</string>
+	<string name="Priority Splitter_CRAFT_HINT">Connect directly to conveyor belts or Hoppers. Only works correctly if both sides have an output.</string>	
+	
+	<string name="HerbiCor">HerbiCor</string>
+	<string name="HerbiCor_DESC">Collects nearby outdoor unharvested Plants and returns them.&#xD;&#xA;Needs attached storage hopper.</string>
+	<string name="HerbiCor_CRAFT_DESC">Collects nearby outdoor unharvested Plants and returns them. Requires attached Storage Hopper.</string>
+	<string name="HerbiCor_CRAFT_HINT">Also good for framerate!</string>	
+	
+	<string name="Generic Room Controller">Generic Room Controller</string>
+	<string name="Generic Room Controller_DESC">Creates a Room. Will give Informations abotu the Room itself</string>
+	<string name="Generic Room Controller_CRAFT_DESC">Place in a Room and follow the instructions.</string>
+	<string name="Generic Room Controller_CRAFT_HINT">Build it on the floor. Instructions are in the bottom left once you do!</string>	
+	<string name="Ampule Dispenser">Ampule Dispenser</string>
+	<string name="Ampule Dispenser_DESC">Place above an Ampule Crafter</string>
+	<string name="Ampule Dispenser_CRAFT_HINT">Use to craft and upgrade Ampules from an attached Ampule Crafter</string>
+	<string name="Ampule Dispenser_CRAFT_DESC">Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)</string>	
+	
+	<string name="Ampule Crafter">Ampule Crafter</string>
+	<string name="Ampule Crafter_DESC">Place below an Ampule Dispenser, attached to a Storage Hopper of plants.</string>
+	<string name="Ampule Crafter_CRAFT_HINT">Use to craft and upgrade Ampules into an attached Ampule Crafter</string>
+	<string name="Ampule Crafter_CRAFT_DESC">Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)</string>
+	
+	<string name="Base Scanner">Base Scanner</string>
+	<string name="Base Scanner_DESC">Place in a room. Observe. Learn. Progress!</string>
+	<string name="Base Scanner_CRAFT_HINT">A filterable, real-time graph monitoring every aspect of your base's performance.</string>
+	<string name="Base Scanner_CRAFT_DESC">Place in a room. Observe. Learn. Progress!</string>
+<!--UIManagerPrt2-->
+  <string name="I_Understand">I Understand</string>
+  <string name="UI_Lowend_Computer">Low-end computer detected!</string>
+  <string name="UI_Low_CPU_Count">Only 2 Logical/Physical CPUs detected. Your PC is at or below the minimum requirements for FortressCraft, and you may experience a number of visual or performance issues. Threaded visibility has been disabled.</string>
+  <string name="UI_IntelGFXCard_Detected">INTEL VIDEO CARD DETECTED!</string>
+  <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft has detected that you're running on an {0} - if you are using a gaming laptop, then please use the high-performance card! If this is your only video card, then you are likely to experience a number of visual or performance issues.</string>
+  <string name="UI_Fastest_selected">Fastest detail selected!!</string>
+  <string name="UI_FCE_Fastest_Settings">FortressCraft has detected that you're running on FASTEST detail. This detail setting is designed only for very low-spec computers with a minimal amount of RAM, and it is not really recommended for normal gameplay. You will have pop-in, low poly models and blurry textures.</string>
+  <string name="UI_Lox_Texture_Detail_selected">Low Texture Detail selected!!</string>
+  <string name="UI_FCE_LowDetail_Detected">FortressCraft has detected that you're running on LOW texture detail. This detail setting is design only for very LOW-MEMORY computers with a minimal amount of RAM. It does NOT increase performance or FPS, and it is NOT recommended for normal gameplay. You will experience blurry textures.</string>
+  <string name="UI_World_Validation">World Validation</string>
+  <string name="UI_World_Validation_complete">World Validation is Complete</string>
+  <string name="UI_World_converting_Progress_X">Your world is being converted to a new format, please wait.&#xD;&#xA;Current Progress: {0}%</string>
+  <string name="UI_X_completed_of_X">{0} completed of {1}!</string>
+  <string name="UI_Conversiontime_X_X_X_est_X_X_X">&#xD;&#xA;Conversion Time {0}h:{1}m:{2}s of estimated {3}h:{4}m:{5}s</string>
+  <string name="UI_Worldcomversion">World Conversion</string>
+  <string name="UI_Movement_Paused_X">Your movement has been paused!&#xD;&#xA;&#xD;&#xA;You may have moved outside of the loaded world.&#xD;&#xA;Please wait a short while for your disk or network connection to catch up.&#xD;&#xA;If this happens often in single player please check your anti-virus software is not interfering.&#xD;&#xA;&#xD;&#xA;Count is now {0}</string>
+  <string name="UI_Attached_to_lift">Attached to Lift</string>
+  <string name="UI_Compresspr_active">Compressor Active!</string>
+  <string name="UI_Compressor_Idle">Compressor Idle.</string>
+  <string name="UI_T1_Vertical_Piston_Lift">Tier 1 Vertically-Extending Central Piston Lift</string>
+  <string name="UI_Current_Range_X">Current Range: {0}</string>
+  <string name="UI_Adjust_range">Adjust range by holding (Q) or (E).</string>
+  <string name="UI_Powerd_compresser_required_X_m">Powered compressor required beyond {0}m</string>
+  <string name="UI_Lifts_limited_Network_clients">Lifts limited to 64m for network clients. Sorry!</string>
+  <string name="UI_Current_Pressure_X_X_bar">Current Pressure : {0}/{1}bar</string>
+  <string name="UI_Lift_Manual_control">Lift is under Manual Control</string>
+  <string name="UI_Stored_pressure_X_bar">Stored Pressure : {0}bar</string>
+  <string name="UI_Work_complete_No_blocks_to_shoot">Work complete. No blocks to shoot</string>
+  <string name="UI_Scanning_Hardened_Resin_X_complete">Scanning for Hardened Resin - {0} complete.</string>
+  <string name="UI_Clearing_area_X_complete">Clearing area - {0} complete.</string>
+  <string name="UI_Ablatd_X_Blocks">Ablated {0} blocks</string>
+  <string name="UI_Scan_Size_X">Scan Size : {0}</string>
+  <string name="UI_Scanning_Ablated_Resin_X_complete">Scanning for Ablated Resin - {0} complete</string>
+  <string name="UI_Liquified_X_Blocks">Liquified {0} blocks</string>
+  <string name="UI_Press_Q_Reset">Press Q to Reset</string>
+  <string name="UI_Place_Facing_Conveyor">Please place facing a Conveyor!</string>
+  <string name="UI_Upgrade_complete_X_upgraded">Upgrade complete - {0} conveyors upgraded</string>
+  <string name="UI_Low_Power">Low Power!</string> 
+  <string name="UI_Need_attached_hopper">Need Attached Hopper!</string>
+  <string name="UI_Unable_locate_conveyors_for_upgrade">Unable to locate conveyors to upgrade with!</string>
+  <string name="UI_serach_Distance_X">Search Distance {0}m</string>
+  <string name="UI_Conersions_X">Conversions {0}</string>
+  <string name="UI_Blocked_Please_clear">Blocked! Please check and clear!</string>
+  <string name="UI_Build_complete">Build complete!</string>
+  <string name="UI_Needs_X_more_power">Needs {0} more Power</string>
+  <string name="UI_Looking_valid_hopper">Looking for valid attached Storage Hopper!</string>
+  <string name="UI_Looking_for_Basic_Conveyor">Looking for Basic Conveyors...</string>
+  <string name="UI_Looking_for_Conveyors">Looking for Conveyors...</string>
+  <string name="UI_Looking_for_Transport_Pipes">Looking for Transport Pipes...</string>
+  <string name="UI_Looking_for_Minecart_Tracks">Looking for Minecart Tracks...</string>
+  <string name="UI_Build_Dist_is_X">Build Distance is {0}</string>
+  <string name="UI_Build_Dist_is_X_using">Build Distance is {0} using:</string>
+  <string name="UI_Basic_Conveyors">Basic Conveyors</string>
+  <string name="UI_Transport_Pipes">Transport Pipes</string>
+  <string name="UI_Minecrat_Tracks">Minecart Tracks</string>
+  <string name="UI_Time_left_X">Time left: {0}s</string>
+  <string name="UI_Items_Added_X_Items_Found_X">Items Added : {0}. Items found {1}.</string>
+  <string name="UI_Spiderbot_Recharge_Docking_Bay">SpiderBot Recharge and Docking Bay</string>
+  <string name="UI_Spiderbot_Power_X_X">SpiderBot Power {0}/{1}</string>
+  <string name="UI_Holding_X_ready_for_spidy">Holding [{0}] ready for Spiderbot! </string>
+  <string name="UI_Bay_ready_recive_items">Bay ready to receive items</string>
+  <string name="UI_Bay_offloading_final_item_Spiderbot_undock">Bay offloading final item to SpiderBot before undock</string>
+  <string name="UI_Spiderbot_Docking">SpiderBot is Docking</string>
+  <string name="UI_Spidy_docked_waiting_resc">SpiderBot is Docked and awaiting resources!</string>
+  <string name="UI_Spidy_defending">SpiderBot is Defending!</string>
+  <string name="UI_SpiderbotBay_hint">Hint : Connect Hoppers with Charged Lithium Coils to power SpiderBot</string>
+  <string name="UI_Spiderbot_error">ERROR! LET DJ KNOW THAT YOU HAVE A SPIDERBASE NOT IN THE ENTITYMANAGER!</string>
+  <string name="UI_Internal_Power_X_X">Internal Power: {0}/{1}</string>
+  <string name="UI_Illegal_Placement_MK2_Solar">Illegal placement!&#xD;&#xA;MK2 Solar Arrays must be placed on:</string>
+  <string name="UI_MK4_Batteries">MK4 Batteries</string>
+  <string name="UI_MK5_Batteries">MK5 Batteries</string>
+  <string name="UI_Refinieries">Refineries</string>
+  <string name="UI_Not_collecting_Cant_see_sun">Not collecting! Cannot see the sun!</string>
+  <string name="UI_Collecting_rate_X_PPS">Collecting at rate of {0} power per second</string>
+  <string name="UI_Not_collecting_sun_below_horizon">Not collecting! Sun is below horizon!</string>
+  <string name="UI_Collecting_novalight_X_PPS">Collecting novalight at a reduced rate of {0} power per second</string>
+  <string name="UI_MK4_Power_storage">MK4 Power Storage</string>
+  <string name="UI_MK5_Power_storage">MK5 Power Storage</string>
+  <string name="UI_Power_IN_X_avg_X">Power In: {0} (Avg: {1})</string>
+  <string name="UI_Power_OUT_X_avg_X">Power Out: {0} (Avg: {1})</string>
+  <string name="UI_Located_X_Power_consumers">Located {0} attached Power Consumers</string>
+  <string name="UI_T4_Conduit">T4 Conduit</string>
+  <string name="UI_Must_built_upgrigth">Must be built upright!</string>
+  <string name="UI_Collecting_rate_X_Percent">Collecting at rate of {0}%</string>
+  <string name="UI_Current_rate_X_PPS">Current Rate is {0} PPS.</string>
+  <string name="UI_Collecting_Novalight_X_percent">Organic Solar Panel&#xD;&#xA;Collecting Novalight at reduced rate of {0}%</string>
+  <string name="UI_Sun_below_Horizon_Sunrise_X_minutes">Solar Panel&#xD;&#xA;Not collecting! Sun is below horizon!&#xD;&#xA;Sun rises in {0} minutes</string>
+  <string name="UI_Vat_not_formed_loading_bug">Vat not formed after loading. Bug!</string>
+  <string name="UI_Connected_to_controller">Connected to Controller</string>
+  <string name="UI_Processing_X">Processing {0}</string>
+  <string name="UI_Not_Connected_controller">Not connected to Controller</string>
+  <string name="UI_Vat_State_X">Vat State: {0}</string>
+  <string name="UI_Controller_state_X">Controller State: {0}</string>
+  <string name="UI_Connected_to_X_Reactor_vat">Connected to {0} reactor vat</string>
+  <!--Stored (Q): AMOUNTx ITEMNAME-->
+  <string name="UI_Stored_X_X">Stored (Q): {0}x {1}</string>
+  <!--Selected Recipe (E): RECIPENAME &#xD;&#xA; RECIPEDESCRIPTION-->
+  <string name="UI_Select_Recipe_X_X">Selected Recipe (E): {0} &#xD;&#xA; {1}</string>
+  <!--Processing ITEMNAME, PERCATEGE complete-->
+  <string name="UI_Processing_X_X_complete">Processing {0}, {1} complete</string>
+  <string name="UI_not_connected_reactor_vat_Must_connected_operate">Not connected to a reactor vat.&#xD;&#xA;Must be connected in order to operate.</string>
+  <string name="UI_Tank_X_Operating_X">Tank: {0}, Operating {1}</string>
+  <string name="UI_Link_State_X">Link State: {0}</string>
+  <string name="UI_Fuel_level_X">Fuel Level: {0}</string>
+  <string name="UI_Current_PPS_X">Current Power/Second: {0}</string>
+  <string name="UI_not_collecting_e_Toggle">Not Collecting. (E) to Toggle</string>
+  <string name="UI_e_Toggle">(E) to Toggle</string>
+  <!--Status: STATUS &#xD;&#xA; ORENAME-->
+  <string name="UI_MK1_Arm_Status_X_X">MK1 Robot Arm" +"&#xD;&#xA;" + "Status: {0} &#xD;&#xA; {1}</string>
+  <string name="UI_Burn_Time_X">Burn Time {0}s</string>
+  <string name="UI_active_X_of_last_X_s">Active {0}s of the last {1}s</string>
+  <string name="UI_Efficency_X">Efficency: {0}</string>
+  <string name="UI_PGT_NO_OXYGEN">PTG is starved of oxygen!&#xD;&#xA;PTG cannot function this deep!</string>
+  <string name="UI_Error_no_Centre">ERROR - No centre?</string>
+  <string name="UI_Stack_1_crate">Stack: 1 Crate</string>
+  <string name="UI_Stack_X_Crates">Stack: {0} Crates</string>
+  <string name="UI_Total_Storage_X">Total Storage: {0}</string>
+  <string name="UI_Power_Delta_X">Power Delta: {0}</string>
+  <string name="UI_T_Store_Power">T to Store power</string>
+  <string name="UI_Q_Retrive_Power">Q to Retrieve power</string>
+  <string name="UI_Automated_Zipper_merge">Automated Zipper Merge&#xD;&#xA;(Patent Pending)</string>
+  <string name="UI_Zipper_Merge_3n1">Zipper Merge (Three'n'One edition!)&#xD;&#xA;(Patent Pending)</string>
+  <string name="UI_Rapid_Zipper_merge">Rapid Zipper Merge&#xD;&#xA;(Patent Pending)</string>
+  <string name="UI_Bender_Plant">Bender Plant</string>
+  <string name="UI_Pipe_Extruder_desc">Pipe Extruder Plant&#xD;&#xA;Converts Bars into Tubes</string>
+  <string name="UI_Extruder_desc">Extruder Plant&#xD;&#xA;Converts Bars into Wires</string>
+  <string name="UI_Bender_desc">Bender Plant&#xD;&#xA;Bends in sorts of Angles</string>
+  <string name="UI_Stamper_desc">Stamper Plant&#xD;&#xA;Takes Bars from a Conveyor, converts to Plates and then offloads to another Conveyor.</string>
+  <string name="UI_Coiler_desc">Coiler Plant&#xD;&#xA;Wires into Coils</string>
+  <string name="UI_PCB_assember_desc">PCB Assembler&#xD;&#xA;Converts Coils into PCBs</string>
+  <string name="UI_Conv_Turntable_desc">Conveyor Turntable&#xD;&#xA;Evenly splits resources.</string>
+  <string name="UI_Basic_conv_desc">Basic Conveyor&#xD;&#xA;Upgrade as soon as you can!</string>
+  <string name="UI_Adv_conv_filter_desc">Advanced Conveyor Filter&#xD;&#xA;Sorting Items since 1291 A.D.</string>
+  <string name="UI_Transport_pipe_desc">Transport Pipe&#xD;&#xA;Rapid Armoured transportation.</string>
+  <string name="UI_Conv_belt_filter">Conveyor Belt Filter</string>
+  <string name="UI_trasnport_pipe_filter">Transport Pipe Filter</string>
+  <string name="UI_Motorised_conv_desc">Motorised Conveyor&#xD;&#xA;Ultra-fast Storage Hopper connector.</string>
+  <string name="UI_R_Shift_R_Rotate">(R) and (Shift+R) to Rotate</string>
+  <string name="UI_Items_transported_X_at_X_per_Min">Items transported: {0} at {1}/min</string>
+  <string name="UI_Conveyor_blocked">Conveyor Blocked!</string>
+  <string name="UI_Transporting_X">Transporting: {0}</string>
+  <string name="UI_E_set_filter_to_X">(E) Set Filter to {0}</string>
+  <string name="UI_Shift_E_filter_to_X">Shift (E) Set Filter to {0}</string>
+  <string name="UI_Press_E_Smash_Ice">Press E to smash the ice!</string>  
+  <string name="UI_Warning_Frozen">WARNING - FROZEN!</string>
+  <string name="UI_Filter_Everything_Exept_X">Filter set to everything EXCEPT: [{0}]</string>
+  <string name="UI_Filter_set_to_X">Filter set to : [{0}]</string>
+  <string name="UI_Press_T_Invert_Filter">Press T to invert filter.</string>
+  <string name="UI_Select_Item_Hotbar_Exemplar">Select an item in your Hotbar to use as an Exemplar</string>
+  <string name="UI_Q_Set_Output_to_X">Press Q to set Output to {0}</string>
+  <string name="UI_Error_Conv_Filter_cant_deal_with_X">Error, Conveyor filter can't deal with [{0}]</string>
+  <string name="UI_Warning_Infested_Conveyor">WARNING - INFESTED! - See Handbook (H)</string>
+  <string name="UI_Filtersetting_ALL">ALL types</string>
+  <string name="UI_Filtersetting_GARBAGE">GARBAGE</string>
+  <string name="UI_Filtersetting_COMBUSTIBLE">COMBUSTIBLE types</string>
+  <string name="UI_Filtersetting_ORE">ORE</string>
+  <string name="UI_Filtersetting_NOTHING">NOTHING</string>
+  <string name="UI_Filtersetting_CRYSTALS">CRYSTALS</string>
+  <string name="UI_Filtersetting_GEMS">GEMS</string>
+  <string name="UI_Filtersetting_BIOMASS">BIOMASS</string>
+  <string name="UI_Filtersetting_BARS">BARS ONLY</string>
+  <string name="UI_Filtersetting_ORGANIC">ORGANIC ITEMS</string>
+  <string name="UI_Filtersetting_CRAFTED">CRAFTED ITEMS</string>
+  <string name="UI_Filtersetting_SMELTABLE">SMELTABLE</string>
+  <string name="UI_Filtersetting_RESEARCHABLE">RESEARCHABLE</string>
+  <string name="UI_Filtersetting_UNKNOWN">UNKNOWN</string>
+  <string name="UI_Current_Power_X">Current Power: {0}</string>
+  <string name="UI_Power_per_Fire">Power to fire</string>
+  <string name="UI_Success_Fail_X_X">Success/Fail: {0}/{1}</string>
+  <string name="UI_E_Open_Interface">Press (E) to open interface</string>
+  <string name="UI_No_Location_Marker_installed">No Location Marker installed</string>
+  <string name="UI_Location_marker_no_location">Location Marker does not contain a marked location</string>
+  <string name="UI_Target_X_m_away">Target is {0}m away</string>
+  <string name="UI_Stand_Teleporter_Jump_activate">Stand on teleporter and press jump to activate</string>
+  <string name="UI_T_Minus_X">T-Minus {0}</string>
+  <string name="UI_FlightTime_X">FlightTime: {0}</string>
+  <string name="UI_Q_Selfdestruct">Press Q to self destruct.</string>
+  <string name="UI_Rocket_abort">USER ABORT</string>
+  <string name="UI_Launch_in_Progres">Launch in progres...</string>
+  <string name="UI_Press_Q_scan_construction">Press Q to scan construction</string>
+  <string name="UI_Fuel_Efficiency_X">Fuel Efficiency: {0}</string>
+  <string name="UI_Engine_Smoothness_X">Engine Smoothness: {0}</string>
+  <string name="UI_Engine_Power_X">Engine Power: {0}</string>
+  <string name="UI_Rocket_has_X_Parts_X_m_tall">Rocket has {0} Parts and is {1}m tall</string>
+  <string name="UI_Rocket_weight_X_Thrust">Rocket weighs {0}t and has {1}kN thrust.</string>
+  <string name="UI_DeltaV_X">Delta/V: {0}m/s</string>
+  <string name="UI_dry_mass_X_Fuel_mass_X">Dry mass {0}t, Fuel mass {1}t</string>
+  <string name="UI_Rocket_launch_capable">Rocket is launch-capable.</string>
+  <string name="UI_Needs_X_Thrust">NEEDS {0} THRUST!</string>
+  <string name="UI_Press_E_to_launch">Press E to launch your rocket ship</string>
+  <string name="UI_LP_no_entitiy">LP had no Entity?</string>
+  <string name="UI_Lightmode_X">LightMode {0}</string>
+  <string name="UI_E_cycle_Lightmode">(E) to cycle LightMode</string>
+  <string name="UI_Attached_empty_active">Attached is empty - active!</string>
+  <string name="UI_Attached_empty_inactive">Attached is empty - inactive!</string>
+  <string name="UI_Attached_no_empty_inactive">Attached is not empty - inactive!</string>
+  <string name="UI_Attached_no_empty_active">Attached is not empty - active!</string>
+  <string name="UI_Looking_for_machine">Looking for machine</string>
+  <string name="UI_Error_value_X">Error value of {0}</string>
+  <string name="Basic_Missile_turret">Basic Missile Turret</string>
+  <string name="Dualshot_turret">Dualshot Turret</string>
+  <string name="Trishot_turret">Tri-shot Turret</string>
+  <string name="Quad_launcher">Quad-launcher</string>
+  <string name="UI_No_missiles_loaded">No missiles loaded!</string>
+  <string name="UI_Cant_find_missiles_attached_Hopper">Can't find Missiles in attached Hopper!</string>
+  <string name="UI_X_Missiles_loaded">{0} missiles loaded!</string>
+  <string name="UI_Next_shot_dmg_X">Next shot's damage is {0}</string>
+  <string name="UI_Reloading_for_X_s">Reloading for {0}s</string>
+  <string name="UI_Searching_Large_Targets">Searching for Large Targets...</string>
+  <string name="UI_Aiming">Aiming...</string>
+  <string name="UI_Attacking_X_HP_left">Attacking ! [{0} HP left!]</string>
+  <string name="UI_Client_delay_X">Client Delay: {0}</string>
+  <string name="UI_Turret">Turret</string>
+  <string name="UI_Searching_Considered_X_Targets">Searching... (Considered {0}  targets!)</string>
+  <string name="UI_Shots_X_Kills_X_Damage_X">Shots: {0}. Kills: {1}. Damage: {2}</string>
+  <string name="UI_Press_E_Show_Turret_range">Press E to show turret range</string>
+  <string name="UI_Minecart_Track_Streight">Track Straight</string>
+  <string name="UI_Minecart_Track_Corner">Track Corner</string>
+  <string name="UI_Minecart_Track_Slope">Track Slope</string>
+  <string name="UI_Minecart_Track_Buffer">Minecart Buffer</string>
+  <string name="UI_Minecart_Track_Full_Gate">Minecart Full Gate</string>
+  <string name="UI_Minecart_Track_Empty_Gate">Minecart Empty Gate</string>
+  <string name="UI_Please_wait_processing">Please wait, processing...</string>
+  <string name="UI_Please_attach_Hopper">Please attach a Hopper</string>
+  <string name="UI_Please_place_Minecart_in_Hopper">Please place a Minecart into the Hopper!</string>
+  <string name="UI_Cart_with_X_Items_X_seconds">Cart here with {0} items, {1}s before leaving</string>
+  <string name="UI_Cannot_find_hoppers">Cannot find any hoppers!</string>
+  <string name="UI_unable_find_rescources_in_attached_hoppers">Unable to find resources in attached hoppers!</string>
+  <string name="UI_awaiting_cart">Awaiting Cart</string>
+  <string name="UI_Holding_X">Holding {0}</string>
+  <string name="UI_station_empty">Station empty</string>
+  <string name="UI_station_dealt_with_X_carts">Station has dealt with {0} carts</string>
+  <string name="UI_All_Surface_Attacks_neutralised">All surface attacks neutralised.</string>
+  <string name="UI_CryoPlasm_detected_X_m">CryoPlasm detected at {0}m!</string>
+  <string name="UI_Thread_scanner_Client">Threat Scanner (Client)</string>
+  <string name="UI_Kills_X">Kills: {0}</string>
+  <string name="UI_attack_X">Attack: {0}</string>
+  <string name="UI_Base_thread">Base Rating: {0}</string>
+  <string name="UI_Heavy_Chance_0">Heavy Chance : 0%</string>
+  <string name="UI_Heavies_expected_X_approx">Heavies expected: {0} (approx)</string>
+  <string name="UI_Boss_Chance_0">Boss Chance : 0%</string>
+  <string name="UI_Bosses_expected_X_approx">Bosses expected: {0} (approx)</string>
+  <string name="UI_No_Threads_detected">No threats detected...</string>
+  <string name="UI_Next_attack_X_s">Next Attack: {0}s</string>
+  <string name="UI_Power_X_Percent">Power: {0}%</string>
+  <string name="UI_Base_threat_approx_X">Base Rating approx {0}</string>
+  <string name="UI_Agitator_threat_X_X_Bonus">(Agitator Threat {0}) + {1} mob bonus</string>
+  <string name="UI_Calmer_reducing_threat_by_X">Calmer reducing threat by {0}</string>
+  <string name="UI_Calmers_offline_OET_Charging">Calmers offline due to OET charging!</string>
+  <string name="UI_Mobs_X_Heavies_X_Bosses_X">Mobs: {0}, Heavies: {1}, Bosses: {2}</string>
+  <string name="UI_attack_underway_X_killed">Attack underway, {0} killed</string>
+  <string name="UI_Wave_X_X">Wave {0}/{1}</string>
+  <string name="UI_next_spawn_X">Next spawns in {0}</string>
+  <string name="UI_X_left_to_spawn">{0} left to spawn!</string>
+  <string name="UI_youve_killed_X_mobs_in_X_waves_lost_X_time">You've killed {0} mobs in {1} waves, and lost {2} times</string>
+  <string name="UI_No_threats_dected">No threats detected...</string>
+  <string name="UI_Attack_imminent">ATTACK IMMINENT!</string>
+  <string name="UI_Attack_estaminated_X_min">Attack estimated in {0} minutes</string>
+  <string name="UI_Last_attack_kills_X_Power_used_X">Last Attack. Kills: {0}, Power Used: {1}</string>
+  <string name="UI_Mob_Spawner">Mob Spawner</string>
+  <string name="UI_Type_X">Type: {0}</string>
+  <string name="UI_Press_E_spawn_X">Press E to spawn a {0}</string>
+  <string name="UI_At_depth_X">At Depth {0}m</string>
+  <string name="UI_Found_X_smeltable_Ore">Found {0} smeltable Ore.</string>
+  <string name="UI_Found_X_coal">Found {0} coal.</string>
+  <string name="UI_Found_X_crystals">Found {0} crystals.</string>
+  <string name="UI_Found_X_non_ore_blocks">Found {0} non-ore Blocks.</string>
+  <string name="UI_Quarry">Quarry</string>
+  <string name="UI_Qarry_unable_cooling_O2">Quarry is unable to draw sufficient O2 for cooling!</string>
+  <string name="UI_Please_move_quarry_surface">Please move the Quarry close to the surface.</string>
+  <string name="UI_Thank_you">Thank you!</string>
+  <string name="UI_Qarry_cant_locate_input_hopper">Quarry cannot locate Input Hopper</string>
+  <string name="UI_This_should_contain_chevrons">This should contain Red and White Chevrons</string>
+  <string name="UI_cant_locate_OSHA_rescources">Quarry cannot locate Health and Safety Resources!</string>
+  <string name="UI_quarry_needs_more_chevrons">Quarry needs more Red and White Chevrons</string>
+  <string name="UI_please_place_in_attached_hopper">Place these in an attached Storage Hopper</string>
+  <string name="UI_Quarry_constructing_edge_warning">Quarry currently constructing Edge Warning</string>
+  <string name="UI_Safety_first">SAFETY FIRST!</string>
+  <string name="UI_Quarry_cant_find_output_hopper">Quarry cannot find Output Hopper</string>
+  <string name="UI_All_output_hoppers_full_locked">All output hoppers full or locked!</string>
+  <string name="UI_E_confirm_quarry_position">Press E to confirm Quarry position</string>
+  <string name="UI_Power_low_X_needed_dig_X_available">Power Low ({0} needed to dig, {1} available)</string>
+  <string name="UI_Found_X_in_X_ore_blocks">Found {0} in {1} ore blocks</string>
+  <string name="UI_work_ratio_X">Work Ratio {0}</string>
+  <string name="UI_Total_idle_time_X">Total Idle Time: {0}</string>
+  <string name="UI_E_reset">(E to reset)</string>
+  <string name="UI_state_X">State: {0}</string>
+  <string name="UI_forward_connected">Forward Connected</string>
+  <string name="UI_backward_connected">Backward Connected</string>
+  <string name="UI_fully_connected">Fully Connected</string>
+  <string name="UI_Timer_X">Timer: {0}</string>
+  <string name="UI_Old_bugged_machine_in_world">You have an old and bugged machine in your world&#xD;&#xA;. I recommend you macerate this one, then make a brand new one, with my apologies - DjArcas</string>
+  <string name="UI_Desires_X_PPS_Current_PPS_X">Desires {0}PPS. Current PPS: {1}</string>
+  <string name="UI_X_X_X_s_left">{0} {1} ({2}s left)</string>
+  <string name="UI_no_valid_hoppers_found_conveyors_missing_blocked">No valid Hoppers found (Locked or Full?). &#xD;&#xA;All attached conveyors missing or blocked!</string>
+  <string name="UI_Crafting_X_s">Crafting: {0}s</string>
+  <string name="UI_place_resources_attached_hopper">Place resources in attached Hoppers.</string>
+  <string name="UI_X_more_power_needed">{0} more power needed!</string>
+  <string name="UI_combines_plates_pcbs_to_pods">Combines 6xPlates and 2xPCBs into Research Pods</string>
+  <string name="UI_Podassembler_Basic">Basic Pods need Copper Plates and Basic PCBs</string>
+  <string name="UI_Podassembler_Simplified">Simplified Pods need Tin Plates and Primary PCBs</string>
+  <string name="UI_Podassembler_Intermidiate">Intermediate Pods need Iron Plates and Hardened PCBs</string>
+  <string name="UI_Podassembler_Complex">Complex Pods need Lithium Plates and Charged PCBs</string>
+  <string name="UI_Podassembler_Advanced">Advanced Pods need Gold Plates and Conductive PCBs</string>
+  <string name="UI_Podassembler_XL">XL Pods need Nickel Plates and Fortified PCBs</string>
+  <string name="UI_Podassembler_Ultimate">Ultimate Pods need Titanium Plates and Lightweight PCBs</string>
+  <string name="UI_Orbital_Energy_transmiter">Orbital Power Transmitter</string>
+  <string name="UI_X_charged">{0} charged</string>
+  <string name="UI_Charge_rate_X_sec">Charge Rate {0}/sec.</string>
+  <string name="UI_Press_E_Interact">Press (E) to interact</string>
+  <string name="UI_Lab_Power_low">Power available : LOW. Supply more power for faster research.</string>
+  <string name="UI_Lab_Power_medium">Power available : MEDIUM. Research not at optimal speeds.</string>
+  <string name="UI_Lab_Power_optimal">Power available : OPTIMAL. Research at full speed. More power may give a small boost.</string>
+  <string name="UI_Mode_X">Mode: {0}</string>
+  <string name="UI_Project_X">Project: {0}</string>
+  <string name="UI_Progress_X">Progress: {0}</string>
+  <string name="UI_Current_Item_X">Current Item: {0}</string>
+  <string name="UI_Decomposition_Progress_X">Decomposition Progress: {0}</string>
+  <string name="UI_Banked_RP_X">Banked Research Points: {0}</string>
+  <string name="UI_unlinked_Multiblock">Unlinked multiblock</string>
+  <string name="UI_Geo_Digging">Placing and verifying pipes.</string>
+  <string name="UI_Geo_Stuck">Pipe drill stuck on hard obstacle. Please remove.</string>
+  <string name="UI_Geo_NeedPipe">Can't locate pipes in adjacent Storage Hopper!</string>
+  <string name="UI_Geo_OptimalTemp">Optimal temperature differential reached!</string>
+  <string name="UI_Power_per_second_X">Power per second: {0}</string>
+  <string name="UI_Selected_recipe_X">Selected recipe: {0}</string>
+  <string name="UI_output_full_cant_continue">Output full, can't continue</string>
+  <string name="UI_currently_crafting_X">Currently crafting {0}</string>
+  <string name="UI_Tutorial_active">Tutorial active!</string>
+  <string name="UI_Press_E_Open_CPH_add_resources">Press E to open the CPH then click Add Resources!</string>
+  <string name="UI_Coal_burn_effiency_X">Coal Burn Efficiency: {0}</string>
+  <string name="UI_E_to_configure">Press E to configure</string>
+  <string name="UI_X_percent_damaged">{0}% damaged</string>
+  <string name="UI_Defensive_missiles_fired_X">Defensive Missiles Fired: {0}</string>
+  <string name="UI_Time_of_day_X_X">Time of Day: {0} ({1})</string>
+  <string name="UI_Researchstation_X_X_E_open">Research Station&#xD;&#xA;Process scans and research new technologies.&#xD;&#xA;Power: {0}/{1}&#xD;&#xA;Press E to open&#xD;&#xA;</string>
+  <string name="UI_Researchstation_E_close">Research Station&#xD;&#xA;Press E to close&#xD;&#xA;</string>
+  <string name="UI_Fusion_Power_Monitor">Fusion Power Monitor</string>
+  <string name="UI_Core_status">Core status:</string>
+  <string name="UI_Fuel_X">Fuel: {0}</string>
+  <string name="UI_Generating_X_PPS">Generating: {0:N0} PPS</string>
+  <string name="UI_Cooldown_Period_X">Cooldown period: {0:N1}s</string>
+  <string name="UI_Fuellevel_for_ignition">Required Charge level for ignition: {0:N0}</string>
+  <string name="UI_E_add_fuel">(E) to add Fuel</string>
+  <string name="UI_T_Ignite">(T) to Ignite</string>
+  <string name="UI_Core_diameter_X">Core diameter: {0} (T)</string>
+  <string name="UI_Pylon_size_X">Pylon size: {0}</string>
+  <string name="UI_Offset_X">Offset: {0} (Q - E)</string>
+  
+
+  <string name="ServoMotor">ServoMotor</string>
+  <string name="ServoMotor_DESC">ServoMotor_DESC</string>
+  <string name="ServoMotor_CRAFT_HINT">ServoMotor_CRAFT_HINT</string>
+  <string name="ServoMotor_CRAFT_DESC">ServoMotor_CRAFT_DESC</string>
+  <string name="everything_EXCEPT">Everything EXEPT</string>
+  <string name="Filter_set_to">Filter set to</string>
+  
+  <string name="ServoMotor Maker">Servomotor Maker</string>
+  <string name="ServoMotor Maker_DESC">Servomotor Maker_DESC</string>
+  <string name="ServoMotor Maker_CRAFT_HINT">Servomotor Maker_CRAFT_HINT</string>
+  <string name="ServoMotor Maker_CRAFT_DESC">Servomotor Maker_CRAFT_DESC</string>
+  <string name="SUPER H.E.I.S.T.">SUPER H.E.I.S.T.</string>
+  <string name="SUPER H.E.I.S.T._DESC">SUPER H.E.I.S.T._DESC</string>
+  <string name="SUPER H.E.I.S.T._CRAFT_HINT">SUPER H.E.I.S.T._CRAFT_HINT</string>
+  <string name="SUPER H.E.I.S.T._CRAFT_DESC">SUPER H.E.I.S.T._CRAFT_DESC</string>
+
+  <string name="Attack Scanner">Attack Scanner</string>
+  <string name="Attack Scanner_DESC">Attack Scanner_DESC</string>
+  <string name="Attack Scanner_CRAFT_HINT">Attack Scanner_CRAFT_HINT</string>
+  <string name="Attack Scanner_CRAFT_DESC">Attack Scanner_CRAFT_DESC</string>
+
+  <string name="SUPER_HEIST">Super Heist!</string>
+
+  <!-- Patch 19 changes -->
+  <string name="Room_Cloning">Room-based CryoCloner.</string>
+  <string name="Basic Robotic Sorter">Basic Robotic Sorter</string>
+  <string name="Basic Robotic Sorter_DESC">Basic Robotic Sorter_DESC</string>
+  <string name="Basic Robotic Sorter_CRAFT_DESC">Basic Robotic Sorter_CRAFT_DESC</string>
+  <string name="Basic Robotic Sorter_CRAFT_HINT">Basic Robotic Sorter_CRAFT_HINT</string>
+  <string name="Upgraded Robotic Sorter">Upgraded Robotic Sorter</string>
+  <string name="Upgraded Robotic Sorter_DESC">Upgraded Robotic Sorter_DESC</string>
+  <string name="Upgraded Robotic Sorter_CRAFT_DESC">Upgraded Robotic Sorter_CRAFT_DESC</string>
+  <string name="Upgraded Robotic Sorter_CRAFT_HINT">Upgraded Robotic Sorter_CRAFT_HINT</string>
+  <string name="Bulk Robotic Sorter">Bulk Robotic Sorter</string>
+  <string name="Bulk Robotic Sorter_DESC">Bulk Robotic Sorter_DESC</string>
+  <string name="Bulk Robotic Sorter_CRAFT_DESC">Bulk Robotic Sorter_CRAFT_DESC</string>
+  <string name="Bulk Robotic Sorter_CRAFT_HINT">Bulk Robotic Sorter_CRAFT_HINT</string>
+  <string name="Intermediate Robotic Sorter">Intermediate Robotic Sorter</string>
+  <string name="Intermediate Robotic Sorter_DESC">Intermediate Robotic Sorter_DESC</string>
+  <string name="Intermediate Robotic Sorter_CRAFT_DESC">Intermediate Robotic Sorter_CRAFT_DESC</string>
+  <string name="Intermediate Robotic Sorter_CRAFT_HINT">Intermediate Robotic Sorter_CRAFT_HINT</string>
+  <string name="Drag_From_Inventory">(or drag from (I)nventory)</string>
+  <string name="ARTHER_Charging">ARTHER now charging {0}</string>
+  <string name="Ray Gun V1">Ray Gun V1</string>
+  <string name="V1 Ray Guns">V1 Ray Guns</string>
+  <string name="Ray Gun V1_CRAFT_DESC">Ray Gun V1_CRAFT_DESC</string>
+  <string name="Ray Gun V1_CRAFT_HINT">Ray Gun V1_CRAFT_HINT</string>
+  <string name="Upgraded Crystal Scanner">Upgraded Crystal Scanner</string>
+  <string name="Upgraded Crystal Scanners">Upgraded Crystal Scanners</string>
+  <string name="Upgraded Crystal Scanner_CRAFT_DESC">Upgraded Crystal Scanner_CRAFT_DESC</string>
+  <string name="Upgraded Crystal Scanner_CRAFT_HINT">Upgraded Crystal Scanner_CRAFT_HINT</string>
+  <string name="Advanced Crystal Scanner">Advanced Crystal Scanner</string>
+  <string name="Advanced Crystal Scanners">Advanced Crystal Scanners</string>
+  <string name="Advanced Crystal Scanner_CRAFT_DESC">Advanced Crystal Scanner_CRAFT_DESC</string>
+  <string name="Advanced Crystal Scanner_CRAFT_HINT">Advanced Crystal Scanner_CRAFT_HINT</string>
+  <string name="Mandragora Seed">Mandragora Seed</string>
+  <string name="Mandragora Seeds">Mandragora Seeds</string>
+  <string name="ConstructoBot Coppator Arms">ConstructoBot Coppator Arms</string>
+  <string name="ConstructoBot Herb Arm">ConstructoBot Herb Arm</string>
+  <string name="ConstructoBot Herb Arms">ConstructoBot Herb Arms</string>
+  <string name="Room Air Scrubber">Room Air Scrubber</string>
+  <string name="Room Air Scrubber_DESC">Room Air Scrubber_DESC</string>
+  <string name="Room Air Scrubber_CRAFT_DESC">Room Air Scrubber_CRAFT_DESC</string>
+  <string name="Room Air Scrubber_CRAFT_HINT">Room Air Scrubber_CRAFT_HINT</string>
+  <string name="ConstructoBot Herb Arm Assembler">ConstructoBot Herb Arm Assembler</string>
+  <string name="ConstructoBot Herb Arm Assembler_DESC">ConstructoBot Herb Arm Assembler_DESC</string>
+  <string name="ConstructoBot Herb Arm Assembler_CRAFT_DESC">ConstructoBot Herb Arm Assembler_CRAFT_DESC</string>
+  <string name="ConstructoBot Herb Arm Assembler_CRAFT_HINT">ConstructoBot Herb Arm Assembler_CRAFT_HINT</string>
+  <string name="Cloning Vat">Cloning Vat</string>
+  <string name="Cloning Vat_DESC">Cloning Vat_DESC</string>
+  <string name="Cloning Vat_CRAFT_DESC">Cloning Vat_CRAFT_DESC</string>
+  <string name="Cloning Vat_CRAFT_HINT">Cloning Vat_CRAFT_HINT</string>
+  <string name="SpiderCor">SpiderCor</string>
+  <string name="SpiderCor_DESC">SpiderCor_DESC</string>
+  <string name="SpiderCor_CRAFT_DESC">SpiderCor_CRAFT_DESC</string>
+  <string name="SpiderCor_CRAFT_HINT">SpiderCor_CRAFT_HINT</string>
+  <string name="ConstructoBot Crate">ConstructoBot Crate</string>
+  <string name="ConstructoBot Crate_DESC">ConstructoBot Crate_DESC</string>
+  <string name="S.A.R.A.H. Dock">S.A.R.A.H Dock</string>
+  <string name="S.A.R.A.H. Dock_DESC">S.A.R.A.H Dock_DESC</string>
+  <string name="Cloning Bay">Cloning Bay</string>
+  <string name="Cloning Bay_DESC">Cloning Bay_DESC</string>
+  <string name="Room Heater">Room Heater</string>
+  <string name="Room Heater_DESC">Room Heater_DESC</string>
+  <string name="Room Heater_CRAFT_DESC"></string>
+  <string name="Room Heater_CRAFT_HINT"></string>
+  <string name="Room Cooler">Room Cooler</string>
+  <string name="Room Cooler_DESC">Room Cooler_DESC</string>
+  <string name="Room Cooler_CRAFT_DESC"></string>
+  <string name="Room Cooler_CRAFT_HINT"></string>
+  <string name="Room Vaporator">Room Vaporator</string>
+  <string name="Room Vaporator_DESC">Room Vaporator_DESC</string>
+  <string name="Room Vaporator_CRAFT_DESC"></string>
+  <string name="Room Vaporator_CRAFT_HINT"></string>
+  <string name="Lithium Coil Charger_CRAFT_DESC">Lithium Coil Charger_CRAFT_DESC</string>
+  <string name="Lithium Coil Charger_CRAFT_HINT">Lithium Coil Charger_CRAFT_HINT</string>
+  <string name="Fuel Compressor_CRAFT_DESC">Fuel Compressor_CRAFT_DESC</string>
+  <string name="Fuel Compressor_CRAFT_HINT">Fuel Compressor_CRAFT_HINT</string>
+  <!--Misc Stuff-->
+  <string name="Scanning_for_Items">Scanning for items...</string>
+  <string name="Falcor_enroute">Falcor en-route!</string>
+  <string name="No_Free_Falcor_to_collect">No free FALCOR to collect!</string>
+  <string name="Beacons_require_Power_digiport_Items">Beacons require power to digiport items!</string>
+  <string name="Beacons_require_skyclearane_clear_above">Beacons require skyclearance; please clear above the beacon!</string>
+  <string name="Mounted_on_SH_only_Logi_Falcors_service">Mounted on top of Storage Hopper; only Logistics FALCORs can service</string>
+  <string name="FALCOR">FALCOR</string>
+  <string name="Calculating_route_target">Calculating route to Target.</string>
+  <string name="Traveling_Target">Travelling to Target.</string>
+  <string name="Dropping_off_Item">Dropping off item.</string>
+  <string name="Collecting_Item">Collecting item.</string>
+  <string name="No_Hopper_found_Falcor_cant_unload">No hoppers found. FALCOR cannot offload</string>
+  <string name="All_Hoppers_full_locked_falcor_cant_unload">All hoppers locked or full! FALCOR cannot offload</string>
+  <string name="T_to_transfer_X">Press (T) to transfer [{0}]</string>
+  <string name="Connected_to_host_X">Connected to host {0}</string>
+  <string name="Survival_mode_server">Survival mode server</string>
+  <string name="Creative_mode_server">Creative mode server</string>
+  <string name="Dedicated_server">Dedicated server</string>
+  <string name="Local_hosted_server">Locally-hosted server</string>
+  <string name="Server_Uptime_X">Server Uptime : {0}</string>
+  <string name="Must_be_built_inside_room">MUST BE BUILT INSIDE A ROOM</string>
+  <string name="Plant_planted">Plant planted!</string>
+  <string name="X_grown">{0} grown</string>
+  <string name="No_Plant_detected">No plant detected</string>
+  <string name="CFT_Planted">Planted!</string>
+  <string name="Warning_Cryoplasm_Detected_At_X_m">Warning CryoPlasma detected at {0}m!</string>
+  <string name="SurfaceMap_Status_complete">Surface Map Status&#xD;&#xA;Complete</string>
+  <string name="SurfaceMap_Status_scanning">Surface Map Status&#xD;&#xA;Scanning...</string>
+  <string name="Build_Room">Build a room!</string>
+  <string name="Scanning_Room_Extents">Scanning for Room Extents...</string>
+  <string name="Controller_cant_locate_walls">Cannot locate 4 walls!</string>
+  <string name="Controller_no_ceiling">Cannot locate ceiling!</string>
+  <string name="Controller_best_on_floor">Room controller works best on the floor!</string>
+  <string name="Controller_Ceiling_to_low">Ceiling too low! Is controller under something?</string>
+  <string name="Verifying_room_requirements">Verifying Room Requirements...</string>
+  <string name="Controller_WallIncomplete">Located air block in wall? (Look for red error block!)</string>
+  <string name="Controller_WindowDetected">Rooms do not support transparent blocks! (Look for red error block!)</string>
+  <string name="Controller_MachineDetected">Rooms cannot have machines as walls! (Look for red error block!)</string>
+  <string name="Controller_InnerAirLockUnlinked">Inner Airlock unable to locate matching valid Outer airlock? (Look for red error block!)</string>
+  <string name="Controller_None_X">Error: {0}</string>
+  <string name="Controller_Working">Room Working...</string>
+  <string name="Controller_X_Machines_in_Room">{0} machines inside the room!</string>
+  <string name="Controller_Room_Volume_X_X_X">Room Volume {0}m³ with {1} Fans and {2} Filters</string>
+  <string name="Controller_Clean_rating_X">Clean Rating: {0}</string>
+  <string name="Controller_BioFilter_rating_X">Bio-Filter Rating: {0}</string>
+  <string name="Controller_Heat_rating_X">Heat Rating: {0}</string>
+  <string name="Controller_Cold_rating_X">Cold Rating: {0}</string>
+  <string name="Controller_Greenhouse_rating_X">Greenhouse Rating: {0}</string>
+  <string name="Controller_no_classification">No room classification found</string>
+  <string name="Error_Geothermal_C5_to_far_appart">Error. GeoThermal is too far from the CCCCCC and cannot communicate. Maximum transmission range is 320 metres</string>
+  <string name="AirLock">AirLock</string>
+  <string name="Airlock_missing_matching_pair">Airlock needs a matching pair with a gap of 3 metres in front or behind it</string>
+  <string name="Airlock_no_roomcontroller">Airlock without an Room Controller owner will just open if you go near it.</string>
+  <string name="Airlock_no_performance_gain">THIS DOOR CONFERS NO PERFORMANCE BENEFIT</string>
+  <string name="Airlock_linked_RoomID_X">Airlock linked to RoomID {0}</string>
+  <string name="Player_RoomID_X">Player Room ID {0}</string>
+  <string name="Player_Airlock_X">Player AirLock ID {0}</string>
+  <string name="CFT_Unloading_X">Unloading {0}</string>
+  <string name="LPT_Power_transmitted_X_over_X_s_X_PPS">Power Transmitted : {0} over {1}s ({2} PPS)</string>
+  <string name="LPT_impacted_wall">Laser has impacted wall - please re-align!</string>
+  <string name="LPT_found_nothing">Laser has found nothing - please re-align!</string>
+  <string name="LPT_searching_for_PIC_X_X">Laser searching for Power Interface Consumer ({0}/{1})</string>
+  <string name="OS_E_put_materials_in_smleter_or_hopper">Press E to put materials into the smelter!&#xD;&#xA;Or place a Hopper next to it.</string>
+  <string name="Need_more_X_E_more_mat_in_smelter_X_ready">Need more {0}!&#xD;&#xA;Press E to put MORE materials into the smelter!&#xD;&#xA;{1} ore ready for smelting!</string>
+  <string name="OS_heating_X_X_C">Smelter heating: {0}/{1}°C</string>
+  <string name="OS_X_raw_X_ready_smelting">{0} raw {1} ready for smelting!</string>
+  <string name="OS_Smelting_X_X_complete_X_more_ready_smelting">Smelting {0}. {1}% complete&#xD;&#xA;{2} more ore ready for smelting!</string>
+  <string name="OS_Power_X_percent_X_PPS">Power {0}% ({1}PPS)</string>
+  <string name="Q_Retrive_materials">Press (Q) to retrieve materials</string>
+  <string name="OS_starved_oxygen_no_function">Smelter is starved of oxygen!&#xD;&#xA;Smelter cannot function this deep!</string>
+  <string name="Efficiency_X_Q_reset">Efficiency: {0} - (Q to Reset)</string>
+  <string name="Laser Power Transmitter MK1">Laser Power Transmitter MK1</string>
+  <string name="Laser Power Transmitter MK2">Laser Power Transmitter MK2</string>
+  <string name="Laser Power Transmitter MK3">Laser Power Transmitter MK3</string>
+  <string name="UI_Scanning_for_targets_X_complete">Scanning for Targets - {0} complete.</string>
+  <string name="UI_Destroyed_X_blocks">Destroyed {0} Blocks!</string>
+  <string name="UI_Shots_X_Kills_X">Shots: {0}, Kills {1}</string>
+  <string name="UI_E_Arther_mount">(E) to have ARTHER mount!</string>
+  <string name="UI_Transporting_Everything_Except_X">Transporting everything EXCEPT {0}</string>
     
 </resources>
