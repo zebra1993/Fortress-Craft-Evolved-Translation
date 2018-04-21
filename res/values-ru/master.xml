@@ -4475,4 +4475,9 @@
   <string name="slot_number_not_custom">номер слота не настраиваемый!</string>
   <string name="Buildable_slot_X_selected">Выбран слот с возможностью строительства: {0}</string>
   <string name="World_parameter_usage_X">Применение Параметра мира: {0}</string>
+  <string name="UI_Lowend_Computer">Обнаружен ПК с низкими характеристиками!</string>
+  <string name="UI_Low_CPU_Count">Обнаружено только 2 логических/физических ядра. Параметры вашего ПК не превышают минимальных требований, и в связи с этим вы можете столкнуться с проблемами производительности или отображения. Многопоточная визуализация отключена.</string>
+  <string name="UI_IntelGFXCard_Detected">ОБНАРУЖЕНА ВИДЕОКАРТА INTEL!</string>
+  <string name="UI_World_Validation">Проверка Мира</string>
+  <string name="UI_World_Validation_complete">Проверка Мира завершена</string>
   </resources>
