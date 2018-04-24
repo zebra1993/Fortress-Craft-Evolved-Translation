@@ -4480,4 +4480,67 @@
   <string name="UI_IntelGFXCard_Detected">ОБНАРУЖЕНА ВИДЕОКАРТА INTEL!</string>
   <string name="UI_World_Validation">Проверка Мира</string>
   <string name="UI_World_Validation_complete">Проверка Мира завершена</string>
+  <string name="I_Understand">Понятно</string>
+  <string name="UI_T1_Vertical_Piston_Lift">Лифт с нижним поршнем (1 уровень)</string>
+  <string name="UI_Current_Range_X">Текущая высота: {0}</string>
+  <string name="UI_Adjust_range">Настройте выстоу с помощью «Q» и «E»</string>
+  <string name="UI_Powerd_compresser_required_X_m">Для подъёма на высоту более {0}м требуется Лифтовой Компрессор</string>
+  <string name="UI_Current_Pressure_X_X_bar">Текущее давление: {0}/{1}бар</string>
+  <string name="UI_Stored_pressure_X_bar">Давление остановки: {0}бар</string>
+  <string name="UI_Burn_Time_X">Время горения: {0}с</string>
+  <string name="UI_active_X_of_last_X_s">Активно: {0}с за последние {1}с</string>
+  <string name="UI_Efficency_X">Эффективность: {0}</string>
+  <string name="UI_Stack_1_crate">Склад из 1 ящика</string>
+  <string name="UI_Stack_X_Crates">Склад из {0} ящиков</string>
+  <string name="UI_Total_Storage_X">Всего ячеек: {0}</string>
+  <string name="UI_Power_Delta_X">Разница в энергии: {0}</string>
+  <string name="UI_T_Store_Power">«T», чтобы добавить энергии</string>
+  <string name="UI_Q_Retrive_Power">«Q», чтобы забрать энергию</string>
+  <string name="UI_Extruder_desc">Экструдер
+Вытягивает провода из слитков</string>
+  <string name="UI_Stamper_desc">Штамп
+Штампует пластины из слитков</string>
+  <string name="UI_Coiler_desc">Намотчик
+Мотает катушки из проводов</string>
+  <string name="UI_PCB_assember_desc">Сборщик Печатных Плат
+Делает печатные платы из катушек</string>
+  <string name="UI_Conv_Turntable_desc">Конвейерный Поворотный Стол
+Равномерно распределяет ресурсы</string>
+  <string name="UI_Basic_conv_desc">Базовый Конвейер
+Обновите при первой возможности!</string>
+  <string name="UI_R_Shift_R_Rotate">Используйте «R» или «Shift»+«R» для вращения</string>
+  <string name="UI_Items_transported_X_at_X_per_Min">Эффективность транспортировки: {0} предметов за {1} мин.</string>
+  <string name="UI_Conveyor_blocked">Конвейер заблокирован!</string>
+  <string name="UI_E_Open_Interface">Используйте «E» для доступа к интерфейсу</string>
+  <string name="UI_Power_X_Percent">Энергия: {0}%</string>
+  <string name="UI_Base_threat_approx_X">Базовый рейтинг: примерно {0}</string>
+  <string name="UI_youve_killed_X_mobs_in_X_waves_lost_X_time">Вы убили {0} мобов в {1} волнах, и {2} - за последнее время</string>
+  <string name="UI_No_threats_dected">Угрозы не обнаружено...</string>
+  <string name="UI_Tutorial_active">Режим обучения активирован!</string>
+  <string name="UI_Press_E_Open_CPH_add_resources">Откройте интерфейс ЦЭК клавишей «E» и нажмите там «Add Resources».</string>
+  <string name="UI_Coal_burn_effiency_X">Эффективность сжигания угля: {0}</string>
+  <string name="UI_E_to_configure">Используйте «E» для доступа к интерфейсу</string>
+  <string name="UI_X_percent_damaged">{0}% повреждено</string>
+  <string name="UI_Defensive_missiles_fired_X">Оборонительных ракет: {0}</string>
+  <string name="UI_Time_of_day_X_X">Время суток: {0} ({1})</string>
+  <string name="UI_Researchstation_X_X_E_open">Исследовательская станция
+Обрабатывает сканы и позволяет исследовать технологии.
+Энергия: {0}/{1}
+Используйте «E» для доступа к интерфейсу
+</string>
+  <string name="UI_Generating_X_PPS">Генерация: {0:N0} Э/с</string>
+  <string name="LPT_impacted_wall">Лазерный луч упёрся в стену - необходимо переставить!</string>
+  <string name="LPT_found_nothing">Лазерный луч ушёл в пустоту - необходимо переставить!</string>
+  <string name="LPT_searching_for_PIC_X_X">Лазерный луч ищет интерфейс потребителя энергии ({0}/{1})...</string>
+  <string name="OS_E_put_materials_in_smleter_or_hopper">Используйте «E», чтобы поместить материалы в плавильню,
+или разместите рядом бункер.</string>
+  <string name="OS_heating_X_X_C">Нагрев: {0}/{1}°C</string>
+  <string name="OS_X_raw_X_ready_smelting">Приготовлено для выплавки: {0}*{1}</string>
+  <string name="OS_Smelting_X_X_complete_X_more_ready_smelting">Плавится {0} (завершено на {1}%)
+Для следующего цикла необходимо ещё {2} ед. сырья</string>
+  <string name="OS_Power_X_percent_X_PPS">Энергия {0}% ({1} Э/с)</string>
+  <string name="Efficiency_X_Q_reset">Эффективность: {0} («Q» для сброса)</string>
+  <string name="Need_more_X_E_more_mat_in_smelter_X_ready">Необходимо больше {0}!
+Откройте интерфейс плавильни с помощью «E», чтобы добавить руду.
+{1} ед. сырья уже готово.</string>
   </resources>
