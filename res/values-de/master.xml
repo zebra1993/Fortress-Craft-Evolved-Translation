@@ -2,7 +2,7 @@
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
-    <string name="Partial_Language_Support">Guten Tag! Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf \'English\'!</string>
+    <string name="Partial_Language_Support">Guten Tag! Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf English!</string>
     <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
     <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
@@ -4581,5 +4581,7 @@ Benötigt angehängten Lagercontainer.</string>
 	<string name="Base Scanner_DESC">Platz in einem Raum. Beobachten. Lernen. Fortschritt!</string>
 	<string name="Base Scanner_CRAFT_HINT">Ein filterbares Echtzeit-Diagramm, das jeden Aspekt der Leistung Ihrer Basis überwacht.</string>
 	<string name="Base Scanner_CRAFT_DESC">Platz in einem Raum. Beobachten. Lernen. Fortschritt!</string>
+	
+<string name="GAC_Found_X_of_X_items">{0} von {1} gefunden.</string>
 	
 </resources>
