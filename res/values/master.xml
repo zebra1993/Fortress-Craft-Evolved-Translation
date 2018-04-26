@@ -4981,8 +4981,7 @@
   <string name="UI_Core_diameter_X">Core diameter: {0} (T)</string>
   <string name="UI_Pylon_size_X">Pylon size: {0}</string>
   <string name="UI_Offset_X">Offset: {0} (Q - E)</string>
-  
-
+ 
   <string name="ServoMotor">ServoMotor</string>
   <string name="ServoMotor_DESC">ServoMotor_DESC</string>
   <string name="ServoMotor_CRAFT_HINT">ServoMotor_CRAFT_HINT</string>
@@ -5161,5 +5160,26 @@
   <string name="UI_Shots_X_Kills_X">Shots: {0}, Kills {1}</string>
   <string name="UI_E_Arther_mount">(E) to have ARTHER mount!</string>
   <string name="UI_Transporting_Everything_Except_X">Transporting everything EXCEPT {0}</string>
+
+	<!--Patch 20-->
+  <string name="X_servers_online"> servers online</string>
+  <string name="Version_Mismatch_X_should_X">Version Mismatch: {0} should have been {1}</string>
+  <string name="Server_full_X_maximum">Server full: {0} maximum</string>
+  <string name="Banned">Banned</string>
+  <string name="Not_Whitelisted">Not Whitelisted</string>
+  <string name="LPT_Conncted_X_dist_X_m">Connected to [{0}] at dist of {1}m</string>
+  <string name="Discharging_at_x_m">Discharging at {0}m</string>
+  <string name="Rotating_new_Direction">Rotating to new Direction</string>
+  <string name="Searching_Cryo">Searching for Cryo</string>
+  <string name="Charging_System">Charging up system</string>
+  <string name="Getting_ready_to_fire">Getting Ready to Fire</string>
+  <string name="Cooling_Barrels">Cooling down Barrels</string>
+  <string name="GAC_Total_of_X_Items_needed">Total of {0} items needed</string>
+  <string name="GAC_no_resources_in_attached_hopper">No resources in attached Hopper?</string>
+  <string name="GAC_attempting_drop_X_into_hopper">Attempting to drop {0} into hopper!</string>
+  <string name="GAC_Crafted_X">Crafted {0}</string>
+  <string name="GAC_Cannot_locate_X_x_X">Cannot locate {0}x {1}</string>
+  <string name="GAC_X_x_X_needed">{0}x {1} needed</string>
+  <string name="GAC_Found_X_of_X_items">Found {0} of {1} items.</string>
 	
 </resources>
