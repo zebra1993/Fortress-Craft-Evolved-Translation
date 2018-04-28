@@ -4509,7 +4509,7 @@
   <string name="UI_Basic_conv_desc">Базовый Конвейер
 Обновите при первой возможности!</string>
   <string name="UI_R_Shift_R_Rotate">Используйте «R» или «Shift»+«R» для вращения</string>
-  <string name="UI_Items_transported_X_at_X_per_Min">Эффективность транспортировки: {0} предметов за {1} мин.</string>
+  <string name="UI_Items_transported_X_at_X_per_Min">Транспортировка предметов: {0} к {1}/минут</string>
   <string name="UI_Conveyor_blocked">Конвейер заблокирован!</string>
   <string name="UI_E_Open_Interface">Используйте «E» для доступа к интерфейсу</string>
   <string name="UI_Power_X_Percent">Энергия: {0}%</string>
@@ -4646,4 +4646,5 @@
   <string name="UI_Transport_pipe_desc">Транспортная труба
 Быстрая и защищенная транспортировка</string>
   <string name="UI_Conv_belt_filter">Конвейерный фильтр</string>
+  <string name="UI_trasnport_pipe_filter">Фильтр Транспортной Трубы</string>
   </resources>
