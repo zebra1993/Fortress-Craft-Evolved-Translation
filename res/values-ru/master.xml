@@ -4664,4 +4664,8 @@
   <string name="UI_Filtersetting_BIOMASS">Биомасса</string>
   <string name="UI_Filtersetting_BARS">Слидки</string>
   <string name="UI_Filtersetting_ORGANIC">ОРГАНИКА</string>
+  <string name="UI_Filtersetting_CRAFTED">предметы крафта</string>
+  <string name="UI_Filtersetting_SMELTABLE">Плавящиеся</string>
+  <string name="UI_Filtersetting_RESEARCHABLE">Исследуемые</string>
+  <string name="UI_Filtersetting_UNKNOWN">Неизвестные</string>
   </resources>
