@@ -4648,5 +4648,6 @@
   <string name="UI_Conv_belt_filter">Конвейерный фильтр</string>
   <string name="UI_trasnport_pipe_filter">Фильтр Транспортной Трубы</string>
   <string name="UI_Transporting_X">Перемещается: {0}</string>
-  <string name="UI_E_set_filter_to_X">(E) Фильтровать {0}</string>
+  <string name="UI_E_set_filter_to_X">(E) Установить фильтр на {0}</string>
+  <string name="UI_Shift_E_filter_to_X">«Shift» + «E» Установить фильтр на {0}</string>
   </resources>
