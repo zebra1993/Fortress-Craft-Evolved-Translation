@@ -4588,4 +4588,17 @@
   <string name="UI_Looking_for_Minecart_Tracks">Поиск вагонетки…</string>
   <string name="UI_Build_Dist_is_X">Дистанция строительства {0}</string>
   <string name="UI_Build_Dist_is_X_using">Дистанция строительства {0}, использовано:</string>
+  <string name="UI_Basic_Conveyors">Базовые конвейеры</string>
+  <string name="UI_Transport_Pipes">Транспортные трубы</string>
+  <string name="UI_Minecrat_Tracks">Вагонетки</string>
+  <string name="UI_Time_left_X">Осталось: {0}с</string>
+  <string name="UI_Items_Added_X_Items_Found_X">Предметов добавлено : {0}. Предметов найдено {1}.</string>
+  <string name="UI_Spiderbot_Recharge_Docking_Bay">Док-станция ПаукоБота</string>
+  <string name="UI_Spiderbot_Power_X_X">Энергия ПаукоБота {0}/{1}</string>
+  <string name="UI_Bay_ready_recive_items">Готово к получению предметов</string>
+  <string name="UI_Bay_offloading_final_item_Spiderbot_undock">Док выгружает последний предмет перед отстыковкой ПаукоБота</string>
+  <string name="UI_Spiderbot_Docking">ПаукоБот пристыкован</string>
+  <string name="UI_Spidy_docked_waiting_resc">ПаукоБот пристыкован и ожидает ресурсы!</string>
+  <string name="UI_Spidy_defending">ПаукоБот защищается!</string>
+  <string name="UI_SpiderbotBay_hint">Совет: Присоедините бункер с заряженными литиевыми катушками для подзарядки ПаукоБота</string>
   </resources>
