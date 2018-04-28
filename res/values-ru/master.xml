@@ -4553,4 +4553,5 @@
   <string name="UI_X_completed_of_X">{0} завершено из {1}!</string>
   <string name="UI_Conversiontime_X_X_X_est_X_X_X">
 Время конвертации прошло {0}ч:{1}м:{2}с из оценочных {3}ч:{4}м:{5}с</string>
+  <string name="UI_Worldcomversion">Конвертация мира</string>
   </resources>
