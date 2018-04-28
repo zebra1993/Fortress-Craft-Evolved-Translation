@@ -4668,4 +4668,8 @@
   <string name="UI_Filtersetting_SMELTABLE">Плавящиеся</string>
   <string name="UI_Filtersetting_RESEARCHABLE">Исследуемые</string>
   <string name="UI_Filtersetting_UNKNOWN">Неизвестные</string>
+  <string name="UI_Current_Power_X">Текущая энергия: {0}</string>
+  <string name="UI_Power_per_Fire">Энергия для выстрела</string>
+  <string name="UI_Success_Fail_X_X">Успех/Неудача: {0}/{1}</string>
+  <string name="UI_No_Location_Marker_installed">Метка не установлена</string>
   </resources>
