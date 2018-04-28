@@ -4628,7 +4628,7 @@
   <string name="UI_Fuel_level_X">Загружено топлива: {0}</string>
   <string name="UI_Current_PPS_X">Энергии в секунду: {0}</string>
   <string name="UI_e_Toggle">(E) Переключить</string>
-  <string name="UI_MK1_Arm_Status_X_X">Манипулятор МК! +
+  <string name="UI_MK1_Arm_Status_X_X">Манипулятор МК1 +
  + Статус: {0} 
  {1}</string>
   </resources>
