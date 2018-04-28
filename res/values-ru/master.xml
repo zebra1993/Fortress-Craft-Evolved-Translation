@@ -4650,5 +4650,8 @@
   <string name="UI_Transporting_X">Перемещается: {0}</string>
   <string name="UI_E_set_filter_to_X">(E) Установить фильтр на {0}</string>
   <string name="UI_Shift_E_filter_to_X">«Shift» + «E» Установить фильтр на {0}</string>
-  <string name="UI_Press_E_Smash_Ice">Нажмите (E) чтобы разбить лёд!</string>  
+  <string name="UI_Press_E_Smash_Ice">Нажмите «E» чтобы разбить лёд!</string>  
+  <string name="UI_Warning_Frozen">ВНИМАНИЕ - МОРОЗ!</string>
+  <string name="UI_Filter_set_to_X">Фильтр установлен на [{0}]</string>
+  <string name="UI_Press_T_Invert_Filter">Нажмите «T», чтобы инвертировать фильтр.</string>
   </resources>
