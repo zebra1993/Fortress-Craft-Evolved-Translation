@@ -4495,7 +4495,7 @@
   <string name="UI_Total_Storage_X">Всего ячеек: {0}</string>
   <string name="UI_Power_Delta_X">Изменение энергии: {0}</string>
   <string name="UI_T_Store_Power">«T», добавить энергию</string>
-  <string name="UI_Q_Retrive_Power">«Q», чтобы забрать энергию</string>
+  <string name="UI_Q_Retrive_Power">«Q» забрать энергию</string>
   <string name="UI_Extruder_desc">Экструдер
 Вытягивает провода из слитков</string>
   <string name="UI_Stamper_desc">Штамп
