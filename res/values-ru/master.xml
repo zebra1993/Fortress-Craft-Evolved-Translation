@@ -4581,6 +4581,9 @@
   <string name="UI_Blocked_Please_clear">Блокирован! Проверьте и отчистите!</string>
   <string name="UI_Build_complete">Строительство завершено</string>
   <string name="UI_Needs_X_more_power">Требуется еще {0} энергии</string>
-  <string name="UI_Looking_valid_hopper">Требуется корректно присоединенный бункер</string>
-  <string name="UI_Looking_for_Basic_Conveyor">Требуется базовый конвейер</string>
+  <string name="UI_Looking_valid_hopper">Поиск присоединенного хранилища!</string>
+  <string name="UI_Looking_for_Basic_Conveyor">Поиск базового конвейера…</string>
+  <string name="UI_Looking_for_Conveyors">Поиск конвейера…</string>
+  <string name="UI_Looking_for_Transport_Pipes">Поиск транспортной трубы…</string>
+  <string name="UI_Looking_for_Minecart_Tracks">Поиск вагонетки…</string>
   </resources>
