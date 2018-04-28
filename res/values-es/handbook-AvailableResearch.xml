@@ -18,18 +18,18 @@
 <string name="AV.Base_Building_Automation.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.00.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.01.Paragraph">La construcción de una operación enorme minera es un trabajo para las máquinas, ¡No para los humanos!</string>
-<string name="AV.Advanced_Miner_Upgrades.Title">Mejora de Minería Avanzada</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Mejoras de Minería Avanzadas</string>
 <string name="AV.Advanced_Miner_Upgrades.00.Title">Mejora de Minería Avanzada</string>
-<string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Este proyecto investigará mejoras adicionales al extractor de mineral y fundición. Además, la investigación continuará el trabajo sobre el nuevo sistema de cantera.</string>
+<string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Este proyecto investigará mejoras adicionales al extractor de minerales y fundición. Además, la investigación continuará trabajando sobre el nuevo sistema de cantera.</string>
 <string name="AV.Base_Building_Automation.02.Paragraph">Este amplio proyecto diseñará máquinas para excavación y construcción automatizadas, además de mejorar las opciones disponibles para atravesar su base.</string>
-<string name="AV.Base_Building_Automation.03.Paragraph">Además automatizar la excavación este proyecto tratará de producir un explosivo que se puede utilizar el despejar una gran área.</string>
+<string name="AV.Base_Building_Automation.03.Paragraph">Además automatizar la excavación de este proyecto tratará de producir un explosivo que se pueda utilizar para despejar una gran área.</string>
 <string name="AV.Base_Defence.Title">Defensa de la Base</string>
 <string name="AV.Base_Defence.00.Title">Defensa de la Base</string>
 <string name="AV.Base_Defence.01.Paragraph">A raíz de su investigación sobre las formas de vida locales es evidente que los sistemas defensivos deben ser una alta prioridad.</string>
 <string name="AV.Base_Defence.02.Paragraph">¡Tendremos que traer la LIBERTAD a este planeta!</string>
 <string name="AV.Basic_Mining_Upgrades_I.Title">Mejora de Minería Básica I</string>
 <string name="AV.Basic_Mining_Upgrades_I.00.Title">Mejora de Minería Básica I</string>
-<string name="AV.Basic_Mining_Upgrades_I.01.Paragraph">Necesitamos mejorar la tasa a la que podemos la que podemos recoger y fundir el mineral. Este proyecto se centrará en mejorar el rendimiento de los extractores de mineral y las fundiciones.</string>
+<string name="AV.Basic_Mining_Upgrades_I.01.Paragraph">Necesitamos mejorar la tasa a la que podemos recoger y fundir el mineral. Este proyecto se centrará en mejorar el rendimiento de los extractores de mineral y las fundiciones.</string>
 <string name="AV.Basic_Mining_Upgrades_II.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.00.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.01.Paragraph">A raíz de nuestra investigación anterior sobre mejoras de minería, deberíamos ser capaces de mejorar aún más nuestro motor de perforación y las mejoras de inducción forzada.</string>
@@ -39,7 +39,7 @@
 <string name="AV.Improved_Ore_Scanning.Title">Escáner de Mineral Mejorado</string>
 <string name="AV.Improved_Ore_Scanning.00.Title">Escáner de Mineral Mejorado</string>
 <string name="AV.Improved_Ore_Scanning.01.Paragraph">¡Hemos encontrado un problema en nuestra búsqueda de recursos para expandir nuestra base!</string>
-<string name="AV.Improved_Ore_Scanning.02.Paragraph">Nuestro escáner de mineral está configurado para localizar materiales desconocidos para la investigación y clasificación. Su capacidad para encontrar nuevas fuentes de materiales específicos conocidos es limitada.Debe ser posible utilizar una pequeña cantidad de mineral de reserva para actuar como un filtro avanzado que nos permite localizar sólo los recursos que necesitamos.</string>
+<string name="AV.Improved_Ore_Scanning.02.Paragraph">Nuestro escáner de mineral está configurado para localizar materiales desconocidos para la investigación y clasificación. Su capacidad para encontrar nuevas fuentes de materiales específicos conocidos es limitada. Debe ser posible utilizar una pequeña cantidad de mineral de reserva para actuar como un filtro avanzado que nos permite localizar sólo los recursos que necesitamos.</string>
 <string name="AV.Intermediate_Miner_Upgrades_I.Title">Mejoras de Minería Intermedia I</string>
 <string name="AV.Intermediate_Miner_Upgrades_I.00.Title">Mejoras de Minería Intermedia I</string>
 <string name="AV.Local_Life_Forms.Title">Formas de Vida Local</string>
@@ -53,4 +53,15 @@
 <string name="AV.Intermediate_Miner_Upgrades_II.00.Title">Mejoras de Minería Intermedia II</string>
 <string name="AV.Intermediate_Miner_Upgrades_II.01.Paragraph">Debería ser posible mejorar aún más las capacidades del extractor de mineral. Este proyecto también investigará métodos alternativos de recolección de mineral.</string>
 <string name="AV.Suit_Upgrading.01.Paragraph">Su traje ambiental es la pieza más avanzada de la ingeniería de exploración conocida por el hombre. Desafortunadamente, su utilidad depende de un sistema de actualización modular actualmente más allá de nuestras capacidades de fabricación. Es hora de mirar en cómo usted puede crear sus propias mejoras lejos de las fábricas en casa. Usted puede usar un poco de ayuda para sobrevivir en este ambiente áspero.</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.01.Paragraph">Es hora de comenzar a investigar cómo replicar las capacidades avanzadas de la fundición de mineral suministrada con nuestro Central Power Hub. Las fundiciones básicas que hemos podido construir son demasiado lentas y están desperdiciando recursos valiosos.</string>
+<string name="AV.Power_Grid.01.Paragraph">No podemos sobrevivir solo con la potencia producida por nuestro Central Power Hub por mucho tiempo. A medida que nuestra base se expanda, tendremos que encontrar nuevas formas de generar energía y transferirla a operaciones mineras distantes para que no tengamos que ejecutarlas para que funcionen manualmente.</string>
+<string name="AV.Ultimate_Power_Grid.Title">Red eléctrica de última generación</string>
+<string name="AV.Ultimate_Power_Grid.00.Title">Red eléctrica de última generación</string>
+<string name="AV.Ultimate_Power_Grid.01.Paragraph">Siguiendo con nuestro éxito con el sistema de almacenamiento de energía MK4, deberíamos ser capaces de diseñar el dispositivo de almacenamiento de energía definitivo.</string>
+<string name="AV.Ultra-Power_Grid.Title">Red Ultra-Potente</string>
+<string name="AV.Ultra-Power_Grid.00.Title">Red Ultra-Potente</string>
+<string name="AV.Ultra-Power_Grid.01.Paragraph">Hemos alcanzado los límites de potencia que podemos almacenar en un solo cubo de 1 metro. Este proyecto investigará la viabilidad de dispositivos de almacenamiento de energía más grandes.</string>
+<string name="AV.Upgraded_Power_Grid.Title">Red Eléctrica Actualizada</string>
+<string name="AV.Upgraded_Power_Grid.00.Title">Red Eléctrica Actualizada</string>
+<string name="AV.Upgraded_Power_Grid.01.Paragraph">Nuestra infraestructura de energía va muy bien. Nuestra tecnología de baterías es bastante limitada, sin embargo, este proyecto intentará diseñar una batería mejor que pueda almacenar más energía proporcionándonos un buffer más grande.</string>
 </resources>
