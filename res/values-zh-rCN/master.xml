@@ -4062,7 +4062,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="X_X_to_offload">{0}x {1} 要被卸下！</string>  
   
 <string name="CPH_Offline_Borer_Offline">CPH Offline。</string>
-  <string name="Unable_to_locate_input_Storage_Hopper">Unable to locate input Storage Hopper</string>
+  <string name="Unable_to_locate_input_Storage_Hopper">无法定位输入存储料斗</string>
   <string name="Looking_for_High_Energy_Composite_Fuel">寻找高能量复合燃料中...</string>
   
   <string name="Checking_Gantry_Clearance">Checking Gantry Clearance...</string>
@@ -4453,4 +4453,16 @@ Needs attached storage hopper.</string>
 	<string name="Room Wall Panel_DESC">" "</string>
 	<string name="Room Light Reflector_DESC">" "</string>
 	<string name="Reinforced Plated Room Wall_DESC">" "</string>
-	</resources>
+	<string name="ConstructoBot Herb Arm Assembler">ConstructoBot Herb Arm 组装机</string>
+  <string name="ConstructoBot Herb Arm Assembler_DESC">ConstructoBot Herb 手臂组装机_DESC</string>
+  <string name="ConstructoBot Herb Arm Assembler_CRAFT_DESC">建筑机器人手臂组装_工艺_DESC</string>
+  <string name="ConstructoBot Herb Arm Assembler_CRAFT_HINT">构造机器人手臂组装工艺提示</string>
+  <string name="Cloning Vat">克隆的大桶</string>
+  <string name="Cloning Vat_DESC">克隆的大桶_DESC</string>
+  <string name="Cloning Vat_CRAFT_DESC">克隆的大桶_CRAFT_DESC</string>
+  <string name="Cloning Vat_CRAFT_HINT">克隆的大桶_CRAFT_提示</string>
+  <string name="SpiderCor">SpiderCor</string>
+  <string name="SpiderCor_DESC">SpiderCor_DESC</string>
+  <string name="SpiderCor_CRAFT_DESC">SpiderCor_CRAFT_DESC</string>
+  <string name="SpiderCor_CRAFT_HINT">SpiderCor_CRAFT_HINT</string>
+  </resources>
