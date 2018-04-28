@@ -1,4 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">Control de Movimiento de IA</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Este robot moverá un recurso a la vez desde una tolva cercana hacia otra, acorde a los permisos \"Añadir y Remover\" de las tolvas cercanas.</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Núcleo de la batería</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Permite a ARTHER retener 8 veces más carga que puede transferirte cuando te quedes sin carga. Construya esto tan pronto como sea posible! Sólo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">Estación de carga ARTHER</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Recarga rápidamente a ARTHER de tu red energética. Mejor usarlo en combinación de la mejora de batería de ARTHER.</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Especificaciones</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">Tasa de recarga ARTHER:
+Capacidad de potencia de la estación:
+Tasa de recarga de la estación:</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 por segundo
+ 1500
+ 10 por segundo</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Sombrero ARTHER apuesto</string>
 </resources>
