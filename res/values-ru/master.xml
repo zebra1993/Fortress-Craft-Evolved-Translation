@@ -4637,4 +4637,6 @@
   <string name="UI_Zipper_Merge_3n1">Объединитель (три к одному)</string>
   <string name="UI_Rapid_Zipper_merge">Быстрый объединитель</string>
   <string name="UI_Bender_Plant">Гнущий станок</string>
+  <string name="UI_Pipe_Extruder_desc">Трубный станок
+Создает трубы из слитков</string>
   </resources>
