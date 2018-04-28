@@ -4359,7 +4359,7 @@
   <string name="LaunchPad_Collision">Столкновение Стартовой Площадки</string>
 
   <string name="Unset">Неустановлен</string>
-  <string name="Perfect">Идеальный</string>
+  <string name="Perfect">Отличный</string>
   <string name="Accurate">Меткий</string>
   <string name="Careful">Аккуратный</string>
   
@@ -4543,4 +4543,5 @@
   <string name="Need_more_X_E_more_mat_in_smelter_X_ready">Необходимо больше {0}!
 Откройте интерфейс плавильни с помощью «E», чтобы добавить руду.
 {1} ед. сырья уже готово.</string>
+  <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft обнаружил, что вы используете {0} - если вы используете игровой ноутбук, то, пожалуйста, используйте высокопроизводительную видеокарту! Если это ваша единственная видеокарта, тогда вы, вероятно, столкнетесь с рядом проблем с визуальными эффектами или производительностью.</string>
   </resources>
