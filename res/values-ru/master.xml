@@ -4673,4 +4673,21 @@
   <string name="UI_Success_Fail_X_X">Успех/Неудача: {0}/{1}</string>
   <string name="UI_No_Location_Marker_installed">Маркер не установлен</string>
   <string name="UI_Location_marker_no_location">Маркер не содержит координат</string>
+  <string name="UI_Target_X_m_away">Цель дальше {0}м</string>
+  <string name="UI_Stand_Teleporter_Jump_activate">Встаньте на телепорт и нажмите прыжок для активации</string>
+  <string name="UI_Q_Selfdestruct">Нажмите Q для самоуничтожения</string>
+  <string name="UI_Rocket_abort">ПРЕРВАНО ПОЛЬЗОВАТЕЛЕМ</string>
+  <string name="UI_Launch_in_Progres">Запуск...</string>
+  <string name="UI_Press_Q_scan_construction">Нажмите Q для сканирования</string>
+  <string name="UI_Press_E_to_launch">Нажмите E для запуска ракеты</string>
+  <string name="UI_Searching_Large_Targets">Поиск крупных целей...</string>
+  <string name="UI_Aiming">Прицеливание...</string>
+  <string name="UI_Attacking_X_HP_left">Атака! [{0} здоровья осталось!]</string>
+  <string name="UI_Turret">Турель</string>
+  <string name="UI_Shots_X_Kills_X_Damage_X">Выстрелов: {0}. Уничтожено: {1}. Ущерб: {2}</string>
+  <string name="UI_Press_E_Show_Turret_range">Нажмите E чтоб показать зону турели</string>
+  <string name="UI_Minecart_Track_Streight">Прямые рельсы</string>
+  <string name="UI_Minecart_Track_Slope">Наклонные рельсы</string>
+  <string name="UI_Please_wait_processing">Пожалуйста ждите, обработка...</string>
+  <string name="UI_Please_attach_Hopper">Пожалуйста присоедините бункер</string>
   </resources>
