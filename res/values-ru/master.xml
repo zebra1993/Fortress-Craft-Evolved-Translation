@@ -4654,4 +4654,13 @@
   <string name="UI_Warning_Frozen">ВНИМАНИЕ - МОРОЗ!</string>
   <string name="UI_Filter_set_to_X">Фильтр установлен на [{0}]</string>
   <string name="UI_Press_T_Invert_Filter">Нажмите «T», чтобы инвертировать фильтр.</string>
+  <string name="UI_Error_Conv_Filter_cant_deal_with_X">Ошибка, конвейер не может работать с [{0}]</string>
+  <string name="UI_Filtersetting_ALL">Все типы</string>
+  <string name="UI_Filtersetting_GARBAGE">Мусор</string>
+  <string name="UI_Filtersetting_COMBUSTIBLE">Топливо</string>
+  <string name="UI_Filtersetting_ORE">Руда</string>
+  <string name="UI_Filtersetting_NOTHING">Ничего</string>
+  <string name="UI_Filtersetting_CRYSTALS">Кристаллы</string>
+  <string name="UI_Filtersetting_BIOMASS">Биомасса</string>
+  <string name="UI_Filtersetting_BARS">СЛИТКИ</string>
   </resources>
