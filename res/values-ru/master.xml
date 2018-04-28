@@ -4601,4 +4601,34 @@
   <string name="UI_Spidy_docked_waiting_resc">ПаукоБот пристыкован и ожидает ресурсы!</string>
   <string name="UI_Spidy_defending">ПаукоБот защищается!</string>
   <string name="UI_SpiderbotBay_hint">Совет: Присоедините логическое хранилище с литиевыми катушками для подзарядки ПаукоБота</string>
+  <string name="UI_Internal_Power_X_X">Внутренняя энергия: {0}/{1}</string>
+  <string name="UI_Illegal_Placement_MK2_Solar">Недопустимое размещение!
+Солнечная батарея МК2 должна размещаться на:</string>
+  <string name="UI_MK4_Batteries">Батарея МК4</string>
+  <string name="UI_MK5_Batteries">Батареи МК5</string>
+  <string name="UI_Refinieries">Очистители</string>
+  <string name="UI_Not_collecting_Cant_see_sun">Не работает! Не видит солнца!</string>
+  <string name="UI_Collecting_rate_X_PPS">Выработка {0} энергии в секунду</string>
+  <string name="UI_Not_collecting_sun_below_horizon">Не работает! Солнце за горизонтом!</string>
+  <string name="UI_Collecting_novalight_X_PPS">Выработка при свете звезд {0} энергии в секунду</string>
+  <string name="UI_MK4_Power_storage">Энергохранилище МК4</string>
+  <string name="UI_MK5_Power_storage">Энергохранилище МК5</string>
+  <string name="UI_Located_X_Power_consumers">Обнаружено {0} подключенных потребителей</string>
+  <string name="UI_Must_built_upgrigth">Строить вертикально!</string>
+  <string name="UI_Sun_below_Horizon_Sunrise_X_minutes">Солнечная панель
+не работает! Солнце за горизонтом!
+Восход через {0} минут</string>
+  <string name="UI_Connected_to_controller">Подключено к контроллеру</string>
+  <string name="UI_Processing_X">Прогресс {0}</string>
+  <string name="UI_Not_Connected_controller">Не подключено к контроллеру</string>
+  <string name="UI_Stored_X_X">Хранится (Q): {0}x {1}</string>
+  <string name="UI_Select_Recipe_X_X">Выбран рецепт (E): {0} 
+ {1}</string>
+  <string name="UI_Processing_X_X_complete">Создание {0}, {1} завершено</string>
+  <string name="UI_Fuel_level_X">Загружено топлива: {0}</string>
+  <string name="UI_Current_PPS_X">Энергии в секунду: {0}</string>
+  <string name="UI_e_Toggle">(E) Переключить</string>
+  <string name="UI_MK1_Arm_Status_X_X">Манипулятор МК! +
+ + Статус: {0} 
+ {1}</string>
   </resources>
