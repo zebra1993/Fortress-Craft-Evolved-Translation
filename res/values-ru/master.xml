@@ -4600,5 +4600,5 @@
   <string name="UI_Spiderbot_Docking">ПаукоБот пристыкован</string>
   <string name="UI_Spidy_docked_waiting_resc">ПаукоБот пристыкован и ожидает ресурсы!</string>
   <string name="UI_Spidy_defending">ПаукоБот защищается!</string>
-  <string name="UI_SpiderbotBay_hint">Совет: Присоедините бункер с заряженными литиевыми катушками для подзарядки ПаукоБота</string>
+  <string name="UI_SpiderbotBay_hint">Совет: Присоедините логическое хранилище с литиевыми катушками для подзарядки ПаукоБота</string>
   </resources>
