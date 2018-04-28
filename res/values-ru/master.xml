@@ -246,8 +246,8 @@
     <string name="Unable_To_Join">Невозможно подключиться</string>
 
     <string name="Join">Подключиться</string>
-    <string name="Low Grade Steel Bar">Слиток Стали Низкого Качества</string>
-    <string name="Low Grade Steel Bars">Слитки Стали Низкого Качества</string>
+    <string name="Low Grade Steel Bar">Низкосортная сталь</string>
+    <string name="Low Grade Steel Bars">Низкосортная сталь</string>
     <string name="Steel Ball Bearing">Стальной Подшипник</string>
     <string name="Steel Ball Bearings">Стальные Подшипники</string>
     <string name="Power Coil">Энергетическая Катушка</string>
@@ -256,10 +256,10 @@
     <string name="Copper Wire (Old)">Медный Провод (Старый)</string>
     <string name="Servo Motor">СервоПривод</string>
     <string name="Servo Motors">СервоПриводы</string>
-    <string name="Lightweight Machine Plate">Лёгкая Плита</string>
-    <string name="Lightweight Machine Plates">Лёгкие Пластины</string>
-    <string name="Lightweight Machine Housing">Лёгкий Корпус</string>
-    <string name="Lightweight Machine Housings">Лёгкие Корпуса</string>
+    <string name="Lightweight Machine Plate">Лёгкосплавная Плита</string>
+    <string name="Lightweight Machine Plates">Лёгкосплавные Пластины</string>
+    <string name="Lightweight Machine Housing">Лёгкосплавный Корпус</string>
+    <string name="Lightweight Machine Housings">Лёгкосплавные Корпуса</string>
     <string name="Basic Minecart">Базовая Вагонетка</string>
     <string name="Basic Minecarts">Базовые Вагонетки</string>
     <string name="Fast Minecart">Быстрая Вагонетка</string>
@@ -268,8 +268,8 @@
     <string name="Large Minecarts">Большие Вагонетки</string>
     <string name="Bulk Minecart">Вместительная Вагонетка</string>
     <string name="Bulk Minecarts">Вместительные Вагонетки</string>
-    <string name="Tour Cart">Туристическая Вагонетка</string>
-    <string name="Tour Carts">Туристические Вагонетки</string>
+    <string name="Tour Cart">Пассажирская Вагонетка</string>
+    <string name="Tour Carts">Пассажирские Вагонетки</string>
     <string name="Copper Wire">Медный Провод</string>
     <string name="Copper Wires">Медные Провода</string>
     <string name="Tin Wire">Оловянный Провод</string>
@@ -348,8 +348,8 @@
     <string name="Nickel Pipes">Никелевые Трубы</string>
     <string name="Titanium Pipe">Титановая Труба</string>
     <string name="Titanium Pipes">Титановые Трубы</string>
-    <string name="Crystal Fiber Mesh">Кристаллическая Сетка</string>
-    <string name="Crystal Fiber Meshes">Кристаллические Сетки</string>
+    <string name="Crystal Fiber Mesh">Кристалловолоконная Сеть</string>
+    <string name="Crystal Fiber Meshes">Кристалловолоконные Сети</string>
     <string name="Crystal Clock">Кристаллический Тактовый Генератор</string>
     <string name="Crystal Clocks">Кристаллические Тактовые Генераторы</string>
     <string name="Overclocked Crystal Clock">Разогнанный Кристалл</string>
@@ -443,7 +443,7 @@
     <string name="Sapphire Focusing Lenses">Сапфировые Фокусирующие Линзы</string>
     <string name="Topaz Focusing Lens">Топазовая Фокусир. Линза</string>
     <string name="Topaz Focusing Lenses">Топазовые Фокусирующие Линзы</string>
-    <string name="Sugalite Focusing Lens">Сахаритовая Фокусир. Линза</string>
+    <string name="Sugalite Focusing Lens">Сугилитовая Фокусир. Линза</string>
     <string name="Sugalite Focusing Lenses">Сахаритовые Фокусирующие Линзы</string>
     <string name="Crude Organic Lens">Грубая Органическая Линза</string>
     <string name="Crude Organic Focusing Lenses">Грубые Органические Фокусирующие Линзы</string>
