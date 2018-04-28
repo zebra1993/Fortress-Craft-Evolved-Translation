@@ -4513,7 +4513,7 @@
   <string name="UI_Conveyor_blocked">Конвейер заблокирован!</string>
   <string name="UI_E_Open_Interface">Используйте «E» для доступа к интерфейсу</string>
   <string name="UI_Power_X_Percent">Энергия: {0}%</string>
-  <string name="UI_Base_threat_approx_X">Базовый рейтинг: примерно {0}</string>
+  <string name="UI_Base_threat_approx_X">Рейтинг базы: примерно {0}</string>
   <string name="UI_youve_killed_X_mobs_in_X_waves_lost_X_time">Вы убили {0} мобов в {1} волнах, и {2} - за последнее время</string>
   <string name="UI_No_threats_dected">Угрозы не обнаружено...</string>
   <string name="UI_Tutorial_active">Режим обучения активирован!</string>
@@ -4693,4 +4693,11 @@
   <string name="UI_Please_place_Minecart_in_Hopper">Пожалуйста загрузите вагонетки в хранилище!</string>
   <string name="UI_Cannot_find_hoppers">Не найдены хранилища!</string>
   <string name="UI_unable_find_rescources_in_attached_hoppers">Нет ресурсов в присоединенных хранилищах!</string>
+  <string name="UI_awaiting_cart">Ожидает вагонетку</string>
+  <string name="UI_All_Surface_Attacks_neutralised">Атака на поверхности отбита.</string>
+  <string name="UI_CryoPlasm_detected_X_m">Криоплазма обнаружена в {0}м!</string>
+  <string name="UI_Kills_X">Уничтожено: {0}</string>
+  <string name="UI_No_Threads_detected">Угрозы не обнаружены...</string>
+  <string name="UI_Next_attack_X_s">Следующая атака через {0}с</string>
+  <string name="UI_Quarry">Карьер</string>
   </resources>
