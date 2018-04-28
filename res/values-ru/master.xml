@@ -4483,7 +4483,7 @@
   <string name="I_Understand">Понятно</string>
   <string name="UI_T1_Vertical_Piston_Lift">Лифт с нижним поршнем (1 уровень)</string>
   <string name="UI_Current_Range_X">Текущая высота: {0}</string>
-  <string name="UI_Adjust_range">Настройте выстоу с помощью «Q» и «E»</string>
+  <string name="UI_Adjust_range">Настройте высоту с помощью «Q» и «E»</string>
   <string name="UI_Powerd_compresser_required_X_m">Для подъёма на высоту более {0}м требуется Лифтовой Компрессор</string>
   <string name="UI_Current_Pressure_X_X_bar">Текущее давление: {0}/{1}бар</string>
   <string name="UI_Stored_pressure_X_bar">Давление остановки: {0}бар</string>
@@ -4561,4 +4561,8 @@
 Если это случается часто в одиночном режиме, пожалуйста, проверьте, что ваше антивирусное ПО не мешает.
 
 Чанков прогруженно {0}</string>
+  <string name="UI_Attached_to_lift">Подключено к лифту</string>
+  <string name="UI_Compresspr_active">Компрессор активен</string>
+  <string name="UI_Compressor_Idle">Компрессор простаивает</string>
+  <string name="UI_Lifts_limited_Network_clients">Лифты имеют ограничение в 64м для сетевых клиентов. Извините!</string>
   </resources>
