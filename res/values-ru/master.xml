@@ -4689,5 +4689,8 @@
   <string name="UI_Minecart_Track_Streight">Прямые рельсы</string>
   <string name="UI_Minecart_Track_Slope">Наклонные рельсы</string>
   <string name="UI_Please_wait_processing">Пожалуйста ждите, обработка...</string>
-  <string name="UI_Please_attach_Hopper">Пожалуйста присоедините бункер</string>
+  <string name="UI_Please_attach_Hopper">Пожалуйста присоедините хранилище</string>
+  <string name="UI_Please_place_Minecart_in_Hopper">Пожалуйста загрузите вагонетки в хранилище!</string>
+  <string name="UI_Cannot_find_hoppers">Не найдены хранилища!</string>
+  <string name="UI_unable_find_rescources_in_attached_hoppers">Нет ресурсов в присоединенных хранилищах!</string>
   </resources>
