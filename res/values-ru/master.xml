@@ -4586,4 +4586,5 @@
   <string name="UI_Looking_for_Conveyors">Поиск конвейера…</string>
   <string name="UI_Looking_for_Transport_Pipes">Поиск транспортной трубы…</string>
   <string name="UI_Looking_for_Minecart_Tracks">Поиск вагонетки…</string>
+  <string name="UI_Build_Dist_is_X">Дистанция строительства {0}</string>
   </resources>
