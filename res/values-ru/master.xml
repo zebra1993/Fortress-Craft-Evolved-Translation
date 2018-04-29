@@ -7,7 +7,7 @@
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
-    <string name="Dapper_Pack">Dapper DLC Pack</string>
+    <string name="Dapper_Pack">Нарядная сборка</string>
     <string name="Not_Installed">Нет</string>
     <string name="Multiplayer_Sign">Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
@@ -484,7 +484,7 @@
     <string name="Compressed Magma">Сжатая Магма</string>
     <string name="Freezon Gas">Фризоновый Газ</string>
     <string name="FreezonGas">Фризоновый Газ</string>
-    <string name="Compressed Freezon Canister">Баллон со Сжатым Фризоном</string>
+    <string name="Compressed Freezon Canister">Баллон со Сжатым Морозом</string>
     <string name="CompressedFreezon">Сжатый Фризон</string>
     <string name="Chlorine Gas">Газообразный Хлор</string>
     <string name="ChlorineGas">Газообразный Хлор</string>
@@ -875,17 +875,17 @@
     <string name="Power Storage MK3_DESC">Хранит большее количество энергии. Принимает энергию от источников, передаёт другому оборудованию.</string>
     <string name="Organic Power Storage">Органическое Энергохранилище</string>
     <string name="Organic Power Storage_DESC">Предназначено для медленной передачи энергии.</string>
-    <string name="StorageHopper">Накопительный Бункер</string>
+    <string name="StorageHopper">Накопительное хранилище</string>
     <string name="StorageHopper_DESC">Вместимость - до 100 шт. предметов.
 Автоматизирован.
 Нажмите «E», чтобы изменить режим ввода-вывода.</string>
-    <string name="LogisticsHopper">Логистический Бункер</string>
+    <string name="LogisticsHopper">Логистическое хранилище</string>
     <string name="LogisticsHopper_DESC">Перемещает 1 предмет в 10 секунд.</string>
-    <string name="MiniHopper">Мини-Бункер</string>
+    <string name="MiniHopper">Мини-хранилище</string>
     <string name="MiniHopper_DESC">Перемещает 1 предмет в 30 секунд.</string>
-    <string name="CryoHopper">Крио-Бункер</string>
+    <string name="CryoHopper">Криогенное хранилище</string>
     <string name="CryoHopper_DESC">Сохраняет предметы холодными. Требует энергии. Наиболее эффективен при установке в холодное место.</string>
-    <string name="Motorised Logistics Hopper">Моторизированный Логистический Бункер</string>
+    <string name="Motorised Logistics Hopper">Моторизированный Логистическое Хранилище</string>
     <string name="Motorised Logistics Hopper_DESC">Не реализован ввиду ограничения по свойствам конвейеров. Ой.</string>
     <string name="Solar Panel">Солнечная Батарея</string>
     <string name="Solar Panel_DESC">Генерирует энергию при дневном освещении. 
@@ -1084,8 +1084,8 @@
     <string name="ARTHER Charging Station_DESC">Быстро перезаряжает АРЧЕРа</string>
     <string name="Auto Builder">Авто-строитель</string>
     <string name="Auto Builder_DESC">Автоматически совершенствует конвейеры</string>
-    <string name="H.E.I.S.T._DESC">Гибкий Разгрузочный Автомат из Бункеров в Инвентарь Костюма - Автоматически перемещает предметы в инвентарь игрока. Сокращённо - ГРАБИК.</string>
-    <string name="H.E.I.S.T.">ГРАБИК</string>
+    <string name="H.E.I.S.T._DESC">Автомат Передачи Предметов из хранилищ в инвентарь Играка. Сокращённо - А.П.П.И.</string>
+    <string name="H.E.I.S.T.">А.П.П.И.</string>
     <string name="Slime Attractor">Слизневой Манок</string>
     <string name="Slime Attractor_DESC">Приманивает слизней.</string>
     <string name="Cryoplasm">Криоплазма</string>
@@ -1099,14 +1099,14 @@
     <string name="Minecart Empty Gate">Ворота пустых вагонеток</string>
     <string name="Minecart Empty Gate_DESC">В направлении КРАСНОЙ стрелки вагонетки разворачиваются, если они НЕ ПУСТЫЕ. В ЗЕЛЕНОМ направлении движение не ограничено.</string>
     <string name="Minecart Depot">Депо Вагонеток</string>
-    <string name="Minecart Depot_DESC">Размещает вагонетку из присоединенного Накопительного Бункера</string>
+    <string name="Minecart Depot_DESC">Размещает вагонетку из присоединенного хранилища</string>
     <string name="Minecart Brake">Вагонеточный тормоз</string>
     <string name="Minecart Brake_DESC">Замедляет вагонетку</string>
     <string name="Minecart Turbo Rail">Вагонеточные Турбо-рельсы</string>
     <string name="Minecart Turbo Rail_DESC">Ускоряет Вагонетку</string>
     <string name="Minecart Unload Station">Станция Разгрузки Вагонеток</string>
-    <string name="Minecart Unload Station_DESC">Разгружает ресурсы из вагонеток в смежные Бункеры</string>
-    <string name="Minecart Load Station_DESC">Загружает ресурсы в вагонетки из смежных Бункеров</string>
+    <string name="Minecart Unload Station_DESC">Разгружает ресурсы из вагонеток в смежные хранилище</string>
+    <string name="Minecart Load Station_DESC">Загружает ресурсы в вагонетки из смежных хранилищ</string>
     <string name="Minecart Load Station">Станция Загрузки Вагонеток</string>
     <string name="ARTHER Turret">Турель для АРЧЕРа</string>
     <string name="ARTHER Turret_DESC">Наделяет АРЧЕРа способностью убивать.</string>
@@ -1287,7 +1287,7 @@
     <string name="DapperScale_DESC">"  "</string>
     <string name="DapperFrame_DESC">"  "</string>
     <string name="DapperVIP_DESC">" "</string>
-    <string name="CryoChilled Missile Assembler_DESC">Используются Баллоны с Фризоном, накладывается эффект замедления на атакованных врагов. Плюс 15% дополнительного урона!</string>
+    <string name="CryoChilled Missile Assembler_DESC">Используются Баллоны с Морозом, накладывается эффект замедления на атакованных врагов. Даёт +15% дополнительного урона!</string>
     <string name="Steel Alloy Smelter_DESC">Выплавляет Низкокачественные Стальные Слитки из железа и никеля.</string>
     <string name="Butcherboy Floor Stone_DESC">" "</string>
     <string name="Out_Of_Storage">Нет Места</string>
@@ -1519,11 +1519,11 @@
     <string name="Bar Keeper">Хранитель слитков</string>
     <string name="CargoLiftController_DESC">" "</string>
     <string name="FALCOR MK1">ФАЛКОР МК1</string>
-    <string name="FALCOR MK1_DESC">Забирает предметы от ФАЛКОР-маяков. Необходим подсоединённый Накопительный Бункер.</string>
+    <string name="FALCOR MK1_DESC">Забирает предметы от ФАЛКОР-маяков. Необходимо подсоединённое хранилище.</string>
     <string name="Logistics FALCOR">Логистический ФАЛКОР</string>
-    <string name="Logistics FALCOR_DESC">Забирает предметы от ФАЛКОР-маяков, соединённых с Бункерами. Необходим подсоединённый Накопительный Бункер.</string>
+    <string name="Logistics FALCOR_DESC">Забирает предметы от ФАЛКОР-маяков, соединённых с хранилищем. Необходимо подсоединённое хранилище.</string>
     <string name="FALCOR Beacon">ФАЛКОР-Маяк</string>
-    <string name="FALCOR Beacon_DESC">Собирает предметы в подсоединённый бункер</string>
+    <string name="FALCOR Beacon_DESC">Собирает предметы в подсоединённом хранилище.</string>
     <string name="SpiderBotBase">Док-станция ПаукоБота</string>
     <string name="SpiderBotBase_DESC">" "</string>
     <string name="H.O.D.O.R.">ВРМ.</string>
@@ -1549,7 +1549,7 @@
     <string name="Bomber FALCOR">ФАЛКОР-бомбардировщик</string>
     <string name="Bomber FALCOR_DESC">Сбрасывает произведенные бомбы на плотные криоплазменные отростки в большом радиусе.</string>
     <string name="Freezon Injector">Фризоновый Инжектор</string>
-    <string name="Freezon Injector_DESC">Использует баллоны с Фризоном для повышения производительности некоторого оборудования.</string>
+    <string name="Freezon Injector_DESC">Использует баллоны с Морозом для повышения производительности некоторого оборудования.</string>
     <string name="Ruined Organic Thief">Сломанный Органикрад</string>
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал МК4</string>
@@ -1568,7 +1568,7 @@
     <string name="Crashed parts container_DESC">Содержит технические компоненты, которые можно использовать для исследований.</string>
     <string name="Critter">Существо</string>
     <string name="Critter_DESC">" "</string>
-    <string name="Ore Thief_CRAFT_DESC">Удобный способ удаления руды из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подсоединённый Бункер.</string>
+    <string name="Ore Thief_CRAFT_DESC">Удобный способ удаления руды из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подсоединённое хранилище.</string>
     <string name="Ore Thief_CRAFT_HINT">Не время лениться!</string>
     <string name="ConstructoBot Coppator Chassis Assembler_DESC">Собирает Корпуса Уровня 0 (Медировые) СтройБотов.</string>
     <string name="ConstructoBot Tindron Chassis Assembler_DESC">Собирает Корпуса Уровня 1 (Оловронные) СтройБотов.</string>
@@ -1730,7 +1730,7 @@
 
     <string name="MISSION_(R)otate the LPT towards the PSB">Поверните (клавиша «R») ЛЭП в направлении Энергохранилища!</string>
     <string name="MISSION_Place Tutorial Laser Transmitter">Разместите Базовый Лазерный Энергопередатчик</string>
-    <string name="MISSION_Place Tutorial Storage Hopper">Разместите Логистический Бункер</string>
+    <string name="MISSION_Place Tutorial Storage Hopper">По обучению постройте Хранилище</string>
     <string name="MISSION_Place Hoppers next to Ore Smelter">Разместите 2 Накопительных Бункера рядом с Плавильней.</string>
     <string name="MISSION_Set Smelter Hopper to Add-Only">Установите режим Бункера у Плавильни на «Только Загрузка».</string>
     <string name="MISSION_Set Smelter Hopper to Remove-Only">Установите режим Бункера у Плавильни на «Только Выгрузка».</string>
@@ -1832,8 +1832,8 @@
     <string name="MK2 Solar Panel Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Биореакторах и больших батареях!</string>
     <string name="MK2 Organic Solar Component_CRAFT_DESC">Генерирует среднее количество энергии в течение дня и малое количество ночью. Имеет те же ограничения на размещение, что и в обычной версии.</string>
     <string name="MK2 Organic Solar Component_CRAFT_HINT">Могут быть размещены только на лаборатории, Биореакторах и больших батареях!</string>
-    <string name="Pyrothermic Generator_CRAFT_DESC">Сжигает ресурсы в прикрепленном Бункере для энергоснабжения соседнего оборудования. С глубиной эффективность уменьшается из-за плохой вентиляции. Используйте Лазерные Энергопередатчики, для передачи энергии на бОльшие глубины.</string>
-    <string name="Pyrothermic Generator_CRAFT_HINT">Нужно подключить к Бункеру</string>
+    <string name="Pyrothermic Generator_CRAFT_DESC">Сжигает ресурсы в прикрепленном хранилище для энергоснабжения соседнего оборудования. С глубиной эффективность уменьшается из-за плохой вентиляции. Используйте Лазерные Энергопередатчики, для передачи энергии на большие глубины.</string>
+    <string name="Pyrothermic Generator_CRAFT_HINT">Нужно подключить к хранилищу</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Очень медленно передает энергию от генератора или аккумулятора энергии. Может питать оборудование, энергохранилища или другой энергопередатчик. Прикрепите к стене, чтобы передать энергию по вертикали.</string>
     <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Максимальная дальность : 64 метра. Усовершенствуйте как можно скорее.</string>
     <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Медленно передает энергию от генератора или аккумулятора энергии на расстояние до 64 м. Может питать оборудование, энергохранилища или другой энергопередатчик. Прикрепите к стене, чтобы передать энергию по вертикали.</string>
@@ -1850,13 +1850,13 @@
     <string name="Power Storage MK3_CRAFT_HINT">Подключите к оборудованию для его энергоснабжения</string>
     <string name="Induction Charger_CRAFT_DESC">Низкотехнологичный, но простой в использовании способ энергоснабжения большого количества оборудования. Постройте по схеме 5x1x5.</string>
     <string name="Induction Charger_CRAFT_HINT">Отлично подходит для Ракетных Батарей, Зарядных Устройств и Очистителей Смолы!</string>
-    <string name="Garbage Thief_CRAFT_DESC">Удобный способ удаления нежелательного мусора и прочей грязи из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подключенный Бункер.</string>
+    <string name="Garbage Thief_CRAFT_DESC">Удобный способ удаления нежелательного мусора и прочей грязи из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подключенное хранилище.</string>
     <string name="Garbage Thief_CRAFT_HINT">Не время лениться!</string>
     <string name="Bar Keeper_CRAFT_DESC">Автоматически удаляет слитки у игроков, когда они покидают сервер. Не слишком полезен для одиночной игры. Работает как Рудокрад, но для слитков! Постройте по схеме 3x3.</string>
     <string name="Bar Keeper_CRAFT_HINT">Не время лениться!</string>
-    <string name="Auto Organic Thief_CRAFT_DESC">Удобный способ удаления нежелательных органических компонентов из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подключенный Бункер.</string>
+    <string name="Auto Organic Thief_CRAFT_DESC">Удобный способ удаления нежелательных органических компонентов из вашего инвентаря. Постройте по схеме 3x3, затем встаньте на него! Требуется небольшое количество энергии и подключенное хранилище.</string>
     <string name="Auto Organic Thief_CRAFT_HINT">Не время лениться!</string>
-    <string name="H.E.I.S.T._CRAFT_DESC">Автоматически удаляет предметы из соседних Накопительных Бункеров и передает их игроку в пределах 5 метров.</string>
+    <string name="H.E.I.S.T._CRAFT_DESC">Автоматически удаляет Предметы из соседних хранилищ и Передает их Игроку в пределах 5 метров.</string>
     <string name="H.E.I.S.T._CRAFT_HINT">Не время лениться!</string>
     <string name="MK4 Battery Component_CRAFT_DESC">Сохраняет до 270000 единиц Энергии. Строится по схеме 3х3х3 (всего 27 блоков).</string>
     <string name="MK4 Battery Component_CRAFT_HINT">Сдвоенное Энергохранилище из батарей МК3!</string>
@@ -1866,11 +1866,11 @@
     <string name="MK5 Battery Component_CRAFT_HINT">Счетверённое Энергохранилище из батарей МК3!</string>
     <string name="Organic Power Storage_CRAFT_DESC">Действует как буфер между электрогенераторами и потребителями, сохраняя до 8500 единиц. Смежные Энергохранилища будут делить энергию поровну.</string>
     <string name="Organic Power Storage_CRAFT_HINT">Малая пропускная способность, большая емкость.</string>
-    <string name="Ore Extractor_CRAFT_DESC">Автоматически извлекает руду из жилы, к которой прикреплен. Объём хранилища можно увеличить, прикрепляя Накопительные Бункеры. Требуется энергия. Может быть модернизирован.</string>
-    <string name="Ore Extractor_CRAFT_HINT">Подключите к Бункеру для автоматического хранения</string>
+    <string name="Ore Extractor_CRAFT_DESC">Автоматически извлекает руду из жилы, к которой прикреплен. Объём склада можно увеличить, прикрепляя Хранилище. Требуется энергия. Может быть модернизирован.</string>
+    <string name="Ore Extractor_CRAFT_HINT">Подключите к хранилищу для автоматической передачи</string>
     <string name="MiniHopper_CRAFT_DESC">Хранилище начального уровня. Хранит до 10 ресурсов, но передает очень медленно.</string>
     <string name="MiniHopper_CRAFT_HINT">Очень медленно выбрасывает ресурсы.</string>
-    <string name="LogisticsHopper_CRAFT_DESC">Хранилище начального уровня. Хранит до 2 предметов, но передает быстрее, чем мини-бункер. Достаточно быстрый для основного экстрактора руды. Рассмотрите возможность параллельного использования.</string>
+    <string name="LogisticsHopper_CRAFT_DESC">Хранилище начального уровня. Хранит до 2 предметов, но передает быстрее, чем мини-хранилище. Достаточно быстрый для основного экстрактора руды. Рассмотрите возможность параллельного использования.</string>
     <string name="LogisticsHopper_CRAFT_HINT">Довольно быстро выбрасывает ресурсы.</string>
     <string name="Storage Hopper_CRAFT_DESC">Хранит до 100 ресурсов и быстро перемещает их. Используется для автоматизации оборудования. Установите соответствующие разрешения для обеспечения правильного потока ресурсов. См. запись в руководстве.</string>
     <string name="Storage Hopper_CRAFT_HINT">Может быть подключен к другому оборудованию для автоматизации.</string>
@@ -1880,7 +1880,7 @@
     <string name="Electric Light_CRAFT_DESC">Даёт холодный синий свет и требует энергии.</string>
     <string name="Electric Light_CRAFT_HINT">Освещает сектор в 180 градусов.</string>
     <string name="Emergency Siren_CRAFT_DESC">Прикрепите к любому энергопотребляющему оборудованию для звукового оповещения на случай отсутствия энергии.</string>
-    <string name="Emergency Siren_CRAFT_HINT">Также могут использоваться на Конвейерах и Накопительных Бункерах.</string>
+    <string name="Emergency Siren_CRAFT_HINT">Также могут использоваться на Конвейерах и хранилищах.</string>
     <string name="Red Warning Light_CRAFT_DESC">Прикрепите к любому энергопотребляющему оборудованию для красной световой индикации.</string>
     <string name="Red Warning Light_CRAFT_HINT">Старайтесь использовать пореже. Изрядно раздражает.</string>
     <string name="Warning Strobe_CRAFT_DESC">Прикрепите к любому энергопотребляющему оборудованию для звукового оповещения на случай отсутствия энергии.</string>
@@ -1911,7 +1911,7 @@
     <string name="Blue Canvas_CRAFT_HINT">Внимание : Расходует 1 единицу Строительной пасты!</string>
     <string name="Green Canvas_CRAFT_DESC">Зелёный холст для украшения базы</string>
     <string name="Green Canvas_CRAFT_HINT">Внимание : Расходует 1 единицу Строительной пасты!</string>
-    <string name="Ore Smelter_CRAFT_DESC">Переплавляет руду в слитки. Может управляться вручную или автоматически с использованием Накопительных Бункеров для загрузки и выгрузки ресурсов. См. справочник для получения дополнительной информации. Может быть модернизировано.</string>
+    <string name="Ore Smelter_CRAFT_DESC">Переплавляет руду в слитки. Может управляться вручную или автоматически с использованием хранилище для загрузки и выгрузки ресурсов. См. справочник для получения дополнительной информации. Может быть модернизировано.</string>
     <string name="Ore Smelter_CRAFT_HINT">Элемент МК2 - используйте его на начальных этапах!</string>
     <string name="Basic Ore Smelter_CRAFT_DESC">Переплавляет руду в слитки. Половина скорости и эффективности простой Плавильни, но наилучшая на данный момент. Нельзя модернизировать с помощью Усиливающих Индукторов. См. Справочник для получения дополнительной информации.</string>
     <string name="Basic Ore Smelter_CRAFT_HINT">Усовершенствуйте до Плавильни как можно скорее.</string>
@@ -1931,7 +1931,7 @@
     <string name="Turret MK2_CRAFT_HINT">Можете разместить на своей Плавильне, если хотите.</string>
     <string name="Turret MK3_CRAFT_DESC">Защита для больших расстояний. Дальность 72 метра. Низкая скорострельность, но высокий урон. Требуется энергия.</string>
     <string name="Turret MK3_CRAFT_HINT">Усовершенствуйте свои Турели МК2 с помощью дропа с врагов.</string>
-    <string name="Missile Turret MK1_CRAFT_DESC">Высокомощная система ракетной обороны. Будет нацелена только на крупных врагов. Боеприпасы должны быть изготовлены и храниться в соседнем Накопительном Бункере. Имеет минимальный радиус действия в 64 метра.</string>
+    <string name="Missile Turret MK1_CRAFT_DESC">Высокомощная система ракетной обороны. Будет нацелена только на крупных врагов. Боеприпасы должны быть изготовлены и находиться в соседнем хранилище. Имеет минимальный радиус действия в 64 метра.</string>
     <string name="Missile Turret MK1_CRAFT_HINT">Для осуществления оборонной функции, нужно заряжать производимыми ракетами.</string>
     <string name="Threat Scanner_CRAFT_DESC">Предоставляет систему раннего предупреждения. Оценивает угрозу, создаваемую вашей базой, и время до следующей атаки.</string>
     <string name="Threat Scanner_CRAFT_HINT">Разместите несколько установок для триангуляции источника опасности.</string>
@@ -1945,21 +1945,21 @@
     <string name="Threat Reducer_CRAFT_HINT">Выключается, когда работает Орбитальный Передатчик Энергии!</string>
     <string name="Threat Agitator_CRAFT_DESC">Поглощает некоторое количество энергии для увеличения степени Угрозы вашей базы. Применяйте для ускорения добычи Органики!</string>
     <string name="Threat Agitator_CRAFT_HINT">Усиливает угрозу на 10% и добавляет 5 врагов в волне.</string>
-    <string name="Basic Conveyor Belt_CRAFT_DESC">Медленный, но дешевый метод транспортировки материалов между Бункерами. Не требует энергии. Открытые конвейеры уязвимы к атакам и экстремальным температурам.</string>
+    <string name="Basic Conveyor Belt_CRAFT_DESC">Медленный, но дешевый метод транспортировки материалов между хранилищами. Не требует энергии. Открытые конвейеры уязвимы к атакам и экстремальным температурам.</string>
     <string name="Basic Conveyor Belt_CRAFT_HINT">Медленный, но эффективный</string>
-    <string name="Conveyor Belt_CRAFT_DESC">Используется для транспортировки материалов между Бункерами. Не требует энергии. Открытые конвейеры уязвимы к атакам и экстремальным температурам.</string>
+    <string name="Conveyor Belt_CRAFT_DESC">Используется для транспортировки материалов между хранилищами. Не требует энергии. Открытые конвейеры уязвимы к атакам и экстремальным температурам.</string>
     <string name="Conveyor Belt_CRAFT_HINT">Уязвим к экстремальному холоду!</string>
     <string name="Up Sloped Conveyor_CRAFT_DESC">Транспортирует в наклонных направлениях. Почти в 2 раза быстрее, чем прямой конвейер. Спасибо, Пифагор!</string>
     <string name="Up Sloped Conveyor_CRAFT_HINT">Уязвим к экстремальному холоду!</string>
     <string name="Down Sloped Conveyor_CRAFT_DESC">Транспортирует в наклонных направлениях. Почти в 2 раза быстрее, чем прямой конвейер. Спасибо, Пифагор!</string>
     <string name="Down Sloped Conveyor_CRAFT_HINT">Уязвим к экстремальному холоду!</string>
-    <string name="Conveyor Belt Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы обеспечить возможность ввода определённых типов материалов в конвейерную сеть.</string>
-    <string name="Conveyor Belt Filter_CRAFT_HINT">Установите между бункерами и конвейерами</string>
-    <string name="Advanced Conveyor Filter_CRAFT_DESC">Прикрепите к Накопительному Бункеру для выгрузки конкретных ресурсов в вашу логистическую сеть.</string>
+    <string name="Conveyor Belt Filter_CRAFT_DESC">Прикрепите к хранилище, чтобы обеспечить возможность ввода определённых типов материалов в конвейерную сеть.</string>
+    <string name="Conveyor Belt Filter_CRAFT_HINT">Установите между хранилищами и конвейерами</string>
+    <string name="Advanced Conveyor Filter_CRAFT_DESC">Прикрепите к хранилище для выгрузки конкретных ресурсов в вашу логистическую сеть.</string>
     <string name="Advanced Conveyor Filter_CRAFT_HINT">Позволяет отбирать определенные типы объектов.</string>
     <string name="Motorised Conveyor_CRAFT_DESC">Прикрепите к Накопительному Бункеру и подведите энергию для скоростной подачи ресурсов в наибыстрейшие транспортные системы!</string>
     <string name="Motorised Conveyor_CRAFT_HINT">Потребляет 5 единиц энергии на предмет. Направьте в сторону от Накопительного Бункера.</string>
-    <string name="Conveyor Turntable_CRAFT_DESC">Автоматически поворачивается после передачи предмета. Старайтесь не располагать рядом с Накопительными Бункерами и другими Поворотными столами. Используется для разделения линии.</string>
+    <string name="Conveyor Turntable_CRAFT_DESC">Автоматически поворачивается после передачи предмета. Старайтесь не располагать рядом с хранилищем и другими Поворотными столами. Используется для разделения линии.</string>
     <string name="Conveyor Turntable_CRAFT_HINT">Используется для разделения конвейерной линии.</string>
     <string name="Transport Pipe_CRAFT_DESC">Быстрый, но дорогостоящий метод передачи материалов между Накопительными Бункерами. Никакой энергии не требуется. Невосприимчивы к сильному холоду и менее восприимчивы к атакам.</string>
     <string name="Transport Pipe_CRAFT_HINT">Невосприимчив к сильному холоду.</string>
@@ -1967,7 +1967,7 @@
     <string name="Transport Pipe Filter_CRAFT_HINT">Может крепиться к стенам и потолкам</string>
     <string name="FALCOR Beacon_CRAFT_DESC">Отметьте 32-метровую область для ФАЛКОРов, чтобы автоматически собирать добычу. Требуется энергия.</string>
     <string name="FALCOR Beacon_CRAFT_HINT">Идеально подходит для сбора останков Ос!</string>
-    <string name="FALCOR MK1_CRAFT_DESC">Автоматически собирает выбранные предметы с ФАЛКОР-Маяков в пределах 256 метров. Требуется прикрепленный Накопительный Бункер.</string>
+    <string name="FALCOR MK1_CRAFT_DESC">Автоматически собирает выбранные предметы с ФАЛКОР-Маяков в пределах 256 метров. Требуется прикрепленное хранилище.</string>
     <string name="FALCOR MK1_CRAFT_HINT">Идеально подходит для сбора останков Ос!</string>
     <string name="Logistics FALCOR_CRAFT_DESC">Автоматически собирает выбранные предметы с ФАЛКОР-Маяков, установленных на Накопительных Бункерах.</string>
     <string name="Logistics FALCOR_CRAFT_HINT">Идеально подходит для низкопроизводительной, дальней логистики.</string>
@@ -1995,7 +1995,7 @@
     <string name="Missile Fueller_CRAFT_HINT">Теперь ракеты будут готовы к запуску!</string>
     <string name="Laser Resin Ablator_CRAFT_DESC">Использует концентрированные потоки энергии для абляции поверхности Твёрдой Смолы, что позволяет её сжижать, а затем очищать.</string>
     <string name="Laser Resin Ablator_CRAFT_HINT">Это оборудование создано для сбора полезного ресурса - Смолы, источаемой Разумами Роя.</string>
-    <string name="Laser Resin Liquifier_CRAFT_DESC">Разжижает и удаляет потоком плазмы мягкую Аблированную Смолу, оставшуюся после абляции Твёрдой Смолы. Прикрепите Накопительный Бункер.</string>
+    <string name="Laser Resin Liquifier_CRAFT_DESC">Разжижает и удаляет потоком плазмы мягкую Аблированную Смолу, оставшуюся после абляции Твёрдой Смолы. Прикрепите хранилище.</string>
     <string name="Laser Resin Liquifier_CRAFT_HINT">Это оборудование создано для сбора полезного ресурса - Смолы, источаемой Разумами Роя.</string>
     <string name="Liquid Resin Refiner_CRAFT_DESC">Преобразует Текучую Смолу в чрезвычайно полезную Очищенную Жидкую Смолу.</string>
     <string name="Liquid Resin Refiner_CRAFT_HINT">Используется в ряде высокотехнологичных рецептов, использующих органику.</string>
@@ -2113,7 +2113,7 @@
     <string name="Bulk Mass Storage Output Port_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="Mass Storage Controller_CRAFT_DESC">Питает Порты ввода-вывода Склада.</string>
     <string name="Mass Storage Controller_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
-    <string name="Macerator_CRAFT_DESC">Измельчитель перерабатывает и избавляет от нежелательной породы. Даёт небольшой шанс найти руду. Требуется энергия и Накопительный Бункер для найденной руды.</string>
+    <string name="Macerator_CRAFT_DESC">Измельчитель перерабатывает и избавляет от нежелательной породы. Даёт небольшой шанс найти руду. Требуется энергия и Хранилище для найденной руды.</string>
     <string name="Macerator_CRAFT_HINT">Имеет небольшой шанс добывать руду.</string>
     <string name="Auto Excavator_CRAFT_DESC">Автоматически выкапывает большую вертикальную шахту. Копает только вверх. Требуется энергия.</string>
     <string name="Auto Excavator_CRAFT_HINT">Не затрагивает руды.</string>
@@ -2254,7 +2254,7 @@
     <string name="ARTHER Pumpkin Mask_CRAFT_DESC">Изготавливается из Оранжевого стручка, что даёт приятное оранжевое свечение.</string>
     <string name="ARTHER Pumpkin Mask_CRAFT_HINT">Уууу-УУУУ-ууууу!</string>
     <string name="Laser Borer_CRAFT_HINT">Внимание! Опасно! Перед подачей топлива убедитесь, что он правильно установлен.</string>
-    <string name="Laser Borer_CRAFT_DESC">Использует ВЭКТ, чтобы усилить БЕЛ-9000 для бурения вертикальных шахт сечением 3х3 и с огромной скоростью добывать полезные ископаемые. Заправьте ВЭК-Топливом через прикрепленный Накопительный Бункер. Строится по схеме 3х3х3.</string>
+    <string name="Laser Borer_CRAFT_DESC">Использует ВЭКТ, чтобы усилить БЕЛ-9000 для бурения вертикальных шахт сечением 3х3 и с огромной скоростью добывать полезные ископаемые. Заправьте ВЭК-Топливом через прикрепленный Хранилище. Строится по схеме 3х3х3.</string>
     <string name="MK1 PowerCore Charger_CRAFT_DESC">Создает оборудование, способное автоматически изготавливать Энергоячейки. Энергоячейка даст энергию АРЧЕРу. Поместите в панель быстрого доступа, чтобы использовать.</string>
     <string name="MK1 PowerCore Charger_CRAFT_HINT">Запомните, Энергоячейки заряжаются Зарядниками!</string>
     <string name="MK2 PowerCore Charger_CRAFT_DESC">Создаёт одноразовую Энергоячейку, восполняющую энергию АРЧЕРа. Поместите в панель быстрого доступа, чтобы использовать.</string>
@@ -2404,11 +2404,11 @@
     <string name="Spiderbot Base Component_CRAFT_DESC">Док-станция позволяет обновлять, перезаряжать и снабжать ПаукоБота. Строится в виде квадрата 15х15 (всего 225 шт.).</string>
     <string name="Spiderbot Base Component_CRAFT_HINT">Настройка сборочной линии для Док-станции ПаукоБота сделает вашу жизнь намного проще!</string>
     <string name="SpiderBot Blaster_CRAFT_DESC">Стреляет быстро, малая поражающая способность. Идеально подходит для малых и средних целей.</string>
-    <string name="SpiderBot Blaster_CRAFT_HINT">После сборки поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
+    <string name="SpiderBot Blaster_CRAFT_HINT">После сборки поместите его в хранилище, расположенный рядом с Док-станцией ПаукоБота.</string>
     <string name="SpiderBot Cannon_CRAFT_DESC">Низкая скорострельность, большая поражающая способность с уроном по площади. Наводится на цели от малых до больших, специализируясь на средних целях.</string>
-    <string name="SpiderBot Cannon_CRAFT_HINT">После сборки поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
+    <string name="SpiderBot Cannon_CRAFT_HINT">После сборки поместите его в хранилище, расположенный рядом с Док-станцией ПаукоБота.</string>
     <string name="SpiderBot Particle Rifle_CRAFT_DESC">Стреляет быстро, устанавливается на плечи. Идеально подходит для малых и больших целей.</string>
-    <string name="SpiderBot Particle Rifle_CRAFT_HINT">После сборки, поместите его в Бункер, расположенный рядом с Док-станцией ПаукоБота.</string>
+    <string name="SpiderBot Particle Rifle_CRAFT_HINT">После сборки поместите его в хранилище, расположенный рядом с Док-станцией ПаукоБота.</string>
     <string name="Storage Crate_CRAFT_DESC">Простой деревянный ящик, который может хранить небольшое количество предметов. Невозможно автоматизировать. Для увеличения объема хранилища можно объединить несколько ящиков.</string>
     <string name="Storage Crate_CRAFT_HINT">Соедините несколько ящиков вместе, чтобы увеличить доступное пространство.</string>
     <string name="Red Storage Crate_CRAFT_DESC">Простой деревянный ящик, который может хранить небольшое количество предметов. Невозможно автоматизировать. Для увеличения объема хранилища можно объединить несколько ящиков.</string>
@@ -2451,7 +2451,7 @@
     <string name="Servo Motor_CRAFT_HINT">Минимальный крутящий момент.</string>
     <string name="Lightweight Machine Housing_CRAFT_DESC">Небольшой металлический короб, используемый в легких конструкциях.</string>
     <string name="Lightweight Machine Housing_CRAFT_HINT">Не использовать для тяжелого оборудования!</string>
-    <string name="Auto Upgrader_CRAFT_DESC">Обновляет существующие конвейерные линии до более высокого уровня. Требуется энергия и подключенный Накопительный Бункер, содержащий новые конвейеры. См. Запись в справочнике.</string>
+    <string name="Auto Upgrader_CRAFT_DESC">Обновляет существующие конвейерные линии до более высокого уровня. Требуется энергия и подключенный Хранилище, содержащий новые конвейеры. См. Запись в справочнике.</string>
     <string name="Auto Upgrader_CRAFT_HINT">Существенно экономит время!</string>
     <string name="Copper Housing_CRAFT_HINT">Для безопасного хранения предметов низкого уровня.</string>
     <string name="Copper Housing_CRAFT_DESC">Медный Корпус.</string>
@@ -2561,7 +2561,7 @@
     <string name="Magma Storage_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник Криоплазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
     <string name="Cryo Inferno_CRAFT_HINT">Для уничтожения источника Криоплазмы турель КриоИнферно должна жечь его в течение 15 минут, при этом не должно быть перерывов дольше 30 секунд. Удачи.</string>
-    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к Накопительному Бункеру, чтобы подать Баллоны со Сжатым Фризоном в совместимое оборудование.</string>
+    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к хранилищу, чтобы подать Баллоны со сжатым морозом в совместимое оборудование.</string>
     <string name="Freezon Injector_CRAFT_HINT">Посмотрите в справочнике список совместимого оборудования и эффектов.</string>
     <string name="OverClocker_CRAFT_DESC">Разгоняет существующие Кристаллические Тактовые Генераторы на более высокую частоту, используя для этого больше энергии.</string>
     <string name="OverClocker_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -2662,7 +2662,7 @@
     <string name="ARTHER_Reminder">"Напоминание: у вас "</string>
     <string name="ARTHER_NoSolar">У АРЧЕРа заканчивается энергия! Здесь нет доступа к солнечной энергии.</string>
     <string name="ARTHER_NoPowerCore">ОШИБКА, НЕ ОБНАРУЖЕНО СИЛОВОЕ ЯДРО АРЧЕРА. ++?????++ Out of Cheese Error. Повторите с начала.</string>
-    <string name="Tutorial_Smelter_Permissions">Внимание! Плавильня обнаружила установленный на загрузку/выгрузку Накопительный Бункер - не хотите ли настроить режим бункера?</string>
+    <string name="Tutorial_Smelter_Permissions">Внимание! Плавильня обнаружила установленный на загрузку/выгрузку Хранилище - не хотите ли настроить режим хранилище?</string>
 
 <string name="Menu_Quit">ВЫХОД</string>
     <string name="OE_Retrieve">ЛКМ - забрать</string>
@@ -2691,13 +2691,13 @@
     <string name="Quad_Matter_Mover">Четырехкратный Переносчик Материи</string>
     <string name="Multi_Matter_Mover">Мульти-Переносчик Материи</string>
     <string name="MM_AddPower">Запитайте, чтобы начать перенос материи</string>
-    <string name="MM_Aim_1">"Нацельтесь на Бункер на расстоянии до "</string>
+    <string name="MM_Aim_1">"Нацельтесь на Хранилище на расстоянии до "</string>
     <string name="MM_Aim_2">м.</string>
-    <string name="MM_HopperError">Присодиненный бункер пуст или заперт!</string>
-    <string name="MM_HopperFull">Принимающий бункер полон!</string>
+    <string name="MM_HopperError">Присоединенное хранилище пусто или заперто!</string>
+    <string name="MM_HopperFull">Принимающие хранилище полоное!</string>
     <string name="MM_TooClose">Мин. расстояние 1 м; измените направление!</string>
     <string name="MM_NoHopper">Присоедините к незапертому бункеру!</string>
-    <string name="MM_Holding">Удерж.</string>
+    <string name="MM_Holding">Удерживается</string>
     <string name="MM_PastTense">Перенесено</string>
     <string name="World Settings">Настройки Мира</string>
     
@@ -2746,7 +2746,7 @@
   <string name="Hint_15">Обогащенный Уголь обладает повышенным выходом энергии при сжигании в Пиротермическом Генераторе</string>
   <string name="Hint_16">Миноки появляются на конвейерах и пожирают ваши ресурсы, добытые тяжким трудом</string>
   <string name="Hint_17">Лаборатория использует Экспериментальные ячейки для проведения исследований</string>
-  <string name="Hint_18">Разместите Бункер рядом с оборудованием, чтобы загружать ресурсы для производства</string>
+  <string name="Hint_18">Разместите Хранилище рядом с оборудованием, чтобы загружать ресурсы для производства</string>
   <string name="Hint_19">Оборудование будет работать медленнее, если поступление энергии ниже указанного (Э/с) в спецификации</string>
   <string name="Pajitnov_Complex">Комплекс Пажитнова</string>
 <string name="Hint_20">Загрузите Направляющие в Контроллер Грузового Лифта, чтобы он мог спускаться дальше</string>
@@ -2762,7 +2762,7 @@
   <string name="Hint_32">Базовые Плавильни позволят ускорить производство на стадии, когда первой Плавильни будет уже недостаточно</string>
   <string name="Hint_33">Уровень Энергии АРЧЕРа отображается чуть выше Панели быстрого доступа</string>
   <string name="Perfectionist_DESC">Откройте все достижения FortressCraft</string>
-<string name="Hint_34">Полная Fortress энергия и время суток отражаются ниже Панели быстрого доступа</string>
+<string name="Hint_34">Полная информация о энергии и времени суток отражаются ниже Панели быстрого доступа</string>
   <string name="Hint_35">Наклонные конвейеры быстрее (и красивее), чем обычные Конвейеры</string>
   <string name="Hint_37">Автоматизируйте производство, чтобы сэкономить время и пространство.</string>
   <string name="Hint_39">Ищите Кристаллы в подземных пещерах. Кристаллы можно разместить для освещения без энергозатрат.</string>
@@ -2939,7 +2939,7 @@
 <string name="CB_failed_get_storage_machine_">СтройБот не смог найти хранилища!</string>
 
 <string name="Transferred">Перемещено</string>
-<string name="free_slots">свободных ячеек</string>
+<string name="free_slots">свободные ячейки</string>
 <string name="bars_from_Inventory">слитков из инвентаря!</string>
 
 <string name="items_from_Inventory">предметов из инвентаря</string>
@@ -3083,7 +3083,7 @@
 <string name="CPH_Offline_defences_offline">ЦЭК выключен - оборона отключена.</string>
 
 <string name="Snail">Улиточка</string>
-<string name="Unable_locate_Hopper">Бункер не обнаружен</string>
+<string name="Unable_locate_Hopper">Хранилище не обнаружено</string>
 <string name="Crafted">Изготовлено</string>
 <string name="No_contextual_help_available_at_the_current_time">В данном случае контекстной помощи нет.</string>
 <string name="Materials">Материалы</string>
@@ -3276,7 +3276,7 @@
 <string name="No_Attached_SH_or_MS_found">Бункеры или Склады не подсоединены</string>
 <string name="MS_units">Модули Склада</string>
 <string name="Storage_Hoppers">Бункеры</string>						
-<string name="Storage_Hopper">Бункер</string>
+<string name="Storage_Hopper">Хранилище</string>
 <string name="No_Attached_SH_found">Нет соединения с Бункером</string>
 <string name="N_C_to_CCB">Нет соединения с Машиной непрерывного литья</string>
 <string name="State">Состояние</string>
@@ -3344,7 +3344,7 @@
 <string name="CPH_Idling_all_attached_power_full">ЦЭК простаивает, т.к. в смежном 
 оборудовании Энергия на максимуме!</string>
 <string name="Needs_resources_Attach_SH_automate">Требуются ресурсы. Подсоедините
-Накопительный Бункер для автоматизации.</string>
+хранилище для автоматизации.</string>
 <string name="Burning">Сжигается</string>
 <string name="for">за</string>
 <string name="Time_left">осталось.</string>
@@ -3358,8 +3358,8 @@
 <string name="Holding">Удерживается</string>
 <string name="segments">сегментов</string>
 <string name="CB_inserted">СтройБот выгружен</string>
-<string name="SH_full_or_locked">Бункер полон или заперт!</string>
-<string name="SH_empty">Бункер пуст!</string>
+<string name="SH_full_or_locked">Хранилище полно или заперто!</string>
+<string name="SH_empty">Хранилище пустое!</string>
 <string name="Warning_Basin_overheating_Place_much_colder">Внимание! Машина перегревается! Переместите туда, где холоднее!</string>
 <string name="Casting">Литьё</string>
 
@@ -3515,10 +3515,10 @@
   <string name="Stock_X_X">Запас: {0}/{1}</string>
   <string name="Collect_items_above_limit">Накапливать при превышении предела</string>
   <string name="Processing">Обработка...</string>
-  <string name="Mini_Hopper_Small_Very_Slow">Мини-Бункер (Маленький и очень медленный)</string>
-  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Логистический Бункер</string>
+  <string name="Mini_Hopper_Small_Very_Slow">Мини-хранилище (Маленький и очень медленный)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Логистическое Хранилище</string>
   <string name="Internal_Temp_X_C_Power_X">Внутр. температура: {0}°C. Энергия: {1}</string>
-  <string name="Hopper_full">Бункер полон!</string>
+  <string name="Hopper_full">Хранилище заполнено!</string>
   <string name="Q_to_retrieve_contents">«Q» - забрать содержимое</string>
   <string name="Failed_Inventory_Full">Не получилось! 
 Инвентарь переполнен?</string>
@@ -3526,8 +3526,8 @@
 <string name="Add_Remove">Загрузка/выгрузка</string>
   <string name="ERR_TOO_COLD">ОЧЕНЬ ХОЛОДНО</string>
   <string name="Tut_9_Title">Удачи!</string>
-  <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно связать с Бункерами любого вида.
-Однако, если Бункеры настроены неправильно, может случиться беда! Настройте режимы бункеров так, чтобы один работал только на загрузку, а второй только на выгрузку ресурсов. Положите руду в Бункер с режимом «Только Выгрузка», и слитки из Плавильни будут сгружаться в другой бункер.</string>
+  <string name="Mission_Smelting_Automation">Автоматизация - ключ к успеху! Вашу плавильню можно связать с хранилищем любого вида.
+Однако, если хранилище настроены неправильно, может случиться беда! Настройте режимы хранилищ так, чтобы один работал только на загрузку, а второй только на выгрузку ресурсов. Положите руду в хранилище с режимом «Только Выгрузка», и слитки из Плавильни будут сгружаться в другое хранилище.</string>
   <string name="Smelting_Automation">Автоматизация выплавки слитков</string>
   <string name="Insert_Ore_to_start">Загрузите руду</string>
   <string name="Need">Нужно</string>
@@ -3558,7 +3558,7 @@
   <string name="Unknown">Неизв.</string>
   <string name="X_Bars_X_Ores_X_Power">({0} Слитков/ {1} Руды/ {2} Э/ в мин</string>
   
-<string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Поместите Испорченную органику в смежный Бункер!</string>
+<string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Поместите Испорченную органику в присоединённое хранилище!</string>
   
 <string name="Add_Ore_to_begin">Для запуска
 нужна руда!</string>
@@ -3648,7 +3648,7 @@
 <string name="Hamster">Хомяк</string>
 <string name="Sloth">Ленивец</string>
 <string name="Tortoise">Черепашка</string>
-<string name="Unable_locate_Freezon_Gas_hopper">В Бункере нет Фризона</string>
+<string name="Unable_locate_Freezon_Gas_hopper">В Хранилище нет болона с морозом</string>
 <string name="Optimal_temperature_diff_reached">Достигнут оптимальный перепад температур!</string>
 <string name="Temperature_diff">Перепад температур</string>
 <string name="Rush_mode_active_boost_on">Включён режим спешки - погнали!</string>
@@ -3782,8 +3782,9 @@
 Найдите свой первый ЭР и откройте его интерфейс, нажав «E». Передайте в него 200 Энергии, которой хватит на 8 минут работы!</string>
   <string name="Tut_4_Title">Бункеры</string>
   <string name="Tut_4_Text">
-Бункеры используются в качестве хранилищ и для управления логистикой.
-Ваше оборудование может как загружать что-либо в Бункер, так и выгружать. Найдите Бункер и нажмите «Q», чтобы выгрузить из него добытый ранее Уголь к себе в инвентарь.</string>
+Хранилище используются для автоматизации.
+Ваше оборудование может как загружать что-либо в Хранилище, так и выгружать.
+Найдите Хранилище и нажмите «Q», чтобы выгрузить из него добытый ранее Уголь к себе в инвентарь.</string>
   <string name="Tut_5_Text">
 У вас есть Сканер, с помощью которого вы можете искать в окружающем пространстве известные и неизвестные материалы и предметы. При обнаружении чего-либо неизвестного его нужно просканировать.
 Сейчас попробуйте найти что-либо непросканированное, нацельтесь на это и удерживайте ПКМ, пока сканирование не завершится.</string>
@@ -3808,8 +3809,8 @@
   <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Вы погибли от токсичных испарений
 Изготовьте Противогаз!</string>
   <string name="Idle">Простаивает</string>
-<string name="Storage_full">Бункер полон</string>
-  <string name="Storage_Empty">Бункер пуст</string>
+<string name="Storage_full">Хранилище заполненно</string>
+  <string name="Storage_Empty">Хранилище пустое</string>
   <string name="X_free_slots">Свободно: {0}</string>
   <string name="Arther_hint_14">Указания?!</string>
 <string name="Arther_hint_17">Я ТАКИ БУДУ СНОШАТЬ ЭТОТ ЛАЗЕР!</string>
@@ -3820,7 +3821,7 @@
   <string name="OET_Charge">Заряд ОПЭ</string>
   <string name="No_charged_OET_located">Обнаружен незаряженный Орбитальный Передатчик.</string>
   <string name="Overmind_within">Сверхразум в пределах</string>
-  <string name="Unable_clear_output_hopper">Не получается очистить Бункер на выходе</string>
+  <string name="Unable_clear_output_hopper">Не получается очистить хранилище на выходе</string>
   <string name="You_cannot_build_with_X">Невозможно построить из {0}!</string>
 
   <string name="You_cannot_build_with_unknown_items">Вы не можете строить из неизвестных объектов!</string>
@@ -3864,7 +3865,7 @@
   <string name="Stocking_X">Хранится: {0}</string>
   <string name="Stockpile_cleared">Хранилище освобождено!</string>
   
-<string name="Cryo_Hopper">Крио-Бункер</string>
+<string name="Cryo_Hopper">Крио-Хранилище</string>
   <string name="Overheating_NEEDS_MORE_POWER">Перегревается! НУЖНО БОЛЬШЕ ЭНЕРГИИ!</string>
   <string name="Overheating_Contents_Spoiling">Перегревается! Содержимое портится!</string>
   <string name="CryoStorage_Active">Криостат активирован!</string>
@@ -3897,7 +3898,7 @@
   <string name="Grinder_cannot_function_without_active_C5">Дробилке для функционирования требуется наличие активного Центра Климат-Контроля Холодных Пещер</string>
   <string name="Grinding_X">Дробление: {0}</string>
   <string name="CPH_Offline_Borer_Offline">ЦЭК выведен из строя; Бур отключен.</string>
-  <string name="Unable_to_locate_input_Storage_Hopper">Подающий Бункер не найден</string>
+  <string name="Unable_to_locate_input_Storage_Hopper">Подающие хранилище не найдено</string>
   <string name="Looking_for_High_Energy_Composite_Fuel">Поиск Высокоэнергетического Композитного Топлива...</string>
   
   <string name="Offloading_to_Magma_Storage_Unit">Передача в Хранилище Магмы</string>
@@ -3969,23 +3970,23 @@
 <string name="PeakBuilds">ПиковоеСтроительство</string>
 <string name="CB_collected">СтройБот собран</string>
 <string name="C5_Offline_defences_offline">ЦКК не активен - Защита отключена.</string>
-<string name="Use_Freezon_Injector_supercharge_Lancer">Используйте Фризоновый Инжектор для зарядки Копья.</string>
-<string name="Storing_Freezon_ready_inject">Фризон накоплен, готов к инжекции!</string>
-<string name="No_Freezon_compatible_machine_located">Фризон-совместимого оборудования не обнаружено</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">Используйте Морозный Инжектор для зарядки Копья.</string>
+<string name="Storing_Freezon_ready_inject">Хранилище накоплено Морозом, готов к инжекции!</string>
+<string name="No_Freezon_compatible_machine_located">Морозно-совместимого оборудования не обнаружено</string>
 
 <string name="Attempting_drop">Попытка выгрузки</string>
-<string name="into_hopper">в Бункер!</string>
+<string name="into_hopper">в хранилище!</string>
 <string name="Failed_insert">Не удалось подать</string>
-<string name="into_storage_hopper">в Бункер?</string>
+<string name="into_storage_hopper">в хранилище?</string>
 
 <string name="No_Valid_attached_Hoppers">Нет присоединенных Бункеров!</string>
 <string name="Looking_in_attached_hopper">Поиск в присоединенном Бункере:</string>
-<string name="s_Freezon_boost_left">с до конца Фризонового усиления!</string>
-<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Загрузите Баллон с Фризоном в Бункер для увеличения Э/с в 20 раз!</string>
+<string name="s_Freezon_boost_left">с до конца Морозного усиления!</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Загрузите Баллон с Морозом в хранилище для увеличения Э/с в 20 раз!</string>
 <string name="Placing_verifying_pipes">Размещение и проверка труб.</string>
 <string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
 <string name="Cant_locate_pipes_in_adjacent_SH">Нет труб в присоединенном Бункере!</string>
-<string name="Freezon_Gas_required_full_performance">Для максимальной эффективности нужен Фризон!</string>
+<string name="Freezon_Gas_required_full_performance">Для максимальной эффективности нужен болон с морозом!</string>
 <string name="Handy_Hint_2">Супер-строительство позволяет вносить существенные изменения в мир - попробуйте!</string>
 <string name="SuperBuild_lets_you_create_massive_structures_quickly">СуперСтроительство позволяет быстро создавать громадные структуры. Жмите «F10» чтобы выйти</string>
 <string name="Schematics_lets_you_easily_duplicate_your_creations">Схемы позволяют с лёгкостью копировать ваши творения. «F11» - выход</string>
@@ -4413,8 +4414,8 @@
 	
 	<string name="HerbiCor">Гербикор</string>
 	<string name="HerbiCor_DESC">Собирает ближайшие растения на поверхности планеты.
-Для работы использует подсоединенный бункер.</string>
-	<string name="HerbiCor_CRAFT_DESC">Собирает ближайшие растения на поверхности планеты. Для работы использует подсоединенный бункер.</string>
+Для работы использует подсоединенное хранилище.</string>
+	<string name="HerbiCor_CRAFT_DESC">Собирает ближайшие растения на поверхности планеты. Для работы использует подсоединенное Хранилище.</string>
 	<string name="HerbiCor_CRAFT_HINT">А ещё положительно влияет на частоту кадров!</string>	
 	
 	<string name="Generic Room Controller_DESC">Перемещает все предметы направо, если направление не блокировано. В ином случае - налево.</string>
@@ -4483,7 +4484,7 @@
   <string name="I_Understand">Понятно</string>
   <string name="UI_T1_Vertical_Piston_Lift">Лифт с нижним поршнем (1 уровень)</string>
   <string name="UI_Current_Range_X">Текущая высота: {0}</string>
-  <string name="UI_Adjust_range">Настройте высоту с помощью «Q» и «E»</string>
+  <string name="UI_Adjust_range">Настройте высоту с помощью «Q» и «E».</string>
   <string name="UI_Powerd_compresser_required_X_m">Для подъёма на высоту более {0}м требуется Лифтовой Компрессор</string>
   <string name="UI_Current_Pressure_X_X_bar">Текущее давление: {0}/{1}бар</string>
   <string name="UI_Stored_pressure_X_bar">запас давления: {0}бар</string>
@@ -4517,7 +4518,7 @@
   <string name="UI_youve_killed_X_mobs_in_X_waves_lost_X_time">Вы убили {0} мобов в {1} волнах, и {2} - за последнее время</string>
   <string name="UI_No_threats_dected">Угрозы не обнаружено...</string>
   <string name="UI_Tutorial_active">Режим обучения активирован!</string>
-  <string name="UI_Press_E_Open_CPH_add_resources">Откройте интерфейс ЦЭК клавишей «E» и нажмите там «Add Resources».</string>
+  <string name="UI_Press_E_Open_CPH_add_resources">Откройте интерфейс ЦЭК клавишей «E» и нажмите там «Add Resources»!</string>
   <string name="UI_Coal_burn_effiency_X">Эффективность сжигания угля: {0}</string>
   <string name="UI_E_to_configure">Используйте «E» для доступа к интерфейсу</string>
   <string name="UI_X_percent_damaged">{0}% повреждено</string>
@@ -4533,16 +4534,16 @@
   <string name="LPT_found_nothing">Лазерный луч ушёл в пустоту - необходимо переставить!</string>
   <string name="LPT_searching_for_PIC_X_X">Лазерный луч ищет интерфейс потребителя энергии ({0}/{1})...</string>
   <string name="OS_E_put_materials_in_smleter_or_hopper">Используйте «E», чтобы поместить материалы в плавильню,
-или разместите рядом бункер.</string>
+или разместите рядом хранилище.</string>
   <string name="OS_heating_X_X_C">Нагрев: {0}/{1}°C</string>
-  <string name="OS_X_raw_X_ready_smelting">Приготовлено для выплавки: {0}*{1}</string>
-  <string name="OS_Smelting_X_X_complete_X_more_ready_smelting">Плавится {0} (завершено на {1}%)
-Для следующего цикла необходимо ещё {2} ед. сырья</string>
+  <string name="OS_X_raw_X_ready_smelting">{0} сырье {1} готово для переплавки!</string>
+  <string name="OS_Smelting_X_X_complete_X_more_ready_smelting">Плавится {0}. Завершено на {1}%
+Для следующего цикла необходимо ещё {2} ед. руды!</string>
   <string name="OS_Power_X_percent_X_PPS">Энергия {0}% ({1} Э/с)</string>
   <string name="Efficiency_X_Q_reset">Эффективность: {0} («Q» для сброса)</string>
   <string name="Need_more_X_E_more_mat_in_smelter_X_ready">Необходимо больше {0}!
 Откройте интерфейс плавильни с помощью «E», чтобы добавить руду.
-{1} ед. сырья уже готово.</string>
+{1} руды готово к переплавки!</string>
   <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft определил, что вы используете {0} - если вы используете игровой ноутбук, то, пожалуйста, воспользуйтесь более производительным графическим адаптером! Если это Ваш единственный графический адаптер, тогда вы, вероятно, столкнетесь с рядом проблем с визуальными эффектами или производительностью.</string>
   <string name="UI_Fastest_selected">Выбрана быстрая детализация!</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft обнаружил, что игра работает в режиме \"FASTEST\". Эта настройка предназначена только для очень слабых компьютеров и с минимальным объемом оперативной памяти, эта настройка не рекомендуется для обычного игрового процесса. У вас будут низкополигональные модели и размытые текстуры.</string>
@@ -4562,8 +4563,8 @@
 
 Чанков прогруженно {0}</string>
   <string name="UI_Attached_to_lift">Подключено к лифту</string>
-  <string name="UI_Compresspr_active">Компрессор активен</string>
-  <string name="UI_Compressor_Idle">Компрессор простаивает</string>
+  <string name="UI_Compresspr_active">Компрессор активен!</string>
+  <string name="UI_Compressor_Idle">Компрессор простаивает.</string>
   <string name="UI_Lifts_limited_Network_clients">Лифты имеют ограничение в 64м для сетевой игры. Извините!</string>
   <string name="UI_Lift_Manual_control">Лифт управляется вручную</string>
   <string name="UI_Work_complete_No_blocks_to_shoot">Задача завершена. Осутствуют блоки для удаления</string>
@@ -4574,12 +4575,12 @@
   <string name="UI_Press_Q_Reset">Нажми Q для сброса</string>
   <string name="UI_Upgrade_complete_X_upgraded">Улучшение завершено - {0} конвейеров улучшено</string>
   <string name="UI_Low_Power">Недостаточно энергии!</string> 
-  <string name="UI_Need_attached_hopper">Требуется присоединенный бункер</string>
+  <string name="UI_Need_attached_hopper">Требуется присоединенное хранилище!</string>
   <string name="UI_Unable_locate_conveyors_for_upgrade">Не обнаружено конвейеров для улучшения!</string>
   <string name="UI_serach_Distance_X">Дистанция поиска {0} м</string>
   <string name="UI_Conersions_X">Преобразование {0}</string>
   <string name="UI_Blocked_Please_clear">Блокирован! Проверьте и отчистите!</string>
-  <string name="UI_Build_complete">Строительство завершено</string>
+  <string name="UI_Build_complete">Строительство завершено!</string>
   <string name="UI_Needs_X_more_power">Требуется еще {0} энергии</string>
   <string name="UI_Looking_valid_hopper">Поиск присоединенного хранилища!</string>
   <string name="UI_Looking_for_Basic_Conveyor">Поиск базового конвейера…</string>
@@ -4641,10 +4642,9 @@
 Создает трубы из слитков</string>
   <string name="UI_Bender_desc">Сгибающий станок
 Сгибает</string>
-  <string name="UI_Adv_conv_filter_desc">Улучшенный конвейерный фильтр
-</string>
+  <string name="UI_Adv_conv_filter_desc">Улучшенный конвейерный фильтр.</string>
   <string name="UI_Transport_pipe_desc">Транспортная труба
-Быстрая и защищенная транспортировка</string>
+Быстрая и защищенная транспортировка.</string>
   <string name="UI_Conv_belt_filter">Конвейерный фильтр</string>
   <string name="UI_trasnport_pipe_filter">Фильтр Транспортной Трубы</string>
   <string name="UI_Transporting_X">Перемещается: {0}</string>
@@ -4675,7 +4675,7 @@
   <string name="UI_Location_marker_no_location">Маркер не содержит координат</string>
   <string name="UI_Target_X_m_away">Цель дальше {0}м</string>
   <string name="UI_Stand_Teleporter_Jump_activate">Встаньте на телепорт и нажмите прыжок для активации</string>
-  <string name="UI_Q_Selfdestruct">Нажмите Q для самоуничтожения</string>
+  <string name="UI_Q_Selfdestruct">Нажмите Q для самоуничтожения.</string>
   <string name="UI_Rocket_abort">ПРЕРВАНО ПОЛЬЗОВАТЕЛЕМ</string>
   <string name="UI_Launch_in_Progres">Запуск...</string>
   <string name="UI_Press_Q_scan_construction">Нажмите Q для сканирования</string>
@@ -4700,4 +4700,12 @@
   <string name="UI_No_Threads_detected">Угрозы не обнаружены...</string>
   <string name="UI_Next_attack_X_s">Следующая атака через {0}с</string>
   <string name="UI_Quarry">Карьер</string>
+  <string name="UI_Scanning_Ablated_Resin_X_complete">Сканирование на абляционную смолу - {0} завершено</string>
+  <string name="UI_Place_Facing_Conveyor">Пожалуйста, поставьте перед Конвейером!</string>
+  <string name="UI_Holding_X_ready_for_spidy">"Удерживание [{0}] готово для РобоПаука! "</string>
+  <string name="UI_Power_IN_X_avg_X">Приём энергии: {0} (Среднее: {1})</string>
+  <string name="UI_Power_OUT_X_avg_X">Вывод энергии: {0} (Среднее: {1})</string>
+  <string name="UI_Collecting_rate_X_Percent">Сбор со скоростью {0}%</string>
+  <string name="UI_Vat_not_formed_loading_bug">Чанки не формируются после загрузки. Баг!</string>
+  <string name="UI_Vat_State_X">Состояние чанков: {0}</string>
   </resources>
