@@ -2,4 +2,18 @@
 <resources><string name="CO.Advanced_Defence.Title">Defensa Avanzada</string>
 <string name="CO.Advanced_Defence.00.Title">Defensa Avanzada</string>
 <string name="CO.Advanced_Defence.01.Paragraph">Hemos diseñado con éxito las torres de misiles y realizamos más mejoras en la torreta de energía. ¡Tendremos que fabricar misiles y esto requerirá un suministro de combustible!</string>
+<string name="CO.Advanced_Logistics.Title">Logísticas Avanzadas</string>
+<string name="CO.Advanced_Logistics.00.Title">Logísticas Avanzadas</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">Ahora tenemos un nuevo sistema de almacenamiento masivo y un mecanismo de clasificación para mover el mineral entre las cintas transportadoras.</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">Mejoras de Minería Avanzada</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">Mejoras de Minería Avanzada</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">Nuevas mejoras para el extractor de mineral y el horno de fundición están disponibles. Además, por fin hemos perfeccionado el sistema de la Cantera. Usa el Topógrafo Geológico para identificar una localización principal para poner la cantera para que empiece las operaciones mineras.</string>
+<string name="CO.Advanced_Power_Grid.Title">Red Eléctrica Avanzada</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Red Eléctrica Avanzada</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">Hemos hecho nuevas mejoras en nuestra infraestructura energética incluyendo un nuevo Bloque de Almacenamiento de Energía y un Transmisor Láser de Energía</string>
+<string name="CO.Advanced_Power_Grid.02.Paragraph">Además también tenemos unos diseños provisionales para un nuevo tipo de Generador de Energía, de todas formas para completar esta investigación también tenemos que encontrar una forma de energía más densa que el carbón en el que tanto hemos confiado hasta ahora.</string>
+<string name="CO.Advanced_Research.Title">Investigación Avanzada</string>
+<string name="CO.Advanced_Research.00.Title">Investigación Avanzada</string>
+<string name="CO.Advanced_Research.01.Paragraph">Ahora tenemos un diseño para un laboratorio de investigación y las maquinas ensambladoras requeridas para suministrarla con vainas experimentales.</string>
+<string name="CO.Advanced_Research.02.Paragraph">El laboratorio es requerido para investigar proyectos avanzados que mejoren tu nivel de tecnología desbloqueando nuevos proyectos y recetas. Un total de 27 componentes de laboratorio son requeridos (Fabricado en 3 pilas de 9 componentes cada una) y se debe construir en una configuración de 3 por 3 por 3</string>
 </resources>
