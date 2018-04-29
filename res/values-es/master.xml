@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Skin_Pack">Paquete de Pieles</string>
+<resources><string name="Skin_Pack">Paquete de skins</string>
 	<string name="Installed">Instalado</string>
-	<string name="Language_Name">Inglés</string><string name="Partial_Language_Support">¡Saludos! Tu lenguaje sólo está parcialmente soportado. Si quieres restablecer el Inglés, ¡Entonces presiona \'Inglés\' a continuación!</string>
+	<string name="Language_Name">Inglés</string><string name="Partial_Language_Support">¡Saludos! Tu lenguaje sólo está parcialmente soportado. Si quieres restablecer al Inglés, ¡Entonces presiona \'Inglés\' a continuación!</string>
     <string name="Translation_Incomplete">¡Traducción Incompleta!</string>
     <string name="Not_Installed">No Instalado</string>
     <string name="Multiplayer_Sign">&lt;Multijugador</string>
@@ -26,7 +26,7 @@
     <string name="Update_Pending">Actualizaciones Pendientes</string>
     <string name="Downloading">Descargando</string>
 
-    <string name="Off">Off</string>
+    <string name="Off">Apagado</string>
     <string name="Plentiful">Lleno</string>
     <string name="Eternal Day">Día Eterno</string>
     <string name="Normal">Normal</string>
@@ -141,4 +141,24 @@
     <string name="Hard_Mobs_Info">Monstruos Fuertes - elija esto y tendrá que lidiar con monstruos mucho más fuertes y más agresivos. ¡Esto es sólo para jugadores muy experimentados!</string>
 
     <string name="Mods">Monstruos</string>
+    <string name="Frozen_Factory">Fábrica Congelada</string>
+    <string name="Quit_Sign">Salir</string>
+    <string name="Resource_Level">Nivel de Recursos</string>
+    <string name="Power_Level">Nivel de Potencia</string>
+    <string name="Conveyor_Speed">Velocidad del transportador</string>
+    <string name="Flatland">Tierra Plana</string>
+    <string name="Care_Package">Paquete de Asistencia</string>
+    <string name="Select_Mods">Seleccionar Mods</string>
+    <string name="Mod_Management">Administrar Mods</string>
+    <string name="Mod_Name">Nombre del Mod</string>
+    <string name="Lock">Bloqueado</string>
+    <string name="Workshop">Taller</string>
+
+    <string name="Workshop_Mod">Taller de modificaciones</string>
+    <string name="On">Encendido</string>
+    <string name="Rapid">Rápido</string>
+
+    <string name="Clumsy">Torpe</string>
+    <string name="Default_Settings_Info">¡Las opciones por defecto serán super-rápido y super-fácil para los nuevos jugadores! Si quieres incluso más rápido elige Día Eterno para el ciclo de Día/Noche. ¡Si quieres un desafío mayor, entonces ajusta estas opciones con el contenido de tu corazón!
+¡Recuerda que estas opciones están bloqueadas durante la duración de tu mundo y toma nota de los tiempos que tardas en completarlo!</string>
     </resources>
