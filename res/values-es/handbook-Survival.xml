@@ -9,5 +9,20 @@
 <string name="SU.01Welcome.07.Header">Consejos de supervivencia</string>
 <string name="SU.01Welcome.08.Paragraph">Para aquellos que no quieren leer una guía completa, estos son algunos consejos rápidos de juego. Las siguientes páginas adentran en más detalle en cómo comenzar.</string>
 <string name="SU.01Welcome.06.Paragraph">Los controles del juego se enumeran en una guía separada a continuación.</string>
-<string name="SU.01Welcome.10.Header">Equipo del sitio del accidente</string>
+<string name="SU.01Welcome.10.Header">Equipamiento del lugar del accidente</string>
+<string name="SU.01Welcome.09.Paragraph">- Durante el día, su traje está diseñado para alimentar su batería con luz solar.
+- Su área de inicio tiene un Central Power Hub, úsela para convertir los recursos cosechados en energía para cargar maquinaria adyacente.
+- Puede completar su traje de poder desde el Central Power Hub o presionar \'Q\' en el bloque de almacenamiento de energía.
+- Interactúa (\'E\') con la planta de fabricación para ver lo que puedes hacer.
+- Elabore antorchas para calentarse usando la ventana Self Crafting (\'C\').
+- Utilice la herramienta de escaneo (\'M\') para escanear bloques y procesarlos en la estación de investigación para obtener nuevas recetas.
+- La herramienta de escaneo también puede hacer escaneos de entorno como el ping de material desconocido para encontrar nuevos minerales.
+- Preste mucha atención a la velocidad de descarga de la batería en su traje, un texto azul indica que el frío extremo está afectando a su traje y un texto rojo indica calor extremo.
+- El faro usa energía. ¡Es genial para explorar, pero no lo dejes!
+- El carbón es el mejor combustible para comenzar, pero si estás en apuros puedes quemar la flora local.
+- Puede que tenga que cavar muy profundo para encontrar los minerales que está buscando.
+- Tienes un gran alcance de construcción, así que úsalo para colocar antorchas en grandes cavernas.</string>
+<string name="SU.01Welcome.11.Paragraph">El Central Power Hub es su primer generador de energía. Tiene paneles solares, y puede quemar combustibles para generar energía. Sólo puede contener un elemento de combustible a la vez, por lo que es esencial automatizar la entrega de materiales de combustible. Tiene una gran capacidad interna de almacenamiento de energía.</string>
+<string name="SU.01Welcome.12.Paragraph">El bloque de almacenamiento de energía puede almacenar 250 de energía y distribuirlo a las máquinas adyacentes.</string>
+<string name="SU.01Welcome.13.Paragraph">Para adquirir barras útiles para la fabricación de máquinas nuevas, deberás procesar minerales en la fundición de mineral. Puede interactuar manualmente con él o automatizar el suministro de materiales. Solo comenzará a fundirse una vez que haya recibido suficientes materiales para fundir un lingote.</string>
 </resources>
