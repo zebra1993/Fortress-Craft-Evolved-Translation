@@ -4739,7 +4739,7 @@
   <string name="UI_Lightmode_X"/>
   <string name="UI_E_cycle_Lightmode"/>
   <string name="UI_Looking_for_machine">Поиск механизма</string>
-  <string name="UI_Error_value_X">Код ошибки</string>
+  <string name="UI_Error_value_X">Код ошибки {0}</string>
   <string name="Basic_Missile_turret">Базовая ракетная турель</string>
   <string name="Dualshot_turret"/>
   <string name="Trishot_turret"/>
