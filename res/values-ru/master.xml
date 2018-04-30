@@ -4733,8 +4733,8 @@
   <string name="UI_Rocket_has_X_Parts_X_m_tall"/>
   <string name="UI_Rocket_weight_X_Thrust"/>
   <string name="UI_DeltaV_X"/>
-  <string name="UI_dry_mass_X_Fuel_mass_X"/>
-  <string name="UI_Rocket_launch_capable">Ракета запускается.</string>
+  <string name="UI_dry_mass_X_Fuel_mass_X">Сухая масса - {0} т, Масса топлива {1} т</string>
+  <string name="UI_Rocket_launch_capable">Ракета готова к запуску.</string>
   <string name="UI_Needs_X_Thrust"/>
   <string name="UI_Lightmode_X"/>
   <string name="UI_E_cycle_Lightmode"/>
