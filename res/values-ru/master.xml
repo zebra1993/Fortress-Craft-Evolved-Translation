@@ -4499,8 +4499,8 @@
   <string name="UI_Q_Retrive_Power">«Q» забрать энергию</string>
   <string name="UI_Extruder_desc">Экструдер
 Вытягивает провода из слитков</string>
-  <string name="UI_Stamper_desc">Штампующий завод
-Принимает ресурсы с конвейера или хранилища, конвертирует в пластины, а затем разгружает на другой конвейер.</string>
+  <string name="UI_Stamper_desc">Штамп
+Принимает ресурсы с конвейера или хранилища, производит пластины и выгружает на другой конвейер.</string>
   <string name="UI_Coiler_desc">Намотчик
 Сматывает провода в катушки</string>
   <string name="UI_PCB_assember_desc">Сборщик Печатных Плат
@@ -4510,7 +4510,7 @@
   <string name="UI_Basic_conv_desc">Базовый Конвейер
 Обновите при первой возможности!</string>
   <string name="UI_R_Shift_R_Rotate">Используйте «R» или «Shift»+«R» для вращения</string>
-  <string name="UI_Items_transported_X_at_X_per_Min">Транспортировка предметов: {0} к {1}/минут</string>
+  <string name="UI_Items_transported_X_at_X_per_Min">Транспортировано: {0} ({1}/мин)</string>
   <string name="UI_Conveyor_blocked">Конвейер заблокирован!</string>
   <string name="UI_E_Open_Interface">Используйте «E» для доступа к интерфейсу</string>
   <string name="UI_Power_X_Percent">Энергия: {0}%</string>
@@ -4544,28 +4544,28 @@
   <string name="Need_more_X_E_more_mat_in_smelter_X_ready">Необходимо больше {0}!
 Откройте интерфейс плавильни с помощью «E», чтобы добавить руду.
 {1} руды готово к переплавки!</string>
-  <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft определил, что вы используете {0} - если вы используете игровой ноутбук, то, пожалуйста, воспользуйтесь более производительным графическим адаптером! Если это Ваш единственный графический адаптер, тогда вы, вероятно, столкнетесь с рядом проблем с визуальными эффектами или производительностью.</string>
+  <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft определил, что вы используете {0} - если вы используете игровой ноутбук, то, пожалуйста, переключитесь на высокопроизводительную видеокарту! Если такой возможности нет, тогда вы, вероятно, столкнетесь с проблемами графики или производительности.</string>
   <string name="UI_Fastest_selected">Выбрана быстрая детализация!</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft обнаружил, что игра работает в режиме \"FASTEST\". Эта настройка предназначена только для очень слабых компьютеров и с минимальным объемом оперативной памяти, эта настройка не рекомендуется для обычного игрового процесса. У вас будут низкополигональные модели и размытые текстуры.</string>
-  <string name="UI_Lox_Texture_Detail_selected">Выбраны низкие текстуры!</string>
-  <string name="UI_FCE_LowDetail_Detected">FortressCraft обнаружил, что вы работаете с деталями низких текстур. Эта настройка детализации предназначена только для компьютеров с очень низким объемом оперативной памяти. Это не увеличивает производительность или FPS, и НЕ рекомендуется для обычного игрового процесса. Вы будете видеть размытые текстур.</string>
+  <string name="UI_Lox_Texture_Detail_selected">Выбрано: Низкая детализация текстур!</string>
+  <string name="UI_FCE_LowDetail_Detected">FortressCraft обнаружил, что установлена низкая детализация текстур. Эта настройка предназначена только для компьютеров с очень низким объемом оперативной памяти. Это не увеличивает производительность и НЕ рекомендуется для обычного игрового процесса. Текстуры будут размытыми.</string>
   <string name="UI_World_converting_Progress_X">Ваш мир конвертируется в новый формат, пожалуйста ожидайте...
 Текущий прогресс: {0}%</string>
   <string name="UI_X_completed_of_X">{0} завершено из {1}!</string>
   <string name="UI_Conversiontime_X_X_X_est_X_X_X">
-Время конвертации прошло {0}ч:{1}м:{2}с из оценочных {3}ч:{4}м:{5}с</string>
+Конвертация идёт уже {0}ч:{1}м:{2}с из оценочных {3}ч:{4}м:{5}с</string>
   <string name="UI_Worldcomversion">Конвертация мира</string>
-  <string name="UI_Movement_Paused_X">Ваше движение приостановлено!
+  <string name="UI_Movement_Paused_X">Передвижение приостановлено!
 
-Возможно, вы переехали за пределы загруженного мира.
-Подождите немного времени, чтобы дозагрузить.
-Если это случается часто в одиночном режиме, пожалуйста, проверьте, что ваше антивирусное ПО не мешает.
+Возможно, вы переместились за пределы загруженного мира.
+Подождите немного, пока мир дозагрузится.
+Если это часто случается в одиночном режиме, пожалуйста, убедитесь, что установленное антивирусное ПО не мешает работе.
 
 Чанков прогруженно {0}</string>
   <string name="UI_Attached_to_lift">Подключено к лифту</string>
   <string name="UI_Compresspr_active">Компрессор активен!</string>
   <string name="UI_Compressor_Idle">Компрессор простаивает.</string>
-  <string name="UI_Lifts_limited_Network_clients">Лифты имеют ограничение в 64м для сетевой игры. Извините!</string>
+  <string name="UI_Lifts_limited_Network_clients">В сетевой игре высота Лифтов ограничена 64 м. Извините!</string>
   <string name="UI_Lift_Manual_control">Лифт управляется вручную</string>
   <string name="UI_Work_complete_No_blocks_to_shoot">Задача завершена. Осутствуют блоки для удаления</string>
   <string name="UI_Scanning_Hardened_Resin_X_complete">Поиск твердой смолы - {0} завершено.</string>
@@ -4620,7 +4620,7 @@
 не работает! Солнце за горизонтом!
 Восход через {0} минут</string>
   <string name="UI_Connected_to_controller">Подключено к контроллеру</string>
-  <string name="UI_Processing_X">Прогресс {0}</string>
+  <string name="UI_Processing_X">Обрабатывается: {0}</string>
   <string name="UI_Not_Connected_controller">Не подключено к контроллеру</string>
   <string name="UI_Stored_X_X">Хранится (Q): {0}x {1}</string>
   <string name="UI_Select_Recipe_X_X">Выбран рецепт (E): {0} 
@@ -4632,16 +4632,16 @@
   <string name="UI_MK1_Arm_Status_X_X">Манипулятор МК1 +
  + Статус: {0} 
  {1}</string>
-  <string name="UI_PGT_NO_OXYGEN">плавильне требуется кислород!
-плавильня не может работать на такой глубине!</string>
+  <string name="UI_PGT_NO_OXYGEN">Генератору нужен кислород!
+ПТГ не может работать на такой глубине!</string>
   <string name="UI_Automated_Zipper_merge">Автоматический объединитель</string>
   <string name="UI_Zipper_Merge_3n1">Объединитель (три к одному)</string>
   <string name="UI_Rapid_Zipper_merge">Быстрый объединитель</string>
-  <string name="UI_Bender_Plant">Сгибающий станок</string>
+  <string name="UI_Bender_Plant">Гибочный станок</string>
   <string name="UI_Pipe_Extruder_desc">Трубный станок
 Создает трубы из слитков</string>
-  <string name="UI_Bender_desc">Сгибающий станок
-Сгибает</string>
+  <string name="UI_Bender_desc">Гибочный станок
+Гнёт на разные углы</string>
   <string name="UI_Adv_conv_filter_desc">Улучшенный конвейерный фильтр.</string>
   <string name="UI_Transport_pipe_desc">Транспортная труба
 Быстрая и защищенная транспортировка.</string>
@@ -4651,7 +4651,7 @@
   <string name="UI_E_set_filter_to_X">(E) Установить фильтр на {0}</string>
   <string name="UI_Shift_E_filter_to_X">«Shift» + «E» Установить фильтр на {0}</string>
   <string name="UI_Press_E_Smash_Ice">Нажмите «E» чтобы разбить лёд!</string>  
-  <string name="UI_Warning_Frozen">ВНИМАНИЕ - МОРОЗ!</string>
+  <string name="UI_Warning_Frozen">ВНИМАНИЕ - ЗАМЁРЗЛО!</string>
   <string name="UI_Filter_set_to_X">Фильтр установлен на [{0}]</string>
   <string name="UI_Press_T_Invert_Filter">Нажмите «T», чтобы инвертировать фильтр.</string>
   <string name="UI_Error_Conv_Filter_cant_deal_with_X">Ошибка, конвейер не может работать с [{0}]</string>
@@ -4702,10 +4702,78 @@
   <string name="UI_Quarry">Карьер</string>
   <string name="UI_Scanning_Ablated_Resin_X_complete">Сканирование на абляционную смолу - {0} завершено</string>
   <string name="UI_Place_Facing_Conveyor">Пожалуйста, поставьте перед Конвейером!</string>
-  <string name="UI_Holding_X_ready_for_spidy">"Удерживание [{0}] готово для РобоПаука! "</string>
+  <string name="UI_Holding_X_ready_for_spidy">"Готово для передачи ПаукоБоту - [{0}]! "</string>
   <string name="UI_Power_IN_X_avg_X">Приём энергии: {0} (Среднее: {1})</string>
   <string name="UI_Power_OUT_X_avg_X">Вывод энергии: {0} (Среднее: {1})</string>
   <string name="UI_Collecting_rate_X_Percent">Сбор со скоростью {0}%</string>
-  <string name="UI_Vat_not_formed_loading_bug">Чанки не формируются после загрузки. Баг!</string>
+  <string name="UI_Vat_not_formed_loading_bug">Реактор не сформировался после загрузки. Это баг!</string>
   <string name="UI_Vat_State_X">Состояние чанков: {0}</string>
+  <string name="UI_Ablatd_X_Blocks">Аблированных блоков: {0}</string>
+  <string name="UI_Spiderbot_error">ОШИБКА! Дайте знать DjArcas, что Док-станции ПаукоБота (SPIDERBASE) нет в менеджере объектов (ENTITYMANAGER)!</string>
+  <string name="UI_T4_Conduit"></string>
+  <string name="UI_Current_rate_X_PPS">{0} Э/с.</string>
+  <string name="UI_Collecting_Novalight_X_percent"></string>
+  <string name="UI_Controller_state_X">Статус контроллера: {0}</string>
+  <string name="UI_Connected_to_X_Reactor_vat">Подсоединено к {0} биореакт.</string>
+  <string name="UI_not_connected_reactor_vat_Must_connected_operate"></string>
+  <string name="UI_Link_State_X"></string>
+  <string name="UI_not_collecting_e_Toggle"></string>
+  <string name="UI_Error_no_Centre">Ошибка - Нет центра?</string>
+  <string name="UI_Motorised_conv_desc"></string>
+  <string name="UI_Filter_Everything_Exept_X"></string>
+  <string name="UI_Select_Item_Hotbar_Exemplar"></string>
+  <string name="UI_Q_Set_Output_to_X"></string>
+  <string name="UI_Warning_Infested_Conveyor"></string>
+  <string name="UI_Filtersetting_GEMS"></string>
+  <string name="UI_T_Minus_X"></string>
+  <string name="UI_FlightTime_X"></string>
+  <string name="UI_Fuel_Efficiency_X"></string>
+  <string name="UI_Engine_Smoothness_X"></string>
+  <string name="UI_Engine_Power_X"></string>
+  <string name="UI_Rocket_has_X_Parts_X_m_tall"></string>
+  <string name="UI_Rocket_weight_X_Thrust"></string>
+  <string name="UI_DeltaV_X"></string>
+  <string name="UI_dry_mass_X_Fuel_mass_X"></string>
+  <string name="UI_Rocket_launch_capable"></string>
+  <string name="UI_Needs_X_Thrust"></string>
+  <string name="UI_Lightmode_X"></string>
+  <string name="UI_E_cycle_Lightmode"></string>
+  <string name="UI_Looking_for_machine"></string>
+  <string name="UI_Error_value_X"></string>
+  <string name="Basic_Missile_turret"></string>
+  <string name="Dualshot_turret"></string>
+  <string name="Trishot_turret"></string>
+  <string name="Quad_launcher"></string>
+  <string name="UI_No_missiles_loaded"></string>
+  <string name="UI_Cant_find_missiles_attached_Hopper"></string>
+  <string name="UI_X_Missiles_loaded"></string>
+  <string name="UI_Next_shot_dmg_X"></string>
+  <string name="UI_Reloading_for_X_s"></string>
+  <string name="UI_Client_delay_X"></string>
+  <string name="UI_Searching_Considered_X_Targets"></string>
+  <string name="UI_Minecart_Track_Corner"></string>
+  <string name="UI_Minecart_Track_Buffer"></string>
+  <string name="UI_Minecart_Track_Full_Gate"></string>
+  <string name="UI_Minecart_Track_Empty_Gate"></string>
+  <string name="UI_Cart_with_X_Items_X_seconds"></string>
+  <string name="UI_Holding_X"></string>
+  <string name="UI_station_empty"></string>
+  <string name="UI_station_dealt_with_X_carts"></string>
+  <string name="UI_Thread_scanner_Client"></string>
+  <string name="UI_attack_X"></string>
+  <string name="UI_Base_thread"></string>
+  <string name="UI_Heavy_Chance_0"></string>
+  <string name="UI_Heavies_expected_X_approx"></string>
+  <string name="UI_Boss_Chance_0"></string>
+  <string name="UI_Bosses_expected_X_approx"></string>
+  <string name="UI_Calmer_reducing_threat_by_X"></string>
+  <string name="UI_Calmers_offline_OET_Charging"></string>
+  <string name="UI_Mobs_X_Heavies_X_Bosses_X"></string>
+  <string name="UI_attack_underway_X_killed"></string>
+  <string name="UI_Wave_X_X"></string>
+  <string name="UI_next_spawn_X"></string>
+  <string name="UI_X_left_to_spawn"></string>
+  <string name="UI_Attack_imminent"></string>
+  <string name="UI_Attack_estaminated_X_min"></string>
+  <string name="UI_Last_attack_kills_X_Power_used_X"></string>
   </resources>
