@@ -4685,7 +4685,7 @@
   <string name="UI_Attacking_X_HP_left">Атака! [{0} здоровья осталось!]</string>
   <string name="UI_Turret">Турель</string>
   <string name="UI_Shots_X_Kills_X_Damage_X">Выстрелов: {0}. Уничтожено: {1}. Ущерб: {2}</string>
-  <string name="UI_Press_E_Show_Turret_range">Нажмите E чтоб показать зону турели</string>
+  <string name="UI_Press_E_Show_Turret_range">«E» - показ дальности турели</string>
   <string name="UI_Minecart_Track_Streight">Прямые рельсы</string>
   <string name="UI_Minecart_Track_Slope">Наклонные рельсы</string>
   <string name="UI_Please_wait_processing">Пожалуйста ждите, обработка...</string>
@@ -4754,8 +4754,8 @@
   <string name="UI_Minecart_Track_Corner"/>
   <string name="UI_Minecart_Track_Buffer"/>
   <string name="UI_Minecart_Track_Full_Gate"/>
-  <string name="UI_Minecart_Track_Empty_Gate"/>
-  <string name="UI_Cart_with_X_Items_X_seconds"/>
+  <string name="UI_Minecart_Track_Empty_Gate">Ворота пустых вагонеток</string>
+  <string name="UI_Cart_with_X_Items_X_seconds">Присутствует вагонетка с {0} предм. Уедет через {1} с</string>
   <string name="UI_Holding_X"/>
   <string name="UI_station_empty">Станция пуста</string>
   <string name="UI_station_dealt_with_X_carts"/>
@@ -4764,8 +4764,8 @@
   <string name="UI_Base_thread">Рейтинг базы: {0}</string>
   <string name="UI_Heavy_Chance_0"/>
   <string name="UI_Heavies_expected_X_approx"/>
-  <string name="UI_Boss_Chance_0">Босс Шанс: 0%</string>
-  <string name="UI_Bosses_expected_X_approx"/>
+  <string name="UI_Boss_Chance_0">Вероятн. Боссов: {0}%</string>
+  <string name="UI_Bosses_expected_X_approx">Ожидается Боссов: {0} (примерно)</string>
   <string name="UI_Calmer_reducing_threat_by_X"/>
   <string name="UI_Calmers_offline_OET_Charging"/>
   <string name="UI_Mobs_X_Heavies_X_Bosses_X"/>
@@ -4778,4 +4778,5 @@
   <string name="UI_Last_attack_kills_X_Power_used_X"/>
   <string name="GAC_Found_X_of_X_items">Найдено {0} из {1} предметов.</string>
 	
-</resources>
+<string name="GAC_Crafted_X">Готово: {0}</string>
+  </resources>
