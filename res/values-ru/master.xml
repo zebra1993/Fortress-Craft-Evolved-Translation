@@ -4797,4 +4797,5 @@
   <string name="UI_Quarry_constructing_edge_warning">Карьер возводит ограждение для безопасности</string>
   <string name="UI_Safety_first">Безопасность прежде всего!</string>
   <string name="UI_Quarry_cant_find_output_hopper">Карьер не нашел хранилище для разгрузки</string>
+  <string name="UI_All_output_hoppers_full_locked">Все бункеры полны или заблокированы!</string>
   </resources>
