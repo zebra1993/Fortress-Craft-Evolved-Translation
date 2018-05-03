@@ -4794,4 +4794,7 @@
   <string name="UI_Thank_you">Спасибо!</string>
   <string name="UI_Qarry_cant_locate_input_hopper">Карьер не обнаружил бункер для разгрузки.</string>
   <string name="UI_please_place_in_attached_hopper">Положи это в присоединенное хранилище</string>
+  <string name="UI_Quarry_constructing_edge_warning">Карьер возводит ограждение для безопасности</string>
+  <string name="UI_Safety_first">Безопасность прежде всего!</string>
+  <string name="UI_Quarry_cant_find_output_hopper">Карьер не нашел бункер для разгрузки</string>
   </resources>
