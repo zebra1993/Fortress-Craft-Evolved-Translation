@@ -4783,4 +4783,14 @@
 	
 <string name="GAC_Crafted_X">Готово: {0}</string>
   <string name="UI_Attached_empty_active">Подключенное хранилище пустое. Активен!</string>
+  <string name="UI_Mob_Spawner">Спавнер мобов</string>
+  <string name="UI_Type_X">Тип: {0}</string>
+  <string name="UI_Press_E_spawn_X">Нажми (E), чтобы заспавнить {0}</string>
+  <string name="UI_At_depth_X">На глубине {0} м</string>
+  <string name="UI_Found_X_coal">Найдено {0} угля.</string>
+  <string name="UI_Found_X_crystals">Найдено {0} кристаллов.</string>
+  <string name="UI_Qarry_unable_cooling_O2">Карьеру недостаточно кислорода для охлаждения!</string>
+  <string name="UI_Please_move_quarry_surface">Перемести карьер ближе к поверхности.</string>
+  <string name="UI_Thank_you">Спасибо!</string>
+  <string name="UI_Qarry_cant_locate_input_hopper">Карьер не обнаружил бункер дл разгрузки.</string>
   </resources>
