@@ -4719,7 +4719,7 @@
   <string name="UI_not_connected_reactor_vat_Must_connected_operate">Не подключен к реактору.
 Для управления реактором - должен быть подключен к нему.</string>
   <string name="UI_Link_State_X">Состояние соединения: {0}</string>
-  <string name="UI_not_collecting_e_Toggle"/>
+  <string name="UI_not_collecting_e_Toggle">Не собирает. (E) для переключения</string>
   <string name="UI_Error_no_Centre">Ошибка - Нет центра?</string>
   <string name="UI_Motorised_conv_desc"/>
   <string name="UI_Filter_Everything_Exept_X">Фильтр настроен на все. КРОМЕ: [{0}]</string>
