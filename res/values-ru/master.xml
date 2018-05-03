@@ -4811,5 +4811,6 @@
   <string name="UI_combines_plates_pcbs_to_pods">Собирает исслед. капсулы из 6 пластин и 2 печ. плат</string>
   <string name="UI_Podassembler_Basic">Основные исслед. капсулы собираются из медных пластин и медных ПП</string>
   <string name="UI_Podassembler_Simplified">Простые исслед. пакеты собираются из оловянных пластин и оловянных ПП</string>
-  <string name="UI_Podassembler_Intermidiate">Промежуточные исслед.пакеты собираются из оловянных пластин и печ.плат</string>
+  <string name="UI_Podassembler_Intermidiate">Промежуточные исслед. пакеты собираются из железных пластин и железных ПП</string>
+  <string name="UI_Podassembler_Complex">Комплексные исслед. капсулы собираются из литиевых пластин и литиевых ПП</string>
   </resources>
