@@ -4805,4 +4805,6 @@
   <string name="UI_Timer_X">Таймер: {0}</string>
   <string name="UI_no_valid_hoppers_found_conveyors_missing_blocked">Не найдены подходящие хранилище (полные или заблокированы?)
 Все подключенные конвейеры заблокированы!</string>
+  <string name="UI_Crafting_X_s">Сборка: {0} сек</string>
+  <string name="UI_place_resources_attached_hopper">Помести ресурсы в бункер рядом.</string>
   </resources>
