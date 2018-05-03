@@ -108,7 +108,7 @@
 
     <string name="Needs_FF">Требуется дополнение «Морозная Фабрика» (Frozen Factory).</string>
 
-    <string name="Care_Package_Enabled">Помогатор включен! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку МК3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма. Халява!</string>
+    <string name="Care_Package_Enabled">Помогатор включен! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку МК3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма.</string>
 
     <string name="Flatland_Locked">Режим «Равнина» будет доступен после уничтожения Источника Криоплазмы.</string>
     <string name="Rush_Mode">Режим спешки</string>
@@ -4734,7 +4734,7 @@
   <string name="UI_Engine_Smoothness_X"/>
   <string name="UI_Engine_Power_X">Энергия двигателя: {0}</string>
   <string name="UI_Rocket_has_X_Parts_X_m_tall">Ракета состоит из {0} частей и высотой {1} м</string>
-  <string name="UI_Rocket_weight_X_Thrust">Ракета весит {0} т и имеет тягу {1} kN</string>
+  <string name="UI_Rocket_weight_X_Thrust">Ракета весит {0} т и имеет тягу {1} kN.</string>
   <string name="UI_DeltaV_X">Разница скорости: {0} м/с</string>
   <string name="UI_dry_mass_X_Fuel_mass_X">Сухая масса - {0} т, Масса топлива {1} т</string>
   <string name="UI_Rocket_launch_capable">Ракета готова к запуску.</string>
@@ -4762,7 +4762,7 @@
   <string name="UI_Holding_X">Загружено {0}</string>
   <string name="UI_station_empty">Станция пуста</string>
   <string name="UI_station_dealt_with_X_carts">Станция обслужила {0} вагонеток</string>
-  <string name="UI_Thread_scanner_Client"/>
+  <string name="UI_Thread_scanner_Client">Сканер угроз (Client)</string>
   <string name="UI_attack_X">Атака: {0}</string>
   <string name="UI_Base_thread">Рейтинг базы: {0}</string>
   <string name="UI_Heavy_Chance_0"/>
@@ -4775,7 +4775,7 @@
   <string name="UI_attack_underway_X_killed">Атака началась, {0} убито</string>
   <string name="UI_Wave_X_X">Волна {0}/{1}</string>
   <string name="UI_next_spawn_X">След. спавн через {0}</string>
-  <string name="UI_X_left_to_spawn">Осталось заспавниться {0} врагам.</string>
+  <string name="UI_X_left_to_spawn">Осталось заспавниться {0} врагам!</string>
   <string name="UI_Attack_imminent"/>
   <string name="UI_Attack_estaminated_X_min">Атака ожидается через {0} мин</string>
   <string name="UI_Last_attack_kills_X_Power_used_X"/>
@@ -4792,7 +4792,7 @@
   <string name="UI_Qarry_unable_cooling_O2">Карьеру недостаточно кислорода для охлаждения!</string>
   <string name="UI_Please_move_quarry_surface">Перемести карьер ближе к поверхности.</string>
   <string name="UI_Thank_you">Спасибо!</string>
-  <string name="UI_Qarry_cant_locate_input_hopper">Карьер не обнаружил бункер для разгрузки.</string>
+  <string name="UI_Qarry_cant_locate_input_hopper">Карьер не обнаружил хранилище для разгрузки</string>
   <string name="UI_please_place_in_attached_hopper">Положи это в присоединенное хранилище</string>
   <string name="UI_Quarry_constructing_edge_warning">Карьер возводит ограждение для безопасности</string>
   <string name="UI_Safety_first">Безопасность прежде всего!</string>
@@ -4814,5 +4814,6 @@
   <string name="UI_Podassembler_Intermidiate">Промежуточные исслед. пакеты собираются из железных пластин и железных ПП</string>
   <string name="UI_Podassembler_Complex">Комплексные исслед. капсулы собираются из литиевых пластин и литиевых ПП</string>
   <string name="UI_Podassembler_Advanced">Продвинутые исслед. капсулы собираются из золотых пластин и золотых ПП</string>
-  <string name="UI_Podassembler_XL">XL-исслед.капсулы собираются из никелевых пластин и печ.плат</string>
+  <string name="UI_Podassembler_XL">XL-исслед. капсулы собираются из никелевых пластин и никелевых ПП</string>
+  <string name="UI_Podassembler_Ultimate">Ультимативные исслед. капсулы собираются из титановых пластин и титановых ПП</string>
   </resources>
