@@ -4713,7 +4713,7 @@
   <string name="UI_T4_Conduit">Проводник МК4</string>
   <string name="UI_Current_rate_X_PPS">{0} Э/с.</string>
   <string name="UI_Collecting_Novalight_X_percent">Органическая солнечная панель
-Собирает свет Суперновой, эффективность {0}%</string>
+Собирает свет Сверхновой, эффективность {0}%</string>
   <string name="UI_Controller_state_X">Статус контроллера: {0}</string>
   <string name="UI_Connected_to_X_Reactor_vat">Подсоединено к {0} биореакт.</string>
   <string name="UI_not_connected_reactor_vat_Must_connected_operate"/>
