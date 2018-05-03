@@ -4800,5 +4800,5 @@
   <string name="UI_All_output_hoppers_full_locked">Все хранилища полны или заблокированы!</string>
   <string name="UI_E_confirm_quarry_position">Нажми (E) для подтверждения положения карьера</string>
   <string name="UI_Total_idle_time_X">Времени в простое: {0}</string>
-  <string name="UI_E_reset">(E) для обнуления</string>
+  <string name="UI_E_reset">(«E» для обнуления)</string>
   </resources>
