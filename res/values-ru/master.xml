@@ -4716,7 +4716,8 @@
 Собирает свет Сверхновой, эффективность {0}%</string>
   <string name="UI_Controller_state_X">Статус контроллера: {0}</string>
   <string name="UI_Connected_to_X_Reactor_vat">Подсоединено к {0} биореакт.</string>
-  <string name="UI_not_connected_reactor_vat_Must_connected_operate"/>
+  <string name="UI_not_connected_reactor_vat_Must_connected_operate">Не подключен к реактору.
+Для управления реактором - должен быть подключен к нему.</string>
   <string name="UI_Link_State_X">Состояние соединения: {0}</string>
   <string name="UI_not_collecting_e_Toggle"/>
   <string name="UI_Error_no_Centre">Ошибка - Нет центра?</string>
