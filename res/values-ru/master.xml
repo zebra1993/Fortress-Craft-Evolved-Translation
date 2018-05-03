@@ -4753,7 +4753,7 @@
   <string name="UI_Next_shot_dmg_X">Урон следующего выстрела: {0}</string>
   <string name="UI_Reloading_for_X_s">Перезарядка через {0}с</string>
   <string name="UI_Client_delay_X">Задержка клиента: {0}</string>
-  <string name="UI_Searching_Considered_X_Targets">Поиск (насчитано {0} целей)</string>
+  <string name="UI_Searching_Considered_X_Targets">Поиск… (насчитано {0} целей!)</string>
   <string name="UI_Minecart_Track_Corner"/>
   <string name="UI_Minecart_Track_Buffer"/>
   <string name="UI_Minecart_Track_Full_Gate"/>
