@@ -4803,6 +4803,6 @@
   <string name="UI_E_reset">(«E» для обнуления)</string>
   <string name="UI_state_X">Состояние: {0}</string>
   <string name="UI_Timer_X">Таймер: {0}</string>
-  <string name="UI_no_valid_hoppers_found_conveyors_missing_blocked">Не найдены подходящие бункеры (полные или заблокированы?)
+  <string name="UI_no_valid_hoppers_found_conveyors_missing_blocked">Не найдены подходящие хранилище (полные или заблокированы?)
 Все подключенные конвейеры заблокированы!</string>
   </resources>
