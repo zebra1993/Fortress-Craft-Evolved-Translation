@@ -4754,14 +4754,14 @@
   <string name="UI_Reloading_for_X_s">Перезарядка через {0}с</string>
   <string name="UI_Client_delay_X">Задержка клиента: {0}</string>
   <string name="UI_Searching_Considered_X_Targets">Поиск… (насчитано {0} целей!)</string>
-  <string name="UI_Minecart_Track_Corner"/>
-  <string name="UI_Minecart_Track_Buffer"/>
+  <string name="UI_Minecart_Track_Corner">Поворотные рельсы</string>
+  <string name="UI_Minecart_Track_Buffer">Буфер для вагонеток</string>
   <string name="UI_Minecart_Track_Full_Gate"/>
   <string name="UI_Minecart_Track_Empty_Gate">Ворота пустых вагонеток</string>
   <string name="UI_Cart_with_X_Items_X_seconds">Присутствует вагонетка с {0} предм. Уедет через {1} с</string>
-  <string name="UI_Holding_X"/>
+  <string name="UI_Holding_X">Загружено {0}</string>
   <string name="UI_station_empty">Станция пуста</string>
-  <string name="UI_station_dealt_with_X_carts"/>
+  <string name="UI_station_dealt_with_X_carts">Станция обслужила {0} вагонеток</string>
   <string name="UI_Thread_scanner_Client"/>
   <string name="UI_attack_X">Атака: {0}</string>
   <string name="UI_Base_thread">Рейтинг базы: {0}</string>
@@ -4769,7 +4769,7 @@
   <string name="UI_Heavies_expected_X_approx"/>
   <string name="UI_Boss_Chance_0">Вероятн. Боссов: {0}%</string>
   <string name="UI_Bosses_expected_X_approx">Ожидается Боссов: {0} (примерно)</string>
-  <string name="UI_Calmer_reducing_threat_by_X"/>
+  <string name="UI_Calmer_reducing_threat_by_X">Успокоитель снижает угрозу на {0}</string>
   <string name="UI_Calmers_offline_OET_Charging"/>
   <string name="UI_Mobs_X_Heavies_X_Bosses_X"/>
   <string name="UI_attack_underway_X_killed">Атака началась, {0} убито</string>
