@@ -4809,5 +4809,5 @@
   <string name="UI_place_resources_attached_hopper">Помести ресурсы в Хранилище рядом.</string>
   <string name="UI_X_more_power_needed">Надо еще {0} энергии!</string>
   <string name="UI_combines_plates_pcbs_to_pods">Собирает исслед. капсулы из 6 пластин и 2 печ. плат</string>
-  <string name="UI_Podassembler_Basic">Основные исслед.капсулы собираются из медных пластин и печ.плат</string>
+  <string name="UI_Podassembler_Basic">Основные исслед. капсулы собираются из медных пластин и медных ПП</string>
   </resources>
