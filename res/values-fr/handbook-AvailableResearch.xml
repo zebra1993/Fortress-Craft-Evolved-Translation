@@ -39,9 +39,9 @@
 <string name="AV.Improved_Ore_Scanning.Title">Scanneur de minerai amélioré</string>
 <string name="AV.Improved_Ore_Scanning.00.Title">Amélioration du Scanner de Minerai</string>
 <string name="AV.Improved_Ore_Scanning.01.Paragraph">Nous avons rencontré un problème dans notre recherche de ressources pour agrandir notre base !</string>
-<string name="AV.Improved_Ore_Scanning.02.Paragraph">Notre scanner de minerai est configuré pour trouver les matériaux inconnus pour recherche et classification. Sa capacité à trouver de nouvelles sources de matériaux connus spécifiques est limitée. Il devrait être possible d\'utiliser une petite quantité de minerai de rechange en tant que filtre avancé, ce qui nous permettrait de localiser les ressources dont nous avons besoin.</string>
-<string name="AV.Intermediate_Miner_Upgrades_I.Title">Amélioration de Minage Intermédiaire I</string>
-<string name="AV.Intermediate_Miner_Upgrades_I.00.Title">Amélioration de Minage Intermédiaire I</string>
+<string name="AV.Improved_Ore_Scanning.02.Paragraph">Notre scanner de minerai est configuré pour trouver les matériaux inconnus pour recherche et classification. Sa capacité à trouver de nouvelles sources de matériaux connus spécifiques est limitée. Il devrait être possible d\'utiliser une petite quantité de minerai en tant que filtre avancé, ce qui nous permettrait de localiser les ressources dont nous avons besoin.</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.Title">Extraction intermédiaire niveau I</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.00.Title">Extraction intermédiaire niveau I</string>
 <string name="AV.Intermediate_Miner_Upgrades_I.01.Paragraph">Il est temps de commencer la recherche sur la façon de reproduire les capacités avancées de la fonderie de minerai fournie avec notre Concentrateur d\'Énergie Central. Les fonderies de base que nous avons pu construire sont trop lentes et gaspillent de précieuses ressources.</string>
 <string name="AV.Intermediate_Miner_Upgrades_II.Title">Amélioration de Minage Intermédiaire II</string>
 <string name="AV.Intermediate_Miner_Upgrades_II.00.Title">Amélioration de Minage Intermédiaire II</string>
