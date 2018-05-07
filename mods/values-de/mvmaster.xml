@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="PopupTitle">Auto Platzierer</string>
+  <string name="ContinuousLine">Durchgehende Linie</string>
+  <string name="FirstObstruction">Erstes Hindernis</string>
+  <string name="CurrentForward_X_X">Vorwärts: {0} von {1}</string>
+  <string name="CurrentForward_X">Vorwärts: {0}</string>
+  <string name="CurrentRow_X_X">Reihe: {0} von {1}</string>
+  <string name="ActiveState_X">Aktiv: {0}</string>
+  <string name="PlacementInterval_X">Platzierungs Interval: {0}</string>
+  <string name="ItemsForwardSetting_X"># Gegenstände Vorwärts: {0}</string>
+  <string name="RowsSetting_X_KEY_Left"># Reihen: {0} von ({1}) Links</string>
+  <string name="RowsSetting_X_KEY_Right"># Reihen: {0} von ({1}) rechts</string>
+  <string name="PlacedCount_X">Platziert: {0}</string>
+  <string name="LookingForItems">Suche platzierbare Gegenstände</string>
+  <string name="ActiveStateNo">Nein</string>
+  <string name="ActiveStatePaused">Pausiert</string>
+  <string name="ActiveStateFinished">Fertig</string>
+  <string name="ActiveStateBlocked">Blockiert!</string>
+  <string name="ActiveStateRunning">Arbeitend</string>
+</resources>
