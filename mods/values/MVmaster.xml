@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resource>
+  <string name="PopupTitle">Auto Placer</string>
+  <string name="ContinuousLine">Continuous Line</string>
+  <string name="FirstObstruction">First Obstruction</string>
+  <string name="CurrentForward_X_X">Forward: {0} of {1}</string>
+  <string name="CurrentForward_X">Forward: {0}</string>
+  <string name="CurrentRow_X_X">Row: {0} of {1}</string>
+  <string name="ActiveState_X">Active : {0}</string>
+  <string name="PlacementInterval_X">Placement Interval : {0}</string>
+  <string name="ItemsForwardSetting_X"># Items Forward : {0}</string>
+  <string name="RowsSetting_X_KEY_Left"># Rows : {0} to the ({1}) left</string>
+  <string name="RowsSetting_X_KEY_Right"># Rows : {0} to the ({1}) right</string>
+  <string name="PlacedCount_X">Placed: {0}</string>
+  <string name="LookingForItems">Looking for items to place</string>
+  <string name="ActiveStateNo">No</string>
+  <string name="ActiveStatePaused">Paused</string>
+  <string name="ActiveStateFinished">Finished</string>
+  <string name="ActiveStateBlocked">Blocked!</string>
+  <string name="ActiveStateRunning">Running</string>
+</resource>
