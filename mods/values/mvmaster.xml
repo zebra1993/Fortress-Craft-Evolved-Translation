@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resource>
+<resources>
   <string name="PopupTitle">Auto Placer</string>
   <string name="ContinuousLine">Continuous Line</string>
   <string name="FirstObstruction">First Obstruction</string>
@@ -18,4 +18,4 @@
   <string name="ActiveStateFinished">Finished</string>
   <string name="ActiveStateBlocked">Blocked!</string>
   <string name="ActiveStateRunning">Running</string>
-</resource>
+</resources>
