@@ -1,6 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="PopupTitle">Auto Placer</string>
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+  <!-- Advanced Logistics Hopper -->
+  <string name="AdvancedLogisticsHopperTitleMK_X">Advanced Logistics Hopper MK{0}</string>
+  <string name="HopperPermissionLabel">Hopper Permissions</string>
+  <string name="ConveyorPermissionsLabel">Conveyor/GAC Extraction</string>
+  <string name="HopperSettingsLabel">Hopper Settings</string>
+  <string name="HopperSettingsControlLabel">(Hold Shift for 10 or Control for 100)</string>
+  <string name="CapacityLabel">Hopper Capacity</string>
+  <string name="DenominationLabel">Manual Transfer\nDenomination</string>
+  <string name="ReserveQuantityLabel">Reserve Quantity</string>
+  <string name="ReserveSpaceLabel">Reserve Space</string>
+  <string name="VacuumLabel">Vacuum</string>
+  <string name="HopperContentsLabel">Hopper Contents</string>
+  <string name="FrontLabel">Front</string>  
+  <string name="BackLabel">Back</string>
+  <string name="LeftLabel">Left</string>
+  <string name="RightLabel">Right</string>
+  <string name="TopLabel">Top</string>
+  <string name="BottomLabel">Bottom</string>
+  <string name="ConveyFrontLocked">Front Convey Locked</string>
+  <string name="ConveyFrontAllowed">Front Convey Allowed</string>
+  <string name="ConveyBackLocked">Back Convey Locked</string>
+  <string name="ConveyBackAllowed">Back Convey Allowed</string>
+  <string name="ConveyLeftLocked">Left Convey Locked</string>
+  <string name="ConveyLeftAllowed">Left Convey Allowed</string>
+  <string name="ConveyRightLocked">Right Convey Locked</string>
+  <string name="ConveyRightAllowed">Right Convey Allowed</string>
+  <string name="ConveyTopLocked">Top Convey Locked</string>
+  <string name="ConveyTopAllowed">Top Convey Allowed</string>
+  <string name="ConveyBottomLocked">Bottom Convey Locked</string>
+  <string name="ConveyBottomAllowed">Bottom Convey Allowed</string>
+  <string name="Q_To_Retrieve_X_Contents">(Q) to retrieve {0}x contents!</string>
+  <string name="Used_X">User: {0}</string>
+  <string name="Free_X">Free: {0}</string>
+  <string name="Reserve_Quantity_X" >Reserve Quantity: {0}</string>
+  <string name="Reserve_Space_X" >Reserve Space: {0}</string>
+
+  <!-- Auto Placer -->
+  <string name="AutoPlacerPopupTitle">Auto Placer</string>
   <string name="ContinuousLine">Continuous Line</string>
   <string name="FirstObstruction">First Obstruction</string>
   <string name="CurrentForward_X_X">Forward: {0} of {1}</string>
@@ -18,4 +55,6 @@
   <string name="ActiveStateFinished">Finished</string>
   <string name="ActiveStateBlocked">Blocked!</string>
   <string name="ActiveStateRunning">Running</string>
-</resources>
+
+
+</resource>
