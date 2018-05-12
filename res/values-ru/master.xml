@@ -4778,7 +4778,7 @@
   <string name="UI_X_left_to_spawn">Осталось заспавниться {0} врагам!</string>
   <string name="UI_Attack_imminent"/>
   <string name="UI_Attack_estaminated_X_min">Атака ожидается через {0} мин</string>
-  <string name="UI_Last_attack_kills_X_Power_used_X"/>
+  <string name="UI_Last_attack_kills_X_Power_used_X">Крайняя атака. Убийств: {0}, исп.энергии: {1}</string>
   <string name="GAC_Found_X_of_X_items">Найдено {0} из {1} предметов.</string>
 	
 <string name="GAC_Crafted_X">Готово: {0}</string>
