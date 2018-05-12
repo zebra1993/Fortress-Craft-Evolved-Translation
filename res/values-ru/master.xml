@@ -4494,7 +4494,7 @@
   <string name="UI_Stack_1_crate">Склад из 1 ящика</string>
   <string name="UI_Stack_X_Crates">Склад из {0} ящиков</string>
   <string name="UI_Total_Storage_X">Всего ячеек: {0}</string>
-  <string name="UI_Power_Delta_X">Изменение энергии: {0}</string>
+  <string name="UI_Power_Delta_X">Баланс энергии: {0}</string>
   <string name="UI_T_Store_Power">«T», добавить энергию</string>
   <string name="UI_Q_Retrive_Power">«Q» забрать энергию</string>
   <string name="UI_Extruder_desc">Экструдер
@@ -4756,7 +4756,7 @@
   <string name="UI_Searching_Considered_X_Targets">Поиск… (насчитано {0} целей!)</string>
   <string name="UI_Minecart_Track_Corner">Поворотные рельсы</string>
   <string name="UI_Minecart_Track_Buffer">Буфер для вагонеток</string>
-  <string name="UI_Minecart_Track_Full_Gate"/>
+  <string name="UI_Minecart_Track_Full_Gate">Ворота полных вагонеток</string>
   <string name="UI_Minecart_Track_Empty_Gate">Ворота пустых вагонеток</string>
   <string name="UI_Cart_with_X_Items_X_seconds">Присутствует вагонетка с {0} предм. Уедет через {1} с</string>
   <string name="UI_Holding_X">Загружено {0}</string>
@@ -4765,8 +4765,8 @@
   <string name="UI_Thread_scanner_Client">Сканер угроз (Client)</string>
   <string name="UI_attack_X">Атака: {0}</string>
   <string name="UI_Base_thread">Рейтинг базы: {0}</string>
-  <string name="UI_Heavy_Chance_0"/>
-  <string name="UI_Heavies_expected_X_approx"/>
+  <string name="UI_Heavy_Chance_0">Вероятн. Тяжелых : 0%</string>
+  <string name="UI_Heavies_expected_X_approx">Ожидается Тяжёлых: {0} (примерно)</string>
   <string name="UI_Boss_Chance_0">Вероятн. Боссов: {0}%</string>
   <string name="UI_Bosses_expected_X_approx">Ожидается Боссов: {0} (примерно)</string>
   <string name="UI_Calmer_reducing_threat_by_X">Успокоитель снижает угрозу на {0}</string>
@@ -4808,12 +4808,17 @@
   <string name="UI_Crafting_X_s">Сборка: {0} сек</string>
   <string name="UI_place_resources_attached_hopper">Помести ресурсы в Хранилище рядом.</string>
   <string name="UI_X_more_power_needed">Надо еще {0} энергии!</string>
-  <string name="UI_combines_plates_pcbs_to_pods">Собирает исслед. капсулы из 6 пластин и 2 печ. плат</string>
-  <string name="UI_Podassembler_Basic">Основные исслед. капсулы собираются из медных пластин и медных ПП</string>
-  <string name="UI_Podassembler_Simplified">Простые исслед. пакеты собираются из оловянных пластин и оловянных ПП</string>
-  <string name="UI_Podassembler_Intermidiate">Промежуточные исслед. пакеты собираются из железных пластин и железных ПП</string>
-  <string name="UI_Podassembler_Complex">Комплексные исслед. капсулы собираются из литиевых пластин и литиевых ПП</string>
-  <string name="UI_Podassembler_Advanced">Продвинутые исслед. капсулы собираются из золотых пластин и золотых ПП</string>
-  <string name="UI_Podassembler_XL">XL-исслед. капсулы собираются из никелевых пластин и никелевых ПП</string>
-  <string name="UI_Podassembler_Ultimate">Ультимативные исслед. капсулы собираются из титановых пластин и титановых ПП</string>
+  <string name="UI_combines_plates_pcbs_to_pods">Собирает эксп-ые ячейки из 6 пластин и 2 печ. плат</string>
+  <string name="UI_Podassembler_Basic">Базовые экспер. ячейки собираются из медных пластин и Базовых ПП</string>
+  <string name="UI_Podassembler_Simplified">Упрощённые Экспер. ячейки собираются из оловянных пластин и основных ПП</string>
+  <string name="UI_Podassembler_Intermidiate">Промежуточные эксп. ячейки собираются из железных пластин и упрочненных ПП</string>
+  <string name="UI_Podassembler_Complex">Сложные экспер. ячейки собираются из литиевых пластин и Заряженных ПП</string>
+  <string name="UI_Podassembler_Advanced">Продвинутые эксп. ячейки собираются из золотых пластин и Проводящих ПП</string>
+  <string name="UI_Podassembler_XL">XL экспер. ячейки собираются из никелевых пластин и Усиленных ПП</string>
+  <string name="UI_Podassembler_Ultimate">Совершенные эксп. ячейки собираются из титановых пластин и облегчённых ПП</string>
+  <string name="UI_Orbital_Energy_transmiter">Орбитальный Передатчик Энергии</string>
+  <string name="UI_X_charged">Заряд: {0}</string>
+  <string name="UI_Charge_rate_X_sec">Скорость зарядки {0}/с.</string>
+  <string name="UI_Press_E_Interact">«E» для взаимодействия</string>
+  <string name="UI_Agitator_threat_X_X_Bonus">(От Усилителя угрозы: {0}) + {1} бонусно</string>
   </resources>
