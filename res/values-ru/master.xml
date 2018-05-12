@@ -4827,4 +4827,5 @@
   <string name="UI_cant_locate_OSHA_rescources">Карьер не обнаружил блоки для возведения ограждения!</string>
   <string name="UI_quarry_needs_more_chevrons">Карьеру нужно больше красно-белых шевронов</string>
   <string name="UI_Power_low_X_needed_dig_X_available">Низкий заряд (доступно {1}/{0})</string>
+  <string name="UI_Found_X_in_X_ore_blocks">Найдено {0} руды в {1} рудных блоках</string>
   </resources>
