@@ -19,4 +19,19 @@
 <string name="CO.Advanced_Research.03.Paragraph">Para obtener más información sobre el uso del laboratorio, consulte la siguiente guía:</string>
 <string name="CO.Aesthetics.Title">Estética</string>
 <string name="CO.Aesthetics.00.Title">Estética</string>
+<string name="CO.Aesthetics.01.Paragraph">En el improbable caso de que tengamos tiempo libre, podemos embellecer nuestra base con una variedad de cajas de almacenamiento de colores y lienzos.</string>
+<string name="CO.Base_Building_Automation.Title">Automatización de edificios base</string>
+<string name="CO.Base_Building_Automation.00.Title">Automatización de edificios base</string>
+<string name="CO.Base_Building_Automation.01.Paragraph">Ahora tenemos una amplia variedad de nuevas máquinas disponibles para automatizar nuestra base. Usa el macerador para moler roca inútil a cambio de mineral ocasionalmente útil. La autoexcavadora puede desenterrar los ejes por encima de ella, mientras que el autoconstructor puede construir largas cadenas de transportadores para nosotros.</string>
+<string name="CO.Base_Building_Automation.02.Paragraph">Use los elevadores para viajar con seguridad entre su base de superficie y las minas más profundas. Usa los explosivos para despejar áreas grandes o destruir objetivos hostiles.</string>
+<string name="CO.Base_Defence.Title">Defensa de base</string>
+<string name="CO.Base_Defence.00.Title">Defensa de base</string>
+<string name="CO.Base_Defence.01.Paragraph">¡Ahora podemos traer la LIBERTAD a este planeta!</string>
+<string name="CO.Base_Defence.02.Paragraph">Nuestra investigación de defensa básica ha sido exitosa, ahora tenemos tres torretas disponibles para la fabricación. La torre ARTHER es eficiente desde el punto de vista energético y tiene un largo alcance, pero debe ser operada por ARTHER, por lo que debemos ubicarla cuidadosamente para proteger nuestra infraestructura de recursos mientras reunimos los materiales necesarios para construir y alimentar las torretas independientes.</string>
+<string name="CO.Basic_Mining_Upgrades_I.Title">Actualizaciones Mineras Básicas I</string>
+<string name="CO.Basic_Mining_Upgrades_I.00.Title">Actualizaciones Mineras Básicas I</string>
+<string name="CO.Basic_Mining_Upgrades_I.01.Paragraph">Hemos investigado con éxito una serie de actualizaciones para mejorar nuestra capacidad de recopilación de recursos.</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">Fundición básica de mineral</string>
+<string name="CO.Basic_Mining_Upgrades_I.03.Paragraph">Ahora podemos construir una fundición básica de mineral. Esto no admite ninguna actualización, es más lento y menos eficiente que la fundición normal que se suministra con el pod de avanzada, pero debería ayudar a eliminar ese cuello de botella por el momento.</string>
+<string name="CO.Basic_Mining_Upgrades_I.04.Paragraph">La mayoría de los recursos que hemos encontrado cerca de la superficie no son adecuados para la construcción de fundiciones de mineral, sin embargo, los escaneos han mostrado algunas formaciones rocosas pequeñas que pueden tener las propiedades requeridas.</string>
 </resources>
