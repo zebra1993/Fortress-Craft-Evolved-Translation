@@ -368,4 +368,43 @@
     <string name="Suit Headlights MK1">Trajes con Linternas Mk1</string>
     <string name="Suit Power Pack MK1">Paquete de Traje de Energía MK1</string>
     <string name="Suit Power Packs MK1">Paquetes de Trajes de Energías MK1</string>
-    </resources>
+    <string name="Suit Build Module MK1">Módulo de Construcción de Trajes MK1</string>
+    <string name="Suit Build Modules MK1">Módulos de construcción de trajes MK1</string>
+    <string name="Suit Collection Module MK1">Módulo de recogida de trajes MK1</string>
+    <string name="Suit Collection Modules MK1">Módulos de colección de trajes MK1</string>
+    <string name="Suit Insulation MK1">Traje Aislamiento MK1</string>
+    <string name="Suit Insulation Modules MK1">Traje Módulos de aislamiento MK1</string>
+    <string name="Build Gun V2">Construir Pistola V2</string>
+    <string name="V2 Build Guns">V2 Construir armas</string>
+    <string name="Jet Pack">Jet Pack</string>
+    <string name="Jet Packs">Jet Packs</string>
+    <string name="Toxic Particle Filter">Filtro de partículas tóxicas</string>
+    <string name="Toxic Particle Filters">Filtros de partículas tóxicas</string>
+    <string name="Build Gun V3">Construir Pistola V3</string>
+    <string name="V3 Build Guns">V3 Construir armas</string>
+    <string name="MK1 Suit Upgrade Module">Módulo de actualización del traje MK1</string>
+    <string name="MK1 Suit Upgrade Modules">Módulos de actualización del traje MK1</string>
+    <string name="Suit Power Pack MK2">Traje Paquete de Potencia MK2</string>
+    <string name="Suit Power Packs MK2">Paquetes de potencia de traje MK2</string>
+    <string name="ARTHER Power Core">ARTHER Energia Núcleo</string>
+    <string name="ARTHER Power Cores">ARTHER Energia Núcleos</string>
+    <string name="ARTHER Solar Panel">Panel solar ARTHER</string>
+    <string name="ARTHER Power Panel">Panel de potencia ARTHER</string>
+    <string name="ARTHER Battery Core">ARTHER Núcleo de la batería</string>
+    <string name="ARTHER Battery Cores">Núcleos de batería ARTHER</string>
+    <string name="ARTHER Upgrade Pack">Paquete de actualización ARTHER</string>
+    <string name="ARTHER Upgrade Packs">Paquetes de actualización ARTHER</string>
+    <string name="ARTHER Dapper Hat">Sombrero ARTHER apuesto</string>
+    <string name="ARTHER Dapper Hats">Sombreros apuestos ARTHER</string>
+    <string name="ARTHER Dapper Monocle">ARTHER Monóculo apuesto</string>
+    <string name="ARTHER Dapper Monocles">ARTHER Monóculos apuestos</string>
+    <string name="ARTHER Dapper Moustache">Bigote ARTHER apuesto</string>
+    <string name="ARTHER Dapper Moustaches">Bigotes ARTHER apuesto</string>
+    <string name="ARTHER Dapper Pack">Paquete ARTHER Elegante</string>
+    <string name="ARTHER Dapper Packs">Paquetes ARTHER Elegantes</string>
+    <string name="Hydroponics Bay_CRAFT_HINT">Crece las plantas mucho más rápido.</string>
+  
+  <string name="I_Understand">Yo lo Comprendo</string>
+  <string name="UI_Fastest_selected">!El nivel de servicio más rápido seleccionado!</string>
+  <string name="UI_FCE_Fastest_Settings">FortressCraft ha detectado que usted está ejecutando en el detalle más RÁPIDO. Esta configuración detallada está diseñada sólo para ordenadores de muy baja especificación con una cantidad mínima de RAM, y no se recomienda realmente para el modo de juego normal. Usted tendrá pop-in, modelos de baja poliéster y texturas borrosas.</string>
+  </resources>
