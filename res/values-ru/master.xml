@@ -4776,7 +4776,7 @@
   <string name="UI_Wave_X_X">Волна {0}/{1}</string>
   <string name="UI_next_spawn_X">След. спавн через {0}</string>
   <string name="UI_X_left_to_spawn">Осталось заспавниться {0} врагам!</string>
-  <string name="UI_Attack_imminent"/>
+  <string name="UI_Attack_imminent">АТАКА НЕИЗБЕЖНА!</string>
   <string name="UI_Attack_estaminated_X_min">Атака ожидается через {0} мин</string>
   <string name="UI_Last_attack_kills_X_Power_used_X">Послед. атака. Убито: {0}, исп. {1} Э</string>
   <string name="GAC_Found_X_of_X_items">Найдено {0} из {1} предметов.</string>
