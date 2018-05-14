@@ -4770,7 +4770,7 @@
   <string name="UI_Boss_Chance_0">Вероятн. Боссов: {0}%</string>
   <string name="UI_Bosses_expected_X_approx">Ожидается Боссов: {0} (примерно)</string>
   <string name="UI_Calmer_reducing_threat_by_X">Успокоитель снижает угрозу на {0}</string>
-  <string name="UI_Calmers_offline_OET_Charging"/>
+  <string name="UI_Calmers_offline_OET_Charging">Успокоители не работают из за перезагрузки ОПЭ!</string>
   <string name="UI_Mobs_X_Heavies_X_Bosses_X"/>
   <string name="UI_attack_underway_X_killed">Атака началась, {0} убито</string>
   <string name="UI_Wave_X_X">Волна {0}/{1}</string>
@@ -4831,4 +4831,8 @@
   <string name="UI_work_ratio_X">Степень загрузки: {0}</string>
   <string name="UI_Old_bugged_machine_in_world">В этом мире есть старая багованная машина.
 Рекомендую скормить ее Измельчителю и заменить на новую версию. Прошу простить за неудобства - DjArcas</string>
+  <string name="UI_Tank_X_Operating_X">Бак: {0}, Операция: {1}</string>
+  <string name="UI_Attached_empty_inactive">Отсутствуют материалы. Неактивно!</string>
+  <string name="UI_Attached_no_empty_inactive">Есть материалы. Неактивно!</string>
+  <string name="UI_Attached_no_empty_active">Есть материалы. Работаем!</string>
   </resources>
