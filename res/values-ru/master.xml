@@ -4771,7 +4771,7 @@
   <string name="UI_Bosses_expected_X_approx">Ожидается Боссов: {0} (примерно)</string>
   <string name="UI_Calmer_reducing_threat_by_X">Успокоитель снижает угрозу на {0}</string>
   <string name="UI_Calmers_offline_OET_Charging">Успокоители не работают из за перезагрузки ОПЭ!</string>
-  <string name="UI_Mobs_X_Heavies_X_Bosses_X"/>
+  <string name="UI_Mobs_X_Heavies_X_Bosses_X">Мобов: {0}, тяж.мобов: {1}, боссов: {2}</string>
   <string name="UI_attack_underway_X_killed">Атака началась, {0} убито</string>
   <string name="UI_Wave_X_X">Волна {0}/{1}</string>
   <string name="UI_next_spawn_X">След. спавн через {0}</string>
