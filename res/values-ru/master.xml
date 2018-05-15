@@ -4963,4 +4963,5 @@
   <string name="GAC_attempting_drop_X_into_hopper">Пытаюсь сбросить {0} в Хранилище!</string>
   <string name="GAC_Cannot_locate_X_x_X">Не могу обнаружить {0}x {1}</string>
   <string name="GAC_X_x_X_needed">{0}x {1} требуется</string>
+  <string name="Version_Mismatch_X_should_X">Несовпадение версии: {0} должна быть {1}</string>
   </resources>
