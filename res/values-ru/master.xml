@@ -4972,4 +4972,6 @@
   <string name="Creative_mode_server">Сервер Творческого режима</string>
   <string name="Error_Geothermal_C5_to_far_appart">Ошибка. Геотермальный ген-р не может связаться с ЦКК, так как расположен слишком далеко от него. Макс. расстояние - 320 метров</string>
   <string name="Airlock_no_performance_gain">ЭТА ДВЕРЬ НЕ ДАЁТ ПРИРОСТА ПРОИЗВОДИТЕЛЬНОСТИ ИГРЫ</string>
+  <string name="FALCOR">ФАЛКОР</string>
+  <string name="T_to_transfer_X">Нажмите (T) для передачи [{0}]</string>
   </resources>
