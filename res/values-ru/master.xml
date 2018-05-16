@@ -4763,7 +4763,7 @@
   <string name="UI_Holding_X">Загружено {0}</string>
   <string name="UI_station_empty">Станция пуста</string>
   <string name="UI_station_dealt_with_X_carts">Станция обслужила {0} вагонеток</string>
-  <string name="UI_Thread_scanner_Client">Сканер угроз (Client)</string>
+  <string name="UI_Thread_scanner_Client">Сканер угроз (Клиент)</string>
   <string name="UI_attack_X">Атака: {0}</string>
   <string name="UI_Base_thread">Рейтинг базы: {0}</string>
   <string name="UI_Heavy_Chance_0">Вероятн. Тяжелых : 0%</string>
