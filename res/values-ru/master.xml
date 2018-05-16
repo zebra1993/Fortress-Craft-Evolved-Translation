@@ -4822,7 +4822,7 @@
   <string name="UI_Charge_rate_X_sec">Скорость зарядки {0}/с.</string>
   <string name="UI_Press_E_Interact">«E» для взаимодействия</string>
   <string name="UI_Agitator_threat_X_X_Bonus">(От Усилителя угрозы: {0}) + {1} бонусно</string>
-  <string name="UI_Found_X_smeltable_Ore">Найдено выплавляемой руды: {0}.</string>
+  <string name="UI_Found_X_smeltable_Ore">Найдено {0} переплавляемой руды</string>
   <string name="UI_Found_X_non_ore_blocks">Найдено нерудных блоков {0}.</string>
   <string name="UI_This_should_contain_chevrons">Нужны красно-белые шевроны</string>
   <string name="UI_cant_locate_OSHA_rescources">Карьер не обнаружил блоки для возведения ограждения!</string>
