@@ -118,7 +118,7 @@
     <string name="Creative_Info">Это уже существующий Творческий Мир, но, к сожалению, тут нет особо крутой статистики, которую можно отразить. Может, вместо этого хотите картинку с котиком?</string>
 
     <string name="Update_Pending">Ожидает обновления</string>
-    <string name="Care_Package_Locked">Опция \"Помогатор\" разблокируется, когда построите Центр Климат-Контроля (ЦКК).</string>
+    <string name="Care_Package_Locked">Опция \"Помогатор\" будет разблокирована, когда вы построите Центр Климат-Контроля (ЦКК).</string>
     <string name="Care_Package_Disabled">Помогатор отключен.</string>
     <string name="Rushmode_Locked">Режим Спешки будет разблокирован после постройки Орбитального Передатчика Энергии.</string>
     <string name="Rushmode_Disabled">Режим Спешки отключён.</string>
@@ -482,10 +482,10 @@
     <string name="Cryo Bomb">Крио-Бомба</string>
     <string name="Cryo Bombs">Крио-Бомбы</string>
     <string name="Compressed Magma">Сжатая Магма</string>
-    <string name="Freezon Gas">Фризоновый Газ</string>
-    <string name="FreezonGas">Фризоновый Газ</string>
-    <string name="Compressed Freezon Canister">Баллон со Сжатым Морозом</string>
-    <string name="CompressedFreezon">Сжатый Фризон</string>
+    <string name="Freezon Gas">Морозоновый Газ</string>
+    <string name="FreezonGas">Морозоновый Газ</string>
+    <string name="Compressed Freezon Canister">Баллон со Сжатым Морозоном</string>
+    <string name="CompressedFreezon">Сжатый Морозон</string>
     <string name="Chlorine Gas">Газообразный Хлор</string>
     <string name="ChlorineGas">Газообразный Хлор</string>
     <string name="Compressed Chlorine">Сжатый Хлор</string>
@@ -885,7 +885,7 @@
     <string name="MiniHopper_DESC">Перемещает 1 предмет в 30 секунд.</string>
     <string name="CryoHopper">Криогенное хранилище</string>
     <string name="CryoHopper_DESC">Сохраняет предметы холодными. Требует энергии. Наиболее эффективен при установке в холодное место.</string>
-    <string name="Motorised Logistics Hopper">Моторизированный Логистическое Хранилище</string>
+    <string name="Motorised Logistics Hopper">Моторизированное Логистическое Хранилище</string>
     <string name="Motorised Logistics Hopper_DESC">Не реализован ввиду ограничения по свойствам конвейеров. Ой.</string>
     <string name="Solar Panel">Солнечная Батарея</string>
     <string name="Solar Panel_DESC">Генерирует энергию при дневном освещении. 
@@ -1287,7 +1287,7 @@
     <string name="DapperScale_DESC">"  "</string>
     <string name="DapperFrame_DESC">"  "</string>
     <string name="DapperVIP_DESC">" "</string>
-    <string name="CryoChilled Missile Assembler_DESC">Используются Баллоны с Морозом, накладывается эффект замедления на атакованных врагов. Даёт +15% дополнительного урона!</string>
+    <string name="CryoChilled Missile Assembler_DESC">Используются Баллоны с Морозоном, накладывается эффект замедления на атакованных врагов. Даёт +15% дополнительного урона!</string>
     <string name="Steel Alloy Smelter_DESC">Выплавляет Низкокачественные Стальные Слитки из железа и никеля.</string>
     <string name="Butcherboy Floor Stone_DESC">" "</string>
     <string name="Out_Of_Storage">Нет Места</string>
@@ -1548,8 +1548,8 @@
     <string name="CryoMine_DESC">Взрывается отравляющим газом, будучи активирована Криоплазмой.</string>
     <string name="Bomber FALCOR">ФАЛКОР-бомбардировщик</string>
     <string name="Bomber FALCOR_DESC">Сбрасывает произведенные бомбы на плотные криоплазменные отростки в большом радиусе.</string>
-    <string name="Freezon Injector">Фризоновый Инжектор</string>
-    <string name="Freezon Injector_DESC">Использует баллоны с Морозом для повышения производительности некоторого оборудования.</string>
+    <string name="Freezon Injector">Инжектор Морозона</string>
+    <string name="Freezon Injector_DESC">Использует баллоны с Морозоном для повышения производительности некоторого оборудования.</string>
     <string name="Ruined Organic Thief">Сломанный Органикрад</string>
     <string name="Ruined Organic Thief_DESC">Не применяется.</string>
     <string name="T4 Power Conduit">Энергетический канал МК4</string>
@@ -2062,7 +2062,7 @@
     <string name="Crystal Cutter Head_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить эффективность на 30% за счет снижения потерь руды. Кроме того, позволяет добывать более прочные породы.</string>
     <string name="Crystal Cutter Head_CRAFT_HINT">Кристаллическая Фреза более эффективна, но быстрее изнашивается.</string>
     <string name="Organic Cutter Head_CRAFT_DESC">Вставьте в Экстрактор Руды, чтобы повысить эффективность на 50% за счет снижения потерь руды. Кроме того, позволяет добывать более прочные материалы.</string>
-    <string name="Organic Cutter Head_CRAFT_HINT">Органическая головка более эффективна, но быстрее изнашивается.</string>
+    <string name="Organic Cutter Head_CRAFT_HINT">Органическая фреза эффективнее, но быстрее изнашивается.</string>
     <string name="Diamond Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 15%.</string>
     <string name="Diamond Focusing Lens_CRAFT_HINT">Увеличивает скорость передачи энергии на 15%</string>
     <string name="Emerald Focusing Lens_CRAFT_DESC">Вставьте в Лазерный Энергопередатчик, чтобы увеличить скорость на 30%.</string>
@@ -2561,7 +2561,7 @@
     <string name="Magma Storage_CRAFT_HINT">Магма - лучше, чем это звучит.</string>
     <string name="Cryo Inferno_CRAFT_DESC">Использует перекачиваемую Магму, чтобы сжигать Источник Криоплазмы в пределах радиуса действия. Строится по схеме 3х3х3.</string>
     <string name="Cryo Inferno_CRAFT_HINT">Для уничтожения источника Криоплазмы турель КриоИнферно должна жечь его в течение 15 минут, при этом не должно быть перерывов дольше 30 секунд. Удачи.</string>
-    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к хранилищу, чтобы подать Баллоны со сжатым морозом в совместимое оборудование.</string>
+    <string name="Freezon Injector_CRAFT_DESC">Прикрепите к хранилищу, чтобы подать Баллоны со сжатым морозоном в совместимое оборудование.</string>
     <string name="Freezon Injector_CRAFT_HINT">Посмотрите в справочнике список совместимого оборудования и эффектов.</string>
     <string name="OverClocker_CRAFT_DESC">Разгоняет существующие Кристаллические Тактовые Генераторы на более высокую частоту, используя для этого больше энергии.</string>
     <string name="OverClocker_CRAFT_HINT">Полезный производственный компонент.</string>
@@ -3648,7 +3648,7 @@
 <string name="Hamster">Хомяк</string>
 <string name="Sloth">Ленивец</string>
 <string name="Tortoise">Черепашка</string>
-<string name="Unable_locate_Freezon_Gas_hopper">В Хранилище нет болона с морозом</string>
+<string name="Unable_locate_Freezon_Gas_hopper">В Хранилище нет баллона с Морозоном</string>
 <string name="Optimal_temperature_diff_reached">Достигнут оптимальный перепад температур!</string>
 <string name="Temperature_diff">Перепад температур</string>
 <string name="Rush_mode_active_boost_on">Включён режим спешки - погнали!</string>
@@ -3970,9 +3970,9 @@
 <string name="PeakBuilds">ПиковоеСтроительство</string>
 <string name="CB_collected">СтройБот собран</string>
 <string name="C5_Offline_defences_offline">ЦКК не активен - Защита отключена.</string>
-<string name="Use_Freezon_Injector_supercharge_Lancer">Используйте Морозный Инжектор для зарядки Копья.</string>
-<string name="Storing_Freezon_ready_inject">Хранилище накоплено Морозом, готов к инжекции!</string>
-<string name="No_Freezon_compatible_machine_located">Морозно-совместимого оборудования не обнаружено</string>
+<string name="Use_Freezon_Injector_supercharge_Lancer">Используйте Инжектор Морозона для зарядки Копья.</string>
+<string name="Storing_Freezon_ready_inject">Морозон в наличии, готов к инжекции!</string>
+<string name="No_Freezon_compatible_machine_located">Морозоно-совместимого оборудования не обнаружено</string>
 
 <string name="Attempting_drop">Попытка выгрузки</string>
 <string name="into_hopper">в хранилище!</string>
@@ -3981,12 +3981,12 @@
 
 <string name="No_Valid_attached_Hoppers">Нет присоединенных Бункеров!</string>
 <string name="Looking_in_attached_hopper">Поиск в присоединенном Бункере:</string>
-<string name="s_Freezon_boost_left">с до конца Морозного усиления!</string>
-<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Загрузите Баллон с Морозом в хранилище для увеличения Э/с в 20 раз!</string>
+<string name="s_Freezon_boost_left">с до конца Морозонового усиления!</string>
+<string name="Place_SH_Freezon_Canister_for_20x_PPS_boost">Загрузите Баллон с Морозоном в хранилище для увеличения Э/с в 20 раз!</string>
 <string name="Placing_verifying_pipes">Размещение и проверка труб.</string>
 <string name="Pipe_drill_stuck_hard_obstacle_Pls_remove">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
 <string name="Cant_locate_pipes_in_adjacent_SH">Нет труб в присоединенном Бункере!</string>
-<string name="Freezon_Gas_required_full_performance">Для максимальной эффективности нужен болон с морозом!</string>
+<string name="Freezon_Gas_required_full_performance">Для максимальной эффективности нужен баллон с Морозоном!</string>
 <string name="Handy_Hint_2">Супер-строительство позволяет вносить существенные изменения в мир - попробуйте!</string>
 <string name="SuperBuild_lets_you_create_massive_structures_quickly">СуперСтроительство позволяет быстро создавать громадные структуры. Жмите «F10» чтобы выйти</string>
 <string name="Schematics_lets_you_easily_duplicate_your_creations">Схемы позволяют с лёгкостью копировать ваши творения. «F11» - выход</string>
@@ -4487,7 +4487,7 @@
   <string name="UI_Adjust_range">Настройте высоту с помощью «Q» и «E».</string>
   <string name="UI_Powerd_compresser_required_X_m">Для подъёма на высоту более {0}м требуется Лифтовой Компрессор</string>
   <string name="UI_Current_Pressure_X_X_bar">Текущее давление: {0}/{1}бар</string>
-  <string name="UI_Stored_pressure_X_bar">запас давления: {0}бар</string>
+  <string name="UI_Stored_pressure_X_bar">Запас давления: {0} бар</string>
   <string name="UI_Burn_Time_X">Время горения: {0}с</string>
   <string name="UI_active_X_of_last_X_s">Активно: {0}с за последние {1}с</string>
   <string name="UI_Efficency_X">Эффективность: {0}</string>
@@ -4561,7 +4561,7 @@
 Подождите немного, пока мир дозагрузится.
 Если это часто случается в одиночном режиме, пожалуйста, убедитесь, что установленное антивирусное ПО не мешает работе.
 
-Чанков прогруженно {0}</string>
+Чанков прогружено {0}</string>
   <string name="UI_Attached_to_lift">Подключено к лифту</string>
   <string name="UI_Compresspr_active">Компрессор активен!</string>
   <string name="UI_Compressor_Idle">Компрессор простаивает.</string>
@@ -4579,7 +4579,7 @@
   <string name="UI_Unable_locate_conveyors_for_upgrade">Не обнаружено конвейеров для улучшения!</string>
   <string name="UI_serach_Distance_X">Дистанция поиска {0} м</string>
   <string name="UI_Conersions_X">Преобразование {0}</string>
-  <string name="UI_Blocked_Please_clear">Блокирован! Проверьте и отчистите!</string>
+  <string name="UI_Blocked_Please_clear">Блокировано! Проверьте и очистите!</string>
   <string name="UI_Build_complete">Строительство завершено!</string>
   <string name="UI_Needs_X_more_power">Требуется еще {0} энергии</string>
   <string name="UI_Looking_valid_hopper">Поиск присоединенного хранилища!</string>
@@ -4642,7 +4642,8 @@
 Создает трубы из слитков</string>
   <string name="UI_Bender_desc">Гибочный станок
 Гнёт на разные углы</string>
-  <string name="UI_Adv_conv_filter_desc">Улучшенный конвейерный фильтр.</string>
+  <string name="UI_Adv_conv_filter_desc">Улучшенный конвейерный фильтр.
+Эффективная сортировка с 1291 года.</string>
   <string name="UI_Transport_pipe_desc">Транспортная труба
 Быстрая и защищенная транспортировка.</string>
   <string name="UI_Conv_belt_filter">Конвейерный фильтр</string>
@@ -4654,27 +4655,27 @@
   <string name="UI_Warning_Frozen">ВНИМАНИЕ - ЗАМЁРЗЛО!</string>
   <string name="UI_Filter_set_to_X">Фильтр установлен на [{0}]</string>
   <string name="UI_Press_T_Invert_Filter">Нажмите «T», чтобы инвертировать фильтр.</string>
-  <string name="UI_Error_Conv_Filter_cant_deal_with_X">Ошибка, конвейер не может работать с [{0}]</string>
-  <string name="UI_Filtersetting_ALL">Все типы</string>
-  <string name="UI_Filtersetting_GARBAGE">Мусор</string>
-  <string name="UI_Filtersetting_COMBUSTIBLE">Топливо</string>
-  <string name="UI_Filtersetting_ORE">Руда</string>
-  <string name="UI_Filtersetting_NOTHING">Ничего</string>
-  <string name="UI_Filtersetting_CRYSTALS">Кристаллы</string>
-  <string name="UI_Filtersetting_BIOMASS">Биомасса</string>
-  <string name="UI_Filtersetting_BARS">Слидки</string>
+  <string name="UI_Error_Conv_Filter_cant_deal_with_X">Ошибка, фильтр не может работать с [{0}]</string>
+  <string name="UI_Filtersetting_ALL">ВСЕ типы</string>
+  <string name="UI_Filtersetting_GARBAGE">МУСОР</string>
+  <string name="UI_Filtersetting_COMBUSTIBLE">ТОПЛИВО</string>
+  <string name="UI_Filtersetting_ORE">РУДА</string>
+  <string name="UI_Filtersetting_NOTHING">НИЧЕГО</string>
+  <string name="UI_Filtersetting_CRYSTALS">КРИСТАЛЛЫ</string>
+  <string name="UI_Filtersetting_BIOMASS">БИОМАССА</string>
+  <string name="UI_Filtersetting_BARS">СЛИТКИ</string>
   <string name="UI_Filtersetting_ORGANIC">ОРГАНИКА</string>
-  <string name="UI_Filtersetting_CRAFTED">предметы крафта</string>
-  <string name="UI_Filtersetting_SMELTABLE">Плавящиеся</string>
-  <string name="UI_Filtersetting_RESEARCHABLE">Исследуемые</string>
-  <string name="UI_Filtersetting_UNKNOWN">Неизвестные</string>
+  <string name="UI_Filtersetting_CRAFTED">предметы КРАФТА</string>
+  <string name="UI_Filtersetting_SMELTABLE">ВЫПЛАВЛЯЕМОЕ</string>
+  <string name="UI_Filtersetting_RESEARCHABLE">ИССЛЕДУЕМОЕ</string>
+  <string name="UI_Filtersetting_UNKNOWN">НЕИЗВЕСТНОЕ</string>
   <string name="UI_Current_Power_X">Текущая энергия: {0}</string>
   <string name="UI_Power_per_Fire">Энергия для выстрела</string>
   <string name="UI_Success_Fail_X_X">Успех/Неудача: {0}/{1}</string>
   <string name="UI_No_Location_Marker_installed">Маркер не установлен</string>
   <string name="UI_Location_marker_no_location">Маркер не содержит координат</string>
   <string name="UI_Target_X_m_away">Цель дальше {0}м</string>
-  <string name="UI_Stand_Teleporter_Jump_activate">Встаньте на телепорт и нажмите прыжок для активации</string>
+  <string name="UI_Stand_Teleporter_Jump_activate">Встаньте на телепорт и нажмите «прыжок» для активации</string>
   <string name="UI_Q_Selfdestruct">Нажмите Q для самоуничтожения.</string>
   <string name="UI_Rocket_abort">ПРЕРВАНО ПОЛЬЗОВАТЕЛЕМ</string>
   <string name="UI_Launch_in_Progres">Запуск...</string>
@@ -4700,7 +4701,7 @@
   <string name="UI_No_Threads_detected">Угрозы не обнаружены...</string>
   <string name="UI_Next_attack_X_s">Следующая атака через {0}с</string>
   <string name="UI_Quarry">Карьер</string>
-  <string name="UI_Scanning_Ablated_Resin_X_complete">Сканирование на абляционную смолу - {0} завершено</string>
+  <string name="UI_Scanning_Ablated_Resin_X_complete">Поиск Аблированной смолы - {0} завершено</string>
   <string name="UI_Place_Facing_Conveyor">Пожалуйста, поставьте перед Конвейером!</string>
   <string name="UI_Holding_X_ready_for_spidy">"Готово для передачи ПаукоБоту - [{0}]! "</string>
   <string name="UI_Power_IN_X_avg_X">Приём энергии: {0} (Среднее: {1})</string>
@@ -4716,7 +4717,7 @@
 Собирает свет Сверхновой, эффективность {0}%</string>
   <string name="UI_Controller_state_X">Статус контроллера: {0}</string>
   <string name="UI_Connected_to_X_Reactor_vat">Подсоединено к {0} биореакт.</string>
-  <string name="UI_not_connected_reactor_vat_Must_connected_operate">Не подключен к реактору.
+  <string name="UI_not_connected_reactor_vat_Must_connected_operate">Не подключен к биореактору.
 Для управления реактором - должен быть подключен к нему.</string>
   <string name="UI_Link_State_X">Состояние соединения: {0}</string>
   <string name="UI_not_collecting_e_Toggle">Не собирает. (E) для переключения</string>
@@ -4726,8 +4727,8 @@
   <string name="UI_Filter_Everything_Exept_X">Фильтр настроен на все. КРОМЕ: [{0}]</string>
   <string name="UI_Select_Item_Hotbar_Exemplar">Выберите элемент в вашей горячей панели для использования в качестве примера</string>
   <string name="UI_Q_Set_Output_to_X">Нажмите «Q» чтобы установить на выход {0}</string>
-  <string name="UI_Warning_Infested_Conveyor">ВНИМАНИЕ - КИШАШИЕ! - См. Справочник (H)</string>
-  <string name="UI_Filtersetting_GEMS">Самоцвет</string>
+  <string name="UI_Warning_Infested_Conveyor">ВНИМАНИЕ - ЗАРАЖЕНО! - См. Справочник (H)</string>
+  <string name="UI_Filtersetting_GEMS">САМОЦВЕТЫ</string>
   <string name="UI_T_Minus_X">Обратный отсчет: {0}</string>
   <string name="UI_FlightTime_X">Время полета: {0}</string>
   <string name="UI_Fuel_Efficiency_X">Эффективность топлива: {0}</string>
@@ -4735,7 +4736,7 @@
   <string name="UI_Engine_Power_X">Энергия двигателя: {0}</string>
   <string name="UI_Rocket_has_X_Parts_X_m_tall">Ракета состоит из {0} частей и высотой {1} м</string>
   <string name="UI_Rocket_weight_X_Thrust">Ракета весит {0} т и имеет тягу {1} kN.</string>
-  <string name="UI_DeltaV_X">Разница скорости: {0} м/с</string>
+  <string name="UI_DeltaV_X">Δv: {0} м/с</string>
   <string name="UI_dry_mass_X_Fuel_mass_X">Сухая масса - {0} т, Масса топлива {1} т</string>
   <string name="UI_Rocket_launch_capable">Ракета готова к запуску.</string>
   <string name="UI_Needs_X_Thrust">НУЖНО {0} ТЯГИ!</string>
@@ -4974,4 +4975,5 @@
   <string name="Airlock_no_performance_gain">ЭТА ДВЕРЬ НЕ ДАЁТ ПРИРОСТА ПРОИЗВОДИТЕЛЬНОСТИ ИГРЫ</string>
   <string name="FALCOR">ФАЛКОР</string>
   <string name="T_to_transfer_X">Нажмите (T) для передачи [{0}]</string>
+  <string name="Mounted_on_SH_only_Logi_Falcors_service">Устанавливается сверху Бункера. Обслуживается только Логистическими ФАЛКОРами</string>
   </resources>
