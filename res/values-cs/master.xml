@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Vítej! Tvoje řeč je jen částečně podporována. Pokud se chceš vrátit k Angličtině, prostě stiskni \"English\" níže!</string>
     <string name="Translation_Incomplete">Nekompletní překlad!</string>
-    <string name="Language_Name">Angličtina</string><string name="Frozen_Factory">Zmrzlá Továrna</string>
+    <string name="Language_Name">Čeština</string><string name="Frozen_Factory">Zmrzlá Továrna</string>
     <string name="Dapper_Pack">Elegantní Balíček</string>
     <string name="Skin_Pack">Vzhledový Balíček</string>
     <string name="Installed">Instalován</string>
     <string name="Not_Installed">Není instalován</string>
     <string name="Multiplayer_Sign">&lt;Hra více hráčů</string>
-    <string name="Quit_Sign">Odejít</string>
+    <string name="Quit_Sign">Ukončit</string>
     <string name="World_Sign">Výběr světa</string>
     <string name="Create_World">Vytvořit svět</string>
     <string name="Spacebar">Mazerník</string>
