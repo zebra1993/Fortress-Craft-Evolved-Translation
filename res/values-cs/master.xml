@@ -11,7 +11,7 @@
     <string name="World_Sign">Výběr světa</string>
     <string name="Create_World">Vytvořit svět</string>
     <string name="Spacebar">Mezerník</string>
-    <string name="Resource_Level">Množství surovin</string>
+    <string name="Resource_Level">Množství Surovin</string>
     <string name="Power_Level">Úroveň energie</string>
     <string name="Conveyor_Speed">Rychlost dopravníků</string>
     <string name="Day_Night_Cycle">Cyklus den/noc</string>
@@ -27,7 +27,7 @@
     <string name="Back">Zpět</string>
     <string name="Mutators">Mutátory</string>
 
-    <string name="Enter_World">Spustit svět</string>
+    <string name="Enter_World">Vytvořit Svět</string>
     <string name="Reset_World">Resetovat svět</string>
 
 
@@ -40,7 +40,7 @@
     <string name="Version">Verze</string>
     <string name="Lock">Zámek</string>
     <string name="Status">Status</string>
-    <string name="Workshop">Dílna</string>
+    <string name="Workshop">Workshop</string>
 
     <string name="Workshop_Mod">Workshop mód</string>
     <string name="Update_Pending">Aktualizace čeká</string>
@@ -74,22 +74,27 @@
     <string name="Survival">Přeživší</string>
     <string name="Creative">Kreativní</string>
 
-    <string name="Default_Settings_Info">Výchozí nastavení je nastaveno na super rychlé a super snadné pro nové hráče! Chcete-li to ještě rychlejší, zvolte možnost Věčný den pro denní/noční cyklus. Pokud chcete více problémů, pak si pohrajte s těmito nastaveními pro vaší spokojenost!
-Pamatujte že tyto nastavení jsou ZAMKNUTÉ po dobu vašeho hraní a všimněte si cílového času!</string>
-    <string name="Previous_Visit">Byl jsi v tomto světě přežití dříve!</string>
+    <string name="Default_Settings_Info">"Výchozí nastavení: doporučeno pro začínající hráče. Chcete li hru ještě více urychlit, nastavte si denní/noční cyklus na Věčný den. Pokud chcete více problémů, zvolte si nastavení jaké Vám bude vyhovovat. Pamatujte že všechny tyto volby je možné je měnit pouze při vytváření nového světa. Jakmile je hra již  vytvořena jsou všechna tato nastavení UZAMČENA!"</string>
+    <string name="Previous_Visit">Tento svět již byl vytvořen. Můžeš pokračovat ve hře a nebo hru restartovat. Restartováním dojde ke smazání již odehrané hry!</string>
     <string name="Play_time">Herní čas</string>
     <string name="Mod_Selected">mód vybrán.</string>
     <string name="Mods_Selected">módy vybrány.</string>
     <string name="Existing_Seed">Existující Seed</string>
 
-    <string name="Resources_Plentiful_Info">Bohaté zdroje vám poskytnou spoustu zdrojů a masivně urychlí váš časný a pozdní vývoj. To je dobrý výchozí bod pro začínající hráče.</string>
-    <string name="Resources_Scarce_Info">Slabé zdroje vám pomalejší, přemýšlivější hru s dostatečným časem prozkoumat a optimalizovat svou základnu. Nedoporučuje se pro začátečníky!</string>
-    <string name="Resources_Greg_Info">Prostředky na úrovni Gregu masivně sníží míru progrese. To je vyvážené pro 24/7 vyhrazené multiplayerové servery nebo VELMI trpělivé lidi!</string>
-    <string name="Resources_Rapid_Info">Rapidní Zdroje je určen pro ty, kteří ve spěchu, s dětmi, zaměstnáním nebo se pokoušejí streamovat hru za víkend! To je také skvělé místo, pokud chcete rychle se učit hru, než se vrátíte na těžší potíže.</string>
+    <string name="Resources_Plentiful_Info">Získáte bohaté zdroje surovin které velmi urychlí Váš postup ve hře. Toto nastavení je vhodné zejména pro začínající hráče.</string>
+    <string name="Resources_Scarce_Info">Surovin je velmi málo a proto je vhodné dobře promýšlet každý krok a neplýtvat zbytečně surovinami. Toto nastavení se nedoporučuje pro začínající hráče!</string>
+    <string name="Resources_Greg_Info">Prostředky na úrovni Gregu masivně sníží rychlost postupu ve hře. Toto nastavení je vhodné pro 24/7 multiplayerové servery nebo VELMI trpělivé lidi!</string>
+    <string name="Resources_Rapid_Info">Nastavení je vhodné například pro začínající hrače nebo pro streamování. Vhodné je i pro hráče kteří nemají na hru tolik času (pracující nebo rodiče s dětmi).</string>
 
 
     <string name="Conveyor_Slow_Info">Pomalé dopravníky jsou dobře vyvážené a zdůrazňují potřebu dokonalejšího přepravního systému. Tímto nastavením bude váš postup mnohem pomalejší.</string>
-    <string name="Conveyor_Fast_Info">Rychlé Dopravníky znamenají méně čekání okolo. Jsou dvakrát tak rychlejší než pomalé dopravníky.</string>
+    <string name="Conveyor_Fast_Info">Rychlé Dopravníky znamenají méně čekání okolo. Jsou dvakrát rychlejší než pomalé dopravníky.</string>
 
     <string name="SquishCore">SquishCore</string>
+    <string name="Scarce_Power_Info">Vyvážená produkce energie. Toto nastavení zpomalí postup v počáteční fázi hry.</string>
+
+    <string name="Eternal_Day_Info">Věčný den znamená, že vaše systémy kolekce slunečních paprsků budou pracovat neustále a nebudete trpět teplotním poklesem v noci. Volba této možnosti umožní mnohem rychlejší postup - průměrná kolekce solárních článků je 4x rychlejší!</string>
+    <string name="Day_Night_Info">Normální cyklus Den / Noc je 24 minut. Na 12 minut tmy budete trpět extrémními teplotními poklesy, zvýšenou agresí mobů a sníženou viditelností.</string>
+    <string name="Eternal_Night_Info">Věčná noc znamená neustálý souboj s mrazivým chladem a žádný přístup k neorganické solární technologii; včetně vašeho CPH. Toto nastavení je významnou výzvou.</string>
+
     </resources>
