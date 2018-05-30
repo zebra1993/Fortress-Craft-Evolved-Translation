@@ -1,2 +1,239 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">Úvodní příručka</string>
+<string name="SU.01Welcome.00.Title">Vítejte u hry FortressCraft Evolved</string>
+<string name="SU.01Welcome.01.Header">Režim přežití</string>
+<string name="SU.01Welcome.02.Paragraph">Právě jste unikl z Orbitální stanice na poškozeném záchranném člunu. Během přistání byl člun zničen ale naštěstí se vám podařilo bezpečně katapultovat. Nyní budete muset přežít na této hrozné cizí planetě!</string>
+<string name="SU.01Welcome.03.Header">Začínáme</string>
+<string name="SU.01Welcome.04.Paragraph">Skafandr který máte na je vybaven tou nejlepší technologií. Dokáže Vás udržet v teple i v těchto chladných podmínkách, potřebuje k tomu ale dostatek energie. Okolí havárie by Vám mělo poskytnout nějaké suroviny do začátku, je ale potřeba co nejdříve začít hledat další zdroje.</string>
+<string name="SU.01Welcome.05.Header">Ovládání</string>
+<string name="SU.01Welcome.06.Paragraph">Ovládací prvky hry jsou uvedeny v samostatné příručce níže.</string>
+<string name="SU.01Welcome.07.Header">Tipy na přežití</string>
+<string name="SU.01Welcome.08.Paragraph">Pro ty z Vás co nechcete číst celou příručku, zde máme pár rychlých rad.
+Následující stránky budou obsahovat podroběnší informace o tom jak začít.</string>
+<string name="SU.01Welcome.09.Paragraph">"- Váš skafandr je navržen tak, aby se během dne nabíjel pomocí solární energie
+- V startovací oblasti se nachází Centrální Energetický Hub. Použijte ho k výrobě energie potřebné pro nabíjení sousedních strojů.
+- Energii skafandru můžete doplnit pomocí Centrálního Energetického Hubu nebo stiskem \'Q\' na napájecím bloku.
+- Stiskněnte (\"E\") na Výrobně, abyste zjistili co můžete vyrobit.
+- Pro zahřátí je možné použít i Pochodně. Vyrobit je lze v Osobním výrobním okně (\"C\").
+- Používejte skenovací nástroj (\'M\') ke skenování bloků. Jejich zpracováním ve Výzkumné stanici odemknete nové recepty.
+- Skenovací nástroj lze použít pro Vyhledání neznámých bloků. Díky tomu můžete nalézet nové suroviny.
+- Věnujte velkou pozornost rychlosti vybíjení baterie na obleku, modrý text označuje, že váš oblek ovlivňuje extrémní chlad a červený text znamená extrémní teplo.
+- Světlomet na skafandru vyžaduje energii. Je to skvělý pomocník pro průzkum ale nezapomínejte ho vypnout.
+- Uhlí je pro začátek nejlepší palivo. V případě krize je však možné k výrobě energie použít i místní flóru.
+- Je možné že budete muset kopat velmi hluboko aby jste našli rudy které hledáte.
+- Stavět můžete na poměrně velkou vzdálenost. Je to výhodné například při  osvětlení velkých jeskyní."</string>
+<string name="SU.01Welcome.10.Header">Vybavení v místě havárie</string>
+<string name="SU.01Welcome.11.Paragraph">Centrální Energetický Hub je váš první generátor. Má solární panely a může vyrábět energii i spalováním paliva. Skladovací kapacitu má pouze na jeden kus paliva. Je tedy velmi důležité dodávku paliva automatizovat. Má velkou vnitřní kapacitu pro ukládání energie.</string>
+<string name="SU.01Welcome.12.Paragraph">Energetický Blok může uchovat až 250 energie a distribuovat jí k sousedním strojům.</string>
+<string name="SU.01Welcome.13.Paragraph">Chcete-li získat Ingoty potřebné pro výrobu nových strojů, budete muset zpracovávat rudy v Tavící Peci. Rudy k vypálení můžete do pece dávat ručně, nebo můžete zpracování rudy automatizovat. Zpracování suroviny se zahájí, jakmile Tavící Pec obdrží dostatek materiálu k tavení alespoň jednoho ingotu a pec dosáhne potřebné teploty.</string>
+<string name="SU.01Welcome.14.Paragraph">Jednoduché věci můžete provádět sami pomocí Ruční Výroby, která se otevřete stiskem \"c\". U složitějších strojů a komponentů budete muset použít Výrobnu. Recepty jsou rozděleny do kategorií, které můžete najít kliknutím na barevné čtverce. V tomto okamžiku může Výrobna používat pouze položky které máte ve vašem inventáři. Vyrobené věci se Vám umístí do inventáře.</string>
+<string name="SU.01Welcome.15.Paragraph">V počátku hry, váš skener nemá znalosti o žádném materiálu který se nachází na planetě. Každý nový materiál který naleznete je potřeba zpracovat ve výzkumné stanici. Za zpracování dostanete výzkumné body které můžete investovat do nových výzkumných projektů nebo receptů pro Výrobnu. Výzkumná stanice potřebuje k provozu přísun energie.</string>
+<string name="SU.01Welcome.16.Header">Hledání prvních surovin</string>
+<string name="SU.01Welcome.17.Paragraph">Skener má schopnost nalézt známý typ rudy, nejprve je ale potřeba je nalézt. Klíčem k nalezení nových rud je použití volby Hledání Neznámého materiálu na skeneru. Při prvním použití vám nejprve zobrazí všechny bloky kolem vás, protože o nich neví.</string>
+<string name="SU.01Welcome.18.Paragraph">Takže vaším prvním úkolem bude skenovat okolí a zpracovat tyto kontroly na výzkumné stanici. Jakmile prozkoumáte hlínu, kamení a sníh kolem vás, začne Vám Hledání Neznámých Materiálu zobrazovat užitečné věci ve vašem okolí.</string>
+<string name="SU.01Welcome.19.Paragraph">Jakmile najdete ve vašem okolí rudnou žílu, je potřeba jí naskenovat a zpracovat ve Výzkumné Stanici, abyste jí nahráli do skeneru. Od toho okamžiku se při Vyhledávání Rudy vaším skenerem budou zobrazovat rudné žíly tohoto druhu.</string>
+<string name="SU.01Welcome.20.Header">Těžba Rudy</string>
+<string name="SU.01Welcome.21.Paragraph">Nyní, když jste našli svou první rudou žílu, je potřebovat z ní extrahovat rudu. Můžete jí natěžit kliknutím pravým tlačítkem myši, získáte tím ale pouze jeden kus rudy na každé stisknutí.</string>
+<string name="SU.01Welcome.22.Paragraph">Lepší možností je použít režim Super Dig, který aktivujete stisknutím klávesy CTRL při kopání. Tím rychle vykopnete velké množství rudy, ale vyčerpáte zásoby energie vysokou rychlostí.</string>
+<string name="SU.01Welcome.23.Paragraph">Při používání Super Dig je potřeba hlídat si množství energie. Skafandr také potřebuje přísun energie aby Vás dokázal udržet v teple! Snažte se vytvořit si bezpečnou zpáteční cestu k Hubu , která bude osvětlena pochodněmi aby vás dokázali zahřát.</string>
+<string name="SU.01Welcome.24.Header">Automatizace Těžby</string>
+<string name="SU.01Welcome.25.Paragraph">Z dlouhodobého hlediska je výhodnější pro těžbu rudy využívat Extraktor Rudy. Několik jich máte v počáteční výbavě a můžete tedy jeden z nich umístit vedle ložiska a nabít ho energií potřebnou pro provoz. Disponuje malým vnitřním úložným prostorem, takže se můžete vydat na další průzkum a pro natěženou rudu se vrátit později.</string>
+<string name="SU.01Welcome.26.Paragraph">Extraktor dokáže vytěžit celé ložisko rudy z jednoho místa. Bude tedy potřeba ho přesunout na nové místo až v okamžiku kdy bude celé ložisko spotřebované.</string>
+<string name="SU.01Welcome.27.Paragraph">Zásobníky mohou přijímat rudy a výrobky od strojů a zásobovat jimi jiné stroje. To z nich dělá nezbytnou součást v automatizaci těžby a zpracování surovin.</string>
+<string name="SU.01Welcome.28.Paragraph">Jakmile budete mít nějaké suroviny navíc, můžete je využít ke stavbě Dopravníků. S jejich pomocí můžete snadno dopravit natěženou rudu od Extraktoru do Pece k vypálení. Jsou levné ale k propojení místa těžby se základnou jich bude potřeba velké množství. Pro fungování nevyžadují přísun energie.</string>
+<string name="SU.02FirstNight.Title">Přežití První Noci</string>
+<string name="SU.02FirstNight.00.Title">Přežití první Noci</string>
+<string name="SU.02FirstNight.01.Paragraph">Tato příručka je o přežití První Noci krok za krokem. Pokud nechcete přijít o překvapení, přestaňte nyní číst!</string>
+<string name="SU.02FirstNight.02.Header">Dokončení tutoriálu</string>
+<string name="SU.02FirstNight.03.Paragraph">Probouzíte se u malé základny, vedle vás je kráter který vznikl při havárii vaší lodě. Vaším prvním úkolem bude dokončit úvodní tutoriál. Po jeho splnění bude silové pole odstraněno.</string>
+<string name="SU.02FirstNight.04.Header">Inventář a získání tepla</string>
+<string name="SU.02FirstNight.05.Paragraph">Otevřete svůj inventář stisknutím tlačítka \"i\". Za začátku máte 5 pochodní a 3 Extraktory Rudy. To druhé jsou cenné stroje pro těžbu rudných žil, nikoliv však pro okamžité přežití. Ty první jsou naprosto nezbytné.</string>
+<string name="SU.02FirstNight.06.Paragraph">Vyberte v rychlém menu pozici obsahující Pochodeň a umístěte jednu na zem ve vzdálenosti několika bloků od vašich strojů. Pochodeň Vám poskytne nejen světlo ale i teplo, pokud se k ní dostatečně přiblížíte. Indikátor v pravém horním rohu obrazovky označuje vnější teplotu a vnitřní teplotu obleku. Skafandr Vás automaticky udržuje v teple, ale stojí to energií. Pokud stojíte blízko Pochodně, uvidíte jak vnější teplota stoupá, což znamená, že váš oblek používá méně energie, na to aby vás udržoval v teple. Dávejte ale i pozor , aby jste se příliš nezahřáli. Skafandr by totiž začal spotřebovávat více energie k tomu aby Vás ochladil!</string>
+<string name="SU.02FirstNight.07.Header">Získání Paliva</string>
+<string name="SU.02FirstNight.08.Paragraph">Stroj s tím velkým laserovým zařízením je váš Centrální Energetický Hub. Jedná se o generátor energie, který shromažďuje solární energii a obsahuje i malý generátor který může spalovat různé materiály pro dodatečný přísun energie. Napájí také energií blízké stroje a Energetické Bloky.</string>
+<string name="SU.02FirstNight.09.Paragraph">Můžete získat energii přímo z Hubu interakcí s ním (\'e\') a stisknutím tlačítka \'Odčerpat Energii\'. Ložisko uhlí které máte na začátku hry k dispozici je velmi malé, a nebude trvat dlouho než je zcela vyčerpáte. Vaším dalším krokem by tedy mělo být zajištění dalších zdrojů paliva.</string>
+<string name="SU.02FirstNight.10.Paragraph">"Pokud jste se rozhodli hrát na lehkou obtížnost, budete mít na začátku hry k dispozici uhelnou žílu a extraktor, jinak budete muset hledat palivo. Máte-li extrémní štěstí, bude kráter po dopadu vaší lodi obsahovat uhelnou žílu. Mnohem pravděpodobněji se ale budete muset spokojit se stromy které rostou kolem kráteru. Pokácejte stromy a sesbírejte dřevo. Dojděte k Hubu stiskem (\'e\') otevřete ovládací panel Hubu a stiskněte \'přidat suroviny\'. Tím začnete spalovat jeden z kusů dřeva který máte v inventáři. Palivo budete muset doplňovat ručně, dokud nebudete  mít dostatek surovin aby jste tento proces mohli automatizovat."</string>
+<string name="SU.02FirstNight.11.Paragraph">Dokud Hub spaluje dřevo, můžete si všimnout jak grafika na Energetickém Bloku začne rotovat, to znamená že blok sbírá energii. Energii můžete načerpat z bloku nebo můžete počkat, až bude Energetický blok plný a energie se začne hromadit v Hubu.</string>
+<string name="SU.02FirstNight.12.Header">Prozkoumejte své okolí</string>
+<string name="SU.02FirstNight.13.Paragraph">Nyní, když máte nízkou, ale stabilní dodávku energie, můžete začít zkoumat vaše okolí. Energii kterou odčerpá skafandr aby vás udržel v teple, můžete doplnit v Hubu. Dávejte pozor na úroveň energie vlevo nahoře. Pokud je lišta prázdná, rychle se začnete ochlazovat až k bodu, kdy můžete dostat hypotermii.</string>
+<string name="SU.02FirstNight.14.Paragraph">"Hlídejte si stav energie aby jste měli jistotu že Vám vystačí na zpáteční cestu k Hubu.
+ "</string>
+<string name="SU.02FirstNight.15.Paragraph">Váš skafandr je vybaven skenovacím zařízením, které je neocenitelné pro vaše přežití. Nástroj můžete vybrat stisknutím tlačítka \"M\". Nyní můžete skenovat pomocí pravého tlačítka myši nebo zapnout vyhledávání materiálu levým tlačítkem. Dávejte pozor na to, aby jste hledání materiálu nepoužívali zbytečně, má velkou spotřebu energie.</string>
+<string name="SU.02FirstNight.16.Paragraph">Vaším dalším úkolem bude skenovat okolí. Zaměřte se na blok, který jste ještě nezačali naskenovat a podržte pravé tlačítko myši, dokud se v dolním levém okně nezobrazí, že je skenování dokončeno. Zkuste skenovat všechny bloky v okolí, včetně sněhu, hlíny, dřeva a listů!</string>
+<string name="SU.02FirstNight.17.Header">Prozkoumejte své okolí</string>
+<string name="SU.02FirstNight.18.Paragraph">Nyní, když máte bloky naskenované, je čas zpracovat skenování na výzkumné stanici. Otevřete rozhraní stisknutím tlačítka \"e\". V okně se zobrazí seznam vašich nezpracovaných skenů, po kterých následuje počet výzkumných bodů, které vám budou poskytnuty po zpracování. Výzkumné body nejsou prozatím důležité, takže je ignorujte. Proveďte všechny kontroly, které máte ve svém seznamu. Zpracování každého skenu vyžaduje energii, pokud jste ale udržovali svůj Hub naplněný dřevem nebo uhlím, měla by být jeho zásoba energie dostatečná pro zpracování všech vašich skenů.</string>
+<string name="SU.02FirstNight.19.Paragraph">Zpracování skenů může vést k odemčení výzkumných projektů, ale o to se prozatím nemusíte starat, skenování vašeho okolí je mnohem důležitější úkol.</string>
+<string name="SU.02FirstNight.20.Header">Průzkum okolí</string>
+<string name="SU.02FirstNight.21.Paragraph">Nyní když máte bloky ve svém okolí naskenované a zpracované, můžete použít detektor materiálů s větší efektivitou.</string>
+<string name="SU.02FirstNight.22.Paragraph">Nyní se vydáme hledat vaší první rudnou žílu. Na Skeneru si nastavte volbu \"Neznámý materiál\" a stiskněte levé tlačítko myši. Skener zvýrazní všechny neznámé bloky v dosahu.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Pokud jste nenaskenovali všechny neznámé bloky ve vašem okolí, vyhledávání zobrazí bloky kolem místa havárie jako jsou hlína nebo kámen. Pokud k tomu dojde, naskenujte a zpracujte tyto bloky a zkuste to znovu. "</string>
+<string name="SU.02FirstNight.24.Paragraph">Pokud byste byli úspěšní, měli byste vidět hromadu neznámých ložisek někde pod zemí nebo v nedalekých kopcích. Stále si ale hlídejte úroveň energie vašeho skafandru, není nutné někde zbytečně umrznout!</string>
+<string name="SU.02FirstNight.25.Header">Těžba ložiska</string>
+<string name="SU.02FirstNight.26.Paragraph">Nyní si budete muset vykopat cestu k těmto znamením a zjistit co znamenají. Oskenujte žílu a zpracujte ji. Všimnete si, že za jejich zpracování získáváte více výzkumných bodů než za běžné materiály. Jakmile novou rudu zpracujete ve Výzkumném Centru, můžete se vrátit zpět k ložisku rudy a znovu je naskenovat. Nástroj vám poskytne informace o tomto konkrétním ložisku; jak velké je a kolik rudy obsahuje (Velikost ložiska a obsah rudy je něco jiného).</string>
+<string name="SU.02FirstNight.27.Paragraph">Použijte Vrhací Kotvu (\'F\'), abyste se rychle dostali zpět z díry, kterou jste vykopali.</string>
+<string name="SU.02FirstNight.28.Paragraph">Pokud nehrajete na jednoduchou obtížnost, je nejdůležitější nalézt nějaké uhlí. Měď, cín nebo železo, se bude později také hodit ale bez uhlí Vám k ničemu nebude. Pokuste se zapamatovat si polohu, jednotlivých nalezišť ať se k nim můžete později vrátit. Když si je nezapamatujete , nic se neděje. Později můžete použít Vyhledávač Rud aby jste je opět našli.</string>
+<string name="SU.02FirstNight.29.Header">Těžba Uhlí</string>
+<string name="SU.02FirstNight.30.Paragraph">Rudné žíly ve FortressCraft Evolved mohou být masivní, někdy obsahují až milióny jednotek rudy. Vykopat takovou žílu není záležitost několika kliknutí; na takovou práci budete potřebovat stroje a hodně energie.</string>
+<string name="SU.02FirstNight.31.Paragraph">Nyní když jste našli svou první uhelnou žílu, bude potřeba věnovat jí trochu času. Jako první si vytvořte bezpečnou cestu zpět k Hubu. Po této cestě budete chodit velmi často, takže čas který tomu věnujete, se Vám určitě vrátí.</string>
+<string name="SU.02FirstNight.32.Paragraph">Nyní si z Hubu doplňte energii ve skafandru a vraťte se zpět k uhelné žíle. Umístěte zde jednu Pochodeň, to by mělo pomoci snížit spotřebu energie za vyhřívání skafandru zatím co zde budete čekat. Nyní se zaměřte na uhelný blok a použijte veškerou energii na Super Dig. Super Dig provedete stisknutím klávesy CTRL podržením pravého tlačítka. Jedná se o neefektivní způsob těžby, ale dostanete za to malé množství uhlí.</string>
+<string name="SU.02FirstNight.33.Paragraph">V tomto okamžiku už budete mít buď velmi málo a nebo vůbec žádnou energii. Vydejte se tedy co nejrychleji zpět k Hubu a doplňte si energii. Nyní jíž ale budete mít pro Hub mnohem lepší palivo než předtím: Uhlí! Při příštím stisknutí tlačítka \"Přidat zdroje\" byste měli místo dřeva vložit blok uhlí. Spalováním uhlí vznikne větší množství energie, budete mít tedy o trochu méně starostí s udržením potřebné úrovně energie.</string>
+<string name="SU.02FirstNight.34.Header">Výroba</string>
+<string name="SU.02FirstNight.35.Paragraph">"Uhelnou Rudu  můžet také  použít pro výrobu Pochodní. Stisknutím tlačítka C otevřete okno Ruční Výroby. Zobrazí se vám všechny recepty, které můžete použít, a mezi nimi jsou pochodně. Vyberte si Pochodně ze seznamu, okno na pravé straně vám ukáže, že na výrobu jedné Pochodně je potřeba 5 kusů uhlí. Stiskněte tlačítko \"Vyrobit\" a pochodeň se vám objeví v inventáři."</string>
+<string name="SU.02FirstNight.36.Paragraph">"Svítilny mohou být také vyráběny automaticky tak dlouho, jak dlouho budete mít alespoň 5 uhlí v inventáři. Zkuste jeden někam umístit  a jeden nový pro vás bude vytvořen."</string>
+<string name="SU.02FirstNight.37.Header">Úkol Splněn!</string>
+<string name="SU.02FirstNight.38.Paragraph">"S uhelnou žílou, která vám zajišťuje palivo pro Centrální Hub a poskytuje vám dostatek materiálu pro výrobu Pochodní, máte nyní vše aby  jste mohli na povrchu přežít velmi dlouhou dobu. Od tohoto okamžiku můžete zahájit dobývání ostatních rud, které jste našli, nebo můžete vyrazit na výpravu za jejich nalezením, pokud jste je zatím nenašli. Následně můžete začít se zpracováním rud v Tavící Peci 
+aby jste získali ingoty potřebné pro další výrobu pomocí Výrobny."</string>
+<string name="SU.02FirstNight.39.Paragraph">Můžete také přemýšlet o využití extraktorů rudy pro automatizaci těžby. Nebo můžete použít výzkumné body na některý projektů, abyste zjistili, co se vlastně stalo, že jste se dostali na tuto planetu. Nebo můžete vyrazit na výpravu do hlubiny a zjistit, jaké zajímavé věci zde lze nalézt. Je to na tobě!</string>
+<string name="SU.03Controls.Title">Ovládání</string>
+<string name="SU.03Controls.00.Title">Ovládání</string>
+<string name="SU.03Controls.01.Paragraph">Toto nápověda obsahuje kompletní seznam ovládání, které je k dispozici ve hře FortressCraft Evolved. Pokud se vám zdá že toho je nějak mnoho, nemusíte mít obavy, není to tak hrozné. Pro začátek se podíváme na základní ovládání.</string>
+<string name="SU.03Controls.02.Paragraph">Některé ovládací prvky jsou k dispozici až po dokončení tutoriálu.</string>
+<string name="SU.03Controls.03.Header">Základní ovládání</string>
+<string name="SU.03Controls.04.Left">"W, A, S &amp; D: Pohyb
+  Mezera: Skok 
+  H: Tato příručka nápovědy
+  Escape: Hlavní nabídka
+ 
+  X: Přepnout na Konstruktor 
+  LMB: Položit blok
+  RMB: Odstranit blok
+ 
+  M: Skener
+  LMB: Vyhledávání materiálu 
+  RMB: Skenování bloku
+ "</string>
+<string name="SU.03Controls.05.Right">"I: Otevřete inventář
+  C: Otevřete Ruční výrobu
+  F: Vystřelí Vrhací kotvu
+  G: Odhodí Světelnou tyč 
+ 
+  E: Interakce se strojem
+  Q: Vyjmout materiál 
+  R: Otočit stroj 
+ 
+  V: Přepněte na Plazmovou Pušku
+  LMB: Vystřelit 
+  RMB: Nabíjecí výstřel
+ "</string>
+<string name="SU.03Controls.06.Paragraph">(LMB = levé tlačítko myši, RMB = pravé tlačítko myši)</string>
+<string name="SU.03Controls.07.Header">Přizpůsobení ovládání</string>
+<string name="SU.03Controls.08.Paragraph">Většinu ovládacích kláves si můžete přizpůsobit před spuštěním hry. V nápovědě ve hře se ale tyto změny neprojeví.</string>
+<string name="SU.03Controls.09.Header">Pohyb a rozhlížení</string>
+<string name="SU.03Controls.10.Left">W: Pohyb dopředu
+  S: Pohyb vzad 
+  A: Úkrok vlevo
+  D: Úkrok vpravo</string>
+<string name="SU.03Controls.11.Right">Mezera: Skok 
+  Myš: Rozhlížení 
+  U: Nastoupit do vozíku 
+  Z: Přiblížit pohled</string>
+<string name="SU.03Controls.12.Header">Zbraně a Nástroje</string>
+<string name="SU.03Controls.13.Left">X: Přepnout na Konstruktor 
+  V: Přepněte na Plazmovou Pušku
+  B: Přepněte na Stabilní Pohled</string>
+<string name="SU.03Controls.14.Right">N: Přepněte na Malířskou Pistoli
+  M: Přepněte na Skener 
+  Shift + Kolečko myši: přepínání nástrojů</string>
+<string name="SU.03Controls.15.Header">Inventář a Rychlé menu</string>
+<string name="SU.03Controls.16.Left">"I: Otevřete inventář
+ F1-F7: Vyberte záložku Rychlého menu
+ 1-9 &amp; 0: Vyberte položku Rychlého menu
+ Q: Odloží zvýrazněný předmět
+ "</string>
+<string name="SU.03Controls.17.Right">"Shift + Přetáhnout (LMB): Rozděllit množství
+  Control + Kolečko: Přepínání záložek
+  Kolečko myši: Přepínání pozic
+  -
+ "</string>
+<string name="SU.03Controls.18.Header">Funkce Skafandru</string>
+<string name="SU.03Controls.19.Left">"C: Otevřete Ruční Výrobu
+  L: Přepíná Světlomet
+  J: Přepíná Jetpack (je potřeba nejprve vyrobit)
+  F: Vystřelí Vrhací Kotvu"</string>
+<string name="SU.03Controls.20.Right">"G: Odhodí Světelnou tyč
+  K: přepnout na Holografickou základnu
+  U: Přepnout režim Holografické základny
+  Mezera: Uvolnit Vrhací Kotvu"</string>
+<string name="SU.03Controls.21.Header">Stroje</string>
+<string name="SU.03Controls.22.Left">"E: Interakce se Strojem
+  T: Uložit do Stroje
+  R: Otočí stroj ve směru hodinových ručiček
+  ]: Otočí stroj ve směru hodinových ručiček"</string>
+<string name="SU.03Controls.23.Right">"O: Výjmout ze stroje
+  Shift-T: Vložit 10 položek
+  Shift-E: Vakuový režim zásobníku
+  [: Otáčí stroj proti směru hodinových ručiček"</string>
+<string name="SU.03Controls.24.Header">Hra více hráčů</string>
+<string name="SU.03Controls.25.Paragraph">"Enter: Zobrazit okno chatu
+  Pravý Shift: Zobrazit informace o serveru
+  Pravý Shift + F1, F2 nebo F3: Nastavte síťovou rychlost"</string>
+<string name="SU.03Controls.26.Header">Konstruktor</string>
+<string name="SU.03Controls.27.Left">"LMB: Položit blok
+  RMB: Odstranit blok
+  MMB: Výběr aktuálního bloku"</string>
+<string name="SU.03Controls.28.Right">Ctrl + LMB: Postavit až ke mě
+ Ctrl + podržet RMB: Super Težba</string>
+<string name="SU.03Controls.29.Header">Skener</string>
+<string name="SU.03Controls.30.Paragraph">"Levé tlačítko myši: Průzkum Okolí
+  Pravé tlačítko myši: Skenování bloku
+  Kolečko myši: Změna módu Skeneru"</string>
+<string name="SU.03Controls.31.Header">Plazmová Puška</string>
+<string name="SU.03Controls.32.Left">LMB: Vystřelí Jednu Ránu</string>
+<string name="SU.03Controls.33.Right">Držet RMB: Nabíjecí Výstřel</string>
+<string name="SU.03Controls.34.Header">Ostatní</string>
+<string name="SU.03Controls.35.Left">"Escape: Hlavní nabídka
+  Ctrl-M: Přepínání hudby"</string>
+<string name="SU.03Controls.36.Right">Tab: Změnit vzdálenost ARTHERU</string>
+<string name="SU.04UnknownMaterials.Title">Neznámé materiály</string>
+<string name="SU.04UnknownMaterials.00.Title">Neznámé materiály</string>
+<string name="SU.04UnknownMaterials.01.Header">Co jsou neznámé materiály?</string>
+<string name="SU.04UnknownMaterials.02.Paragraph">"Zpočátku jsou všechny materiály na této planetě neznámé. Pokud některý z nich seberete, objeví se ve vašem inventáři jako otazník. Neznámé materiály se identifikují pomocí Výzkumné stanice , která je u Centrálního Hubu. Pokud chcete neznámý materiál zpracovat, je potřeba ho buď mít v inventáři a nebo naskenovaný (Skener - podržet pravé tlačítko myši) Dokud není neznámý materiál zpracovaný ve Výzkumné  Stanici, nelze ho použít pro zpracování nebo výstavbu.
+ "</string>
+<string name="SU.04UnknownMaterials.03.Header">Zpracování Neznámých Materiálů</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">Vyberte první kartu Výzkumné stanice s označením \"Skeny\"; zde najdete seznam všech neznámých materiálů které jste našli, jejich hodnoty ve výzkumných bodech a kolik energie je potřeba k jejich zpracování. Stiskněte tlačítko \"Zpracovat\" pro zpracování materiálu, potřebná energie se odečte a získáte uvedený počet bodů. Body mohou být použity k odemknutí receptů a projektů pomocí druhé a třetí karty Výzkumné Stanice.</string>
+<string name="SU.04UnknownMaterials.05.Header">Postup</string>
+<string name="SU.04UnknownMaterials.06.Paragraph">Jakmile budou nové materiály naskenovány a zpracovány, odemknou se nové stroje, recepty a projekty.</string>
+<string name="SU.04UnknownMaterials.07.Paragraph">Skenování neznámých materiálů je nejlepší způsob, jak získat více výzkumných bodů. Čím více se dozvíme více o této podivné, zablokované planetě, k tím lepšímu vybavení a strojům získáme přístup a tím větší šanci budeme mít, že přežijeme a povede se nám uniknout!</string>
+<string name="SU.04UnknownMaterials.08.Paragraph">Pro více informací navštivte prosím nápovědu na Výzkumné stanici.</string>
+<string name="SU.05LaboratoryResearch.Title">Laboratorní výzkum</string>
+<string name="SU.05LaboratoryResearch.00.Title">Laboratorní výzkum</string>
+<string name="SU.05LaboratoryResearch.01.Paragraph">Tato příručka je určena pro výzkumné projekty, které vyžadují použití laboratoře. Více informací o výzkumu obecně naleznete v nápovědě u Výzkumné Stanice.</string>
+<string name="SU.05LaboratoryResearch.02.Header">Výstavba laboratoře</string>
+<string name="SU.05LaboratoryResearch.03.Paragraph">"Výzkumná laboratoř musí být nejprve odemčena dokončením příslušných projektů na výzkumné stanici. Poté je nutné vyrobit 27 výrobních dílů ve Výrobně a umístit je do konfigurace 3 x 3 x 3.
+ "</string>
+<string name="SU.05LaboratoryResearch.04.Header">Napájení laboratoře</string>
+<string name="SU.05LaboratoryResearch.05.Paragraph">Laboratoř je navržena tak, aby využila tolik energie, kolik můžete dodat. Více energie znamená rychlejší výzkum! Minimálně byste měli zvážit použití několika Pyrothermických generátorů, ale není třeba se pokoušet o úplné napájení laboratoře.</string>
+<string name="SU.05LaboratoryResearch.06.Header">Zahájení projektů</string>
+<string name="SU.05LaboratoryResearch.07.Paragraph">"Otevřete ovládací panel Laboratoře interakcí se strojem (výchozí \"E\") a ujistěte se, že jste v režimu \"Experiment\". Vybraný projekt bude uveden nejprve na základě jeho požadavků a jakýchkoli způsobilých projektů pod ním. Chcete-li vybrat nový projekt, klikněte na něj a jeho požadavky se zobrazí. Klepnutím na tlačítko Spustit projekt spustíte výzkum.
+ "</string>
+<string name="SU.05LaboratoryResearch.08.Header">Zajištění materiálu pro Projekt</string>
+<string name="SU.05LaboratoryResearch.09.Paragraph">Projekty obvykle vyžadují jeden nebo více typů experimentálních modulů. Přesné požadavky jsou uvedeny v projektu. Ty by měly být umístěny do Zásobníku připojeného k jakékoli straně laboratoře. Chcete-li automatizovat dodávku modulů, měli by jste zvážit použití samostatného Zásobníku pro každý typ, abyste zajistili dostupnost jakéhokoliv potřebného modulu.</string>
+<string name="SU.05LaboratoryResearch.10.Paragraph">Více informací o vytváření Experimentálních Modulů naleznete v následující příručce.</string>
+<string name="SU.06ExperimentalPods.Title">Experimentální Moduly</string>
+<string name="SU.06ExperimentalPods.00.Title">Experimentální Moduly</string>
+<string name="SU.06ExperimentalPods.01.Paragraph">Experimentální moduly jsou používány v laboratoři k provádění experimentů a dokončení výzkumných projektů. Více informací o laboratorním výzkumu naleznete v následující příručce.</string>
+<string name="SU.06ExperimentalPods.02.Header">Co jsou to Experimentální moduly?</string>
+<string name="SU.06ExperimentalPods.03.Paragraph">"Experimentální moduly jsou zdrojem, které laboratoř potřebuje k provádění experimentů. Každý modul  je inteligentní paměťové zařízení, které umožňuje monitorovat různé látky. Laboratoř je zodpovědná za jejich správu, je třeba jí pouze zásobovat prázdnými moduly."</string>
+<string name="SU.06ExperimentalPods.04.Header">Vytváření Experimentálních Modulů</string>
+<string name="SU.06ExperimentalPods.05.Paragraph">Experimentální Moduly jsou odemčeny v okamžiku kdy odemknete Laboratoř, pouze ty nejzákladnější z nich mohou být zpracovány ve Výrobně. Zbytek vyžaduje speciální strojní zařízení. Každý typ modulů vyžaduje jinou surovinu, ale všechny se vyrábějí ve stejném stroji.</string>
+<string name="SU.06ExperimentalPods.06.Paragraph">Každý Modul je vyroben z kovových plátů a Plošných Spojů (PCB) vyrobených ze stejného materiálu. Pro více informací si prosím přečtěte nápovědu pro konkrétní modul, který potřebujete.</string>
+<string name="SU.06ExperimentalPods.07.Header">Vytváření kovových Plátů</string>
+<string name="SU.06ExperimentalPods.08.Paragraph">Kovové Pláty jsou vytvářeny v Lisovně. Jedná se o specializovaný typ dopravníku s připojeným lisem a může být vyroben ve Výrobně. Požadovaná surovina je kovový ingot.</string>
+<string name="SU.06ExperimentalPods.09.Header">Výroba Plošných Spojů (PCB)</string>
+<string name="SU.06ExperimentalPods.10.Paragraph">Výroba PCB je vícestupňový proces a vyžaduje použití tří strojů. Nejprve použijte \"Průtlačný lis\", na přetvoření kovových Ingotů na dráty. Další bude \"Navíjecí Stroj\", který přeměňuje dráty na Cívky a nakonec \"Montážní Zařízení PCB\" pro přeměnu Cívek na Plošné Spoje.</string>
+<string name="SU.06ExperimentalPods.11.Header">Výroba Modulů</string>
+<string name="SU.06ExperimentalPods.12.Paragraph">Nakonec použijte Výzkumný kombinátor, aby jste spojili pláty a Plošné Spoje do Experimentálního Modulu. Tento stroj nepracuje na principu dopravníku a vyžaduje napájení a vstupní i výstupní Zásobníky. Doporučujeme použít dva vstupní zásobníky pro zajištění dostupnosti jak desek, tak plošných spojů. Dokončené moduly mohou být dodány do laboratoře.</string>
+<string name="SU.07Mynocks.Title">Zamoření Mynocky</string>
+<string name="SU.07Mynocks.00.Title">Zamoření Mynocky</string>
+<string name="SU.07Mynocks.01.Paragraph">Tento Dopravní pás byl napaden cizí formou života. Spatřili jsme je jak kradou suroviny z pásu, ale zdá se, že tyto zdroje nezůstanou v těle živočicha. Namísto toho se zdá, že jsou nasměrováni do kořenového systému, který protéká zemí. Naše skenery ukazují, že tyto kořeny směřují k centrálnímu jádru, a proto bychom měli tuto otázku přednostně prošetřit.</string>
+<string name="SU.07Mynocks.02.Paragraph">Bez ohledu na to, kde nakonec tyto suroviny nakonec skončí, je potřeba to zastavit! Zdá se že tato cizí forma života je zranitelná pomocí energetických zbraní. Měli bychom dále zkoumat jejich slabiny, což by nám mělo umožnit vybudovat automatizovanou obranu, která by je dokázala odstranit. Dlouhodobě bychom se měli zaměřit na zkoumání zdokonalených metod distribuce zdrojů, které by nebyli tolik náchylné k útoku. Tuto cizí formu života je možné zabít pomocí Plazmové Pušky (V), určitě se ale brzy objeví další.</string>
+<string name="SU.08VideoTutorials.Title">Video Tutoriály!</string>
+<string name="SU.08VideoTutorials.00.Title">Video Tutoriály</string>
+<string name="SU.08VideoTutorials.01.Paragraph">Chcete více tutoriálů? Dejte mi vědět na twitter @fortress_craft nebo na fóru Steam! - Dj</string>
+<string name="SU.09CommunityLinks.Title">Odkazy na komunitu!</string>
+<string name="SU.09CommunityLinks.00.Title">Odkazy na komunitu</string>
+<string name="SU.09CommunityLinks.01.Paragraph">Pamatujte si, že můžete vždy se mnou mluvit na twitter @fortress_craft nebo ve fórech Steam! - Dj</string>
+<string name="SU.Particulate_Filtration.Title">Filtrace Částic</string>
+<string name="SU.Particulate_Filtration.00.Title">Filtrace Částic</string>
+<string name="SU.Particulate_Filtration.01.Paragraph">Díky studiu systému filtrování částic máme nyní možnost filtrovat různé prvky ze vzduchu. Budování těchto systémů v různých jeskyních by nám mělo umožnit extrahovat, koncentrovat a uskladnit různé prvky nacházejících se ve vzduchu. Vzhledem k průměrné velikosti těchto jeskyní a hustotě částic ve vzduchu by tento proces neměl mít žádné viditelné dlouhodobé účinky. Tyto systémy mohou snížit nepřátelství prostředí pro přirozenou flóru a faunu, tento účinek by měl být zanedbatelný, protože neexistuje známá převážně nepřátelská flóra nebo fauna. Studené jeskyně nás osvěží Freezonem, Toxické jeskyně Chlorinem a Lávové Jeskyně Sírou .</string>
+</resources>
