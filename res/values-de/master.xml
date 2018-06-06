@@ -4593,5 +4593,11 @@ Benötigt angehängten Lagercontainer.</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft hat festgestellt, dass die niedrigsten Grafikeinstellunge ausgewählt wurden. Diese Einstellungen sollten nur für Rechner verwendet werden, welche die Mindestanforderungen nicht erfüllen oder kaum übertreffen und ist nicht zum spielen empfohlen. Rechne mit dem Pop-up von Gegeständen, detailarme Modelle und verwaschene Texturen.</string>
   <string name="UI_Lox_Texture_Detail_selected">Niedrig aufgelöste Texturen ausgewählt.</string>
   <string name="UI_FCE_LowDetail_Detected">FortressCraft hat erkannt das NIEDRIGE Texturen ausgewählt wurden. Diese Einstellung ist ausgelegt für Computer mit wenig Arbeitsspeicher ausgestattet sind. Dies wird weder FPS noch Perfomance verbessern. NICHT empfohlenfür normales Spielen. Verwaschene Texturen sind zu erwarten.</string>
-  <string name="UI_World_Validation">Welt verifikation</string>
+  <string name="UI_World_Validation">Welt wird validiert.</string>
+  <string name="UI_World_Validation_complete">Validierung der Welt ist abgeschlossen.</string>
+  <string name="UI_World_converting_Progress_X">Die aktuelle Welt wird in ein neues Format überführt, bitte warten...
+Aktueller Fortschritt: {0}%</string>
+  <string name="UI_X_completed_of_X">{0} von {1} abgeschlossen!</string>
+  <string name="UI_Conversiontime_X_X_X_est_X_X_X">Umwandlungsdauer {0}h:{1}m:{2}s , erwartete Gesamtdauer: {3}h:{4}m:{5}s</string>
+  <string name="UI_Worldcomversion">Konvertierung der Welt</string>
   </resources>
