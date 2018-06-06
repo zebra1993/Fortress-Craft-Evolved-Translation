@@ -4589,4 +4589,6 @@ Benötigt angehängten Lagercontainer.</string>
   <string name="UI_Low_CPU_Count">Es wurden nur 2 Logische/Physische Prozessoren entdeckt. Dein PC erfüllt die minimalen Voraussetzungen für FortressCraft nicht oder gerade so, du wirst wahrscheinlich Visuelle und Performante Probleme erfahren. Threaded visibility wurde deaktiviert.</string>
   <string name="UI_IntelGFXCard_Detected">Intel Onbaord-Grafik erkannt.</string>
   <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft hat festgestellt, dass du einen {0} verwendest. Falls du einen spieletauglichen Laptop verwendest, bitte auf die leistungsfähigere Grafiklösung wechseln. Anderenfalls ist mit einer schwachen Leistung oder Grafikfehlern zu rechnen.</string>
+  <string name="UI_Fastest_selected">Niedrigste Grafikdetails ausgewählt!</string>
+  <string name="UI_FCE_Fastest_Settings">FortressCraft hat festgestellt, dass die niedrigsten Grafikeinstellunge ausgewählt wurden. Diese Einstellungen soltlen nur für Rechner verwendet werden, die die Mindestanforderungen nicht erfüllen oder kaum übertreffen und ist nicht zum spielen empfohlen. Rechne mit dem Pop-up von Gegeständen, detailarme Modelle und verwaschene Texturen.</string>
   </resources>
