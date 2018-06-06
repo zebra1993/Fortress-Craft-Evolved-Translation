@@ -4592,4 +4592,6 @@ Benötigt angehängten Lagercontainer.</string>
   <string name="UI_Fastest_selected">Niedrigste Grafikdetails ausgewählt!</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft hat festgestellt, dass die niedrigsten Grafikeinstellunge ausgewählt wurden. Diese Einstellungen sollten nur für Rechner verwendet werden, welche die Mindestanforderungen nicht erfüllen oder kaum übertreffen und ist nicht zum spielen empfohlen. Rechne mit dem Pop-up von Gegeständen, detailarme Modelle und verwaschene Texturen.</string>
   <string name="UI_Lox_Texture_Detail_selected">Niedrig aufgelöste Texturen ausgewählt.</string>
+  <string name="UI_FCE_LowDetail_Detected">FortressCraft hat erkannt das NIEDRIGE Texturen ausgewählt wurden. Diese Einstellung ist ausgelegt für Computer mit wenig Arbeitsspeicher ausgestattet sind. Dies wird weder FPS noch Perfomance verbessern. NICHT empfohlenfür normales Spielen. Verwaschene Texturen sind zu erwarten.</string>
+  <string name="UI_World_Validation">Welt verifikation</string>
   </resources>
