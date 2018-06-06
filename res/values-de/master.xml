@@ -4584,4 +4584,6 @@ Benötigt angehängten Lagercontainer.</string>
 	
 <string name="GAC_Found_X_of_X_items">{0} von {1} gefunden.</string>
 	
-</resources>
+<string name="I_Understand">Ich verstehe</string>
+  <string name="UI_Lowend_Computer">Tief ausgerüsteter Computer erkannt!</string>
+  </resources>
