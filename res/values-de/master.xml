@@ -37,7 +37,7 @@
     <string name="Reset_World">Welt zurücksetzen</string>
 
     <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem Belieben zu gestalten. Du kannst aus Deinen Kreationen ein eigenes Schema erzeugen, dieses als Blaupause abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne es neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
-    <string name="Creative_Info">Dies ist eine existierende Kreativwelt, von daher gibt es hier keine coolen Statistiken anzuzeigen. Wie wäre es mit dem Bild einer Katze?</string>
+    <string name="Creative_Info">Dies ist eine existierende Kreativwelt, aber leider gibt es hier keine coolen Statistiken anzuzeigen. Wie wäre es mit dem Bild einer Katze?</string>
 
     <!-- Mod Menu -->
     <string name="Mod_Management">Mod Menü</string>
@@ -58,7 +58,7 @@
     <string name="Off">Aus</string>
     <string name="Locked">Gesperrt</string>
 
-    <string name="Plentiful">Massenhaft</string>
+    <string name="Plentiful">Reichhaltig</string>
     <string name="Scarce">Knapp</string>
     <string name="Greg">Geizig</string>
     <string name="Rapid">Blitzartig</string>
@@ -128,9 +128,9 @@ Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen f
 
     <string name="Needs_FF">Benötigt das Frozen Factory Erweiterungspaket.</string>
 
-    <string name="Rushmode_Locked">Sturmmodus wird freigeschaltet wenn du erfolgreich den orbitalen Energieübertrager aufgeladen hast.</string>
-    <string name="Rushmode_Disabled">Sturmmodus deaktiviert.</string>
-    <string name="Rushmode_Enabled">Sturmmodus aktiviert! Dieser Modus fordert dich heraus, in möglichst kurzer Zeit einen orbitalen Energieübertrager zu bauen und aufzuladen. Diese Auswahl wird die Energieerzeugung etwa um 10x verschnellern. Erzsammlung und -schmelzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
+    <string name="Rushmode_Locked">Der Eilmodus wird freigeschaltet wenn du erfolgreich den orbitalen Energieübertrager aufgeladen hast.</string>
+    <string name="Rushmode_Disabled">Eilmodus deaktiviert.</string>
+    <string name="Rushmode_Enabled">Eilmodus aktiviert! Dieser Modus fordert dich heraus, in möglichst kurzer Zeit einen orbitalen Energieübertrager zu bauen und aufzuladen. Diese Auswahl wird die Energieerzeugung etwa um 10x verschnellern. Erzsammlung und -schmelzung ist 5x schneller. Gegner spawnen ebenfalls um einiges schneller.</string>
 
     <string name="Trivial_Mobs_Info">Triviale Gegner:
 Nicht empfohlen. Zwar wird der Spielfluss nicht beeinträchtigt, jedoch stellt das Spiel keine Herausforderung mehr dar (und ein Großteil des Spielspaßes fällt hierdurch weg). 
@@ -1271,7 +1271,7 @@ Sehr Energie hungrig!</string>
     <string name="Minecart Load Station">Loren Ladestation</string>
     <string name="Minecart Load Station_DESC">Befüllt die Lore aus einem angrenzenden Container</string>
     <string name="ARTHER Turret">ARTHER Turm</string>
-    <string name="ARTHER Turret_DESC">Erlaugt der ARTHER ihren Killertrieb zu stillen.</string>
+    <string name="ARTHER Turret_DESC">Erlaubt der ARTHER ihren Killertrieb zu stillen.</string>
     <string name="Threat Scanner">Gefahrenstufesensor</string>
     <string name="Threat Scanner_DESC">Frühwarnsystem, optimal in der nähe der Basis plazieren.</string>
     <string name="Missile Turret MK1">Raketenturm MK1</string>
@@ -1346,11 +1346,11 @@ Sehr Energie hungrig!</string>
     <string name="Insulated Copper Wire">Isoliertes Kupferkabel</string>
     <string name="Insulated Copper Wire_DESC">Isoliertes Kupferkabel. Überträgt Energie vom einen Ende zum anderen.</string>
 
-    <string name="Track Gate">Schinentor</string>
+    <string name="Track Gate">Schienentor</string>
     <string name="Track Gate_DESC">Nicht implementiert im momemt.</string>
-    <string name="Track Terminus">Schinenendbahnhof</string>
+    <string name="Track Terminus">Schienen Endstation</string>
     <string name="Track Terminus_DESC">Nicht implementiert im momemt.</string>
-    <string name="Track Point">Schinenpunkt</string>
+    <string name="Track Point">Schienenpunkt</string>
     <string name="Track Point_DESC">Nicht implementiert im momemt.</string>
     <string name="Track Station">Schinenstation</string>
     <string name="Track Station_DESC">Nicht implementiert im momemt.</string>
