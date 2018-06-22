@@ -72,7 +72,7 @@
     <string name="Creative">Kreatywny</string>
 
     <string name="Default_Settings_Info">Domyślne ustawienia są dostosowane do nowych graczy jako super szybkie i super łatwe! Jeśli chcesz jeszcze SZYBSZĄ rozgrywkę, wybierz Wieczny Dzień z Cyklu Dnia/Nocy. Jeśli chcesz mieć wyzwanie, poprzestawiaj ustawienia jak Ci się tylko podoba!
-Pamiętaj, że te ustawienia są ZABLOKOWANE na czas trwania twojego świata i weź pod uwagę czasy!</string>
+Pamiętaj, że te ustawienia są ZABLOKOWANE na czas trwania twojego świata i weź pod uwagę średni czas gry!</string>
     <string name="Previous_Visit">Byłeś już na tym świecie Przetrwania!</string>
     <string name="Play_time">Czas gry</string>
     <string name="Mod_Selected">wybrana modyfikacja.</string>
@@ -134,7 +134,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
 
     <string name="Care_Package">Pakiet Opieki</string>
     <string name="Resources_Greg_Info">Skąpe Surowce, mocno obniżą szybkość twojego postępu. Tryb ten jest zbalansowany dla dedykowanych 24/7 serwerów wieloosobowych i BARDZO cierpliwych ludzi!</string>
-    <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących puścić strumieniować grę w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed powrotem na zwiększony poziom trudności.</string>
+    <string name="Resources_Rapid_Info">Błyskawiczne Surowce są przeznaczone dla tych w pośpiechu, z dziećmi, pracą, lub próbujących strumieniować grę w weekend! Jest to także świetne miejsce dla chcących szybko nauczyć się gry, przed powrotem na zwiększony poziom trudności.</string>
 
 
     <string name="MISSION_CPH lacking resources">Brakuje zasobów w OCZ!</string>
@@ -227,7 +227,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Yellow Canvas">Żółte Płótno</string>
     <string name="Orange Canvas">Pomarańczowe Płótno</string>
     <string name="Purple Canvas">Purpurowe Płótno</string>
-    <string name="Flesh Color Canvas">Migające Kolorami Płótno</string>
+    <string name="Flesh Color Canvas">Płótno koloru skóry</string>
     <string name="White Canvas">Białe Płótno</string>
     <string name="Grey Canvas">Szare Płótno</string>
     <string name="Black Canvas">Czarne Płótno</string>
@@ -301,4 +301,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Iron Coil">Żelazna Cewka</string>
     <string name="Glow Stick">Światło Chemiczne</string>
     <string name="Glow Sticks">Świateł Chemicznych</string>
+    <string name="OrbitalPar">Średni czas naładowania OEP</string>
+    <string name="FFPar">Średni czas ukończenia Mroźnej Fabryki</string>
+    <string name="Plastic Pellets">Plastikowych Naboi</string>
     </resources>
