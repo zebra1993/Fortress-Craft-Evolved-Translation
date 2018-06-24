@@ -3,12 +3,12 @@
     <string name="Translation_Incomplete">Traduzione incompleta!</string>
     <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Fabbrica Ghiacciata</string>
     <string name="Dapper_Pack">Dapper Pack</string>
-    <string name="Skin_Pack">Skin pack</string>
+    <string name="Skin_Pack">Skin Pack</string>
     <string name="Installed">Installato</string>
     <string name="Not_Installed">Non Installato</string>
     <string name="Multiplayer_Sign">&lt;MultiGiocatore</string>
     <string name="Quit_Sign">Abbandona</string>
-    <string name="World_Sign">Selezione Mondo</string>
+    <string name="World_Sign">Seleziona il Mondo</string>
     <string name="Create_World">Crea Mondo</string>
     <string name="Spacebar">Barra Spaziatrice</string>
     <string name="Resource_Level">Livello delle Risorse</string>
@@ -104,4 +104,95 @@ Ricorda che questi settaggi non possono essere modificati una volta creato il mo
     <string name="Death_Ironman_Info">NON PER PRINCIPIANTI!
 
 Uomo di ferro è solo per i coraggiosi, gli stupidi e gli spavaldi; alla morte PERDI DEL TUTTO il tuo intero inventario!</string>
+    <string name="Death_SquishCore_Info">NON RACCOMANDATO PER CHIUNQUE
+
+SquishCore è semplice; muori, rimani morto</string>
+    <string name="Care_Package_Locked">Il paccetto di cura sarà sbloccato una volta creata con successo un Centro di Controllo del Climatica</string>
+    <string name="Care_Package_Disabled">Pacchetto di Cura disabilitato.</string>
+    <string name="Needs_FF">Richiesto il Frozen Factory Expansion Pack.</string>
+
+    <string name="Hours">ore</string>
+
+    <string name="Server_Name">Nome dei Server</string>
+    <string name="Server_Management">Gestione del Server</string>
+    <string name="Game_Mode">Modalità di gioco</string>
+    <string name="Dedicated">Dedicato</string>
+    <string name="Players">Giocatori</string>
+    <string name="Ping">Ping</string>
+    <string name="Unable_To_Join">Impossibile unirsi</string>
+
+    <string name="Join">Unirsi</string>
+    <string name="Delete">Cancellare</string>
+    <string name="Page">Pagina</string>
+
+    <string name="Iron Bar">Lingotto di Ferro</string>
+    <string name="Iron Bars">Lingotti di Ferro</string>
+    <string name="Copper Bar">Lingotto di Rame</string>
+    <string name="Copper Bars">Lingotti di Rame</string>
+    <string name="Lithium Bar">Lingotto di Litio</string>
+    <string name="Lithium Bars">Lingotti Di Litio</string>
+    <string name="Chromium Bar">Lingotto di Cromo</string>
+    <string name="Chromium Bars">Lingotti di Cromo</string>
+    <string name="Molybdenum Bar">Lingotto di Molibdeno</string>
+    <string name="Molybdenum Bars">Lingotti di Molibdeno</string>
+    <string name="Plastic Pellet">Pallina di Plastica</string>
+    <string name="Plastic Pellets">Palline di Plastica</string>
+    <string name="High Energy Composite Fuel">Carburante Composito ad Alta Energia</string>
+    <string name="Empty Metal Tube">Tubo di Metallo Vuoto</string>
+    <string name="Empty Metal Tubes">Tubi di Metallo Vuoti</string>
+    <string name="Empty Fuel Canister">Tanica di Combustibile Vuota</string>
+    <string name="Empty Fuel Canisters">Taniche di Combustibile Vuote</string>
+    <string name="High Octane Fuel">Combustibile ad Alti Ottani</string>
+    <string name="Gold Bar">Lingotto d\'Oro</string>
+    <string name="Gold Bars">Lingotti d\'Oro</string>
+    <string name="Tin Bar">Lingotto di Stagno</string>
+    <string name="Tin Bars">Lingotti di Stagno</string>
+    <string name="Nickel Bar">Lingotto di Nichel</string>
+    <string name="Nickel Bars">Lingotti di Nichel</string>
+    <string name="Titanium Bar">Lingotto di Titanio</string>
+    <string name="Titanium Bars">Lingotti di Titanio</string>
+    <string name="Low Grade Steel Bar">Lingotto di Acciaio Dolce</string>
+    <string name="Low Grade Steel Bars">Lingotti di Acciaio Dolce</string>
+    <string name="Steel Ball Bearing">Cuscinetto a Sfera</string>
+    <string name="Steel Ball Bearings">Cuscinetti a Sfera</string>
+    <string name="Iron Gear">Ingranaggio di Ferro</string>
+    <string name="Iron Gears">Ingranaggi di Ferro</string>
+    <string name="Copper Wire (Old)">Filo di Rame (vecchio)</string>
+    <string name="Servo Motor">Servomotore</string>
+    <string name="Servo Motors">Servomotori</string>
+    <string name="Lightweight Machine Plate">Piastra Leggera per i Macchinari</string>
+    <string name="Lightweight Machine Plates">Piastre Leggere per i Macchinari</string>
+    <string name="Lightweight Machine Housing">Struttura leggera dei Macchinari</string>
+    <string name="Lightweight Machine Housings">Strutture Leggere dei Macchinari</string>
+    <string name="Basic Minecart">Carrello da Miniera di Base</string>
+    <string name="Basic Minecarts">Carrelli da Miniera di Base</string>
+    <string name="Fast Minecart">Carrello da Miniera Veloce</string>
+    <string name="Fast Minecarts">Carelli da Miniera Veloci</string>
+    <string name="Large Minecart">Carrello da Miniera Capiente</string>
+    <string name="Large Minecarts">Carrelli da Miniera Capienti</string>
+    <string name="Bulk Minecart">Carrello da Miniera per Grandi Volumi</string>
+    <string name="Bulk Minecarts">Carrelli da Miniera per Grandi Volumi</string>
+    <string name="Tour Cart">Carrello Turistico</string>
+    <string name="Tour Carts">Carrelli Turistici</string>
+    <string name="Copper Wire">Filo di Rame</string>
+    <string name="Copper Wires">Fili di Rame</string>
+    <string name="Tin Wire">Filo di Stagno</string>
+    <string name="Tin Wires">Fili di Stagno</string>
+    <string name="Iron Wire">Filo di Ferro</string>
+    <string name="Iron Wires">Fili di Ferro</string>
+    <string name="Lithium Wire">Filo di Litio</string>
+    <string name="Lithium Wires">Fili di Litio</string>
+    <string name="Gold Wire">Filo d\'Oro</string>
+    <string name="Gold Wires">Fili d\'Oro</string>
+    <string name="Nickel Wire">Filo di Nichel</string>
+    <string name="Nickel Wires">Fili di Nichel</string>
+    <string name="Titanium Wire">Filo di Titanio</string>
+    <string name="Titanium Wires">Fili di Titanio</string>
+    <string name="Steel Cutter Head">Testa da Taglio in Acciaio</string>
+    <string name="Crystal Cutter Head">Testa da Taglio in Cristallo</string>
+    <string name="Organic Cutter Head">Testa da Taglio Biologica</string>
+    <string name="Plasma Cutter Head">Testa da Taglio al Plasma</string>
+    <string name="Location Marker">Indicatore di Posizione</string>
+    <string name="Glow Stick">Stecca Fluorescente</string>
+    <string name="Glow Sticks">Stecche Fluorescenti</string>
     </resources>
