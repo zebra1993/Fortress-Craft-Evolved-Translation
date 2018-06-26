@@ -292,8 +292,8 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="Nickel Wires">Niklowych Przewodów</string>
     <string name="Titanium Wire">Tytanowy Przewód</string>
     <string name="Titanium Wires">Tytanowych Przewodów</string>
-    <string name="Steel Cutter Head">Głowica do Cięcia Stali</string>
-    <string name="Crystal Cutter Head">Głowica do Cięcia Kryształów</string>
+    <string name="Steel Cutter Head">Stalowa Głowica Tnąca</string>
+    <string name="Crystal Cutter Head">Kryształowa Głowica Tnąca</string>
     <string name="Copper Coil">Miedziana Cewka</string>
     <string name="Copper Coils">Miedzianych Cewek</string>
     <string name="Tin Coil">Cynowa Cewka</string>
@@ -305,5 +305,7 @@ Człowiek z żelaza jest tylko dla odważnych, głupich i śmiałych; na zawsze 
     <string name="FFPar">Średni czas ukończenia Mroźnej Fabryki</string>
     <string name="Plastic Pellets">Granulat Plastikowy</string>
     <string name="Lightweight Machine Plate">Lekka Płyta Maszynowa</string>
-    <string name="Lightweight Machine Plates">Lekkie Płyty Maszynowe</string>
+    <string name="Lightweight Machine Plates">Lekkich Płyt Maszynowych</string>
+    <string name="Lightweight Machine Housing">Lekka Obudowa Maszyny</string>
+    <string name="Lightweight Machine Housings">Lekkich Obudów Maszyny</string>
     </resources>
