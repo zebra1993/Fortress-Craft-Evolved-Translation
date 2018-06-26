@@ -1,2 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.Title">Guia inicial</string>
+<string name="CR.01Welcome.00.Title">Bem vindo a FortressCraft Evolved</string>
+<string name="CR.01Welcome.01.Header">Modo Criativo</string>
+<string name="CR.01Welcome.02.Paragraph">Bem-vindo ao nosso modo criativo! Os controles estão abaixo, guias de ferramentas seguem nas próximas páginas.</string>
+<string name="CR.01Welcome.03.Header">Controles</string>
+<string name="CR.01Welcome.04.Left">W,A,S,D: Movimentação
+Space: Pula
+Space x 2: Ativa Modo Mochila a jato
+ Q: Transferir energia para núcleo de energia ou retira itens de depósitos
+ Shift: impulsiona
+ Terra para Deslizar
+Esc: Menu Principal / Pause
+H: Menu de Ajuda</string>
+</resources>
