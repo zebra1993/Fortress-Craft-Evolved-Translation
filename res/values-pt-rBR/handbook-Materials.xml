@@ -2,7 +2,7 @@
 <resources><string name="MA.AI_Mover_Control.00.Title">Controle de Movimento de IA</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Este robô moverá um recurso por vez de um depósito próximo para outro, respeitando os depósitos locais com permissões de adicionar e remover.</string>
 <string name="MA.ARTHER_Battery_Core.00.Title">Núcleo de Bateria do ARTHER</string>
-<string name="MA.ARTHER_Battery_Core.01.Paragraph">Permite que o ARTHER mantenha 8 vezes mais carga, que ele pode transferir para você quando você estiver andando devagar. Crie isso o mais rápido possível! Você só precisa de um desses e deve ser mantido em seu inventário para funcionar.</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Permite que a ARTHER segure 8 vezes mais carga, a qual ele pode transferir para você quando você está com pouca carga. Construa isso o mais rápido possível! Você só precisa de um desses e deve ser mantido em seu inventário para funcionar.</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">Estação de Carregamento do ARTHER</string>
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Recarregue rapidamente o ARTHER da sua rede de alimentação básica. Melhor combinado com uma atualização da bateria do ARTHER.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Especificações</string>
