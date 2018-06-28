@@ -2,7 +2,7 @@
 <!-- Level names, other menu options -->
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
-    <string name="Partial_Language_Support">Guten Tag! Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf English!</string>
+    <string name="Partial_Language_Support">Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf English!</string>
     <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
     <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
@@ -19,7 +19,7 @@
     <!-- World Creation Menu -->
     <string name="Resource_Level">Ressourcen</string>
     <string name="Power_Level">Energieniveau</string>
-    <string name="Conveyor_Speed">Förderband Geschwindigkeit</string>
+    <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
     <string name="Day_Night_Cycle">Tag/Nacht Zyklus</string>
     <string name="Mob_Difficulty">Schwierigkeit der Gegner</string>
     <string name="Death_Mode">Schwierigkeitsgrad</string><!-- Should be changed doesnt sound well, but maybe a start point -->
@@ -37,7 +37,7 @@
     <string name="Reset_World">Welt zurücksetzen</string>
 
     <string name="Creative_New">Der Kreativmodus gibt Dir unbegrenzte Möglichkeiten. Du kannst alles bauen, hast Zugriff auf exklusive Blöcke und weitreichende Möglichkeiten die Welt nach Deinem Belieben zu gestalten. Du kannst aus Deinen Kreationen ein eigenes Schema erzeugen, dieses als Blaupause abspeichern und in Deiner Welt an beliebigen Stellen einsetzen ohne es neu bauen zu müssen. Bitte beachte, dass in diesem Modus die meisten Elemente aus dem Überlebensmodus nicht funktionieren. Der Modus einer Welt kann nachträglich nicht mehr geändert werden.</string>
-    <string name="Creative_Info">Dies ist eine existierende Kreativwelt, aber leider gibt es hier keine coolen Statistiken anzuzeigen. Wie wäre es mit dem Bild einer Katze?</string>
+    <string name="Creative_Info">Dies ist eine existierende Kreativwelt, aber leider ich keine coolen Statistiken für dich zum anzeigen. Wie wäre es mit dem Bild einer Katze?</string>
 
     <!-- Mod Menu -->
     <string name="Mod_Management">Mod Menü</string>
@@ -5161,4 +5161,9 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="GAC_Crafted_X">{0} hergestellt</string>
   <string name="GAC_Cannot_locate_X_x_X">Kann {0}x {1} nicht finden</string>
   <string name="GAC_X_x_X_needed">{0}x {1} benötigt</string>
+  <string name="UI_Automated_Zipper_merge">Förderbandkombinator
+(Patent ausstehend)</string>
+  <string name="UI_Zipper_Merge_3n1">Förderbandkombinator (3 in 1)
+(Patent ausstehend)</string>
+  <string name="UI_Rapid_Zipper_merge">Schneller Förderbandkombinierer</string>
   </resources>
