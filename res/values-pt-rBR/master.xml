@@ -77,9 +77,9 @@
     <string name="Mods_Selected">Mods Selecionados.</string>
     <string name="Needs_FF">Necessita do Pack de Expansão \"Fábrica Congelada\".</string>
 
-    <string name="Rushmode_Locked"/>
-    <string name="Rushmode_Disabled">Modo de Assalto desabilitado.</string>
-    <string name="Rushmode_Enabled"/>
+    <string name="Rushmode_Locked">O Modo Apressado irá desbloquear quando você carregar com sucesso um Transmissor de Energia Orbital.</string>
+    <string name="Rushmode_Disabled">Modo de Apressado desabilitado.</string>
+    <string name="Rushmode_Enabled">Modo Apressado Ativado! Este modo te desafia a reconstruir outro Transmissor de Energia Orbital e carrega-lo completamente no menor tempo! Ao selecionar este modo a Geração de Energia será 10x mais potente e a Extração de Minério e Fundição ficam 5x mais rápidas. MOBs também vão spawnar muito mais rápido...</string>
 
     <string name="Trivial_Mobs_Info"/>
     <string name="Normal_Mobs_Info"/>
@@ -179,6 +179,39 @@
     <string name="Empty Missiles">Misseis Vazios</string>
     <string name="Basic Missile">Missil Básico</string>
     <string name="Basic Missiles">Misseis Básicos</string>
-    <string name="Eternal_Day_Info">O Dia Eterno te garante que seus sistemas de coleta solar não irão parar de funcionar, também garantindo que você não sofra uma queda de temperatura a noite. Escolher esta opção permitirá que o seu progresso seja bem mais rápido - A captação solar é 4x mais rápida!</string>
-    <string name="Day_Night_Info">O ciclo normal de Dia/Noite é de 24 minutos, sendo 12 minutos de escuridão e nisso você poderá sofrer extremas quedas de temperatura, aumento de agressividade dos mob\'s e também redução de visibilidade.</string>
+    <string name="Eternal_Day_Info">O Dia Eterno garante que seus sistemas de coleta solar não irão parar de funcionar, também garantindo que você não sofra com quedas de temperatura da noite. Escolher esta opção permitirá que o seu progresso seja bem mais rápido - A Captação Solar é 4x mais rápida!</string>
+    <string name="Day_Night_Info">O ciclo normal de Dia/Noite é de 24 minutos, sendo 12 minutos de escuridão e nisso você poderá sofrer com as extremas quedas de temperatura, aumento de agressividade dos MOBs e também redução da visibilidade.</string>
+    <string name="Greg">Greg</string>
+    <string name="Trivial Mobs">Trivial Mobs</string>
+    <string name="SquishCore">Núcleo de Squish</string>
+    <string name="Previous_Visit">Você já esteve neste mundo de Sobrevivência antes!</string>
+    <string name="Existing_Seed">Semente Existente</string>
+
+    <string name="Conveyor_Fast_Info">Esteiras rápidas significam menos esperas. São duas vezes mais rápidas que as Lentas.</string>
+
+    <string name="Plentiful_Power_Info">Energia Abundante melhoram o abastecimento de energia em todos os geradores. Isto afetará bastante a velocidade de progresso no início do jogo.</string>
+    <string name="Scarce_Power_Info">Energia escassa proporciona uma gestão de energia equilibrada. Isto irá reduzir a velocidade de progresso no inicio do jogo.</string>
+
+    <string name="Eternal_Night_Info">Noite Eterna significa que não haverá descanso do frio gelado que tem durante o dia e não terá acesso a tecnologia solar não orgânica, incluindo o seu CPH. Isto irá adicionar um bom desafio.</string>
+
+    <string name="Death_Default_Info">"Este é o modo padrão. Não terá penalidades por mote, exceto saúde baixa e uma longa caminhada.  Isto faz o jogo ficar extremamente fácil já que não terá penalidade por nenhuma das  maneiras emocionantes que você pode morrer."</string>
+    <string name="Death_Clumsy_Info">O modo Desajeitado é recomendado se você quiser um desafio razoável e uma boa razão para não morrer! Seu inventário será dropado no local da morte e precisa ser resgatado!</string>
+    <string name="Death_Ironman_Info">NÃO É PARA OS PRINCIPIANTES!
+
+Homem de Ferro é para os bravos, ps estúpidos e os audaciosos; Você perderá permanentemente todo o seu inventário ao morrer!</string>
+    <string name="Death_SquishCore_Info">NÃO RECOMENDADO PARA NINGUÉM!
+
+NúcleoEsmagado é simples; você morre, você continua morto</string>
+    <string name="Death_Hardcore_Info">"NÃO É RECOMENDADO PARA NINGUÉM!
+
+Hardcore é o modo mais difícil; Se você morrer ou o seu CPH for destruído, isto acaba com o jogo, Game Over!  O CPH não se recupera de danos."</string>
+
+    <string name="Care_Package_Locked">O Pacote de Cuidados irá desbloquear quando você construir com êxito o Centro de Controle Climático.</string>
+    <string name="Care_Package_Disabled">Pacote de Cuidados desativado.</string>
+    <string name="Care_Package_Enabled">Pacote de Cuidados Ativado! Isto te dará uma grande vantagem em um mundo novo, dando uma -Ferramenta de Construção MK3, uma -Bateria Grande para armadura, um -Painel Solar e -Aquecedor para armadura logo no inicio do jogo. Vá pegá-los, garoto.</string>
+
+    <string name="Flatland_Locked">O modo de Terra Plana irá desbloquear quando você matar com êxito um Spawner de CryoPlasm.</string>
+    <string name="Flatland_Disabled">Terra Plana desativado.</string>
+    <string name="Flatland_Enabled">Terra Plana Ativado! faz todo terreno ficar plano, daí o nome!</string>
+
     </resources>
