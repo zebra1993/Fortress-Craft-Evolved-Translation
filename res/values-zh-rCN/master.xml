@@ -3581,7 +3581,7 @@ ARTHER现在将介绍你的基地的一些功能。
   <string name="PSB_are_main_method_storing_power">Power Storage Blocks （PSBS） are the main method of storing power.</string>
   <string name="OE_collect_resources_automatically">矿石采集器能自动的收集资源。</string>
   <string name="SH_automate_resource_handling">自动化资源处理存储槽内</string>
-  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Use LMB to Ping Unknown if you can\'t find anything！</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">使用鼠标左键来Ping未知 如果你啥都发现不了！</string>
   <string name="Researching_Scans_gives_RP">研究扫描给你研究点</string>
   <string name="Look_at_CPH_press_E">按E看CPH！</string>
   <string name="Charge_suit_from_PSB">把你的衣服从PSB里拿出来！</string>
@@ -4467,4 +4467,86 @@ Needs attached storage hopper.</string>
   <string name="SpiderCor_CRAFT_HINT">SpiderCor_CRAFT_HINT</string>
   <string name="I_Understand">我了解</string>
   <string name="UI_IntelGFXCard_Detected">检测到英特尔显卡!</string>
+  <string name="UI_Lowend_Computer">检测到低端电脑！</string>
+  <string name="UI_Low_CPU_Count">仅检测到2个逻辑/物理CPU。您的PC达到或低于FortressCraft的最低要求，并且您可能会遇到一些视觉或性能问题。线程可见性已被禁用。</string>
+  <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft检测到您正在运行{0} - 如果您使用的是游戏笔记本，请使用高性能显卡！如果这是您唯一的显卡，那么您可能会遇到一些视觉或性能问题。</string>
+  <string name="UI_Fastest_selected">最低细节模式已选择！</string>
+  <string name="UI_FCE_Fastest_Settings">FortressCraft已检测到您正在使用最快运行速度模式。此详细设置仅适用于内存吃紧的低规格计算机，并且不建议用于正常游戏。你会遇上穿模，低质量模型和模糊的纹理等情况。</string>
+  <string name="UI_Lox_Texture_Detail_selected">低质量贴图细节已选择！</string>
+  <string name="UI_FCE_LowDetail_Detected">FortressCraft已检测到您正在使用低纹理细节。 此详细设置仅适用于内存紧张的低内存计算机。 它不会提高性能或FPS，也不建议用于正常的游戏。 您将体验到模糊的纹理。</string>
+  <string name="UI_World_Validation">世界验证</string>
+  <string name="UI_World_Validation_complete">世界验证已完成</string>
+  <string name="UI_World_converting_Progress_X">您的世界正在转换为新格式，请稍候。
+当前进度：{0}％</string>
+  <string name="UI_X_completed_of_X">{0}已完成，共{1}！</string>
+  <string name="UI_Conversiontime_X_X_X_est_X_X_X">
+转换时间 {0}h:{1}m:{2}s 预计时间 {3}h:{4}m:{5}s</string>
+  <string name="UI_Worldcomversion">世界转换</string>
+  <string name="UI_Movement_Paused_X">你的动作已经暂停！ 
+
+你可能已经被移除了加载的世界。 
+请稍等片刻，以便您的磁盘或网络连接跟上节奏。 
+如果这种情况经常发生在单人游戏中，请检查您的防病毒软件是否存在干扰。 
+
+计数器当前为{0}</string>
+  <string name="UI_Attached_to_lift">附加到电梯上</string>
+  <string name="UI_Compresspr_active">压缩机启动！</string>
+  <string name="UI_Compressor_Idle">压缩机闲置。</string>
+  <string name="UI_T1_Vertical_Piston_Lift">T1级垂直伸展中央活塞电梯</string>
+  <string name="UI_Current_Range_X">当前范围：{0}</string>
+  <string name="UI_Adjust_range">通过按住 (Q) 或 (E)来调整范围.</string>
+  <string name="UI_Powerd_compresser_required_X_m">动力压缩机要求超过{0} m</string>
+  <string name="UI_Lifts_limited_Network_clients">网络客户端下电梯限制被为64m。抱歉！</string>
+  <string name="UI_Current_Pressure_X_X_bar">当前压力：{0}/{1}bar</string>
+  <string name="UI_Lift_Manual_control">电梯处于手动控制中</string>
+  <string name="UI_Stored_pressure_X_bar">已存储压力：{0}bar</string>
+  <string name="UI_Work_complete_No_blocks_to_shoot">工作完成。没有可以社保的方块了</string>
+  <string name="UI_Scanning_Hardened_Resin_X_complete">扫描硬化树脂中 - {0} 已完成.</string>
+  <string name="UI_Clearing_area_X_complete">清楚区域中 - {0} 已完成.</string>
+  <string name="UI_Ablatd_X_Blocks">已消融 {0} 块</string>
+  <string name="UI_Scan_Size_X">扫描尺寸: {0}</string>
+  <string name="UI_Scanning_Ablated_Resin_X_complete">扫描已消融的树脂 - {0}完成</string>
+  <string name="UI_Liquified_X_Blocks">已液化 {0} 块</string>
+  <string name="UI_Press_Q_Reset">按Q重置</string>
+  <string name="UI_Place_Facing_Conveyor">请面向传送带！</string>
+  <string name="UI_Upgrade_complete_X_upgraded">升级完成 - {0}输送带已升级</string>
+  <string name="UI_Low_Power">低电量！</string> 
+  <string name="UI_Need_attached_hopper">需要附着的料斗！</string>
+  <string name="UI_Unable_locate_conveyors_for_upgrade">无法定位要升级的传送带！</string>
+  <string name="UI_serach_Distance_X">搜索距离{0} m</string>
+  <string name="UI_Conersions_X">转换 {0}</string>
+  <string name="UI_Blocked_Please_clear">堵住了！请检查并清除！</string>
+  <string name="UI_Build_complete">建造完成！</string>
+  <string name="UI_Needs_X_more_power">还需要{0}的能量</string>
+  <string name="UI_Looking_valid_hopper">寻找有效的附加存储料斗！</string>
+  <string name="UI_Looking_for_Basic_Conveyor">寻找基本传送带......</string>
+  <string name="UI_Looking_for_Conveyors">寻找传送带......</string>
+  <string name="UI_Looking_for_Transport_Pipes">寻找运输管道......</string>
+  <string name="UI_Looking_for_Minecart_Tracks">寻找矿车轨道中 ......</string>
+  <string name="UI_Build_Dist_is_X">建造距离为 {0}</string>
+  <string name="UI_Build_Dist_is_X_using">构建距离为{0}，使用：</string>
+  <string name="UI_Basic_Conveyors">基本传送带</string>
+  <string name="UI_Transport_Pipes">运输管道</string>
+  <string name="UI_Minecrat_Tracks">矿车轨道</string>
+  <string name="UI_Time_left_X">剩余时间：{0}s</string>
+  <string name="UI_Items_Added_X_Items_Found_X">已添加项目：{0}。找到的项目{1}。</string>
+  <string name="UI_Spiderbot_Recharge_Docking_Bay">蜘蛛机器人充能停靠台</string>
+  <string name="UI_Spiderbot_Power_X_X">蜘蛛机器人能量 {0}/{1}</string>
+  <string name="UI_Holding_X_ready_for_spidy">"抓住[{0}]准备好Spiderbot！ "</string>
+  <string name="UI_Bay_ready_recive_items">平台正准备接收物品</string>
+  <string name="UI_Bay_offloading_final_item_Spiderbot_undock">在取消停靠之前，平台将最终项目卸载到SpiderBot</string>
+  <string name="UI_Spiderbot_Docking">蜘蛛机器人停靠中</string>
+  <string name="UI_Spidy_docked_waiting_resc">蜘蛛机器人已接驳,等待资源中!</string>
+  <string name="UI_Spidy_defending">蜘蛛机器人正在防御！</string>
+  <string name="UI_SpiderbotBay_hint">提示：连接带充电锂线圈的料斗为蜘蛛机器人供电</string>
+  <string name="UI_Spiderbot_error">错误！让DJ知道你的蜘蛛基地不在实体管理器中！</string>
+  <string name="UI_Internal_Power_X_X">内部能量：{0}/{1}</string>
+  <string name="UI_Illegal_Placement_MK2_Solar">非法放置！
+MK2太阳能电池阵列必须放置在：</string>
+  <string name="UI_MK4_Batteries">MK4电池</string>
+  <string name="UI_MK5_Batteries">MK5电池</string>
+  <string name="UI_Refinieries">精炼厂</string>
+  <string name="UI_Not_collecting_Cant_see_sun">不收集！看不到太阳！</string>
+  <string name="UI_Collecting_rate_X_PPS">以每秒{0}的速率收集</string>
+  <string name="UI_Not_collecting_sun_below_horizon">不在收集！太阳下山了！</string>
   </resources>
