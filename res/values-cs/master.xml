@@ -1618,7 +1618,7 @@ Vyrábí PCB z Cívek</string>
     <string name="Imbued Machine Block Assembler_CRAFT_DESC">Běžná součástka pro pokročilé strojírenství. Použijte 4 Pokročilé Strojní Bloky a jednu MK5 Záložní Baterii.</string>
     <string name="Imbued Machine Block Assembler_CRAFT_HINT">Lze ho využít i jako stavební blok.</string>
     <string name="Plasma Head Charger_CRAFT_DESC">Spotřebuje velké množství energie na obohacení standardní Ocelové Vrtací Hlavy plazmovou energií.</string>
-    <string name="ConstructoBot Ironide Chassis Assembler"></string>
+    <string name="ConstructoBot Ironide Chassis Assembler"/>
     <string name="ConstructoBot Leg Assembler">KonstrukčníBot: Montovna Nohou</string>
     <string name="ConstructoBot Arm Assembler">KonstrukčníBot: Montovna Rukou</string>
     <string name="Refinery Reactor Vat Component">Rafinerie : Komponent Kádě Reaktoru</string>
@@ -1678,4 +1678,21 @@ Vyrábí PCB z Cívek</string>
   <string name="UI_Rocket_has_X_Parts_X_m_tall">Střela má {0} částí a je {1}m vysoká</string>
   <string name="Geothermal Generator comp.">Geotermální Generátor: Komponent</string>
     <string name="Geothermal Generator comp._DESC">Vytváří teplo teplotním rozdílem. Vytvořte konfiguraci 5wx3hx5d.</string>
-    </resources>
+    <string name="Blast Furnace component">Vysoká Pec: Komponent</string>
+  <string name="Trencher Drill component"></string>
+  <string name="Trencher Drill component_DESC"></string>
+  <string name="Trencher Motor component"></string>
+  <string name="Trencher Motor component_DESC"></string>
+  <string name="Blast Furnace component_DESC">Vytvoří Vysokou Pec. Sestavte v konfiguraci 3š</string>
+  <string name="Trencher Drill Mk2 component"></string>
+  <string name="Trencher Drill Mk2 component_DESC"></string>
+  <string name="Trencher Drill Mk3 component"></string>
+  <string name="Trencher Drill Mk3 component_DESC"></string>
+  <string name="Trencher Drill component_CRAFT_DESC"></string>
+  <string name="Trencher Drill Mk2 component_CRAFT_DESC"></string>
+  <string name="Trencher Drill Mk3 component_CRAFT_DESC"></string>
+  <string name="Trencher Motor component_CRAFT_DESC"></string>
+  <string name="Trencher Motor component_CRAFT_HINT"></string>
+  <string name="Trencher_Drill"></string>
+  <string name="Unconnected_Trencher_Motor"></string>
+  </resources>
