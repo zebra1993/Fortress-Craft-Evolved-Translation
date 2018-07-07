@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<resource>
+<resources>
   <!-- Advanced Logistics Hopper -->
   <string name="AdvancedLogisticsHopperTitleMK_X">Advanced Logistics Hopper MK{0}</string>
   <string name="HopperPermissionLabel">Hopper Permissions</string>
@@ -57,4 +57,4 @@
   <string name="ActiveStateRunning">Running</string>
 
 
-</resource>
+</resources>
