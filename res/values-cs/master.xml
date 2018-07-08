@@ -22,7 +22,7 @@
     <string name="Care_Package">Záchranný balíček</string>
     <string name="Survival_Options">Možnosti přežití</string>
     <string name="Seed">Seed mapy</string>
-    <string name="Mode">Mód</string>
+    <string name="Mode">Módy</string>
     <string name="Select_Mods">Výběr módů</string>
     <string name="Back">Zpět</string>
     <string name="Mutators">Mutátory</string>
@@ -74,7 +74,8 @@
     <string name="Survival">Přeživší</string>
     <string name="Creative">Kreativní</string>
 
-    <string name="Default_Settings_Info">"Výchozí nastavení: doporučeno pro začínající hráče. Chcete li hru ještě více urychlit, nastavte si denní/noční cyklus na Věčný den. Pokud chcete více problémů, zvolte si nastavení jaké Vám bude vyhovovat. Pamatujte že všechny tyto volby je možné je měnit pouze při vytváření nového světa. Jakmile je hra již  vytvořena jsou všechna tato nastavení UZAMČENA!"</string>
+    <string name="Default_Settings_Info">"Výchozí nastavení: doporučeno pro začínající hráče. Chcete li hru ještě více urychlit, nastavte si denní/noční cyklus na Věčný den. Pokud chcete více problémů, zvolte si nastavení jaké Vám bude vyhovovat. 
+Pamatujte že všechny tyto volby je možné je měnit pouze při vytváření nového světa. Jakmile je hra již  vytvořena jsou všechna tato nastavení UZAMČENA!"</string>
     <string name="Previous_Visit">Tento svět již byl vytvořen. Můžeš pokračovat ve hře a nebo hru restartovat. Restartováním dojde ke smazání již odehrané hry!</string>
     <string name="Play_time">Herní čas</string>
     <string name="Mod_Selected">mód vybrán.</string>
@@ -102,10 +103,8 @@
     <string name="Death_Clumsy_Info">Tento režim je doporučen, pokud chcete rozumnou výzvu a dobrý důvod, proč neumírat! Obsah inventáře zůstane ležet na místě smrti!</string>
     <string name="Death_Ironman_Info">NENÍ URČENO PRO ZAČÁTEČNÍKY! Železný Muž je pouze pro statečné, odvážné a hloupé. V případě smrti ztratíte celý obsah svého inventáře!</string>
     <string name="Death_SquishCore_Info">NENÍ DOPORUČENO PRO NIKOHO!
-
 Tato obtížnost je jednoduchá. Pokud zemřete zůstanete mrtví</string>
     <string name="Death_Hardcore_Info">NENÍ DOPORUČENO PRO NIKOHO!
-
 Hardcore je nejtěžší nastavení. Pokud zemřete nebo je CPH zničeno, hra končí! V tomto módu CPH neumí léčit Vaše zranění.</string>
 
     <string name="Care_Package_Locked">Záchranný balíček bude odemčen, jakmile jednou postavíš Centrum pro kontrolu klimatu.</string>
@@ -868,7 +867,7 @@ V této hloubce nemůže pracovat!</string>
     <string name="Basic Rocket Nosecone_DESC">...</string>
     <string name="Basic Rocket Fin">Základní Raketová Křídla</string>
     <string name="Basic Rocket Fin_DESC">...</string>
-    <string name="LaunchPad">StartovacíRampa</string>
+    <string name="LaunchPad">Startovací Rampa</string>
     <string name="LaunchPad_DESC">...</string>
     <string name="Orange GlowPod">Oranžový Zářící Lusk</string>
     <string name="Orange GlowPod_DESC">Tohle nevypadá příliš užitečně.</string>
@@ -1031,7 +1030,8 @@ Nabíjí připojené baterie.</string>
     <string name="Organic Solar Panel_DESC">Generuje malé množství energie během noci díky svitu měsíce.
 Napájí sousední baterie.</string>
     <string name="Basic Laser Energy Transmitter">Základní Laserový Přenašeč Energie</string>
-    <string name="Basic Laser Energy Transmitter_DESC">Pomalu přenáší energii mezi bloky.
+    <string name="Basic Laser Energy Transmitter_DESC">Pomalu přenáší energii mezi
+bloky.
 Max 32 bloků. 
 Vylepšete co nejdříve.</string>
     <string name="Laser Energy Transmitter MK1">Laserový Přenašeč Energie MK1</string>
@@ -1060,7 +1060,7 @@ Spálí 1 kus paliva/minutu.</string>
     <string name="Multi Matter Mover_DESC">Přesune až 4800 předmětů/minutu na vzdálenost 4m</string>
     <string name="Ore Smelter">Tavící Pec</string>
     <string name="Basic Ore Smelter">Základní Tavící Pec</string>
-    <string name="Basic Ore Smelter_DESC">Poloviční rychlost a efektivita proti normální Tavící Peci. Nemůže být vylepšena.</string>
+    <string name="Basic Ore Smelter_DESC">Dvojnásobná rychlost ale nižší efektivita oproti normální Tavící Peci. Nemůže být vylepšena.</string>
     <string name="Basic Conveyor Belt">Základní Dopravní Pás</string>
     <string name="Basic Conveyor Belt_DESC">Pomalu přesouvá materiál ze Zásobníků</string>
     <string name="Conveyor Belt">Dopravní Pás</string>
@@ -1097,8 +1097,7 @@ Spálí 1 kus paliva/minutu.</string>
     <string name="Motorised Conveyor">Motorizovaný Dopravní Pás</string>
     <string name="Motorised Conveyor_DESC">"Extrahuje položky ze Zásobníku rychlostí  až 150 ks za minutu!"</string>
     <string name="Research Station">Výzkumná Stanice</string>
-    <string name="Research Station_DESC">Zpracovává Skeny a technologie výzkumu.
-Vyžaduje napájení.</string>
+    <string name="Research Station_DESC">Zpracovává Skeny a technologie výzkumu. Vyžaduje napájení.</string>
     <string name="Forced Induction">Zesílená Indukce</string>
     <string name="Forced Induction_DESC">Zvyšuje míru tavení a spotřebu energie.
 Umístěte na horní část Tavicí Pece.</string>
@@ -1144,7 +1143,8 @@ Umístěte na horní část Tavicí Pece.</string>
     <string name="Space Warz Siding3">Space Warz: Obložení 3</string>
     <string name="Manufacturing Plant">Výrobna</string>
     <string name="Manufacturing Plant_DESC">Centrální automatizovaný výrobní stroj.
-Je možné ho vylepšit přidáním modulů.
+Je možné ho vylepšit přidáním 
+modulů.
 Vyžaduje napájení.</string>
     <string name="3D Printer">3D Tiskárna</string>
     <string name="3D Printer_DESC">Modul pro Výrobnu.
@@ -1387,11 +1387,11 @@ Není implementováno</string>
     <string name="Lift Compressor">Výtah: Kompresor</string>
     <string name="Lift Compressor_DESC">Vyžaduje napájení. 
 Zvyšuje kompresní poměr výtahů T1.
-Pro použití připojte k spodní části výtahu T1.</string>
+Připojte k T1 výtahu.</string>
     <string name="Lift Manual Control Module">Výtah: Manuální Ovládací Modul</string>
     <string name="Lift Manual Control Module_DESC">Umožní manuálně ovládat výtah.
 Home (nahoru) End (dolů). 
-Pro použití připojte k spodní části výtahu.</string>
+Připojte k T1 výtahu.</string>
     <string name="MK1 Robot Arm">MK1 Robotická Ruka</string>
     <string name="MK1 Robot Arm_DESC">Umožní jednoduché třídění předmětů z Dopravních Pásů.</string>
     <string name="Advanced Robot Arm Control Module">Robotická Paže: Pokročilý Řídící Modul</string>
@@ -1679,20 +1679,41 @@ Vyrábí PCB z Cívek</string>
   <string name="Geothermal Generator comp.">Geotermální Generátor: Komponent</string>
     <string name="Geothermal Generator comp._DESC">Vytváří teplo teplotním rozdílem. Vytvořte konfiguraci 5wx3hx5d.</string>
     <string name="Blast Furnace component">Vysoká Pec: Komponent</string>
-  <string name="Trencher Drill component"></string>
-  <string name="Trencher Drill component_DESC"></string>
-  <string name="Trencher Motor component"></string>
-  <string name="Trencher Motor component_DESC"></string>
+  <string name="Trencher Drill component">Důlní Vrták: Komponent</string>
+  <string name="Trencher Drill component_DESC">Vytvořte Vrtací Hlavu Důlní Vrtačky. Sestavte ve tvaru 3šx3vx3h před motorem. (Celkem 27ks)</string>
+  <string name="Trencher Motor component">Důlní Vrtačka: Komponent Motoru</string>
+  <string name="Trencher Motor component_DESC"/>
   <string name="Blast Furnace component_DESC">Vytvoří Vysokou Pec. Sestavte v konfiguraci 3š</string>
-  <string name="Trencher Drill Mk2 component"></string>
-  <string name="Trencher Drill Mk2 component_DESC"></string>
-  <string name="Trencher Drill Mk3 component"></string>
-  <string name="Trencher Drill Mk3 component_DESC"></string>
-  <string name="Trencher Drill component_CRAFT_DESC"></string>
-  <string name="Trencher Drill Mk2 component_CRAFT_DESC"></string>
-  <string name="Trencher Drill Mk3 component_CRAFT_DESC"></string>
-  <string name="Trencher Motor component_CRAFT_DESC"></string>
-  <string name="Trencher Motor component_CRAFT_HINT"></string>
-  <string name="Trencher_Drill"></string>
-  <string name="Unconnected_Trencher_Motor"></string>
+  <string name="Trencher Drill Mk2 component"/>
+  <string name="Trencher Drill Mk2 component_DESC"/>
+  <string name="Trencher Drill Mk3 component"/>
+  <string name="Trencher Drill Mk3 component_DESC"/>
+  <string name="Trencher Drill component_CRAFT_DESC"/>
+  <string name="Trencher Drill Mk2 component_CRAFT_DESC"/>
+  <string name="Trencher Drill Mk3 component_CRAFT_DESC"/>
+  <string name="Trencher Motor component_CRAFT_DESC"/>
+  <string name="Trencher Motor component_CRAFT_HINT"/>
+  <string name="Trencher_Drill"/>
+  <string name="Unconnected_Trencher_Motor"/>
+  <string name="Resources">Zdroje</string>
+  <string name="SERVER NAME">JMÉNO SERVERU</string>
+  <string name="SERVER MANAGEMENT">SPRÁVA SERVERU</string>
+  <string name="GAME MODE">MÓD HRY</string>
+  
+  <string name="HIDE HOST ADDRESS">SKRÝT ADRESU HOSTUJÍCÍHO</string>
+  <string name="HOST ADDRESS">ADRESA HOSTUJÍCÍHO</string>
+  <string name="PLAYERS">HRÁČI</string>
+  <string name="PING">ODEZVA</string>
+  
+  <string name="Biomass Ping">Detektor Biomasy</string>
+  <string name="Biomass Pings">Detektory Biomasy</string>
+  <string name="Charged Experimental Pod">Nabitý Experimentální Modul</string>
+  <string name="Charged Experimental Pods">Nabité Experimentální Moduly</string>
+  <string name="Charged Lithium Coil">Nabitá Lithiová Cívka</string>
+  <string name="Charged Lithium Coils">Nabité Lithiové Cívky</string>
+  <string name="Biomass">Biomasa</string>
+  <string name="Mandragora">Mandragora</string>
+  <string name="Mandragora_DESC">Vhodné pro Surové Čočky.</string>
+  <string name="Lithium Coil Charger">Nabíječka Lithiových Cívek</string>
+  <string name="Lithium Coil Charger_DESC">Obohatí 5 ks Lithiových Cívek pomocí 100 Energie. Využívá se pro nabíjení SpiderBota a jako Výrobní předmět.</string>
   </resources>
