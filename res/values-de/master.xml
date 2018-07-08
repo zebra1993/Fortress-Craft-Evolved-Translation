@@ -5166,4 +5166,32 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="UI_Zipper_Merge_3n1">Förderbandkombinator (3 in 1)
 (Patent ausstehend)</string>
   <string name="UI_Rapid_Zipper_merge">Schneller Förderbandkombinierer</string>
+  <string name="SERVER NAME">Server Name</string>
+  <string name="SERVER MANAGEMENT">Server Steuerung</string>
+  <string name="GAME MODE">Spiel Modus</string>
+  
+  <string name="HIDE HOST ADDRESS">Server Adresse verbergen</string>
+  <string name="HOST ADDRESS">Server Adresse</string>
+  <string name="PLAYERS">Spieler</string>
+  <string name="PING">Lantenz</string>
+  
+  <string name="Biomass Ping">Biomasseping</string>
+  <string name="Biomass Pings">Biomassepinge</string>
+  <string name="Charged Experimental Pod">Geladene Forschungskapsel</string>
+  <string name="Charged Experimental Pods">Geladene Forschungskapseln</string>
+  <string name="Charged Lithium Coil">Geladene Lithium Spule</string>
+  <string name="Charged Lithium Coils">Geladene Lithium Spulen</string>
+  <string name="Biomass">Biomasse</string>
+  <string name="Biomass_DESC">Biomasse welche in der Toxischen zu finden ist. Uralte Kreaturen komprimiert zu Treibstoff, praktisch.</string>
+  <string name="Mandragora">Mandragora</string>
+  <string name="Mandragora_DESC">Nützlich für schlechte Linsen.</string>
+  <string name="Lithium Coil Charger">Lithium Spulen Ladestation</string>
+  <string name="Lithium Coil Charger_DESC">Ladt 5 Lithium Spulen mit 100 Enegie auf. Bei Spiderbot sowie Rezepten verwendet.</string>
+  <string name="Fuel Compressor">Treibstoff Kompressor</string>
+  <string name="Fuel Compressor_DESC">Komprimiert Kohlenstoff Partikel zu Hochenergie Treibstoff. Extrem Reaktionsfreudig, sehr energiereicher Treibstoff.</string>
+  <string name="Choose_filter">Wähle gefilterter Gegenstand</string>
+  <string name="Never Visible">Never Visibole</string>
+  <string name="Never Visible_DESC">Du solltest dies nie sehn, wenn doch, Du hast einen Bug gefunden</string>
+  <string name="Biomass Ping_CRAFT_DESC">Ein Verbrauchsgegenstand der ein Erzping auslöst welcher ausschliesslich Biomasse anzeigt und keine Energie verbraucht.</string>
+  <string name="Biomass Ping_CRAFT_HINT">Ein Verbrauchsgegenstand der ein Erzping auslöst welcher ausschliesslich Biomasse anzeigt und keine Energie verbraucht.</string>
   </resources>
