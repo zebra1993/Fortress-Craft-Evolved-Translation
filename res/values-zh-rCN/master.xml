@@ -3791,7 +3791,7 @@ For fancy Statistics, play Survival</string>
   <string name="Unknown_material_Power_required_to_research_X">研究所需的能量：{ 0 }</string>
   <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">处理未知的材料扫描，解锁新的研究项目和制造配方，以及赚取研究点。</string>
   <string name="Find_unknown_materials_using_orescanner_ping_facility">使用矿石扫描仪的平设施找到更多未知材料。
-按M选择矿石扫描仪，然后离开鼠标按钮发送一个材料平。</string>
+按M选择矿石扫描仪，然后离开鼠标按钮发送一个材料扫描脉冲。</string>
   <string name="For_more_information_on_the_X_open_the_Handbook">有关{ 0 }的更多信息，请打开手册（按H）。</string>
   <string name="Scans_X">扫描（{0}）</string>
   <string name="Scans">扫描</string>
@@ -5222,4 +5222,10 @@ PTG无法发挥这个功能！</string>
   <string name="Choose_output">选择输出</string>
   <string name="Orbital_Bombardment_has_begun">轨道轰炸已经开始了！</string>
   <string name="Progression_Youve_smelted_X_ingots">进度！你已经冶炼了{0}锭！</string>
+  <string name="Flushing_Disk_Cache">冲洗磁盘高速缓存中</string>
+  <string name="onto_conveyor">放在传送带上或者料斗里面</string>
+  <string name="Stack Size">堆栈大小</string>
+  <string name="MS_Performance">警告!大量储存超过100箱。考虑多个更小的存储。</string>
+  <string name="MS_Performance_Critical">警告!海量存储的大小是关键，而且可能会出现性能问题!</string>
+  <string name="Research_Points">科研点数</string>
   </resources>
