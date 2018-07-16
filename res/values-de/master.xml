@@ -5301,4 +5301,5 @@ Gesamt: {2:N0}</string>
   <string name="Ore_Big_X_X_X">{0}
 Volumen: {1} m³
 Gesamt: {2:N4}m</string>
+  <string name="Network_Ore_Report">Soeben eine {0}-Ader gescannt mit {1}m Erz bei {2},{3},{4}</string>//A huge vein with a ! at the end?
   </resources>
