@@ -5256,4 +5256,10 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   
   <string name="Motor_X">Motor: {0}</string>
   <string name="Head_X">Bohrkopf: {0}</string>
+  <string name="DUR_X">Haltbarkeit: {0}</string>
+  <string name="Conveyors">Förderbänder</string>
+  <string name="Mission_Report">Missionsreport</string>
+  <string name="Desired_PPS_X">Bedarf EPS: {0}</string>
+  <string name="Attached_to_X">Angeschlossen an {0}</string>
+  <string name="Smelting_time_X">Zeit zur Schmelze: {0}s</string>
   </resources>
