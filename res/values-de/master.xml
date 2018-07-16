@@ -5310,4 +5310,8 @@ Gesamt: {2:N4}m</string>
   <string name="UI_Unable_locate_material_for_upgrade">Finde keine Material für den Ausbau!</string>
   <string name="UI_Engine_Smoothness_X">Triebwerkssteuerung feinheit: {0}</string>
   <string name="UI_Minecart_Track_One_Way">Schiene Einbahn</string>
+  <string name="UI_Minecart_Scrap_Track_Straight">Gerade Schrott Schiene</string>
+  <string name="UI_Minecart_Scrap_Track_Corner">Schrott Schienenkurve</string>
+  <string name="UI_Minecart_Scrap_Track_Slope">Schrott Schienenrampe</string>
+  <string name="UI_Minecart_Scrap_Track_One_Way">Schritt Einbahnschiene</string>
   </resources>
