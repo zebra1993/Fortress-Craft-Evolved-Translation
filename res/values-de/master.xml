@@ -5309,4 +5309,5 @@ Gesamt: {2:N4}m</string>
   <string name="UI_Upgrade_complete_X_track_upgraded">Ausbau beendet - {0} Schienen verbessert</string>
   <string name="UI_Unable_locate_material_for_upgrade">Finde keine Material für den Ausbau!</string>
   <string name="UI_Engine_Smoothness_X">Triebwerkssteuerung feinheit: {0}</string>
+  <string name="UI_Minecart_Track_One_Way">Schiene Einbahn</string>
   </resources>
