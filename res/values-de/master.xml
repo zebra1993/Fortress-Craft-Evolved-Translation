@@ -5298,4 +5298,7 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Ore_normal_X_X_X">{0}
 Volumen: {1} m³
 Gesamt: {2:N0}</string>
+  <string name="Ore_Big_X_X_X">{0}
+Volumen: {1} m3
+Gesamt: {2:N4}m</string>
   </resources>
