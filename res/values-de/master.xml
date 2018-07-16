@@ -5244,5 +5244,5 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="All_Systems_Nominal_X_Power_available">"Alle Systeme nominal\\n   {0} Energie verfügbar"</string>
   <string name="Currently_charging_ARTHER_for_player_X">ARTHER wird für Spieler {0} aufgeladen</string>
   <string name="Attached_machines_X">Maschinen angeschlossen: {0}</string>
-  <string name="Storing_X_items_with_X_free_slots">Lagere {0} Gegenstände bei {1} freien Plätzen</string>
+  <string name="Storing_X_items_with_X_free_slots">Lagere {0} Gegenstände mit {1} freien Plätzen</string>
   </resources>
