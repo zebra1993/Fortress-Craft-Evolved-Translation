@@ -5321,4 +5321,11 @@ Gesamt: {2:N4}m</string>
   <string name="Not_Collecting">Sammelt nicht</string>
   <string name="Collecting_X">Sammelt {0}</string>
   <string name="Spawn_set">Sawnpunkt gesetzt!</string>
+  <string name="X_Power">{0} Energie.</string>
+  <string name="Cool_geddit">Cool. Kapiert ?</string>
+  <string name="Need_carry_arms">Brauche Tragearme!</string>
+  <string name="Need_herb_arms">Brauche Kräuter Arme</string>
+  <string name="Conv_NONE">KEINE</string>
+  <string name="Requesting_X">Ben.{0}</string>
+  <string name="OE_clearing">Mache frei!</string>
   </resources>
