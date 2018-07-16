@@ -5348,4 +5348,31 @@ Gesamt: {2:N4}m</string>
   <string name="DP_dont_lick">...nicht ablecken.</string>
   <string name="DP_Hope_build_gun">Ich hoffe Du hast einen V2 Konstruktor</string>
   <string name="DP_crit_fail">Kritischer Fehler!</string>
+  <string name="DP_epic_fail">Episches Versagen!</string>
+  <string name="DP_unlucky">Glücklos!</string>
+  <string name="DP_no_feelings">Keine Wut, weder so noch anders</string>
+  <string name="DP_lucky">Glücklich!</string>
+  <string name="DP_great_success">Großer Erfolg!</string>
+  <string name="DP_winner_you">Du bist ein Gewinner!</string>
+  <string name="DP_natural">Natürliche 20!</string>
+  <string name="DP_perfection">Perfektion!</string>
+
+  <string name="Chevron Radiation">Winkelleiste Strahlung</string>
+  <string name="Chevron Radiation_DESC">Vorsicht, Strahlung voraus!</string>
+  <string name="Chevron Radiation_CRAFT_DESC">Vorsicht, Strahlung voraus!</string>
+  <string name="Chevron Radiation_CRAFT_HINT">Vorsicht, Strahlung voraus!</string>
+  <string name="Chevron First Aid">Winkelleiste Erste Hilfe</string>
+  <string name="Chevron First Aid_DESC">Erste-Hilfe-Set in der Nähe (hoffentlich)</string>
+  <string name="Chevron First Aid_CRAFT_DESC">Erste-Hilfe-Set in der Nähe (hoffentlich)</string>
+  <string name="Chevron First Aid_CRAFT_HINT">Erste-Hilfe-Set in der Nähe (hoffentlich)</string>
+  <string name="Chevron Aisle Marking">Winkelleiste Gangmarkierung</string>
+  <string name="Chevron Aisle Marking_DESC">Lagerbereich in der Nähe. Schutzhelm benötigt</string>
+  <string name="Chevron Aisle Marking_CRAFT_DESC">Lagerbereich in der Nähe. Schutzhelm benötigt</string>
+  <string name="Chevron Aisle Marking_CRAFT_HINT">Lagerbereich in der Nähe. Schutzhelm benötigt</string>
+  <string name="Chevron Traffic">Winkelleiste Verkehr</string>
+  <string name="Chevron Traffic_DESC">Vorsicht Lastentransporte</string>
+  <string name="Chevron Traffic_CRAFT_DESC">Vorsicht Lastentransporte</string>
+  <string name="Chevron Traffic_CRAFT_HINT">Vorsicht Lastentransporte</string>
+  <string name="Chevron Defective Machinery">Winkelleiste Defekte Maschinen</string>
+  <string name="Chevron Defective Machinery_DESC">Vorsicht, defekte Maschinen</string>
   </resources>
