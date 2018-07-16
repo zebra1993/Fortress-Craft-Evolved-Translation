@@ -5274,4 +5274,10 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Loading_Complete">Laden beendet!</string>
   <string name="CCCCC_Offline">KHKKZ ist aus</string>
   <string name="CCCCC_Terraforming">KHKKZ Arbeitet</string>
+  <string name="CryoPlasm_Detected">CryoPlasma entdeckt</string>
+  <string name="CryoPlasm_Killed">CryoPlasma vernichtet</string>
+  <string name="Burning_X_for_X">Verbrenne {0} noch {1}s</string>
+  <string name="Calories_X_left">{0} Kalorien übrig</string>
+  <string name="Flushing_Disk_Cache">Plattencache wird geleert</string>
+  <string name="onto_conveyor">auf ein Förderband oder in einen Lagerbehälter!</string>
   </resources>
