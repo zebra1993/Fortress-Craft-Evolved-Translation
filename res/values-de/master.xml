@@ -5218,4 +5218,14 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="CE_Detonate_X_Seconds">Sprengstoff wird in {0} Sekunden explodieren</string>
   <string name="Youre_lost">Verirrt !</string>
   <string name="Lost">Verloren?</string>
+  <string name="Upper_Caves">Obere Höhlen</string>
+  <string name="Cold_Caverns">Kalte Höhlen</string>
+  <string name="Lower_Caves">Untere Höhlen</string>
+  <string name="Toxic_Caverns">Giftige Höhlen</string>
+  <string name="Deep_Caves">Tiefe Höhlen</string>
+  <string name="Magma_Caverns">Magma Höhlen</string>
+  <string name="Generic_Room">Raum</string>
+  <string name="Greenhouse_Room">Gewächshaus</string>
+  <string name="Clean_Room">Reinraum</string>
+  <string name="Heated_Room">Beheizter Raum</string>
   </resources>
