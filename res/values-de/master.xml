@@ -5340,4 +5340,12 @@ Gesamt: {2:N4}m</string>
   <string name="DP_Run">Öhhh.. lauf ?</string>
   <string name="DP_boss_rush_X">BOSS ANGRIFF x {0}</string>
   <string name="DP_happyfeet">Glückliche Füße!</string>
+  <string name="DP_build_X_robots">BAUE {0} ROBOTER!</string>
+  <string name="DP_let_it_go">Lass es los...</string>
+  <string name="DP_floor_now_lava">Der Boden ist jetzt Lava...</string>
+  <string name="DP_sand_fluid">Es ist grob und rau und störend und kommt überall hin.</string>
+  <string name="DP_arachnid">...wenn Du mutig genug bist..</string>
+  <string name="DP_dont_lick">...nicht ablecken.</string>
+  <string name="DP_Hope_build_gun">Ich hoffe Du hast einen V2 Konstruktor</string>
+  <string name="DP_crit_fail">Kritischer Ausfall!</string>
   </resources>
