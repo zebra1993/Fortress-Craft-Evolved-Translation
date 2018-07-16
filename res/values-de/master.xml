@@ -5196,4 +5196,6 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Biomass Ping_CRAFT_HINT">Ein Verbrauchsgegenstand der ein Erzping auslöst welcher ausschliesslich Biomasse anzeigt und keine Energie verbraucht.</string>
   <string name="Charged Experimental Pod_CRAFT_DESC">Lithiumplatten und geladene Leiterplatten werden zu komplexen Forschungskapseln verarbeitet,welche für Forschung verwendet werden können.</string>
   <string name="Charged Experimental Pod_CRAFT_HINT">Lithiumplatten und geladene Platinen werden zu komplexen Forschungskapseln verarbeitet, welche für Forschung verwendet werden können.</string>
+  <string name="Drill_Stuck_X_cant_dig_X_Fit_better_head">Bohrer steckt fest. {0} kann {1} nicht bohren.\\nRüste einen besseren Bohrkopf aus!</string>
+  <string name="Next_X_in_X">Nächstes {0} in {1}s.</string>
   </resources>
