@@ -5206,4 +5206,10 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="MISSION_PaintSomething">Bemale einen Dekorations Block!</string>
   <string name="MISSION_OE_Power">ohne Energie</string>
   <string name="MISSION_OE_Storage">kein freier Lagerplatz</string>
+  <string name="MISSION_OE_Stuck">Bohrer steckt fest</string>
+  <string name="MISSION_OE_Depleted">Ader erschöpft</string>
+
+  <string name="MISSION_Place At Least">Platziere mindestens</string>
+  <string name="ARTHER_No_Dock">ARTHER kann kein Dock im Umkreis von 32m finden!</string>
+  <string name="MM_Aim_X">Ziele auf einen Lagerbehälter weniger als {0]m entfernt.</string>
   </resources>
