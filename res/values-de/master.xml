@@ -5289,4 +5289,13 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Press_T_to_set_Output_to">"Drücke T und setze Ausgangsmaterial auf "</string>
   <string name="Choose_output">Wähle Ausgabe</string>
   <string name="Orbital_Bombardment_has_begun">Orbitalbombardement hat begonnen!</string>
+  <string name="Progression_Youve_smelted_X_ingots">Fortschritt! Du hast {0} Barren geschmolzen!</string>
+  <string name="Research_Points">Forschungspunkte</string>
+  <string name="VsyncOn">Begrenzt</string>
+  <string name="VsyncOff">Aus</string>
+  <string name="VsyncHalf">Energie sparen</string>
+  <string name="ShiftCtrl">Shift/Strg um 10/1 zu entnehmen</string>
+  <string name="Ore_normal_X_X_X">{0}
+Volumen: {1} m3
+Gesamt: {2:N0}</string>
   </resources>
