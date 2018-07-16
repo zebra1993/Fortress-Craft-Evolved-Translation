@@ -5262,4 +5262,16 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Desired_PPS_X">Bedarf EPS: {0}</string>
   <string name="Attached_to_X">Angeschlossen an {0}</string>
   <string name="Smelting_time_X">Schmelzzeit: {0}s</string>
+  <string name="Cost_X">Preis: {0}</string>
+  <string name="No_description">Keine Beschreibung</string>
+  <string name="Power_State_X">Energiestatus: {0}</string>
+  <string name="Rack_Rail_storage_X">Zahnstangen Lager: {0}</string>
+  <string name="Operating_State_X">Betriebszustand: {0}</string>
+  <string name="Rail_Depth_X">Schienentiefe: {0}m</string>
+  <string name="Rail_State_X">Schienenstatus: {0}</string>
+  <string name="Lift_Depth_X">Aufzugtiefe: {0}m</string>
+  <string name="Lift_State_X">Aufzugstatus: {0}m</string>
+  <string name="Loading_Complete">Laden beendet!</string>
+  <string name="CCCCC_Offline">KHKKZ ist aus</string>
+  <string name="CCCCC_Terraforming">KHKKZ läuft</string>
   </resources>
