@@ -5245,4 +5245,8 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Currently_charging_ARTHER_for_player_X">ARTHER wird für Spieler {0} aufgeladen</string>
   <string name="Attached_machines_X">Maschinen angeschlossen: {0}</string>
   <string name="Storing_X_items_with_X_free_slots">Lagere {0} Gegenstände mit {1} freien Plätzen</string>
+  <string name="Transferred_X_bars_from_Inventory">{0} Barren aus Inventar übergeben</string>
+  <string name="Transferred_X_items_from_Inventory">{0} Gegenstände aus Inventar übergeben!</string>
+  <string name="ore_from_inventory">Erz aus Inventar</string>
+  <string name="Transferred_X_ore_from_inventory">{0} Erz aus Inventar übergeben!</string>
   </resources>
