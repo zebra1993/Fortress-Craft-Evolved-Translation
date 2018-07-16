@@ -5377,4 +5377,9 @@ Gesamt: {2:N4}m</string>
   <string name="Chevron Defective Machinery_DESC">Vorsicht, defekte Maschinen, vorsichtig behandeln</string>
   <string name="Chevron Defective Machinery_CRAFT_DESC">Vorsicht, defekte Maschinen, vorsichtig behandeln</string>
   <string name="Chevron Defective Machinery_CRAFT_HINT">Vorsicht, defekte Maschinen, vorsichtig behandeln</string>
+  <string name="Directional Storage Hopper">Lagerbehälter, gerichtet</string>
+  <string name="DirMBError">Fehler, kann nicht in Mehrblock-Maschinen abladen</string>
+  
+  <string name="Directional Storage Hopper_DESC">Wie normaler Lagerbehälter aber kann nur in eine Richtung ausladen. Drücke R zum Drehen.</string>
+  <string name="Directional Storage Hopper_CRAFT_DESC">Lagert bis zu 100 Gegenstände und überträgt schnell. Zur Automatisierung anderer Maschinen. Lädt nur in eine Richtung aus.</string>
   </resources>
