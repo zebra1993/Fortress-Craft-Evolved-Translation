@@ -5383,4 +5383,47 @@ Gesamt: {2:N4}m</string>
   <string name="Directional Storage Hopper_DESC">Wie normaler Lagerbehälter aber kann nur in eine Richtung ausladen. Drücke R zum Drehen.</string>
   <string name="Directional Storage Hopper_CRAFT_DESC">Lagert bis zu 100 Gegenstände und überträgt schnell. Zur Automatisierung anderer Maschinen. Lädt nur in eine Richtung ab.</string>
   <string name="Directional Storage Hopper_CRAFT_HINT">Verwenden für kompakte Aufbauten</string>
+  <string name="Primary Upgrade Module Maker">Primäres Aufwertmodul Hersteller</string>
+  <string name="Primary Upgrade Module Maker_DESC">Stellt Primäres Aufwertmodul her</string>
+  <string name="Primary Upgrade Module Maker_CRAFT_DESC">Stellt Primäres Aufwertmodul her</string>
+  <string name="Primary Upgrade Module Maker_CRAFT_HINT">Stellt Primäres Aufwertmodul her</string>
+  <string name="Primary Upgrade Module">Primäres Aufwertmodul</string>
+  <string name="Primary Upgrade Modules">Primäre Aufwertmodule</string>
+
+  <string name="Secondary Upgrade Module Maker">Sekundärer Aufwertmodul Hersteller</string>
+  <string name="Secondary Upgrade Module Maker_DESC">Stellt Sekundäres Aufwertmodul her</string>
+  <string name="Secondary Upgrade Module Maker_CRAFT_DESC">Stellt Sekundäres Aufwertmodul her</string>
+  <string name="Secondary Upgrade Module Maker_CRAFT_HINT">Stellt Sekundäres Aufwertmodul her</string>
+  <string name="Secondary Upgrade Module">Sekundäres Aufwertmodul</string>
+  <string name="Secondary Upgrade Modules">Sekundäres Aufwertmodul</string>
+
+  <string name="Alloyed Upgrade Module Maker">Legiertes Aufwertmodul Hersteller</string>
+  <string name="Alloyed Upgrade Module Maker_DESC">Stellt Legiertes Aufwertmodul her</string>
+  <string name="Alloyed Upgrade Module Maker_CRAFT_DESC">Stellt Legiertes Aufwertmodul her</string>
+  <string name="Alloyed Upgrade Module Maker_CRAFT_HINT">Stellt Legiertes Aufwertmodul her</string>
+  <string name="Alloyed Upgrade Module">Legiertes Aufwertmodul</string>
+  <string name="Alloyed Upgrade Modules">Legierte Aufwertmodule</string>
+
+  <string name="Ultimate Upgrade Module Maker">Ultimatives Aufwertmodul Hersteller</string>
+  <string name="Ultimate Upgrade Module Maker_DESC">Stellt Ultimatives Aufwertmodul her</string>
+  <string name="Ultimate Upgrade Module Maker_CRAFT_DESC">Stellt Ultimatives Aufwertmodul her</string>
+  <string name="Ultimate Upgrade Module Maker_CRAFT_HINT">Stellt Ultimatives Aufwertmodul her</string>
+  <string name="Ultimate Upgrade Module">Ultimatives Aufwertmodul</string>
+  <string name="Ultimate Upgrade Modules">Ultimative Aufwertmodule</string>
+  
+  <string name="UNUSED Room Ventilation Grille">Unbenutzt</string>
+  <string name="UNUSED Room Ventilation Grille_DESC">Unbenutzt</string>
+  <string name="UNUSED Room Ventilation Grille_CRAFT_DESC">Unbenutzt</string>
+  <string name="UNUSED Room Ventilation Grille_CRAFT_HINT">Unbenutzt</string>
+  
+  
+  <string name="Freight Cart Station">Frachtwagen Station</string>
+  <string name="Freight Cart Station_DESC">Stellt Frachtwagen mit bestimmter Ladung bereit so wie von anderen Frachtstationen angefordert.</string>
+  <string name="Freight Cart Station_CRAFT_DESC">Beliefert das Frachtnetz mit bestimmten Resourcen aus Lagerbehältern oder Massenlager.</string>
+  <string name="Freight Cart Station_CRAFT_HINT">Intelligente Reourcenverteilung</string>
+  <string name="Freight System Monitor">Frachsystem Überwachung</string>
+  <string name="Freight System Monitor_DESC">Bildschirm zur Information über deine Frachtnetzwerke.</string>
+  <string name="Freight System Monitor_CRAFT_DESC">Zeigt nützliche Informationen über dein Frachtsystem.</string>
+  <string name="Freight System Monitor_CRAFT_HINT">Zeige alle Gegenstände!</string>
+  <string name="Freight Cart Depot">Frachtwagen Depot</string>
   </resources>
