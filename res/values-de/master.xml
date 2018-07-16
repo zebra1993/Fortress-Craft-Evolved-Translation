@@ -5302,4 +5302,5 @@ Gesamt: {2:N0}</string>
 Volumen: {1} m³
 Gesamt: {2:N4}m</string>
   <string name="Network_Ore_Report">Ich habe soeben eine {0}-Ader gescannt mit {1}m Erz bei {2},{3},{4}</string>//A huge vein with a ! at the end?
+  <string name="AirLock_Inner">DAS IST NICHT RICHTIG FINDE UND REPARIERE DAS GEHÄUSE</string>
   </resources>
