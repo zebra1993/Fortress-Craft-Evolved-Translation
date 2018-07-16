@@ -5305,4 +5305,8 @@ Gesamt: {2:N4}m</string>
   <string name="AirLock_Inner">DAS IST NICHT RICHTIG FINDE UND REPARIERE DAS GEHÄUSE</string>
   <string name="AirLock_Outer">DAS IST NICHT RICHTIG FINDE UND REPARIERE DAS GEHÄUSE</string>
   <string name="UI_T1_Vertical_Piston_Lift">Stufe 1 Vertikal-ausfahrernder Mittelzylinder Lift</string>
+  <string name="UI_Place_Facing_Conveyor_or_Track">Bitte in Richtung eines Förderbandes oder Schiene platzieren!</string>
+  <string name="UI_Upgrade_complete_X_track_upgraded">Ausbau beendet - {0} Schienen verbessert</string>
+  <string name="UI_Unable_locate_material_for_upgrade">Finde keine Material für den Ausbau!</string>
+  <string name="UI_Engine_Smoothness_X">Flüssigkeit der Grafik: {0}</string>
   </resources>
