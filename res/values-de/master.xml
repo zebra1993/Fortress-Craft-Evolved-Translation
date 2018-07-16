@@ -5314,4 +5314,11 @@ Gesamt: {2:N4}m</string>
   <string name="UI_Minecart_Scrap_Track_Corner">Schrott Schienenkurve</string>
   <string name="UI_Minecart_Scrap_Track_Slope">Schrott Schienenrampe</string>
   <string name="UI_Minecart_Scrap_Track_One_Way">Schritt Einbahnschiene</string>
+  <string name="UI_Orbital_Energy_transmitter">Orbitaler Energietransmitter</string>
+  <string name="C5_only_one_C5_allowed">Du darfst nur ein KHKKZ haben!</string>
+  <string name="LPT_Disconnected">GETRENNT</string>
+  <string name="Press_T_Sort_X">Drücke T um [{0}] zu sortieren</string>
+  <string name="Not_Collecting">Sammelt nicht</string>
+  <string name="Collecting_X">Sammelt {0}</string>
+  <string name="Spawn_set">Set erzeugen!</string>
   </resources>
