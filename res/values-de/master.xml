@@ -5328,4 +5328,11 @@ Gesamt: {2:N4}m</string>
   <string name="Conv_NONE">KEINE</string>
   <string name="Requesting_X">Ben.{0}</string>
   <string name="OE_clearing">Ader bald leer!</string>
+  <string name="Turr_kill">Töten!</string>
+  <string name="Falcor_boom">Bumm!</string>
+  <string name="Falcor_reloading">Lade nach!</string>
+  <string name="CPH_initialising">ZEV fährt hoch...</string>
+  <string name="Crafting">Fertige</string>
+  <string name="Emergency Orange Light">Notfall-Licht Orange</string>
+  <string name="Emergency Red Light">Notfall-Licht Rot</string>
   </resources>
