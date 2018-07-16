@@ -5212,4 +5212,9 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="MISSION_Place At Least">Platziere mindestens</string>
   <string name="ARTHER_No_Dock">ARTHER kann kein Dock im Umkreis von 32m finden!</string>
   <string name="MM_Aim_X">Ziele auf einen Lagercontainer weniger als {0]m entfernt.</string>
+  <string name="MM_PastTense_X_Glue_X_Power">{0} Gegenstände transmaterialisiert, {1} Energie verbraucht</string>
+  
+  <string name="CE_CurrentCharge_X">Momentane Energieladung: {0}</string>
+  <string name="CE_Detonate_X_Seconds">Sprengstoff wird in {0} Sekunden explodieren</string>
+  <string name="Youre_lost">Verirrt !</string>
   </resources>
