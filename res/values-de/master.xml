@@ -5280,4 +5280,6 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="Calories_X_left">{0} Kalorien übrig</string>
   <string name="Flushing_Disk_Cache">Plattencache wird geleert</string>
   <string name="onto_conveyor">auf ein Förderband oder in einen Lagercontainer!</string>
+  <string name="onto_special">in bestimmte Abladestelle!</string>
+  <string name="Temperature_diff_X_C">Temperaturänderung: {0}°C</string>
   </resources>
