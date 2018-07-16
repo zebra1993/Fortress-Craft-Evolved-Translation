@@ -5233,5 +5233,5 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="HEALTH POINTS">TREFFERPUNKTE</string>
   <string name="X_Admins">{0} Administratoren</string>
   <string name="X_Pending">{0} ausstehend</string>
-  <string name="Searching_offering_Hopper_Radius_X_Found_X">Suche liefernden Behälter, Umkreis: {0}. Gefunden: {1}</string>
+  <string name="Searching_offering_Hopper_Radius_X_Found_X">Suche liefernden Container, Umkreis: {0}. Gefunden: {1}</string>
   </resources>
