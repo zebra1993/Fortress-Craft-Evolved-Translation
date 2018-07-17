@@ -1618,7 +1618,7 @@ Vyrábí PCB z Cívek</string>
     <string name="Imbued Machine Block Assembler_CRAFT_DESC">Běžná součástka pro pokročilé strojírenství. Použijte 4 Pokročilé Strojní Bloky a jednu MK5 Záložní Baterii.</string>
     <string name="Imbued Machine Block Assembler_CRAFT_HINT">Lze ho využít i jako stavební blok.</string>
     <string name="Plasma Head Charger_CRAFT_DESC">Spotřebuje velké množství energie na obohacení standardní Ocelové Vrtací Hlavy plazmovou energií.</string>
-    <string name="ConstructoBot Ironide Chassis Assembler"/>
+    <string name="ConstructoBot Ironide Chassis Assembler">ConstructoBot: Montovna Ironide Podvozku</string>
     <string name="ConstructoBot Leg Assembler">KonstrukčníBot: Montovna Nohou</string>
     <string name="ConstructoBot Arm Assembler">KonstrukčníBot: Montovna Rukou</string>
     <string name="Refinery Reactor Vat Component">Rafinerie : Komponent Kádě Reaktoru</string>
@@ -1641,7 +1641,7 @@ Vyrábí PCB z Cívek</string>
     <string name="MK2 Solar Panel Component_DESC">Vytvořte Solární Panel v konfiguraci 3Šx1Vx3H. Lze ho postavit POUZE na Špičkových Strojích.</string>
     <string name="T4 Energy Turret component">T4 Energetická Věž: Komponent</string>
     <string name="T4 Energy Turret component_DESC">Sestavte v konfiguraci 3x3x3. Velké Poškození a spotřeba Energie.</string>
-    <string name="Fusion Reactor Pylon comp.">Fůzní Reaktor:</string>
+    <string name="Fusion Reactor Pylon comp.">Fůzní Reaktor: Komponent Pylonu</string>
     <string name="Fusion Reactor Pylon comp._DESC">Vytvořte pylon jako součást konfigurace reaktoru fúze. Pro sestavení průvodce použijte monitor Fusion Reactor Monitor.</string>
     <string name="Auto Organic Thief_DESC">Automaticky odstraní poškozené organické části z tvého inventáře.</string>
     <string name="Ruined Organic Thief">Sběrač Poškozeného Organického Materiálu</string>
@@ -1676,25 +1676,25 @@ Vyrábí PCB z Cívek</string>
 <string name="Research_project_at_laboratory_Requires">Výzkum tohoto projektu v Laboratoři - Vyžaduje:</string>
 
   <string name="UI_Rocket_has_X_Parts_X_m_tall">Střela má {0} částí a je {1}m vysoká</string>
-  <string name="Geothermal Generator comp.">Geotermální Generátor: Komponent</string>
+  <string name="Geothermal Generator comp.">Geotermální Generátor: Komponent.</string>
     <string name="Geothermal Generator comp._DESC">Vytváří teplo teplotním rozdílem. Vytvořte konfiguraci 5wx3hx5d.</string>
     <string name="Blast Furnace component">Vysoká Pec: Komponent</string>
   <string name="Trencher Drill component">Důlní Vrták: Komponent</string>
-  <string name="Trencher Drill component_DESC">Vytvořte Vrtací Hlavu Důlní Vrtačky. Sestavte ve tvaru 3šx3vx3h před motorem. (Celkem 27ks)</string>
+  <string name="Trencher Drill component_DESC">Vytvoří Vrtací Hlavu Důlní Vrtačky. Sestavte ve tvaru 3x3x3 před motorem. (Celkem 27ks)</string>
   <string name="Trencher Motor component">Důlní Vrtačka: Komponent Motoru</string>
-  <string name="Trencher Motor component_DESC"/>
+  <string name="Trencher Motor component_DESC">Vytvoří motor pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem. (27 ks celkem)</string>
   <string name="Blast Furnace component_DESC">Vytvoří Vysokou Pec. Sestavte v konfiguraci 3š</string>
-  <string name="Trencher Drill Mk2 component"/>
-  <string name="Trencher Drill Mk2 component_DESC"/>
-  <string name="Trencher Drill Mk3 component"/>
-  <string name="Trencher Drill Mk3 component_DESC"/>
-  <string name="Trencher Drill component_CRAFT_DESC"/>
-  <string name="Trencher Drill Mk2 component_CRAFT_DESC"/>
-  <string name="Trencher Drill Mk3 component_CRAFT_DESC"/>
-  <string name="Trencher Motor component_CRAFT_DESC"/>
-  <string name="Trencher Motor component_CRAFT_HINT"/>
-  <string name="Trencher_Drill"/>
-  <string name="Unconnected_Trencher_Motor"/>
+  <string name="Trencher Drill Mk2 component">Důlní Vrtačka MK2: Komponent</string>
+  <string name="Trencher Drill Mk2 component_DESC">Vylepšená Důlní Vrtačka. Sestavte stejným způsobem jako MK 1.</string>
+  <string name="Trencher Drill Mk3 component">Důlní Vrtačka MK3: Komponent</string>
+  <string name="Trencher Drill Mk3 component_DESC">Hodně vylepšená Důlní Vrtačka. Sestavte stejným způsobem jako MK 1.</string>
+  <string name="Trencher Drill component_CRAFT_DESC">Vytvoří Vrtací Hlavu pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem.</string>
+  <string name="Trencher Drill Mk2 component_CRAFT_DESC">Vytvoří Vrtací Hlavu pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem.</string>
+  <string name="Trencher Drill Mk3 component_CRAFT_DESC">Vytvoří Vrtací Hlavu pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem.</string>
+  <string name="Trencher Motor component_CRAFT_DESC">Vytvoří motor pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 za Vrtací Hlavu.</string>
+  <string name="Trencher Motor component_CRAFT_HINT">Přijímá energii a vytahuje rudu z důlní vrtačky.</string>
+  <string name="Trencher_Drill">Důlní Vrtačka</string>
+  <string name="Unconnected_Trencher_Motor">Není připojen motor Důlní Vrtačky</string>
   <string name="Resources">Zdroje</string>
   <string name="SERVER NAME">JMÉNO SERVERU</string>
   <string name="SERVER MANAGEMENT">SPRÁVA SERVERU</string>
@@ -1716,4 +1716,65 @@ Vyrábí PCB z Cívek</string>
   <string name="Mandragora_DESC">Vhodné pro Surové Čočky.</string>
   <string name="Lithium Coil Charger">Nabíječka Lithiových Cívek</string>
   <string name="Lithium Coil Charger_DESC">Obohatí 5 ks Lithiových Cívek pomocí 100 Energie. Využívá se pro nabíjení SpiderBota a jako Výrobní předmět.</string>
+  <string name="Biomass_DESC">...</string>
+  <string name="ConstructoBot Coppator Chassis Assembler">ConstructoBot: Montovna Coppator Podvozku</string>
+  <string name="ConstructoBot Coppator Chassis Assembler_DESC">Vyrábí Úroveň 0 (Coppator) 
+Podvozek ConstructoBota.</string>
+  <string name="ConstructoBot Tindron Chassis Assembler">ConstructoBot: Montovna Tindron Podvozku</string>
+  <string name="ConstructoBot Tindron Chassis Assembler_DESC">Vyrábí Úroveň 1 (Tindron) 
+Podvozek ConstructoBota.</string>
+  <string name="ConstructoBot Bronzite Chassis Assembler">ConstructoBot: Montovna Bronzite Podvozku</string>
+  <string name="ConstructoBot Bronzite Chassis Assembler_DESC">Vyrábí Úroveň 2 (Bronzite) 
+Podvozek ConstructoBota.</string>
+  <string name="ConstructoBot Ironide Chassis Assembler_DESC">Vyrábí Úroveň 2 (Ironide) 
+Podvozek ConstructoBota.</string>
+  <string name="ConstructoBot Leg Assembler_DESC">Vyrábí Úroveň 0 (Coppator) 
+Nohy ConstructoBota.</string>
+  <string name="ConstructoBot Arm Assembler_DESC">Vyrábí Úroveň 0 (Coppator) 
+Ruce ConstructoBota.</string>
+  <string name="Cargo Lift Controller">Nákladní Výtah: Ovladač</string>
+  <string name="Cargo Lift Controller_DESC">Umisťuje Ozubnicové Koleje a umožňuje manipulaci s výtahem. Sestavte ve tvaru 3x1x3</string>
+  <string name="Spiderbot Base Component">Spiderbot základna: Komponent</string>
+  <string name="Spiderbot Base Component_DESC">Umožní vylepšovat a dobíjet výbavu pro SpiderBota. Sestavte ve tvaru 15x1x15.</string>
+  <string name="MK2 Organic Solar Component">MK2 Organický Solární Komponent</string>
+  <string name="MK2 Organic Solar Component_DESC">Vytvořte 3šx1vx3h Solární Panel.
+Shromažďuje minimální množství energie v noci.</string>
+  <string name="Climate Control Centre">Centrum pro Kontrolu Klimatu</string>
+  <string name="Climate Control Centre_DESC">Irelevantní</string>
+  <string name="Hard Rock Grinder">Drtička Kamení</string>
+  <string name="Hard Rock Grinder_DESC">Multi blokový stroj s jedním využitím. 
+Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte ve tvaru 3x1x3.</string>
+  <string name="MagmaBore Component">Magmatický Vrt: Komponent</string>
+  <string name="Particle Filter">Částicový Filtr</string>
+  <string name="Induction Charger">Indukční Nabíječka</string>
+  <string name="Induction Charger_DESC">Irelevnatní</string>
+  <string name="Ore Thief_DESC">Irelevantní.</string>
+  <string name="Garbage Thief_DESC">Irelevantní.</string>
+  <string name="Bar Keeper_DESC">Irelevantní.</string>
+  <string name="Rack Rail">Ozubnicová Kolej</string>
+  <string name="Rack Rail_DESC">...</string>
+  <string name="SpiderBotBase_DESC">Irelevantní</string>
+  <string name="T4 Power Conduit_DESC">Irelevantní</string>
+  <string name="Single-Use Hard Rock Grinder_DESC">Irelevantní.</string>
+  <string name="Magma Bore_DESC">Irelevantní.</string>
+  <string name="Airbone Particulate Extractor_DESC">Irelevantní.</string>
+  <string name="Airbone Particulate Compressor_DESC">Irelevantní.</string>
+  <string name="Compressed Gas Storage_DESC">Irelevantní.</string>
+  <string name="Compressed Gas Bottler_DESC">Irelevantní.</string>
+  <string name="Compressed Magma Storage_DESC">Irelevantní.</string>
+  <string name="Creep Inferno_DESC">Irelevantní.</string>
+  <string name="LaserBorer_DESC">Irelevantní.</string>
+  <string name="Organic Solar Panel MK2_DESC">Irelevantní</string>
+  <string name="Rack Railer_CRAFT_DESC">Vyrábí Ozubnicové Koleje z Železných Ingotů, používaných pro Nákladní Výtahy.</string>
+  <string name="Rack Railer_CRAFT_HINT">Nákladní Výtahy jsou úchvatné.</string>
+  <string name="Trencher Drill component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
+  <string name="Trencher Drill Mk2 component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
+  <string name="Trencher Drill Mk3 component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
+  <string name="Hint_20">Zásobujte Ovladač Nákladního Výtahu Ozubnicovými kolejemi aby jste mu umožnili sestup dolů.</string>
+  <string name="Rack_Rail_storage_X">Ozubnicové Koleje zásoba: {0}</string>
+  <string name="Waiting_for_Rack_Rail">Čekám na Ozubnicové Koleje</string>
+  <string name="Controller_no_Rack_Rail_place">Ovladač nemá Ozubnicové Koleje k umístění</string>
+  <string name="AirLock_Inner_DESC">Irelevantní.</string>
+  <string name="AirLock_Outer_DESC">Irelevantní.</string>
+  <string name="Cloning Vat_DESC">Irelevantní.</string>
   </resources>
