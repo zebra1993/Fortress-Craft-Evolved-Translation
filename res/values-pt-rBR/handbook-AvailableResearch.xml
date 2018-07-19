@@ -54,4 +54,14 @@
 <string name="AV.Power_Grid.01.Paragraph">Não podemos sobreviver apenas com a energia produzida pela Central de Energia(CPH) por muito tempo. A medida que nossa base se expande, temos que encontrar novas formas de gerar energia para serem usadas em operações de mineração distantes, sem precisar adicionar energia manualmente.</string>
 <string name="AV.Suit_Upgrading.Title">Atualização da Armadura</string>
 <string name="AV.Suit_Upgrading.00.Title">Atualização da Armadura</string>
+<string name="AV.Suit_Upgrading.01.Paragraph">Sua armadura ambiental é a peça mais avançada de engenharia conhecida pelo homem. Infelizmente ela depende de melhoramentos de sistemas modulares que estão além da nossa capacidade de fabricação. É hora de pesquisar como você pode criar melhoramentos sem depender das fabricas que tínhamos em casa. Eles serão uma ajuda a sobreviver neste ambiente hostil.</string>
+<string name="AV.Ultimate_Power_Grid.Title">Rede Elétrica de Ultima Geração</string>
+<string name="AV.Ultimate_Power_Grid.00.Title">Rede Elétrica de Ultima Geração</string>
+<string name="AV.Ultimate_Power_Grid.01.Paragraph">Seguindo o sucesso com o Armazenamento de Energia MK4, devemos poder desenvolver um dispositivo de armazenamento de ultima geração.</string>
+<string name="AV.Ultra-Power_Grid.Title">Rede Elétrica Ultra</string>
+<string name="AV.Ultra-Power_Grid.00.Title">Rede Elétrica Ultra</string>
+<string name="AV.Ultra-Power_Grid.01.Paragraph">Alcançamos o limite de energia que podemos armazenar em um único cubo de 1 metro. Este projeto irá investigar a viabilidade de um dispositivo de energia com armazenamento maior.</string>
+<string name="AV.Upgraded_Power_Grid.Title">Rede Elétrica Melhorada</string>
+<string name="AV.Upgraded_Power_Grid.00.Title">Rede Elétrica Melhorada</string>
+<string name="AV.Upgraded_Power_Grid.01.Paragraph">Nossa infraestrutura de energia está indo bem. Mas a tecnologia de baterias ainda é bastante limitada, este projeto irá investigar o desenvolvimento de baterias que podem armazenar mais energia proporcionando uma reserva maior.</string>
 </resources>
