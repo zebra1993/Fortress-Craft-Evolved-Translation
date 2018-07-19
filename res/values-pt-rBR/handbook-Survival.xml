@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">Guia Inicial</string>
+<string name="SU.01Welcome.00.Title">Bem vindo ao FortressCraft Evolved</string>
+<string name="SU.01Welcome.01.Header">Modo de Sobrevivência</string>
+<string name="SU.01Welcome.02.Paragraph">Você acabou de escapar da estação espacial orbital em um veiculo de transporte danificado que foi destruído ao entrar no planeta, mas felizmente você conseguiu ejetar de forma segura. Agora você deve sobreviver neste planeta alienígena!</string>
+<string name="SU.01Welcome.03.Header">Iniciando</string>
+</resources>
