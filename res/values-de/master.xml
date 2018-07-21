@@ -4300,8 +4300,8 @@ Bitte schließe einen Partikelfilter an.</string>
   <string name="CPH_Offline_filtration_paused">ZEV aus - Filterung unterbrochen!</string>
   <string name="POWER_LOW">ENERGIE NIEDRIG!</string>
   <string name="Filtering_using_X_PPS">Filterung mit {0} EPS</string>
-  <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Partikel können nicht gefunden werden.
-Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
+  <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Es können keine Partikel gefunden werden.
+Bitte in einer mit Partikeln gefüllten Höhle aufbauen.</string>
   <string name="X_stored">{0} gespeichert.</string>
   <string name="Connected_to_Particulate_Compressor">Verbunden mit Partikelkompressor.</string>
   <string name="Scanning_pipe_connection_Particle_Compressor_in_X">Suche nach Rohrverbindung zum Partikelkompressor in {0}s</string>
@@ -4320,7 +4320,7 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
 <string name="No_linked_centre_found">Kein verknüpftes Center gefunden!</string>
   <string name="Orbital_RailGun_Link">Orbitaler RailGun Link</string>
   <string name="Temperature_X">Temperatur {0}°C</string>
-  <string name="Liquified_Resin_Needed_X">Flüssiges Harz benötigt {0}</string>
+  <string name="Liquified_Resin_Needed_X">Flüssigharz Kanister benötigt {0}</string>
   
 <string name="Power_Cost">Energiekosten:</string>
   <string name="No_Marker">Kein Marker</string>
@@ -4433,23 +4433,23 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="MK5 Ampule">MK5 Ampulle</string>
   <string name="Base_Production_NoFilter">#KeinFilter</string>
 
-  <string name="RoomLight #1">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #2">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #3">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #4">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #5">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #6">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #7">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #8">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #1">Raumlicht #1. Farbwechsel möglich!</string>
+  <string name="RoomLight #2">Raumlicht #2. Farbwechsel möglich!</string>
+  <string name="RoomLight #3">Raumlicht #3. Farbwechsel möglich!</string>
+  <string name="RoomLight #4">Raumlicht #4. Farbwechsel möglich!</string>
+  <string name="RoomLight #5">Raumlicht #5. Farbwechsel möglich!</string>
+  <string name="RoomLight #6">Raumlicht #6. Farbwechsel möglich!</string>
+  <string name="RoomLight #7">Raumlicht #7. Farbwechsel möglich!</string>
+  <string name="RoomLight #8">Raumlicht #8. Farbwechsel möglich!</string>
 
-  <string name="RoomLight #1_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #2_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #3_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #4_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #5_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #6_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #7_DESC">Raumlicht. Farbwechsel möglich!</string>
-  <string name="RoomLight #8_DESC">Raumlicht. Farbwechsel möglich!</string>
+  <string name="RoomLight #1_DESC">#1 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #2_DESC">#2 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #3_DESC">#3 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #4_DESC">#4 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #5_DESC">#5 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #6_DESC">#6 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #7_DESC">#7 Raumlichter. Farbwechsel möglich!</string>
+  <string name="RoomLight #8_DESC">#8 Raumlichter. Farbwechsel möglich!</string>
   
   <string name="RoomLight #1_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
   <string name="MedBay_T0">Update 04.02.2018
