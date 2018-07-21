@@ -1144,9 +1144,11 @@ Geringer Aufwand, wenig Effizienz.</string>
     <string name="Motorised Conveyor_DESC">Entnimmt Materialien von einem Container mit bis zu 150 Materialien/min!</string>
 
     <string name="Research Station">Forschungsstation</string>
-    <string name="Research Station_DESC">Verarbeitet Scans und Forschung zu Technologien.\\n Braucht Energie.</string>
+    <string name="Research Station_DESC">Verarbeitet Scans und Forschung zu Technologien.
+Braucht Energie.</string>
     <string name="Forced Induction">MK1 Induktionseinheit</string><!-- it means just Inductionunit as the Forced part is kinda hart to describe (just using erzwungenen Induktion would be an option, would sound silly tho)-->
-    <string name="Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="MK2 Forced Induction">MK2 Induktionseinheit</string>
     <string name="MK2 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
     <string name="MK3 Forced Induction">MK3 Induktionseinheit</string>
