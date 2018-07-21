@@ -4460,13 +4460,13 @@ Bitte in einer mit Partikeln gefüllten Höhle aufbauen.</string>
    <string name="E_To_Extract">Drücke E zum Extrahieren</string>
 
   <string name="Base_Production_Scanner">Basisproduktionsscanner</string>
-  <string name="RoomLight #2_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
-  <string name="RoomLight #3_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
-  <string name="RoomLight #4_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
-  <string name="RoomLight #5_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #2_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
+  <string name="RoomLight #3_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
+  <string name="RoomLight #4_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
+  <string name="RoomLight #5_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
   <string name="RoomLight #6_CRAFT_DESC">Dieses Raumlicht warnt Sie leise vor ZEV-Angriffen.</string>
-  <string name="RoomLight #7_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
-  <string name="RoomLight #8_CRAFT_DESC">Überstreichbar. Licht, das nur in Räumen funktioniert.</string>
+  <string name="RoomLight #7_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
+  <string name="RoomLight #8_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
 
   <string name="RoomLight #1_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
   <string name="RoomLight #2_CRAFT_HINT">Benötigt das Dapper-DLC-Paket</string>
@@ -4527,9 +4527,9 @@ Bitte in einer mit Partikeln gefüllten Höhle aufbauen.</string>
 	<string name="Alloyed Space Window_CRAFT_HINT">Verwendet Paste - Sie werden Paste verlieren, wenn Sie es ausgraben, also vorsichtig platzieren!</string>
 	
 	<string name="Room Ventilation Grille">Raumbelüftungsgitter</string>
-	<string name="Room Ventilation Grille_DESC">Lässt Luft durch</string>
-	<string name="Room Ventilation Grille_CRAFT_DESC">Zukünftige Maschine - wird benutzt um die Sauberkeitsrate eines Raumes zu verbessern. Es muss ein Sauberraum Ziel getroffen werden.</string>
-	<string name="Room Ventilation Grille_CRAFT_HINT">DAS MUSS NOCH NICHT GEBAUT WERDEN!</string>
+	<string name="Room Ventilation Grille_DESC">Lässt Luft durchfliessen</string>
+	<string name="Room Ventilation Grille_CRAFT_DESC">Wird benutzt um die Reinheitsrate eines Raumes zu verbessern. Wird benötigt um die Reinraum spezifikationen zu erreichen.</string>
+	<string name="Room Ventilation Grille_CRAFT_HINT">Du benütigst einen von diesen pro 150m3 im Raum</string>
 	
 	<string name="Reinforced Plating">Verstärkte Beschichtung</string>
 	<string name="Reinforced Plating_DESC">Verstärkte, Streichbare, für Räume entworfene Wand.</string>
@@ -4604,7 +4604,7 @@ Benötigt angehängten Lagercontainer.</string>
 	<string name="HerbiCor_CRAFT_HINT">Auch gut für Framerate!</string>	
 	
 	<string name="Generic Room Controller">Allgemeiner Raum-Controller</string>
-	<string name="Generic Room Controller_DESC">Sendet alle eingehenden Elemente Richtig, sofern nicht blockiert, dann Links.</string>
+	<string name="Generic Room Controller_DESC">Erzeugt einen Raum. Wird dich mit Informationen über den Raum versorgen</string>
 	<string name="Generic Room Controller_CRAFT_DESC">Platz in einem Raum und folgen Sie den Anweisungen.</string>
 	<string name="Generic Room Controller_CRAFT_HINT">Baue es auf dem Boden. Anweisungen sind in dem unteren linken Fenster, wenn Sie es tun!</string>	
 
@@ -4630,7 +4630,7 @@ Benötigt angehängten Lagercontainer.</string>
   <string name="UI_Low_CPU_Count">Es wurden nur 2 Logische/Physische Prozessoren entdeckt. Dein PC erfüllt die minimalen Voraussetzungen für FortressCraft nicht oder gerade so, du wirst wahrscheinlich Visuelle und Performante Probleme erfahren. Threaded visibility wurde deaktiviert.</string>
   <string name="UI_IntelGFXCard_Detected">Intel Onbaord-Grafik erkannt!</string>
   <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft hat festgestellt, dass du einen {0} verwendest. Falls du einen spieletauglichen Laptop verwendest, bitte auf die leistungsfähigere Grafiklösung wechseln. Anderenfalls ist mit einer schwachen Leistung oder Grafikfehlern zu rechnen.</string>
-  <string name="UI_Fastest_selected">Niedrigste Grafikdetails ausgewählt!</string>
+  <string name="UI_Fastest_selected">Niedrigste Grafikdetails ausgewählt!!</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft hat festgestellt, dass die niedrigsten Grafikeinstellunge ausgewählt wurden. Diese Einstellungen sollten nur für Rechner verwendet werden, welche die Mindestanforderungen nicht erfüllen oder kaum übertreffen und ist nicht zum spielen empfohlen. Rechne mit dem Pop-up von Gegeständen, detailarme Modelle und verwaschene Texturen.</string>
   <string name="UI_Lox_Texture_Detail_selected">Niedrig aufgelöste Texturen ausgewählt!</string>
   <string name="UI_FCE_LowDetail_Detected">FortressCraft hat erkannt das NIEDRIGE Texturen ausgewählt wurden. Diese Einstellung ist ausgelegt für Computer mit wenig Arbeitsspeicher ausgestattet sind. Dies wird weder FPS noch Perfomance verbessern. NICHT empfohlenfür normales Spielen. Verwaschene Texturen sind zu erwarten.</string>
@@ -5022,7 +5022,7 @@ Drücke E zum verlassen
 
   <string name="SUPER_HEIST">Super CLILT!</string>
 
-  <string name="Room_Cloning">Raumbasierter Croykloner.</string>
+  <string name="Room_Cloning">Raumbasierter Croykloner</string>
   <string name="Basic Robotic Sorter">Einfacher Roboter Sortierer</string>
   <string name="Basic Robotic Sorter_DESC">Ermöglicht einfache Bus systeme.</string>
   <string name="Basic Robotic Sorter_CRAFT_DESC">Automatisch verschiebt spezifizierte Gegenstände zwischen Förderbändern.</string>
