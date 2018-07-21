@@ -1053,7 +1053,9 @@ Gibt Energie an andere Maschinen ab.</string>
 Empfängt Energie von anderen Quellen.
 Gibt Energie an andere Maschinen ab.</string>
     <string name="Power Storage MK3">Energiespeicher MK3</string>
-    <string name="Power Storage MK3_DESC">Speichert mehr Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage MK3_DESC">Speichert mehr Energie.
+Empfängt Energie von anderen Quellen.
+Gibt Energie an andere Maschinen ab.</string>
     <string name="Organic Power Storage">Organischer Energiespeicher</string>
     <string name="Organic Power Storage_DESC">Kann Energie nur langsam transferieren.</string>
     <string name="StorageHopper">Lagercontainer</string>
