@@ -1071,7 +1071,8 @@ Drücke E um das Transferverhalten zu ändern.</string>
     <string name="Motorised Logistics Hopper">Motorisierter Logistik Container</string>
     <string name="Motorised Logistics Hopper_DESC">Nicht Implementiert weil das Förderband der Limitierende Faktor ist nicht der Container. Hoppla.</string>
     <string name="Solar Panel">Solarpanel</string>
-    <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.\\nLädt angrenzende Batterien.</string>
+    <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.
+Lädt angrenzende Batterien.</string>
     <string name="Organic Solar Panel">Organisches Solarpanel</string>
     <string name="Organic Solar Panel_DESC">Generiert einen kleinen Teil Energie auch bei Nacht durch Sternenlicht.\\nLädt angrenzende Batterien.</string>
     <string name="Basic Laser Energy Transmitter">Laser-Energietransmitter MK0</string>
