@@ -5647,4 +5647,5 @@ Gesamt: {2:N4}m</string>
   <string name="Inferno_eNotBuilt">Suche Cryo Inferno...</string>
   <string name="Inferno_eBuildMe">Baue ein Cryo Inferno!</string>
   <string name="Inferno_eNoGas">Kein Magma mehr!</string>
+  <string name="Inferno_eBlocked">Erzeuger nicht sichtbar?</string>
   </resources>
