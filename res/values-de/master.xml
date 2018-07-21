@@ -4271,8 +4271,7 @@ WARNUNG! Erz ist im flüchtigen Zustand, BAUE NICHT DIE MASCHINE AB!</string>
   <string name="Drill_cannot_be_deployed_due_to_obstruction_of_X">Der Bohrer kann nicht eingesetzt werden, weil er verstopft ist</string>
   <string name="Looking_for_linked_centre">Auf der Suche nach einem verbundenen Zentrum...</string>
   <string name="PPS_Delta_X">EPS-Delta: {0}</string>
-  <string name="X_m_power_still_required_X">{0}m Leistung ist immer noch erforderlich
- {1}</string>
+  <string name="X_m_power_still_required_X">{0}m Leistung ist immer noch erforderlich.</string>
   <string name="Drilling_at_depth_X">Bohren in der Tiefe von {0}m</string>
   <string name="Retriving_Drill_at_depth_X">Berge des Bohrers (in der Tiefe {0}m)</string>
   <string name="Offloading_to_Magma_Storage_Unit">Auslagerung auf Magma-Speichereinheit</string>
