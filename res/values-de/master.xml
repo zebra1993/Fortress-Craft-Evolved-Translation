@@ -5656,5 +5656,6 @@ Gesamt: {2:N4}m</string>
 
   <string name="ORG_eUnknown">Töte alle Cryospawner und Oberflächenbedrohungen!</string>
   <string name="ORG_eVerifyingClearance">Überprüfe Freiraum</string>
-  <string name="ORG_eLookingForTubeResources">Suche Rohr Baustoffe!</string>
+  <string name="ORG_eLookingForTubeResources">Suche Baustoffe für Laufkonstruktion!</string>
+  <string name="ORG_eBuildingTube">Baue Geschützlauf.</string>
   </resources>
