@@ -5658,4 +5658,9 @@ Gesamt: {2:N4}m</string>
   <string name="ORG_eVerifyingClearance">Überprüfe Freiraum</string>
   <string name="ORG_eLookingForTubeResources">Suche Baustoffe für Laufkonstruktion!</string>
   <string name="ORG_eBuildingTube">Baue Geschützlauf.</string>
-  </resources>
+  <string name="ORG_eWaitingForCharge">Warte auf Ladung...</string>
+  <string name="ORG_eWaitingForMass">Warte aus Masse...</string>
+  <string name="ORG_eFiring">FEUER!</string>
+  <string name="ORG_eLookingToOffload">Versuche abzuladen!</string>
+ 
+</resources>
