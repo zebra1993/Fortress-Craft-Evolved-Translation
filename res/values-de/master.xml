@@ -1110,7 +1110,7 @@ Geringer Aufwand, wenig Effizienz.</string>
     <string name="Ore Smelter">Erzschmelze</string>
     <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode, um Barren aus Ressourcen herzustellen.</string>
     <string name="Basic Ore Smelter">Einfacher Schmelzofen</string>
-    <string name="Basic Ore Smelter_DESC">Halb so schnell und Effizient wie der normale Schmelzofen. Kann nicht verbessert werden</string>
+    <string name="Basic Ore Smelter_DESC">Doppelt so schnell, aber weniger Effizient wie der normale Schmelzofen. Kann nicht verbessert werden.</string>
     <!--inline production and conveyors -->
     <string name="Basic Conveyor Belt">Einfaches Förderband</string>
     <string name="Basic Conveyor Belt_DESC">Transportiert Materialien langsam vom Container weg.</string>
