@@ -1041,11 +1041,17 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Central Power Hub">Zentraler Energieverteiler</string>
     <string name="Central Power Hub_DESC">Produziert ein bisschen Energie.\\nKann Ressourcen in Energie umwandeln.\\nVersorgt angrenzende Strukturen.</string>
     <string name="Ore Extractor">Erzförderer</string>
-    <string name="Ore Extractor_DESC">Extrahiert effizient Erz.\\nLagert 25 Erz.\\nExtrahiert 1 Erz/min.</string>
+    <string name="Ore Extractor_DESC">Extrahiert effizient Erz.
+Lagert 25 Erz.
+Extrahiert 1 Erz/min.</string>
     <string name="Power Storage Block">Energiespeicher</string>
-    <string name="Power Storage Block_DESC">Speichert ein bisschen Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage Block_DESC">Speichert ein bisschen Energie.
+Empfängt Energie von anderen Quellen.
+Gibt Energie an andere Maschinen ab.</string>
     <string name="Power Storage MK2">Energiespeicher MK2</string>
-    <string name="Power Storage MK2_DESC">Speichert mehr Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage MK2_DESC">Speichert mehr Energie.
+Empfängt Energie von anderen Quellen.
+Gibt Energie an andere Maschinen ab.</string>
     <string name="Power Storage MK3">Energiespeicher MK3</string>
     <string name="Power Storage MK3_DESC">Speichert mehr Energie.\\nEmpfängt Energie von anderen Quellen.\\nGibt Energie an andere Maschinen ab.</string>
     <string name="Organic Power Storage">Organischer Energiespeicher</string>
