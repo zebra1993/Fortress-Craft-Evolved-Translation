@@ -4117,7 +4117,7 @@ Lagercontainer (LC) speichern und verarbeiten Artikel automatisch.
 Deine Maschinen nehmen Ressourcen von einem Lagercontainer oder geben sie ihm. Suche dir deinen LC und drücke Q, um ihn zu leeren. Entferne somit die Kohle, die abgebaut wurde.</string>
   <string name="Tut_5_Title">Scannen</string>
   <string name="Tut_5_Text">
-DU kannst nach bekannten oder unbekannten Objekten in der Welt suchen.
+Mit einem \'Ping\' kannst Du nach bekannten oder unbekannten Objekten in der Welt suchen.
 Sobald ein unbekanntes Objekt gefunden wurde, kannst du es scannen.
 
 Suche jetzt ein nicht gescanntes Objekt, markiere es und halte die rechte Maustaste gedrückt, bis es fertig gescannt ist.</string>
@@ -4452,7 +4452,7 @@ Bitte in eine mit Partikeln gefüllte Höhle bauen.</string>
   <string name="RoomLight #7_DESC">Raumlicht. Farbwechsel möglich!</string>
   <string name="RoomLight #8_DESC">Raumlicht. Farbwechsel möglich!</string>
   
-  <string name="RoomLight #1_CRAFT_DESC">Gefärbtes Licht, arbeitet nur in Räumen.</string>
+  <string name="RoomLight #1_CRAFT_DESC">Färbbares Licht, funktioniert nur in Räumen.</string>
   <string name="MedBay_T0">Update 04.02.2018
  Patch 18 ändert sich
  Räume</string>
