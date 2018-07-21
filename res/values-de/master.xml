@@ -1150,15 +1150,20 @@ Braucht Energie.</string>
     <string name="Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
 Wird AUF einem Schmelzofen platziert.</string>
     <string name="MK2 Forced Induction">MK2 Induktionseinheit</string>
-    <string name="MK2 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="MK2 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="MK3 Forced Induction">MK3 Induktionseinheit</string>
-    <string name="MK3 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="MK3 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="MK4 Forced Induction">MK4 Induktionseinheit</string>
-    <string name="MK4 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="MK4 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="MK5 Forced Induction">MK5 Induktionseinheit</string>
-    <string name="MK5 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="MK5 Forced Induction_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="ARC Smelter Upgrade">Lichtbogenschmelzverbesserung</string>
-    <string name="ARC Smelter Upgrade_DESC">Erhöht Erzschmelzrate und Energieverbrauch.\\nWird AUF einem Schmelzofen platziert.</string>
+    <string name="ARC Smelter Upgrade_DESC">Erhöht Erzschmelzrate und Energieverbrauch.
+Wird AUF einem Schmelzofen platziert.</string>
     <string name="Turret MK1">Laserturm MK1</string>
     <string name="Turret MK1_DESC">Gut zur Verteidigung der Infrastruktur.</string>
     <string name="Turret MK2">Laserturm MK2</string>
@@ -1173,23 +1178,34 @@ Wird AUF einem Schmelzofen platziert.</string>
     <string name="Geological Surveyor_DESC">Stellt sicher das deine Steinbrüche richtig Plaziert sind.</string>
     <!--Manufacturing plant and Modules for it -->
     <string name="Manufacturing Plant">Konstruktionsanlage</string>
-    <string name="Manufacturing Plant_DESC">Zentrale automatische Werkbank.\\nKann durch Anbringen von Modulen verbessert werden.\\nBraucht Energie für automatische Produktion.</string>
+    <string name="Manufacturing Plant_DESC">Zentrale automatische Werkbank.
+Kann durch Anbringen von Modulen verbessert werden.
+Braucht Energie für automatische Produktion.</string>
     <string name="3D Printer">3D Drucker</string>
-    <string name="3D Printer_DESC">Werkbankmodul.\\nSchaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="3D Printer_DESC">Werkbankmodul.
+Schaltet die 3D Drucker Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Compressor">Verdichter</string>
-    <string name="Compressor_DESC">Werkbankmodul.\\nSchaltet die Verdichter Rezepte frei\\nwenn an eine Werkbank angeschlossen.</string>
+    <string name="Compressor_DESC">Werkbankmodul.
+Schaltet die Verdichter Rezepte frei
+wenn an eine Werkbank angeschlossen.</string>
     <string name="Extruder Module">Extrudiermodul</string>
-    <string name="Extruder Module_DESC">Werkbankmodul.\\nSchaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Extruder Module_DESC">Werkbankmodul. 
+Schaltet die Extruder Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Chip Etcher">Chipätzer</string>
-    <string name="Chip Etcher_DESC">Werkbankmodul.\\nSchaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Chip Etcher_DESC">Werkbankmodul.Schaltet die Chip Ätzungs Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Hydrojet Cutter">Wasserstrahlschneider</string>
-    <string name="Hydrojet Cutter_DESC">Werkbankmodul.\\nSchaltet die Wasserstrahlschneider Rezepte frei\\nwenn an eine Werkbank angeschlossen.</string>
+    <string name="Hydrojet Cutter_DESC">Werkbankmodul.
+Schaltet die Wasserstrahlschneider Rezepte frei
+wenn an eine Werkbank angeschlossen.</string>
     <string name="Robotic Welder">Schweissroboter</string>
-    <string name="Robotic Welder_DESC">Werkbankmodul.\\nSchaltet Schweißroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Robotic Welder_DESC">Werkbankmodul.
+Schaltet Schweißroboter Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Incubator">Brutschrank</string>
-    <string name="Incubator_DESC">Werkbankmodul.\\nSchaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Incubator_DESC">Werkbankmodul.
+Schaltet Brutschrank Rezepte frei wenn an eine Werkbank angeschlossen.</string>
     <string name="Assembly Station">Montagestation</string>
-    <string name="Assembly Station_DESC">Werkbankmodul.\\nSchaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
+    <string name="Assembly Station_DESC">Werkbankmodul.
+Schaltet Montagestation Rezepte frei wenn an eine Werkbank angeschlossen.</string>
 
     <string name="Refinery Controller">Raffinerie Steuerung</string>
     <string name="Refinery Controller_DESC">Kontrolliert die Reaktionen welche es erlauben Kohlenwasserstoffe neue Formen anzunehmen.</string>
@@ -1326,7 +1342,8 @@ Wird AUF einem Schmelzofen platziert.</string>
     <string name="T4 Turret_DESC">Nicht Wichtig</string>
     <!--Laserlogic, not implemented. Also not aviable anymore as its hidden in terrandata.xml -->
     <string name="Logic Laser Emitter">Logiklasersender</string>
-    <string name="Logic Laser Emitter_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert</string>
+    <string name="Logic Laser Emitter_DESC">Kreativmodus Laser Maschine.
+Nicht Implementiert</string>
     <string name="Laser AND Gate">Laser UND Schaltung</string>
     <string name="Laser AND Gate_DESC">Kreativmodus Laser Maschine.\\nNicht Implementiert.</string>
     <string name="Laser OR Gate">Laser OR Schaltung</string>
@@ -1345,9 +1362,13 @@ Wird AUF einem Schmelzofen platziert.</string>
     <string name="Lift w/underside Piston">Lift mit unterseitigem Zylinder</string>
     <string name="Lift w/underside Piston_DESC">Hebt oder senkt sich mit 1m/s bis zu 64m weit</string>
     <string name="Lift Compressor">Lift Kompressor</string>
-    <string name="Lift Compressor_DESC">Braucht Energie.\\nErhöht die Reichweite des Lifts auf 256m.\\nFunktioniert nicht im Mehrspieler.</string>
+    <string name="Lift Compressor_DESC">Braucht Energie.
+Erhöht die Reichweite des Lifts auf 256m.
+Funktioniert nicht im Mehrspieler.</string>
     <string name="Lift Manual Control Module">Manuelle Liftsteuerung</string>
-    <string name="Lift Manual Control Module_DESC">Ermöglichst manuelles Bedienen des Lifts.\\nNutze Home und End zum Steuern!\\nZum Benutzen an einen Lift anschliessen.</string>
+    <string name="Lift Manual Control Module_DESC">Ermöglichst manuelles Bedienen des Lifts.
+Nutze Home und End zum Steuern!
+Zum Benutzen an einen Lift anschliessen.</string>
     <string name="MK1 Robot Arm">MK1 Roboterarm</string>
     <string name="MK1 Robot Arm_DESC">Erlaubt einfaches Sortieren von Gegenständen auf Förderbändern.</string>
     <string name="Advanced Robot Arm Control Module">Verbesserte Roboterarmsteuerung</string>
@@ -1594,9 +1615,11 @@ Wird AUF einem Schmelzofen platziert.</string>
     <string name="Construction Paste">Konstruktionspaste</string>
     <string name="Construction Paste_DESC">Konstruktionpaste, welche zum bauen von verschiedenen Blöcken verwendet werden kann. Block wird beim Bauen automatisch gecraftet.</string>
     <string name="FALCOR MK1">FALCOR MK1</string> <!-- Acronym-->
-    <string name="FALCOR MK1_DESC">Sammelt Beute von FALCOR Leuchtfeuern und bringt diese zurück.\\nBraucht angrenzenden Container.</string>
+    <string name="FALCOR MK1_DESC">Sammelt Beute von FALCOR Leuchtfeuern und bringt diese zurück.
+Braucht angrenzenden Container.</string>
     <string name="Logistics FALCOR">Logistik FALCOR</string><!-- Acronym-->
-    <string name="Logistics FALCOR_DESC">Sammelt Gegenstände von FALCOR Leuchtfeuern an entfernten Containern und bringt diese zurück.\\nBraucht angeschlossenen Containern.</string>
+    <string name="Logistics FALCOR_DESC">Sammelt Gegenstände von FALCOR Leuchtfeuern an entfernten Containern und bringt diese zurück.
+Braucht angeschlossenen Containern.</string>
     <string name="FALCOR Beacon">FALCOR Leuchtfeuer</string><!-- Acronym-->
     <string name="FALCOR Beacon_DESC">Teilt der FALCOR Drohne mit ob etwas am Leuchtfeuer abzuhohlen ist. Wenn mit Energie versorgt, aber ohne auf einem Container platziert zu sein nimmt das Leuchtfeuer in einem 16 Block Raduis herumliegende Gegenstände auf und fragt eine Falcor an. Wenn mit Energie versorgt und auf einem Container platziert entnimmt das Leuchtfeuer dem Contianer ein Gegenstand und fordert eine Falcor Drohne an.</string>
     <string name="SpiderBotBase">Spinnenroboterbasis</string>
@@ -1946,8 +1969,8 @@ Billig und hässlich, dafür verlässlich*
     <string name="Empty Missile Assembler_CRAFT_HINT">Diese Raketen müssen mit Treibstoff befüllt werden um nützlich zu sein!</string>
     <string name="Missile Fueller_CRAFT_DESC">Befüllt automatisch leere Raketen mit Treibstoff. Braucht Energie und Komponenten müssen in einem angrenzenden Container sein. Gibt fertige Raketen in angrenzenden Container ab.</string>
     <string name="Missile Fueller_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Nutzt durchtränke Raketen und einen gut erhaltenen Stachel um eine panzerbrechende Rakete herzustellen.</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Rüstet Raketen mit panzerbrechenden Gefechtsköpfen aus</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Gibt dir den nötigen \"Umpf\"</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Nutzt Standardraketen und 50.000 Energie, um deren Schaden deutlich zu erhöhen.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Diese Raketen sind abschussbereit!</string>
     <string name="Cluster Missile Crafter_CRAFT_DESC">Wandelt eine durchtränkte Rakete in 8 Schwarmraketen um. Jede hat nur 1/4 des originalen Schadens, was im Gesamten doppelt soviel Schaden bedeutet.</string>
@@ -1968,11 +1991,11 @@ Billig und hässlich, dafür verlässlich*
     <string name="Hydrojet Cutter_CRAFT_HINT">MUSS auf der Konstruktionsanlage platziert werden.</string>
     <!--Suit upgrades-->
     <string name="Solar Cell MK1_CRAFT_DESC">Verbessert die Effektivität der Anzugssolarpaneelen. Muss nur einmal im Inventar vorhanden sein.</string>
-    <string name="Solar Cell MK1_CRAFT_HINT">Anzug Artikel! Du brauchst nur 1! Darf nur hergestellt werden, wenn der Hydrojet-Schneider vorhanden ist.</string>
+    <string name="Solar Cell MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Heater MK1_CRAFT_DESC">Verbessert die Heizleistung des Anzugs um dich vor extremer Kälte zu schützen. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Heater MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt.</string>
     <string name="Suit Power Pack MK1_CRAFT_DESC">Verdoppelt die Energiekapazität Deines Anzugs. Muss nur einmal im Inventar vorhanden sein.</string>
-    <string name="Suit Power Pack MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt.</string>
+    <string name="Suit Power Pack MK1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
     <string name="Suit Power Pack MK2_CRAFT_DESC">Vervierfacht die Energiekapazität Deines Anzugs. Muss nur einmal im Inventar vorhanden sein.</string>
     <string name="Suit Power Pack MK2_CRAFT_HINT">Anzugsbestandteil! Du brauchst nur 1!</string>
     <string name="MK1 Suit Upgrade Module_CRAFT_DESC">Verbindet alle Anzugsverbesserungen zu einer Alles in Einem (tm) Anzugsverbesserung. Perfekt.</string>
@@ -2566,7 +2589,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="OE_Searching">Suche nach Erzen...</string>
     <string name="Next">Nächstes</string><!-- Next [ORE_NAME] in [TIME]-->
     <string name="In">In</string><!-- No I don't think it'll make a lot of sense in most languages-->
-    <string name="Total_Stored">Lagerbestand</string>
+    <string name="Total_Stored">"Lagerbestand: "</string>
     <string name="Drill_Rate">Bohr-Rate</string>
     <string name="Durability">Lebensdauer</string>
     <string name="Ore_Per_Min">Erz pro Minute</string>
@@ -2587,7 +2610,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Mining">Aubbauen</string>
     <string name="Out_Of_Power">Ohne Energie</string>
     <string name="Out_Of_Storage">Lager voll</string>
-    <string name="Upgrade_Drill_Head">Verbessern
+    <string name="Upgrade_Drill_Head">Verbessere
 Bohrkopf</string><!-- Very little space for this-->
     <string name="Next_Ore">Nächstes Erz</string>
     <string name="Clearing_Vein">Ader bald leer</string>
@@ -2642,7 +2665,7 @@ Bohrkopf</string><!-- Very little space for this-->
     <string name="MISSION_CPH lacking resources">ZEV hat zu wenig Ressourcen!</string>
     <string name="MISSION_Build Ore Extractors">Baue Erzförderer!</string>
     <string name="MISSION_Build more Ore Extractors">Baue mehr Erzförderer!</string>
-    <string name="MISSION_Test the Grappling Hook (F)">"Probiere den Enterhaken aus (F), "</string>
+    <string name="MISSION_Test the Grappling Hook (F)">Probiere den Enterhaken aus (F)</string>
     <string name="MISSION_Test the GlowSticks (G)">Probiere die Leuchtstäbe aus (G)</string>
     <string name="MISSION_Watch the Video Tutorials (H)">Schaue dir Videotutorials an (H)</string>
     <string name="MISSION_Use Left-Ctrl to Superbuild">Nutze Links-STRG um den Schnellbau zu verwenden!,</string>
@@ -2707,7 +2730,7 @@ Bohrkopf</string><!-- Very little space for this-->
     <string name="MISSION_Reminder">Erinnerung</string>
     <string name="MISSION_Rush Mode">Rush-Modus</string>
 
-    <string name="ARTHER_No_Ore">Warnung! Keine Kohle wurde in der letzen Minute verbrannt!</string>
+    <string name="ARTHER_No_Ore">Warnung! Kein Erz wurde in der letzen Minute verbrannt!</string>
     <string name="ARTHER_Press_K">Drücke \"K\" um die Holobase anzuzeigen.</string>
     <string name="ARTHER_Press_M">"Drücke \"M\" um zum Erzscanner zu wechseln! "</string>
     <string name="ARTHER_Unknown_Block">"Unbekannter Block erkannt... "</string>
@@ -2754,7 +2777,7 @@ Schönen Tag noch!</string>
     <string name="MISSION_Inactive_PTGs">Inaktive PTGs.</string>
     <string name="MISSION_Many Items">" Gegenstände auf dem Boden! FALCORs benötigt!"</string>
     <string name="MISSION_More Conveyors">mehr Förderbänder.</string>
-    <string name="MISSION_More Torches">" mehr Fackeln für Wärme!"</string>
+    <string name="MISSION_More Torches">mehr Fackeln für Wärme!</string>
     <string name="MISSION_OES_Offline">Erzförderer ist offline!</string>
     <string name="MISSION_OE_Offline">Förderer offline!</string>
     <string name="MISSION_Offline">offline</string>
@@ -2762,7 +2785,7 @@ Schönen Tag noch!</string>
     <string name="MISSION_Place">Ort</string>
     <string name="MISSION_Scan">Scan</string>
     <string name="MISSION_Tutorial Conveyors">Tutorial Förderbänder</string>
-    <string name="MISSION_more unknown objects">mehr Fackeln für Wärme!</string>
+    <string name="MISSION_more unknown objects">mehr unbekannte Objekte.</string>
     <string name="MISSION_scans to process">zu Scannende/r Prozess/e.</string>
     <string name="Minute(Short)">Mindestens</string>
     <string name="RubbleHint">Du bekommst keine Trümmer, wenn du Superbaust! Halten Sie die linke Strg-Taste gedrückt, um Superbau zu aktivieren!</string>
@@ -2772,19 +2795,19 @@ Schönen Tag noch!</string>
     <string name="ARTHER_AmbienceDisabled">Umgebung deaktiviert</string>
     <string name="ARTHER_AmbienceEnabled">Umgebung aktiviert</string>
     <string name="ARTHER_AttackDetected">ANGRIFF AUF DER OBERFLÄCHE!</string>
-    <string name="ARTHER_AutomateGold">. Wir müssen mindestens auf -300 m gehen und die Gold-Sammlung automatisieren.&amp;#34;</string>
-    <string name="ARTHER_AutomateIron">. Wir müssen mindestens -65 m gehen und die Eisensammlung automatisieren.&amp;#34;</string>
-    <string name="ARTHER_AutomateLithium">. Wir müssen mindestens -120m gehen und die Lithiumsammlung automatisieren.&amp;#34;</string>
-    <string name="ARTHER_AutomateNickel">. Wir müssen mindestens -400m gehen und die Nickelsammlung automatisieren.&amp;#34;</string>
-    <string name="ARTHER_AutomateTitanium">. Wir müssen mindestens -350 m gehen und die Titansammlung automatisieren. &amp; # 34;</string>
-    <string name="ARTHER_Boot">&amp;#34;A.R.T.H.E.R. Version 1.337f jetzt online.</string>
+    <string name="ARTHER_AutomateGold">. Wir müssen mindestens auf -300 m gehen und die Gold-Sammlung automatisieren.</string>
+    <string name="ARTHER_AutomateIron">. Wir müssen mindestens -65 m gehen und die Eisensammlung automatisieren.</string>
+    <string name="ARTHER_AutomateLithium">. Wir müssen mindestens -120m gehen und die Lithiumsammlung automatisieren.</string>
+    <string name="ARTHER_AutomateNickel">. Wir müssen mindestens -400m gehen und die Nickelsammlung automatisieren.</string>
+    <string name="ARTHER_AutomateTitanium">. Wir müssen mindestens -350 m gehen und die Titansammlung automatisieren.</string>
+    <string name="ARTHER_Boot">A.R.T.H.E.R. Version 1.337f jetzt online.</string>
     <string name="ARTHER_BuildPTG">Du solltest einen Pyrothermischen Generator bauen!</string>
     <string name="ARTHER_ChargingSolar">ARTHER Aufladen mit Solarenergie ...</string>
-    <string name="ARTHER_Close">ARTHER bleibt in der Nähe! Drücken Sie TAB, um ARTHER zurückzuschicken!</string>
-    <string name="ARTHER_Days">" Tage&amp;#34;"</string>
-    <string name="ARTHER_Docked">Angekoppelt und wird aufgeladen ...</string>
+    <string name="ARTHER_Close">ARTHER bleibt in der Nähe! ARTHER wird dir dann Energie geben!</string>
+    <string name="ARTHER_Days">" Tage"</string>
+    <string name="ARTHER_Docked">Arther hat angekoppelt und wird aufgeladen ...</string>
     <string name="ARTHER_Extractor_Issue">Erzförderer haben Probleme!</string>
-    <string name="ARTHER_Far">Umziehen. Drücken Sie die TAB-Taste, um ARTHER wieder aufzurufen!</string>
+    <string name="ARTHER_Far">Bleib weg. Arther wird dir keine Energie geben!</string>
     <string name="ARTHER_FightLose">Centraler Energie Verteiler wurde zerstört! Auto-Reparatur aktiviert ...</string>
     <string name="ARTHER_FightWin">Es wurden keine Oberflächenangriffsvektoren mehr erkannt. Zurück zum Basis-Scan.</string>
     <string name="ARTHER_FindFuel">Wenn wir tiefer und \"Ping Unbekannt\" weitermachen, können wir vielleicht eine neue Treibstoffquelle finden.</string>
@@ -2793,15 +2816,15 @@ Schönen Tag noch!</string>
     <string name="ARTHER_FindLithium">Wir können Lithium finden, wenn wir tiefer gehen! Drücken Sie \"M\", um den Scanner auszuwählen!</string>
     <string name="ARTHER_FindNickel">Wir müssen Nickel finden. Wir sollten tiefer gehen und \"Ping Unbekannt\".</string>
     <string name="ARTHER_FindTitanium">Wir müssen Titan finden. Wir sollten tiefer gehen und \"Ping Unbekannt\".</string>
-    <string name="ARTHER_GoDeeper">Die meisten Erze sind tiefer im Untergrund zu finden. Drücken Sie \"M\", um \"Scanner\" und \"Ping Unbekannt\" auszuwählen. &amp; # 34;</string>
+    <string name="ARTHER_GoDeeper">Die meisten Erze sind tiefer im Untergrund zu finden. Drücken Sie \"M\", um \"Scanner\" und \"Ping Unbekannt\" auszuwählen.</string>
     <string name="ARTHER_More_Extractors">Wir müssen Erzförderer bauen!</string>
     <string name="ARTHER_NeedCore">A.R.T.H.E.R. BRAUCHT EINEN ENERGIEKERN! SOFORT IN DER KONSTRUKTIONSANLAGE FERTIGEN!</string>
     <string name="ARTHER_NoPowerCore">FEHLER, NEIN A.R.T.H.E.R. ENERGIEKERN GELEGEN. ++ ????? ++ Käsefehler. Wiederholen Sie von Anfang an.</string>
     <string name="ARTHER_NoSolar">ARTHER ENERGIE Niedrig! Kein Zugang zu Sonnenenergie an diesem Standort.</string>
     <string name="ARTHER_PressH">Centraler Energie Verteiler Diagnose abgeschlossen. Bitte drücken Sie \"H\", um auf das Handbuch zuzugreifen und den Startvorgang abzuschließen.</string>
-    <string name="ARTHER_Reminder">"&amp;#34;Erinnerung: Sie haben "</string>
+    <string name="ARTHER_Reminder">"Erinnerung: Sie haben "</string>
     <string name="ARTHER_Sunrise">"Sonnenaufgang am Tag entdeckt "</string>
-    <string name="ARTHER_Sunset">Die Sonne geht unter. Oberflächentemperatur fällt. Nova geschätzte Ankunft : &amp;#34;</string>
+    <string name="ARTHER_Sunset">"Die Sonne geht unter. Oberflächentemperatur fällt. Nova geschätzte Ankunft : "</string>
     <string name="ARTHER_UnprocessedScans">" unbearbeitete Scans!"</string>
     <string name="ARTHER_Vein_Exhausted">" Adern sind erschöpft und haben begonnen zu klären"</string>
     <string name="ARTHER_Vein_Warning">"Warnung! Einer von uns "</string>
@@ -2865,74 +2888,74 @@ Schönen Tag noch!</string>
     <string name="BATTERY USE RATE">BATTERIE-STAND</string>
     <string name="World Settings">Welteinstellungen</string>
 	
-      <string name="Hint_0">Wirklich große Wespen? Sag Hallo mit Raketen.</string>
-  <string name="Hint_1">Drücken Sie [F], um den Greifhaken zu aktivieren</string>
-  <string name="Hint_2">Eine ausgedehnte Infrastruktur ist oft besser als eine kompakte Infrastruktur</string>
+      <string name="Hint_0">Alles was es wert ist zu machen ist es wert zu übertreiben.</string>
+  <string name="Hint_1">Drücke [F] um den Greifhaken zu aktivieren</string>
+  <string name="Hint_2">Eine ausgedehnte Infrastruktur ist immer besser als eine kompakte Infrastruktur</string>
   <string name="Hint_3">Erstellen Sie einen Bedrohungsscanner früh genug, denn Sie wissen nie, wann Sie Ihre Abwehr aufbauen müssen</string>
   <string name="Hint_4">Je höher die Bedrohung ist, desto mehr Gegner können angreifen</string>
   <string name="Hint_5">Energieerzeugung, Erzgewinnung und Barrenherstellung erhöhen Ihre Bedrohung</string>
   <string name="Hint_6">Drücke [T] auf einem Erzförderer, um Benachrichtigungen von diesem Erzförderer zu deaktivieren</string>
   <string name="Hint_7">Frachtaufzüge sind das beste für den vertikalen Transport</string>
   <string name="Hint_8">Benutze die STRG-Taste, um 25 Gegenstände pro Klick herzustellen</string>
-  <string name="Hint_9">Teilen Sie Ihre Stapel von Elementen auf, indem Sie die UMSCHALTTASTE gedrückt halten</string>
+  <string name="Hint_9">Teile dein Stapel von Elementen auf, indem du die UMSCHALTTASTE gedrückt hälst wärend dem ziehn.</string>
   <string name="Hint_10">Erze können nur auf 150 Stück gestapelt werden. Stellen Sie sicher, dass Sie diese in einer Schmelze verarbeiten, bevor Sie mehr sammeln</string>
   <string name="Hint_11">Verwenden Sie Energiecellen, um beim Erkunden schnell Energie zu haben</string>
-  <string name="Hint_12">Stelle Holzkisten her, um die Dinge abzuladen, die du nicht brauchst</string>
-  <string name="Hint_13">Zerkleinerer können alles zerstören, nur mit Energie versorgen</string>
-  <string name="Hint_14">Massenspeicher ist ein Lagerbehältern für Langzeitlagerung. Überlegen sie gut</string>
+  <string name="Hint_12">Räume halten warm an der Oberfläche, sie helfen ebenfalls schneller zu rendern.</string>
+  <string name="Hint_13">Zerkleinerer können alles zerstören.</string>
+  <string name="Hint_14">Massenspeicher ist Lagerbehältern in Langzeitlagerung und automatisierter Produktion überlegen.</string>
   <string name="Hint_15">Bereichern Sie Kohle, um die Effizienz von Pyrothermiegeneratoren zu erhöhen</string>
-  <string name="Hint_16">Mynocks können auf Ihren Förderbändern erscheinen und Ihre hart verdienten Waren fressen</string>
+  <string name="Hint_16">Mynocks werden auf deinen ungeschützten Förderbändern erscheinen und deine hart verdienten Waren fressen</string>
   <string name="Hint_17">Das Laboratorium verbraucht experimentelle Pods, um neue Gegenstände zu erforschen</string>
   <string name="Hint_18">Stellen Sie einen Lagercontainer neben eine Maschine, um sie mit Rohstoffen zu füttern</string>
-  <string name="Hint_19">Maschinen arbeiten unter ihrer gewünschten Leistung pro Sekunde, aber nicht so schnell</string>
+  <string name="Hint_19">Maschinen arbeiten unterhalb ihrer gewünschten Energie pro Sekunde (EPS), aber nicht so schnell</string>
   <string name="Hint_20">Fütter deine Lastenaufzug Steuerung mit Zahnstangen damit es weiter gehen kann</string>
   <string name="Hint_21">Die Lastenaufzug Steuerung benötigt einen handgefertigten Lastenlift und Energie, um mit dem Transport von Gegenständen zu beginnen</string>
-  <string name="Hint_22">Drücke auf deinen Türmen [E], um den abgedeckten Bereich zu sehen</string>
-  <string name="Hint_23">Kristallablagerungen erfordern Schneidköpfe, um es abzubauen</string>
-  <string name="Hint_24">Im Chat eingeben \"/detail bloom\" , um die Lichtreflexion auf Maschinen zu reduzieren</string>
+  <string name="Hint_22">Drücke [E] auf deinen Türmen, um den abgedeckten Bereich zu sehen</string>
+  <string name="Hint_23">Kristallablagerungen erfordern Schneidköpfe, um sie abzubauen.</string>
+  <string name="Hint_24">Im Chat eingeben \"/detail bloom\", um die Lichtreflexion auf Maschinen zu reduzieren.</string>
   <string name="Hint_25">Frühzeitig automatisieren, alles automatisieren!</string>
-  <string name="Hint_26">Die Welt ist groß, tun Sie sich selbst einen Gefallen und vergrößern Sie sich, um die Erweiterungen zu erleichtern</string>
-  <string name="Hint_27">Massenspeicher erleichtert den Aufbau der Montagelinie</string>
-  <string name="Hint_28">Aufzüge sind billig und schneller als Treppen steigen</string>
+  <string name="Hint_26">Die Welt ist nahe zu unendlich, tu dir selbst einen Gefallen und vergrößere deine Basis, um die Erweiterungen zu erleichtern.</string>
+  <string name="Hint_27">Massenspeicher erleichtert den Aufbau der Montagelinie.</string>
+  <string name="Hint_28">Aufzüge sind billig und schneller als Treppen steigen und alles ist besser als der Fanghaken!</string>
   <string name="Hint_29">Ein gut bewaffneter Spiderbot kann sich selbst vor einem beträchtlichen Angriff schützen</string>
-  <string name="Hint_30">FALCORs sind großartig, um nach einem Angriff aufzuräumen</string>
+  <string name="Hint_30">FALCORs sind großartig, um nach einem Angriff aufzuräumen.</string>
   <string name="Hint_31">Wenn Förderbänder nicht genug sind ... Minenkarren!</string>
   <string name="PSB_are_main_method_storing_power">Die Beste Art um Energie zu speichern sind Energiespeicher (ES).</string>
   <string name="Hint_32">Schmelzöfen beschleunigen Sie mit der frühen Produktion, wenn die Basis-Schmelze nicht mehr ausreicht</string>
   <string name="Hint_33">Das Kraftniveau von Arther wird direkt über der Hotbar angezeigt</string>
   <string name="Hint_34">Total Festungsenergie und Tageszeit sind in der Leiste unterhalb der Hotbar dargestellt</string>
   <string name="Hint_35">Schrägförderbänder sind schneller (und schöner) als normale Förderbänder</string>
-  <string name="Hint_36">Im Zweifelsfall drücken Sie [H].</string>
+  <string name="Hint_36">Im Zweifelsfall drücke [H].</string>
   <string name="Hint_37">Automatisieren Sie die Produktion, um Zeit und Platz zu sparen.</string>
-  <string name="Hint_38">Drücke [G], um einen Leuchtstab zu werfen.</string>
-  <string name="Hint_39">Suche nach Kristallen in unterirdischen Höhlen. Sie können Kristalle platzieren, um Beleuchtung ohne Energie zu erzeugen.</string>
+  <string name="Hint_38">Drücke [G],^ um einen Leuchtstab zu werfen.</string>
+  <string name="Hint_39">Suche nach Kristallen in unterirdischen Höhlen. Wenn du deinen Kristall Scanner verbesserst wirds einfacher sie zu finden.</string>
   <string name="Hint_40">Wenn Sie auf einen Lift steigen, der sich nach oben oder nach unten bewegen kann, bestimmt die Richtung, in die Sie gucken, wie sich der Lift bewegt - schauen Sie nach oben, um nach oben zu fahren!</string>
   <string name="Hint_41">Haben Sie keine Angst, etwas wieder aufzubauen, wenn Ihr erstes Design nicht mehr Ihren Bedürfnissen entspricht.</string>
-  <string name="Hint_42">Öffne dein Inventar im Inventar, indem du [S] im Inventarbildschirm drückst. Sie können Anzug- und ARTHER-Upgrades hierher verschieben, um Platz in Ihrem Hauptbestand zu sparen.</string>
+  <string name="Hint_42">Öffne deinen Anzugsinventar, indem du [S] im Inventarbildschirm drückst. Anzug- und ARTHER-Upgrades werden hier aufbewart um Platz im Hauptbestand zu sparen.</string>
   <string name="Hint_43">Viele Einzeleingabemaschinen können ohne Container arbeiten, wenn du auf beiden Seiten Förderbänder einsetzt.</string>
   <string name="Hint_44">Energieerzeugung schafft Bedrohung. Dein Labor benötigt genug Energie, um Aufmerksamkeit zu erregen, also fange an Geschütztürme zu bauen!</string>
   <string name="Hint_45">Basis Schmelzer sind der Schlüssel, um Ihre Produktion zu steigern, bevor Sie höherstufige Metalle erreichen.</string>
-  <string name="Hint_46">Sie können viele Dinge in Konstruktionspaste verwandeln - nicht nur Müll. Fütter deinen Konstruktionspasten-Schleifer mit Kohle, wenn Sie ausgehen !.</string>
-  <string name="Hint_47">Schalter-Modus im Labor werden Forschungsteile für Forschungspunkte analysieren.</string>
-  <string name="Hint_48">Förderbänder mit seltsamen Pflanzen füttern einen Hivemind. Verteidige deine Güter!</string>
-  <string name="Hint_49">Weiches Harz kann Würmer hervorbringen. Vorsichtig auftreten.</string>
-  <string name="Hint_50">Schnee lässt Sie langsam gehen, verstärkte Blöcke ist der Weg zu gehen.</string>
+  <string name="Hint_46">Sie können viele Dinge in Konstruktionspaste verwandeln - nicht nur Müll. Fütter deinen Konstruktionspasten-Schleifer mit Kohle, wenn Sie ausgehen!</string>
+  <string name="Hint_47">Der alternative Modus des Labors kann Forschungsteile für Forschungspunkte analysieren.</string>
+  <string name="Hint_48">Förderbänder mit Mynockpflanzen füttern einen Hivemind. Verteidige deine Güter!</string>
+  <string name="Hint_49">Logistik VABSOR sind perfekt für klein Mengentransporte. Mit Verschiedenen Arten von Kohle bilden sie die perfekte Symbiose.</string>
+  <string name="Hint_50">Schnee lässt Sie langsam gehen, verstärkte Blöcke um schneller laufen zu können.</string>
   <string name="Hint_51">Alles erledigt und nach mehr gesucht? Sieh dir die vom User erstellten Mods im Steam Workshop an!</string>
   <string name="Hint_52">Vergiss nicht, ARTHER zu aktualisieren!</string>
   <string name="Hint_53">Induktionseinheit beschleunigt Erzschmelzen!</string>
-  <string name="Hint_54">Pyrothermische Generatoren sind weniger effizient, je tiefer sie gehen</string>
-  <string name="Hint_55">Umarmen Sie nicht die Overminds</string>
-  <string name="Hint_56">Camobots sind gefährlich.</string>
-  <string name="Hint_57">Drücke [S], während du in deinem Inventar bist, um Anzug-Upgrades aufzurufen</string>
-  <string name="Hint_58">Fackeln machen Hitze - verbrennen Sie sich nicht</string>
-  <string name="Hint_59">Sei vorsichtig bei weichem Harz, da Wurmbosse dort spawnen können.</string>
+  <string name="Hint_54">Pyrothermische Generatoren sind weniger effizient, je tiefer sie gehen.</string>
+  <string name="Hint_55">Umarmen Sie nicht die Overminds.</string>
+  <string name="Hint_56">Camobots greiffen verschiedene Energiebetreieben Maschienen an. Hab ein Auge und Ohren offen.</string>
+  <string name="Hint_57">Drücke [S] während du in deinem Inventar bist, um Anzug-Upgrades aufzurufen</string>
+  <string name="Hint_58">Fackeln machen Hitze - Nutze sie um dem Erfrierungstod zu entgehn.</string>
+  <string name="Hint_59">Alien Wurmbosse vergraben sich in weichem Harz.</string>
   <string name="Hint_60">Wann hast du deiner Mutter das letzte Mal gesagt, dass du sie liebst? Du solltest sie wahrscheinlich anrufen.</string>
   <string name="Hint_61">In den Frosthöhlen funktionieren die Schläuche besser - die Bänder frieren ein</string>
   <string name="Hint_62">Plasma Bohrköpfe verbessern die Effizienz von Erzförderern auf 100%</string>
   <string name="Hint_63">Hiveminds können absichtlich gefüttert werden!</string>
-  <string name="Hint_64">Um Gegenstände aus deinem Inventar zu entfernen, bewege sie über sie und drücke [Q]!</string>
+  <string name="Hint_64">Um Gegenstände aus deinem Inventar zu entfernen, bewege den Mauszeiger über sie und drücke [Q]!</string>
   <string name="Hint_65">Bewege Elemente in deinem Inventar mit gedrückter Umschalttaste, um Stapel zu teilen!</string>
-  <string name="Hint_66">Wenn Sie es bauen, werden sie kommen. Also stellen Sie sicher, dass Sie Abwehr bauen.</string>
+  <string name="Hint_66">Wenn du deine Basis vergrösserts wird das Aufmerksamkeit erregen. Es ist nie zu früh Verteidigung zu bauen.</string>
 
 <string name="Genesis">Genesis,</string>
 <string name="Genesis_DESC">Erstellt eine FortressCraft-Welt</string>
@@ -3001,7 +3024,7 @@ Schönen Tag noch!</string>
 <string name="added_to_single_access_list">zur Einzelzugriffsliste hinzugefügt</string>
 <string name="Unknown_Command">Unbekannter Befehl</string>
 
-<string name="Searching">Suche</string>
+<string name="Searching">Suche...</string>
 <string name="Searching_offer_Hopper">Suche Container Angebot</string>
 <string name="Radius">Radius</string>
 <string name="Found">Gefunden</string>
@@ -3074,7 +3097,7 @@ Alle anderen Prioritäten wurden aufgehoben!</string>
 <string name="items_from_Inventory">Artikel aus dem Inventar</string>
 
 <string name="Ore_Thief_3k">Erzdieb 3000</string>
-<string name="Linking">Verbinden</string>
+<string name="Linking">Verbinde...</string>
 
 <string name="Auto_Organic_Thief">Automatischer Organickdieb</string>
 
@@ -3116,7 +3139,7 @@ Alle anderen Prioritäten wurden aufgehoben!</string>
 <string name="NO_SCANNER_BUILT">KEIN SCANNER ERRICHTET</string>
 <string name="Ore">Erz</string>
 <string name="Ore_Extractors">Erzförderer</string>
-<string name="all_online">alle_online</string>
+<string name="all_online">alle online</string>
 <string name="not_collecting_ore">kein Erz sammeln</string>
 <string name="Base_Battery">Basisbatterie</string>
 <string name="used">gebraucht</string>
@@ -3174,7 +3197,7 @@ Alle anderen Prioritäten wurden aufgehoben!</string>
 <string name="MS_units">Massenspeichereinheiten</string>
 <string name="Storage_Hoppers">Lagercontainer</string>						
 <string name="Storage_Hopper">Lagercontainer</string>
-<string name="No_Attached_SH_found">Keine angehängten Speicherbehälter gefunden</string>
+<string name="No_Attached_SH_found">Keine angehängten Lagercontainer gefunden!</string>
 <string name="N_C_to_CCB">Nicht mit dem Strangussbecken verbunden</string>
 <string name="State">Zustand</string>
 <string name="Smelting">Schmelzen</string>
@@ -3183,22 +3206,22 @@ Alle anderen Prioritäten wurden aufgehoben!</string>
 <string name="Cost">Kosten</string>
 <string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">Unvollendet.
 Unendliche Wärme und Licht.
-Wil ersetzt werden!</string>
+Wird ersetzt werden!</string>
 <string name="in_inventory">im Inventar</string>
 
 
-<string name="ConstructoBot Coppator Chassis">ConstructoBot Coppator Chase</string>
+<string name="ConstructoBot Coppator Chassis">ConstructoBot Kupferin Gehäuse</string>
 <string name="ConstructoBot Coppator Arm">"ConstructoBot Coppator  Arm"</string>
 <string name="ConstructoBot Coppator Leg">ConstructoBot Coppator Bein</string>
-<string name="ConstructoBot Ultron Chassis">ConstructoBot Ultron Chase</string>
-<string name="ConstructoBot Cromize Chassis">ConstructoBot Cromize Chase</string>
-<string name="ConstructoBot Stenforcer Chassis">ConstructoBot Stenforcer Chase</string>
-<string name="ConstructoBot Titaniux Chassis">ConstructoBot Titanius Chasis</string>
-<string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld Chase</string>
-<string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldrute Chasis</string>
-<string name="ConstructoBot Ironide Chassis">ConstructoBot-Eisenid-Chase</string>
-<string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron Chase</string>
-<string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzit Chase</string>
+<string name="ConstructoBot Ultron Chassis">ConstructoBot Ultron Gehäuse</string>
+<string name="ConstructoBot Cromize Chassis">ConstructoBot Cromize Gehäuse</string>
+<string name="ConstructoBot Stenforcer Chassis">ConstructoBot Stenforcer Gehäuse</string>
+<string name="ConstructoBot Titaniux Chassis">ConstructoBot Titanius Gehäuse</string>
+<string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld Gehäuse</string>
+<string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldrute Gehäuse</string>
+<string name="ConstructoBot Ironide Chassis">ConstructoBot Eisenid Gehäuse</string>
+<string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron Gehäuse</string>
+<string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzit Gehäuse</string>
 
 
 <string name="Airborne Particulate Extractor">AirBorne Particulate Förderer</string>
@@ -3231,9 +3254,9 @@ Wil ersetzt werden!</string>
 <string name="Bottom">Unterseite</string>
 <string name="Lift_stuck_wait_rail_scan_complete">Lift stecken. Bitte warten Sie, bis der Schienen-Scan abgeschlossen ist.</string>
 <string name="Lift_stuck_below_depth_Check_blockages">Lift steckt unterhalb der Schachttiefe. Auf Blockierungen prüfen.</string>
-<string name="Waiting_for_Rack_Rail">Warten_auf_Zahnschienen</string>
-<string name="Unknown_State">Unbekannter_Status</string>
-<string name="Operating_Lift">Betriebs_Lift</string>
+<string name="Waiting_for_Rack_Rail">Warte auf Zahnschienen</string>
+<string name="Unknown_State">Unbekannter Status</string>
+<string name="Operating_Lift">Betreibe Lift</string>
 <string name="Controller_no_Rack_Rail_place">Controller hat keine Zahnschiene zum platzieren</string>
 <string name="Check_Depth">Überprüfe die Tiefe</string>
 
@@ -3253,11 +3276,11 @@ Wil ersetzt werden!</string>
 <string name="C5_Spawning">C5 Laichen</string>
 <string name="Climate_Control_Centre">Klimakontrollzentrum</string>
 <string name="Set_to_Cold_Mode">Umstellen auf : Kalter Modus</string>
-<string name="Warning_Cryoplasm_Detected_At">WARNUNG! CRYOPLASM ERKANNT BEI</string>
-<string name="No_threats_detected">Keine Bedrohungen erkannt...</string>
+<string name="Warning_Cryoplasm_Detected_At">CRYOPLASM ERKANNT BEI</string>
+<string name="No_threats_detected">Suche Bedrohungen...</string>
 <string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">WARNUNG! CPH OFFLINE! CRYOPLASM VERTEIDIGUNGEN OFFLINE!</string>
 <string name="Emergency_Cryoplasm_Defences_Active">NOTFALL CRYOPLASM VERTEIDIGUNGEN AKTIV!</string>
-<string name="Power_Low_Offline_Cryoplasm_Defences_Offline">ENERGIE NIEDRIG! OFFLINE! CRYOPLASM VERTEIDIGUNGEN OFFLINE!</string>
+<string name="Power_Low_Offline_Cryoplasm_Defences_Offline">KHKKZ INAKTIV! VERTEIDIGUNG INAKTIV!</string>
 <string name="Warning_Offline_Cryoplasm_Defences_Offline">WARNUNG! OFFLINE! CRYOPLASM VERTEIDIGUNGEN OFFLINE!</string>
 
 <string name="Mission_Tutorial_Intro">
@@ -3267,8 +3290,8 @@ ARTHER erklärt nun einige Funktionen Ihrer Basis.
 
 Das Kraftfeld wird verschwinden, wenn dies abgeschlossen ist.</string>
 
-<string name="CPH_Idling_all_attached_power_full">ZEV Leerlauf wie alle angehängt
-Die Energie ist voll!</string>
+<string name="CPH_Idling_all_attached_power_full">ZEV im Leerlauf
+Alle angehängten Energiespeicher sind voll!</string>
 <string name="Needs_resources_Attach_SH_automate">Benötigt Ressourcen. Befestigen sie ein
 Lagercontainer zum automatisieren.</string>
 <string name="Burning">Verbrennung</string>
@@ -3288,7 +3311,7 @@ Lagercontainer zum automatisieren.</string>
 <string name="segments">Segmente</string>
 <string name="PeakBuilds">Peak Builds</string>
 <string name="Sleeping_for">Schlafen für</string>
-<string name="ColdCreep_killed_Score_was">ColdCreep getötet! Ergebnis war</string>
+<string name="ColdCreep_killed_Score_was">Cryoplasma Spawner getötet!</string>
 <string name="Player_Bonus_was">Spielerbonus war</string>
 
 <string name="CB_inserted">ConstructoBot entladen</string>
@@ -3363,7 +3386,7 @@ Lagercontainer zum automatisieren.</string>
 <string name="Energy_Transmitter">Energietransmitter</string>
 <string name="Avg_transfer_per_sec">Durchschnittliche Übertragung pro Sekunde:</string>
 <string name="Click_icon_upgrade">Klicken Sie zum Aktualisieren auf das Symbol</string>
-<string name="Max_transfer_per_sec">Maximale Übertragung pro Sekunde:</string>
+<string name="Max_transfer_per_sec">Maximale Übertragung/Sekunde</string>
 <string name="Toggle_Mode">Umschaltmodus</string>
 <string name="No_Lens">Keine Linse</string>
 
@@ -3657,14 +3680,14 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
 <string name="Choose_Mutators_Choose_DOOM">Wähle Deine Modifikatoren, bestimme Dein Schicksal!</string>
 <string name="CREATIVE_selected_results_running_Mutators_unpredictable">Kreativ ausgewählt! Die Ergebnisse der Modifikatoren können unvorhersehbar sein!</string>
 <string name="This_screen_preview_forthcoming_Mutator_options_Adventures_Pack_DLC">Dieser Bildschirm ist eine Vorschau auf die bevorstehenden Modifikator-Optionen, welche als Teil des Adventures Pack DLC verfügbar sind! Cool, oder? Du kannst noch nicht mit ihnen spielen, aber ich akzeptiere immer noch neue Vorschläge!</string>
-<string name="Mutator_HardcoreCeilings_Active">Stützen deine Decken oder du bist am Ende! Natürlich vorkommende Blöcke sind nicht mehr platzierbar.</string>
-<string name="Mutator_HardcoreCeilings_Not_Active">Die Decke wird keine Bedrohung mehr sein.</string>
+<string name="Mutator_HardcoreCeilings_Active">Die Harzpokalypse ist im anmarsch</string>
+<string name="Mutator_HardcoreCeilings_Not_Active">Das Leben ist jetzt weniger Harz-ig..</string>
 <string name="Mutator_OSHA_Active">Alles ist gefährlich. Halte dich fern.</string>
 <string name="Mutator_OSHA_Not_Active">Maschinen sind wieder sicher.</string>
 <string name="Mutator_AllOre_Active">Fels, Dreck und Stein sind jetzt Erze. Das ist nicht so gut, wie es sich anhört.</string>
 <string name="Mutator_AllOre_Not_Active">Eine vernünftige Menge an Erz ist wieder vorhanden.</string>
-<string name="Mutator_SkyIslands_Active">Wolkeninseln sind aktiv. Dies ist nicht mit dem regulären Überlebensmodus kompatibel.</string>
-<string name="Mutator_SkyIslands_Not_Active">Wolekninseln sind inaktiv.</string>
+<string name="Mutator_SkyIslands_Active">Der Boden ist Lava ist aktiv. Dies ist nicht mit dem regulären Überlebensmodus kompatibel.</string>
+<string name="Mutator_SkyIslands_Not_Active">Der Boden ist wieder Normal.</string>
 <string name="Mutator_AggroMobs_Active">Mobs greifen jetzt auf Sicht an. Geschütztürme sind so angepasst dass sie damit klar kommen.</string>
 <string name="Mutator_AggroMobs_Not_Active">Mobs werden sich so verhalten als ob du garnicht da wärst.</string>
 <string name="Mutator_Pandora_Active">Drop-Pods enthalten nun eine Vielzahl von Dingen.</string>
@@ -3767,8 +3790,8 @@ Du wirst nicht mehr nach diesem Mod gefragt.</string>
  Mausrad zum wählen</string>
   <string name="Ore_Scanner">Erz Scanner</string>
   
-<string name="Mission_Smelting_Automation">Die Automatisierung wird der Schlüssel zum Erfolg sein. Ihr Basis Schmelzer kann mit benachbarten Containern eines beliebigen Typs kommunizieren.
-Wenn Sie jedoch nicht genau auf Ihre Anweisungen eingehen, können allerlei schlimme Dinge passieren! Stellen Sie die Berechtigungen jetzt so ein, dass nur noch ein Container zum befüllen und ein Nur-Entnahme-Container vorhanden sind. Geben Sie Erz in den nur entfernen Container und Fertige Barren gibt es dann im Nur annehmen Container.</string>
+<string name="Mission_Smelting_Automation">Die Automatisierung ist der Schlüssel zum Erfolg sein. Deine Schmelze kann mit benachbarten Containern eines beliebigen Typs kommunizieren.
+Wenn du jedoch nicht genau auf Ihre konfigurationen achtest, können allerlei schlimme Dinge passieren! Stelle die Berechtigungen jetzt so ein, dass nur noch ein Container zum befüllen und ein Nur-Entnahme-Container vorhanden sind. Füge Erz in den Nur-entnahme Container und entnehme fertige Barren aus dem Nur-annehmen Container.</string>
   <string name="Smelting_Automation">Schmelzautomation</string>
   <string name="Insert_Ore_to_start">Fügen Sie Erz ein, um zu beginnen</string>
   <string name="Obtaining_materials">Beschaffung von Materialien</string>
@@ -3857,10 +3880,10 @@ Für ausgefallene Statistiken, spiele Survival</string>
   <string name="PROCESS">PROZESS</string>
   <string name="NO_SCANS">KEINE SCANS</string>
   <string name="RESEARCH">FORSCHUNG</string>
-  <string name="Unknown_material_Power_required_to_research_X">Unbekanntes Material
-Zur Recherche erforderliche Energie: {0}</string>
-  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Verarbeiten Sie Scans, um neue Forschungsprojekte und Herstellungsrezepte freizuschalten</string>
-  <string name="Find_unknown_materials_using_orescanner_ping_facility">Finden Sie weitere unbekannte Materialien mit der Ping-Funktion des Erz-Scanners. Drücken Sie M, um den Erz-Scanner auszuwählen, und dann die linke Maustaste, um einen Material-Ping zu senden.</string>
+  <string name="Unknown_material_Power_required_to_research_X">Zur Recherche erforderliche Energie: {0}</string>
+  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Verarbeite unbekannte Materialien Scans, um neue Forschungsprojekte und Herstellungsrezepte freizuschalten. Scans geben zudem Forschungspunke.</string>
+  <string name="Find_unknown_materials_using_orescanner_ping_facility">Finden Sie weitere unbekannte Materialien mit der Ping-Funktion des Erz-Scanners.
+Drücken Sie M, um den Erz-Scanner auszuwählen, und dann die linke Maustaste, um einen Material-Ping zu senden.</string>
   <string name="For_more_information_on_the_X_open_the_Handbook">Für weitere Informationen über {0} öffnen Sie das Handbuch (drücken Sie H).</string>
   <string name="Scans_X">Scannt ({0})</string>
   <string name="Scans">Scannt</string>
