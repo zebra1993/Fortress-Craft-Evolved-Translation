@@ -1059,7 +1059,9 @@ Gibt Energie an andere Maschinen ab.</string>
     <string name="Organic Power Storage">Organischer Energiespeicher</string>
     <string name="Organic Power Storage_DESC">Kann Energie nur langsam transferieren.</string>
     <string name="StorageHopper">Lagercontainer</string>
-    <string name="StorageHopper_DESC">Lagert 100 Gegenstände.\\nTransferiert selbständig.\\nDrücke E um das Transferverhalten zu ändern.</string>
+    <string name="StorageHopper_DESC">Lagert 100 Gegenstände.
+Transferiert selbständig.
+Drücke E um das Transferverhalten zu ändern.</string>
     <string name="LogisticsHopper">Logistik Container</string>
     <string name="LogisticsHopper_DESC">Transferiert automatisch 1 Gegenstand alle 10s.</string>
     <string name="MiniHopper">Minicontainer</string>
