@@ -1095,7 +1095,9 @@ Sehr Energie hungrig.</string>
     <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
     <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI Bewegungssteuerung</string><!-- Not optimal-->
-    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI-Roboter.\\nVerschiebt Erze zwischen Containern.\\nGeringer Aufwand, wenig Effizienz.</string>
+    <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI-Roboter.
+Verschiebt Erze zwischen Containern.
+Geringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massetransmitter</string>
     <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Gegenstände/min auf 64m Entfernung.</string>
     <string name="Dual Matter Mover">Doppel-Massentransmitter</string>
