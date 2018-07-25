@@ -1740,7 +1740,7 @@ Ruce ConstructoBota.</string>
   <string name="MK2 Organic Solar Component_DESC">Vytvořte 3šx1vx3h Solární Panel.
 Shromažďuje minimální množství energie v noci.</string>
   <string name="Climate Control Centre">Centrum pro Kontrolu Klimatu</string>
-  <string name="Climate Control Centre_DESC">Irelevantní</string>
+  <string name="Climate Control Centre_DESC">Irelevantní.</string>
   <string name="Hard Rock Grinder">Drtička Kamení</string>
   <string name="Hard Rock Grinder_DESC">Multi blokový stroj s jedním využitím. 
 Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte ve tvaru 3x1x3.</string>
@@ -1777,4 +1777,11 @@ Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte
   <string name="AirLock_Inner_DESC">Irelevantní.</string>
   <string name="AirLock_Outer_DESC">Irelevantní.</string>
   <string name="Cloning Vat_DESC">Irelevantní.</string>
+  <string name="MagmaBore Component_DESC">Vytvoří obrovský vývrt dolů k magmařským jeskyním, aby zaplavil studené jeskyně teplem. Sestavte v konfiguraci 33šx3vx33h (celkem 3276) Potřebuje 8m počátečního místa.</string>
+  <string name="Particle Filter_DESC">Filtruje ze vzduchu využitelné částice. Rozdíl v kvalitě ovzduší z dlohodobého hlediska je nepravděpodobný. Sestavte ve tvaru 5šx3vx5h. (Celkem 75)</string>
+  <string name="Particle Compressor">Částicový Kompresor</string>
+  <string name="Particle Compressor_DESC">Komprimuje nízkotlaký plyn a připravuje ho k uskladnění a následnému naplnění do lahví. Sestavte ve tvaru 3x3x3.</string>
+  <string name="Particle Storage">Částicový Sklad</string>
+  <string name="Particle Storage_DESC"/>
+  <string name="Gas Bottler_DESC"/>
   </resources>
