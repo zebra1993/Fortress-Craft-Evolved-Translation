@@ -2787,7 +2787,7 @@ Schönen Tag noch!</string>
     <string name="MISSION_Tutorial Conveyors">Tutorial Förderbänder</string>
     <string name="MISSION_more unknown objects">mehr unbekannte Objekte.</string>
     <string name="MISSION_scans to process">zu Scannende/r Prozess/e.</string>
-    <string name="Minute(Short)">Mindestens</string>
+    <string name="Minute(Short)">Min</string>
     <string name="RubbleHint">Du bekommst keine Trümmer, wenn du Superbaust! Halten Sie die linke Strg-Taste gedrückt, um Superbau zu aktivieren!</string>
     <string name="ARTHER_No_Coal">Warnung! Keine Kohle verbrannt in der letzten Minute!</string>
 
@@ -3296,11 +3296,11 @@ Alle angehängten Energiespeicher sind voll!</string>
 Lagercontainer zum automatisieren.</string>
 <string name="Burning">Verbrennung</string>
 <string name="for">für</string>
-<string name="Time_left">links.</string>
+<string name="Time_left">übrig.</string>
 
 <string name="Player_curr_online">Spieler zur Zeit online:</string>
 <string name="Player_joined">beigetreten.</string>
-<string name="Player_left">links.</string>
+<string name="Player_left">ist gegangen.</string>
 <string name="Player_disconnected_reason">getrennt. Grund:</string>
 
 <string name="Debug_Cryospawn_Data">[DEBUG]CryoSpawn Daten</string>
@@ -3912,7 +3912,7 @@ GRUND: {0}</string>
   <string name="Mass_X">Masse : {0}kg</string>
   <string name="Thrust_X">Schub: {0} N / {1} N</string>
   <string name="TOO_HEAVY_NEED_AT_LEAST_X_Thrust">ZU SCHWER
-MUSS MINDESTENS {0} N Schub haben!</string>
+MUSS MINDESTENS {0}N Schub haben!</string>
   <string name="Out_of_fuel">Das Benzin ist alle</string>
   <string name="Launch_in_T_X">Starte in T - {0} s</string>
   <string name="LaunchPad_Collision">StartPad Kollision</string>
