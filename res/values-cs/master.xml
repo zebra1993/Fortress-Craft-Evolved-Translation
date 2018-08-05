@@ -1782,6 +1782,25 @@ Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte
   <string name="Particle Compressor">Částicový Kompresor</string>
   <string name="Particle Compressor_DESC">Komprimuje nízkotlaký plyn a připravuje ho k uskladnění a následnému naplnění do lahví. Sestavte ve tvaru 3x3x3.</string>
   <string name="Particle Storage">Částicový Sklad</string>
-  <string name="Particle Storage_DESC"/>
-  <string name="Gas Bottler_DESC"/>
+  <string name="Particle Storage_DESC">Uchovává stlačený plyn připravený k balení. Sestavte ve tvaru 3šx7vx3h (celkem 63)</string>
+  <string name="Gas Bottler_DESC">"Odvádí stlačený plyn do vhodných nádob. Sestavte v konfiguraci  3šx3vx9h (celkem 81)"</string>
+  <string name="Ore Thief">Zoděj Rudy</string>
+  <string name="Magma Storage">Skladiště Magmatu</string>
+  <string name="Magma Storage_DESC">Příjmá tekuté Magma od odpovídajících strojů skrze potrubí.</string>
+  <string name="Garbage Thief">Zloděj Odpadu</string>
+  <string name="Laser Borer">Laserová vrtačka</string>
+  <string name="Laser Borer_DESC">Laserová Vrtačka s pohonem na Vysokoenergetické kompozitní palivo. Rychle vytvoří otvor 3x3 do středu Ledových Jeskyní. Postavte ve tvaru 3x3x3.</string>
+  <string name="Fuel Compressor">Palivový Kompresor</string>
+  <string name="Fuel Compressor_DESC">Komprese uhlíkových částic s vysokoenergetickým kompozitním palivem vytváří extrémně těkavý a energeticky bohatý zdroj paliva.</string>
+  <string name="CargoLiftController">Nákladní Výtah:Ovladač</string>
+  <string name="CargoLiftController_DESC">...</string>
+  <string name="Construction Paste">Konstrukční Pasta</string>
+  <string name="Construction Paste_DESC">...</string>
+  <string name="FALCOR MK1">FALCOR MK1</string>
+  <string name="FALCOR MK1_DESC">Vyhledává a Sbírá Odhozenou kořist kolem FALCOR Majáků.
+Potřebuje připojený Skladovací Zásobník.</string>
+  <string name="Logistics FALCOR">Logistický FALCOR</string>
+  <string name="FALCOR Beacon">FALCOR: Maják</string>
+  <string name="FALCOR Beacon_DESC">...</string>
+  <string name="SpiderBotBase">SpiderBot: Základna</string>
   </resources>
