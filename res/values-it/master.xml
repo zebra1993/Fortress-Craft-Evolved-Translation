@@ -548,7 +548,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Super Hard Rock">Roccia Durissima</string>
   <string name="Magmacite">Magmatite</string>
   <string name="Uranium">Uranio</string>
-  <string name="Lime Yellow Canvas">Tela Giallo Lime</string>
+  <string name="Lime Yellow Canvas">Tela Giallo Limone</string>
   <string name="Orange Leaves">Foglie Arancioni</string>
   <string name="Yellow Leaves">Foglie Gialle</string>
   <string name="Red Leaves">Foglie Rosse</string>
@@ -908,4 +908,243 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Space Warz Siding3_DESC">.</string>
   <string name="Butcherboy Pebbles">Ciottoli Butcherboy</string>
   <string name="Butcherboy Pebbles_DESC">.</string>
+  <string name="Air_DESC">.</string>
+  <string name="Grass_DESC">.</string>
+  <string name="Dirt_DESC">.</string>
+  <string name="Wooden Planks_DESC">.</string>
+  <string name="Leaves_DESC">.</string>
+  <string name="Butcherboy Stones">Pietra Butcherboy</string>
+  <string name="Butcherboy Stones_DESC">.</string>
+  <string name="Butcherboy Stonewall">Muro di Pietra Butcherboy</string>
+  <string name="Butcherboy Stonewall_DESC">.</string>
+  <string name="Butcherboy Wood Planks">Tavole di Legno Butcherboy</string>
+  <string name="Butcherboy Wood Planks_DESC">.</string>
+  <string name="Butcherboy Floor Stone">Pavimento di Pietra Bucherboy</string>
+  <string name="Butcherboy Floor Stone_DESC">.</string>
+  <string name="Up Arrow">Freccia Su</string>
+  <string name="Up Arrow_DESC">.</string>
+  <string name="Down Arrow">Freccia Giù</string>
+  <string name="Down Arrow_DESC">.</string>
+  <string name="Sign">Cartello</string>
+  <string name="Sign_DESC">.</string>
+  <string name="ConfigurableLight">Luce Configurabile</string>
+  <string name="ConfigurableLight_DESC">.</string>
+  <string name="Central Power Hub">Centrale di Potenza Hub</string>
+  <string name="Central Power Hub_DESC">Genera un po\' di energia.
+Può bruciare delle risorse per l\'energia.
+Carica le strutture adiacenti.</string>
+  <string name="Ore Extractor">Estrattore di Minerali</string>
+  <string name="Ore Extractor_DESC">Estrae efficacemente i minerali.
+Immagazzina 25 minerali.
+Estrae 1 minerale/min.</string>
+  <string name="Power Storage Block">Accumulatore di Energia</string>
+  <string name="Power Storage Block_DESC">Immagazzina un po\' di energia.
+Riceve energia da altre fonti.
+Trasferisce energia a altre macchine.</string>
+  <string name="Power Storage MK2">Accumulatore di Energia MK2</string>
+  <string name="Power Storage MK2_DESC">Immagazzina molta energia.
+Riceve energia da altre fonti.
+Trasferisce energia a altre macchine.</string>
+  <string name="Power Storage MK3">Accumulatore di Energia MK3</string>
+  <string name="Power Storage MK3_DESC">Immagazzina molta energia.
+Riceve energia da altre fonti.
+Trasferisce energia a altre macchine.</string>
+  <string name="Organic Power Storage">Accumulatore Organico di Energia</string>
+  <string name="Organic Power Storage_DESC">Puo solo trasferire energia lentamente.</string>
+  <string name="StorageHopper">Tramoggia di stoccaggio</string>
+  <string name="StorageHopper_DESC">Immagazzina 100 Oggetti.
+Trasferimento Automatico.
+Con E cambi il modo di trasferimento.</string>
+  <string name="LogisticsHopper">Tramoggia Loggistica</string>
+  <string name="LogisticsHopper_DESC">Trasferimento Automatico 1 oggetto ogni 10 s.</string>
+  <string name="MiniHopper">Mini Tramoggia</string>
+  <string name="MiniHopper_DESC">Trasferimento Automatico 1 oggetto ogni 30 s.</string>
+  <string name="CryoHopper">Tramoggia Criogenica</string>
+  <string name="CryoHopper_DESC">Mantiene gli oggetti al freddo. Necessita di Energia. È più efficente in luoghi freddi.</string>
+  <string name="Motorised Logistics Hopper">Tramoggia Loggistica Motorizzata</string>
+  <string name="Motorised Logistics Hopper_DESC">Non implementato perché il nastro trasportatore è il fattore limitante, non la tramoggia. Ooops.</string>
+  <string name="Solar Panel">Pannello Solare</string>
+  <string name="Solar Panel_DESC">Genera energia di giorno
+Carica le batterie adiacenti.</string>
+  <string name="Organic Solar Panel">Pannello Solare Organico</string>
+  <string name="Organic Solar Panel_DESC">Genera una minore quantita di energia durante la notte, dalla luce stellare.
+Carica le batterie adiacenti.</string>
+  <string name="Basic Laser Energy Transmitter">Laser di Trasferimento di Energia Base</string>
+  <string name="Basic Laser Energy Transmitter_DESC">Trasmissione di energia lenta a distanza.
+distanza max 32.
+Aggiornamento ASAP.</string>
+  <string name="Laser Energy Transmitter MK1">Laser di Trasferimento di Energia MK1</string>
+  <string name="Laser Energy Transmitter MK1_DESC">Trasmissione di energia a distanza.
+Distanza max 64.
+Diretto alle batterie.</string>
+  <string name="Laser Energy Transmitter MK2">Laser di Trasmissione di Energia MK2</string>
+  <string name="Laser Energy Transmitter MK2_DESC">Trasmette ancora più energia!</string>
+  <string name="Laser Energy Transmitter MK3">Laser di Trasferimento di Energia MK3</string>
+  <string name="Laser Energy Transmitter MK3_DESC">Il più grande trasmettitore di energia a singolo blocco.</string>
+  <string name="BFL-9000">BFL-9000</string>
+  <string name="BFL-9000_DESC">Potente Laser da Scavo.
+Scava un tunnel 5x5.
+Richiede moltissima energia.</string>
+  <string name="Pyrothermic Generator">Generatore Pirotermico</string>
+  <string name="Pyrothermic Generator_DESC">Brucia il carburante per l\'energia.
+Brucia 1 unita di carburante al minuto.</string>
+  <string name="AI Mover Control">Controllo del Movimento AI</string>
+  <string name="AI Mover Control_DESC">Crea un singolo rogot AI.
+Muove minerali tra Tramoggie.
+Poco sforzo, bassa efficenza.</string>
+  <string name="Basic Matter Mover">Trasmettitore di Materia Base</string>
+  <string name="Basic Matter Mover_DESC">Trasmette fino a 150 oggetti al minuto a una distanza di 64 m</string>
+  <string name="Dual Matter Mover">Trasmettitore di Materia Doppio</string>
+  <string name="Dual Matter Mover_DESC">Trasmette fino a 300 oggetti al minuto a una distanza di 32 m</string>
+  <string name="Quad Matter Mover">Trasmettitore di Materia Quadruplo</string>
+  <string name="Quad Matter Mover_DESC">Trasmette fino a 600 oggetti al minuto a una distanza di 16 m</string>
+  <string name="Multi Matter Mover">Trasmettitore di Materia Multiplo</string>
+  <string name="Multi Matter Mover_DESC">Trasmette fino a 4800 oggetti al minuto a una distanza di 4 m</string>
+  <string name="Ore Smelter">Fonderia di minerali</string>
+  <string name="Ore Smelter_DESC">Questo é il metodo principale per ricavare lingotti dai minerali.</string>
+  <string name="Basic Ore Smelter">Fonderia di Minerali Base</string>
+  <string name="Basic Ore Smelter_DESC">Velocità doppia, ma meno efficente che una normale Fonderia. non può essere aggiornata.</string>
+  <string name="Basic Conveyor Belt">Nastro Trasportatore Base</string>
+  <string name="Basic Conveyor Belt_DESC">Trasferisce materiale lentamente dalle Tramoggie</string>
+  <string name="Conveyor Belt">Nastro Trasportatore</string>
+  <string name="Conveyor Belt_DESC">Trasferisce materiale dalle Tramoggie</string>
+  <string name="Conveyor Belt Filter">Filtro del Nastro Trasportatore</string>
+  <string name="Conveyor Belt Filter_DESC">Rimuove i materiali in base alle regole</string>
+  <string name="Transport Pipe">Tubo Trasportatore</string>
+  <string name="Transport Pipe_DESC">Permette il trasferimento in tutte le direzione</string>
+  <string name="Transport Pipe Filter">Filtro del Tubo Trasportatore</string>
+  <string name="Transport Pipe Filter_DESC">Rimuove i materiali in base alle regole</string>
+  <string name="Stamper Plant">Macchina da Stampa</string>
+  <string name="Stamper Plant_DESC">Trasforma I Lingotti in Piastre</string>
+  <string name="Extrusion Plant">Impianto di Estrusore</string>
+  <string name="Extrusion Plant_DESC">Trasforma i Lingotti in Fili</string>
+  <string name="Coiler Plant">Impianto delle Bobbine</string>
+  <string name="Coiler Plant_DESC">Trasforma i Fili in Bobbine</string>
+  <string name="Pipe Extrusion Plant">Impianto di Estrusione Tubi</string>
+  <string name="Pipe Extrusion Plant_DESC">Trasforma i Lingotti in Tubi</string>
+  <string name="PCB Assembling Plant">Impianto di Assemblaggio CS</string>
+  <string name="PCB Assembling Plant_DESC">Trasforma le Bobbine in Circuiti Stampanti</string>
+  <string name="Conveyor Turntable">Trasportatore Rotante</string>
+  <string name="Conveyor Turntable_DESC">Distribuisce automaticamente gli oggetti</string>
+  <string name="Advanced Conveyor Filter">Filtro Avanzato del Nastro Trasportatore</string>
+  <string name="Advanced Conveyor Filter_DESC">Filtra specifici oggetti alla velocita T2</string>
+  <string name="Up Sloped Conveyor">Trasportatore in Salita</string>
+  <string name="Up Sloped Conveyor_DESC">Trasportatore inclinato verso l\'alto, velocità base!</string>
+  <string name="Down Sloped Conveyor">Trasportatore in Discesa</string>
+  <string name="Down Sloped Conveyor_DESC">Trasportatore inclinato verso il basso, velocità base!</string>
+  <string name="Motorised Conveyor">Trasportatore Motorizzato</string>
+  <string name="Motorised Conveyor_DESC">Estrae oggetti dalla Tramogia fino a 150 oggetti al Minuto!</string>
+  <string name="Research Station">Stazione di Ricerca</string>
+  <string name="Research Station_DESC">Elabora le scansioni e ricerca
+tecnologie. Richiede Energia.</string>
+  <string name="Forced Induction">Induzione Forzata</string>
+  <string name="Forced Induction_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="MK2 Forced Induction">Induzione Forzata MK2</string>
+  <string name="MK2 Forced Induction_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="MK3 Forced Induction">Induzione Forzata MK3</string>
+  <string name="MK3 Forced Induction_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="MK4 Forced Induction">Induzione Forzata MK4</string>
+  <string name="MK4 Forced Induction_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="MK5 Forced Induction">Induzione Forzata MK4</string>
+  <string name="MK5 Forced Induction_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="ARC Smelter Upgrade">Aggiornamentro Fonderia ARC</string>
+  <string name="ARC Smelter Upgrade_DESC">Incrementa la velocita di Fusione dei Minerali e l\'energia usata.
+Posto in CIMA alle Fonderie di Minerali.</string>
+  <string name="Turret MK1">Torretta MK1</string>
+  <string name="Turret MK1_DESC">Buona per una infrastruttura di difesa.</string>
+  <string name="Turret MK2">Torretta MK2</string>
+  <string name="Turret MK2_DESC">Buono per la difesa della base.</string>
+  <string name="Turret MK3">Torretta MK3</string>
+  <string name="Turret MK3_DESC">Buono per la difesaa lungo raggio..</string>
+  <string name="Auto Excavator">Auto Scavatrici</string>
+  <string name="Auto Excavator_DESC">Scava automaticamente un tunnel verticale.</string>
+  <string name="Teleporter">Teletrasporto</string>
+  <string name="Teleporter_DESC">Teletrasporta il giocatore in base agli indicatori di posizione impostati. Richiede molta energia!</string>
+  <string name="Geological Surveyor">Perito Geologico</string>
+  <string name="Geological Surveyor_DESC">Assicula il corretta localizzazione delle cave.</string>
+  <string name="Manufacturing Plant">Impianto di Produzione</string>
+  <string name="Manufacturing Plant_DESC">Centrale automatizzata dei lavori artigianali.
+Può essere aggiornata aggiungendo moduli.
+Richiede energia.</string>
+  <string name="3D Printer">Stampante 3D</string>
+  <string name="3D Printer_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti della Stampante 3D quando
+è collegata all\'Impianto di Produzione.</string>
+  <string name="Compressor">Compressore</string>
+  <string name="Compressor_DESC">Modulo dell\'Impianto di Produzione.
+Il Commpressore è attivo quando è
+collegato all\'Impianto di Produzione.</string>
+  <string name="Extruder Module">Modulo Estrusore</string>
+  <string name="Extruder Module_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti dell\'Estrusore quando
+è collegata all\'Impianto di Produzione.</string>
+  <string name="Chip Etcher">Incisore di Chip</string>
+  <string name="Chip Etcher_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti dell\'Incisore di Chip quando
+è collegata all\'Impianto di Produzione.</string>
+  <string name="Hydrojet Cutter">Taglio a Idrogetto</string>
+  <string name="Hydrojet Cutter_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti del Taglio a Idrogetto
+quando è collegata all\'Impianto di Produzione.</string>
+  <string name="Robotic Welder">Saldatore Robotico</string>
+  <string name="Robotic Welder_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti del Saldatore Robotico
+quando è collegata all\'Impianto di Produzione.</string>
+  <string name="Incubator">Incubatrice</string>
+  <string name="Incubator_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti dell0Incubatrice
+quando è collegata all\'Impianto di Produzione.</string>
+  <string name="Assembly Station">Stazione di Assemblaggio</string>
+  <string name="Assembly Station_DESC">Modulo per l\'Impianto di Produzione.
+Sblocca i progetti della Stazione di Assemblaggio
+quando è collegata all\'Impianto di Produzione.</string>
+  <string name="Refinery Controller">Controllore di Raffineria</string>
+  <string name="Refinery Controller_DESC">Controlla i processi di reazione che consentono di ricombinare i carboidrati in altre forme.</string>
+  <string name="Refinery Reactor Vat">Camera di reazione della raffineria</string>
+  <string name="Refinery Reactor Vat_DESC">Il giocatore non dovrebbe essere in grado di leggere questo ...</string>
+  <string name="Jet Turbine Generator">Generatore a Turbogas</string>
+  <string name="Jet Turbine Generator_DESC">Il giocatore non dovrebbe essere in grado di leggere questo ...</string>
+  <string name="Advanced Machine Block">Blocco di Macchina Avanzato</string>
+  <string name="Advanced Machine Block_DESC">Componente costruttivo dei macchinari di livello 3. Può essere usato solo per costruire</string>
+  <string name="Red Storage Crate">Cassa Rossa</string>
+  <string name="Red Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Blue Storage Crate">Cassa Blu</string>
+  <string name="Blue Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Green Storage Crate">Cassa Verde</string>
+  <string name="Green Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Yellow Storage Crate">Cassa Gialla</string>
+  <string name="Yellow Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Orange Storage Crate">Cassa Arancione</string>
+  <string name="Orange Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Purple Storage Crate">Cassa Porpora</string>
+  <string name="Purple Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Flesh Color Storage Crate">Cassa Color Carne</string>
+  <string name="Flesh Color Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="White Storage Crate">Cassa Bianca</string>
+  <string name="White Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Grey Storage Crate">Cassa Grigia</string>
+  <string name="Grey Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Black Storage Crate">Cassa Nera</string>
+  <string name="Black Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Plum Storage Crate">Cassa Colore Prugna</string>
+  <string name="Plum Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Marine Storage Crate">Cassa Blu Mare</string>
+  <string name="Marine Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Brown Storage Crate">Cassa Marrone</string>
+  <string name="Brown Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Storage Crate">Cassa</string>
+  <string name="Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Indigo Storage Crate">Cassa Indaco</string>
+  <string name="Indigo Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Lime Yellow Storage Crate">Cassa Giallo Limone</string>
+  <string name="Lime Yellow Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Maroon Storage Crate">Cassa Bordeaux</string>
+  <string name="Maroon Storage Crate_DESC">Soluzione di stoccaggio semplice.</string>
+  <string name="Mass Storage Block">Blocco di Stoccaggio di Massa</string>
+  <string name="Mass Storage Block_DESC">Soluzione di Stoccaggio di Massa Base (Capacità 25)</string>
   </resources>
