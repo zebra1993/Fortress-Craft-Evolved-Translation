@@ -5031,4 +5031,9 @@
   <string name="ORG_eUnknown">Уничтожьте все источники Криоплазмы и врагов на поверхности!</string>
   <string name="SERVER NAME">ИМЯ СЕРВЕРА</string>
   <string name="SERVER MANAGEMENT">УПРАВЛЕНИЕ СЕРВЕРОМ</string>
+  <string name="GAME MODE">РЕЖИМ ИГРЫ</string>
+  
+  <string name="HIDE HOST ADDRESS">СКРЫТЬ АДРЕС СЕРВЕРА</string>
+  <string name="HOST ADDRESS">АДРЕС СЕРВЕРА</string>
+  <string name="PLAYERS">ИГРОКИ</string>
   </resources>
