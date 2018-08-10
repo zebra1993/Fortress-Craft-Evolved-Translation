@@ -1084,7 +1084,7 @@
     <string name="ARTHER Charging Station_DESC">Быстро перезаряжает АРЧЕРа</string>
     <string name="Auto Builder">Авто-строитель</string>
     <string name="Auto Builder_DESC">Автоматически совершенствует конвейеры</string>
-    <string name="H.E.I.S.T._DESC">Грузовой Распределительный Авторазгрузчик Бункеров в Инвентарь - автоматически перемещает предметы из Бункеров в инвентарь. Сокращённо - ГРАБИ.</string>
+    <string name="H.E.I.S.T._DESC">Высокоскоростной Отдающий Разгрузчик - автоматически перемещает предметы из Бункеров в инвентарь. Сокращённо - В.О.Р.</string>
     <string name="H.E.I.S.T.">В.О.Р.</string>
     <string name="Slime Attractor">Слизневой Манок</string>
     <string name="Slime Attractor_DESC">Приманивает слизней.</string>
@@ -4520,7 +4520,7 @@
   <string name="UI_Press_E_Open_CPH_add_resources">Откройте интерфейс ЦЭК клавишей «E» и нажмите там «Add Resources»!</string>
   <string name="UI_Coal_burn_effiency_X">Эффективность сжигания угля: {0}</string>
   <string name="UI_E_to_configure">«E» – доступ к интерфейсу</string>
-  <string name="UI_X_percent_damaged">{0}% повреждено</string>
+  <string name="UI_X_percent_damaged">Повреждено {0}%</string>
   <string name="UI_Defensive_missiles_fired_X">Выпущено ракет: {0}</string>
   <string name="UI_Time_of_day_X_X">Время суток: {0} ({1})</string>
   <string name="UI_Researchstation_X_X_E_open">Исследовательская станция
@@ -4903,7 +4903,7 @@
   <string name="X_grown">{0} выросло</string>
   <string name="No_Plant_detected">Растения не обнаружены</string>
   <string name="CFT_Planted">Посажено!</string>
-  <string name="Warning_Cryoplasm_Detected_At_X_m">Внимание! Криоплазма обнаружена в {0}м!</string>
+  <string name="Warning_Cryoplasm_Detected_At_X_m">Внимание! Обнаружена Криоплазма в радиусе {0} м!</string>
   <string name="SurfaceMap_Status_complete">Статус карты поверхности
 Завершено</string>
   <string name="SurfaceMap_Status_scanning">Статус карты поверхности
@@ -4965,7 +4965,7 @@
   <string name="GAC_X_x_X_needed">{0}x {1} требуется</string>
   <string name="Version_Mismatch_X_should_X">Несовпадение версии: {0} должна быть {1}</string>
   <string name="UI_Geo_Stuck">Трубный Бур застрял в чём-то твёрдом. Освободите.</string>
-  <string name="SUPER H.E.I.S.T.">Супер-ГРАБИ</string>
+  <string name="SUPER H.E.I.S.T.">Супер-В.О.Р.</string>
   <string name="SUPER_HEIST">Супер-ГРАБИ!</string>
 
   <string name="Survival_mode_server">Сервер режима Выживание</string>
@@ -4986,6 +4986,47 @@
   <string name="ServoMotor_CRAFT_HINT">Минимальная мощность.</string>
   <string name="ServoMotor_CRAFT_DESC">Точный и быстрый двигатель. Трудно сделать вручную, проще автоматизировать.</string>
   <string name="ServoMotor Maker_DESC">Конструирует сервомотор из 3 проводов.</string>
-  <string name="ServoMotor Maker_CRAFT_HINT">Гораздо эффективнее, чем делать это вручную!</string>
+  <string name="ServoMotor Maker_CRAFT_HINT">Заметно эффективнее ручного труда!</string>
   <string name="ServoMotor Maker_CRAFT_DESC">Машина, которая автоматически конструирует серводвигатели из медных проводов.</string>
+  <string name="SUPER H.E.I.S.T._DESC">Такой же, как и обычный В.О.Р., но в 16 раз быстрее. (Предмет доступен при наличии Dapper DLC)</string>
+  <string name="SUPER H.E.I.S.T._CRAFT_HINT">Не время лениться!</string>
+  <string name="SUPER H.E.I.S.T._CRAFT_DESC">Автоматически перемещает предметы из прилегающих Бункеров в инвентарь игрока в радиусе 5 м. АРХИБЫСТР! (Требует Dapper DLC).</string>
+
+  <string name="Basic Robotic Sorter_CRAFT_DESC">Автоматически перемещает заданные предметы между конвейерами.</string>
+  <string name="Upgraded Robotic Sorter_CRAFT_DESC">Автоматически перемещает заданные предметы между конвейерами.</string>
+  <string name="Bulk Robotic Sorter_CRAFT_DESC">Автоматически перемещает заданные предметы между конвейерами.</string>
+  <string name="Intermediate Robotic Sorter_CRAFT_DESC">Автоматически перемещает заданные предметы между конвейерами.</string>
+  <string name="Ray Gun V1_CRAFT_DESC">На большинстве представителей фауны не оставит и царапины, но всё же пригодится для убийства самых слабых и беззащитных экземпляров. Чтобы выбрать, нажмите «V».</string>
+  <string name="Ray Gun V1_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр!</string>
+  
+  <string name="Upgraded Crystal Scanner_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр!</string>
+  
+  <string name="Advanced Crystal Scanner_CRAFT_HINT">Часть Костюма! Вам нужен только 1 экземпляр!</string>
+  
+  <string name="Lithium Coil Charger_CRAFT_DESC">Наполняет Литиевые Катушки энергией. Загружайте их в Док-станцию ПаукоБота через Бункер.</string>
+  <string name="Lithium Coil Charger_CRAFT_HINT">ПаукоБоту нужна энергия, чтобы защищать базу.</string>
+  
+  <string name="Fuel Compressor_CRAFT_DESC">Создаёт Высокооктановое Топливо из Угля и Высокоэнергетического Композитного Топлива. Строится по схеме 3х3х3.</string>
+  <string name="Fuel Compressor_CRAFT_HINT">Используйте, чтобы вырезать прямые туннели</string>
+  <string name="C5_only_one_C5_allowed">Допускается только один ЦКК!</string>
+  <string name="LPT_Disconnected">НЕТ СОЕДИНЕНИЯ</string>
+  <string name="Press_T_Sort_X">Нажмите (T) для сортировки [{0}]</string>
+  <string name="X_Power">{0} Э.</string>
+  <string name="CPH_initialising">ЦЭК запускается...</string>
+  <string name="Directional Storage Hopper">Направленный Бункер</string>
+  <string name="Set_Mass_Storage_Name">Установите название Склада</string>
+  <string name="Enter_Storage_Name">Введите название Склада</string>
+  <string name="Name">Название</string>
+  <string name="Network">Сеть</string>
+  <string name="Add_Cart">Добавить Вагонетку</string>
+  <string name="Remove_Cart">Убрать Вагонетку</string>
+  <string name="Handbook">Руководство</string>
+  <string name="See_the_handbook_for_details">Подробности см. в руководстве.</string>
+  <string name="Inventory">Инвентарь</string>
+  <string name="Carts_X_Y">Вагонетки: {0} / {1}</string>
+  <string name="Inventory_is_empty">Инвентарь пуст</string>
+  <string name="Order_by_count">Упорядоч. по кол-ву</string>
+  <string name="Order_by_name">Упорядоч. по названию</string>
+  <string name="FreightHelp4a">В этой вагонеточной сети станции и предлагают, и запрашивают ресурсы. Однако, перемещений груза не обнаружено. С чего бы это?</string>
+  <string name="ORG_eUnknown">Уничтожьте все источники Криоплазмы и врагов на поверхности!</string>
   </resources>
