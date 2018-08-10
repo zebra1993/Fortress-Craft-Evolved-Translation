@@ -5036,4 +5036,10 @@
   <string name="HIDE HOST ADDRESS">СКРЫТЬ АДРЕС СЕРВЕРА</string>
   <string name="HOST ADDRESS">АДРЕС СЕРВЕРА</string>
   <string name="PLAYERS">ИГРОКИ</string>
+  <string name="PING">ОТКЛИК</string>
+  
+  <string name="Biomass Ping">Пробник Биомассы</string>
+  <string name="Biomass Pings">Пробники Биомассы</string>
+  <string name="Charged Experimental Pod">Заряженная Экспериментальная Ячейка</string>
+  <string name="Charged Experimental Pods">Заряженные Экспериментальные Ячейки</string>
   </resources>
