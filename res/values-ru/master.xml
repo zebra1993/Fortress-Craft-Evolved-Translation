@@ -5042,4 +5042,13 @@
   <string name="Biomass Pings">Пробники Биомассы</string>
   <string name="Charged Experimental Pod">Заряженная Экспериментальная Ячейка</string>
   <string name="Charged Experimental Pods">Заряженные Экспериментальные Ячейки</string>
+  <string name="Charged Lithium Coil">Заряженная Литиевая Катушка</string>
+  <string name="Charged Lithium Coils">Заряженные Литиевые Катушки</string>
+  <string name="Biomass">Биомасса</string>
+  <string name="Mandragora">Мандрагора</string>
+  <string name="Mandragora_DESC">Используется для изготовления Грубых Линз.</string>
+  <string name="Lithium Coil Charger">Зарядник Литиевых Катушек</string>
+  <string name="Lithium Coil Charger_DESC">Заряжает 5 Литиевых Катушек 100 ед. Энергии. Используется в производстве и для зарядки ПаукоБота.</string>
+  <string name="Fuel Compressor">Топливный Компрессор</string>
+  <string name="Fuel Compressor_DESC">Сжимает углеродные примеси с Высокоэнергетическим Композитным Топливом для производства нестабильного, но очень богатого энергией источника топлива.</string>
   </resources>
