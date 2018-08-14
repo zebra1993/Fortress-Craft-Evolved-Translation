@@ -10,15 +10,15 @@
     <string name="Quit_Sign">退出</string>
     <string name="World_Sign">选择世界</string>
     <string name="Create_World">创造世界</string>
-    <string name="Spacebar">空格键</string>
-    <string name="Resource_Level">资源级别</string>
-    <string name="Power_Level">能源级别</string>
+    <string name="Spacebar">空间站</string>
+    <string name="Resource_Level">资源等级</string>
+    <string name="Power_Level">能源等级</string>
     <string name="Conveyor_Speed">传送带速度</string>
     <string name="Day_Night_Cycle">日夜循环</string>
     <string name="Mob_Difficulty">野怪难度</string>
     <string name="Death_Mode">死亡模式</string>
     <string name="Survival_Options">生存模式选项</string>
-    <string name="Seed">随机种子</string>
+    <string name="Seed">种子</string>
     <string name="Rush_Mode">速通模式</string>
     <string name="Flatland">平坦世界</string>
     <string name="Care_Package">开局大礼包</string>
@@ -2956,7 +2956,7 @@
 <string name="Storing">存储</string>
 <string name="items_with">有空余槽位</string>
 <string name="free_slots">的物品</string>
-<string name="Transferred">传递</string>
+<string name="Transferred">转移</string>
 <string name="bars_from_Inventory">物品栏中的金属锭！</string>
 
 <string name="items_from_Inventory">物品栏中的物品</string>
@@ -3342,7 +3342,7 @@
 <string name="Requirements">需求</string>
 <string name="Unlocked_Recipes">解锁配方</string>
 <string name="Costs_an_additional">花费额外的</string>
-<string name="RP_to_research">RP 来研究。</string>
+<string name="RP_to_research">消耗RP来研究。</string>
 <string name="Handbook_No_specific_help_available">由于未实现的帮助文件，没有可用的具体帮助。请检查下一页提示和制作！</string>
 <string name="This_material_is_hidden">隐藏材料</string>
 <string name="Player_does_not_know_material">玩家不了解这种材料</string>
@@ -3784,11 +3784,11 @@ For fancy Statistics, play Survival</string>
   
 <string name="I_just_processed_the_X_scan">我刚刚处理了{ 0 }扫描！</string>
   <string name="I_just_researched_the_X_recipe">我刚刚研究了{ 0 }配方！</string>
-  <string name="I_just_researched_the_X_project">我刚刚研究了{ 0 }项目！</string>
+  <string name="I_just_researched_the_X_project">我刚刚研究了{0}项目！</string>
 
   <string name="PROCESS">过程</string>
   <string name="NO_SCANS">没有扫描</string>
-  <string name="Unknown_material_Power_required_to_research_X">研究所需的能量：{ 0 }</string>
+  <string name="Unknown_material_Power_required_to_research_X">研究所需的能量：{0}</string>
   <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">处理未知的材料扫描，解锁新的研究项目和制造配方，以及赚取研究点。</string>
   <string name="Find_unknown_materials_using_orescanner_ping_facility">使用矿石扫描仪的平设施找到更多未知材料。
 按M选择矿石扫描仪，然后离开鼠标按钮发送一个材料扫描脉冲。</string>
@@ -3804,7 +3804,7 @@ For fancy Statistics, play Survival</string>
   <string name="Unprocessed_Scan">未经加工的扫描</string>
   
   
-  <string name="Power_required_to_research_X">研究所需的功率：{ 0 }</string>
+  <string name="Power_required_to_research_X">研究所需的功率：{0}</string>
   <string name="Research_project_at_laboratory_Requires">在实验室研究这个项目-需要：</string>
 
   <string name="Unlocked_from">解锁</string>
@@ -5185,10 +5185,10 @@ PTG无法发挥这个功能！</string>
   <string name="Currently_charging_ARTHER_for_player_X">目前正为玩家给阿瑟充能：{0}</string>
   <string name="Attached_machines_X">附加机器数：{0}</string>
   <string name="Storing_X_items_with_X_free_slots">使用{1}个空闲插槽存储{0}个项目</string>
-  <string name="Transferred_X_bars_from_Inventory">从物品栏转移{0}条！</string>
-  <string name="Transferred_X_items_from_Inventory">从物品栏中转移{0}项！</string>
+  <string name="Transferred_X_bars_from_Inventory">已从背包中转移{0}个金属锭！</string>
+  <string name="Transferred_X_items_from_Inventory">已从背包中转移{0}个物品！</string>
   <string name="ore_from_inventory">物品栏中的矿石</string>
-  <string name="Transferred_X_ore_from_inventory">已搬运</string>
+  <string name="Transferred_X_ore_from_inventory">已从背包中转移{0}个矿石！</string>
   <string name="CryoMap_DESC">提供有用的实时地图，用于分析和规划我们的防御。以3x3布局构建。</string>
   <string name="CryoMap_CRAFT_DESC">提供有用的实时地图，用于分析和规划我们的防御。以3x3布局构建。</string>
   <string name="CryoMap_CRAFT_HINT">建造这个以消除吓人的意外惊喜。</string>	  
@@ -5228,4 +5228,49 @@ PTG无法发挥这个功能！</string>
   <string name="MS_Performance">警告!大量储存超过100箱。考虑多个更小的存储。</string>
   <string name="MS_Performance_Critical">警告!海量存储的大小是关键，而且可能会出现性能问题!</string>
   <string name="Research_Points">科研点数</string>
+  <string name="CryoMap">低温堆</string>
+  <string name="onto_special">放入特定的drop-off！</string>
+  <string name="Temperature_diff_X_C">温差: {0}°C</string>
+  <string name="VsyncOn">有限的</string>
+  <string name="VsyncOff">关闭</string>
+  <string name="VsyncHalf">节省的能量</string>
+  <string name="ShiftCtrl">按Shift/Ctrl来移动 10/1</string>
+  <string name="Ore_normal_X_X_X">{0}
+体积: {1} m3
+总量: {2:N0}</string>
+  <string name="Ore_Big_X_X_X">{0}
+体积: {1} m3
+总量: {2:N4}m</string>
+  <string name="Network_Ore_Report">我刚刚扫描了 {0} 矿脉，其包含 {1}m 个矿石。位置为 {2},{3},{4}</string>//A huge vein with a ! at the end?
+  <string name="UI_Place_Facing_Conveyor_or_Track">请面向一个传送带或者废弃轨道放置！</string>
+  <string name="UI_Upgrade_complete_X_track_upgraded">升级进度 - 已升级{0} 轨道</string>
+  <string name="UI_Unable_locate_material_for_upgrade">无法找到升级所需材料！</string>
+  <string name="UI_Minecart_Track_One_Way">单向轨道</string>
+  <string name="UI_Minecart_Scrap_Track_Straight">直废料轨道</string>
+  <string name="UI_Minecart_Scrap_Track_Corner">转向废料轨道</string>
+  <string name="UI_Minecart_Scrap_Track_Slope">倾斜废料轨道</string>
+  <string name="UI_Minecart_Scrap_Track_One_Way">单向废料轨道</string>
+  <string name="UI_Orbital_Energy_transmitter">轨道能量发射器</string>
+  <string name="C5_only_one_C5_allowed">你只能有一个CCCCC!</string>
+  <string name="LPT_Disconnected">断开连接</string>
+  <string name="Press_T_Sort_X">按T 来分类 [{0}]</string>
+  <string name="Not_Collecting">停止收集</string>
+  <string name="Collecting_X">收集中 {0}</string>
+  <string name="Spawn_set">出生设置！</string>
+  <string name="X_Power">{0} 能量。</string>
+  <string name="Cool_geddit">酷吧，懂吗？</string>
+  <string name="Need_carry_arms">需要携带武器！</string>
+  <string name="Need_herb_arms">需要 Herb 武器！</string>
+  <string name="Conv_NONE">无</string>
+  <string name="OE_clearing">清除！</string>
+  <string name="Turr_kill">击杀！</string>
+  <string name="Falcor_boom">爆炸！</string>
+  <string name="Falcor_reloading">装弹中！</string>
+  <string name="CPH_initialising">正在初始化CPH...</string>
+  <string name="Crafting">制作中</string>
+  <string name="Emergency Orange Light">应急橙色灯</string>
+  <string name="Emergency Red Light">应急红色灯</string>
+  <string name="Emergency Strobe Light">应急闪光灯</string>
+  
+  <string name="DP_Run">emmm...运行?</string>
   </resources>
