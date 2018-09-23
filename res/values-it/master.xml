@@ -1494,4 +1494,32 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Rack Rail_DESC">.</string>
   <string name="Mass Storage IO Port">Porta IO del Magazzino</string>
   <string name="Mass Storage IO Port_DESC">Alta velocita di IO del magazzino</string>
+  <string name="Basic Mass Storage Stocking Port">Porta di Stoccaggio del Magazzino di Base</string>
+  <string name="Basic Mass Storage Stocking Port_DESC">.</string>
+  <string name="Mass Storage Stocking Port">Posta di Stoccaggio del Magazzino</string>
+  <string name="Mass Storage Stocking Port_DESC">.</string>
+  <string name="Bulk Mass Storage Stocking Port">Porta di Stoccaggio del Magazzino per Grandi Quantità</string>
+  <string name="Bulk Mass Storage Stocking Port_DESC">.</string>
+  <string name="Orbital Strike Controller">Contollo di Attacco Orbitale</string>
+  <string name="Orbital Strike Controller_DESC">Sito nucleare in orbita. È l\'unica viaper essere sicuri. richiede un TEO completamente carico.</string>
+  <string name="SurfaceHiveSpawn">GeneratoreAlveariSuperficiale</string>
+  <string name="SurfaceHiveSpawn_DESC">.</string>
+  <string name="Construction Paste">Colla Costrutrice</string>
+  <string name="Construction Paste_DESC">.</string>
+  <string name="FALCOR MK1">FALCOR MK1</string>
+  <string name="FALCOR MK1_DESC">Raccogli gli oggetti lasciati con il Faro FALCOR e riportalo.
+Deve essere attaccato a una tramogia.</string>
+  <string name="Logistics FALCOR">FALCOR Logistica</string>
+  <string name="Choose_filter">Scegli il filtro dell\'oggetto</string>
+  <string name="Logistics FALCOR_DESC">Raccoglie gli oggetti dai Fari FALCOR attaccat alle Tramogie lontane e li riporta.
+Necessita di essere attaccato a una tramogia.</string>
+  <string name="FALCOR Beacon">Faro FALCOR</string>
+  <string name="FALCOR Beacon_DESC">.</string>
+  <string name="SpiderBotBase">BaseSpiderBot</string>
+  <string name="SpiderBotBase_DESC">Non pertinente</string>
+  <string name="Laser Resin Ablator">Ablatore Laser della Resina</string>
+  <string name="Laser Resin Ablator_DESC">Converte la Resina Temprata in Resina Ablata</string>
+  <string name="Laser Resin Liquifier">Fluidificatore Laser della Resina</string>
+  <string name="Laser Resin Liquifier_DESC">Converte, immagazina e distrugge la Resina Ablata vicina.</string>
+  <string name="Partially Ablated Resin">Resina Ablata Parzialmente</string>
   </resources>
