@@ -106,7 +106,7 @@
 Uomo di ferro è solo per i coraggiosi, gli stupidi e gli spavaldi; alla morte PERDI DEL TUTTO il tuo intero inventario!</string>
     <string name="Death_SquishCore_Info">NON RACCOMANDATO PER CHIUNQUE
 SquishCore è semplice; muori, rimani morto</string>
-    <string name="Care_Package_Locked">Il paccetto di cura sarà sbloccato una volta creata con successo un Centro di Controllo del Climatica.</string>
+    <string name="Care_Package_Locked">Il paccetto di cura sarà sbloccato una volta creata con successo un Centro di Controllo del Clima.</string>
     <string name="Care_Package_Disabled">Pacchetto di Cura disabilitato.</string>
     <string name="Needs_FF">Richiesto il Frozen Factory Expansion Pack.</string>
 
@@ -357,7 +357,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="SpiderBot Blasters">Blaster per SpiderBot</string>
   <string name="SpiderBot Cannon">Cannone per SpiderBot</string>
   <string name="SpiderBot Cannons">Cannoni per SpiderBot</string>
-  <string name="SpiderBot Particle Rifle">Fucile Particellare per SipderBot</string>
+  <string name="SpiderBot Particle Rifle">Fucile Particellare per SpiderBot</string>
   <string name="SpiderBot Particle Rifles">Fucili Particellari per SpiderBot</string>
   <string name="Charged Lithium Coil">Bobbina di Litio Carica</string>
   <string name="Charged Lithium Coils">Bobbine di Litio Cariche</string>
@@ -397,8 +397,8 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Magnetic Machine Blocks">Blocchi di Macchina Magnetica</string>
   <string name="Chromed Machine Block">Blocco di Macchina Cronata</string>
   <string name="Chromed Machine Blocks">Blocchi di Macchina Cromata</string>
-  <string name="Hiemal Machine Block">Blocco di Macchina Invernale</string>
-  <string name="Hiemal Machine Blocks">Blocchi di Macchina Invernale</string>
+  <string name="Hiemal Machine Block">Blocco di Macchina Hiemal</string>
+  <string name="Hiemal Machine Blocks">Blocchi di Macchina Hiemal</string>
   <string name="Alloyed Machine Block">Blocco di Macchina Mescolati</string>
   <string name="Alloyed Machine Blocks">Blocchi di Macchina Mescolati</string>
   <string name="Hardened Machine Block">Blocco di Macchina Temprata</string>
@@ -1376,7 +1376,7 @@ Attaccalo all\'Ascensore L1 per usarlo."</string>
   <string name="Lens Chromer">Lente Cromata</string>
   <string name="Lens Chromer_DESC">ricopre con molta precisione con una strato riflettente le lenti non focalizzate dando un miglioramento notevole.</string>
   <string name="Cryo Bomb Assembler">Assemblatore di Bombe Cryo</string>
-  <string name="Cryo Bomb Assembler_DESC">Crea una bomba specificatatmente progettata per essere sganciata dai bombardieri FALCOR per eliminare grandi quantita di CryoPasm a lungo raggio.</string>
+  <string name="Cryo Bomb Assembler_DESC">Crea una bomba specificatatmente progettata per essere sganciata dai bombardieri FALCOR per eliminare grandi quantita di CrioPlasma a lungo raggio.</string>
   <string name="Chromed Block Assembler">Assemblatore di Blocchi Cromati</string>
   <string name="Chromed Block Assembler_DESC">Placca di cromo i Blocchi di Macchina Impregnati.</string>
   <string name="Hiemal Block Assembler">Assemblatore di Blocchi Hiemal</string>
@@ -1450,7 +1450,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Spiderbot Base Component_DESC">Permette allo SpyderBot di ricaricare e aggiornare armi e oggetti. Costruiscilo in una configurazione larga 15, alta 1, profonda 15.</string>
   <string name="MK2 Organic Solar Component">Componenti del Pannello Solare Organico MK2</string>
   <string name="MK2 Organic Solar Component_DESC">Crea un Pannello Solare largo 3, alto 1, profondo 3. Crea un minio di energia durante la notte.</string>
-  <string name="Climate Control Centre">Centro di Controllo del Climatica</string>
+  <string name="Climate Control Centre">Centro di Controllo del Clima</string>
   <string name="Climate Control Centre_DESC">Non pertinente.</string>
   <string name="Hard Rock Grinder">Mola per Rocce Dure</string>
   <string name="Hard Rock Grinder_DESC">Macchina Multiblocco a singolo uso. Permette di estrarre un minima quantità di Cromo o Molibdeno. Costruiscilo in una configurazione larga 3, alta1, profonda 3.</string>
@@ -1522,4 +1522,31 @@ Necessita di essere attaccato a una tramogia.</string>
   <string name="Laser Resin Liquifier">Fluidificatore Laser della Resina</string>
   <string name="Laser Resin Liquifier_DESC">Converte, immagazina e distrugge la Resina Ablata vicina.</string>
   <string name="Partially Ablated Resin">Resina Ablata Parzialmente</string>
+  <string name="Partially Ablated Resin_DESC">Il duro rivestimento è stato ablato; ora dovremmo riuscire a liquefare il morbido nucleo interno.</string>
+  <string name="Ablated Resin">Resina Ablata</string>
+  <string name="Ablated Resin_DESC">Il duro rivestimento è stato ablato; ora dovremmo riuscire a liquefare il morbido nucleo interno.</string>
+  <string name="Liquified Resin">Resina Liquefatta</string>
+  <string name="Liquified Resin_DESC">La resina è stata liquefatta, e può essere raccolta.</string>
+  <string name="Cold Creep Spawner">Generatore di Cold Creep</string>
+  <string name="Cold Creep Spawner_DESC">.</string>
+  <string name="CryoPlasm">CrioPlasma</string>
+  <string name="CryoPlasm_DESC">Questo liquido organoco non newtoniano incredibilmente duro è stato risvegliato dal nostro Centro di Controllo del Clima! Avremmo bisogno di armi speciali per affrontare questo!</string>																																																							  
+  <string name="Cryoplasm">Crioplasma</string>
+  <string name="Cryoplasm_DESC">Questo liquido organoco non newtoniano incredibilmente duro è stato risvegliato dal nostro Centro di Controllo del Clima! Avremmo bisogno di armi speciali per affrontare questo!</string>																																										 
+  <string name="Workfloor Excavator MK1">Scavatore Planare MK1</string>
+  <string name="Workfloor Excavator MK1_DESC">Scava un piano alto 3 metri e profondo 16 metri in ogni direzione (33m in totale)</string>
+  <string name="Workfloor Excavator MK2">Scavatore Planare MK2</string>
+  <string name="Workfloor Excavator MK2_DESC">Scava un piano alto 3 metri e profondo 16 metri in ogni direzione (33m in totale). Utilizza il doppio della potenza del MK1, ma può togliere i minerali.</string>
+  <string name="Workfloor Excavator MK3">Scavatore Planare MK3</string>
+  <string name="Workfloor Excavator MK3_DESC">Una ruota da scavo incredibilmente veloce - 4 volte la velocità del MK2! Può togliere i minerali.</string>
+  <string name="Slime Attractor">Attiratore di Slime</string>
+  <string name="Slime Attractor_DESC">Attiratore di slime.</string>
+  <string name="Imbued Machine Block">Blocchi per Macchine Impregnate</string>
+  <string name="Imbued Machine Block_DESC">Componente costruttivo dei macchinari di livello 4. Può essere usato anche per gli edifici</string>
+  <string name="CryoMine">CrioMine</string>
+  <string name="CryoMine_DESC">Esplode rilasciando gas nocivo quando toccato dal CrioPlasma.</string>
+  <string name="Bomber FALCOR">Bombardiere FALCOR</string>
+  <string name="Bomber FALCOR_DESC">Fa cadere le Bombe coustruite, ampio raggio, sulla densa minaccia strisciante.</string>
+  <string name="Freezon Injector">Inniettore Freezon</string>
+  <string name="Freezon Injector_DESC">Utilizza Taniche di Freezon per migliorare le prestazioni a un numero di macchine.</string>
   </resources>
