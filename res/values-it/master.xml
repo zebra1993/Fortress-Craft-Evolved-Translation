@@ -1549,4 +1549,15 @@ Necessita di essere attaccato a una tramogia.</string>
   <string name="Bomber FALCOR_DESC">Fa cadere le Bombe coustruite, ampio raggio, sulla densa minaccia strisciante.</string>
   <string name="Freezon Injector">Inniettore Freezon</string>
   <string name="Freezon Injector_DESC">Utilizza Taniche di Freezon per migliorare le prestazioni a un numero di macchine.</string>
+  <string name="Death_Hardcore_Info">NON RACCOMANDATO PER CHIUNQUE!
+Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene distrutto, il gioco è definitivamente finito! E il CPH non si ripara neanche.</string>
+  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CryoPlasm Spawner</string>
+  <string name="Rushmode_Locked">Modalità veloce sarè sbloccato quando avrai caricato un Trasmettitore di Energia Orbitale</string>
+  <string name="Rushmode_Disabled">Modalità veloce disabilitata.</string>
+  <string name="Rushmode_Enabled">Modalità veloce abilitata! Questa modalità ti sfida a costruire un altro Trasmettitore di Energia Orbitale completamente carico nel minor tempo possibile! Selezionando questa modalità aumenterà la generazione di energia di circa 10 volte e la raccolta di minerali e la fusione 5 volte più veloce. Anche gli assalti saranno più veloci...</string>
+  <string name="Trivial_Mobs_Info">Minacce Banale non è raccomandato. Le Minacce esistono ancora per garantire una piena progressione, ma toglie gran parte della sfida nel gioco. Avrai una minaccia ridotta e una frequenza di rinascita degli Hivermind e delle altre minacce che infestano la base</string>
+  <string name="Normal_Mobs_Info">Minacce normali - questo è quello che è. Buona scelta!</string>
+  <string name="Hard_Mobs_Info">Minacce difficili - con questa scelta avrai a che fare con assalti più difficili e agressivi. Questa è SOLO per giocatori MOLTO esperti!</string>
+  <string name="OrbitalPar">Tempo stimato per il caricamento orbitale</string>
+  <string name="FFPar">Tempo Stimato per il Frozen Factory</string>
   </resources>
