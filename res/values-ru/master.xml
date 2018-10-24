@@ -7,13 +7,13 @@
     <string name="Translation_Incomplete">Перевод не закончен!</string>
     <string name="Language_Name">Русский</string><string name="Frozen_Factory">Морозная Фабрика</string>
     <string name="Skin_Pack">Комплект Скинов</string>
-    <string name="Dapper_Pack">Нарядная сборка</string>
+    <string name="Dapper_Pack">Комплект нарядов</string>
     <string name="Not_Installed">Нет</string>
     <string name="Multiplayer_Sign">Мультиплеер</string>
     <string name="Quit_Sign">Выход</string>
     <string name="Create_World">Создать Мир</string>
-    <string name="Resource_Level">Уровень Ресурсов</string>
-    <string name="Power_Level">Уровень Энергии</string>
+    <string name="Resource_Level">Объем ресурсов</string>
+    <string name="Power_Level">Получаемая энергия</string>
     <string name="Conveyor_Speed">Скорость конвейеров</string>
     <string name="Day_Night_Cycle">Цикл день/ночь</string>
     <string name="World_Sign">Выбор Мира</string>
@@ -45,10 +45,10 @@
     <string name="Off">Выкл.</string>
     <string name="Locked">Блокировка</string>
 
-    <string name="Scarce">Скудно</string>
-    <string name="Greg">Грег</string>
-    <string name="Plentiful">Изобильно</string>
-    <string name="Rapid">Стремительно</string>
+    <string name="Scarce">Мало</string>
+    <string name="Greg">Очень мало</string>
+    <string name="Plentiful">Нормально</string>
+    <string name="Rapid">Много</string>
 
     <string name="Fast">Быстро</string>
     <string name="Slow">Медленно</string>
@@ -57,9 +57,9 @@
     <string name="Normal">Нормально</string>
     <string name="Eternal Night">Вечная ночь</string>
 
-    <string name="Trivial Mobs">Простые враги</string>
-    <string name="Normal Mobs">Нормальные враги</string>
-    <string name="Hard Mobs">Тяжёлые враги</string>
+    <string name="Trivial Mobs">Легкие</string>
+    <string name="Normal Mobs">Нормальные</string>
+    <string name="Hard Mobs">Сложные</string>
 
     <string name="None">Нет</string>
     <string name="Clumsy">Неуклюжий</string>
@@ -78,7 +78,7 @@
     <string name="Mods_Selected">модов выбрано.</string>
     <string name="Resources_Plentiful_Info">Многочисленные ресурсы предоставит вам массу ресурсов и значительно ускорит вашу раннюю и позднюю игру. Подходит для настойчивых и новых игроков.</string>
     <string name="Resources_Scarce_Info">Скудный уровень ресурсов приведёт к неспешной и вдумчивой игре, с исследованием окружения и размышлениями об оптимизации базы. Не рекомендуется для новых игроков!</string>
-    <string name="Resources_Greg_Info">Уровень ресурсов «Грег» круто снизит скорость развития в игре. Такой уровень предназначен для играющих круглосуточно и для ВЕСЬМА терпеливых игроков!</string>
+    <string name="Resources_Greg_Info">Уровень ресурсов «Очень мало» круто снизит скорость развития в игре. Такой уровень предназначен для играющих круглосуточно и для ВЕСЬМА терпеливых игроков!</string>
     <string name="Resources_Rapid_Info">Стремительный уровень ресурсов предназначен для людей с личной жизнью, детьми, работой или тех, кто будет стримить игру на выходных. Прекрасно подходит для быстрого ознакомления с игрой, перед тем как окунуться в игру с большей сложностью.</string>
 
 
@@ -108,18 +108,18 @@
 
     <string name="Needs_FF">Требуется дополнение «Морозная Фабрика» (Frozen Factory).</string>
 
-    <string name="Care_Package_Enabled">Помогатор включен! Придаёт значительный импульс в начале игры, с самого начала предоставляя Строительную Пушку МК3, аккумулятор костюма большей ёмкости, солнечную батарею и обогреватель костюма.</string>
+    <string name="Care_Package_Enabled">Бонус набор включен! Придаёт значительный импульс в начале игры, предоставляя Строительную Пушку В3, и Модуль усовершенствования костюма МК1.</string>
 
     <string name="Flatland_Locked">Режим «Равнина» будет доступен после уничтожения Источника Криоплазмы.</string>
     <string name="Rush_Mode">Режим спешки</string>
-    <string name="Flatland">Равнина</string>
-    <string name="Care_Package">Помогатор</string>
+    <string name="Flatland">Плоский мир</string>
+    <string name="Care_Package">Бонус набор</string>
     <string name="Survival_Options">Параметры Выживания</string>
     <string name="Creative_Info">Это уже существующий Творческий Мир, но, к сожалению, тут нет особо крутой статистики, которую можно отразить. Может, вместо этого хотите картинку с котиком?</string>
 
     <string name="Update_Pending">Ожидает обновления</string>
-    <string name="Care_Package_Locked">Опция \"Помогатор\" будет разблокирована, когда вы построите Центр Климат-Контроля (ЦКК).</string>
-    <string name="Care_Package_Disabled">Помогатор отключен.</string>
+    <string name="Care_Package_Locked">Опция \"Бонус набор\" будет разблокирована, когда вы построите Центр Климат-Контроля (ЦКК).</string>
+    <string name="Care_Package_Disabled">Бонус набор отключен.</string>
     <string name="Rushmode_Locked">Режим Спешки будет разблокирован после постройки Орбитального Передатчика Энергии.</string>
     <string name="Rushmode_Disabled">Режим Спешки отключён.</string>
     <string name="Hours">час</string>
@@ -219,9 +219,9 @@
     <string name="Titanium Plates">Титановые Пластины</string>
     <string name="Copper Housing">Медный Корпус</string>
     <string name="Copper Housings">Медные Корпуса</string>
-    <string name="Trivial_Mobs_Info">Включать простых Врагов не рекомендуется. Они всё еще будут присутствовать в игре, но станут безобидными, это заметно снизит интересность игрового процесса. Будет понижена Угроза Базе и скорость появления мешающих развитию врагов.</string>
+    <string name="Trivial_Mobs_Info">Включать Легких врагов не рекомендуется. Они всё еще будут присутствовать в игре, но станут безобидными, это заметно снизит интерес игры. Будет понижена Угроза Базе и скорость появления врагов, мешающих развитию.</string>
     <string name="Normal_Mobs_Info">Нормальные Враги - говорит само за себя. Отличный выбор!</string>
-    <string name="Hard_Mobs_Info">Сложные Враги - вы будете иметь дело с более тяжелыми, агрессивными врагами. ТОЛЬКО для ОЧЕНЬ опытных игроков!</string>
+    <string name="Hard_Mobs_Info">Сложные Враги - вы будете иметь дело с более сложными, агрессивными врагами. ТОЛЬКО для ОЧЕНЬ опытных игроков!</string>
 
     <string name="Server_Name">Название Сервера</string>
     <string name="Server_Management">Управление Сервером</string>
@@ -5051,4 +5051,9 @@
   <string name="Lithium Coil Charger_DESC">Заряжает 5 Литиевых Катушек 100 ед. Энергии. Используется в производстве и для зарядки ПаукоБота.</string>
   <string name="Fuel Compressor">Топливный Компрессор</string>
   <string name="Fuel Compressor_DESC">Сжимает углеродные примеси с Высокоэнергетическим Композитным Топливом для производства нестабильного, но очень богатого энергией источника топлива.</string>
+  <string name="Upgraded Crystal Scanner">Модернизированный сканер минералов</string>
+  <string name="Upgraded Crystal Scanners">Модернизированные сканеры минералов</string>
+  <string name="Upgraded Crystal Scanner_CRAFT_DESC">Это позволит увидеть ближайшие залежи минералов. Для выбора нажмите М.</string>
+  <string name="Advanced Crystal Scanner">Улучшенный сканер минералов</string>
+  <string name="Advanced Crystal Scanners">Улучшенный сканер минералов</string>
   </resources>
