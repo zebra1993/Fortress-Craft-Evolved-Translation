@@ -2223,7 +2223,7 @@
     <string name="CryoHopper_CRAFT_HINT">Если поместить в холодное место, он будет потреблять гораздо меньше энергии.</string>
     <string name="Organic Reassembler_CRAFT_DESC">Загружайте 10 шт. Испорченной Органики и получите единицу Рекомбинированной Органики.</string>
     <string name="Organic Reassembler_CRAFT_HINT">Рекомбинированную Органику можно использовать для создания самодельных Органических Компонентов.</string>
-    <string name="Coal Enricher_CRAFT_DESC">Преобразуйте Измельчитель, используя железы Ос и Слизней, чтобы получить вдвое больше энергии от сжигания Угля. Не требует дополнительных ресурсов для функционирования - просто подайте немного энергии!</string>
+    <string name="Coal Enricher_CRAFT_DESC">Преобразуйте Измельчитель, используя железы Ос и Слизней, в Обогатитель Угля, чтобы получить вдвое больше энергии от сжигания Угля. Не требует дополнительных ресурсов для функционирования - просто подайте немного энергии!</string>
     <string name="Coal Enricher_CRAFT_HINT">Дает почти 2-кратный выход энергии, в сравнении со сжиганием обычного Угля.</string>
     <string name="Crystal Coal Infuser_CRAFT_DESC">Преобразуйте Измельчитель, используя Кристаллы для дальнейшего улучшения Обогащенного Угля с помощью Кристаллических Отложений, ещё раз удвоив выход энергии.</string>
     <string name="Crystal Coal Infuser_CRAFT_HINT">Дает почти 4-кратный выход энергии, в сравнении со сжиганием обычного Угля.</string>
@@ -3476,7 +3476,7 @@
 <string name="Switch_Mode">Перекл. Режим</string>
 
 <string name="RP">ОИ</string><string name="All_projects_researched">Исследованы все проекты!</string>
-<string name="Start_Project">Начать проект</string>
+<string name="Start_Project">Начать исследование</string>
 <string name="Possible_Projects">Доступные проекты</string>
 <string name="Consult_research_station_for_details">За подробностями обратитесь к Исследовательской станции</string>
 <string name="Analyse">Анализ</string>
@@ -3993,7 +3993,7 @@
 <string name="ready_to_inject">готов к инжекции!</string>
 <string name="Collect">Собрать</string>
 <string name="Current">Энергия</string>
-<string name="Collect_Research">Собрать Исследование</string>
+<string name="Collect_Research">Извлечь данные</string>
 <string name="Collected_research_for_additional">Собранные исследования для дополнительной</string>
 <string name="Player_just_collected_the">Я только что собрал</string>
 
@@ -4685,7 +4685,7 @@
   <string name="UI_Attacking_X_HP_left">Атака! [{0} здоровья осталось!]</string>
   <string name="UI_Turret">Турель</string>
   <string name="UI_Shots_X_Kills_X_Damage_X">Выстрелов: {0}. Убито: {1}. Урон: {2}</string>
-  <string name="UI_Press_E_Show_Turret_range">«E» - показ дальности турели</string>
+  <string name="UI_Press_E_Show_Turret_range">«E» - показать радиус атаки</string>
   <string name="UI_Minecart_Track_Streight">Прямые рельсы</string>
   <string name="UI_Minecart_Track_Slope">Наклонные рельсы</string>
   <string name="UI_Please_wait_processing">Пожалуйста, ждите - обработка...</string>
