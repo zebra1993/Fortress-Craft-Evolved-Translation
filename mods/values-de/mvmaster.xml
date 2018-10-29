@@ -6,9 +6,9 @@
   <string name="CurrentForward_X">Vorwärts: {0}</string>
   <string name="CurrentRow_X_X">Reihe: {0} von {1}</string>
   <string name="ActiveState_X">Aktiv: {0}</string>
-  <string name="PlacementInterval_X">Platzierungs Interval: {0}</string>
+  <string name="PlacementInterval_X">Platzierungs Intervall: {0}</string>
   <string name="ItemsForwardSetting_X"># Gegenstände Vorwärts: {0}</string>
-  <string name="RowsSetting_X_KEY_Left"># Reihen: {0} von ({1}) Links</string>
+  <string name="RowsSetting_X_KEY_Left"># Reihen: {0} von ({1}) links</string>
   <string name="RowsSetting_X_KEY_Right"># Reihen: {0} von ({1}) rechts</string>
   <string name="PlacedCount_X">Platziert: {0}</string>
   <string name="LookingForItems">Suche platzierbare Gegenstände</string>
@@ -17,4 +17,41 @@
   <string name="ActiveStateFinished">Fertig</string>
   <string name="ActiveStateBlocked">Blockiert!</string>
   <string name="ActiveStateRunning">Arbeitend</string>
-</resources>
+<string name="AdvancedLogisticsHopperTitleMK_X">Verbesserter Logistik Container</string>
+  <string name="HopperPermissionLabel">Container Berechtigungen</string>
+  <string name="ConveyorPermissionsLabel">Fließband/GAC Extraktion</string>
+  <string name="HopperSettingsLabel">Container Einstellungen</string>
+  <string name="HopperSettingsControlLabel">(Halte Shift/Umschalttaste für 10 oder Strg für 100)</string>
+  <string name="CapacityLabel">Container Kapazität</string>
+  <string name="DenominationLabel">manueller Transfer
+Zielmenge</string>
+  <string name="ReserveQuantityLabel">Reserviere Menge</string>
+  <string name="ReserveSpaceLabel">Reserviere Platz</string>
+  <string name="VacuumLabel">Vakuum</string>
+  <string name="HopperContentsLabel">Containerinhalt</string>
+  <string name="FrontLabel">Vorne</string>  
+  <string name="BackLabel">Hinten</string>
+  <string name="LeftLabel">Links</string>
+  <string name="RightLabel">Rechts</string>
+  <string name="TopLabel">Oben</string>
+  <string name="BottomLabel">Unten</string>
+  <string name="ConveyFrontLocked">Transport nach vorne gesperrt</string>
+  <string name="ConveyFrontAllowed">Transport nach vorne erlaubt</string>
+  <string name="ConveyBackLocked">Transport nach hinten gesperrt</string>
+  <string name="ConveyBackAllowed">Transport nach hinten erlaubt</string>
+  <string name="ConveyLeftLocked">Transport nach links gesperrt</string>
+  <string name="ConveyLeftAllowed">Transport nach links erlaubt</string>
+  <string name="ConveyRightLocked">Transport nach rechts gesperrt</string>
+  <string name="ConveyRightAllowed">Transport nach rechts erlaubt</string>
+  <string name="ConveyTopLocked">Transport nach oben gesperrt</string>
+  <string name="ConveyTopAllowed">Transport nach oben erlaubt</string>
+  <string name="ConveyBottomLocked">Transport nach unten gesperrt</string>
+  <string name="ConveyBottomAllowed">Transport nach unten erlaubt</string>
+  <string name="Q_To_Retrieve_X_Contents">(Q) um {0}x Inhalte herauszuholen!</string>
+  <string name="Used_X">Benutzer: {0}</string>
+  <string name="Free_X">Frei:{0}</string>
+  <string name="Reserve_Quantity_X">Reserviere Menge: {0}</string>
+  <string name="Reserve_Space_X">Reserviere Platz: {0}</string>
+
+  <string name="AutoPlacerPopupTitle">Auto Platzierer</string>
+  </resources>
