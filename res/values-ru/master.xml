@@ -1236,7 +1236,7 @@
     <string name="SpiderBot Core Charger_DESC">Наполняет Литиевые Катушки энергией. Загружайте катушки в Док-станцию ПаукоБота через Бункер.</string>
     <string name="Liquid Resin Refiner">Очиститель Текучей Смолы</string>
     <string name="Liquid Resin Refiner_DESC">"  "</string>
-    <string name="Rack Railer">Установщик Направляющих</string>
+    <string name="Rack Railer">Прокатчик Рельс</string>
     <string name="Rack Railer_DESC">Создаёт Направляющие для грузовых лифтов</string>
     <string name="MK1 PowerCore Charger">Зарядник Энергоячеек МК1</string>
     <string name="MK2 PowerCore Charger">Зарядник Энергоячеек МК2</string>
@@ -2115,7 +2115,7 @@
     <string name="Mass Storage Controller_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="Macerator_CRAFT_DESC">Измельчитель перерабатывает и избавляет от нежелательной породы. Даёт небольшой шанс найти руду. Требуется энергия и Бункер для найденной руды.</string>
     <string name="Macerator_CRAFT_HINT">Имеет небольшой шанс добывать руду.</string>
-    <string name="Auto Excavator_CRAFT_DESC">Автоматически выкапывает большую вертикальную шахту. Копает только вверх. Требуется энергия.</string>
+    <string name="Auto Excavator_CRAFT_DESC">Автоматически выкапывает большую вертикальную шахту 3х3. Копает только вверх. Требуется энергия.</string>
     <string name="Auto Excavator_CRAFT_HINT">Не затрагивает руды.</string>
     <string name="Work Floor Excavator_CRAFT_DESC">Автоматически выкапывает круг шириной 33 метра, высотой 3 метра.</string>
     <string name="Work Floor Excavator_CRAFT_HINT">Не затрагивает руды.</string>
@@ -3307,13 +3307,13 @@
 <string name="Orders">Указания</string>
 <string name="Top">Верх</string>
 <string name="Bottom">Дно</string>
-<string name="Lift_stuck_wait_rail_scan_complete">Лифт застрял. Дождитесь сканирования направляющих.</string>
+<string name="Lift_stuck_wait_rail_scan_complete">Лифт застрял. Дождитесь сканирования рельс.</string>
 <string name="Lift_stuck_below_depth_Check_blockages">Лифт застрял ниже текущей глубины шахты. Устраните препятствие.</string>
 <string name="Waiting_for_Rack_Rail">Ожидание
-Направляющих</string>
+Рельс</string>
 <string name="Unknown_State">Неизв. состояние</string>
 <string name="Operating_Lift">Работает</string>
-<string name="Controller_no_Rack_Rail_place">У Контроллера нет Направляющих для установки</string>
+<string name="Controller_no_Rack_Rail_place">У Контроллера нет Рельс для установки</string>
 <string name="Check_Depth">Проверьте глубину</string>
 
 <string name="Unloading_finished_Lift_has_no_Cargo">Выгрузка закончена. Лифт свободен!</string>
@@ -3874,7 +3874,7 @@
   <string name="Hold_LeftShift_to_break_this">Удерживайте левый «Shift», чтобы это разобрать!</string>
   <string name="This_is_too_hard_There_no_way_to_dig_up_yet">Не поддаётся!
 Вы пока ещё не можете такое добывать!</string>
-  <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">Слишком трудно!
+  <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">Слишком твердое!
 Обновление Строительной Пушки должно помочь!</string>
   <string name="Died_from_temperature_exposure_See_log_file_for_details">Смерть наступила от воздействия температуры (См. журнал!)</string>
   
