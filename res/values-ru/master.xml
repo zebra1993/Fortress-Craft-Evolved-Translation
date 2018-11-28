@@ -1434,7 +1434,7 @@
     <string name="Magnetic Block Assembler_DESC">Создаёт Магнетитные Блоки из Насыщенных Машинных Блоков.</string>
     <string name="Alloyed Block Assembler">Сборщик Легированных Блоков</string>
     <string name="Alloyed Block Assembler_DESC">Легирует Золотом Упрочненные Машинные Блоки.</string>
-    <string name="HardenedBlock Assembler">Сборщик Упрочнённых Блоков</string>
+    <string name="HardenedBlock Assembler">Сборщик Закаленных Блоков</string>
     <string name="HardenedBlock Assembler_DESC">Создаёт Упрочненные Машинные Блоки из Никеля и Титана.</string>
     <string name="Construction Paste Grinder">Пастомешалка</string>
     <string name="Construction Paste Grinder_DESC">Перерабатывает «мусорные» блоки в Строительную Пасту.</string>
@@ -2089,7 +2089,7 @@
     <string name="Hardened Machine Block_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать их!</string>
     <string name="Alloyed Block Assembler_CRAFT_HINT">Они широко используются, так что настоятельно рекомендуется автоматизировать производство!</string>
     <string name="Alloyed Block Assembler_CRAFT_DESC">Покрывает Упрочнённые блоки золотом, превращая их в Легированные блоки.</string>
-    <string name="HardenedBlock Assembler_CRAFT_DESC">Смешивает Никель и Титан для создания Легированных блоков.</string>
+    <string name="HardenedBlock Assembler_CRAFT_DESC">Смешивает Никель и Титан для создания Закаленных машинных блоков.</string>
     <string name="HardenedBlock Assembler_CRAFT_HINT">Они широко используются, и настоятельно рекомендуется автоматизировать производство!</string>
     <string name="Mass Storage Block_CRAFT_DESC">Комплекс Складов. Разместите на горизонтальной плоскости. Используйте порты ввода-вывода для доступа к содержимому!</string>
     <string name="Mass Storage Block_CRAFT_HINT">Неограниченное хранилище. Используйте порты ввода-вывода для доступа к содержимому!</string>
@@ -3870,7 +3870,7 @@
   <string name="CryoStorage_Active">Криостат активирован!</string>
   <string name="Shift_E_Toggle_Vacuum_Status_X">«Shift»+«E»- режим Всасывания: {0}</string>
   <string name="Orders_X">Указания: {0}</string>
-  <string name="Too_large_Use_LeftShift">Слишком большое! Удерживайте левый «Shift»!</string>
+  <string name="Too_large_Use_LeftShift">Слишком твердое! Удерживайте левый «Shift»!</string>
   <string name="Hold_LeftShift_to_break_this">Удерживайте левый «Shift», чтобы это разобрать!</string>
   <string name="This_is_too_hard_There_no_way_to_dig_up_yet">Не поддаётся!
 Вы пока ещё не можете такое добывать!</string>
