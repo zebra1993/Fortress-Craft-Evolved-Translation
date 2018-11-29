@@ -1560,4 +1560,8 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="Hard_Mobs_Info">Minacce difficili - con questa scelta avrai a che fare con assalti più difficili e agressivi. Questa è SOLO per giocatori MOLTO esperti!</string>
   <string name="OrbitalPar">Tempo stimato per il caricamento orbitale</string>
   <string name="FFPar">Tempo Stimato per il Frozen Factory</string>
+  <string name="Care_Package_Enabled">Pacchetto di assistenza abilitato! questo ti darà un grosso aiuto nel nuovo mondo, avrai una pistola costruttrice MK3, batteria più grande per la tuta, un pannello solare e un riscaldatore per la tuta. Prendila, ragazzo.</string>
+  <string name="H.E.I.S.T.">L.A.D.R.O.</string>
+  <string name="H.E.I.S.T._DESC">Linea Automatica Del Ricevere Oggetti - mette automaticamente gli oggetti nell\'inentario del giocatore. Abbreviato L.A.D.R.O. (H.E.I.S.T. in inglese).</string>
+  <string name="NanoDisintegrator">NanoDisintegratore</string>
   </resources>
