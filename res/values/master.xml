@@ -5651,5 +5651,15 @@ Smelter cannot function this deep!</string>
   <string name="ORG_eWaitingForMass">Waiting for Mass...</string>
   <string name="ORG_eFiring">Firing!</string>
   <string name="ORG_eLookingToOffload">Looking to offload!</string>
+  <string name="ReadyForFiring">Ready for firing.</string>
+
+  <string name="Kill_Cryo">Eliminate all the Cryo-Spawners.</string>
+  <string name="Build_ORG">Build Orbital Railgun to launch GPS satellite.</string>
+  <string name="Buy_TAP">Buy The Adventures Pack to continue!</string>
+
+  <!-- P22 stuff -->
+  <string name="Lab_Choose">Choose an experiment!</string>
+  <string name="Lab_Chosen">Press H for Help.</string>
+  <string name="GPS Label">GPS : Offline.</string>
  
 </resources>
