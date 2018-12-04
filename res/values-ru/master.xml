@@ -1041,7 +1041,7 @@
     <string name="Refinery Reactor Vat_DESC">Игрок не должен это прочесть...</string>
     <string name="Jet Turbine Generator_DESC">Игрок не должен это прочесть…</string>
     <string name="Jet Turbine Generator">Газотурбинный Генератор</string>
-    <string name="Advanced Machine Block">Усовершенствованный Машинный Блок</string>
+    <string name="Advanced Machine Block">Улучшенный Машинный Блок</string>
     <string name="Advanced Machine Block_DESC">Производственный компонент оборудования 3 уровня. Можно использовать для строительства</string>
     <string name="Red Storage Crate">Красный ящик</string>
     <string name="Blue Storage Crate">Синий ящик</string>
@@ -3503,7 +3503,7 @@
 <string name="Scan_me_more_information">Просканируйте для получения информации</string>
 <string name="Storage_used">Занято места</string>
   
-<string name="MS_Crate">Ящик Склада</string>
+<string name="MS_Crate">Блок Склада</string>
 <string name="Trencher_Drill">Траншейный Бур</string>
 <string name="Slime_Attractor">Слизневой Манок</string>
   <string name="Bait_active">Манок активирован!</string>
@@ -4030,7 +4030,7 @@
 <string name="Removed">Удалено</string>
 <string name="Connected_DELETED_BLOCK">Присоед. к УДАЛЁННОМУ БЛОКУ</string>
 <string name="Error_Centre_is_null">Ошибка, Центр -- нулевой!</string>
-<string name="Solo_Storage_Connect_more_crates">Единичный ящик; Подсоедините дополнительные ящики склада!</string>
+<string name="Solo_Storage_Connect_more_crates">Единичный блок; Подсоедините дополнительные блоки склада!</string>
 <string name="Total_Storage">Всего на хранении</string>
 <string name="E_Stack_Height">«E» - высота штабеля</string>
 <string name="Crate_no_centre">У модуля нет центра!</string>
