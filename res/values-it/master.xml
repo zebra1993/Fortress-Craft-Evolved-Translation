@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Saluti! la tua lingua è supportata solo parzialmente. Se vuoi tornare all\'inglese, premi il tasto \"English\" qui sotto!</string>
     <string name="Translation_Incomplete">Traduzione incompleta!</string>
-    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Fabbrica Ghiacciata</string>
+    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Frozen Factory</string>
     <string name="Dapper_Pack">Dapper Pack</string>
     <string name="Skin_Pack">Skin Pack</string>
     <string name="Installed">Installato</string>
@@ -25,10 +25,10 @@
     <string name="Mode">Modalità</string>
     <string name="Select_Mods">Scegli Modifiche</string>
     <string name="Back">Indietro</string>
-    <string name="Mutators">Mutatori del gioco</string>
+    <string name="Mutators">Modificatori del gioco</string>
 
-    <string name="Enter_World">Entra Nel Mondo</string>
-    <string name="Reset_World">Resetta Il Mondo</string>
+    <string name="Enter_World">Entra nel Mondo</string>
+    <string name="Reset_World">Resetta il Mondo</string>
 
 
     <string name="Creative_New">La modalità creativa ti fornisce la possibilità illimitata di costruire qualsiasi cosa, blocchi con dettagli in alta risoluzione, strumenti estesi per la modifica del mondo, progetti, schemi e funzionalità copia/incolla. Non include la maggior parte degli elementi di sopravvivenza, e non dovrebbe essere considerata come un \"cheat mode\" per la modalità sopravvivenza!</string>
@@ -156,7 +156,7 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Steel Ball Bearings">Cuscinetti a Sfera</string>
     <string name="Iron Gear">Ingranaggio di Ferro</string>
     <string name="Iron Gears">Ingranaggi di Ferro</string>
-    <string name="Copper Wire (Old)">Filo di Rame (vecchio)</string>
+    <string name="Copper Wire (Old)">Filo di Rame (Vecchio)</string>
     <string name="Servo Motor">Servomotore</string>
     <string name="Servo Motors">Servomotori</string>
     <string name="Lightweight Machine Plate">Piastra Leggera per i Macchinari</string>
@@ -810,19 +810,19 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="CoxComb_DESC">Questo non sembra molto utile ancora.</string>
   <string name="LeafyDangler">LeafyDangler</string>
   <string name="LeafyDangler_DESC">Questo non sembra molto utile ancora.</string>
-  <string name="Cold Cavern Flora 1">Flora delle Caverne Fredde 1</string>
+  <string name="Cold Cavern Flora 1">Flora della Caverna Congelata 1</string>
   <string name="Cold Cavern Flora 1_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 2">Flora delle Caverne Fredde 2</string>
+  <string name="Cold Cavern Flora 2">Flora della Caverna Congelata 2</string>
   <string name="Cold Cavern Flora 2_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 3">Flora delle Caverne Fredde 3</string>
+  <string name="Cold Cavern Flora 3">Flora della Caverna Congelata 3</string>
   <string name="Cold Cavern Flora 3_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 4">Flora delle Caverne Fredde 4</string>
+  <string name="Cold Cavern Flora 4">Flora della Caverna Congelata 4</string>
   <string name="Cold Cavern Flora 4_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 5">Flora delle Caverne Fredde 5</string>
+  <string name="Cold Cavern Flora 5">Flora della Caverna Congelata 5</string>
   <string name="Cold Cavern Flora 5_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 6">Flora delle Caverne Fredde 6</string>
+  <string name="Cold Cavern Flora 6">Flora delle Caverna Congelata 6</string>
   <string name="Cold Cavern Flora 6_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
-  <string name="Cold Cavern Flora 7">Flora delle Caverne Fredde 7</string>
+  <string name="Cold Cavern Flora 7">Flora della Caverna Congelata 7</string>
   <string name="Cold Cavern Flora 7_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda.</string>
   <string name="TundraBreath">Respiro della Tundra</string>
   <string name="TundraBreath_DESC">Questo non sembra molto utile ancora.</string>
@@ -1455,7 +1455,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Hard Rock Grinder">Mola per Rocce Dure</string>
   <string name="Hard Rock Grinder_DESC">Macchina Multiblocco a singolo uso. Permette di estrarre un minima quantità di Cromo o Molibdeno. Costruiscilo in una configurazione larga 3, alta1, profonda 3.</string>
   <string name="MagmaBore Component">Componente del Pozzo Magmatico</string>
-  <string name="MagmaBore Component_DESC">Taglia un enorme pozzo nelle caverne del magma per portare calore nelle Caverne Fredde. Costruiscila in una configurazione larga 33, alta 3, profonda 33 (3276 totali). Necessita di 8m di spazio libero iniziali.</string>
+  <string name="MagmaBore Component_DESC">Taglia un enorme pozzo nelle caverne del magma per portare calore nelle Caverne Congelate. Costruiscila in una configurazione larga 33, alta 3, profonda 33 (3276 totali). Necessita di 8m di spazio libero iniziali.</string>
   <string name="Particle Filter">Filtro Particellare</string>
   <string name="Particle Filter_DESC">Rimuove le particelle utili dall\'aria. improbabile che faccia la differenza sulla qualità dell\'aria a lungo termine. Costruiscilo in una configurazione larga 5, alta 3, profonda 5. (75 in totale)</string>
   <string name="Particle Compressor">Compressore Particellare</string>
@@ -1470,7 +1470,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Ore Thief_DESC">Non pertinente.</string>
   <string name="Magma Storage">Magazzino del Magma</string>
   <string name="Magma Storage_DESC">Riceve il Magma Fuido da appositi macchinari tramite i Tubi per i Fluidi.</string>
-  <string name="Cryo Inferno">Cryo Inferno</string>
+  <string name="Cryo Inferno">Crio Inferno</string>
   <string name="Cryo Inferno_DESC">La soluzione finale contro i Creep. Ha bisogno di una linea diretta a uno Creep Spawner esposto.</string>
   <string name="Garbage Thief">Ladro degli Scarti</string>
   <string name="Garbage Thief_DESC">Non pertinente.</string>
@@ -1483,7 +1483,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Auto Organic Thief">AutoLadro Organico</string>
   <string name="Auto Organic Thief_DESC">Rimuove automaticamente le parti organiche rovinate dal tuo inventario.</string>
   <string name="Laser Borer">Perforatrice Laser</string>
-  <string name="Laser Borer_DESC">La Perforatrice Laser è alimentata da CCAE. Crea rapidamente un foro 3x3 al centro delle Caverne Fredde. Costruiscilo in una forma larga 3, alta3, profonda 3.</string>
+  <string name="Laser Borer_DESC">La Perforatrice Laser è alimentata da CCAE. Crea rapidamente un foro 3x3 al centro delle Caverne Congelate. Costruiscilo in una forma larga 3, alta3, profonda 3.</string>
   <string name="High Orbital Debris Object Reclaimer">Recuperatore di Detriti in Orbita Alta</string>
   <string name="High Orbital Debris Object Reclaimer_DESC">Permete di lanciare un missile per riportare i detriti sulla superficie. Costruiscilo in una configurazione larga 3, alta 1,profonda 3.</string>
   <string name="Fuel Compressor">Compressore di Carburante</string>
@@ -1551,8 +1551,8 @@ Necessita di essere attaccato a una tramogia.</string>
   <string name="Freezon Injector_DESC">Utilizza Taniche di Freezon per migliorare le prestazioni a un numero di macchine.</string>
   <string name="Death_Hardcore_Info">NON RACCOMANDATO PER CHIUNQUE!
 Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene distrutto, il gioco è definitivamente finito! E il CPH non si ripara neanche.</string>
-  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CryoPlasm Spawner</string>
-  <string name="Rushmode_Locked">Modalità veloce sarè sbloccato quando avrai caricato un Trasmettitore di Energia Orbitale</string>
+  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CryoPlasma Spawner.</string>
+  <string name="Rushmode_Locked">Modalità veloce sarè sbloccato quando avrai caricato un Trasmettitore di Energia Orbitale.</string>
   <string name="Rushmode_Disabled">Modalità veloce disabilitata.</string>
   <string name="Rushmode_Enabled">Modalità veloce abilitata! Questa modalità ti sfida a costruire un altro Trasmettitore di Energia Orbitale completamente carico nel minor tempo possibile! Selezionando questa modalità aumenterà la generazione di energia di circa 10 volte e la raccolta di minerali e la fusione 5 volte più veloce. Anche gli assalti saranno più veloci...</string>
   <string name="Trivial_Mobs_Info">Minacce Banale non è raccomandato. Le Minacce esistono ancora per garantire una piena progressione, ma toglie gran parte della sfida nel gioco. Avrai una minaccia ridotta e una frequenza di rinascita degli Hivermind e delle altre minacce che infestano la base</string>
@@ -1562,6 +1562,77 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="FFPar">Tempo Stimato per il Frozen Factory</string>
   <string name="Care_Package_Enabled">Pacchetto di assistenza abilitato! questo ti darà un grosso aiuto nel nuovo mondo, avrai una pistola costruttrice MK3, batteria più grande per la tuta, un pannello solare e un riscaldatore per la tuta. Prendila, ragazzo.</string>
   <string name="H.E.I.S.T.">L.A.D.R.O.</string>
-  <string name="H.E.I.S.T._DESC">Linea Automatica Del Ricevere Oggetti - mette automaticamente gli oggetti nell\'inentario del giocatore. Abbreviato L.A.D.R.O. (H.E.I.S.T. in inglese).</string>
+  <string name="H.E.I.S.T._DESC">Linea Automatica Di Ricevere Oggetti - mette automaticamente gli oggetti nell\'inentario del giocatore. Abbreviato L.A.D.R.O. (H.E.I.S.T. in inglese).</string>
   <string name="NanoDisintegrator">NanoDisintegratore</string>
+  <string name="Blank Ore Ping">Campione di Minerale Vuoto</string>
+  <string name="Blank Ore Pings">Campioni di Minerale Vuoti</string>
+  <string name="Coal Ping">Campione di Carbone</string>
+  <string name="Coal Pings">Campioni di Carbone</string>
+  <string name="Iron Ore Ping">Campione di Ferro</string>
+  <string name="Iron Ore Pings">Campioni di Ferro</string>
+  <string name="Copper Ore Ping">Campione di Rame</string>
+  <string name="Copper Ore Pings">Campioni di Rame</string>
+  <string name="Tin Ore Ping">Campione di Stagno</string>
+  <string name="Tin Ore Pings">Campioni di Stagno</string>
+  <string name="Lithium Ore Ping">Campione di Litio</string>
+  <string name="Lithium Ore Pings">Campioni di Litio</string>
+  <string name="Gold Ore Ping">Campione d\'Oro</string>
+  <string name="Gold Ore Pings">Campioni d\'Oro</string>
+  <string name="Nickel Ore Ping">Campione di Nichel</string>
+  <string name="Nickel Ore Pings">Campioni di Nichel</string>
+  <string name="Titanium Ore Ping">Campione di Titanio</string>
+  <string name="Titanium Ore Pings">Campioni di Titanio</string>
+  <string name="Crystal Deposit Ping">Campione di Cristallo</string>
+  <string name="Crystal Deposit Pings">Campioni di Cristallo</string>
+  <string name="Biomass Ping">Campione di Biomassa</string>
+  <string name="Biomass Pings">Campioni di Biomassa</string>
+  <string name="Resin Ping">Campione di Resina</string>
+  <string name="Resin Pings">Campioni di Resina</string>
+  <string name="Chromium Ping">Campione di Cromo</string>
+  <string name="Chromium Pings">Campioni di Cromo</string>
+  <string name="Molybdenum Ping">Campione di Molibdeno</string>
+  <string name="Molybdenum Pings">Campioni di Molibdeno</string>
+  <string name="Creative Water 256x256">Acqua Creativa 256x256</string>
+  <string name="NanoDisintegrator_DESC">Nanodisgregatore. Usalo per scavare perfettamente un\'area 3x3x3 anche del materiale più duro. Usalo con cura.</string>
+  <string name="Ruined Organic Thief">Scippatore di Organico Rovinato</string>
+  <string name="Ruined Organic Thief_DESC">Non pertinente.</string>
+  <string name="T4 Power Conduit">Conduttore di Potenza T4</string>
+  <string name="T4 Power Conduit_DESC">Non pertinente</string>
+  <string name="Cold Cavern Climate Control Centre">Centro di Controllo del Clima della Caverna Congelata</string>
+  <string name="CryoPlasm Lancer">Lanciere del CrioPlasma</string>
+  <string name="CryoPlasm Lancer_DESC">Corto-Raggio, veloce, difesa dal CrioPlasma</string>
+  <string name="CryoPlasm Melter">Fusiore del CrioPlasma</string>
+  <string name="CryoPlasm Melter_DESC">Scioglie il CrioPlasma a medio raggio. Utile solo se abbinato ad altri tipi di difesa.</string>
+  <string name="CryoPlasm Dazzler Turret">Torretta \'Dazzler\' del CrioPlasma</string>
+  <string name="CryoPlasm Dazzler Turret_DESC">Lungo raggio, veloce, difesa dal CrioPlasma. Lavora solo in linea retta. Richiede 250k di energia per innescarsi.</string>
+  <string name="Single-Use Hard Rock Grinder">Macina per Rocce Dure Monouso</string>
+  <string name="Single-Use Hard Rock Grinder_DESC">Non pertinente.</string>
+  <string name="Magma Bore">Pozzo Magmatico</string>
+  <string name="Magma Bore_DESC">Non pertinente.</string>
+  <string name="Airbone Particulate Extractor">Estrattore di Particolato Aereo</string>
+  <string name="Airbone Particulate Extractor_DESC">Non pertinente.</string>
+  <string name="Fluid Pipe (Straight)">Tubo per Fluidi (Dritto)</string>
+  <string name="Fluid Pipe (Straight)_DESC">Consente la connessione tra macchine appropriate. Può trasportare anche gas.</string>
+  <string name="Fluid Pipe (Bend)">Tubo per Fuidi (Curva)</string>
+  <string name="Fluid Pipe (Bend)_DESC">Consente la connessione tra macchine appropriate. Può trasportare anche gas.</string>
+  <string name="Airbone Particulate Compressor">Compressore di Particolato Aereo</string>
+  <string name="Airbone Particulate Compressor_DESC">Non pertinente.</string>
+  <string name="Compressed Gas Storage">Magazzino di Gas Compresso</string>
+  <string name="Compressed Gas Storage_DESC">Non pertinente.</string>
+  <string name="Compressed Gas Bottler">Imbottigliatore di Gas Compresso</string>
+  <string name="Compressed Gas Bottler_DESC">Non pertinente.</string>
+  <string name="Compressed Magma Storage">Magazzino di Magma Compresso</string>
+  <string name="Compressed Magma Storage_DESC">Non pertinente.</string>
+  <string name="Creep Inferno">Creep Inferno</string>
+  <string name="Creep Inferno_DESC">Non pertinente.</string>
+  <string name="LaserBorer">TrivellaLaser</string>
+  <string name="LaserBorer_DESC">Non pertinente.</string>
+  <string name="Hard Resin Detector">Rilevatore di Resina Dura</string>
+  <string name="Hard Resin Detector_DESC">Fornisce un sistema essenziale di allerta precoce per l\'invasione del hiveminds.</string>
+  <string name="Crashed parts container">Contenitore delle parti rotte</string>
+  <string name="Crashed parts container_DESC">Contiene componenti tecnici che possiamo essere usati per la ricerca.</string>
+  <string name="Chilled Reinforced Rock">Roccia Rinforzata Congelata</string>
+  <string name="Critter">Creatura</string>
+  <string name="Waypoint Machine">Punto di riferimento per Macchine</string>
+  <string name="Waypoint Machine_DESC">Piazzalo e dagli energia per autogenerare un punto di riferimento. Sostituisci il nome del punto di riferimento piazzando un segnale vicino.</string>
   </resources>
