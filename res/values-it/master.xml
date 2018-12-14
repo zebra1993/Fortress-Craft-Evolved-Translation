@@ -651,7 +651,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Space Window_DESC">.</string>
   <string name="Space Siding_DESC">.</string>
   <string name="Green Light_DESC">.</string>
-  <string name="Thunder Flash"/>
+  <string name="Thunder Flash">Tuono e Lampo</string>
   <string name="Thunder Flash_DESC">.</string>
   <string name="Electric Arc_DESC">.</string>
   <string name="Rainbow Light_DESC">.</string>
@@ -1633,6 +1633,6 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="Crashed parts container_DESC">Contiene componenti tecnici che possiamo essere usati per la ricerca.</string>
   <string name="Chilled Reinforced Rock">Roccia Rinforzata Congelata</string>
   <string name="Critter">Creatura</string>
-  <string name="Waypoint Machine">Punto di riferimento per Macchine</string>
+  <string name="Waypoint Machine">Riferimento per Macchine</string>
   <string name="Waypoint Machine_DESC">Piazzalo e dagli energia per autogenerare un punto di riferimento. Sostituisci il nome del punto di riferimento piazzando un segnale vicino.</string>
   </resources>
