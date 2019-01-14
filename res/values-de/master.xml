@@ -3428,7 +3428,7 @@ Einige Archive wurden noch nicht komprimiert, aber dies kann ohne Verlust übers
 <string name="Failed_insert">Fehler beim Einfügen</string>
 <string name="into_storage_hopper">in Lagercontainer?</string>
 
-<string name="No_Valid_attached_Hoppers">Nein Gültige angehängte Container!</string>
+<string name="No_Valid_attached_Hoppers">Keine gültigen, angehängten Container!</string>
 <string name="Total_of">Insgesamt</string>
 <string name="items_needed">Artikel benötigt</string>
 <string name="No_input_conveyor_found">Kein Eingabe-Förderband gefunden!</string>
@@ -3933,7 +3933,7 @@ MUSS MINDESTENS {0}N Schub haben!</string>
   <string name="Useless">Nutzlos</string>
   <string name="X_Scope">{0} Umfang</string>
   
-  <string name="Refreshing">Erfrischend...</string>
+  <string name="Refreshing">Erneuere...</string>
   <string name="PUBLIC_Waiting_for_response">[PUBLIC] (Warten auf Antwort)</string>
   <string name="Contacting_server">Server wird kontaktiert...</string>
   
@@ -4337,7 +4337,7 @@ Bitte in einer mit Partikeln gefüllten Höhle aufbauen.</string>
   
 <string name="Marked_Location">Markierter Standort</string>
   <string name="usage_X_command">Verwendung: {0} \'Befehl\'</string>
-  <string name="valid_commands_add_remove">Gültige Befehle: Hinzufügen entfernen</string>
+  <string name="valid_commands_add_remove">Gültige Befehle: Hinzufügen Entfernen</string>
   <string name="usage_X_add_name_r_g_b">Verwendung: {0} hinzufügen \'Name\' (\'r\' \'g\' \'b\')</string>
   <string name="added_waypoint_X">Wegpunkt \'{0}\' hinzugefügt</string>
   <string name="usage_X_remove_name">Verwendung: {0} \'Name\' entfernen</string>
@@ -4373,7 +4373,7 @@ Bitte in einer mit Partikeln gefüllten Höhle aufbauen.</string>
   <string name="Mod_Socket_X">Mod Sockel {0}</string>
 
 <string name="Whitelisting_is_currently_X">"Weiße Liste ist derzeit "</string>
-  <string name="valid_commands_on_off_add_remove">Gültige Befehle: an aus hinzufügen entfernen</string>
+  <string name="valid_commands_on_off_add_remove">Gültige Befehle: An Aus Hinzufügen Entfernen</string>
   <string name="whitelist_turned_on">Weiße Liste wurde aktiviert</string>
   <string name="whitelist_turned_off">Weiße Liste wurde deaktiviert</string>
   <string name="usage_whitelist_add_name">Verwendung: Weiße Liste hinzufügen \'Name\'</string>
