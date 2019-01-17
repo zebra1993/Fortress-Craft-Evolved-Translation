@@ -1575,7 +1575,7 @@ Zum Benutzen an einen Lift anschliessen.</string>
     <string name="Induction Charger">Induktionsplatte</string>
     <string name="Induction Charger_DESC">Stellt Energieverteilung in einer 5x5 Umgebung zur Verfügung.</string>
     <string name="Ore Thief">Erzdieb</string><!-- Not optimal-->
-    <string name="Ore Thief_DESC">Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschliessend in angrenzende Container befördert. Wird in einem 3x3 Grundriss gebaut.</string>
+    <string name="Ore Thief_DESC">Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschließend in angrenzende Container befördert. Wird in einem 3x3 Grundriss gebaut.</string>
     <string name="Magma Storage">Magmaspeicher</string>
     <string name="Magma Storage_DESC">Erhält flüssiges Magma von zuständigen Maschinen durch Flüssigkeitsrohre.</string>
     <string name="Cryo Inferno">Cryo Inferno</string><!-- Not optimal-->
@@ -2011,7 +2011,7 @@ Billig und hässlich, dafür verlässlich*
     <string name="Jet Pack_CRAFT_DESC">Nutzt Schubdüsen um Flüge über kurze Distanzen zu ermöglichen. Braucht große Mengen Energie. [J] drücken für De-/Aktivierung.</string>
     <string name="Jet Pack_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
 
-    <string name="Spiderbot Base Component_CRAFT_DESC">Die Plattform wird fähig sein, den Spiderbot zu reparieren, zu verbessern und aufzumunitionieren. Aufbau als 15x15 Platte (225 Blöcke insgesamt).</string>
+    <string name="Spiderbot Base Component_CRAFT_DESC">Die Plattform kann den Spiderbot reparieren, verbessern und aufmunitionieren. Aufbau als 15x15 Platte (225 Blöcke insgesamt).</string>
     <string name="Spiderbot Base Component_CRAFT_HINT">Die Automation der Energiekerne des Spiderbots wird dein Leben massivst vereinfachen!</string>
     <string name="SpiderBot Blaster_CRAFT_DESC">Schnellfeuernde Energiewaffe, jedoch wenig Durchschlagskraft. Ideal für kleine bis mittlere Ziele.</string>
     <string name="SpiderBot Blaster_CRAFT_HINT">Wenn es fertiggestellt ist, lege es in einen Container der angrenzend zu einer Spiderbot Auflade- und Verbesserungsstation steht.</string>
@@ -5013,7 +5013,7 @@ Drücke E zum verlassen
   <string name="SUPER H.E.I.S.T.">Super C.L.I.L.T.</string>
   <string name="SUPER H.E.I.S.T._DESC">Wie der C.L.I.L.T. einfach 16x schneller. Benötigt das Dapper DLC zum herstellen</string>
   <string name="SUPER H.E.I.S.T._CRAFT_HINT">Keine Zeit für Faulheit!</string>
-  <string name="SUPER H.E.I.S.T._CRAFT_DESC">Automatisch entnimmt Gegenstände aus angrenzenden Lager Contianern und übeträgt sie in den Spieler Invetar bis zu 5m entfernt. Sehr schnell! Benötigt das Dapper DLC.</string>
+  <string name="SUPER H.E.I.S.T._CRAFT_DESC">"Entnimmt automatisch Erze aus dem Inventar wenn man auf ihm steht. Die Erze werden anschließend in angrenzende Container befördert. Wird in einem 3x3 Grundriss gebaut.  Sehr schnell! Benötigt das Dapper DLC."</string>
 
   <string name="Attack Scanner">Angriffs scanner</string>
   <string name="Attack Scanner_DESC">Irgendwo offensichtlich platzieren!</string>
