@@ -2885,7 +2885,7 @@ Schönen Tag noch!</string>
     <string name="Magma Caverns">Magma-Höhlen</string>
     <string name="EXTERNAL TEMP">EXTERNE TEMP</string>
     <string name="SUIT INTERNAL TEMP">ANZUG INTERNE TEMP</string>
-    <string name="BATTERY USE RATE">BATTERIE-STAND</string>
+    <string name="BATTERY USE RATE">BATTERIE</string>
     <string name="World Settings">Welteinstellungen</string>
 	
       <string name="Hint_0">Alles was es wert ist zu machen ist es wert zu übertreiben.</string>
@@ -3885,8 +3885,8 @@ Für ausgefallene Statistiken, spiele Survival</string>
   <string name="Find_unknown_materials_using_orescanner_ping_facility">Finden Sie weitere unbekannte Materialien mit der Ping-Funktion des Erz-Scanners.
 Drücken Sie M, um den Erz-Scanner auszuwählen, und dann die linke Maustaste, um einen Material-Ping zu senden.</string>
   <string name="For_more_information_on_the_X_open_the_Handbook">Für weitere Informationen über {0} öffnen Sie das Handbuch (drücken Sie H).</string>
-  <string name="Scans_X">Scannt ({0})</string>
-  <string name="Scans">Scannt</string>
+  <string name="Scans_X">Scans ({0})</string>
+  <string name="Scans">Scans</string>
   <string name="Recipes">Rezept</string>
   <string name="Projects">Projekte</string>
   <string name="Recipes_X">Rezepte ({0})</string>
@@ -4755,12 +4755,12 @@ PTG funktioniert nicht in dieser Tiefe!</string>
   <string name="UI_Power_Delta_X">Energie unterschied: {0}</string>
   <string name="UI_T_Store_Power">(T) um Energie zu lagern</string>
   <string name="UI_Q_Retrive_Power">(Q) um Energie zu entnehmen</string>
-  <string name="UI_Bender_Plant">Biege Maschiene</string>
-  <string name="UI_Pipe_Extruder_desc">Rohr Extrudier Maschiene
-Formt Barren zu Rohren um</string>
-  <string name="UI_Extruder_desc">Extrudier Maschiene
+  <string name="UI_Bender_Plant">Biegemaschine</string>
+  <string name="UI_Pipe_Extruder_desc">Rohr Extrudiermaschine
+Formt Barren zu Röhren um</string>
+  <string name="UI_Extruder_desc">Extrudiermaschine
 Macht Drähte aus Barren</string>
-  <string name="UI_Bender_desc">Biege Maschiene
+  <string name="UI_Bender_desc">Biegemaschine
 Biegt in verschiedene Winkel</string>
   <string name="UI_Stamper_desc">Walzmaschiene
 Nimmt Barren von einem Förderband, walzt sie und gibt die Platten wieder auf einem Förderband ab.</string>
@@ -4839,7 +4839,7 @@ Sehr Schneller Lager Contianer anschluss.</string>
   <string name="UI_Attached_empty_inactive">Angeschlossener Block ist leer - Inaktiv!</string>
   <string name="UI_Attached_no_empty_inactive">Angeschlossener Block ist nicht leer - inaktiv!</string>
   <string name="UI_Attached_no_empty_active">Angeschlossener Block ist nicht leer - Aktiv!</string>
-  <string name="UI_Looking_for_machine">Suche Maschiene</string>
+  <string name="UI_Looking_for_machine">Suche Maschine</string>
   <string name="UI_Error_value_X">Fehlerwert von {0}</string>
   <string name="Basic_Missile_turret">Einfacher Raketenturm</string>
   <string name="Dualshot_turret">Doppelter Raketenturm</string>
@@ -4933,8 +4933,8 @@ Sehr Schneller Lager Contianer anschluss.</string>
   <string name="UI_backward_connected">Rückwärts verbunden</string>
   <string name="UI_fully_connected">Komplett verbunden</string>
   <string name="UI_Timer_X">Zähler: {0}</string>
-  <string name="UI_Old_bugged_machine_in_world">Du hast eine alte, fehlerhafte Maschiene in deiner Welt.
-Ich schlage vor die zermahlst sie und machst eine brandneue. Sorry dafür, DJArcas</string>
+  <string name="UI_Old_bugged_machine_in_world">Du hast eine alte, fehlerhafte Maschine in deiner Welt.
+Ich schlage vor, Du zermahlst sie und machst eine brandneue. Sorry dafür, DJArcas</string>
   <string name="UI_Desires_X_PPS_Current_PPS_X">Benötigt {0}EPS. Momentane EPS: {1}</string>
   <string name="UI_X_X_X_s_left">{0} {1} ({2}s übrig)</string>
   <string name="UI_no_valid_hoppers_found_conveyors_missing_blocked">Keine gültigen Container gefunden (Gesperrt oder voll?)
@@ -5009,7 +5009,7 @@ Drücke E zum verlassen
   <string name="ServoMotor Maker">Servomotor Hersteller</string>
   <string name="ServoMotor Maker_DESC">Stellt einem Motor aus 3 Kupfer Drähten her.</string>
   <string name="ServoMotor Maker_CRAFT_HINT">Viel effizienter als Handarbeit!</string>
-  <string name="ServoMotor Maker_CRAFT_DESC">Eine Maschiene welche die Herstellung von Servomotoran aus Kupferdrähten automatisiert.</string>
+  <string name="ServoMotor Maker_CRAFT_DESC">Eine Maschine, welche die Herstellung von Servomotoran aus Kupferdrähten automatisiert.</string>
   <string name="SUPER H.E.I.S.T.">Super C.L.I.L.T.</string>
   <string name="SUPER H.E.I.S.T._DESC">Wie der C.L.I.L.T. einfach 16x schneller. Benötigt das Dapper DLC zum herstellen</string>
   <string name="SUPER H.E.I.S.T._CRAFT_HINT">Keine Zeit für Faulheit!</string>
@@ -5041,7 +5041,7 @@ Drücke E zum verlassen
   <string name="Intermediate Robotic Sorter_CRAFT_HINT">Ermöglicht gute Bus Systeme.</string>
   <string name="Drag_From_Inventory">(oder zieh vom (I)nventar)</string>
   <string name="ARTHER_Charging">ARTHER ist am aufladen {0}</string>
-  <string name="Ray Gun V1">V1 Strahenwaffe</string>
+  <string name="Ray Gun V1">V1 Strahlenwaffe</string>
   <string name="V1 Ray Guns">V1 Strahlenwaffen</string>
   <string name="Ray Gun V1_CRAFT_DESC">Dies wird dir ermöglichen schwache, wehrlose Kreaturen zu erledigen. Drücke V zum auswählen.</string>
   <string name="Ray Gun V1_CRAFT_HINT">Anzugsbestandteil! Nur 1x benötigt!</string>
