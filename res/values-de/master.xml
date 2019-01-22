@@ -5688,7 +5688,7 @@ Gesamt: {2:N4}m</string>
   <string name="Inferno_eNotBuilt">Suche Cryo Inferno...</string>
   <string name="Inferno_eBuildMe">Baue ein Cryo Inferno!</string>
   <string name="Inferno_eNoGas">Kein Magma mehr!</string>
-  <string name="Inferno_eBlocked">Erzeuger nicht sichtbar?</string>
+  <string name="Inferno_eBlocked">Erzeuger nicht sichtbar!</string>
   <string name="Inferno_eBurning">Dem Cryospawner wird eingeheizt!</string>
   <string name="Inferno_eIdle">Kein Croyspawner in Reichweite.</string>
   <string name="Cryo_Dead_No_DLC">Bitte kaufe das \'Adventures Pack\' um fortzufahren!</string>
@@ -5703,5 +5703,10 @@ Gesamt: {2:N4}m</string>
   <string name="ORG_eWaitingForMass">Warte aus Masse...</string>
   <string name="ORG_eFiring">FEUER!</string>
   <string name="ORG_eLookingToOffload">Versuche abzuladen!</string>
+ 
+<string name="Buy_TAP">Kaufe das Adventures Pack um Weiter zu spielen!</string>
+
+  <string name="Lab_Chosen">Drücke H für Hilfe.</string>
+  <string name="GPS Label">GPS : Offline.</string>
  
 </resources>
