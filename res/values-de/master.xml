@@ -2942,7 +2942,7 @@ Schönen Tag noch!</string>
   <string name="Hint_50">Schnee lässt Sie langsam gehen, verstärkte Blöcke um schneller laufen zu können.</string>
   <string name="Hint_51">Alles erledigt und nach mehr gesucht? Sieh dir die vom User erstellten Mods im Steam Workshop an!</string>
   <string name="Hint_52">Vergiss nicht, ARTHER zu aktualisieren!</string>
-  <string name="Hint_53">Induktionseinheit beschleunigt Erzschmelzen!</string>
+  <string name="Hint_53">Die Induktionseinheit beschleunigt Erzschmelzen!</string>
   <string name="Hint_54">Pyrothermische Generatoren sind weniger effizient, je tiefer sie gehen.</string>
   <string name="Hint_55">Umarmen Sie nicht die Overminds.</string>
   <string name="Hint_56">Camobots greiffen verschiedene Energiebetreieben Maschienen an. Hab ein Auge und Ohren offen.</string>
@@ -3554,7 +3554,7 @@ Einige Archive wurden noch nicht komprimiert, aber dies kann ohne Verlust übers
 <string name="Experiment">das Experiment</string>
 <string name="Player_just_started_the">Ich habe gerade angefangen</string>
 <string name="Project">Projekt</string>
-<string name="Collected_research_for_additional">Gesammelte Forschung für ein zusätzliches</string>
+<string name="Collected_research_for_additional">Forschung gesammelt für zusätzliche</string>
 <string name="Player_just_collected_the">Ich habe gerade gesammelt</string>
 
 <string name="Wait_for_full_Battery">Auf volle Speicher warten</string>
@@ -4816,7 +4816,7 @@ Sehr Schneller Lager Contianer anschluss.</string>
   <string name="UI_No_Location_Marker_installed">Keine Positionsmarkierung eingesetzt</string>
   <string name="UI_Location_marker_no_location">Positionsmarkierer enthält keine Positionsdaten</string>
   <string name="UI_Target_X_m_away">Ziel ist {0}m entfernt</string>
-  <string name="UI_Stand_Teleporter_Jump_activate">Steh auf den Teleporter und Spring um ihn zu aktivieren</string>
+  <string name="UI_Stand_Teleporter_Jump_activate">Stehe auf den Teleporter und springe um ihn zu aktivieren</string>
   <string name="UI_T_Minus_X">T -{0}s</string>
   <string name="UI_FlightTime_X">Flugzeit: {0}s</string>
   <string name="UI_Q_Selfdestruct">Q für Selbstzerstörung.</string>
@@ -5631,7 +5631,7 @@ Gesamt: {2:N4}m</string>
   <string name="Connect_to_freight_provider">An Frachtversorger anschliessen</string>
   <string name="Connect_Station_to_Mass_Storage">Station mit Massenlager verbinden</string>
   <string name="Last_Network">Vorheriges Netzwerk</string>
-  <string name="All_Inventory">Totaler Inventar</string>
+  <string name="All_Inventory">Ganzes Inventar</string>
   <string name="Select_Network">Neztwerk auswählen</string>
   <string name="Transport_Grid">Transport Netz</string>
   <string name="View_Inventory">Inventar anzeigen</string>
@@ -5709,4 +5709,11 @@ Gesamt: {2:N4}m</string>
   <string name="Lab_Chosen">Drücke H für Hilfe.</string>
   <string name="GPS Label">GPS : Offline.</string>
  
-</resources>
+<string name="ReadyForFiring">Feuerbereit.</string>
+
+  <string name="Gold Foil">Goldfolie</string>
+  <string name="Gold Foil Crafter_DESC">Mach aus 5 Golddrähten eine Goldfolie.</string>
+  <string name="Gold Foil Crafter_CRAFT_DESC">Eine Maschine, die automatisch aus Golddrähten Goldfolie macht.</string>
+  <string name="Gold Foil Crafter_CRAFT_HINT">Denke nicht zu viel darüber nach.</string>
+  
+  </resources>
