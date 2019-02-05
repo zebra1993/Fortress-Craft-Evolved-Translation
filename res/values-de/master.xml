@@ -5716,4 +5716,94 @@ Gesamt: {2:N4}m</string>
   <string name="Gold Foil Crafter_CRAFT_DESC">Eine Maschine, die automatisch aus Golddrähten Goldfolie macht.</string>
   <string name="Gold Foil Crafter_CRAFT_HINT">Denke nicht zu viel darüber nach.</string>
   
-  </resources>
+  <string name="Kill_Cryo">Elemeniere alle Cryo-Spawner.</string>
+  <string name="Build_ORG">Baue Orbital Railgun, um den GPS-Satelliten zu starten.</string>
+  <string name="Lab_Choose">Wähle ein Experiment!</string>
+  <string name="Basic Conveyor(Clockwise)">Basis Förderband (Zeitweise)</string>
+  <string name="Basic Conveyor(Clockwise)_DESC">Das gleiche wie bei Basisförderband, nur schöner.</string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_DESC">Bauen Sie einen gerades Basisförderband in eine Gebogenes.</string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_HINT">Anfällig für extreme Kälte!</string>
+  
+  <string name="Basic Conveyor(CounterClockwise)">Basisförderband (Gegen den Uhrzeigersinn)</string>
+  <string name="Basic Conveyor(CounterClockwise)_DESC">Das gleiche wie Basisförderbänder, nur schöner.</string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_DESC">Bauen ein gerades Basisförderband in ein Eckförderband.</string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_HINT">Anfällig für extreme Kälte!</string>
+  
+  <string name="Conveyor(Clockwise)">Förderband (im Uhrzeigersinn)</string>
+  <string name="Conveyor(Clockwise)_DESC">Das gleiche wie Basisförderbänder, nur schöner.</string>
+  <string name="Conveyor(Clockwise)_CRAFT_DESC">Bau ein gerades Förderband in ein Eckförderband.</string>
+  <string name="Conveyor(Clockwise)_CRAFT_HINT">Anfällig für extreme Kälte!</string>
+  
+  <string name="Conveyor(CounterClockwise)">Förderband (Gegen Uhrzeigersinn)</string>
+  <string name="Conveyor(CounterClockwise)_DESC">Das gleiche wie die Basisförderbänder, nur schöner.</string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_DESC">Baue ein gerades Förderband in ein Eckförderband.</string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_HINT">Anfällig für extreme Kälte!</string>
+  
+  <string name="Chevron Danger">Chevron-Gefahr</string>
+  <string name="Chevron Danger_DESC">Chevron-Gefahr</string>
+  <string name="Chevron Danger_CRAFT_DESC">Damit kennzeichnen Sie gefährliche Bereiche.</string>
+  <string name="Chevron Danger_CRAFT_HINT">Achtung: Verbraucht 1 Konstruktionspaste!</string>
+  
+  <string name="Rainbow Anti-Grav Lift">Regenbogen-Anti-Gravitationslift</string>
+  <string name="Rainbow Anti-Grav Lift_DESC">Und hoch gehts du!</string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_DESC">Langsamer und effizenter Vertikaltransport. Stell dich rein und Drücke Leertaste.</string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_HINT">Benötigt das Dapper DLC-Paket!</string>
+  
+  <string name="Techno Anti-Grav Lift">Techno Anti-Gravitationslift</string>
+  <string name="Techno Anti-Grav Lift_DESC">Und hoch gehts!</string>
+  <string name="Techno Anti-Grav Lift_CRAFT_DESC">Langsamer und effizenter Vertikaltransport. Stell dich rein und Drücke Leertaste.</string>
+  <string name="Techno Anti-Grav Lift_CRAFT_HINT">Benötigt das Frozen Factory DLC Packet!</string>
+  
+  <string name="Predator Anti-Grav Lift">Predator Anti-Gravizationslift</string>
+  <string name="Predator Anti-Grav Lift_DESC">Und auf gehts!</string>
+  <string name="Predator Anti-Grav Lift_CRAFT_DESC">Langsamer und effizenter Vertikaltransport. Stell dich rein und Drücke Leertaste.</string>
+  <string name="Predator Anti-Grav Lift_CRAFT_HINT">Benötigt das Adventures DLC Packet!</string>
+  
+  <string name="Basic Conveyor Crafter">Basisförderband Herstellungsmaschine</string>
+  <string name="Basic Conveyor Crafter_DESC">Verwandelt 1 Kupferbarren in 15 Basisförderbänder.</string>
+  <string name="Basic Conveyor Crafter_CRAFT_DESC">Stempelmaschine zur automatischen Umwandlung von Barren in Platten. Benötigt keine externe Stromversorgung.</string>
+  <string name="Basic Conveyor Crafter_CRAFT_HINT">Ein nützlicher Start beim Automatisieren</string>
+  
+  <string name="Conveyor Crafter">Förderband Herstellungsmaschine</string>
+  <string name="Conveyor Crafter_DESC">Verbessere Basisförderbänder in schnellere Förderbänder mit Zinnplatten und Kupferdraht.</string>
+  <string name="Conveyor Crafter_CRAFT_DESC">Fördermaschine zum automatischen verbessern von Basisförderbänder zu schnelleren Förderbändern. Dies ist am besten mit 3x Lagercontainer für die Eingabe und 1x Förderband für die Ausgabe.</string>
+  <string name="Conveyor Crafter_CRAFT_HINT">Automatisierte Herstellung ist effizienter als Handarbeit.</string>
+  
+  <string name="ScrapTrack Crafter">Schrottbahn Schienen Herstellungsmaschine</string>
+  <string name="ScrapTrack Crafter_DESC">Baut billig, aber langsam Schrottschienen.</string>
+  <string name="ScrapTrack Crafter_CRAFT_DESC">Fertigt gerade Schrottschinen</string>
+  <string name="ScrapTrack Crafter_CRAFT_HINT">Schrottschinen Herstellungsmaschine</string>
+  
+  <string name="Minecart Track Crafter_DESC">Verbessere Schrottbahnschinen in schnellere Minecart-Trails.</string>
+  <string name="Gold Foil_DESC">Abgeflachtes Golddrahtstück</string>
+  <string name="Gold Foil_CRAFT_DESC">Abgeflachtes Golddrahtstück</string>
+  <string name="Gold Foil_CRAFT_HINT">Abgeflachtes Golddrahtstück</string>
+  
+  <string name="Gold Foil Crafter">Goldfolien Herstellungsmaschine</string>
+  <string name="Titanium Housing Crafter">Titangehäuse Herstellungsmaschine</string>
+  <string name="Titanium Housing Crafter_DESC">Verarbeite 6 Platten zu einem Maschinengehäuse.</string>
+  <string name="Titanium Housing Crafter_CRAFT_DESC">Eine Maschine, die das automatische Herstellen von Titanplatten in Titanmaschinengehäuse unterstützt.</string>
+  <string name="Titanium Housing Crafter_CRAFT_HINT">Viel effizienter als von Hand!</string>
+  
+  <string name="Suit Beacon">Anzuglampe</string>
+  <string name="Suit Beacon_DESC">Markiert den Ort Ihrer Leiche</string>
+  <string name="Suit Beacon_CRAFT_DESC">Ganz offensichtlich, wenn man sie fallen lässt. Entwickelt für Pfadfinder im ungeschickten Modus.</string>
+  <string name="Bulk Gas Freighter_DESC">Kleine Tanklagerung auf Rädern</string>
+  <string name="Bulk Gas Freighter_CRAFT_DESC">Schneller Güterwagen mit 500 Gaskapazitäten.</string>
+  <string name="Bulk Gas Freighter_CRAFT_HINT">Kann nur eine Gasart gleichzeitig transportieren.</string>
+  
+  <string name="PrecisionAlloyed MachineBlock Assembler">Präzisionslegierter Maschinenblockhersteller</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_DESC">Verwendet eine alternative Methode zum Erstellen von legierten Maschinenblöcken, die für bestimmte Grundeinstellungen hilfreich sind.</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_DESC">Fertigt legierte Blöcke aus T2-Handwerksmaterialien.</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_HINT">Diese werden häufig verwendet und es wird dringend empfohlen, diese zu automatisieren!</string>
+
+  <string name="MISSION_Title_Superbuild">Linke-STRG-Taste: Superbau</string>
+  <string name="MISSION_Text_Superbuild">Mit der Baukannone können Sie gerade Maschinenläufe erstellen.
+Diese Technik erleichtert das Anschließen Ihrer Basis über Förderbänder.
+Ein Super-Bau eines Förderbandes, der einen vorhandenes Förderband berührt, kopiert seine Vorwärtsrichtung.
+Wenn Sie nicht weiterkommen, besuchen Sie das Video-Tutorial zu SuperBau erneut!</string>
+  <string name="SuperBuild_x_more_Blocks">SuperBau mindestens {0} weitere Blöcke.</string>
+  
+  <string name="Basic Manufacturing Plant_CRAFT_DESC">Grundfertigungsanlagen ermöglichen automatisierte Fertigung zur Fertigstellung einer Fertigungslinie.</string>
+  <string name="Basic Manufacturing Plant_CRAFT_HINT">Unterstützt kein manuelles Herstellen.</string>
+</resources>
