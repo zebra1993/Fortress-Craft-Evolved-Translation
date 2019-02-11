@@ -40,14 +40,14 @@
     <string name="Version">版本</string>
     <string name="Lock">锁定</string>
     <string name="Status">状态</string>
-    <string name="Workshop">工坊</string>
+    <string name="Workshop">创意工坊</string>
 
     <string name="Update_Pending">等待更新</string>
     <string name="Workshop_Mod">工坊 Mod</string>
     <string name="Downloading">下载中</string>
 
-    <string name="On">打开</string>
-    <string name="Off">关闭</string>
+    <string name="On">开</string>
+    <string name="Off">关</string>
     <string name="Locked">已锁定</string>
 
     <string name="Plentiful">富足</string>
@@ -63,11 +63,11 @@
     <string name="Eternal Night">永远黑夜</string>
 
     <string name="Trivial Mobs">低级野怪</string>
-    <string name="Normal Mobs">通常, 野生的奥秘</string>
+    <string name="Normal Mobs">普通野怪</string>
     <string name="Hard Mobs">高级野怪</string>
 
     <string name="None">无</string>
-    <string name="Iron Man">铁人</string>
+    <string name="Iron Man">铁人模式</string>
     <string name="Survival">生存</string>
     <string name="Creative">创造</string>
 
@@ -121,9 +121,9 @@
 
     <string name="Needs_FF">需要冰封工厂扩展包。</string>
 
-    <string name="Clumsy">弱</string>
-    <string name="SquishCore">孤狼</string>
-    <string name="Hardcore">骨灰级</string>
+    <string name="Clumsy">菜鸡模式</string>
+    <string name="SquishCore">硬核模式</string>
+    <string name="Hardcore">最强模式</string>
 
     <string name="Rushmode_Locked">速通模式会在你完成轨道能量传输器充能后解锁。</string>
     <string name="Rushmode_Disabled">速通模式已禁用。</string>
@@ -3074,12 +3074,12 @@
 <string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">未完成。
 无限的热量和光照。
 将会被取代！</string>
-<string name="in_inventory">在库存</string>
+<string name="in_inventory">于库存中</string>
 
 
-<string name="ConstructoBot Coppator Chassis">构造校对机器人的底盘</string>
-<string name="ConstructoBot Coppator Arm">构造校对机器人的手臂</string>
-<string name="ConstructoBot Coppator Leg">构造校对机器人的大腿</string>
+<string name="ConstructoBot Coppator Chassis">铜制建造机器人底盘</string>
+<string name="ConstructoBot Coppator Arm">铜制建造机器人手臂</string>
+<string name="ConstructoBot Coppator Leg">铜制建造机器人腿</string>
 <string name="ConstructoBot Ultron Chassis">构造超能机器人的底盘</string>
 <string name="ConstructoBot Cromize Chassis">建造机器人自定义底盘</string>
 <string name="ConstructoBot Stenforcer Chassis">建造机器人底盘</string>
@@ -3118,7 +3118,7 @@
 <string name="Lift_stuck_below_depth_Check_blockages">提升卡在矿井深度以下。检查堵塞。</string>
 <string name="Waiting_for_Rack_Rail">等待机架轨道中</string>
 <string name="Unknown_State">未知状态</string>
-<string name="Operating_Lift">工作电梯</string>
+<string name="Operating_Lift">电梯运作中</string>
 <string name="Controller_no_Rack_Rail_place">控制器无机架轨道可布置</string>
 <string name="Check_Depth">检查深度</string>
 
@@ -3460,7 +3460,7 @@
 <string name="Storage_used">已使用的储量</string>
   
 <string name="MS_Crate">海量存储箱</string>
-<string name="center_block">中心方块</string>
+<string name="center_block">核心方块</string>
 <string name="Stored">已存储</string>
 <string name="Removed">移除</string>
 <string name="Connected_DELETED_BLOCK">连接到被删除方块</string>
@@ -4142,8 +4142,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Drill_cannot_be_deployed_due_to_obstruction_of_X">由于阻塞，钻不能展开</string>
   <string name="Looking_for_linked_centre">寻找链接中心......</string>
   <string name="PPS_Delta_X">PPS Delta：{0}</string>
-  <string name="X_m_power_still_required_X">{0}m power still required
-{1}</string>
+  <string name="X_m_power_still_required_X">还需 {0}m 能量。</string>
   <string name="Drilling_at_depth_X">钻探深度{0} m</string>
   <string name="Retriving_Drill_at_depth_X">Retriving Drill （at depth {0}m）</string>
   <string name="Offloading_to_Magma_Storage_Unit">卸载到Magma存储单元</string>
@@ -4159,8 +4158,9 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Particulate_Compressor">颗粒压缩机</string>
   <string name="Compressing_X_using_X_PPS">使用{1} PPS压缩：{0}</string>
   <string name="Collecting">收集...</string>
-  <string name="Nothing_to_compress_attach_Particle_Filter">无需压缩。
-请附上粒子滤波器。</string>
+  <string name="Nothing_to_compress_attach_Particle_Filter">无可压缩物体。
+
+请连接颗粒过滤器。</string>
   <string name="X_ready_to_compress">{0}准备压缩。</string>
   <string name="Need_X_more_to_begin">需要{0}开始。</string>
   <string name="Storing_X_stored">存储{0}存储。</string>
@@ -4173,6 +4173,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="POWER_LOW">POWER LOW!</string>
   <string name="Filtering_using_X_PPS">使用{0} PPS过滤</string>
   <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">无法找到颗粒物。
+
 请放在充满颗粒的洞穴中。</string>
   <string name="X_stored">已存储{0}。</string>
   <string name="Connected_to_Particulate_Compressor">连接到微粒压缩机。</string>
@@ -4190,7 +4191,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="No_linked_centre_found">找不到链接中心！</string>
   <string name="Orbital_RailGun_Link">轨道磁轨炮连接</string>
   <string name="Temperature_X">温度{0}°C</string>
-  <string name="Liquified_Resin_Needed_X">液化树脂需要{0}</string>
+  <string name="Liquified_Resin_Needed_X">需要 {0} 液化树脂</string>
   
 <string name="Power_Cost">电费：</string>
   <string name="No_Marker">没有标记</string>
@@ -5273,4 +5274,5 @@ PTG无法发挥这个功能！</string>
   <string name="Emergency Strobe Light">应急闪光灯</string>
   
   <string name="DP_Run">emmm...运行?</string>
+  <string name="X_Clip_of_X">挂载：{0} / {1}</string>
   </resources>
