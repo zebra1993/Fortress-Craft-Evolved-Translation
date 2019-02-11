@@ -4325,13 +4325,13 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="RoomLight #8_DESC">#8 房间灯。可变色！</string>
   
   <string name="RoomLight #1_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #2_CRAFT_DESC">Paintable light that only works in Rooms.</string>
-  <string name="RoomLight #3_CRAFT_DESC">Paintable light that only works in Rooms.</string>
-  <string name="RoomLight #4_CRAFT_DESC">Paintable light that only works in Rooms.</string>
-  <string name="RoomLight #5_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #2_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #3_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #4_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #5_CRAFT_DESC">只在室内工作的彩灯</string>
   <string name="RoomLight #6_CRAFT_DESC">此房间灯将提醒您静音CPH攻击。</string>
-  <string name="RoomLight #7_CRAFT_DESC">Paintable light that only works in Rooms.</string>
-  <string name="RoomLight #8_CRAFT_DESC">Paintable light that only works in Rooms.</string>
+  <string name="RoomLight #7_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #8_CRAFT_DESC">只在室内工作的彩灯</string>
 
   <string name="RoomLight #1_CRAFT_HINT">使用粘贴 - 如果你把它挖掉，你会丢失粘贴，所以要小心放置！</string>
   <string name="RoomLight #2_CRAFT_HINT">需要Dapper DLC Pack</string>
