@@ -4463,8 +4463,9 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 	<string name="Priority Splitter_CRAFT_HINT">直接连接到传送带或料斗。只有双方都有输出才能正常工作。</string>	
 	
 	<string name="HerbiCor">食草装置</string>
-	<string name="HerbiCor_DESC">收集附近的室外未收获的植物并将其返还。
-需要附加储料斗。</string>
+	<string name="HerbiCor_DESC">收集室外附近未收获的植物并将其返还。
+
+需要连接储料斗。</string>
 	<string name="HerbiCor_CRAFT_DESC">收集附近的室外未收获的植物并将其返还。需要连接储料斗。</string>
 	<string name="HerbiCor_CRAFT_HINT">帧率也很好！</string>	
 	
