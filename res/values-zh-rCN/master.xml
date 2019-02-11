@@ -4396,7 +4396,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 	<string name="Alloyed Space Window_CRAFT_HINT">使用粘贴 - 如果你把它挖掉，你会丢失粘贴，所以要小心放置！</string>
 	
 	<string name="Room Ventilation Grille">室内通风格栅</string>
-	<string name="Room Ventilation Grille_DESC">让空气通过</string>
+	<string name="Room Ventilation Grille_DESC">保持空气流通</string>
 	<string name="Room Ventilation Grille_CRAFT_DESC">未来的机器 - 使用它来提高您的房间的清洁等级，达到洁净室名称的要求。</string>
 	<string name="Room Ventilation Grille_CRAFT_HINT">DON\'T BOTHER BUILDING THIS YET!</string>
 	
@@ -5275,5 +5275,6 @@ PTG无法发挥这个功能！</string>
   
   <string name="DP_Run">emmm...运行?</string>
   <string name="X_Clip_of_X">挂载：{0} / {1}</string>
-  <string name="AirLock_Inner">这是一个错误，找到并解决问题</string>
+  <string name="AirLock_Inner">这是一个错误，找到它并解决它</string>
+  <string name="AirLock_Outer">这是一个错误，找到它并解决它</string>
   </resources>
