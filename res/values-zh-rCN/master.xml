@@ -4537,7 +4537,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="UI_Lowend_Computer">检测到低端电脑！</string>
   <string name="UI_Low_CPU_Count">仅检测到2个逻辑/物理CPU。您的PC达到或低于FortressCraft的最低要求，并且您可能会遇到一些视觉或性能问题。多线程能见度已被禁用。</string>
   <string name="UI_FCE_detected_internal_GFXcard_X_use_betterone">FortressCraft检测到您正在运行{0} - 如果您使用的是游戏笔记本，请使用高性能显卡！如果这是您唯一的显卡，那么您可能会遇到一些视觉或性能问题。</string>
-  <string name="UI_Fastest_selected">最低细节模式已选择！</string>
+  <string name="UI_Fastest_selected">已选择最低细节模式！</string>
   <string name="UI_FCE_Fastest_Settings">FortressCraft已检测到您正在使用最快运行速度模式。此详细设置仅适用于内存吃紧的低规格计算机，并且不建议用于正常游戏。你会遇上穿模，低质量模型和模糊的纹理等情况。</string>
   <string name="UI_Lox_Texture_Detail_selected">低质量贴图细节已选择！</string>
   <string name="UI_FCE_LowDetail_Detected">FortressCraft已检测到您正在使用低纹理细节。 此详细设置仅适用于内存紧张的低内存计算机。 它不会提高性能或FPS，也不建议用于正常的游戏。 您将体验到模糊的纹理。</string>
