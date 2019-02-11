@@ -4470,7 +4470,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 	<string name="HerbiCor_CRAFT_HINT">帧率也很好！</string>	
 	
 	<string name="Generic Room Controller">通用房间控制器</string>
-	<string name="Generic Room Controller_DESC">发送所有传入的项目，除非被阻止，然后向左。</string>
+	<string name="Generic Room Controller_DESC">创造一个房间，它会给你关于这个房间的信息。</string>
 	<string name="Generic Room Controller_CRAFT_DESC">放在房间里，按照说明操作。</string>
 	<string name="Generic Room Controller_CRAFT_HINT">在地板上构建它。一旦你做了，说明就在左下角！</string>	
 
