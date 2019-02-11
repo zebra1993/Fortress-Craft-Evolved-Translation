@@ -4306,14 +4306,14 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Base_Production_NoData">等待网络数据......</string>
   <string name="Base_Production_NoFilter">#NoFilter</string>
 
-  <string name="RoomLight #1">房间灯 #1. 可变色！</string>
-  <string name="RoomLight #2">房间灯 #2. 适于绘画！</string>
-  <string name="RoomLight #3">房间灯 #3. 适于绘画！</string>
-  <string name="RoomLight #4">房间灯 #4. 适于绘画！</string>
-  <string name="RoomLight #5">房间灯 #5. 适于绘画！</string>
-  <string name="RoomLight #6">房间灯 #6. 适于绘画！</string>
-  <string name="RoomLight #7">房间灯 #7. 适于绘画！</string>
-  <string name="RoomLight #8">房间灯 #8. 适于绘画！</string>
+  <string name="RoomLight #1">室内灯 #1. 可变色！</string>
+  <string name="RoomLight #2">室内灯 #2. 可变色！</string>
+  <string name="RoomLight #3">室内灯 #3. 可变色！</string>
+  <string name="RoomLight #4">室内灯 #4. 可变色！</string>
+  <string name="RoomLight #5">室内灯 #5. 可变色！</string>
+  <string name="RoomLight #6">室内灯 #6. 可变色！</string>
+  <string name="RoomLight #7">室内灯 #7. 可变色！</string>
+  <string name="RoomLight #8">室内灯 #8. 可变色！</string>
 
   <string name="RoomLight #1_DESC">#1 房间灯。适于绘画！</string>
   <string name="RoomLight #2_DESC">#2 房间灯。适于绘画！</string>
