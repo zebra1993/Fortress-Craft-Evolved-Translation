@@ -194,8 +194,8 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Nickel Bars">Nickelbarren</string>
     <string name="Titanium Bar">Titanbarren</string>
     <string name="Titanium Bars">Titanbarren</string>
-    <string name="Plastic Pellet">Plastikpelet</string>
-    <string name="Plastic Pellets">Plastikpeletts</string>
+    <string name="Plastic Pellet">Plastikkugel</string>
+    <string name="Plastic Pellets">Plastikkugeln</string>
     <string name="High Energy Composite Fuel">Hochenergetischer Verbundtreibstoff</string> <!-- Oder Kerosin? -->
     <string name="Empty Metal Tube">Leeres Metallrohr</string>
     <string name="Empty Metal Tubes">Leere Metallrohre</string>
@@ -223,7 +223,7 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Large Minecarts">Grosse Loren</string>
     <string name="Bulk Minecart">Riesige Lore</string><!-- Schüttgut ist irgendwie kontextlos, also nicht im Verhältnis zu den anderen kleineren -->
     <string name="Bulk Minecarts">Riesige Loren</string>
-    <string name="Tour Cart">Besichtigunslore</string><!-- Need to revisit that, sounds not optimal -->
+    <string name="Tour Cart">Besichtigungslore</string><!-- Need to revisit that, sounds not optimal -->
     <string name="Tour Carts">Besichtigunsloren</string>
     <string name="Copper Wire">Kupferdraht</string>
     <string name="Copper Wires">Kupferdrähte</string>
@@ -254,8 +254,8 @@ Die Bedrohung deiner Basis wird sich aufgrund verringerter Spawnraten der Schwar
     <string name="Chargeable Explosive">Aufladbarer Sprengsatz</string>
     <string name="Chargeable Explosives">Aufladbare Sprengsätze</string>
     <!-- Ping -->
-    <string name="Blank Ore Ping">Erzping</string>
-    <string name="Blank Ore Pings">Erz Anpinger</string><!-- Pinge or Pings, what sounds better? -->
+    <string name="Blank Ore Ping">Erzpinger</string>
+    <string name="Blank Ore Pings">Erz Pinger</string><!-- Pinge or Pings, what sounds better? -->
     <string name="Coal Ping">Kohleping</string>
     <string name="Coal Pings">Kohlepinge</string>
     <string name="Iron Ore Ping">Eisenping</string>
@@ -5214,7 +5214,7 @@ Schmelze funktioniert nicht in dieser Tiefe!</string>
   <string name="HIDE HOST ADDRESS">Server Adresse verbergen</string>
   <string name="HOST ADDRESS">Server Adresse</string>
   <string name="PLAYERS">Spieler</string>
-  <string name="PING">Lantenz</string>
+  <string name="PING">Latenz</string>
   
   <string name="Biomass Ping">Biomasseping</string>
   <string name="Biomass Pings">Biomassepinge</string>
