@@ -4,7 +4,7 @@
 <resources>
     <string name="Partial_Language_Support">Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf English!</string>
     <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
-    <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
+    <string name="Language_Name">Englisch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
     <string name="Frozen_Factory">Frozen Factory</string>
     <string name="Dapper_Pack">Dapper Pack</string>
