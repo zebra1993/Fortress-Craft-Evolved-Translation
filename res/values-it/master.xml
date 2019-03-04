@@ -1691,4 +1691,19 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="Large Rocks">Rocce Larghe</string>
   <string name="Large Rocks_DESC">Larga superficie di rocce contenenti tracce di minerali.</string>
   <string name="Workshop Placement">Posizionamento del Workshop</string>
+  <string name="Workshop Placement_DESC">Disponi in coppie diagonali
+Crea nel workshop blocchi dettagliati
+Dimensioni da 2x2x2 a 8x8x8</string>
+  <string name="Solar Panel_CRAFT_DESC">Il pannello solare raccoglie una modesta quantità di energia dalla luce naturale durante il giorno per alimentare le macchine vicine.
+Richiede il cielo libero.</string>							 
+  <string name="Solar Panel_CRAFT_HINT">Ottimo per rifornire dispositivi a bassa potenza</string>
+  <string name="Organic Solar Panel_CRAFT_DESC">Il pannello solare raccoglie una modesta quantità di energia dalla luce naturale durante il giorno per alimentare le macchine vicine.
+Richiede il cielo libero.</string>
+  <string name="Organic Solar Panel_CRAFT_HINT">Richiede il cielo libero!</string>
+  <string name="MK2 Solar Panel Component_CRAFT_DESC">Raccoglie una quantità media di energia durante il giorno. Può essere posizionato solo in una configurazione 3x3 piatta in cima al laboratorio di ricerca, alla raffineria o alle grandi unità di stoccaggio dell\'energia.</string>
+  <string name="MK2 Solar Panel Component_CRAFT_HINT">Puo essere posizionato solo sul Laboratorio di Ricerca, Raffinerie e grandi Batterie!</string>
+  <string name="MK2 Organic Solar Component_CRAFT_DESC">Raccoglie una quantità media di energia durante il giorno e una minima quantità di notte. Questo ha le stesse restrizioni di posizionamento della versione normale.</string>
+  <string name="MK2 Organic Solar Component_CRAFT_HINT">Puo essere posizionato solo sul Laboratorio di Ricerca, Raffinerie e grandi Batterie!</string>
+  <string name="Pyrothermic Generator_CRAFT_DESC">Brucia le risorse nella Tramogia vicina e fornisce energia alle macchine adiacenti. Perde efficienza in profondità a causa della ventilazione. Usa un Laser di Trasferimento di Energia per mandare energia in profondità.</string>
+  <string name="Pyrothermic Generator_CRAFT_HINT">Deve essere collegato a una Tramoggia</string>
   </resources>
