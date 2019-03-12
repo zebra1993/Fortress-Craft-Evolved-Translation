@@ -5643,4 +5643,9 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="HIDE HOST ADDRESS">CACHER L\"ADRESSE DU SERVEUR</string>
   <string name="HOST ADDRESS">ADRESSE DU SERVEUR</string>
   <string name="PLAYERS">JOUEURS</string>
+  <string name="PING">Ping</string>
+  
+  <string name="Biomass Ping">Ping de matière organique</string>
+  <string name="Biomass Pings">Ping de matière organique</string>
+  <string name="Charged Experimental Pod">"Capsules Expérimentale Chargé "</string>
   </resources>
