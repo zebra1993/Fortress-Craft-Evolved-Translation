@@ -1486,7 +1486,7 @@ SquishCore est simple; Vous mourrez, Vous restez mort</string>
     <string name="Ore Thief">Voleur de Minerai</string>
     <string name="Ore Thief_DESC">Non pertinent.</string>
     <string name="Magma Storage">Stockage de Magma</string>
-    <string name="Magma Storage_DESC">Reçoit du Magma Liquide venant des machines appropriées via des conduits.</string>
+    <string name="Magma Storage_DESC">Reçoit du Magma venant des machines appropriées via des conduits.</string>
     <string name="Cryo Inferno">Cryo Infernal</string>
     <string name="Cryo Inferno_DESC">La solution ultime pour les Creep. À besoin d\'une ligne de vue jusqu\'au Spawner de Creep.</string>
     <string name="Garbage Thief">Voleur de Déchets</string>
@@ -1524,7 +1524,8 @@ SquishCore est simple; Vous mourrez, Vous restez mort</string>
     <string name="Construction Paste">Colle de Construction</string>
     <string name="Construction Paste_DESC"/>
     <string name="FALCOR MK1">FALCOR MK1</string>
-    <string name="FALCOR MK1_DESC">Collecte le butin des balises FALCOR.\\nÀ besoin d’être attaché à une Trémie de Stockage.</string>
+    <string name="FALCOR MK1_DESC">Collecte le butin des balises FALCOR.
+À besoin d’être attaché à une trèmis de Stockage.</string>
     <string name="Logistics FALCOR">FALCOR logistique</string>
     <string name="Logistics FALCOR_DESC">Collecte le butin des balises FALCOR attaché à une Trémie de Stockage éloignée.\\nÀ besoin d’être attaché à une Trémie de Stockage.</string>
     <string name="FALCOR Beacon">Balise pour FALCOR</string>
@@ -5654,4 +5655,7 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="Charged Lithium Coils">Bobine de Lithium Chargée</string>
   <string name="Basic Manufacturing Plant_CRAFT_HINT">Ne prend pas en charge la fabrication manuelle.</string>
 <string name="Lithium Coil Charger">Bobine de Lithium Charger</string>
+  <string name="Lithium Coil Charger_DESC">Imbues 5x batteries au lithium avec 100 énergies. Utilisez pour avoir le pouvoir SpiderBot, ainsi que des objets d\'artisanat.</string>
+  <string name="Fuel Compressor">Compresseur de carburant</string>
+  <string name="Fuel Compressor_DESC">Compresse les particules de carbone avec le carburant composite à haute énergie pour générer une source de carburant extrêmement volatile et riche en énergie.</string>
   </resources>
