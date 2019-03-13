@@ -1527,7 +1527,8 @@ SquishCore est simple; Vous mourrez, Vous restez mort</string>
     <string name="FALCOR MK1_DESC">Collecte le butin des balises FALCOR.
 À besoin d’être attaché à une trèmis de Stockage.</string>
     <string name="Logistics FALCOR">FALCOR logistique</string>
-    <string name="Logistics FALCOR_DESC">Collecte le butin des balises FALCOR attaché à une Trémie de Stockage éloignée.\\nÀ besoin d’être attaché à une Trémie de Stockage.</string>
+    <string name="Logistics FALCOR_DESC">Collecte le butin des balises FALCOR attaché à une Trémie de Stockage éloignée.
+À besoin d’être attaché à une Trémie de Stockage.</string>
     <string name="FALCOR Beacon">Balise pour FALCOR</string>
     <string name="FALCOR Beacon_DESC"/>
     <string name="SpiderBotBase">Base de SpiderBot</string>
@@ -5658,4 +5659,7 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="Lithium Coil Charger_DESC">Imbues 5x batteries au lithium avec 100 énergies. Utilisez pour avoir le pouvoir SpiderBot, ainsi que des objets d\'artisanat.</string>
   <string name="Fuel Compressor">Compresseur de carburant</string>
   <string name="Fuel Compressor_DESC">Compresse les particules de carbone avec le carburant composite à haute énergie pour générer une source de carburant extrêmement volatile et riche en énergie.</string>
+  <string name="Choose_filter">Choisissez le filtre d\'item</string>
+  <string name="Never Visible">Jamais visible</string>
+  <string name="Never Visible_DESC">Tu ne devrais jamais voir ça. Si vous pouvez voir cela, alors c\'est un bug</string>
   </resources>
