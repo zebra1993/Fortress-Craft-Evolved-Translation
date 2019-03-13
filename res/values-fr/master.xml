@@ -17,7 +17,7 @@
     <string name="Create_World">Création d\'un Monde</string>
     <string name="Spacebar">Barre d\'Espace</string>
     <!-- World Creation Menu -->
-    <string name="Resource_Level">Difficulté des Ressources</string>
+    <string name="Resource_Level">Niveau des Ressources</string>
     <string name="Power_Level">Difficulté de l\'Énergie</string>
     <string name="Conveyor_Speed">Vitesse des Convoyeurs</string>
     <string name="Day_Night_Cycle">Cycle Jour/Nuit</string>
@@ -113,7 +113,7 @@ Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde e
     <string name="Death_Clumsy_Info">Le mode maladroit est recommandé si vous voulez un challenge raisonnable, et une bonne raison d\'éviter de mourir ! vous laissez le contenu de votre inventaire au sol une fois mort !</string>
     <string name="Death_Ironman_Info">PAS POUR DÉBUTANTS !
 
- Homme de Fer est uniquement pour les braves, les stupides et les audacieux; Vous allez de façon permanente perdre TOUT les objets de votre inventaire à votre mort !</string>
+ Homme de Fer est uniquement fait pour les braves, les stupides et les audacieux; Vous allez de façon, permanente perdre TOUT les objets de votre inventaire à votre mort !</string>
     <string name="Death_SquishCore_Info">RECOMMANDÉ POUR PERSONNE !
 
  Infernal est simple; Vous mourrez, Vous restez mort</string>
@@ -5648,4 +5648,9 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="Biomass Ping">Ping de matière organique</string>
   <string name="Biomass Pings">Ping de matière organique</string>
   <string name="Charged Experimental Pod">"Capsules Expérimentale Chargé "</string>
-  </resources>
+  <string name="Resources">Ressources</string>
+  <string name="Charged Experimental Pods">Capsules expérimentale chargé</string>
+  <string name="Charged Lithium Coil">Bobine de Lithium Chargée</string>
+  <string name="Charged Lithium Coils">Bobine de Lithium Chargée</string>
+  <string name="Basic Manufacturing Plant_CRAFT_HINT">Ne prend pas en charge la fabrication manuelle.</string>
+</resources>
