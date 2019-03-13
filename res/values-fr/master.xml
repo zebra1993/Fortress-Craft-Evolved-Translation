@@ -116,7 +116,7 @@ Souvenez-vous que ces options sont VERROUILLÉES pour la durée de votre monde e
  Homme de Fer est uniquement fait pour les braves, les stupides et les audacieux; Vous allez de façon, permanente perdre TOUT les objets de votre inventaire à votre mort !</string>
     <string name="Death_SquishCore_Info">RECOMMANDÉ POUR PERSONNE !
 
- Infernal est simple; Vous mourrez, Vous restez mort</string>
+SquishCore est simple; Vous mourrez, Vous restez mort</string>
     <string name="Death_Hardcore_Info">RECOMMANDÉ POUR PERSONNE!
 
  Hardcore est le mode le plus difficile; Si vous ou votre CPC est détruit, C\'est permanent, GAME OVER ! Votre CPC ne se régénère pas.</string>
@@ -5653,4 +5653,5 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="Charged Lithium Coil">Bobine de Lithium Chargée</string>
   <string name="Charged Lithium Coils">Bobine de Lithium Chargée</string>
   <string name="Basic Manufacturing Plant_CRAFT_HINT">Ne prend pas en charge la fabrication manuelle.</string>
-</resources>
+<string name="Lithium Coil Charger">Bobine de Lithium Charger</string>
+  </resources>
