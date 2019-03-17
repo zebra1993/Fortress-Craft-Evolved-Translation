@@ -5715,12 +5715,12 @@ Smelter cannot function this deep!</string>
   <string name="ScrapTrack Crafter">ScrapTrack Crafter</string>
   <string name="ScrapTrack Crafter_DESC">Builds cheap but slow ScrapTrack.</string>
   <string name="ScrapTrack Crafter_CRAFT_DESC">Crafts Straight ScrapTracks</string>
-  <string name="ScrapTrack Crafter_CRAFT_HINT"></string>
+  <string name="ScrapTrack Crafter_CRAFT_HINT"/>
   
   <string name="Minecart Track Crafter">Minecart Track Crafter</string>
   <string name="Minecart Track Crafter_DESC">Upcrafts ScrapTrack Rails into into faster Minecart Track Trails.</string>
   <string name="Minecart Track Crafter_CRAFT_DESC">Upcrafts Straight Minecart Tracks from older ScrapTracks.</string>
-  <string name="Minecart Track Crafter_CRAFT_HINT"></string>
+  <string name="Minecart Track Crafter_CRAFT_HINT"/>
   
   <string name="Gold Foil">Gold Foil</string>
   <string name="Gold Foil_DESC">Flattened Piece of Gold Wire</string>
@@ -5743,17 +5743,20 @@ Smelter cannot function this deep!</string>
   <string name="Suit Beacon_CRAFT_HINT">#AlwaysBePrepared</string>
   
   <string name="Bulk Gas Freighter">Bulk Gas Freighter</string>
-  <string name="Bulk Gas Freighter_DESC">Small Gasstorage on Wheels</string>
+  <string name="Bulk Gas Freighter_DESC">Small Gas Storage on Wheels</string>
   <string name="Bulk Gas Freighter_CRAFT_DESC">Fast Freight cart with 500 Gas Capacity.</string>
   <string name="Bulk Gas Freighter_CRAFT_HINT">Can only carry one kind of gas at once.</string>
   
-  <string name="PrecisionAlloyed MachineBlock Assembler">PrecisionAlloyed MachineBlock Assembler</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler">Precision Alloy Machine Block Assembler</string>
   <string name="PrecisionAlloyed MachineBlock Assembler_DESC">Uses an alternate method of creating Alloyed Machine Blocks, more useful for certain base setups.</string>
   <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_DESC">Crafts Alloyed Blocks from T2 crafting Materials.</string>
   <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_HINT">These are used extensively, and it is highly recommended you automate these!</string>
 
   <string name="MISSION_Title_Superbuild">Left-Ctrl - Super-Building</string>
-  <string name="MISSION_Text_Superbuild">Your BuildGun allows you to create straight runs of machines. &#xD;&#xA;This technique will make connecting your base up via Conveyor Belts much easier.&#xD;&#xA;Super-Building a Conveyor touching an existing Conveyor will 'copy' its forward direction.&#xD;&#xA;Revisit the Video Tutorial on SuperBuild if you get stuck!</string>
+  <string name="MISSION_Text_Superbuild">Your BuildGun allows you to create straight runs of machines. &#13;
+This technique will make connecting your base up via Conveyor Belts much easier.&#13;
+Super-Building a Conveyor touching an existing Conveyor will 'copy' its forward direction.&#13;
+Revisit the Video Tutorial on SuperBuild if you get stuck!</string>
   <string name="SuperBuild_x_more_Blocks">SuperBuild at least {0} more blocks.</string>
   
   <string name="Basic Manufacturing Plant_CRAFT_DESC">Basic Manufacturing Plants allow automated crafting to complete a manufacturing line.</string>
