@@ -5662,4 +5662,96 @@ La fonderie ne fonctionne pas à cette profondeur!</string>
   <string name="Choose_filter">Choisissez le filtre d\'item</string>
   <string name="Never Visible">Jamais visible</string>
   <string name="Never Visible_DESC">Tu ne devrais jamais voir ça. Si vous pouvez voir cela, alors c\'est un bug</string>
+  <string name="ARTHER Skeleton Mask_CRAFT_DESC"></string>
+  <string name="ARTHER Skeleton Mask_CRAFT_HINT"></string>
+  <string name="Drill_Stuck_X_cant_dig_X_Fit_better_head"></string>
+  <string name="OE_Retrieve"></string>
+  <string name="Next_X_in_X"></string>
+  <string name="Completed_Scan"></string>
+  <string name="MISSION_Critical Research Assembly"></string>
+
+  <string name="MISSION_Many Items"></string>
+  <string name="MISSION_OE_Depleted"></string>
+
+  <string name="Basic Conveyor(Clockwise)"></string>
+  <string name="Basic Conveyor(Clockwise)_DESC"></string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_DESC"></string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_HINT"></string>
+  
+  <string name="Basic Conveyor(CounterClockwise)"></string>
+  <string name="Basic Conveyor(CounterClockwise)_DESC"></string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_DESC"></string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_HINT"></string>
+  
+  <string name="Conveyor(Clockwise)"></string>
+  <string name="Conveyor(Clockwise)_DESC"></string>
+  <string name="Conveyor(Clockwise)_CRAFT_DESC"></string>
+  <string name="Conveyor(Clockwise)_CRAFT_HINT"></string>
+  
+  <string name="Conveyor(CounterClockwise)"></string>
+  <string name="Conveyor(CounterClockwise)_DESC"></string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_DESC"></string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_HINT"></string>
+  
+  <string name="Chevron Danger"></string>
+  <string name="Chevron Danger_CRAFT_DESC"></string>
+  <string name="Chevron Danger_CRAFT_HINT"></string>
+  
+  <string name="Rainbow Anti-Grav Lift"></string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_DESC"></string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_HINT"></string>
+  
+  <string name="Techno Anti-Grav Lift"></string>
+  <string name="Techno Anti-Grav Lift_CRAFT_DESC"></string>
+  <string name="Techno Anti-Grav Lift_CRAFT_HINT"></string>
+  
+  <string name="Predator Anti-Grav Lift"></string>
+  <string name="Predator Anti-Grav Lift_CRAFT_DESC"></string>
+  <string name="Predator Anti-Grav Lift_CRAFT_HINT"></string>
+  
+  <string name="Basic Conveyor Crafter"></string>
+  <string name="Basic Conveyor Crafter_DESC"></string>
+  <string name="Basic Conveyor Crafter_CRAFT_DESC"></string>
+  <string name="Basic Conveyor Crafter_CRAFT_HINT"></string>
+  
+  <string name="Conveyor Crafter"></string>
+  <string name="Conveyor Crafter_DESC"></string>
+  <string name="Conveyor Crafter_CRAFT_DESC"></string>
+  <string name="Conveyor Crafter_CRAFT_HINT"></string>
+  
+  <string name="Gold Foil"></string>
+  <string name="Gold Foil_DESC"></string>
+  <string name="Gold Foil_CRAFT_DESC"></string>
+  <string name="Gold Foil_CRAFT_HINT"></string>
+  
+  <string name="Gold Foil Crafter"></string>
+  <string name="Gold Foil Crafter_DESC"></string>
+  <string name="Gold Foil Crafter_CRAFT_DESC"></string>
+  <string name="Gold Foil Crafter_CRAFT_HINT"></string>
+  
+  <string name="Titanium Housing Crafter"></string>
+  <string name="Titanium Housing Crafter_DESC"></string>
+  <string name="Titanium Housing Crafter_CRAFT_DESC"></string>
+  <string name="Titanium Housing Crafter_CRAFT_HINT"></string>
+  
+  <string name="Suit Beacon"></string>
+  <string name="Suit Beacon_DESC"></string>
+  <string name="Suit Beacon_CRAFT_DESC"></string>
+  <string name="Suit Beacon_CRAFT_HINT"></string>
+  
+  <string name="Bulk Gas Freighter"></string>
+  <string name="Bulk Gas Freighter_DESC"></string>
+  <string name="Bulk Gas Freighter_CRAFT_DESC"></string>
+  <string name="Bulk Gas Freighter_CRAFT_HINT"></string>
+  
+  <string name="PrecisionAlloyed MachineBlock Assembler"></string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_DESC"></string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_DESC"></string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_HINT"></string>
+
+  <string name="MISSION_Title_Superbuild"></string>
+  <string name="MISSION_Text_Superbuild"></string>
+  <string name="SuperBuild_x_more_Blocks"></string>
+  
+  <string name="Basic Manufacturing Plant_CRAFT_DESC"></string>
   </resources>
