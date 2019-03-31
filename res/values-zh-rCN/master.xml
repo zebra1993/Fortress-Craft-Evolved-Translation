@@ -2802,7 +2802,7 @@
   <string name="Hint_43">如果您将输送带放在两侧，许多单输入机器可以不用料斗就能运行。</string>
   <string name="Hint_44">发电产生威胁度。 您的实验室的大量耗能将开始引起注意，是时候造一波炮塔了！</string>
   <string name="Hint_45">基础熔炼炉是在你获取更高级金属之前提升产能的关键。</string>
-  <string name="Hint_46">你可以把好多东西变成建筑粘合剂-不仅仅是垃圾。垃圾不够煤来凑！。</string>
+  <string name="Hint_46">你可以把好多东西变成建筑粘合剂-不仅仅是垃圾。垃圾不够煤来凑！</string>
   <string name="Hint_47">转换实验室的模式将分析研究组件以获取研究点数。</string>
   <string name="Hint_48">具有奇怪植物的传送带正在喂养蜂巢核心。 保卫你的传送带！</string>
   <string name="Hint_49">物流FALCOR非常适合小批量交付。各种等级的煤与PTG是天作之合。</string>
@@ -2811,7 +2811,7 @@
   <string name="Hint_52">别忘了升级ARTHER！</string>
   <string name="Hint_53">增压进气系统可增加熔炼速度！</string>
   <string name="Hint_54">热能发电机放得越深效率越低。</string>
-  <string name="Hint_55">别和主宰接触拥抱</string>
+  <string name="Hint_55">别和主宰接触拥抱.</string>
   <string name="Hint_56">Camobots可以攻击许多类型的动力机器。。</string>
   <string name="Hint_57">在您的物品栏中按[S]升级防护服</string>
   <string name="Hint_58">火炬很烫——用它来避免体温过低。</string>
@@ -3083,12 +3083,12 @@
 <string name="ConstructoBot Ultron Chassis">构造超能机器人的底盘</string>
 <string name="ConstructoBot Cromize Chassis">建造机器人自定义底盘</string>
 <string name="ConstructoBot Stenforcer Chassis">建造机器人底盘</string>
-<string name="ConstructoBot Titaniux Chassis">constructobot titaniux底盘</string>
-<string name="ConstructoBot Rosteeld Chassis">ConstructoBot Rosteeld 底盘</string>
-<string name="ConstructoBot Goldenrod Chassis">ConstructoBot Goldenrod 底盘</string>
-<string name="ConstructoBot Ironide Chassis">ConstructoBot Ironide 底盘</string>
-<string name="ConstructoBot Tindron Chassis">ConstructoBot Tindron 底盘</string>
-<string name="ConstructoBot Bronzite Chassis">ConstructoBot Bronzite 底盘</string>
+<string name="ConstructoBot Titaniux Chassis">建造机器人 鈦底盘</string>
+<string name="ConstructoBot Rosteeld Chassis">建造机器人 Rosteeld 底盘</string>
+<string name="ConstructoBot Goldenrod Chassis">建造机器人 Goldenrod 底盘</string>
+<string name="ConstructoBot Ironide Chassis">建造机器人 Ironide 底盘</string>
+<string name="ConstructoBot Tindron Chassis">建造机器人 Tindron 底盘</string>
+<string name="ConstructoBot Bronzite Chassis">建造机器人 Bronzite 底盘</string>
 
 
 <string name="Cargo_Lift_Controller">货梯控制器</string>
@@ -3171,7 +3171,7 @@
 <string name="Holding">保持</string>
 <string name="segments">段</string>
 <string name="Sleeping_for">睡眠</string>
-<string name="ColdCreep_killed_Score_was">低温等离子体</string>
+<string name="ColdCreep_killed_Score_was">低温等离子体被殺害!</string>
 <string name="Player_Bonus_was">玩家奖金是</string>
 
 <string name="CB_inserted">建造机器人已卸载</string>
@@ -4324,14 +4324,14 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="RoomLight #7_DESC">#7 房间灯。可变色！</string>
   <string name="RoomLight #8_DESC">#8 房间灯。可变色！</string>
   
-  <string name="RoomLight #1_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #2_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #3_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #4_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #5_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #1_CRAFT_DESC">只能在室内工作的彩灯.</string>
+  <string name="RoomLight #2_CRAFT_DESC">只在室内工作的彩灯.</string>
+  <string name="RoomLight #3_CRAFT_DESC">只在室内工作的彩灯.</string>
+  <string name="RoomLight #4_CRAFT_DESC">只在室内工作的彩灯.</string>
+  <string name="RoomLight #5_CRAFT_DESC">只在室内工作的彩灯.</string>
   <string name="RoomLight #6_CRAFT_DESC">此房间灯将提醒您静音CPH攻击。</string>
-  <string name="RoomLight #7_CRAFT_DESC">只在室内工作的彩灯</string>
-  <string name="RoomLight #8_CRAFT_DESC">只在室内工作的彩灯</string>
+  <string name="RoomLight #7_CRAFT_DESC">只在室内工作的彩灯.</string>
+  <string name="RoomLight #8_CRAFT_DESC">只在室内工作的彩灯.</string>
 
   <string name="RoomLight #1_CRAFT_HINT">使用粘贴 - 如果你把它挖掉，你会丢失粘贴，所以要小心放置！</string>
   <string name="RoomLight #2_CRAFT_HINT">需要Dapper DLC Pack</string>
@@ -4398,7 +4398,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 	<string name="Room Ventilation Grille">室内通风格栅</string>
 	<string name="Room Ventilation Grille_DESC">保持空气流通</string>
 	<string name="Room Ventilation Grille_CRAFT_DESC">使用它来提高您的房间的清洁等级，以达到洁净室的要求。</string>
-	<string name="Room Ventilation Grille_CRAFT_HINT">DON\'T BOTHER BUILDING THIS YET!</string>
+	<string name="Room Ventilation Grille_CRAFT_HINT">還不要在這裡建造</string>
 	
 	<string name="Reinforced Plating">增强电镀</string>
 	<string name="Reinforced Plating_DESC">为房间设计的加固，可涂漆墙。</string>
@@ -4470,7 +4470,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 	<string name="HerbiCor_CRAFT_HINT">帧率也很好！</string>	
 	
 	<string name="Generic Room Controller">通用房间控制器</string>
-	<string name="Generic Room Controller_DESC">创造一个房间，它会给你关于这个房间的信息。</string>
+	<string name="Generic Room Controller_DESC">创造一个房间，它会给你关于这个房间的信息</string>
 	<string name="Generic Room Controller_CRAFT_DESC">放在房间里，按照说明操作。</string>
 	<string name="Generic Room Controller_CRAFT_HINT">在地板上构建它。一旦你做了，说明就在左下角！</string>	
 
@@ -5128,7 +5128,7 @@ PTG无法发挥这个功能！</string>
   <string name="Mandragora">曼德拉</string>
   <string name="Mandragora_DESC">适用于原油镜片。</string>
   <string name="Lithium Coil Charger">充能锂线圈</string>
-  <string name="Lithium Coil Charger_DESC">给5</string>
+  <string name="Lithium Coil Charger_DESC">含有100能量的5xLithium線圈。用於蜘蛛機器人的電源，以及製作物品.</string>
   <string name="Fuel Compressor">燃料压缩器</string>
   <string name="Fuel Compressor_DESC">使用高能复合燃料压缩碳颗粒，生成极易挥发且富含能量的燃料源。</string>
   <string name="Choose_filter">选择物品过滤器</string>
@@ -5143,7 +5143,7 @@ PTG无法发挥这个功能！</string>
   <string name="Completed_Scan">扫描已完成</string>
   <string name="MISSION_Critical Research Assembly">关键研究：组装流水线机器。</string>
 
-  <string name="MISSION_Aesthetics">建议研究：</string>
+  <string name="MISSION_Aesthetics">建议研究：美學.</string>
   <string name="MISSION_SelectPaintgun">按 N 选择上色枪！</string>
   <string name="MISSION_PaintSomething">给一个美化方块上色！</string>
   <string name="MISSION_OE_Power">没电了</string>
@@ -5166,7 +5166,7 @@ PTG无法发挥这个功能！</string>
   <string name="Toxic_Caverns">毒气洞穴</string>
   <string name="Deep_Caves">深层洞穴</string>
   <string name="Magma_Caverns">熔岩洞穴</string>
-  <string name="Generic_Room">Room</string>
+  <string name="Generic_Room">房間</string>
   <string name="Greenhouse_Room">温室</string>
   <string name="Clean_Room">整理房间</string>
   <string name="Heated_Room">加热房价</string>
@@ -5207,7 +5207,7 @@ PTG无法发挥这个功能！</string>
   <string name="No_description">没有描述</string>
   <string name="Power_State_X">能源状态</string>
   <string name="Rack_Rail_storage_X">机架轨道储量</string>
-  <string name="Operating_State_X">经营状况：</string>
+  <string name="Operating_State_X">经营状况:</string>
   <string name="Rail_Depth_X">轨道深度：{0} m</string>
   <string name="Rail_State_X">轨道状态: {0}</string>
   <string name="Lift_Depth_X">电梯深度</string>
@@ -5225,7 +5225,7 @@ PTG无法发挥这个功能！</string>
   <string name="Orbital_Bombardment_has_begun">轨道轰炸已经开始了！</string>
   <string name="Progression_Youve_smelted_X_ingots">进度！你已经冶炼了{0}锭！</string>
   <string name="Flushing_Disk_Cache">冲洗磁盘高速缓存中</string>
-  <string name="onto_conveyor">放在传送带上或者料斗里面</string>
+  <string name="onto_conveyor">放在传送带上或者料斗里面!</string>
   <string name="Stack Size">堆栈大小</string>
   <string name="MS_Performance">警告!大量储存超过100箱。考虑多个更小的存储。</string>
   <string name="MS_Performance_Critical">警告!海量存储的大小是关键，而且可能会出现性能问题!</string>
@@ -5283,7 +5283,7 @@ PTG无法发挥这个功能！</string>
   <string name="DP_happyfeet">解放双脚！</string>
   <string name="DP_build_X_robots">制造{0} 个机器人！</string>
   <string name="DP_let_it_go">让它过去吧……</string>
-  <string name="DP_arachnid">……如果你够勇敢的话……</string>
+  <string name="DP_arachnid">……如果你够勇敢的话..</string>
   <string name="DP_dont_lick">……别舔它。</string>
   <string name="DP_Hope_build_gun">我希望你有一个V2建造枪……</string>
   </resources>
