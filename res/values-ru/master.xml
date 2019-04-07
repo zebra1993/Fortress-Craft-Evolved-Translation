@@ -5060,6 +5060,10 @@
   <string name="Never Visible">Всегда невидимо</string>
   <string name="Never Visible_DESC">Это, как правило, нельзя увидеть. Скорее всего - это ошибка</string>
   <string name="Biomass Ping_CRAFT_DESC">Используемый предмет, который даёт пробник, позволяющий обнаруживать Биомассу без затрат энергии.</string>
-  <string name="Drill_Stuck_X_cant_dig_X_Fit_better_head">Бур заклинило. {0} добыча не возможна {1}. 
+  <string name="Drill_Stuck_X_cant_dig_X_Fit_better_head">Бур заклинило. {0} не добывает {1}. 
  Установите фрезу получше!</string>
+  <string name="Next_X_in_X">{0} будет через {1} с.</string>
+  <string name="Completed_Scan">Завершённый Скан</string>
+  <string name="MISSION_Critical Research Assembly">Важное исследование: Оборудование сборочных линий.</string>
+
   </resources>
