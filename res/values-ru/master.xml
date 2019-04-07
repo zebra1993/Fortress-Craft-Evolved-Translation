@@ -5101,4 +5101,8 @@
   <string name="All_Systems_Nominal_X_Power_available">Все системы в норме
  Доступно {0} Энергии</string>
   <string name="Currently_charging_ARTHER_for_player_X">Заряжается АРЧЕР игрока {0}</string>
+  <string name="Attached_machines_X">Подключено потребителей: {0}</string>
+  <string name="Storing_X_items_with_X_free_slots">Хранится {0} предметов, свободно {1}</string>
+  <string name="Transferred_X_bars_from_Inventory">Изъято {0} Слитков!</string>
+  <string name="Transferred_X_items_from_Inventory">Изъято {0} Предметов!</string>
   </resources>
