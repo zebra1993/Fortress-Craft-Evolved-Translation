@@ -5075,4 +5075,12 @@
   <string name="MISSION_OE_Depleted">- жила иссякла</string>
 
   <string name="MISSION_Place At Least">Установите как минимум</string>
+  <string name="ARTHER_No_Dock">АРЧЕР не обнаружил док-станцию в радиусе 32 м!</string>
+  <string name="MM_Aim_X">Направьте на Бункер на расстоянии до {0} м.</string>
+  <string name="MM_PastTense_X_Glue_X_Power">Перемещено {0} шт., за {1} ед. Э</string>
+  
+  <string name="CE_CurrentCharge_X">Текущий заряд: {0}</string>
+  <string name="CE_Detonate_X_Seconds">Взрывчатка сдетонирует через {0} с</string>
+  <string name="Youre_lost">Вы потерялись!</string>
+  <string name="Lost">Потерялись?</string>
   </resources>
