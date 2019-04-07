@@ -5072,6 +5072,6 @@
   <string name="MISSION_OE_Power">- нет энергии</string>
   <string name="MISSION_OE_Storage">хранилище переполнено</string>
   <string name="MISSION_OE_Stuck">бур заклинило</string>
-  <string name="MISSION_OE_Depleted">жила иссякла</string>
+  <string name="MISSION_OE_Depleted">- жила иссякла</string>
 
   </resources>
