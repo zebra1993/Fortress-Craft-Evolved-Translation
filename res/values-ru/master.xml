@@ -5106,4 +5106,6 @@
   <string name="Transferred_X_bars_from_Inventory">Изъято {0} Слитков!</string>
   <string name="Transferred_X_items_from_Inventory">Изъято {0} Предметов!</string>
   <string name="ore_from_inventory">Руды из Инвентаря</string>
+  <string name="CryoMap">Криокарта</string>
+  <string name="CryoMap_DESC">Показывает карту реального времени для анализа и планирования обороны. Площадка 3х3</string>
   </resources>
