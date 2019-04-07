@@ -5097,5 +5097,8 @@
   <string name="Searching_offering_Hopper_Radius_X_Found_X">Ищу выгружающий Бункер в радиусе {0}. Найдено: {1}</string>
   <string name="X_battery_of_X">{0} батарея {1}</string>
   <string name="X_Clip_of_X">{0} магазин {1}</string>
-  <string name="Arther_hint_19">Раньше я был искателем приключений, но потом мне из бластера прострелили колено</string>
+  <string name="Arther_hint_19">Когда-то и меня вела дорога приключений, а потом мне из бластера прострелили шарнир :(</string>
+  <string name="All_Systems_Nominal_X_Power_available">Все системы в норме
+ Доступно {0} Энергии</string>
+  <string name="Currently_charging_ARTHER_for_player_X">Заряжается АРЧЕР игрока {0}</string>
   </resources>
