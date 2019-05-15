@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">你好！ 您使用的语言目前仅部分支持。 如果你想换回英语版本,请按下面的“英语”！</string>
-    <string name="Translation_Incomplete">翻译不完整！</string>
+    <string name="Translation_Incomplete">翻译可能不完整或不准确,请自行脑补！</string>
     <string name="Language_Name">英语</string><string name="Frozen_Factory">冰封工厂</string>
     <string name="Dapper_Pack">Dapper 整合包</string>
     <string name="Skin_Pack">皮肤包</string>
@@ -123,7 +123,7 @@
 
     <string name="Clumsy">菜鸡模式</string>
     <string name="SquishCore">硬核模式</string>
-    <string name="Hardcore">最强模式</string>
+    <string name="Hardcore">困难模式</string>
 
     <string name="Rushmode_Locked">速通模式会在你完成轨道能量传输器充能后解锁。</string>
     <string name="Rushmode_Disabled">速通模式已禁用。</string>
@@ -4803,7 +4803,7 @@ PTG无法发挥这个功能！</string>
   <string name="UI_Bosses_expected_X_approx">老板预计：{0}（约）</string>
   <string name="UI_No_Threads_detected">未检测到威胁...</string>
   <string name="UI_Next_attack_X_s">下一次攻击：{0} s</string>
-  <string name="UI_Power_X_Percent">权力：{0}％</string>
+  <string name="UI_Power_X_Percent">能量：{0}％</string>
   <string name="UI_Base_threat_approx_X">基本评级约为{0}</string>
   <string name="UI_Agitator_threat_X_X_Bonus">（搅动者威胁{0}）+ {1}暴徒奖金</string>
   <string name="UI_Calmer_reducing_threat_by_X">Calmer降低威胁{0}</string>
@@ -4898,7 +4898,7 @@ PTG无法发挥这个功能！</string>
   <string name="UI_Time_of_day_X_X">每日时间：{0}（{1}）</string>
   <string name="UI_Researchstation_X_X_E_open">研究站
 过程扫描和研究新技术。
-权力：{0} / {1}
+能量：{0} / {1}
 按E打开
 </string>
   <string name="UI_Researchstation_E_close">研究站
