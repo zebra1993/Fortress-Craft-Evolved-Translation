@@ -5301,4 +5301,54 @@ PTG无法发挥这个功能！</string>
   <string name="Chevron Radiation">辐射</string>
   <string name="Chevron Radiation_DESC">小心，前方有辐射！</string>
   <string name="Chevron Radiation_CRAFT_DESC">小心，前方有辐射！</string>
+  <string name="Chevron Radiation_CRAFT_HINT">小心，前方有辐射！</string>
+  <string name="Chevron First Aid_DESC">附近的急救箱（希望如此）</string>
+  <string name="Chevron First Aid_CRAFT_DESC">附近的急救箱（希望如此）</string>
+  <string name="Chevron First Aid_CRAFT_HINT">附近的急救箱（希望如此）</string>
+  <string name="Chevron Aisle Marking">人字过道标志</string>
+  <string name="Chevron Traffic">人字形交通</string>
+  <string name="Chevron Traffic_DESC">小心货运设备</string>
+  <string name="Chevron Traffic_CRAFT_DESC">小心货运设备</string>
+  <string name="Chevron Traffic_CRAFT_HINT">小心货运设备</string>
+  <string name="Chevron Defective Machinery">有缺陷的机器</string>
+  <string name="Chevron Defective Machinery_DESC">小心，机器有缺陷，小心操作</string>
+  <string name="Chevron Defective Machinery_CRAFT_DESC">小心，机器有缺陷，小心操作</string>
+  <string name="Chevron Defective Machinery_CRAFT_HINT">小心，机器有缺陷，小心操作</string>
+  <string name="Directional Storage Hopper">定向储料漏斗</string>
+  <string name="DirMBError">错误，无法卸载到多块计算机！</string>
+  
+  <string name="Directional Storage Hopper_DESC">与普通储料仓相同，但只能向一个方向输出。使用R旋转。</string>
+  <string name="Directional Storage Hopper_CRAFT_DESC">存储多达100个资源并快速传输。用于自动化其他机器。只有一个方向的输出。</string>
+  <string name="Directional Storage Hopper_CRAFT_HINT">用于紧凑设置！</string>
+  <string name="Primary Upgrade Module Maker">主要升级模块制造</string>
+  <string name="Primary Upgrade Module Maker_DESC">生成主升级模块</string>
+  <string name="Primary Upgrade Module Maker_CRAFT_DESC">生成主升级模块</string>
+  <string name="Primary Upgrade Module Maker_CRAFT_HINT">生成主升级模块</string>
+  <string name="Primary Upgrade Module">主升级模块</string>
+  <string name="Primary Upgrade Modules">主升级模块</string>
+
+  <string name="Secondary Upgrade Module Maker">二次升级模块制造</string>
+  <string name="Secondary Upgrade Module Maker_DESC">生成辅助升级模块</string>
+  <string name="Secondary Upgrade Module Maker_CRAFT_DESC">生成辅助升级模块</string>
+  <string name="Secondary Upgrade Module Maker_CRAFT_HINT">生成辅助升级模块</string>
+  <string name="Secondary Upgrade Module">二级升级模块</string>
+  <string name="Secondary Upgrade Modules">辅助升级模块</string>
+
+  <string name="Alloyed Upgrade Module Maker">合金升级模块制造</string>
+  <string name="Alloyed Upgrade Module Maker_DESC">制造合金升级模块</string>
+  <string name="Alloyed Upgrade Module Maker_CRAFT_DESC">制造合金升级模块</string>
+  <string name="Alloyed Upgrade Module Maker_CRAFT_HINT">制造合金升级模块</string>
+  <string name="Alloyed Upgrade Module">合金升级模块</string>
+  <string name="Alloyed Upgrade Modules">合金升级模块</string>
+
+  <string name="Ultimate Upgrade Module Maker">终极升级模块制造</string>
+  <string name="Ultimate Upgrade Module Maker_DESC">制作终极升级模块</string>
+  <string name="Ultimate Upgrade Module Maker_CRAFT_DESC">制作终极升级模块</string>
+  <string name="Ultimate Upgrade Module Maker_CRAFT_HINT">制作终极升级模块</string>
+  <string name="Ultimate Upgrade Module">终极升级模块</string>
+  <string name="Ultimate Upgrade Modules">终极升级模块</string>
+  
+  <string name="UNUSED Room Ventilation Grille">不使用</string>
+  <string name="UNUSED Room Ventilation Grille_DESC">不使用</string>
+  <string name="UNUSED Room Ventilation Grille_CRAFT_DESC">不使用</string>
   </resources>
