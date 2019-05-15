@@ -3646,7 +3646,7 @@
   <string name="PSB_are_main_method_storing_power">Power Storage Blocks （PSBS） are the main method of storing power.</string>
   <string name="OE_collect_resources_automatically">矿石采集器能自动的收集资源。</string>
   <string name="SH_automate_resource_handling">自动化资源处理存储槽内</string>
-  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">使用鼠标左键来扫描未知物 如果你啥都发现不了的话！</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">如果你啥都发现不了的话,使用鼠标左键来扫描未知物 !</string>
   <string name="Researching_Scans_gives_RP">研究扫描给你研究点</string>
   <string name="Look_at_CPH_press_E">按E看CPH！</string>
   <string name="Charge_suit_from_PSB">把你的衣服从PSB里拿出来！</string>
@@ -4121,7 +4121,7 @@ WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
 WARNING! Ore is volatile state, DO NOT DELETE MACHINE!</string>
   <string name="Grinding">研磨中。。。</string>
   <string name="Kaboom">大爆炸！</string>
-  <string name="Grinder_cannot_function_without_active_C5">没有主动冷洞室气候控制中心，研磨机无法运行</string>
+  <string name="Grinder_cannot_function_without_active_C5">没有主动冷洞穴气候控制中心，研磨机无法工作</string>
   <string name="Grinding_X">Grinding: {0}；</string>
   <string name="X_X_to_offload">{0}x {1} 要被卸下！</string>  
   
