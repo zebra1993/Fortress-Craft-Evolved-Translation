@@ -4939,7 +4939,7 @@ PTG无法发挥这个功能！</string>
 
   <string name="SUPER_HEIST">伟大的抢劫！</string>
 
-  <string name="Room_Cloning">基于房间的CryoCloner。</string>
+  <string name="Room_Cloning">基于房间的冷冻克隆器</string>
   <string name="Basic Robotic Sorter">基本的机器人分拣机</string>
   <string name="Basic Robotic Sorter_DESC">允许简单的总线设置。</string>
   <string name="Basic Robotic Sorter_CRAFT_DESC">自动移动传送带之间的指定物品。</string>
@@ -5207,7 +5207,7 @@ PTG无法发挥这个功能！</string>
   <string name="No_description">没有描述</string>
   <string name="Power_State_X">能源状态</string>
   <string name="Rack_Rail_storage_X">机架轨道储量</string>
-  <string name="Operating_State_X">经营状况:</string>
+  <string name="Operating_State_X">经营状况: {0}</string>
   <string name="Rail_Depth_X">轨道深度：{0} m</string>
   <string name="Rail_State_X">轨道状态: {0}</string>
   <string name="Lift_Depth_X">电梯深度</string>
@@ -5405,4 +5405,314 @@ PTG无法发挥这个功能！</string>
   <string name="Chevron First Aid">急救</string>
   <string name="Chevron Aisle Marking_CRAFT_DESC">存储区附近，需要哈特帽</string>
   <string name="Chevron Aisle Marking_CRAFT_HINT">存储区附近，需要哈特帽</string>
-  </resources>
+  <string name="Charged Experimental Pod_CRAFT_HINT">空</string>
+  <string name="Chevron Aisle Marking_DESC">存储区附近，需要哈特帽</string>
+  <string name="Scrap Track Straight_CRAFT_HINT">" "</string>
+  <string name="Scrap Track Corner_CRAFT_HINT">" "</string>
+  <string name="Scrap Track Slope_CRAFT_HINT">" "</string>
+  <string name="Scrap Ore Freighter_CRAFT_HINT">获取需要的项目…缓慢地</string>
+  <string name="Basic Ore Freighter">基本矿石货车</string>
+  <string name="Basic Ore Freighters">基本矿石货车</string>
+  <string name="Basic Ore Freighter_CRAFT_DESC">125矿运量的运货车。</string>
+  <string name="Basic Ore Freighter_CRAFT_HINT">一次只能运送一种矿石。</string>
+  <string name="Fast Ore Freighter">快速运矿车</string>
+  <string name="Fast Ore Freighters">快速运矿车</string>
+  <string name="Fast Ore Freighter_CRAFT_DESC">125矿石容量的快速货运车。</string>
+  <string name="Fast Ore Freighter_CRAFT_HINT">一次只能运送一种矿石。</string>
+  <string name="Large Ore Freighter">大型矿石货车</string>
+  <string name="Large Ore Freighters">大型矿石货车</string>
+  <string name="Large Ore Freighter_CRAFT_DESC">250矿石运量的货运车。</string>
+  <string name="Large Ore Freighter_CRAFT_HINT">一次只能运送一种矿石。</string>
+  <string name="Bulk Ore Freighter">快速矿石货车</string>
+  <string name="Bulk Ore Freighters">快速矿石货车</string>
+  <string name="Bulk Ore Freighter_CRAFT_DESC">250矿石容量的快速货运车。</string>
+  <string name="Bulk Ore Freighter_CRAFT_HINT">一次只能运送一种矿石。</string>
+  <string name="Basic Tour Cart">基本旅游车</string>
+  <string name="Basic Tour Carts">基本旅游车</string>
+  <string name="Basic Tour Cart_CRAFT_DESC">通过旅行车站旅行。</string>
+  <string name="Basic Tour Cart_CRAFT_HINT">仅与旅行车站一起使用。</string>
+  <string name="No_valid_track_connection">错误：找不到有效的磁道连接！</string>
+  <string name="No_filled_hoppers_found">未找到填充的漏斗</string>
+  <string name="No_valid_deposit_hoppers">没有有效的放置漏斗</string>
+  <string name="No_valid_return_path_to_this_depot">没有到此仓库的有效返回路径</string>
+  <string name="No_valid_outgoing_track_connection">没有有效的向外轨道连接</string>
+  <string name="All_station_cart_assignments_are_satisfied">满足所有车站货车分配</string>
+  <string name="One_station_requires_carts">1个车站需要车</string>
+  <string name="X_stations_require_carts">{0} 个车站需要车</string>
+  <string name="Cart_found_does_not_meet_station_requirements">找到的货车不符合站点要求</string>
+  <string name="No_suitable_cart_for_station_X">找不到适合车站的货车 {0}</string>
+  <string name="Station_Accepts_X">车站验收 {0}</string>
+  <string name="Depot_is_currently_blocked">车站当前被堵塞</string>
+  <string name="Illegal_placement_carts_cannot_drive_up_walls">非法安置！货车不能放入墙壁！</string>
+  <string name="No_work_for_station_X">{0} 车站不工作</string>
+  <string name="Freight_cart_station_X">货车站 ({0})</string>
+  <string name="Freight_cart_station_ID">货车站 (ID: {0})</string>
+  <string name="NO_NETWORK">无网络</string>
+  <string name="Press_E_to_configure_this_station">按E配置该站</string>
+  <string name="This_station_is_fully_stocked">这个车站存货充足！</string>
+  <string name="Top_requests_for_this_station">本站的主要请求：</string>
+  <string name="This_station_has_nothing_to_offer">这个电台没有什么可提供的！</string>
+  <string name="Top_offers_for_this_station">本站从顶部提供:</string>
+  <string name="Press_T_to_transfer_X">按（T）键传送 [{0}]</string>
+  <string name="Station_X_could_not_deposit">货运车站 {0} 无法将项目存入存储。存储空间已满。</string>
+  <string name="Any">任何</string>
+  <string name="T2_T3">T2/T3+</string>
+  <string name="T4_only">只有T4</string>
+  <string name="Ore_freighters_only">仅限矿石货车</string>
+  <string name="T2_T3_Ore_freighters">T2/T3+矿石货车</string>
+  <string name="T4_Ore_Freighters">T4 矿石货车</string>
+  <string name="No_ore_freighters">无矿石货车</string>
+  <string name="No_scrap_carts">无简易车</string>
+  <string name="Station_cannot_find_hopper_or_mass_storage">车站找不到漏斗或大容量储存</string>
+  <string name="No_where_to_offload_excess_X">不在哪里卸载多余的{0}!</string>
+  <string name="Traveling_to_X">旅行到{0}</string>
+  <string name="Returning_to_depot">返回车站</string>
+  <string name="Ore_freighter_idling">矿石货车空闲</string>
+  <string name="Cannot_find_a_depot_to_park">找不到车站</string>
+  <string name="Offloading_excess_freight">卸下多余的货物</string>
+  <string name="Station_X_is_full">车站 {0} 已满</string>
+  <string name="Cannot_route_to_station_X">没有路线到站点 {0}</string>
+  <string name="Press_E_to_access_freight_system_status">按E打开货运系统界面</string>
+  <string name="Location_X">位置: {0}</string>
+  <string name="Press_E_to_access_the_list_of_destinations">按E打开目的地列表</string>
+  <string name="Press_E_to_set_this_locations_name">按E设置此位置的名称</string>
+  <string name="X_Tour_carts_available">{0}提供旅行车</string>
+  <string name="Track_network_ID_X">轨道网络ID: {0}</string>
+  <string name="No_demand_for_X">无需提供{0}</string>
+  <string name="No_source_for_X">没有请求的来源</string>
+  <string name="Track_junction_ID_X">轨道交叉点 (ID: {0})</string>
+  <string name="X_valid_track_connections">{0}有效的轨道连接</string>
+  <string name="Track_lengths_X">轨道长度: {0}</string>
+  <string name="Press_Q_to_reset_the_junction">按Q键复位接头</string>
+  <string name="No_Valid_track_connections_detected">未检测到有效的磁道连接</string>
+  <string name="Locations_X">位置: {0}</string>
+  <string name="Set_Name">设置名字</string>
+  <string name="Enter_Station_Name">输入站点名称</string>
+  <string name="Select_Tour_Cart_Destination">选择旅游车目的地</string>
+  <string name="Change_Name">更改名称</string>
+  <string name="Add_Additional_Tour_Cart_Stations">添加其他旅行车站</string>
+  <string name="To_Track_Network">跟踪网络</string>
+  <string name="Connect_Tour_Cart_Stations_to">将旅行车站连接到</string>
+  <string name="a_Freight_Track_Network">货运轨道网</string>
+  <string name="Set_Network">集合网络</string>
+  <string name="Enter_Network_ID">进入网络ID</string>
+  <string name="Set_Mass_Storage_Name">设置大容量存储名称</string>
+  <string name="Enter_Storage_Name">输入存储名称</string>
+  <string name="Name">名字</string>
+  <string name="Network">网络</string>
+  <string name="No_Storage">无存储</string>
+  <string name="Name_Storage">名称存储</string>
+  <string name="Set_Freight">设定货运</string>
+  <string name="Cart_Assignment">大车指派</string>
+  <string name="Add_Cart">添加货车</string>
+  <string name="Remove_Cart">卸车</string>
+  <string name="Active_Requested">活动/请求</string>
+  <string name="Wait_for_X">等待 {0}</string>
+  <string name="Load_Orders">加载命令</string>
+  <string name="Cart_Filter">推车过滤器</string>
+  <string name="Register_Freight">登记货物</string>
+  <string name="Done">结束</string>
+  <string name="Add_New_Freight">增加新货物</string>
+  <string name="Target_Stock_blank">"目标库存: "</string>
+  <string name="Decrease_Stock">减少库存</string>
+  <string name="Increase_Stock">增加库存</string>
+  <string name="Help">帮助</string>
+  <string name="Waiting_For_Server">正在等待服务器…</string>
+  <string name="Servicing_Freight_For">货运服务中心:</string>
+  <string name="Item_to_Stock">库存物品</string>
+  <string name="Or_select_existing">或选择现有</string>
+  <string name="Freight_Config_Help">货运配置帮助</string>
+  <string name="Close">关闭</string>
+  <string name="FreightHelp1">这个例子显示了一个简单的锡制品制造站。提供锡条，并将锡板和轻型机器外壳运出。</string>
+  <string name="FreightHelp2">目标库存设置为200，使锡条有足够的手推车带到车站，以保持足够的手边，为加工成更高层次的组件。</string>
+  <string name="FreightHelp3">锡板的库存量较小，因为有些需要转换成外壳。</string>
+  <string name="FreightHelp4">轻量级的机器外壳目标为0，使手推车可以将所有这些设备分配到其他站点，因为手推车无需进一步处理。</string>
+  <string name="Handbook">手册</string>
+  <string name="See_the_handbook_for_details">有关更多详细信息，请参阅手册。</string>
+  <string name="Connect_to_freight_provider">连接到货运供应</string>
+  <string name="Connect_Station_to_Mass_Storage">将站点连接到大容量存储</string>
+  <string name="Last_Network">最后网络</string>
+  <string name="All_Inventory">所有库存</string>
+  <string name="Select_Network">选择网络</string>
+  <string name="Transport_Grid">运输网格</string>
+  <string name="View_Inventory">查看库存</string>
+  <string name="Next_Network">下一个网络</string>
+  <string name="Viewing_status_of_freight_network">"查看货运网络状态： "</string>
+  <string name="Surplus">盈余</string>
+  <string name="Deficit">缺少</string>
+  <string name="In_Transit">在途中</string>
+  <string name="Inventory">库存</string>
+  <string name="No_freight_networks_found">找不到货运网络…</string>
+  <string name="Network_Status">网络状态</string>
+  <string name="No_transport_grid_found">找不到传输网格…</string>
+  <string name="Click_to_expand">（单击可展开）</string>
+  <string name="ID_X_Y_Locations">ID: {0} {1} 位置</string>
+  <string name="Carts_X_Y">货车: {0} / {1}</string>
+  <string name="Name_NetworkID_X_cart_en_route">名称-网络ID {0} 运输车途中</string>
+  <string name="Name_NetworkID_X_carts_en_route">"名称-网络ID  {0} 运输车在途中"</string>
+  <string name="Inventory_X_Y">库存: {0} / {1}</string>
+  <string name="Estimated_arrival_in_X_seconds">预计到达时间 {0} 秒</string>
+  <string name="Loading_at_station_X">车站装车 \'{0}\'</string>
+  <string name="Unloading_at_station_X">车站卸货 \'{0}\'</string>
+  <string name="Travelling_to_station_X">前往车站 \'{0}\'</string>
+  <string name="Idling_at_X">怠速 \'{0}\'</string>
+  <string name="Awaiting_clear_path_to_X">等待明确的路径 \'{0}\'</string>
+  <string name="Inventory_is_empty">库存为空</string>
+  <string name="Order_by_count">计数排序</string>
+  <string name="Order_by_name">按名称排序</string>
+  <string name="Last_Storage">最后存储</string>
+  <string name="Next_Storage">下一个存储器</string>
+  <string name="Viewing_inventory_of_mass_storage">"查看大容量存储的库存： "</string>
+  <string name="Freight_status_help_X_Y">货运状态帮助 {0} / {1}</string>
+  <string name="Next_Page">下一页</string>
+  <string name="Last_Page">最后一页</string>
+  <string name="FreightHelp1a">剩余量是超过站点目标库存的剩余物品的总和。它表示有多少车可供收货。</string>
+  <string name="FreightHelp1b">赤字是保障所有站点库存目标安全所需的总和。它表示为满足所有车站的需要，必须交付多少货物。</string>
+  <string name="FreightHelp1c">库存是与此货运网络关联的所有存储容器中找到的项目的总和。</string>
+  <string name="FreightHelp1d">在途数量是货车当前携带用于交货的项目的总和。货车收取的比弥补赤字所需的多。</string>
+  <string name="FreightHelp2a">此示例显示货运网络上特定项目的正常状态。</string>
+  <string name="FreightHelp2b">赤字意味着该项目是必要的，但健康的盈余将超过总需求的补偿。</string>
+  <string name="FreightHelp2c">当前的运输量表明有几个货车在工作以满足需求。</string>
+  <string name="FreightHelp2d">盈余和赤字是彩色编码，以提供相对健康的系统一目了然。</string>
+  <string name="FreightHelp3a">当赤字（需求）超过可用板数时，由于供应短缺，低盈余可能导致交货暂停。</string>
+  <string name="FreightHelp3b">库存相当健康，因此可以减少供应仓库的目标库存，以便在紧急情况下注入额外的库存。</string>
+  <string name="FreightHelp3c">如果盈余仍然很低，可能是时候增加产量了。</string>
+  <string name="FreightHelp4a">车站似乎在这个网络上提供和请求货物，但没有货物在运输中。为什么会这样？</string>
+  <string name="FreightHelp4b">必须将货车分配到车站，以便车站将货车送去工作。仓库中的货车还必须满足货车分配的任何筛选条件。</string>
+  <string name="FreightHelp4c">车站将显示发送另一辆车所需的物品，或是否满足车站的所有需求。</string>
+  <string name="FreightHelp4d">如果货车被分配，如果他们找不到通往目标的路径，他们将用红色闪光灯指示。</string>
+  <string name="FreightHelp5a">手推车只收取与当前赤字相同的金额，以避免出现不需要的超额.</string>
+  <string name="FreightHelp5b">这可能会减慢站点之间的项目传输，因为附加的推车将无法收集更多的项目。</string>
+  <string name="FreightHelp5c">增加一个站点的目标库存将增加赤字和可以一次传输的最大项目数。</string>
+  <string name="FreightHelp5d">目的地更大的目标库存也提供了更大的缓冲区，以留出时间让手推车进一步交货。</string>
+  <string name="CryoInferno">低温地狱</string>
+  <string name="Inferno_eNotBuilt">寻找冰河地狱…</string>
+  <string name="Inferno_eBuildMe">建造一个冰冻地狱！</string>
+  <string name="Inferno_eNoGas">岩浆之外！</string>
+  <string name="Inferno_eBlocked">看不到产卵者！</string>
+  <string name="Inferno_eBurning">燃烧低温产卵器！</string>
+  <string name="Inferno_eIdle">范围内没有冷冻产卵器。</string>
+  <string name="Cryo_Dead_No_DLC">请购买冒险包继续！</string>
+  <string name="Cryo_Dead_DLC">建造轨道轨道炮！</string>
+  <string name="Orbital Railgun">轨道轨道炮</string>
+
+  <string name="ORG_eUnknown">杀死所有的冷冻产卵者和地面暴徒！</string>
+  <string name="ORG_eVerifyingClearance">验证间隙</string>
+  <string name="ORG_eLookingForTubeResources">寻找管道资源！</string>
+  <string name="ORG_eBuildingTube">建筑管。</string>
+  <string name="ORG_eWaitingForCharge">正在等待充电…</string>
+  <string name="ORG_eWaitingForMass">等待质量…</string>
+  <string name="ORG_eFiring">开火!</string>
+  <string name="ORG_eLookingToOffload">希望卸载！</string>
+  <string name="ReadyForFiring">准备开火。</string>
+
+  <string name="Kill_Cryo">消灭所有的冷冻产卵器。</string>
+  <string name="Build_ORG">建造轨道轨道炮发射GPS卫星。</string>
+  <string name="Buy_TAP">购买冒险包继续！</string>
+
+  <string name="Lab_Choose">选择一个实验！</string>
+  <string name="Lab_Chosen">按H键寻求帮助。</string>
+  <string name="GPS Label">GPS：离线。</string>
+ <string name="Basic Conveyor(Clockwise)">基本传送带（顺时针）</string>
+  <string name="Basic Conveyor(Clockwise)_DESC">与基本传送带相同，只是更漂亮。</string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_DESC">把一个直的基本传送带变成一个角传送带。</string>
+  <string name="Basic Conveyor(Clockwise)_CRAFT_HINT">极易受严寒侵袭！</string>
+  
+  <string name="Basic Conveyor(CounterClockwise)">基本传送带（逆时针）</string>
+  <string name="Basic Conveyor(CounterClockwise)_DESC">与基本传送带相同，只是更漂亮。</string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_DESC">把一个直的基本传送带变成一个角传送带。</string>
+  <string name="Basic Conveyor(CounterClockwise)_CRAFT_HINT">极易受严寒侵袭！</string>
+  
+  <string name="Conveyor(Clockwise)">传送带（顺时针）</string>
+  <string name="Conveyor(Clockwise)_DESC">与基本传送带相同，只是更漂亮。</string>
+  <string name="Conveyor(Clockwise)_CRAFT_DESC">把一个直的传送带变成一个角形传送带。</string>
+  <string name="Conveyor(Clockwise)_CRAFT_HINT">极易受严寒侵袭！</string>
+  
+  <string name="Conveyor(CounterClockwise)">传送带（逆时针）</string>
+  <string name="Conveyor(CounterClockwise)_DESC">与基本传送带相同，只是更漂亮。</string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_DESC">把一个直的传送带变成一个角形传送带。</string>
+  <string name="Conveyor(CounterClockwise)_CRAFT_HINT">极易受严寒侵袭！</string>
+  
+  <string name="Chevron Danger">危险</string>
+  <string name="Chevron Danger_DESC">无效文字</string>
+  <string name="Chevron Danger_CRAFT_DESC">使用此标记危险区域。</string>
+  <string name="Chevron Danger_CRAFT_HINT">警告：用掉1单位建筑粘合剂！</string>
+  
+  <string name="Rainbow Anti-Grav Lift">彩虹反重力升降</string>
+  <string name="Rainbow Anti-Grav Lift_DESC">你走吧！</string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_DESC">慢速高效的垂直运输。站在里面按空格键。</string>
+  <string name="Rainbow Anti-Grav Lift_CRAFT_HINT">需要Dapper DLC包！</string>
+  
+  <string name="Techno Anti-Grav Lift">技术防重力提升</string>
+  <string name="Techno Anti-Grav Lift_DESC">你走吧！</string>
+  <string name="Techno Anti-Grav Lift_CRAFT_DESC">慢速高效的垂直运输。站在里面按空格键。</string>
+  <string name="Techno Anti-Grav Lift_CRAFT_HINT">需要冻结的工厂DLC包！</string>
+  
+  <string name="Predator Anti-Grav Lift">捕食者反重力提升</string>
+  <string name="Predator Anti-Grav Lift_DESC">你走吧！</string>
+  <string name="Predator Anti-Grav Lift_CRAFT_DESC">慢速高效的垂直运输。站在里面按空格键。</string>
+  <string name="Predator Anti-Grav Lift_CRAFT_HINT">需要冒险DLC包！</string>
+  
+  <string name="Basic Conveyor Crafter">基本传送带制造</string>
+  <string name="Basic Conveyor Crafter_DESC">将1根铜棒变成15个基本传送带。</string>
+  <string name="Basic Conveyor Crafter_CRAFT_DESC">自动将棒料转换成板料的基于传送带的机器。不需要外部电源。</string>
+  <string name="Basic Conveyor Crafter_CRAFT_HINT">自动化的良好开端</string>
+  
+  <string name="Conveyor Crafter">传送带制造</string>
+  <string name="Conveyor Crafter_DESC">使用锡板和铜线将基本的传送带传送到更快的传送带。</string>
+  <string name="Conveyor Crafter_CRAFT_DESC">基于传送带的机器，用于自动将基本传送带升级为更快的传送带。这是最好的配置与3x料斗的输入和1x输送带的输出。</string>
+  <string name="Conveyor Crafter_CRAFT_HINT">自动化工艺比手工工艺更有效。</string>
+  
+  <string name="ScrapTrack Crafter">简易轨道制作</string>
+  <string name="ScrapTrack Crafter_DESC">建造廉价但缓慢的简易车。</string>
+  <string name="ScrapTrack Crafter_CRAFT_DESC">手工直线简易轨道</string>
+  <string name="ScrapTrack Crafter_CRAFT_HINT">无效文字</string>
+  
+  <string name="Minecart Track Crafter">矿车轨道工匠</string>
+  <string name="Minecart Track Crafter_DESC">上车将铁轨切割成更快的矿车轨道。</string>
+  <string name="Minecart Track Crafter_CRAFT_DESC">从旧的废料堆上直接制作矿车轨道。</string>
+  <string name="Minecart Track Crafter_CRAFT_HINT">无效文字</string>
+  
+  <string name="Gold Foil">金箔</string>
+  <string name="Gold Foil_DESC">压扁的金丝</string>
+  <string name="Gold Foil_CRAFT_DESC">压扁的金丝</string>
+  <string name="Gold Foil_CRAFT_HINT">压扁的金丝</string>
+  
+  <string name="Gold Foil Crafter">金箔工匠</string>
+  <string name="Gold Foil Crafter_DESC">把5根金丝变成1个金箔。</string>
+  <string name="Gold Foil Crafter_CRAFT_DESC">一种支持将金丝自动切割成有用金箔的机器。</string>
+  <string name="Gold Foil Crafter_CRAFT_HINT">别想得太多。</string>
+  
+  <string name="Titanium Housing Crafter">钛合金外壳工匠</string>
+  <string name="Titanium Housing Crafter_DESC">将6个板变成1个壳体。</string>
+  <string name="Titanium Housing Crafter_CRAFT_DESC">把6块金属板变成1个外壳。这是一种将钛板自动切割成钛金属外壳的机器。</string>
+  <string name="Titanium Housing Crafter_CRAFT_HINT">比手工操作效率高得多！</string>
+  
+  <string name="Suit Beacon">防护服信标</string>
+  <string name="Suit Beacon_DESC">标记你的死亡地点</string>
+  <string name="Suit Beacon_CRAFT_DESC">掉落时非常明显。专为笨拙的熊孩子设计。</string>
+  <string name="Suit Beacon_CRAFT_HINT">#总是做好准备</string>
+  
+  <string name="Bulk Gas Freighter">快速气体货车</string>
+  <string name="Bulk Gas Freighter_DESC">车轮上的小型储气库</string>
+  <string name="Bulk Gas Freighter_CRAFT_DESC">气量500的快速货车。</string>
+  <string name="Bulk Gas Freighter_CRAFT_HINT">一次只能携带一种气体。</string>
+  
+  <string name="PrecisionAlloyed MachineBlock Assembler">精密合金机体装配机</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_DESC">使用另一种制造合金机床块的方法，对某些基础设置更有用。</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_DESC">用t2工艺材料制作合金块。</string>
+  <string name="PrecisionAlloyed MachineBlock Assembler_CRAFT_HINT">它们被广泛使用，强烈建议您将其自动化！</string>
+
+  <string name="MISSION_Title_Superbuild">左Ctrl-超级建筑</string>
+  <string name="MISSION_Text_Superbuild">你的建筑枪可以让你创造出直线运行的机器。
+
+这项技术将使你的基地连接通过传送带更容易。
+
+超级建造一个接触现有传送带的传送带将“复制”其前进方向。
+
+如果你被卡住了，请重新访问有关超级建筑的视频教程！</string>
+  <string name="SuperBuild_x_more_Blocks">超级建造至少{0}更多块。</string>
+  
+  <string name="Basic Manufacturing Plant_CRAFT_DESC">基本的制造工厂允许自动化工艺完成一条生产线。</string>
+  <string name="Basic Manufacturing Plant_CRAFT_HINT">不支持手工制作。</string>
+<string name="FreightHelp3d">无效文字</string> </resources>
