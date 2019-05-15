@@ -5354,4 +5354,16 @@ PTG无法发挥这个功能！</string>
   <string name="UNUSED Room Ventilation Grille_CRAFT_HINT">不使用</string>
   
   
+  <string name="Freight Cart Station">货车站</string>
+  <string name="Freight Cart Station_DESC">根据其他货运站的需求，为货运车提供指定的资源。</string>
+  <string name="Freight Cart Station_CRAFT_DESC">向货运网络提供从料斗或大容量存储指定的资源。</string>
+  <string name="Freight Cart Station_CRAFT_HINT">智能资源分配。</string>
+  <string name="Freight System Monitor">货运系统监控器</string>
+  <string name="Freight System Monitor_DESC">用于访问货运网络信息的面板。</string>
+  <string name="Freight System Monitor_CRAFT_DESC">显示有关货运系统的有用信息。</string>
+  <string name="Freight System Monitor_CRAFT_HINT">看看所有的东西！</string>
+  <string name="Freight Cart Depot">货车站</string>
+  <string name="Freight Cart Depot_DESC">根据需要拆卸和召回货运车，以服务于货运车站。</string>
+  <string name="Freight Cart Depot_CRAFT_DESC">用于将货车从附加的储料仓放到轨道上。</string>
+  <string name="Freight Cart Depot_CRAFT_HINT">只向需要它们的车站发射推车。</string>
   </resources>
