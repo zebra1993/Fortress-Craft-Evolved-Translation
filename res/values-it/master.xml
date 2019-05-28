@@ -909,7 +909,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Butcherboy Pebbles">Ciottoli Butcherboy</string>
   <string name="Butcherboy Pebbles_DESC">.</string>
   <string name="Air_DESC"/>
-  <string name="Grass_DESC"></string>
+  <string name="Grass_DESC"/>
   <string name="Dirt_DESC">.</string>
   <string name="Wooden Planks_DESC">.</string>
   <string name="Leaves_DESC">.</string>
@@ -2190,4 +2190,7 @@ Economico e Butto, ma affidabile*
   <string name="Track Gate">Cancello Sui Binari</string>
   <string name="Bulk Mass Storage Input Port_CRAFT_DESC">Inserisce gli oggetti in un Magazzino. Inserisce 25 articoli uguali; una preselezione migliora l\'efficienza del sistema.</string>
   <string name="ConstructoBot Bronzite Chassis Assembler_CRAFT_DESC">Assemblatore del Telaio in Bronzite del AutoCostruttore.</string>
+  <string name="ConstructoBot Ironide Chassis Assembler_CRAFT_DESC">Assemblatore del Telaio in Ferro del AutoCostruttore.</string>
+  <string name="ConstructoBot Leg Assembler_CRAFT_DESC">Assemblatore L0 Gambe in Rame del AutoCostruttore.</string>
+  <string name="ConstructoBot Arm Assembler_CRAFT_DESC">Assemblatore L0 Braccia in Rame del AutoCostruttore.</string>
   </resources>
