@@ -1248,7 +1248,7 @@ non implementato</string>
   <string name="Laser Receptor_DESC">.</string>
   <string name="Lift w/underside Piston">Ascensore a Pistone</string>
   <string name="Lift w/underside Piston_DESC">Alza o abbassa fino a 64 m alla velocità di 1 m/s</string>
-  <string name="Lift Compressor">Commpressore per Ascensore</string>
+  <string name="Lift Compressor">Compressore per Ascensore</string>
   <string name="Lift Compressor_DESC">Richiede Energia.
 Incrementa la veloctità di compressione dell\'ascensore L1
 aggiungilo all\'ascensore L1.</string>
@@ -2269,4 +2269,44 @@ Economico e Butto, ma affidabile*
   <string name="Plasma Head Charger_CRAFT_HINT">Fornisce una velocità quadrupla All\'estrattore minerale, ma la carica scompare dopo 2000 ore di estrazione.</string>
   <string name="Climate Control Centre_CRAFT_DESC">Il Centro di Controllo del Clima della Caverna Congelata dovrebbe iniziare a terraformare le caverne congelate che abbiamo trovato in una zona ospitale. Tutte le macchine di supporto L4 richiedono il suo funzionamento. Sono neccessari 175 in totale.</string>
   <string name="Climate Control Centre_CRAFT_HINT">Costruiscilo in una forma lungs 5 alta 7 larga 5.</string>
+  <string name="Trencher Drill component_CRAFT_DESC">Crea la testa della Trivella Trencher. Costruiscila in una configurazione larga 3 alta 3 profonda 3 davanti al motore.</string>
+  <string name="Trencher Drill component_CRAFT_HINT">L\'efficienza dipende dall\'esposizione della vena alla trivella</string>
+  <string name="Trencher Drill Mk2 component_CRAFT_DESC">Crea la testa della Trivella Trencher. Costruiscila in una configurazione larga 3 alta 3 profonda 3 davanti al motore.</string>
+  <string name="Trencher Drill Mk2 component_CRAFT_HINT">L\'efficienza dipende dall\'esposizione della vena alla trivella</string>
+  <string name="Trencher Drill Mk3 component_CRAFT_DESC">Crea la testa della Trivella Trencher. Costruiscila in una configurazione larga 3 alta 3 profonda 3 davanti al motore.</string>
+  <string name="Trencher Drill Mk3 component_CRAFT_HINT">L\'efficienza dipende dall\'esposizione della vena alla trivella</string>
+  <string name="Trencher Motor component_CRAFT_DESC">Crea un motore della Trivella Trecher. Costruiscila in una configurazione larga 3 alta 3 profonda 3 dietro alla testa.</string>
+  <string name="Trencher Motor component_CRAFT_HINT">Riceve energia e restituisce minerale per la trivella.</string>
+  <string name="Geothermal Generator comp._CRAFT_DESC">Energia Geotermica. piazzalo in un\'area fredda,e alimentalo con Condotti Termici.Costruiscilo in una forma 5x3x5. (75 in totale)</string>
+  <string name="Geothermal Generator comp._CRAFT_HINT">Crea molta energia.</string>
+  <string name="Casting Basin component_CRAFT_DESC">Questo trasforma il metallo liquido ad alta velocità. In grado di trattre Cromo e Molibdeno. costruiscilo in una forma 5x3x5. (75 in totale)</string>
+  <string name="Casting Basin component_CRAFT_HINT">Collegalo a 4 Altoforni per massimizzare l\'efficacia.</string>
+  <string name="Blast Furnace component_CRAFT_DESC">Questo trasforma il minerale in scorie liquide velocemete. Capaci di trattare Cromo e Molibdeno. costruito in una forma 3x7x3.</string>
+  <string name="Blast Furnace component_CRAFT_HINT">Usa i Tubi per collegarli.</string>
+  <string name="Casting Pipe (Straight)_CRAFT_DESC">Usalo per collegare l\'Altoforno con Bacino di Colata Continua.</string>
+  <string name="Casting Pipe (Straight)_CRAFT_HINT">Usa i Tubi per collegarli.</string>
+  <string name="Casting Pipe (Bend)_CRAFT_DESC">Usalo per collegare l\'Altoforno con Bacino di Colata Continua.</string>
+  <string name="Casting Pipe (Bend)_CRAFT_HINT">Usa i Tubi per collegarli.</string>
+  <string name="Mesh Weaver_CRAFT_DESC">Crea Maglia di Fibra di Cristallo.</string>
+  <string name="Mesh Weaver_CRAFT_HINT">Nessun suggerimento.</string>
+  <string name="Pipe Coater_CRAFT_DESC">Crea Condotti Termici, usalo nella stazioni Geotermiche.</string>
+  <string name="Pipe Coater_CRAFT_HINT">Nessun suggerimento.</string>
+  <string name="Hard Rock Grinder_CRAFT_DESC">Questo ci permette di estrarre minerali L4 in modo lento e inefficace. Con questi nuovi minerali possiamo costruire nuove macchine! Costruiscilo in una forma 3x1x3.</string>
+  <string name="Hard Rock Grinder_CRAFT_HINT">MACCHINA MONOUSO!</string>
+  <string name="Particle Filter_CRAFT_DESC">Rimuove le particelle utili dall\'aria. Costruiscilo in una configurazione 5x3x5 (75 in totale).</string>
+  <string name="Particle Filter_CRAFT_HINT">Improbabile che faccia una differenza permanente sul lungo termine per la qualità dell\'aria.</string>
+  <string name="Particle Compressor_CRAFT_DESC">Comprime e raffredda il gas a bassa pressione, pronto per essere immagazzinato e imbottigliato. Costruisci in una forma 3x3x3 (27 totali).</string>
+  <string name="Particle Compressor_CRAFT_HINT">Questa macchina può avere 4 Unità di Filtraggio collegate.</string>
+  <string name="Particle Storage_CRAFT_DESC">Immagazzina il gas compresso, pronto per l\'imbottigliamento. Costruiscilo in una forma 3x7x3 (63 totali).</string>
+  <string name="Particle Storage_CRAFT_HINT">Questa macchina può avere 4 Unita di Compressione.</string>
+  <string name="Gas Bottler_CRAFT_DESC">Immette il gas compresso in utili contenitori. Costruisci in una forma 3x3x9 (81 in totale).</string>
+  <string name="Gas Bottler_CRAFT_HINT">Qualsiasi Tramoggia può ricevere il gas compresso.</string>
+  <string name="Fluid Pipe (Straight)_CRAFT_DESC">Usalo pe collegare vari macchinari insieme. Usa L\'AutoCostruzione per creare le curve.</string>
+  <string name="Fluid Pipe (Straight)_CRAFT_HINT">se non si illumina, probabilmente è posizionato male!</string>
+  <string name="Fluid Pipe (Bend)_CRAFT_DESC">Usalo per collegare varie macchine insieme.</string>
+  <string name="Fluid Pipe (Bend)_CRAFT_HINT">se non si illumina, probabilmente è posizionato male!</string>
+  <string name="MagmaBore Component_CRAFT_DESC">Scava una buca molto, molto, molto grande, quindi sgorgherà il magma. Costruisci in una forma 33x3x33. (3267 in totale)</string>
+  <string name="MagmaBore Component_CRAFT_HINT">Magma - che suono magnifico.</string>
+  <string name="Magma Storage_CRAFT_DESC">Immagazzino il Magma e pompalo al CryoPlasma Inferno trmite i Tubi. costruiscilo in una forma 3x7x3.</string>
+  <string name="Magma Storage_CRAFT_HINT">Magma - che suono magnifico.</string>
   </resources>
