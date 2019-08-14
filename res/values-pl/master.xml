@@ -178,7 +178,7 @@ Hardcore jest najtrudniejszym trybem; Jeśli ty lub twoje OCZ umrzecie, koniec g
     <string name="Scorched Earth">Spieczona ziemia</string>
     <string name="Construction Crate">Skrzynia Budowlana</string>
     <string name="Bound Wooden Crate">Ograniczona Drewniana Skrzynia</string>
-    <string name="Bound Metal Crate">Ograniczony Metalowa Skrzynia</string>
+    <string name="Bound Metal Crate">Ograniczona Metalowa Skrzynia</string>
     <string name="Paper Wrapped Crate">Skrzynia Owinięta Papierem</string>
     <string name="Wooden Crate">Drewniana Skrzynia</string>
     <string name="Old_Gold Ore">Stara Ruda Złota</string>
@@ -656,4 +656,178 @@ Hardcore jest najtrudniejszym trybem; Jeśli ty lub twoje OCZ umrzecie, koniec g
   <string name="Tree Trunk_DESC">Pozostałości majestatycznego drzewa</string>
   <string name="Window_DESC">Przenikają przez nie światło oraz energia</string>
   <string name="Leaves_DESC">Szeleszczą, gdy po nich kroczysz</string>
+  <string name="Uranium">Uran</string>
+  <string name="Dyed Marble">Barwiony Marmur</string>
+  <string name="Grooved Cement">Wyżłobiony Cement</string>
+  <string name="Present1">Prezent1</string>
+  <string name="Present2">Prezent2</string>
+  <string name="Present3">Prezent3</string>
+  <string name="Present4">Prezent4</string>
+  <string name="DapperWall">Elegancka Ściana</string>
+  <string name="Snowman">Bałwan</string>
+  <string name="Nickel Ore">Ruda Niklu</string>
+  <string name="Titanium Ore">Ruda Tytanu</string>
+  <string name="Crystal Deposit">Złoże Kryształu</string>
+  <string name="Biomass">Biomasa</string>
+  <string name="Diamond Crystal">Diamentowy Kryształ</string>
+  <string name="Diamond Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Emerald Crystal">Szmaragdowy Kryształ</string>
+  <string name="Emerald Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Ruby Crystal">Rubinowy Kryształ</string>
+  <string name="Ruby Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Sapphire Crystal">Szafirowy Kryształ</string>
+  <string name="Sapphire Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Topaz Crystal">Topazowy Kryształ</string>
+  <string name="Topaz Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Sugalite Crystal_DESC">Te niskopoziomowe kryształy mogą być wyszlifowane i użyte w różnorodnych soczewkach i innych użytecznych przedmiotach.</string>
+  <string name="Basic Rocket Engine">Podstawowy Silnik Rakiety</string>
+  <string name="Basic Fuel Tank">Podstawowy Zbiornik Paliwa</string>
+  <string name="Basic Rocket Fin">Podstawowy Statecznik Rakiety</string>
+  <string name="LaunchPad">Płyta Wyrzutni Rakietowej</string>
+  <string name="Orange GlowPod_DESC">To nie wydaje się być bardzo użyteczne.</string>
+  <string name="Blue GlowPod_DESC">Ta roślina wydaje się pięknie rosnąć w zimniejszej atmosferze. Być może przesunięcie się nieznacznie głębiej może dać coś użytecznego?</string>
+  <string name="Green GlowPod_DESC">Ta roślina wydaje się zawierać mocne filtry do radzenia sobie z toksyczną atmosferą. Być może przesunięcie się nieznacznie głębiej może dać coś użytecznego?</string>
+  <string name="Purple GlowPod_DESC">To nie wydaje się być bardzo użyteczne.</string>
+  <string name="GlowShroom_DESC">To nie wydaje się być bardzo użyteczne.</string>
+  <string name="BaubleBerry_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="UnderGrump_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="GoopyDangler_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="CoxComb_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="LeafyDangler_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="Cold Cavern Flora 1_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 2_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 3_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 4_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 5_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 6_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="Cold Cavern Flora 7_DESC">Ta roślina wydaje się pięknie rosnąć w chłodniejszej atmosferze.</string>
+  <string name="TundraBreath_DESC">To jeszcze nie wydaje się być bardzo użyteczne.</string>
+  <string name="Toxic Cavern Flora 1_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 2_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 3_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 4_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 5_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 6_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Toxic Cavern Flora 7_DESC">Ta roślina wydaje się pięknie rosnąć w toksycznej atmosferze.</string>
+  <string name="Electric Light">Światło Elektryczne</string>
+  <string name="Fluid Magma">Ciekła Magma</string>
+  <string name="Enriched Coal">Wzbogacony Węgiel</string>
+  <string name="Rusted Concrete">Zardzewiały Beton</string>
+  <string name="Up Arrow">Strzałka w Górę</string>
+  <string name="Down Arrow">Strzałka w Dół</string>
+  <string name="Sign">Tabliczka</string>
+  <string name="Central Power Hub_DESC">Generuje niewiele energii.
+Może spalać zasoby energii.
+Ładuje pobliskie struktury.</string>
+  <string name="Ore Extractor">Ekstraktor Rudy</string>
+  <string name="Ore Extractor_DESC">Wydajnie wydobywa rudę.
+Przechowuje 25 sztuk Rudy.
+Wydobywa 1 sztukę Rudy/min.</string>
+  <string name="Power Storage Block">Akumulator</string>
+  <string name="Power Storage Block_DESC">Przechowuje niewiele energii.
+Otrzymuje energię z innych źródeł.
+Przenosi energię do innych maszyn.</string>
+  <string name="Power Storage MK2">Akumulator MK2</string>
+  <string name="Power Storage MK2_DESC">Przechowuje więcej energii.
+Otrzymuje energię z innych źródeł.
+Przenosi energię do innych maszyn.</string>
+  <string name="Power Storage MK3">Akumulator MK3</string>
+  <string name="Power Storage MK3_DESC">Przechowuje więcej energii.
+Otrzymuje energię z innych źródeł.
+Przenosi energię do innych maszyn.</string>
+  <string name="Organic Power Storage">Organiczny Akumulator</string>
+  <string name="CryoHopper_DESC">Trzyma zimno przedmiotów. Wymaga Energii. Bardziej wydajny, jeśli postawiony gdzieś w chłodzie.</string>
+  <string name="Solar Panel">Panel Słoneczny</string>
+  <string name="Solar Panel_DESC">Generuje energię w świetle dziennym.
+Ładuje przylegające akumulatory.</string>
+  <string name="Organic Solar Panel">Organiczny Panel Słoneczny</string>
+  <string name="Organic Solar Panel_DESC">Generuje niewielką ilość energii w ciągu nocy.
+Ładuje przylegające akumulatory.</string>
+  <string name="BFL-9000">BFL-9000</string>
+  <string name="BFL-9000_DESC">Ogromny Laser Kopiący.
+Drąży tunel 5x5.
+Wymaga dużo energii.</string>
+  <string name="Basic Matter Mover_DESC">Przekazuje do 150 przedmiotów/min w zakresie 64m</string>
+  <string name="Dual Matter Mover_DESC">Przekazuje do 300 przedmiotów/min w zakresie 32m</string>
+  <string name="Quad Matter Mover_DESC">Przekazuje do 600 przedmiotów/min w zakresie 16m</string>
+  <string name="Multi Matter Mover_DESC">Przekazuje do 4800 przedmiotów/min w zakresie 4m</string>
+  <string name="Basic Conveyor Belt">Podstawowy taśmociąg</string>
+  <string name="Basic Conveyor Belt_DESC">Powoli przenosi materiały ze zbiorników</string>
+  <string name="Conveyor Belt">Taśmociąg</string>
+  <string name="Conveyor Belt_DESC">Przenosi materiały ze zbiorników</string>
+  <string name="Conveyor Belt Filter">Taśmociąg z Filtrem</string>
+  <string name="Conveyor Belt Filter_DESC">Usuwa materiały w oparciu o zasady</string>
+  <string name="Transport Pipe">Rura Transportowa</string>
+  <string name="Transport Pipe_DESC">Zezwala na przenoszenie we wszystkich kierunkach</string>
+  <string name="Transport Pipe Filter">Rura Transportowa z Filtrem</string>
+  <string name="Transport Pipe Filter_DESC">Usuwa materiały w oparciu o zasady</string>
+  <string name="Stamper Plant"></string>
+  <string name="Stamper Plant_DESC">Zamienia Sztabki w Płyty</string>
+  <string name="Extrusion Plant_DESC">Zamienia Sztabki w Kable</string>
+  <string name="Pipe Extrusion Plant_DESC">Zamienia Sztabki w Rury</string>
+  <string name="Conveyor Turntable_DESC">Automatycznie roździela przedmioty</string>
+  <string name="Advanced Conveyor Filter">Zaawansowany Taśmociąg z Filtrem</string>
+  <string name="Up Sloped Conveyor">Taśmociąg Nachylony w Górę</string>
+  <string name="Up Sloped Conveyor_DESC"></string>
+  <string name="Down Sloped Conveyor">Taśmociąg Nachylony w Dół</string>
+  <string name="Research Station">Stacja Badawcza</string>
+  <string name="Research Station_DESC">Przetwarzaj skany i badaj
+technologie. Wymaga energii.</string>
+  <string name="Forced Induction_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="MK2 Forced Induction_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="MK3 Forced Induction_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="MK4 Forced Induction_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="MK5 Forced Induction_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="ARC Smelter Upgrade_DESC">Zwiększa szybkość wytapiania Rudy i zuzycie energii.
+Umieść na górze Huty Rudy.</string>
+  <string name="Turret MK1">Wieżyczka MK1</string>
+  <string name="Turret MK1_DESC">Dobra do obrony infrastruktury.</string>
+  <string name="Turret MK2">Wieżyczka MK2</string>
+  <string name="Turret MK2_DESC">Dobra do obrony bazy.</string>
+  <string name="Turret MK3">Wieżyczka MK4</string>
+  <string name="Turret MK3_DESC">Wieżyczka dobra do obrony dalekiego zasięgu.</string>
+  <string name="Auto Excavator_DESC">Automatycznie wykopuje duże pionowe szyby od dołu.</string>
+  <string name="Teleporter">Teleporter</string>
+  <string name="Teleporter_DESC">Teleportuje gracza do lokalizacji ustaloną przez Znacznik Położenia. Wymaga dużo energii!</string>
+  <string name="Manufacturing Plant">Zakład Produkcyjny</string>
+  <string name="Manufacturing Plant_DESC">Centralna, zautomatyzowana maszyna rzemieślnicza.
+Może być rozbudowywana poprzez dołączenie modułów.
+Wymaga energii.</string>
+  <string name="3D Printer">Drukarka 3D</string>
+  <string name="3D Printer_DESC">Moduł zakładu produkcyjnego.
+Odblokowuje receptury drukarek 3D, po
+dołączeniu do zakładu produkcyjnego.</string>
+  <string name="Refinery Controller">Kontroler rafinerii</string>
+  <string name="Refinery Reactor Vat_DESC">Gracz nigdy nie powinien być w stanie tego przeczytać...</string>
+  <string name="Jet Turbine Generator_DESC">Gracz nigdy nie powinien być w stanie tego przeczytać...</string>
+  <string name="Red Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Blue Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Green Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Yellow Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Orange Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Purple Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Flesh Color Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="White Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Grey Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Black Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Plum Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Marine Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Brown Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Indigo Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Lime Yellow Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Maroon Storage Crate_DESC">Proste rozwiązanie w zakresie przechowywania.</string>
+  <string name="Deployed Explosive_DESC">Dostarcz energii, żeby zwiększyć zasięg eksplozji</string>
+  <string name="Laboratory">Labolatorium</string>
+  <string name="Basic Quarry_DESC">Wykopuje 9-metrowy szyb, głęboko wgłąb powierzchni planety.</string>
+  <string name="Track Straight_DESC">Umożliwia wagonom podróżowanie w linii prostej.</string>
+  <string name="Track Corner_DESC">Umożliwia wagonom podróżowanie po zakrętach.</string>
+  <string name="Track Slope_DESC">Umożliwia wagonom podróżowanie po zboczach.</string>
+  <string name="Minecart Brake_DESC">Redukuje prędkość wagonów</string>
+  <string name="Minecart Turbo Rail_DESC">Zwiększa prędkość wagonów</string>
   </resources>
