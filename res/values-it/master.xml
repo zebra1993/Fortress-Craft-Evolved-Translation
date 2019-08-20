@@ -1504,7 +1504,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Orbital Strike Controller_DESC">Sito nucleare in orbita. È l\'unica viaper essere sicuri. richiede un TEO completamente carico.</string>
   <string name="SurfaceHiveSpawn">GeneratoreAlveariSuperficiale</string>
   <string name="SurfaceHiveSpawn_DESC">" "</string>
-  <string name="Construction Paste">Colla Costrutrice</string>
+  <string name="Construction Paste">Pasta da Costrutrice</string>
   <string name="Construction Paste_DESC">" "</string>
   <string name="FALCOR MK1">FALCOR MK1</string>
   <string name="FALCOR MK1_DESC">Raccogli gli oggetti lasciati con il Faro FALCOR e riportalo.
@@ -2796,4 +2796,25 @@ Economico e Butto, ma affidabile*
   <string name="Locate_Gold_Ore">Individua : Minerale di Oro.</string>
   <string name="Locate_Titanium_Ore">Individua : Minerale di Titanio.</string>
   <string name="Locate_Nickel_Ore">Individua : Minerale di Nichel.</string>
+  <string name="Hint_30">I FALCOR sono fantastici per ripulire dopo un attacco.</string>
+  <string name="Hint_31">Quando i nastri trasportatori non sono sufficienti ... Carrelli da miniera!</string>
+  <string name="Hint_32">Le fonderie di base velocizza la produzione quando la fonderia iniziale è insufficiente</string>
+  <string name="Hint_33">Il livello di energia di ATHER è visualizzata appena sopra la barra degli oggetti</string>
+  <string name="Hint_34">L\'energia Totale della Fortezza e l\'ora del giorno nella barra degli oggetti in basso</string>
+  <string name="Hint_35">I nastri trasportatori inclinati sono più veloci (e carini) di quelli normali</string>
+  <string name="Hint_36">In caso di dubbi, premi (H).</string>
+  <string name="Hint_37">Automatizzare la produzione per risparmiare tempo e spazio.</string>
+  <string name="Hint_38">Premi (G) per gettare una Stecca Fluorescente.</string>
+  <string name="Hint_39">Cerca i cristalli nelle grotte sotteranee. L\'aggiornamento Scanner per Cristalli renderà più facile trovarli.</string>
+  <string name="Hint_40">Quando sali su un ascensole che può salire o scendere, la direzione dello sguardo determina il movimento iniziale - guarda in alto per salire!</string>
+  <string name="Hint_41">Non aver paura di ricostruire qualcosa se il tuo precedente progetto non soddisfa più le tue esigenze.</string>
+  <string name="Hint_42">Apri l\'inventario degli aggiornamenti della tuta premendo (S) nella schermata dell\'inventario. Metti qui gli aggiornamenti della tuta e di ARTHER per salvare spazio nell\'inventario.</string>
+  <string name="Hint_43">Molte macchine che usano un solo oggetto possono operare senza tramogie se metti i nastri trasportatori su entrambi i lati.</string>
+  <string name="Hint_44">La generazione di energia crea una minaccia. Il tuo laboratorio richiederà abbastanza potenza per attirare l\'attenzione, quindi inizia a costruire le torrette!</string>
+  <string name="Hint_45">Le fonderie di base sono necessarie per aumentare la produzione prima di arrivare ai metalli di livello superiore.</string>
+  <string name="Hint_46">Puoi trasformare un sacco di cose in Pasta da Costruzione - non solo la Spazzature. Alimenta la Macina per la Pasta da Costruzione con il Carbone, se finisce!</string>
+  <string name="Hint_47">La funzione altenativa del Laboratorio analizza le parti di ricerca per i Punti di Ricerca.</string>
+  <string name="Hint_48">Le piante aliene sui nastri trasportatori alimentato un Hive. Difendi il nastro!</string>
+  <string name="Hint_49">I FALCOR Logistica sono perfetti per consegne piccole quantità. consegnare vari tipi di carbone al GPT è la combinazione perfette.</string>
+  <string name="Hint_50">La neve ti fa rallentare, i blocchi rinforzati ti fanno correre.</string>
   </resources>
