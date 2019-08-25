@@ -42,7 +42,7 @@
     <string name="Status">Stato</string>
     <string name="Workshop">Officina</string>
 
-    <string name="Workshop_Mod">Mod Officina</string>
+    <string name="Workshop_Mod">Officina delle Mod</string>
     <string name="Update_Pending">In attesa di Aggiornamento</string>
     <string name="Downloading">In Scaricamento</string>
 
@@ -62,9 +62,9 @@
     <string name="Normal">Normale</string>
     <string name="Eternal Night">Notte Eterna</string>
 
-    <string name="Trivial Mobs">Assalto Banale</string>
-    <string name="Normal Mobs">Assalto Normale</string>
-    <string name="Hard Mobs">Assalto Difficile</string>
+    <string name="Trivial Mobs">Minaccia Banale</string>
+    <string name="Normal Mobs">Minaccia Normale</string>
+    <string name="Hard Mobs">Minaccia Difficile</string>
 
     <string name="None">Nessuno</string>
     <string name="Clumsy">Maldestro</string>
