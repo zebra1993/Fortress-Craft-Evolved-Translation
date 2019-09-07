@@ -761,14 +761,14 @@ Wymaga dużo energii.</string>
   <string name="Transport Pipe_DESC">Zezwala na przenoszenie we wszystkich kierunkach</string>
   <string name="Transport Pipe Filter">Rura Transportowa z Filtrem</string>
   <string name="Transport Pipe Filter_DESC">Usuwa materiały w oparciu o zasady</string>
-  <string name="Stamper Plant"></string>
+  <string name="Stamper Plant"/>
   <string name="Stamper Plant_DESC">Zamienia Sztabki w Płyty</string>
   <string name="Extrusion Plant_DESC">Zamienia Sztabki w Kable</string>
   <string name="Pipe Extrusion Plant_DESC">Zamienia Sztabki w Rury</string>
   <string name="Conveyor Turntable_DESC">Automatycznie roździela przedmioty</string>
   <string name="Advanced Conveyor Filter">Zaawansowany Taśmociąg z Filtrem</string>
   <string name="Up Sloped Conveyor">Taśmociąg Nachylony w Górę</string>
-  <string name="Up Sloped Conveyor_DESC"></string>
+  <string name="Up Sloped Conveyor_DESC"/>
   <string name="Down Sloped Conveyor">Taśmociąg Nachylony w Dół</string>
   <string name="Research Station">Stacja Badawcza</string>
   <string name="Research Station_DESC">Przetwarzaj skany i badaj
@@ -830,4 +830,12 @@ dołączeniu do zakładu produkcyjnego.</string>
   <string name="Track Slope_DESC">Umożliwia wagonom podróżowanie po zboczach.</string>
   <string name="Minecart Brake_DESC">Redukuje prędkość wagonów</string>
   <string name="Minecart Turbo Rail_DESC">Zwiększa prędkość wagonów</string>
+  <string name="StorageHopper">Zbiornik Magazynujący</string>
+  <string name="LogisticsHopper">Zbiornik Logistyczny</string>
+  <string name="MiniHopper">Mini Zbiornik</string>
+  <string name="Minecart Unload Station">Stacja Rozładunkowa</string>
+  <string name="Minecart Unload Station_DESC">Umieszcza surowce z Wagonu do podłączonego Zbiornika</string>
+  <string name="Minecart Load Station">Stacja Ładownicza</string>
+  <string name="Minecart Load Station_DESC">Umieszcza surowce z podłączonego Zbiornika do Wagonu</string>
+  <string name="Threat Scanner">Skaner Zagrożenia</string>
   </resources>
