@@ -3060,4 +3060,41 @@ Tutte le altre priorità annullate!</string>
   <string name="Craft_fit_Suit_Heater">Crea e usa un Riscaldatore per la Tuta!</string>
   <string name="Go_deeper_Traverse_the_CC">Vai più in basso: attraversa le Caverne Congelate.</string>
   <string name="Construct_Lifts_T2_lifting">Costruisci un montacarichi per il sollevamento di L2.</string>
+  <string name="Your_Base_Smelter_needs_Automation_via_Hoppers">La tua Fonderia Base necessita di Automazione tramite Tramogie</string>
+  <string name="Build_OET">Costruisci un Trasmettitore di Energia Orbitale!</string>
+  <string name="Overminds_to_destroy">Vai a distruggere l\'Overminds!</string>
+  <string name="Charge_OET">Carica un Trasmettitore di Energia Orbitale!</string>
+  <string name="Blast_Furnace">Altoforno</string>
+  <string name="Desired_PPS">Richiesti E/s</string>
+  <string name="Desired_PPS_X">Richiesti E/s: {0}</string>
+  <string name="No_Attached_SH_or_MS_found">Manca la Tramogioa o il Magazzino</string>
+  <string name="Attached_to">Attaccato a</string>
+  <string name="Attached_to_X">Attacato a {0}</string>
+  <string name="MS_units">Unità del Magazzino</string>
+  <string name="Storage_Hoppers">Tramoggie</string>
+  <string name="Storage_Hopper">Tramoggia</string>
+  <string name="No_Attached_SH_found">Manca la Tramogia!</string>
+  <string name="N_C_to_CCB">Non collegato al Bacino di Colata Continua</string>
+  <string name="State">Stato</string>
+  <string name="Smelting">Fusione</string>
+  <string name="Smelting_time">Tempo di fusione</string>
+  <string name="Smelting_time_X">Tempo di Fusione: {0}s</string>
+  <string name="Cost">Costo</string>
+  <string name="Cost_X">Costo : {0}</string>
+  <string name="Unfinished_Infinite_heat_and_light_Will_be_replaced">Incompiuto.
+Luce e calore infiniti.
+Verrà rimpiazzato!</string>
+  <string name="in_inventory">nell\'inventario</string>
+  <string name="No_description">Nessuna descrizione</string>
+  <string name="ConstructoBot Coppator Chassis">Telaio in Rame del AutoCostruttore</string>
+  <string name="ConstructoBot Coppator Arm">Braccia in Rame del AutoCostruttore</string>
+  <string name="ConstructoBot Coppator Leg">Gambe in Rame del AutoCostruttore</string>
+  <string name="ConstructoBot Ultron Chassis">Telaio AutoCostruttore Ultron</string>
+  <string name="ConstructoBot Cromize Chassis">Telaio AutoCostruttore Cromato</string>
+  <string name="ConstructoBot Stenforcer Chassis">Telaio Autoscostruttore Stenforcer</string>
+  <string name="ConstructoBot Titaniux Chassis">Telaio Autocostruttore in Titanio</string>
+  <string name="ConstructoBot Rosteeld Chassis">Telaio AutoCostruttore Rosteeld</string>
+  <string name="ConstructoBot Goldenrod Chassis">Telaio AutoCostruttore Astadorata</string>
+  <string name="ConstructoBot Ironide Chassis">Telaio AutoCostruttore in Ferro</string>
+  <string name="ConstructoBot Tindron Chassis">Telaio AuroCostruttore in Titanio</string>
   </resources>
