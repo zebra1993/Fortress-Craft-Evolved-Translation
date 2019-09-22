@@ -98,7 +98,7 @@
 
     <string name="Eternal_Day_Info">Giorno eterno significa che i sistemi di raccolta ad energia solare lavoreranno costantemente e non si avranno penalità dovute alla caduta di temperatura durante la notte. Scegliere questa opzione permetterà una progressione del gioco molto più veloce - raccolta di energia da fonti solari più veloce del 400%!</string>
     <string name="Day_Night_Info">Il ciclo normale giorno/notte è di 24 minuti. Per i 12 minuti di oscurità si avranno cali estremi della temperatura, aggressività aumentata dei nemici e ridotta visibilità.</string>
-    <string name="Eternal_Night_Info">"Notte Eterna significa nessuna  tregua dal gelo congelante neanche durante il giorno e nessun accesso alla tecnologia solare non-organica, incluso il tuo Hub Centrale. Questo settaggio costituisce una sfida significativa."</string>
+    <string name="Eternal_Night_Info">"Notte Eterna significa nessuna  tregua dal gelo congelante neanche durante il giorno e nessun accesso alla tecnologia solare non-organica, incluso il tuo CPH. Questo settaggio costituisce una sfida significativa."</string>
 
     <string name="Death_Default_Info">Questa è la modalità standard. Non c\'è alcuna penalità per la morte, ad eccezione della bassa salute e una lunga camminata. Questo rende il gioco estremamente facile, dato che non c\'è penalità per nessuno degli eccitanti modi in cui puoi morire.</string>
     <string name="Death_Clumsy_Info">Modalità Maldestra è consigliata se cerchi una sfida ragionevole ed una buona ragione per non morire! Alla morte tutto il materiale in inventario verrà lasciato cadere a terra!</string>
@@ -3096,5 +3096,114 @@ Verrà rimpiazzato!</string>
   <string name="ConstructoBot Rosteeld Chassis">Telaio AutoCostruttore Rosteeld</string>
   <string name="ConstructoBot Goldenrod Chassis">Telaio AutoCostruttore Astadorata</string>
   <string name="ConstructoBot Ironide Chassis">Telaio AutoCostruttore in Ferro</string>
-  <string name="ConstructoBot Tindron Chassis">Telaio AuroCostruttore in Titanio</string>
+  <string name="ConstructoBot Tindron Chassis">Telaio AutoCostruttore in Titanio</string>
+  <string name="ConstructoBot Bronzite Chassis">Telaio AutoCostruttore in Bronzo</string>
+  <string name="Airborne Particulate Extractor">Estrattore Particolato in Sospensione</string>
+  <string name="Airborne Particulate Extractor_DESC">Estrattore Particolato in Sospensione_DESC</string>
+  <string name="Airborne Particulate Compressor">Compressore Particolato in Sospensione</string>
+  <string name="Airborne Particulate Compressor_DESC">Compressore Particolato in Sospensione_DESC</string>
+  <string name="Cargo_Lift_Controller">Controllo Montacarichi</string>
+  <string name="Power_State">Stato Energetico</string>
+  <string name="Power_State_X">Stato Energetico: {0}</string>
+  <string name="Rack_Rail_storage_X">Rotaia a Cremagliera stoccato: {0}</string>
+  <string name="Operating_State">Stato Operativo</string>
+  <string name="Operating_State_X">Stato Operativo: {0}</string>
+  <string name="Rail_Depth_X">Profondità della Rotaia: {0}m</string>
+  <string name="Rail_State_X">Stato Rotaia: {0}</string>
+  <string name="Press_T_to_spawn_lift">Premi (T) per far apparire l\'ascensore</string>
+  <string name="Lift_Depth_X">Profondità Ascensore: {0}m</string>
+  <string name="Lift_State_X">Stato Ascensore: {0}m</string>
+  <string name="Order">Ordine</string>
+  <string name="Inventories">Inventario</string>
+  <string name="Moving">In Movimento</string>
+  <string name="Cargo">Carico</string>
+  <string name="Check_Rail">Controllo Rotaia</string>
+  <string name="Shaft_depth">Profondità Pozzo</string>
+  <string name="No_lift_deployed">Ascensore non installato</string>
+  <string name="Depth">Profondità</string>
+  <string name="Orders">Ordini</string>
+  <string name="Switch">Interruttore</string>
+  <string name="Top">Sopra</string>
+  <string name="Toggle">Azionare</string>
+  <string name="Bottom">Pulsante</string>
+  <string name="Lift_stuck_wait_rail_scan_complete">Ascensore bloccato. Attendere il completamento della scansione del binario.</string>
+  <string name="Lift_stuck_below_depth_Check_blockages">Ascensore bloccato in profondità. Verifica la presenza di blocchi.</string>
+  <string name="Waiting_for_Rack_Rail">Ascpetta la Rotaia a Cremagliera</string>
+  <string name="Unknown_State">Stato Sconosciuto</string>
+  <string name="Operating_Lift">Ascensore Operativo</string>
+  <string name="Controller_no_Rack_Rail_place">Il Controllore non ha le Rotaie a Cremagliera da piazzare</string>
+  <string name="Check_Depth">Controllo Profondità</string>
+  <string name="Unloading_finished_Lift_has_no_Cargo">Scarico terminato - Montacarichi vuoto!</string>
+  <string name="Error_failed_to_locate_non_null_item_unload">Errore, fallita ricerca oggetti da scaricare!</string>
+  <string name="Unloaded">Scaricato</string>
+  <string name="items">oggetti</string>
+  <string name="capacity_free">vuoto</string>
+  <string name="Lift_is_empty">Montacarichi vuoto!</string>
+  <string name="Loading_Complete">Carico Completato!</string>
+  <string name="Loaded">Caricamento</string>
+  <string name="C5_Linking_existing">Collegamento al C5 esistente</string>
+  <string name="C5_ALT_Linking_existing">C5 ALT collegamento esistente</string>
+  <string name="C5_Clearing">C5 realizzato</string>
+  <string name="C5_exposion_FAILED_retrying_12s">Esposizione C5 NON RIUSCITA - nuovo tentativo tra 12 secondi</string>
+  <string name="C5_Spawning">C5 installato</string>
+  <string name="Climate_Control_Centre">Centro di Controllo del Clima</string>
+  <string name="Set_to_Cold_Mode">impostato : Modalita Freddo</string>
+  <string name="Warning_Cryoplasm_Detected_At">CRIOPLASMA RILEVATO A</string>
+  <string name="No_threats_detected">Ricerca minacce...</string>
+  <string name="Warning_CPH_Offline_Cryoplasm_Defences_Offline">ALLARME! CPH SPENTO! DIFESE DEL CRIOPLASMA SPENTE!</string>
+  <string name="Emergency_Cryoplasm_Defences_Active">DIFESE DEL CRIOPLASMA D\'EMERGENZA ATTIVA!</string>
+  <string name="Power_Low_Offline_Cryoplasm_Defences_Offline">CCCCC SPENTO! DIFESE SPENTE!</string>
+  <string name="Warning_Offline_Cryoplasm_Defences_Offline">ALLARME! SPENTO! DIFESE DEL CRIOPLASMA SPENTE!</string>
+  <string name="CCCCC_Offline">CCCCC Spento</string>
+  <string name="CCCCC_Terraforming">CCCCC in Terraformazione</string>
+  <string name="CryoPlasm_Detected">Crioplasma Rilevato</string>
+  <string name="CryoPlasm_Killed">CrioPlasma Distrutti</string>
+  <string name="Mission_Tutorial_Intro">
+Sei soppravvisuto all\'impatto, e ARTHER si è sacrificato per darti un piccolo ambiente per soppravvivere.
+
+ARTHER ora ti spieghera alcune delle funzionalità della base.
+
+Il campo di forza scomparirà quando sarà tutto completato.</string>
+  <string name="CPH_Idling_all_attached_power_full">CHP inattivo come tutti gli accessori
+Energia al massimo!</string>
+  <string name="Needs_resources_Attach_SH_automate">Risorse neccessarie. Attacca una
+Tramogia per automatizzare.</string>
+  <string name="Burning">Combustione</string><string name="for">per</string><string name="Time_left">rimanente.</string><string name="Burning_X_for_X">Combustione {0} per {1}s</string>
+  <string name="Calories_X_left">Calorie {0} rimanenti</string>
+  <string name="Player_curr_online">Giocatori attualmente online:</string>
+  <string name="Player_joined">entrato.</string>
+  <string name="Player_left">rimanente.</string>
+  <string name="Player_disconnected_reason">disconnesso. motivo:</string>
+  <string name="Debug_Cryospawn_Data">[DEBUG]Cryospawn Data</string>
+  <string name="Active_for_another">attivo per altri</string>
+  <string name="Built">Costruito</string>
+  <string name="Creep">Creep</string>
+  <string name="Holding">Tenere</string>
+  <string name="segments">segmenti</string>
+  <string name="PeakBuilds">Picchi di Costruzione</string>
+  <string name="Sleeping_for">Addormentato per</string>
+  <string name="ColdCreep_killed_Score_was">CryoPlasma Spawner distrutto!</string>
+  <string name="Player_Bonus_was">Il bonus del giocatore era</string>
+  <string name="CB_inserted">AutoCosrtuttore scarico</string>
+  <string name="SH_full_or_locked">Tramoggia piena o bloccato!</string>
+  <string name="SH_empty">Tramogia vuota!</string>
+  <string name="CB_collected">AutoCostruttore ritirato</string>
+  <string name="CB_failed_get_storage_machine_">AutoCostruttore non ha un sistema di immagazinamento!</string>
+  <string name="Warning_Basin_overheating_Place_much_colder">Attenzione! Surriscaldamento del Bacino! Mettilo in un posto più freddo!</string>
+  <string name="Casting">Getto</string>
+  <string name="currently_in_inventory">Attualmente conservato nell\'inventario</string>
+  <string name="You_enough_resources_craft">Hai abbastanza risorse per crearlo!</string>
+  <string name="This_requires">Richiede</string>
+  <string name="Self_Craft">Autocostruzione</string>
+  <string name="Missing_Mats">Materiale Assente</string><string name="Start_Automation">Avvia Automazione</string><string name="Stop_Automation">Ferma Automazione</string><string name="Switching">Cambiare</string>
+  <string name="Cancelling">Annullamento</string>
+  <string name="Crafting_Queue">Coda di Produzione</string>
+  <string name="Automation">Automazione</string>
+  <string name="Thanks_buying_Dapper_DLC">Grazie per aver compreato il DLC Dapper!</string>
+  <string name="This_requires_Dapper_DLC">Questo richiede il DLC Dapper!</string>
+  <string name="This_requires_FF_DLC">Questo richiede il pacchetto di espansione Frozen Factory!</string>
+  <string name="Craft">Costruisci</string><string name="Craft_x25">Costruisci x25</string><string name="Select_Recipe">Scegli Progetto</string><string name="Dapper_DLC_not_present">DLC Dapper non presente</string>
+  <string name="Inventory_full">Inventario Pieno!</string>
+  <string name="Crafted_a">"Creato un "</string>
+  <string name="Lacking_Materials_craft_a">"Mancanza di Materiali per creare un "</string>
   </resources>
