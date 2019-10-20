@@ -3,7 +3,7 @@
 <string name="AV.Advanced_Defence.00.Title">Defensa Avanzada</string>
 <string name="AV.Advanced_Defence.01.Paragraph">¡Necesitamos construir defensas de base más poderosas para derribar las amenazas más grandes!</string>
 <string name="AV.Advanced_Logistics.Title">Logísticas Avanzadas</string>
-<string name="AV.Advanced_Logistics.00.Title">Logística Avanzada</string>
+<string name="AV.Advanced_Logistics.00.Title">Logísticas Avanzadas</string>
 <string name="AV.Advanced_Logistics.02.Paragraph">Esta investigación se centrará en mejoras de almacenamiento, clasificación y herramientas adicionales para la construcción de la base.</string>
 <string name="AV.Advanced_Power_Grid.Title">Red Eléctrica Avanzada</string>
 <string name="AV.Advanced_Power_Grid.00.Title">Red Eléctrica Avanzada</string>
@@ -13,8 +13,8 @@
 <string name="AV.Advanced_Research.00.Title">Investigación Avanzada</string>
 <string name="AV.Advanced_Research.01.Paragraph">Nuestra capacidad de investigación se ve limitada por las restricciones de la estación de investigación. ¡Necesitamos diseñar un nuevo laboratorio para continuar con proyectos más avanzados!</string>
 <string name="AV.Aesthetics.Title">Estética</string>
-<string name="AV.Aesthetics.00.Title">Estética</string>
-<string name="AV.Aesthetics.01.Paragraph">En el improbable caso de que tengamos algo de tiempo libre podemos embellecer nuestra base con una variedad de cajas de almacenamiento y lienzos de colores.</string>
+<string name="AV.Aesthetics.00.Title">Estéticas</string>
+<string name="AV.Aesthetics.01.Paragraph">En el improbable caso de que tengamos un tiempo de inactividad, podemos embellecer nuestra base con una variedad de cajas y lienzos de almacenamiento de colores.</string>
 <string name="AV.Base_Building_Automation.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.00.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.01.Paragraph">La construcción de una operación enorme minera es un trabajo para las máquinas, ¡No para los humanos!</string>
@@ -33,7 +33,7 @@
 <string name="AV.Basic_Mining_Upgrades_II.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.00.Title">"Mejora de Minería Básica  II"</string>
 <string name="AV.Basic_Mining_Upgrades_II.01.Paragraph">A raíz de nuestra investigación anterior sobre mejoras de minería, deberíamos ser capaces de mejorar aún más nuestro motor de perforación y las mejoras de inducción forzada.</string>
-<string name="AV.Black_Box_Data.Title">Datos de caja negra</string>
+<string name="AV.Black_Box_Data.Title">Datos de la caja negra</string>
 <string name="AV.Black_Box_Data.00.Title">Datos de la caja negra</string>
 <string name="AV.Black_Box_Data.01.Paragraph">Su traje contiene una caja negra que almacena todas las lecturas del sensor que provocó su accidente en el planeta. Investigar estos datos podría ayudarte a determinar qué sucedió exactamente.</string>
 <string name="AV.Improved_Ore_Scanning.Title">Escáner de Mineral Mejorado</string>
