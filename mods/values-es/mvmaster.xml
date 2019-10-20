@@ -1,2 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AdvancedLogisticsHopperTitleMK_X">Tolva de logística avanzada MK {0}</string>
+  <string name="HopperPermissionLabel">Permisos de la tolva</string>
+  <string name="ConveyorPermissionsLabel">Transportador / Extracción GAC</string>
+  <string name="HopperSettingsLabel">Configuración de la tolva</string>
+  <string name="HopperSettingsControlLabel">(Mantenga presionada la tecla Mayús para 10 o Control para 100)</string>
+  <string name="CapacityLabel">Capacidad de la tolva</string>
+  <string name="DenominationLabel">Transferencia manual
+Denominación</string>
+  <string name="ReserveQuantityLabel">Cantidad de reserva</string>
+  <string name="ReserveSpaceLabel">Reserva de espacio</string>
+  <string name="VacuumLabel">Vacío</string>
+  <string name="HopperContentsLabel">Contenido de la tolva</string>
+  <string name="FrontLabel">Frente</string>  
+  <string name="BackLabel">Atrás</string>
+  <string name="LeftLabel">Izquierda</string>
+  <string name="RightLabel">Derecha</string>
+  <string name="TopLabel">Parte Superior</string>
+  <string name="BottomLabel">Parte inferior</string>
+  <string name="ConveyFrontLocked">Transporte frontal bloqueado</string>
+  <string name="ConveyFrontAllowed">Transporte frontal permitido</string>
+  <string name="ConveyBackLocked">Transporte trasero bloqueado</string>
+  <string name="ConveyBackAllowed">Transporte posterior permitido</string>
+  <string name="ConveyLeftLocked">Transporte izquierdo bloqueado</string>
+  <string name="ConveyLeftAllowed">Transporte izquierdo permitido</string>
+  <string name="ConveyRightLocked">Transferencia derecha bloqueada</string>
+  <string name="ConveyRightAllowed">Transporte correcto permitido</string>
+  <string name="ConveyTopLocked">Transporte superior bloqueado</string>
+  <string name="ConveyTopAllowed">Transporte superior permitido</string>
+  <string name="ConveyBottomLocked">Transporte inferior bloqueado</string>
+  <string name="ConveyBottomAllowed">Transporte inferior permitido</string>
+  <string name="Q_To_Retrieve_X_Contents">(Q) para recuperar {0} x contenidos!</string>
+  <string name="Used_X">Usuario: {0}</string>
+  <string name="Free_X">Gratis: {0}</string>
+  <string name="Reserve_Quantity_X">Cantidad de reserva: {0}</string>
+  <string name="Reserve_Space_X">Reserva de espacio: {0}</string>
+
+  <string name="AutoPlacerPopupTitle">Auto Placer</string>
+  <string name="ContinuousLine">Línea continua</string>
+  <string name="FirstObstruction">Primera obstrucción</string>
+  <string name="CurrentForward_X_X">Adelante: {0} de {1}</string>
+  <string name="CurrentForward_X">Adelante: {0}</string>
+  <string name="CurrentRow_X_X">Fila: {0} de {1}</string>
+  <string name="ActiveState_X">Activo: {0}</string>
+  <string name="PlacementInterval_X">Intervalo de colocación: {0}</string>
+  <string name="ItemsForwardSetting_X"># Artículos hacia adelante: {0}</string>
+  <string name="RowsSetting_X_KEY_Left"># Filas: {0} a la ({1}) izquierda</string>
+  <string name="RowsSetting_X_KEY_Right"># Filas: {0} a la derecha ({1})</string>
+  <string name="PlacedCount_X">Colocado: {0}</string>
+  <string name="LookingForItems">Buscando artículos para colocar</string>
+  <string name="ActiveStateNo">No</string>
+  <string name="ActiveStatePaused">Pausado</string>
+  <string name="ActiveStateFinished">Terminado</string>
+  <string name="ActiveStateBlocked">¡Obstruido!</string>
+  <string name="ActiveStateRunning">Corriendo</string>
+
+
+</resources>
