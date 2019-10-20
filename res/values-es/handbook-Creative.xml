@@ -1,3 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="CR.01Welcome.01.Header">Modo Creativo</string>
+<string name="CR.01Welcome.Title">Guía de inicio</string>
+<string name="CR.01Welcome.00.Title">Bienvenido a FortressCraft Evolved</string>
+<string name="CR.01Welcome.02.Paragraph">¡Bienvenido a nuestro modo creativo! Los controles están debajo, las guías de herramientas siguen en las páginas siguientes.</string>
+<string name="CR.01Welcome.03.Header">Controles</string>
+<string name="CR.01Welcome.04.Left">W, A, S, D: movimiento
+Espacio: Saltar
+Espacio x 2: Activar el modo Jetpack
+Q: Volar hacia abajo
+Shift: Impulso
+Tierra para apagar
+Esc: Menú de pausa
+H: Pantalla de ayuda</string>
+<string name="CR.01Welcome.05.Right">Z: Zoom
+X: Arma de construcción
+C: Meteorología
+N: Pistola de pintura
+F10: Ingrese al modo SuperBuild
+F11: Ingrese al modo Copiar / Pegar
+=: Pantalla de selección de bloque
+F1-F7: Seleccione la pestaña Hotbar
+1-10: Seleccione la ranura Hotbar</string>
+<string name="CR.01Welcome.06.Paragraph">Left Mouse: Construir/ Funcion de herramienta primaria
+Ratón derecho: Eliminar / Función de herramienta alternativa
+Ratón central: Muestra del bloque resaltado actualmente
+Rueda del mouse: Bloqueo siguiente / anterior o función de herramienta de ciclo
+CTRL + mouse izquierdo: Construir hacia mí
+CTRL + mouse derecho: Super Excavación</string>
+<string name="CR.01Welcome.07.Title">Herramientas de construcción creativa</string>
+<string name="CR.01Welcome.08.Paragraph">En FortressCraft Evolved, tienes varias herramientas poderosas para la creación creativa. A continuación, describimos brevemente cada herramienta y en el futuro contendremos un enlace a la guía específica para usar esa herramienta.</string>
+<string name="CR.01Welcome.09.Header">Arma de construcción</string>
+<string name="CR.01Welcome.10.Paragraph">Al usar el arma de construcción (seleccione presionando \'X\'), el botón izquierdo del ratón construye el bloque seleccionado y el botón derecho del ratón lo elimina. Tiene un largo alcance de construcción, por lo que pueden construir bloques hasta 64 metros de distancia.</string>
+<string name="CR.01Welcome.11.Header">Super excavación</string>
+<string name="CR.01Welcome.12.Paragraph">Mantener presionada la tecla CTRL mientras se excava activa el modo Super excavación. Esto acelerará enormemente la velocidad de excavación, que es buena para limpiar espacios rápidamente. Sin embargo, tenga cuidado donde apunte, es muy fácil desenterrar accidentalmente su propio trabajo.</string>
+<string name="CR.01Welcome.13.Header">Contruir hacia mí</string>
+<string name="CR.01Welcome.14.Paragraph">Mantener presionada la tecla CTRL mientras construye dispara Construir hacia mi. El bloque seleccionado se construirá desde la cara resaltada hacia su posición en línea recta.</string>
+<string name="CR.01Welcome.15.Header">El taller</string>
+<string name="CR.01Welcome.16.Paragraph">El Taller es la herramienta creativa más poderosa en tu arsenal FortressCraft Evolved para crear creaciones detalladas. Utilizándolo, puede diseñar sus propios bloques construyendo diseños a gran escala que se reduzcan al tamaño de un bloque.
+Los talleres se pueden construir en cualquier parte del mundo. Para hacer uno, comience abriendo el Panel de selección de bloque (\'presione\' = \') y seleccionando el bloque Colocación de taller:</string>
+<string name="CR.01Welcome.17.Paragraph">Luego eliges un lugar para construir el taller. Para definir un taller, solo necesita colocar 2 (dos) bloques de colocación de taller. Los colocas de modo que estén en las esquinas opuestas en el piso donde quieres que esté el taller. Para poner eso en instrucciones simples:</string>
+<string name="CR.01Welcome.18.Paragraph">1. Elija un área plana. Coloque el primer bloque de Colocación del taller.</string>
+<string name="CR.01Welcome.19.Paragraph">2. Desde allí, vaya en diagonal en cualquier dirección mientras se mantiene en el mismo nivel.</string>
+<string name="CR.01Welcome.20.Paragraph">3. Coloque el segundo bloque donde desea que esté la otra esquina de su taller.</string>
+<string name="CR.01Welcome.21.Paragraph">4. Si los dos bloques están en diagonal y dentro de 7 bloques el uno del otro, se creará un taller usando Roca Reforzada y Madera Reforzada</string>
+<string name="CR.01Welcome.22.Paragraph">Los talleres se pueden crear en tamaños que van desde 2x2 (dos bloques directamente diagonales) a 8x8 (6 bloques vacíos entre el primer y el segundo bloque).</string>
+<string name="CR.01Welcome.23.Header">Crear un diseño de bloques de detalle en el taller.</string>
+<string name="CR.01Welcome.24.Paragraph">Una vez que haya construido su primer taller, ingréselo para comenzar a crear su primer diseño de bloque de detalles. Cuando está en el taller, suceden dos cosas: el contorno del taller brilla con partículas brillantes y aparece la superposición del taller.</string>
+<string name="CR.01Welcome.25.Paragraph">Hay algunas teclas que se utilizan para seleccionar funciones en el taller:
+Y: Iniciar nuevo diseño
+U: Usar actual (aún no implementado)
+I: Mostrar ventana de detalles
+O: Mostrar ventana de comportamiento (actualmente desactivado)
+[: Diseño anterior
+]: Siguiente diseño</string>
+<string name="CR.01Welcome.26.Paragraph">Cuando ingresa a un nuevo taller, se inicia automáticamente un nuevo diseño, por lo que presionar \'Y\' solo hará algo una vez que haya creado su primer diseño.</string>
+<string name="CR.01Welcome.27.Paragraph">Para diseñar su primer bloque de detalles, simplemente comience a construir en el área resaltada del taller. La pared hecha de madera reforzada será el frente de su bloque. Puede usar cualquier bloque que desee para construir su diseño, pero cualquier bloque que tenga modelos no aparecerá en el bloque de detalles. Los bloques pintados permanecerán pintados.</string>
+<string name="CR.01Welcome.28.Paragraph">Una vez que esté satisfecho con su diseño, simplemente saliendo del taller lo guardará y creará el bloque de detalles para construir. Para seleccionarlo, abra la pantalla de selección de bloque (\'=\') y seleccione su nuevo diseño en una ranura de la barra de acceso directo. Puede encontrar rápidamente todos los diseños de bloques de detalles filtrando por \'bloque de detalles\' en la lista de filtros. Ahora puede comenzar un nuevo diseño en el taller presionando \'Y\' o construyendo un nuevo taller. ¡Puede tener hasta 16384 diseños de bloques de detalles en un mundo!</string>
+<string name="CR.01Welcome.29.Header">Colocar bloques de detalles</string>
+<string name="CR.01Welcome.30.Paragraph">Para colocar un bloque de detalles, constrúyalo como lo haría con cualquier otro bloque. El diseño se adjuntará a la cara que ha seleccionado y se girará para orientarse hacia usted. Esto le permite colocar bloques de detalles en cualquier orientación que desee.</string>
+<string name="CR.01Welcome.31.Paragraph">Si utiliza miles de bloques de detalles en la misma área, notará importantes caídas de rendimiento. Esto se debe a que todos los detalles deben ser representados por su tarjeta gráfica. Para aliviar esto, use bloques de detalles de resoluciones más bajas y use bloques normales siempre que pueda.</string>
+<string name="CR.01Welcome.32.Header">Super Construcción</string>
+<string name="CR.01Welcome.33.Paragraph">Al presionar F8 se abrirá el panel Super Construcción en el lado derecho de la pantalla</string>
+<string name="CR.01Welcome.34.Paragraph">Esto le permite construir rápidamente formas geométricas simples utilizando cualquier bloque que haya seleccionado. Para usar Super Construcción, primero selecciona una forma para construir usando F9. Con F10 puede seleccionar si debe construir una forma sólida o hueca. Con F11 alterna el modo de construcción. Instantáneo obtendrá el resultado más rápido, pero puede generar algunos agujeros para formas muy grandes. Fin alterna entre el ancla de la forma que está centrada o en la parte inferior central de la forma.</string>
+<string name="CR.01Welcome.35.Paragraph">X, Y y Z le permiten cambiar el tamaño de la forma. Presionarlos aumenta esa dimensión en 1. Mantenga presionada la tecla Mayús y presione X, Y o Z para disminuir en uno. También puede mantener presionada la tecla ALT para cambiar el tamaño en 16 a la vez.</string>
+<string name="CR.01Welcome.36.Paragraph">Una vez que haya elegido una forma, tamaño y ubicación, presione Ins para construir la forma o Del para desenterrarla. Luego tendrá que volver a seleccionar una forma para cavar o construir nuevamente.</string>
+<string name="CR.01Welcome.37.Header">Copiar y pegar</string>
+<string name="CR.01Welcome.38.Paragraph">La herramienta Copiar y Pegar le permite copiar rápidamente parte de un diseño que ha realizado, rotarlo o voltearlo, y pegarlo nuevamente en el mundo en el lugar que desee. Abra el panel copiar y pegar presionando F11.
+El panel Copiar y Pegar está actualmente EN CONSTRUCCIÓN, por lo que no se parece al resto de la interfaz.</string>
+<string name="CR.01Welcome.39.Header">Copiar y pegar controles</string>
+<string name="CR.01Welcome.40.Paragraph">Presione Ins para colocar la primera esquina de la parte rectangular que desea copiar.</string>
+<string name="CR.01Welcome.41.Paragraph">Presione Supr para colocar la segunda esquina de la parte rectangular que desea copiar. El área a copiar ahora se resaltará.</string>
+<string name="CR.01Welcome.42.Paragraph">Una vez que se ha seleccionado un área, puede presionar Fin para capturarla. En este punto, se mostrará una vista previa del área copiada en la parte superior de su selección de bloque.</string>
+<string name="CR.01Welcome.43.Paragraph">Una vez que se ha seleccionado un área, puede presionar Fin para capturarla. En este punto, se mostrará una vista previa del área copiada en la parte superior de su selección de bloque.</string>
+<string name="CR.01Welcome.44.Paragraph">\'R\' rotará el área agarrada 90 grados en el sentido de las agujas del reloj.</string>
+<string name="CR.01Welcome.45.Paragraph">Presionar Shift una vez le permitirá alterar el punto de anclaje con las teclas X, Y y Z. Presionando SHIFT + X, Y o Z disminuirá la posición del ancla</string>
+<string name="CR.01Welcome.46.Paragraph">Presionar CTRL una vez le permitirá voltear el diseño con las teclas X, Y y Z. Cada botón cambiará el diseño a lo largo de ese eje.</string>
+<string name="CR.01Welcome.47.Paragraph">Y finalmente, presionando Inicio pegará el área en la posición seleccionada.</string>
+<string name="CR.01Welcome.48.Header">Almacenar esquemas de copiar y pegar</string>
+<string name="CR.01Welcome.49.Paragraph">También es posible almacenar esquemas para su uso posterior con la tecla \'&lt;\' y cargarlos con \'?\'. Puede intercambiar los esquemas guardados con otras personas. Pero esta característica aún está en desarrollo, por lo que no podemos ofrecerle garantías de que funcionará.</string>
+<string name="CR.01Welcome.50.Header">Pistola de pintura</string>
+<string name="CR.01Welcome.51.Paragraph">Puede seleccionar la pistola de pintura presionando \'N\'. Le permite pintar ciertos materiales que se pueden pintar, en cualquier color que desee. Con la pistola de pintura seleccionada, LMB pinta el bloque de destino, RMB abre la ventana de selección de color y MMB muestra el color del bloque seleccionado, si el bloque seleccionado se puede pintar. La pistola de pintura mostrará el color seleccionado en la propia pistola.</string>
+<string name="CR.01Welcome.52.Header">Encontrar materiales pintables</string>
+<string name="CR.01Welcome.53.Paragraph">Solo se pueden pintar ciertos bloques. Para encontrar rápidamente cuáles, abra la pantalla Seleccionar bloque (\'=\') y marque el filtro \'Pintable\'. Todos los bloques que se muestran allí se pueden colocar en el mundo y pintar.</string>
+<string name="CR.01Welcome.54.Header">Vara del tiempo</string>
+<string name="CR.01Welcome.55.Paragraph">La vara del tiempo le permite controlar el clima, la hora del día y lanzar meteoritos. Selecciónelo usando \'C\'. Cuando ingresas a tu mundo, una de las estadísticas que muestra es la cantidad total de meteoritos que la gente ha lanzado en FortressCraft Evolved.</string>
+<string name="CR.01Welcome.56.Header">Modos de la vara del tiempo</string>
+<string name="CR.01Welcome.57.Paragraph">eSun: hace que la lluvia o la nieve se detengan y hace que brille el sol (o la luna, si es de noche)</string>
+<string name="CR.01Welcome.58.Paragraph">eLightning: crea una fuerte tormenta. LMB desencadena un rayo</string>
+<string name="CR.01Welcome.59.Paragraph">eSnow: crea nevadas</string>
+<string name="CR.01Welcome.60.Paragraph">eRain: crea lluvia</string>
+<string name="CR.01Welcome.61.Paragraph">eDayNight: Cicla el tiempo hacia adelante o hacia atrás rápidamente</string>
+<string name="CR.01Welcome.62.Paragraph">eMeteor: Invoca meteoros. LMB invoca un meteorito desde lo alto del cielo para golpear en algún lugar cerca de ti. RMB invoca un meteorito del personal meteorológico dirigido al bloque seleccionado. Hay un breve enfriamiento de ambas acciones, por lo que hacer clic en el correo no deseado puede no convocar tantos meteoros como desee :) Al lanzar meteoros, ¡tenga cuidado con las estaciones espaciales orbitales!</string>
+<string name="CR.02HowToPlaySurvival.Title">Cómo jugar el modo de supervivencia</string>
+<string name="CR.02HowToPlaySurvival.00.Title">Cómo jugar el modo de supervivencia</string>
+<string name="CR.02HowToPlaySurvival.01.Paragraph">Este es un juego en modo creativo. Para comenzar un mundo de supervivencia:</string>
+<string name="CR.02HowToPlaySurvival.02.Paragraph">Regrese al menú principal. Ingrese a la sala World Select y elija un espacio vacío (flecha derecha o haga clic en las tablas). Junto al indicador de modo de juego hay flechas en las que puedes hacer clic para cambiar el modo de juego a Supervivencia. Presione Crear mundo para comenzar a jugar</string>
+<string name="CR.02HowToPlaySurvival.03.Header">¿No puedo seleccionar un modo de juego?</string>
+<string name="CR.02HowToPlaySurvival.04.Paragraph">No puedes cambiar el modo de juego en un mundo existente. Selecciona un espacio vacío.</string>
+<string name="CR.02HowToPlaySurvival.05.Header">¡Todos los espacios de mi mundo están llenos!</string>
+<string name="CR.02HowToPlaySurvival.06.Paragraph">Puede restablecer un mundo desde la sala World Select, se eliminarán todos los datos asociados con este mundo. Si desea hacer una copia de seguridad de sus mundos, en una versión reciente de Windows, puede encontrarlos en la siguiente carpeta:% AppData% .ocalLowrojectorGamesortressCraftorlds.</string>
+<string name="CR.02HowToPlaySurvival.07.Header">No funciona!</string>
+<string name="CR.02HowToPlaySurvival.08.Paragraph">Si todavía tiene problemas para iniciar el Modo de supervivencia, publique un mensaje en el panel de discusión de Steam.</string>
 </resources>
