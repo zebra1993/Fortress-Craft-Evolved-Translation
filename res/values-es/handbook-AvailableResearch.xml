@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="AV.Advanced_Defence.Title">Defensa Avanzada</string>
 <string name="AV.Advanced_Defence.00.Title">Defensa Avanzada</string>
-<string name="AV.Advanced_Defence.01.Paragraph">¡Tenemos que construir defensas de la base más potentes para aniquilar enemigos mayores!</string>
-<string name="AV.Advanced_Logistics.Title">Logística Avanzada</string>
+<string name="AV.Advanced_Defence.01.Paragraph">¡Necesitamos construir defensas de base más poderosas para derribar las amenazas más grandes!</string>
+<string name="AV.Advanced_Logistics.Title">Logísticas Avanzadas</string>
 <string name="AV.Advanced_Logistics.00.Title">Logística Avanzada</string>
 <string name="AV.Advanced_Logistics.02.Paragraph">Esta investigación se centrará en mejoras de almacenamiento, clasificación y herramientas adicionales para la construcción de la base.</string>
 <string name="AV.Advanced_Power_Grid.Title">Red Eléctrica Avanzada</string>
 <string name="AV.Advanced_Power_Grid.00.Title">Red Eléctrica Avanzada</string>
-<string name="AV.Advanced_Logistics.01.Paragraph">Optimizar nuestra operación minera requiere bisturí, no martillo. (Por supuesto, martillos disponibles como una mejora aparte).</string>
+<string name="AV.Advanced_Logistics.01.Paragraph">La optimización de nuestra operación minera requiere un bisturí, no un martillo. (Los martillos están disponibles como una actualización por separado, por supuesto).</string>
 <string name="AV.Advanced_Power_Grid.01.Paragraph">Podremos mejorar aún más nuestra infraestructura de energía gracias a los materiales avanzados descubiertos recientemente.</string>
 <string name="AV.Advanced_Research.Title">Investigación Avanzada</string>
 <string name="AV.Advanced_Research.00.Title">Investigación Avanzada</string>
@@ -18,8 +18,8 @@
 <string name="AV.Base_Building_Automation.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.00.Title">Automatización de la construcción de la base</string>
 <string name="AV.Base_Building_Automation.01.Paragraph">La construcción de una operación enorme minera es un trabajo para las máquinas, ¡No para los humanos!</string>
-<string name="AV.Advanced_Miner_Upgrades.Title">Mejoras de Minería Avanzadas</string>
-<string name="AV.Advanced_Miner_Upgrades.00.Title">Mejora de Minería Avanzada</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Mejoras de Minería Avanzada</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">Mejoras de Minería Avanzada</string>
 <string name="AV.Advanced_Miner_Upgrades.01.Paragraph">Este proyecto investigará mejoras adicionales al extractor de minerales y fundición. Además, la investigación continuará trabajando sobre el nuevo sistema de cantera.</string>
 <string name="AV.Base_Building_Automation.02.Paragraph">Este amplio proyecto diseñará máquinas para excavación y construcción automatizadas, además de mejorar las opciones disponibles para atravesar su base.</string>
 <string name="AV.Base_Building_Automation.03.Paragraph">Además automatizar la excavación de este proyecto tratará de producir un explosivo que se pueda utilizar para despejar una gran área.</string>
