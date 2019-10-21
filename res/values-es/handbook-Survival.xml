@@ -2,9 +2,9 @@
 <resources><string name="SU.01Welcome.00.Title">Bienvenido a FortressCraft Evolved</string>
 <string name="SU.01Welcome.Title">Guía de Inicio</string>
 <string name="SU.01Welcome.01.Header">Modo Supervivencia</string>
-<string name="SU.01Welcome.02.Paragraph">Acabas de escapar de la Estación Orbital en un transbordador de escape dañado. No sobrevivió a la reentrada, pero afortunadamente conseguiste eyectar con seguridad. ¡Ahora tendrás que sobrevivir en este terrible planeta alienígena!</string>
+<string name="SU.01Welcome.02.Paragraph">Acabas de escapar de la Estación Orbital en un transbordador de escape dañado. No sobrevivió al reingreso, pero afortunadamente lograste expulsar de manera segura. ¡Ahora tendrás que sobrevivir en este terrible planeta alienígena!</string>
 <string name="SU.01Welcome.03.Header">Iniciando</string>
-<string name="SU.01Welcome.04.Paragraph">Su traje de vanguardia puede mantenerlo a salvo bajo estas frías condiciones, pero requiere energía para hacerlo. El sitio donde la nave impactó puede darle los recursos para ello a corto plazo, así que usted debe dirigirse hacia allí tan pronto como usted pueda.</string>
+<string name="SU.01Welcome.04.Paragraph">Su traje de última generación puede mantenerlo a salvo en estas condiciones frías, pero requiere poder para hacerlo. El sitio del accidente de la nave puede darle los recursos para verlo a corto plazo, por lo que debe dirigirse allí tan pronto como sea posible.</string>
 <string name="SU.01Welcome.05.Header">Controles</string>
 <string name="SU.01Welcome.07.Header">Consejos de supervivencia</string>
 <string name="SU.01Welcome.08.Paragraph">Para aquellos que no quieren leer una guía completa, estos son algunos consejos rápidos de juego. Las siguientes páginas adentran en más detalle en cómo comenzar.</string>
@@ -25,4 +25,214 @@
 <string name="SU.01Welcome.11.Paragraph">El Central Power Hub es su primer generador de energía. Tiene paneles solares, y puede quemar combustibles para generar energía. Sólo puede contener un elemento de combustible a la vez, por lo que es esencial automatizar la entrega de materiales de combustible. Tiene una gran capacidad interna de almacenamiento de energía.</string>
 <string name="SU.01Welcome.12.Paragraph">El bloque de almacenamiento de energía puede almacenar 250 de energía y distribuirlo a las máquinas adyacentes.</string>
 <string name="SU.01Welcome.13.Paragraph">Para adquirir barras útiles para la fabricación de máquinas nuevas, deberás procesar minerales en la fundición de mineral. Puede interactuar manualmente con él o automatizar el suministro de materiales. Solo comenzará a fundirse una vez que haya recibido suficientes materiales para fundir un lingote.</string>
+<string name="SU.01Welcome.14.Paragraph">Puede crear cosas simples usted mismo utilizando la ventana de creación que abre con \'c\', pero para máquinas y componentes más complejos, tendrá que utilizar la Planta de fabricación. Las recetas se dividen en categorías que puedes encontrar haciendo clic en los cuadrados de colores. En este momento, la Planta solo puede usar artículos en su inventario, y crear cosas los colocará directamente allí.</string>
+<string name="SU.01Welcome.15.Paragraph">Cuando comienzas, tu escáner no tiene conocimiento de ningún material encontrado en el planeta. Cualquier escaneo que realice puede procesarse en la Estación de Investigación y le dará puntos de investigación. También puede emprender varios proyectos de investigación aquí y desarrollar nuevas recetas para la Planta de fabricación gastando puntos de investigación. La estación de investigación requiere energía para funcionar.</string>
+<string name="SU.01Welcome.16.Header">Encontrar tus primeros minerales</string>
+<string name="SU.01Welcome.17.Paragraph">Su escáner tiene la capacidad de escanear en busca de tipos de minerales conocidos, pero para hacer esto debe conocerlos primero. La clave para encontrar nuevos minerales es usar el ping de material desconocido en su escáner. Si usa esto al principio, le devolverá todos los bloques a su alrededor porque no sabe nada de ellos.</string>
+<string name="SU.01Welcome.18.Paragraph">Por lo tanto, su primera tarea será escanear sus alrededores y procesar estos escaneos en la Estación de Investigación. Tan pronto como haya escaneado toda la suciedad y la nieve comunes a su alrededor, el ping de mineral desconocido le devolverá cosas útiles a su alrededor.</string>
+<string name="SU.01Welcome.19.Paragraph">Una vez que haya encontrado una veta de mineral cerca de usted bajo tierra, puede escanearlas y procesarlas para enseñarlas a su escáner. A partir de ese momento, el uso de un ping de mineral con su escáner devolverá las venas de ese tipo de mineral.</string>
+<string name="SU.01Welcome.20.Header">Extrayendo mineral</string>
+<string name="SU.01Welcome.21.Paragraph">Ahora que ha encontrado su primera veta de mineral, deberá extraer el mineral para poder usarlo. Puede excavarlo haciendo clic con el botón derecho, pero esto solo deja caer un mineral de vez en cuando y genera escombros para el resto.</string>
+<string name="SU.01Welcome.22.Paragraph">Una mejor opción es utilizar su modo Super Dig, que se activa manteniendo presionada la tecla CTRL mientras excava. Esto excavará rápidamente grandes cantidades de mineral, pero agotará sus reservas de energía a alta velocidad.</string>
+<string name="SU.01Welcome.23.Paragraph">Tenga cuidado al drenar todo su poder en Super Excavando una veta de mineral, su traje también requiere energía para mantener su cuerpo caliente. Intente configurar una ruta segura de regreso a su generador de energía, con antorchas en el camino para calentarlo.</string>
+<string name="SU.01Welcome.24.Header">Extracción automatizada</string>
+<string name="SU.01Welcome.25.Paragraph">Una forma más sostenible de extraer minerales es utilizar el Extractor de minerales. Empiezas con algunos, y puedes colocar uno al lado de una vena y llenarlo de energía para que comience a cavar. Tiene un pequeño espacio de almacenamiento interno, por lo que hasta que pueda descargarlo en otro lugar, deberá visitarlo de vez en cuando para obtener los resultados.</string>
+<string name="SU.01Welcome.26.Paragraph">Un extractor de mineral puede extraer una veta completa de mineral cuando toca un solo bloque de mineral. Por lo tanto, no tendrá que moverlo hasta que se haya limpiado toda la vena.</string>
+<string name="SU.01Welcome.27.Paragraph">Storage Hoppers aceptará minerales y artículos de máquinas y los suministrará a otras máquinas. Esto los hace esenciales para automatizar cualquier parte del proceso de minería y fundición.</string>
+<string name="SU.01Welcome.28.Paragraph">Una vez que tenga los recursos de sobra, los transportadores pueden ayudarlo a automatizar el transporte del mineral de su extractor a su fundición de minerales. Son baratos, pero necesitará muchos de ellos para conectar sus operaciones mineras a su base principal. No requieren energía para funcionar.</string>
+<string name="SU.02FirstNight.Title">Sobreviviendo la primera noche</string>
+<string name="SU.02FirstNight.00.Title">Sobreviviendo la primera noche</string>
+<string name="SU.02FirstNight.01.Paragraph">Esta es una guía paso a paso para sobrevivir la primera noche. Si no quieres que te mimen, ¡deja de leer ahora!</string>
+<string name="SU.02FirstNight.02.Header">Completando el tutorial</string>
+<string name="SU.02FirstNight.03.Paragraph">Te despiertas al lado del cráter dejado por tu nave estrellada y un puesto avanzado básico. Su primera tarea es completar el breve tutorial. Siga cada instrucción por turno. Cuando se complete el tutorial, se levantará el campo de fuerza.</string>
+<string name="SU.02FirstNight.04.Header">Haga un inventario y manténgase caliente</string>
+<string name="SU.02FirstNight.05.Paragraph">Abra su inventario presionando \'i\'. Comienzas con 5 antorchas y 3 extractores de mineral. Estas últimas son máquinas valiosas para extraer vetas de minerales, pero no de uso inmediato para la supervivencia. Los primeros son absolutamente esenciales.</string>
+<string name="SU.02FirstNight.06.Paragraph">Seleccione la ranura de la barra de acceso directo que contiene el icono de la antorcha y coloque una en el suelo a un par de cuadros de sus máquinas. Esto proporcionará luz, así como calor cuando esté cerca de ellos. El indicador de traje en la parte superior derecha de la pantalla indica la temperatura externa y la temperatura interna del traje. Su traje se mantendrá abrigado automáticamente, pero esto cuesta energía. Si te paras cerca de una antorcha, verás que la temperatura externa aumenta, lo que significa que tu traje usa menos energía para mantenerte caliente. Sin embargo, ten cuidado porque hace demasiado calor, ¡eso hará que tu traje gaste energía para refrescarte!</string>
+<string name="SU.02FirstNight.07.Header">Reunir combustible</string>
+<string name="SU.02FirstNight.08.Paragraph">La máquina con el gran láser es su centro de alimentación central. Este es un generador de energía, que reúne energía solar, además de contener un pequeño generador de combustible que puede quemar materiales para obtener energía adicional. Suministrará energía a las máquinas cercanas y al bloque de almacenamiento de energía.</string>
+<string name="SU.02FirstNight.09.Paragraph">Puede tomar el poder directamente del concentrador interactuando con él (\'e\'), luego presionando \'tomar energía\'. Al comienzo del juego, tus reservas de combustible están limitadas a las proporcionadas para el tutorial que no durará mucho. Por lo tanto, su próxima tarea es reunir combustible.</string>
+<string name="SU.02FirstNight.10.Paragraph">Si ha elegido jugar en dificultad fácil, se le proporcionará una veta de carbón y un extractor, de lo contrario, deberá buscar combustible. Si tienes mucha suerte, el cráter de impacto habrá expuesto una veta de carbón. Pero la fuente más confiable de combustible inicial son los árboles alrededor del cráter. Desentierra los troncos y recógelos. Ahora dirígete hacia el centro, interactúa con él (\'e\') y presiona \'agregar recursos\'. Esto comenzará a quemar uno de tus troncos. Tendrá que agregarle más combustible manualmente, hasta que tenga recursos para automatizar este proceso.</string>
+<string name="SU.02FirstNight.11.Paragraph">Con los registros de grabación del concentrador, debe notar rápidamente que el gráfico en el Bloque de almacenamiento de energía comienza a girar, lo que significa que está acumulando energía. Puede extraer energía desde allí o esperar hasta que esté llena y la energía comience a almacenarse en el concentrador.</string>
+<string name="SU.02FirstNight.12.Header">Explora tu entorno</string>
+<string name="SU.02FirstNight.13.Paragraph">Ahora que tiene un suministro de energía bajo pero constante, puede comenzar a explorar sus alrededores. Cualquier energía perdida por mantener su traje cálido puede reponerla en el centro. Vigila el nivel de potencia en la esquina superior izquierda. Si la barra está vacía, comenzará a enfriarse rápidamente hasta el punto en que pueda desmayarse por hipotermia.</string>
+<string name="SU.02FirstNight.14.Paragraph">"Asegúrese de tener suficiente energía para regresar al sitio del accidente y encenderlo desde el concentrador.
+ "</string>
+<string name="SU.02FirstNight.15.Paragraph">Su traje viene con una herramienta de escáner, que es invaluable para sobrevivir. Puede seleccionar la herramienta presionando \'M\'. Ahora puede escanear con el botón derecho del mouse o enviar un ping material con el botón izquierdo. Tenga cuidado con el uso innecesario de pings, usan una gran cantidad de energíar del traje.</string>
+<string name="SU.02FirstNight.16.Paragraph">Su próxima tarea de exploración será escanear sus alrededores. Apunte a un bloque que aún no haya escaneado, abra su herramienta de escaneo y mantenga presionado el botón derecho del mouse hasta que la ventana emergente en la parte inferior izquierda le indique que el escaneo se ha completado. ¡Intenta escanear todos los bloques a tu alrededor, incluyendo nieve, tierra, troncos y hojas!</string>
+<string name="SU.02FirstNight.17.Header">Investigue su entorno</string>
+<string name="SU.02FirstNight.18.Paragraph">Ahora que ha escaneado estos bloques, es hora de procesar los escaneos en la estación de investigación en el lugar del accidente. Abra la interfaz presionando \'e\'. La ventana le mostrará una lista de sus escaneos no procesados, seguido de cuántos puntos de investigación le otorgarán una vez procesados. Los puntos de investigación no son importantes por ahora, así que ignórelos. Procese todos los escaneos que tiene en su lista. Cada uno necesita energía para procesar, pero si ha mantenido su centro lleno de troncos o carbón, su barra de energía debería estar llena y suficiente para procesar todos sus escaneos.</string>
+<string name="SU.02FirstNight.19.Paragraph">Procesar los escaneos puede resultar en desbloquear proyectos de investigación, pero por ahora no tiene que preocuparse por eso, escanear sus alrededores tiene un objetivo más importante.</string>
+<string name="SU.02FirstNight.20.Header">Haga ping a su entorno</string>
+<string name="SU.02FirstNight.21.Paragraph">Con los bloques a su alrededor escaneados y procesados, su traje ahora conoce sus características y esto le permite utilizar sus pings de material con gran efecto.</string>
+<string name="SU.02FirstNight.22.Paragraph">En particular, el ping de \'material desconocido\' es lo que usaremos a continuación, para encontrar nuestra primera veta de mineral. Cambie a su herramienta de escaneo y con el ping \'Material desconocido\' seleccionado, presione el botón izquierdo del mouse. Esto resaltará cualquier bloque en tu alcance que tenga una característica que tu traje aún no conoce.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Si no escaneó todo su entorno, este ping devolverá los bloques alrededor del sitio del accidente, como tierra y roca. Si eso sucede, escanee y procese esos bloques, luego intente nuevamente. "</string>
+<string name="SU.02FirstNight.24.Paragraph">Si tiene éxito, debería ver un grupo de firmas desconocidas en algún lugar subterráneo o dentro de colinas cercanas. Sin embargo, vigile sus niveles de energía, ¡no hay necesidad de congelarse!</string>
+<string name="SU.02FirstNight.25.Header">Excavar hasta las vetas</string>
+<string name="SU.02FirstNight.26.Paragraph">Ahora tendrá que cavar un camino hacia esas firmas y ver cuáles son. Escanee la veta de mineral y procese. Notarás que otorgan más puntos de investigación que los materiales comunes. Una vez que conozca un bloque de mineral, puede volver a la veta y escanearlo nuevamente, y la herramienta le dará información sobre esta vena en particular; que tamaño tiene y cuánto mineral contiene (esto no es lo mismo).</string>
+<string name="SU.02FirstNight.27.Paragraph">Use su gancho de agarre (\'F\') para salir rápidamente de los agujeros que ha cavado.</string>
+<string name="SU.02FirstNight.28.Paragraph">Si no estás jugando en fácil, entonces el primer mineral que quieres encontrar es carbón. Si encuentra cobre, estaño o hierro, esto será excelente más adelante, pero no será de uso inmediato. Si puede, recuerde la ubicación, volveremos a por ellos más tarde. Si no lo recuerda, está bien, podemos usar el ping mineral más tarde para encontrar nuestro camino nuevamente.</string>
+<string name="SU.02FirstNight.29.Header">Mina de carbón</string>
+<string name="SU.02FirstNight.30.Paragraph">Las vetas de mineral en FortressCraft Evolved pueden ser masivas y contienen hasta millones de unidades de mineral. Desenterrarlos no es cuestión de hacer clic un par de veces; necesitará gastar energía y probablemente usar máquinas.</string>
+<string name="SU.02FirstNight.31.Paragraph">Con tu primera veta de carbón a mano, pasa un poco de tiempo creando un camino seguro desde la veta hasta el lugar del accidente. Tendrá que recorrer mucho este camino, por lo que este tiempo será bien aprovechado.</string>
+<string name="SU.02FirstNight.32.Paragraph">A continuación, debe recargar su poder desde el centro y bajar a la veta de carbón. Baje una antorcha para ahorrar en gastar demasiada energía para mantenerse caliente allí. Luego, descarga todo tu poder en una Súper excavación en la veta de carbón. Para ello, mantenga presionada la tecla CTRL mientras hace clic derecho. Esta es una forma ineficiente de minería, pero le dará una pequeña cantidad de carbón para trabajar.</string>
+<string name="SU.02FirstNight.33.Paragraph">En este punto, se quedará sin energía, así que regrese rápidamente al centro y recargue energía. Pero ahora tendrá una mejor fuente de combustible para poner en el centro: ¡Carbón! La próxima vez que presione \'Agregar recursos\' debería insertar un bloque de mineral de carbón en lugar de un tronco. Estos generan más energía, por lo que tendrá que hacer un poco menos de microgestión para mantener los niveles de energía.</string>
+<string name="SU.02FirstNight.34.Header">Elaborarlo</string>
+<string name="SU.02FirstNight.35.Paragraph">El mineral de carbón también le permite usar la ventana de auto-elaboración para crear nuevas antorchas. Presione \'C\' para mostrar esta ventana. Mostrará todas las recetas que puede hacer, y entre ellas hay antorchas. Seleccione las antorchas y en el lado derecho debería decirle que necesitará 5 de carbón para hacer una antorcha. Presiona \'Craft\' y agregará una antorcha a tu inventario.</string>
+<string name="SU.02FirstNight.36.Paragraph">Las antorchas también se pueden fabricar automáticamente siempre que tenga al menos 5 carbón en su inventario. Solo trata de colocar uno y si te has quedado sin uno nuevo, será creado para ti.</string>
+<string name="SU.02FirstNight.37.Header">Objetivo completado!</string>
+<string name="SU.02FirstNight.38.Paragraph">Con una veta de carbón a su disposición para alimentar su centro de energía central y suministrarle todas las antorchas que necesita, debería poder sobrevivir en la superficie indefinidamente. A partir de este momento, puede comenzar a extraer las otras vetas que haya encontrado o comenzar a buscarlas si no lo ha hecho. Luego puede comenzar a alimentar los minerales metálicos a la fundición para adquirir las barras necesarias para la fabricación en la planta de fabricación.</string>
+<string name="SU.02FirstNight.39.Paragraph">También puede pensar en usar sus extractores de mineral para automatizar la excavación. O bien, puede gastar sus puntos de investigación en algunos proyectos para descubrir qué sucedió realmente en este planeta. O podría enfrentar los desafíos de las profundidades y ver qué cosas interesantes se pueden encontrar. ¡Tu decides!</string>
+<string name="SU.03Controls.Title">Controles</string>
+<string name="SU.03Controls.00.Title">Controles</string>
+<string name="SU.03Controls.01.Paragraph">Esta guía de ayuda enumera todos los controles disponibles en FortressCraft Evolved, no se preocupe si se siente abrumado al principio, solo consulte la sección de controles esenciales para comenzar.</string>
+<string name="SU.03Controls.02.Paragraph">Algunos controles no estarán disponibles hasta que haya completado el tutorial.</string>
+<string name="SU.03Controls.03.Header">Controles esenciales</string>
+<string name="SU.03Controls.04.Left">"W, A, S &amp; D: Movimiento
+  Espacio: Salto
+  H: Esta guía de ayuda
+  Escape: Menú principal
+ 
+  X: Cambiar a arma de construcción
+  LMB: Build Block
+  RMB: Eliminar bloque
+ 
+  M: Cambiar a la herramienta de escaneo
+  LMB: Material Ping
+  RMB: Bloque de escaneo
+ "</string>
+<string name="SU.03Controls.05.Right">"I: Abrir inventario
+  C: Abrir auto elaboración
+  F: Disparar gancho de agarre
+  G: Lanzar Barra Luminosa
+ 
+  E: Interactuar con la máquina
+  Q: Extracto de la máquina
+  R: Girar la máquina
+ 
+  V: Cambiar a Ray Gun
+  LMB: fuego
+  RMB: Tiro cargado
+ "</string>
+<string name="SU.03Controls.06.Paragraph">(LMB = Botón izquierdo del mouse, RMB = Botón derecho del mouse)</string>
+<string name="SU.03Controls.07.Header">Personalizar controles</string>
+<string name="SU.03Controls.08.Paragraph">La mayoría de los controles se pueden personalizar desde el iniciador del juego. Las sugerencias en el juego no reflejarán estos cambios.</string>
+<string name="SU.03Controls.09.Header">Movimiento y vista</string>
+<string name="SU.03Controls.10.Left">W: Avanzar
+S: Mover hacia atrás
+A: Dezplazar izquierda
+D: Dezplazar derecha</string>
+<string name="SU.03Controls.11.Right">Espacio: Saltar
+Ratón: Mira a tu alrededor
+U: Subir al carro de minas
+Z: Zoom</string>
+<string name="SU.03Controls.12.Header">Armas y herramientas</string>
+<string name="SU.03Controls.13.Left">X: Cambiar a Arma de Construcción
+V: Cambiar a Ray Gun
+B: Cambiar a Steadycam</string>
+<string name="SU.03Controls.14.Right">N: Cambiar a Pistola de pintura
+M: Cambiar a la Herramienta de escaneo
+Shift + rueda del mouse: Herramientas de ciclo</string>
+<string name="SU.03Controls.15.Header">Inventario y acceso rápido</string>
+<string name="SU.03Controls.16.Left">"I: Abrir inventario
+F1-F7: Seleccione la pestaña de acceso rápido
+1-9 y 0: Seleccione la ranura de acceso rápido
+Q: Soltar elemento resaltado
+ "</string>
+<string name="SU.03Controls.17.Right">"Shift + Arrastrar: Dividir stack
+Control + Rueda: Pestañas de ciclo
+Rueda del mouse: Ranuras de ciclo
+ "</string>
+<string name="SU.03Controls.18.Header">Funciones de traje</string>
+<string name="SU.03Controls.19.Left">C: Abrir auto elaboración
+L: Alternar Linterna de cabeza
+J: Alternar Jetpack (necesita elaboración)
+F: Disparar gancho de agarre</string>
+<string name="SU.03Controls.20.Right">G: Lanzar Barra Luminosa
+K: Alternar Vista Holográfica
+U: Alternar Modo Holográfico
+Space: Soltar Gancho de agarre</string>
+<string name="SU.03Controls.21.Header">Maquinas</string>
+<string name="SU.03Controls.22.Left">E: Interactuar con la máquina
+T: Almacenar en la máquina
+R: Girar la máquina en sentido horario
+]: Girar la máquina en sentido horario</string>
+<string name="SU.03Controls.23.Right">Q: Extraer de la máquina
+Shift-T: Almacena 10 artículos
+Shift-E: Modo de vacío de la tolva
+[: Girar la máquina en sentido antihorario</string>
+<string name="SU.03Controls.24.Header">Multijugador</string>
+<string name="SU.03Controls.25.Paragraph">Enter: Mostrar ventana de chat
+ Right Shift: Mostrar información del servidor
+ Right Shift + F1, F2 or F3: Establecer velocidad de red</string>
+<string name="SU.03Controls.26.Header">Arma de construcción</string>
+<string name="SU.03Controls.27.Left">LMB: Construir bloque
+RMB: Eliminar bloque
+MMB: Elige el bloque actual</string>
+<string name="SU.03Controls.28.Right">Control + LMB: Construir hacia mí
+ Control + Hold RMB: Super excavación</string>
+<string name="SU.03Controls.29.Header">Herramienta de escaneo</string>
+<string name="SU.03Controls.30.Paragraph">Botón izquierdo del mouse: Ping Envolvente
+Botón derecho del mouse: Escanear bloque
+Rueda del mouse: Cambiar configuración de ping</string>
+<string name="SU.03Controls.31.Header">Pistola de rayos</string>
+<string name="SU.03Controls.32.Left">LMB: Disparo único de fuego</string>
+<string name="SU.03Controls.33.Right">Hold RMB: Disparo cargado</string>
+<string name="SU.03Controls.34.Header">Otro</string>
+<string name="SU.03Controls.35.Left">Escape: Menú principal
+  Ctrl-M: Alternar música</string>
+<string name="SU.03Controls.36.Right">Tab: Alternar distancia ARTHER</string>
+<string name="SU.04UnknownMaterials.Title">Materiales desconocidos</string>
+<string name="SU.04UnknownMaterials.00.Title">Materiales desconocidos</string>
+<string name="SU.04UnknownMaterials.01.Header">¿Qué son los materiales desconocidos?</string>
+<string name="SU.04UnknownMaterials.02.Paragraph">"Inicialmente, todos los materiales en este planeta son desconocidos. Aparecerán como un signo de interrogación en su inventario; para ser de utilidad, deben identificarse. Una vez recolectado o escaneado (usando la acción secundaria de la herramienta de escaneo) el material desconocido debe ser llevado a la estación de investigación para ser procesado.
+  Hasta que esto suceda, el material no puede usarse para procesamiento o construcción.
+ "</string>
+<string name="SU.04UnknownMaterials.03.Header">Procesamiento de materiales desconocidos</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">Seleccione la primera pestaña de la estación de investigación marcada \'Escaneos\'; Esto enumerará todos los materiales desconocidos que haya encontrado, su valor en los puntos de investigación y cuánta potencia se necesita para procesarlos. Presione el botón \'Procesar\' para procesar el material, se deducirá la potencia requerida y se otorgará el número especificado de puntos de investigación. Se pueden usar para desbloquear recetas y proyectos usando las pestañas segunda y tercera de la estación de investigación.</string>
+<string name="SU.04UnknownMaterials.05.Header">Progresión</string>
+<string name="SU.04UnknownMaterials.06.Paragraph">Una vez que se escanean nuevos materiales, pueden desbloquear nuevas máquinas, recetas y proyectos.</string>
+<string name="SU.04UnknownMaterials.07.Paragraph">Escanear materiales desconocidos es la mejor manera de ganar más Puntos de Investigación. A medida que comprendamos más sobre este planeta extraño y peligroso, ¡estaremos mejor equipados para crear máquinas más grandes y mejores para ayudarle a sobrevivir y poder escapar!</string>
+<string name="SU.04UnknownMaterials.08.Paragraph">Visite la entrada de la guía de ayuda en la estación de investigación para obtener más información.</string>
+<string name="SU.05LaboratoryResearch.Title">Laboratorio de investigaciones</string>
+<string name="SU.05LaboratoryResearch.00.Title">Laboratorio de investigaciones</string>
+<string name="SU.05LaboratoryResearch.01.Paragraph">Esta guía es para proyectos de investigación que requieren el uso del laboratorio. Para obtener más información sobre la investigación en general, visite la entrada de ayuda de la estación de investigación.</string>
+<string name="SU.05LaboratoryResearch.02.Header">Construyendo un laboratorio</string>
+<string name="SU.05LaboratoryResearch.03.Paragraph">"El laboratorio de investigación primero debe desbloquearse completando los proyectos apropiados en la estación de investigación. Luego debe fabricar 27 componentes de laboratorio en la planta de fabricación y colocarlos en una configuración de 3 por 3 por 3.
+ "</string>
+<string name="SU.05LaboratoryResearch.04.Header">Alimentando al laboratorio</string>
+<string name="SU.05LaboratoryResearch.05.Paragraph">El laboratorio está diseñado para usar tanta energía como pueda suministrarlo. ¡Más potencia significa una investigación más rápida! Como mínimo, debe considerar el uso de varios generadores pirotérmicos, pero no es necesario intentar alimentar completamente el laboratorio.</string>
+<string name="SU.05LaboratoryResearch.06.Header">Proyectos iniciales</string>
+<string name="SU.05LaboratoryResearch.07.Paragraph">"Original
+Abra el panel de control del laboratorio interactuando con la máquina (predeterminado \'E\') y asegúrese de estar en modo \'Experimento\'. El proyecto seleccionado se enumerará primero, seguido de sus requisitos y los proyectos elegibles debajo de él. Para seleccionar un nuevo proyecto, haga clic en él y se mostrarán sus requisitos. Haga clic en \'Iniciar proyecto\' para comenzar la investigación.
+ "</string>
+<string name="SU.05LaboratoryResearch.08.Header">Suministrar requisitos del proyecto</string>
+<string name="SU.05LaboratoryResearch.09.Paragraph">Los proyectos generalmente requieren uno o más tipos de Cápsulas de experimentación. Los requisitos exactos se enumerarán con el proyecto. Estos deben colocarse en una cofre de almacenamiento unido a cualquier lado del laboratorio. Si desea automatizar la entrega de cápsulas, entonces debería considerar usar un cofre separado para cada tipo para garantizar la disponibilidad de cualquier tipo de cápsula.</string>
+<string name="SU.05LaboratoryResearch.10.Paragraph">Para obtener más información sobre la creación de cápsulas de experimentación, lea la siguiente guía.</string>
+<string name="SU.06ExperimentalPods.Title">Cápsulas Experimentales</string>
+<string name="SU.06ExperimentalPods.00.Title">Cápsulas experimentales</string>
+<string name="SU.06ExperimentalPods.01.Paragraph">Las cápsulas experimentales se utilizan en un laboratorio para realizar experimentos y completar proyectos de investigación. Para obtener más información sobre la investigación de laboratorio, visite la siguiente guía.</string>
+<string name="SU.06ExperimentalPods.02.Header">¿Qué son las cápsulas experimentales?</string>
+<string name="SU.06ExperimentalPods.03.Paragraph">Las cápsulas experimentales son el recurso utilizado por el laboratorio para realizar experimentos. Cada cápsula es un dispositivo de almacenamiento inteligente capaz de contener y monitorear una variedad de sustancias. El laboratorio es responsable de la gestión de estos, solo necesita suministrarlo con las cápsulas vacías.</string>
+<string name="SU.06ExperimentalPods.04.Header">Creando cápsulas experimentales</string>
+<string name="SU.06ExperimentalPods.05.Paragraph">Las cápsulas experimentales se desbloquean al mismo tiempo que el laboratorio, solo las más básicas se pueden fabricar en la planta de fabricación. El resto requiere maquinaría especializada. Cada tipo de cápsula requiere una materia prima diferente, pero todas usan la misma maquinaria para construirlas.</string>
+<string name="SU.06ExperimentalPods.06.Paragraph">Cada cápsula está construida a partir de placas metálicas y placas de circuito impreso (PCB) hechas del mismo material. Revise la entrada de ayuda para la cápsula específica que se necesita para obtener más información.</string>
+<string name="SU.06ExperimentalPods.07.Header">Crear placas de metal</string>
+<string name="SU.06ExperimentalPods.08.Paragraph">Las placas de metal se crean en una planta de estampación. Este es un tipo de transportador especializado con la máquina estampadora adjunta y se puede fabricar en la planta de fabricación. La materia prima requerida es una barra de metal.</string>
+<string name="SU.06ExperimentalPods.09.Header">Creando PCBs</string>
+<string name="SU.06ExperimentalPods.10.Paragraph">La creación de PCB es un proceso de varias etapas y requiere el uso de tres máquinas. Primero use una \'planta de extrusión\' para convertir barras de metal en alambres. A continuación, una \'Planta de bobinado\' para convertir cables en bobinas, y finalmente una \'Planta de ensamblaje de PCB\' para convertir bobinas en PCB.</string>
+<string name="SU.06ExperimentalPods.11.Header">Cápsulas de Fabricación</string>
+<string name="SU.06ExperimentalPods.12.Paragraph">Finalmente, use el ensamblador de investigación para combinar las placas y los PCB en una cápsula experimental. Esta no es una máquina basada en transportador y requiere energía y cofres de almacenamiento de entrada y salida. Recomendamos utilizar dos cofres de entrada para garantizar la disponibilidad de placas y PCB. Las cápsulas completadas se pueden entregar al laboratorio.</string>
+<string name="SU.07Mynocks.Title">Infestación de Mynock</string>
+<string name="SU.07Mynocks.00.Title">Infestación de Mynock</string>
+<string name="SU.07Mynocks.01.Paragraph">Esta cinta transportadora ha sido infestada por una forma de vida alienígena. Lo hemos visto robando recursos del cinturón, pero esos recursos no parecen permanecer dentro del cuerpo de la forma de vida misma. En cambio, parecen dirigirse a un sistema raíz que atraviesa la tierra. Nuestros escáneres muestran que estas raíces parecen dirigirse hacia un núcleo central, debemos investigar esto como una cuestión prioritaria.</string>
+<string name="SU.07Mynocks.02.Paragraph">Independientemente de cuál sea el destino final de estos recursos robados, ¡queremos detenerlo! Las estructuras alienígenas parecen ser susceptibles a las armas de energía. Deberíamos investigar más sus vulnerabilidades, lo que debería permitirnos construir defensas de base automatizadas para eliminarlas. A más largo plazo, deberíamos buscar métodos mejorados de distribución de recursos que sean menos vulnerables a los ataques. Como paso intermedio, podemos matarlos con nuestra pistola de rayos (V), pero sin duda volverán rápidamente.</string>
+<string name="SU.08VideoTutorials.Title">¡Tutoriales en vídeo!</string>
+<string name="SU.08VideoTutorials.00.Title">Tutoriales en vídeo</string>
+<string name="SU.08VideoTutorials.01.Paragraph">¿Quieres más tutoriales? ¡Avísame en twitter @fortress_craft o en los foros de Steam! - Dj</string>
+<string name="SU.09CommunityLinks.Title">Enlaces de la comunidad!</string>
+<string name="SU.09CommunityLinks.00.Title">Enlaces de la comunidad</string>
+<string name="SU.09CommunityLinks.01.Paragraph">¡Recuerda que siempre puedes hablar conmigo en twitter @fortress_craft o en los foros de Steam! - Dj</string>
+<string name="SU.Particulate_Filtration.Title">Filtración de partículas</string>
+<string name="SU.Particulate_Filtration.00.Title">Filtración de partículas</string>
+<string name="SU.Particulate_Filtration.01.Paragraph">Al estudiar el sistema de filtración de partículas de los trajes, ahora podemos filtrar diferentes elementos del aire. La construcción de estos sistemas en las diversas cavernas debería permitirnos extraer, concentrar y embotellar diferentes elementos que se encuentran en el aire. Debido al tamaño promedio de estas cavernas y la densidad de las partículas en el aire, no debería haber efectos notables a largo plazo de este proceso. Estos sistemas pueden disminuir la hostilidad del medio ambiente para la flora y fauna nativa, este efecto debería ser insignificante ya que no se conocen predominantemente flora o fauna hostil. Las Cavernas Frías nos proporcionarán Freezon, el Cloro de las Cavernas Tóxicas y las Cavernas de Magma, Azufre.</string>
 </resources>
