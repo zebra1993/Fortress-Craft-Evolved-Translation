@@ -67,9 +67,9 @@
 <string name="CO.Local_Life_Forms.02.Paragraph">Los escáneres están detectando una serie de formas de vida voladoras cercanas que representan un riesgo potencial. Los diseños para un escáner de amenazas están disponibles para monitorear su progreso. También deberíamos investigar la creación de algunas defensas de base. Potencialmente más preocupante hemos detectado una serie de grandes estructuras orgánicas subterráneas que podrían interferir con nuestros esfuerzos para asegurar un suministro confiable de recursos.</string>
 <string name="CO.Power_Grid.Title">Red eléctrica</string>
 <string name="CO.Power_Grid.00.Title">Red eléctrica</string>
-<string name="CO.Power_Grid.01.Paragraph">Ahora tenemos un nuevo método para generar y transportar energía. Este proyecto también ha diseñado nuevas actualizaciones para ARTHER y una nueva máquina, el Matter Mover, capaz de teletransportar materiales de una tolva de almacenamiento a otra.</string>
+<string name="CO.Power_Grid.01.Paragraph">Ahora tenemos un nuevo método para generar y transportar energía. Este proyecto también ha diseñado nuevas actualizaciones para ARTHER y una nueva máquina, el Matter Mover, capaz de teletransportar materiales de un cofre de almacenamiento a otro.</string>
 <string name="CO.Power_Grid.02.Header">Generador pirotérmico</string>
-<string name="CO.Power_Grid.03.Paragraph">Esta máquina convertirá los recursos combustibles en una tolva de almacenamiento conectada en energía. Requiere mucho aire fresco, por lo que pierde eficiencia con la profundidad.</string>
+<string name="CO.Power_Grid.03.Paragraph">Esta máquina convertirá los recursos combustibles de un cofre de almacenamiento conectado en energía. Requiere mucho aire fresco, por lo que pierde eficiencia con la profundidad.</string>
 <string name="CO.Power_Grid.04.Header">Transmisor de energía láser</string>
 <string name="CO.Power_Grid.05.Paragraph">Colóquelo junto a un generador de energía o batería para transmitir energía de hasta 64 ma una batería, un consumidor de energía u otro transmisor de energía láser. Podemos usar esto para enviar energía a nuestras operaciones mineras más profundas.</string>
 <string name="CO.Suit_Upgrading.Title">Actualización de traje</string>
