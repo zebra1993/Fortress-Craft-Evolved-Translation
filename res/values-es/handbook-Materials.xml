@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">Control de Movimiento de IA</string>
-<string name="MA.AI_Mover_Control.01.Paragraph">Este robot moverá un recurso a la vez desde una tolva cercana hacia otra, acorde a los permisos \"Añadir y Remover\" de las tolvas cercanas.</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Este robot moverá un recurso a la vez desde una cofre cercano hacia otro, acorde a los permisos \"Añadir y Remover\" de los cofres cercanos.</string>
 <string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Núcleo de la batería</string>
 <string name="MA.ARTHER_Battery_Core.01.Paragraph">Permite a ARTHER retener 8 veces más carga que puede transferirte cuando te quedes sin carga. Construya esto tan pronto como sea posible! Sólo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">Estación de carga ARTHER</string>
@@ -13,4 +13,458 @@ Tasa de recarga de la estación:</string>
  1500
  10 por segundo</string>
 <string name="MA.ARTHER_Dapper_Hat.00.Title">Sombrero ARTHER apuesto</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">¡Mantenga a ARTHER buscando apuesto Y seco! Solo funciona si tienes el DLC Dapper Indie Supporter. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Monóculo apuesto ARTHER</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">¡Mejora la visión de ARTHER! Solo funciona si tienes el DLC Dapper Indie Supporter. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER Bigote apuesto</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Inserte el chiste de \'bigote montado\' aquí Solo funciona si tienes el DLC Dapper Indie Supporter. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">Paquete apuesto ARTHER</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Completamente apuesto! Use esto para ahorrar espacio en su inventario combinando todas las actualizaciones apuesto anteriores en un solo artículo. Debe mantenerse en su inventario para aplicar las actualizaciones.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Paquete de actualización de ARTHER apuesto</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Completamente actualizado - ¡Totalmente elegante! Use esto para ahorrar espacio en su inventario. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER Núcleo de energía</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Arregla el daño a ARTHER permitiéndole moverse de manera confiable. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER Panel Solar</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Mejora la velocidad a la que ARTHER regenera la energía de la luz solar. Solo necesita uno de estos y debe mantenerse en su inventario para funcionar.</string>
+<string name="MA.ARTHER_Turret.00.Title">ARTHER Torreta</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">Una torreta de alta eficiencia energética con el inconveniente de que debe ser operada por ARTHER. Para usar, resalte la torreta y presione la tecla interactuar (por defecto \'E\') para acoplar ARTHER a la torreta.</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">La torreta puede alimentarse externamente o usar las reservas de energía de ARTHER. Si la torreta se alimenta externamente, ARTHER recibirá suficiente carga para permanecer allí indefinidamente. Si ARTHER se queda sin energía, se desacoplará y volverá al usuario.</string>
+<string name="MA.ARTHER_Turret.03.Header">Especificaciones</string>
+<string name="MA.ARTHER_Turret.04.Left">Rango:
+Daño (por disparo):
+Energía requerida (por disparo):
+Capacidad máxima de energía:
+Tiempo de recarga:
+Personal:</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+33
+5
+150
+10 segundos
+1 (ARTHER)</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Paquete de actualización</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Combina los efectos del Panel Solar, Núcleo de Energía y Batería. Úsalo para ahorrar espacio en su inventario. Sólo necesita uno y debe estar en su inventario para funcionar.</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Cápsula experimental avanzada</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Las cápsulas experimentales avanzadas se utilizan en un laboratorio para realizar experimentos y completar proyectos de investigación. Estas cápsulas están fabricadas en oro. Para obtener más información sobre la investigación de laboratorio, visite la siguiente guía.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Para obtener más información sobre cómo crear cápsulas experimentales, lea la siguiente guía.</string>
+<string name="MA.Advanced_machine_block.00.Title">Bloque de máquina avanzada</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">Bloque de construcción principal para máquinas avanzadas.</string>
+<string name="MA.Advanced_machine_block.02.Header">Estos bloques son un componente principal de ciertas máquinas multibloque.</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Motor de taladro antimateria</string>
+<string name="MA.Antimatter_Drill_Motor.01.Paragraph">Mejora la velocidad a la que un extractor de minerales extrae minerales a costa de un mayor uso de energía.</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">Especificaciones</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">Velocidad de extracción:</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">Constructor automático</string>
+<string name="MA.Auto_Builder.01.Paragraph">Puede construir líneas transportadoras regulares en cualquiera de las direcciones cardinales cuando se alimenta con transportadores.</string>
+<string name="MA.Auto_Builder.02.Header">¡Consejos y trucos!</string>
+<string name="MA.Auto_Builder.03.Paragraph">- ¡Esta máquina necesita bastante energía para funcionar a toda velocidad!</string>
+<string name="MA.Auto_Builder.04.Paragraph">- Se necesita un cofre para alimentar los bloques transportadores.</string>
+<string name="MA.Auto_Builder.05.Paragraph">"- ¡No uses ningún otro bloque!  ¡No se pueden colocar otros bloques!"</string>
+<string name="MA.Auto_Builder.06.Header">!Precaución!</string>
+<string name="MA.Auto_Builder.07.Paragraph">- ¡Al colocar un cofre con tuberías de transporte se construirán líneas transportadoras regulares, no tuberías de transporte!</string>
+<string name="MA.Auto_Excavator.00.Title">Excavadora automática</string>
+<string name="MA.Auto_Excavator.01.Paragraph">"La excavadora automática es una máquina para excavar grandes ejes verticales desde abajo, el material cavado caerá al suelo.  No es capaz de cavar vetas de mineral."</string>
+<string name="MA.Auto_Excavator.02.Header">Usos</string>
+<string name="MA.Auto_Excavator.03.Paragraph">"Excave un pequeño túnel hasta el fondo del eje previsto y coloque la autoexcavadora.  Tendrá que recibir energía de un transmisor de potencia láser u otra fuente de alimentación."</string>
+<string name="MA.Auto_Excavator.04.Header">Especficaciones</string>
+<string name="MA.Auto_Excavator.05.Left">Tamaño del eje:
+  Altura máxima del eje:
+  Potencia requerida:
+  Capacidad de potencia:
+  Velocidad máxima de recarga de energía:
+  Velocidad máxima de excavación:</string>
+<string name="MA.Auto_Excavator.06.Right">3m x 3m
+  512m
+  20 por 1m al cubo excavado
+  160
+  Ninguna
+  40 bloques por segundo</string>
+<string name="MA.BFL-9000.00.Title">BFL-9000</string>
+<string name="MA.BFL-9000.01.Paragraph">"Este láser de perforación de túnel horizontal masivo cortará un túnel de 5x5 metros de tamaño.  Requiere enormes cantidades de energía para operar.  No devuelve ningún recurso útil."</string>
+<string name="MA.BFL-9000.02.Header">Especificaciones</string>
+<string name="MA.BFL-9000.03.Left">Tamaño del túnel:
+  Longitud máxima del túnel:
+  Potencia requerida:
+  Capacidad de potencia:
+  Velocidad máxima de recarga de energía:
+  Velocidad máxima de excavación:</string>
+<string name="MA.BFL-9000.04.Right">5m x 5m
+  Ilimitado
+  1280 por metro
+  2560
+  2560 por segundo
+  0.2 metros por segundo</string>
+<string name="MA.Bar_Keeper.00.Title">Sistema de recuperación de Barras Cyberdyne</string>
+<string name="MA.Bar_Keeper.01.Paragraph">"El sistema de recuperación de barras Cyberdyne es una máquina utilizada para tomar las barras del inventario de un jugador.  Esta máquina está diseñada para evitar el robo involuntario de recursos cuando un jugador cierra sesión.  A diferencia de sus dos predecesores, el ladrón de minerales y basura obstaculiza en lugar de ayudar a los jugadores cuando se colocan en los pasillos.  Cuando se juega en un servidor, esta máquina debe configurarse en una ubicación central a la que puedan acceder todos los jugadores, pero que esté etiquetada de forma obvia para que no se active involuntariamente.
+
+  Simplemente construya nuestro nuevo sistema de recuperación de barras (tm) en un diseño de 3x3 y suministre solo 5 potencias por barra, luego simplemente párese y deje que haga el trabajo duro por usted!."</string>
+<string name="MA.Bar_Keeper.02.Header">Especificaciones</string>
+<string name="MA.Bar_Keeper.03.Left">"Velocidad de recogida de barra:
+  Almacenamiento interno:
+  Consumo de energía:
+ "</string>
+<string name="MA.Bar_Keeper.04.Right">"¡Hasta 3.300 / minuto!
+  100 unidades de barra!
+  ¡Solo 5 de potencia por barra!
+ "</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">Cinta transportadora básica</string>
+<string name="MA.Basic_Conveyor_Belt.01.Paragraph">"Las cintas transportadoras son una forma relativamente barata y fácil de mover recursos.  Es probable que su primer uso para ellos sea mover material desde un cofre de almacenamiento conectada a una mina de mineral o carbón a una conectada a una fundición o generador de energía como el Central Power Hub o el Generador pirotérmico."</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">Usos</string>
+<string name="MA.Basic_Conveyor_Belt.03.Paragraph">"Las cintas transportadoras tomarán automáticamente los recursos de cualquier cofre de almacenamiento adyacente si están orientados en cualquier dirección alejada del cofre y la moverán hacia adelante colocándola en cualquier transportador o cofre de almacenamiento frente a ella, siempre que haya espacio disponible.  Puede cambiar la dirección de la línea del transportador girando un transportador o colocándolo en una pared para mover recursos verticalmente.  Los cofres de almacenamiento solo son necesarios para interactuar con máquinas adyacentes al final de la línea."</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Limitaciones</string>
+<string name="MA.Basic_Conveyor_Belt.05.Paragraph">"Los transportadores son baratos y no requieren energía externa, sin embargo, tienen una serie de desventajas.  Son vulnerables a ambientes extremadamente fríos / tóxicos y el diseño abierto los hace particularmente susceptibles a los ataques.  Se deben investigar métodos alternativos de transporte."</string>
+<string name="MA.Basic_Conveyor_Belt.06.Paragraph">"La cinta transportadora básica es más barata que la cinta normal pero MUCHO más lenta.  Úselo para la automatización temprana o donde no se requiere un alto rendimiento."</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Filtración</string>
+<string name="MA.Basic_Conveyor_Belt.08.Paragraph">"El uso de un filtro de cinta transportadora le permite tener un control más preciso sobre la distribución de recursos.  Este tipo de filtro se utiliza para controlar el material expulsado de los cofres en una red de transportadores.  Puede configurar un filtro para eliminar BASURA, MENAS, ORGÁNICO, GEMAS, CARBÓN, BIOMASA, SOLDABLE, COMBUSTIBLE, ARTÍCULOS ARTESANALES, CRISTAL Y BARRAS SOLAMENTE. "</string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">Especificaciones</string>
+<string name="MA.Basic_Conveyor_Belt.10.Left">Velocidad máxima de transporte (rápida):
+  Velocidad máxima de transporte (lenta):
+  Potencia requerida:
+  Rango maximo:</string>
+<string name="MA.Basic_Conveyor_Belt.11.Right">18 artículos por minuto
+  9 artículos por minuto
+  Ninguna
+  1m</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Motor de taladro basico</string>
+<string name="MA.Basic_Drill_Motor.01.Paragraph">Mejora la velocidad a la que un extractor de minerales extrae minerales por minuto a costa de un mayor uso de energía.</string>
+<string name="MA.Basic_Drill_Motor.02.Header">Especificaciones</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Velocidad de extracción:</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Cápsula experimental básica</string>
+<string name="MA.Basic_Experimental_Pod.01.Paragraph">"Las cápsulas experimentales básicas se utilizan en un laboratorio para realizar experimentos y completar proyectos de investigación. Estas cápsulas se fabrican de cobre.  Para obtener más información sobre la investigación de laboratorio, visite la siguiente guía."</string>
+<string name="MA.Basic_Experimental_Pod.02.Paragraph">Para obtener más información sobre cómo crear Cápsulas experimentales, lea la siguiente guía.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.00.Title">Transmisor de energía láser básico</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.01.Paragraph">Como el más económico y básico de los dispositivos de transmisión de energía, este transmisor no es adecuado para ninguna tarea y solo debe usarse cuando se deja como la única opción restante.</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.02.Paragraph">"El transmisor de energía láser básico solo puede transmitir suficiente potencia para hacer funcionar dos extractores de mineral sin actualizar.  Debido a su velocidad de transmisión extraordinariamente baja, se recomienda actualizar a una opción de transmisión más avanzada una vez que se haya descubierto una."</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.03.Paragraph">"Para abrir el panel de control para LET presione la tecla \'Interactuar\' (por defecto \'E\').  Esto le permite actualizar la lente, lo que aumentará la transferencia de energía.  También puede cambiar el modo de disparo para que espere una batería llena antes de enviar energía.  Los LET tienen una capacidad interna pequeña, considere complementarlos con bloques de almacenamiento de energía para garantizar un suministro confiable de energía a medida que la oferta y la demanda varían."</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">Especificaciones</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.05.Left">Tamaño del paquete de alimentación:
+  Tasa máxima de paquetes:
+  Velocidad máxima de transferencia de energía:
+  Capacidad de potencia:
+  Rango maximo:</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.06.Right">0.9
+  1 por segundo
+  0.9 por segundo
+  18
+  32m</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.00.Title">Puerto de almacenamiento básico de almacenamiento masivo</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.01.Paragraph">"El puerto de almacenamiento masivo permite la inserción controlada de artículos en el almacenamiento masivo para evitar que el almacenamiento se desborde. 
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.02.Left">"Inventario del puerto:
+  Inventario de drones:
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.03.Right">"25
+5
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.04.Paragraph">"El puerto de almacenamiento masivo debe colocarse junto a una caja de almacenamiento masivo.  Al presionar E se abrirá la interfaz para configurar el artículo almacenado y el límite de inventario.  El puerto solo agregará el artículo almacenado si el stock actual está por debajo del límite especificado.  Siempre se agregarán otros elementos como si fuera un puerto de entrada estándar.
+ 
+  Mantenga presionadas las teclas Ctrl, Mayús o Alt cuando ajuste los límites de inventario para cambiar los límites en incrementos de 10, 100 o 1000 artículos.
+ "</string>
+<string name="MA.Basic_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Puede hacer clic con el botón derecho en la ranura vacía para buscar un artículo por nombre para configurar fácilmente el artículo de stock o presionar el botón para elegir un artículo.  Los componentes multibloque son especiales, por lo que no se encontrarán en una búsqueda normal, sino que buscarán una lista de estos bloques para varios, ubicaciones o componentes.
+ 
+  El inventario interno del puerto se puede bloquear con el botón etiquetado en la interfaz para evitar que el puerto recopile elementos si se ha alcanzado el límite de existencias.  Esta función está diseñada para permitir limitar la acumulación de elementos de alto valor.
+ "</string>
+<string name="MA.Basic_Missile_Assembler.00.Title">Ensamblador de misiles básico</string>
+<string name="MA.Basic_Missile_Assembler.01.Paragraph">El ensamblador de misiles básicos es una máquina de fabricación utilizada para automatizar la producción de misiles básicos.</string>
+<string name="MA.Basic_Missile_Assembler.02.Header">Usos</string>
+<string name="MA.Basic_Missile_Assembler.03.Paragraph">"Al igual que con todas las máquinas de producción independientes, debe colocar un cofre de almacenamiento por ingrediente, marcada como \'eliminar solo\', y un cofre de almacenamiento para recibir el artículo fabricado, marcado como \'agregar solo\'.  Esto asegurará que la producción no se bloquee permanentemente debido a la escasez de cualquier ingrediente."</string>
+<string name="MA.Basic_Missile_Assembler.04.Paragraph">Cada misil creado requerirá 1 Tubo de cobre, 1 cable de oro y un Combustible compuesto de alta energía.</string>
+<string name="MA.Basic_Missile_Assembler.05.Paragraph">La máquina también requiere energía que puede suministrarse desde un generador de energía conectado, o indirectamente a través de un bloque de almacenamiento de energía o un transmisor de energía láser.</string>
+<string name="MA.Basic_Missile_Assembler.06.Paragraph">Los cofres de alimentación y almacenamiento se pueden colocar encima y debajo de la máquina, además de los lados.</string>
+<string name="MA.Basic_Missile.00.Title">Misil Básico</string>
+<string name="MA.Basic_Missile.01.Paragraph">"Municiones para el lanzador de misiles.  Se fabrica en un ensamblador de misiles básico."</string>
+<string name="MA.Basic_Missile.02.Header">Especificaciones</string>
+<string name="MA.Basic_Missile.03.Left">Daño:</string>
+<string name="MA.Basic_Missile.04.Right">70,000</string>
+<string name="MA.Basic_Ore_Smelter.00.Title">Fundición de mena básica</string>
+<string name="MA.Basic_Ore_Smelter.01.Paragraph">La fundición convertirá el mineral en bruto en barras que se pueden utilizar en la planta de fabricación y en otros lugares para crear nuevas máquinas y artículos. La fundición básica es la mitad de la eficiencia y la mitad de la velocidad de la fundición normal y no se puede actualizar con módulos de inducción forzada.</string>
+<string name="MA.Basic_Ore_Smelter.02.Paragraph">Inicialmente, deberá alimentar la fundición manualmente, esto se puede hacer presionando el botón \'Interactuar\' (predeterminado \'E\') para abrir el panel de control de la fundición. Luego puede agregar mineral presionando el botón \'Alimentar mineral\' o arrastrando un tipo específico de mineral a la fundición. El panel de control indicará cuánto mineral se necesita por barra mientras está vacío.</string>
+<string name="MA.Basic_Ore_Smelter.03.Paragraph">Una vez que la fundición tiene suficiente mineral comenzará a calentarse, esto requiere energía de un bloque de almacenamiento de energía o generador de energía conectado. Cuando alcance la temperatura correcta, comenzará a fundir mineral en barras que se pueden recoger haciendo clic en la ranura de salida en la parte inferior del panel de control.</string>
+<string name="MA.Basic_Ore_Smelter.04.Header">Automatización</string>
+<string name="MA.Basic_Ore_Smelter.05.Paragraph">La fundición debe automatizarse lo antes posible con la adición de cofres de almacenamiento de entrada y salida. El cofre de entrada debe establecerse en un estado de E / S de \'Eliminar solo\'. El cofre de entrada debe ser lo suficientemente grande como para contener el requisito mínimo de mineral.</string>
+<string name="MA.Basic_PCB.00.Title">PCB Básico</string>
+<string name="MA.Basic_PCB.01.Paragraph">Un PCB se crea a partir de bobinas de cobre en una planta de ensamblaje de PCB.</string>
+<string name="MA.Basic_Quarry.00.Title">Casntera Básica</string>
+<string name="MA.Basic_Quarry.01.Paragraph">La cantera cava la tierra debajo de ella y devuelve todos los recursos encontrados. Debe construirse por encima de -25m. Los recursos se colocarán en cofres de almacenamiento adjuntos.</string>
+<string name="MA.Basic_Quarry.02.Header">Especificaciones</string>
+<string name="MA.Basic_Quarry.03.Left">Tamaño de la cantera:
+Profundidad de la cantera:
+Potencia requerida:
+Capacidad de potencia:
+Tasa máxima de recarga:
+Máxima dureza excavada:
+Velocidad máxima de excavación:
+Eficiencia de extracción de mineral:</string>
+<string name="MA.Basic_Quarry.04.Right">9m x 9m
+ 3950
+ 150 por 1m al cubo
+ 4096
+ 1024 por segundo
+ 250
+ 5 metros cúbicos por segundo
+ 10%</string>
+<string name="MA.BasicCargoLift.00.Title">Elevador de carga básico</string>
+<string name="MA.BasicCargoLift.01.Paragraph">El más pequeño de los elevadores de carga disponibles, es ideal para la entrega en masa de materiales como hierro y litio.</string>
+<string name="MA.BasicCargoLift.02.Header">Especificaciones</string>
+<string name="MA.BasicCargoLift.03.Left">"Rango máximo:
+  Velocidad máxima:
+  Aceleración:
+  Máxima capacidad
+  Uso de energía (viaje):
+ "</string>
+<string name="MA.BasicCargoLift.04.Right">"Ilimitado
+  5 metros / seg
+  0.5 metros / seg / seg
+  300
+  35 PPS
+ "</string>
+<string name="MA.BasicMinecart.00.Title">Carro de minas básico</string>
+<string name="MA.BasicMinecart.01.Paragraph">Los carros de minas son para transferencias masivas de artículos a una tasa media.</string>
+<string name="MA.BasicMinecart.02.Header">Especificaciones</string>
+<string name="MA.BasicMinecart.03.Left">"Máxima velocidad:
+  Máximo almacenamiento:
+  Aceleración:
+ "</string>
+<string name="MA.BasicMinecart.04.Right">1 m / s
+  25
+  0.5m / s / s
+  dieciséis
+  15 segundos</string>
+<string name="MA.BasicMinecart.05.Paragraph">El uso de Minecart es sencillo y simplemente se expande en el paradigma Cofre -&gt; Conveyor que se ha utilizado hasta ahora. Los carros de minas se cargan en su red de carros de minas a través de un depósito de carros de minas.</string>
+<string name="MA.BasicMinecart.06.Title">Manejo de recursos de Minecart</string>
+<string name="MA.BasicMinecart.07.Paragraph">Una vez en su red de carros de minas, los carros de minas se detendrán en las estaciones de carga y descarga, y recogerán y dejarán sus recursos transportados.</string>
+<string name="MA.BasicMinecart.08.Title">Controles avanzados de Minecart</string>
+<string name="MA.BasicMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su Minecart, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
+<string name="MA.BaubleBerry.00.Title">BaubleBerry</string>
+<string name="MA.BaubleBerry.01.Paragraph">Una planta indescriptible que se encuentra en la superficie y dentro de las cavernas de este planeta.</string>
+<string name="MA.BaubleBerry.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Bedrock.00.Title">Roca de fondo</string>
+<string name="MA.Bedrock.01.Paragraph">Uno de los tipos de rocas generales. Se puede triturar en macerador para extraer mineral útil. Este bloque se puede colocar.</string>
+<string name="MA.Biomass_Growth_Ping.00.Title">Pulso de crecimiento de biomasa</string>
+<string name="MA.Biomass_Growth_Ping.01.Paragraph">El pulso de crecimiento de biomasa se utiliza para encontrar biomasa adicional cuando el que se encuentra a través del pulso de material desconocido está casi agotado o es insuficiente. Para obtener más información, consulte la guía de ayuda para el pulso de mineral en blanco.</string>
+<string name="MA.Blank_Ore_Ping.00.Title">Pulso de mineral blanco</string>
+<string name="MA.Blank_Ore_Ping.01.Paragraph">"El Pulso de mineral en blanco se usa junto a una muestra de mineral para elaborar un filtro de mineral de pulso .  Estos pulsos de mineral filtrado están diseñados para permitirnos encontrar más vetas de mineral del mismo tipo si el que se descubrió anteriormente está a punto de agotarse o es demasiado pequeño para ser de alguna utilidad."</string>
+<string name="MA.Blank_Ore_Ping.02.Header">Usos</string>
+<string name="MA.Blank_Ore_Ping.03.Paragraph">1. Fabricar un número adecuado de Pings de mineral en blanco en la planta de fabricación.</string>
+<string name="MA.Blank_Ore_Ping.04.Paragraph">2. Cuando se requiera un pulso de mineral filtrado, combine el pulso de mineral en blanco con una muestra de mineral utilizando las capacidades de auto-elaboración de su traje (por defecto \'C\').</string>
+<string name="MA.Blank_Ore_Ping.05.Paragraph">"3. Coloque el filtro de pulso de mineral en su barra de acceso rápido y selecciónelo.  Envíe el pulso presionando el botón \'Construir\' (predeterminado \'LMB\').  Esto lo alimentará al escáner de minerales y el escáner enviará un pulso filtrado y también se mostrará en la Holobase.  El pulso mineral se consume en el proceso."</string>
+<string name="MA.Blue_Canvas.00.Title">Lona azul</string>
+<string name="MA.Blue_Canvas.01.Paragraph">Bloque de embellecimiento azul completo.</string>
+<string name="MA.Blue_GlowPod.00.Title">Cápsula brillante azul</string>
+<string name="MA.Blue_GlowPod.01.Paragraph">Esta especie nativa de flora emite un brillo azul constante debido a una reacción química justo debajo de la superficie de la planta.</string>
+<string name="MA.Blue_GlowPod.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Build_Gun_V1.00.Title">Pistola de construcción V1</string>
+<string name="MA.Build_Gun_V1.01.Paragraph">"Pistola de construcción es una herramienta hecha de partes reutilizadas del barco estrellado.  La pistola de construcción permite la construcción rápida y la destrucción de materiales en el medio ambiente.  El arma de construcción básica no se ha ensamblado para el nuevo entorno alienígena y, por lo tanto, tiene limitaciones extremas en su funcionalidad.  Debido al enfriamiento rudimentario de las pistolas de construcción para la función de agarre, cualquier caída en la presión o calidad del aire puede causar un breve período de enfriamiento donde la activación es imposible por unos momentos después de un agarre."</string>
+<string name="MA.Build_Gun_V2.00.Title">Pistola de construcción V2</string>
+<string name="MA.Build_Gun_V2.01.Paragraph">"La pistola de construcción V2 es una versión mejorada de la pistola de construcción, más adecuada para ser utilizada en el entorno alienígena.  Las actualizaciones al arma de construcción de base le permiten extraer a través de materiales más duros y maquinaria más avanzada.  A pesar de esta mejora en la tecnología, los sistemas de enfriamiento para la función de agarre siguen siendo inadecuados, para un uso rápido en las cavernas frías y otras áreas con baja calidad del aire se necesitará un conductor de calor de mejor calidad.  Solo se necesita una de estas actualizaciones para mejorar la funcionalidad de la herramienta base, las actualizaciones adicionales de la pistola de construcción V2 han demostrado que no brindan beneficios adicionales en este momento sin una pérdida extrema. "</string>
+<string name="MA.Build_Gun_V3.00.Title">Pistola de construcción V3</string>
+<string name="MA.Build_Gun_V3.01.Paragraph">"La pistola de construcción V3 es una actualización adicional de la pistola de construcción ya actualizada.  Esta actualización proporciona un enfriamiento adecuado para facilitar activaciones continuas rápidas de la función de agarre.  Junto con el aumento de la capacidad de enfriamiento, la pistola de construcción V3 permite la destrucción de materiales más duros y el desmontaje de maquinaria más avanzada.  Solo se necesita una de estas actualizaciones para mejorar la funcionalidad de la herramienta; las actualizaciones adicionales de la pistola de construcción V3 han demostrado que no brindan beneficios adicionales en este momento sin una pérdida extrema."</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.00.Title">Puerto de almacenamiento a granel de almacenamiento masivo</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.01.Paragraph">"El puerto de almacenamiento masivo permite la inserción controlada de artículos en el almacenamiento masivo para evitar que el almacenamiento se desborde. 
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.02.Left">"Inventario portuario:
+  Inventario de drones:
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.03.Right">"100
+25
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.04.Paragraph">"El puerto del almacenamiento masivo debe colocarse junto a una caja de almacenamiento masivo. Al presionar E se abrirá la interfaz para configurar el artículo almacenado y el límite de inventario. El puerto solo agregará el artículo almacenado si el stock actual está por debajo del límite especificado. Siempre se agregarán otros elementos como si fuera un puerto de entrada estándar.
+ 
+  Mantenga presionadas las teclas Ctrl, Mayús o Alt cuando ajuste los límites de inventario para cambiar los límites en incrementos de 10, 100 o 1000 artículos.
+ "</string>
+<string name="MA.Bulk_Mass_Storage_Stocking_Port.05.Paragraph">"
+ Puede hacer clic con el botón derecho en la ranura vacía para buscar un artículo por nombre para configurar fácilmente el artículo de stock o presionar el botón para elegir un artículo. Los componentes multibloque son especiales, por lo que no se encontrarán en una búsqueda normal, sino que buscarán una lista de estos bloques para múltiples ubicaciones o componentes.
+ 
+  El inventario interno del puerto se puede bloquear con el botón etiquetado en la interfaz para evitar que el puerto recopile elementos si se ha alcanzado el límite de existencias. Esta función está diseñada para permitir limitar la acumulación de elementos de alto valor.
+ "</string>
+<string name="MA.BulkCargoLift.00.Title">Elevador de carga a granel</string>
+<string name="MA.BulkCargoLift.01.Paragraph">La máquina Frozen Factory, es la más grande de las plataformas elevadoras disponibles, es ideal para la entrega en masa de materiales como cromo y molibdeno desde las cavernas congeladas. ¡Esta lista de carga tiene una enorme capacidad y es extremadamente rápida también!</string>
+<string name="MA.BulkCargoLift.02.Header">Especificaciones</string>
+<string name="MA.BulkCargoLift.03.Left">"Rango máximo:
+  Velocidad máxima:
+  Aceleración:
+  Máxima capacidad:
+  Uso de energía (viaje):
+ "</string>
+<string name="MA.BulkCargoLift.04.Right">"Ilimitado
+  15 metros / seg
+  0.5 metros / seg / seg
+  3000
+  850 PPS
+ "</string>
+<string name="MA.BulkMinecart.00.Title">Carro de minas a granel</string>
+<string name="MA.BulkMinecart.01.Paragraph">"Original
+Los carros de minas son para transferencias masivas de artículos a un ritmo rápido.
+
+  Este Minecart es un artículo del paquete de expansión Frozen Factory.
+ "</string>
+<string name="MA.BulkMinecart.02.Header">Especificaciones</string>
+<string name="MA.BulkMinecart.03.Left">"Máxima velocidad:
+  Máximo almacenamiento:
+  Aceleración:
+ "</string>
+<string name="MA.BulkMinecart.04.Right">"2m/s
+ 50
+ 1.0m/s/s
+ "</string>
+<string name="MA.BulkMinecart.05.Paragraph">El uso de Minecart es sencillo y simplemente se expande en el paradigma Cofre -&gt; Conveyor que se ha utilizado hasta ahora. Los carros de minas se cargan en su red de carros de minas a través de un depósito de carros de minas.</string>
+<string name="MA.BulkMinecart.06.Title">Manejo de recursos de Minecart</string>
+<string name="MA.BulkMinecart.07.Paragraph">Una vez en su red de carros de minas, los carros de minas se detendrán en las estaciones de carga y descarga, y recogerán y dejarán sus recursos transportados.</string>
+<string name="MA.BulkMinecart.08.Title">Controles avanzados del Carro de minas</string>
+<string name="MA.BulkMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su carro de minas, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
+<string name="MA.CargoLiftController.00.Title">Controlador de elevador de carga</string>
+<string name="MA.CargoLiftController.01.Paragraph">
+ Utilizado para transporte vertical a granel.
+  Esto está construido en una orientación 3x1x3.
+  Esta es una máquina ideal para Carros de minas, y es el método preferido para mover grandes cantidades de artículos desde lo más profundo de su mundo.
+  Una vez construido, deberá excavar manualmente un eje debajo de él. Si lo prefiere, use una máquina para hacer esta tediosa tarea por usted.</string>
+<string name="MA.CargoLiftController.02.Title">Configuración del eje</string>
+<string name="MA.CargoLiftController.03.Paragraph">Una vez que haya despejado su eje hasta la profundidad deseada, necesitará ajustar rieles a los bordes del mismo. Afortunadamente, utilizando técnicas modernas de construcción, estas no necesitan ningún tipo de apoyo.
+
+  Simplemente conecte un cofre de almacenamiento a la plataforma elevadora y los colocará automáticamente.
+
+  No hay límite para la distancia que se puede colocar, pero tenga en cuenta que existe una compensación entre la distancia y la velocidad.
+
+  400-600 metros es ideal, pero se pueden usar a cualquier distancia.
+
+  Se recomienda una distancia mínima de unos 15 metros.
+
+  Para distancias más cortas, pruebe Transportador de Materia o Cintas Transportadoras.</string>
+<string name="MA.CargoLiftController.04.Title">Despliegue</string>
+<string name="MA.CargoLiftController.05.Paragraph">"Una vez que su Controlador de elevador de carga esté leyendo una distancia adecuada en el despliegue del riel, entonces estará listo para colocarle un elevador de carga.
+  Simplemente abra la interfaz de usuario del controlador del elevador de carga (la clave predeterminada es \'E\') y arrastre el elevador de carga a la ranura.
+  Puede quitar y actualizar los elevadores de carga, pero el elevador de carga DEBE estar vacío antes de poder hacerlo.
+ "</string>
+<string name="MA.CargoLiftController.06.Title">Usos</string>
+<string name="MA.CargoLiftController.07.Paragraph">"Su Elevador de carga viajará automáticamente hacia arriba y hacia abajo del eje si se le da suficiente potencia, y recogerá y descargará recursos dependiendo de las órdenes dadas.  Para cambiar los pedidos, simplemente abra la IU del controlador de elevador de carga (la clave predeterminada es \'E\') y selecciónelos adecuadamente.
+
+  Una vez en los límites superior o inferior de su eje, el elevador de carga intentará cargar y descargar a través de cualquier cofre de almacenamiento conectado.  Simplemente colóquelos tocando el elevador estacionado.
+ "</string>
+<string name="MA.Central_Power_Hub.00.Title">Central Power Hub</string>
+<string name="MA.Central_Power_Hub.01.Paragraph">"El Central Power Hub (CPH) es la máquina más importante en su base.  Está demasiado avanzado para replicarse y no puedes sobrevivir en este mundo sin él, por lo que debes protegerlo a toda costa."</string>
+<string name="MA.Central_Power_Hub.02.Header">Producción de energía</string>
+<string name="MA.Central_Power_Hub.03.Paragraph">"El CPH contiene una gran batería interna que puede almacenar la energía recolectada por sus paneles solares y desde el pequeño generador de combustible fósil en su interior.  Solo hay espacio suficiente para una sola unidad de combustible a la vez, por lo que debe buscar automatizar la entrega de combustible utilizando un cofre de almacenamiento o una mini cofre lo antes posible."</string>
+<string name="MA.Central_Power_Hub.04.Paragraph">"El CPH enviará automáticamente energía a las máquinas circundantes que la necesiten.  También puede insertar o extraer energía directamente interactuando con él (por defecto \'E\').  Este panel de control también le permite insertar combustible en el generador."</string>
+<string name="MA.Central_Power_Hub.05.Header">Láser orbital</string>
+<string name="MA.Central_Power_Hub.06.Paragraph">El rayo láser disparado desde la parte superior de la CPH se puede usar como una práctica baliza para encontrar su base, sin embargo, tenga cuidado de no colocar ningún bloque cerca de ella o corre el riesgo de ser destruida.</string>
+<string name="MA.Central_Power_Hub.07.Header">Sistemas informáticos</string>
+<string name="MA.Central_Power_Hub.08.Paragraph">"El CPH contiene la mayoría de los sistemas informáticos que coordinan su base, las señales de control se pueden enviar de forma inalámbrica, codificadas en haces de transmisión de potencia y materia, y a lo largo de las líneas de transporte.  La conexión inalámbrica se ve reforzada por su traje, sin embargo, si encuentra máquinas aisladas y distantes que se apagan cuando está lejos, considere ejecutar una línea básica de transmisión de energía láser."</string>
+<string name="MA.Chargeable_Explosive.00.Title">Explosivo recargable</string>
+<string name="MA.Chargeable_Explosive.01.Paragraph">"Bomba recargable con radio aumentado según el nivel de carga.  Este explosivo puede cargarse usando un bloque de almacenamiento de energía adyacente, un generador de energía o un transmisor de energía láser.  Mantendrá su carga mientras se transporta a una ubicación alternativa en cuyo punto puede detonarse usando la tecla interactiva alternativa (predeterminado \'Shift + E\')."</string>
+<string name="MA.Chargeable_Explosive.02.Paragraph">"¡Cada vez que el poder almacenado se multiplica por 10, el nivel de carga aumentará en 1! "</string>
+<string name="MA.Chargeable_Explosive.03.Header">¡Consejos y trucos!</string>
+<string name="MA.Chargeable_Explosive.04.Paragraph">- ¡Esta máquina necesita cantidades crecientes de energía!</string>
+<string name="MA.Chargeable_Explosive.05.Paragraph">- Nivel 1 = 100 de energía.</string>
+<string name="MA.Chargeable_Explosive.06.Paragraph">- Nivel 2 = 1000 de energía.</string>
+<string name="MA.Chargeable_Explosive.07.Paragraph">- Nivel 3 = 10000 de energía.</string>
+<string name="MA.Chargeable_Explosive.08.Paragraph">- Nivel 4 = 100 000 de energía.</string>
+<string name="MA.Chargeable_Explosive.09.Paragraph">- Nivel 5 = 1 000 000 de energía.</string>
+<string name="MA.Chargeable_Explosive.10.Paragraph">- Nivel 5= 10 000 000 de energía.</string>
+<string name="MA.Chargeable_Explosive.11.Paragraph">- ¡Y así!</string>
+<string name="MA.Chargeable_Explosive.12.Paragraph">- ¡Los niveles intermedios de energía no dan radio de explosión adicional!</string>
+<string name="MA.Chargeable_Explosive.13.Paragraph">- ¡Alcanzar el nivel 6 con la producción de energía actual implementada ya será un desafío!</string>
+<string name="MA.Chargeable_Explosive.14.Header">¡Precaución!</string>
+<string name="MA.Chargeable_Explosive.15.Paragraph">" Tiene un fusible muy corto! ¡Volar tu base por accidente es una cosa!"</string>
+<string name="MA.Charged_PCB.00.Title">PCB cargado</string>
+<string name="MA.Charged_PCB.01.Paragraph">Un PCB a base de litio creado a partir de bobinas de litio en una planta de ensamblaje de PCB.</string>
+<string name="MA.Chevron_Sign_2.00.Title">Bloque de señalización</string>
+<string name="MA.Chevron_Sign_2.01.Paragraph">Bloque de peligro amarillo y negro que se puede mecanizar en cualquier lugar sin requerir los servicios de la planta de fabricación. Abra la interfaz de auto elaboración (por defecto \'C\') para fabricarlos.</string>
+<string name="MA.Chevron_Sign.00.Title">Bloque de señalización</string>
+<string name="MA.Chevron_Sign.01.Paragraph">Bloque marcado con flechas rojas y blancas que puede mecanizarse en cualquier lugar sin requerir los servicios de la planta de fabricación. Abra la interfaz de auto elaboración (por defecto \'C\') para fabricarlos.</string>
+<string name="MA.Chilled_cavern_stone.00.Title">Piedra de caverna helada</string>
+<string name="MA.Chilled_cavern_stone.01.Paragraph">Tipo de bloque principal entre alrededor de -215 y -270 metros de profundidad. El bloque no causa frío en sí mismo, aunque las cavernas en las que se encuentran están muy frías. Se puede triturar en macerador para extraer ocasionalmente mineral útil. El bloque se puede colocar.</string>
+<string name="MA.Coal_Enricher.00.Title">Enriquecedor de Carbón Orgánico</string>
+<string name="MA.Coal_Enricher.01.Paragraph">El enriquecedor de carbón orgánico una pequeña cantidad de energía para aumentar la energía generada por el carbón en un generador pirotérmico. El enriquecedor de carbón orgánico utiliza 0.1 pps en un lapso de 15 segundos para procesar carbón normal en carbón enriquecido. Sin embargo, se podrían lograr mejoras adicionales.</string>
+<string name="MA.Coal_Ore_Ping.00.Title">Pulso de carbón</string>
+<string name="MA.Coal_Ore_Ping.01.Paragraph">El pulso de carbón se usa para encontrar vetas de mineral de carbón adicionales si la que se descubrió anteriormente está a punto de agotarse o es demasiado pequeña para ser de alguna utilidad. Para obtener más información, consulte la guía de ayuda para el pulso de mineral en blanco.</string>
+<string name="MA.Coal_Ore.00.Title">Carbón</string>
+<string name="MA.Coal_Ore.01.Paragraph">Un material denso en energía que puede quemarse en el Central Power Hub y el generador pirotérmico.</string>
+<string name="MA.Coal_Ore.02.Paragraph">El carbón se puede extraer con un extractor de minerales.</string>
+<string name="MA.Coiler_Plant.00.Title">Planta de bobinado</string>
+<string name="MA.Coiler_Plant.01.Paragraph">El enrollador es un transportador regular equipado con una máquina para enrollar alambres extruidos en bobinas.</string>
+<string name="MA.Coiler_Plant.02.Header">Uso</string>
+<string name="MA.Coiler_Plant.03.Paragraph">Alimente cables metálicos en la planta de bobinado desde otro transportador, máquina basada en transportador o plataforma giratoria de transportador. La bobinadora convertirá los cables en bobinas que se pueden usar en recipientes adicionales.</string>
+<string name="MA.Coiler_Plant.04.Paragraph">La planta de bobinadoras es esencial para la automatización de la investigación de laboratorio.</string>
+<string name="MA.Cold_Cavern_Flora_1.00.Title">Caverna fría flora 1</string>
+<string name="MA.Cold_Cavern_Flora_1.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_1.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_2.00.Title">Caverna fría flora 2</string>
+<string name="MA.Cold_Cavern_Flora_2.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_2.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_3.00.Title">Caverna fría flora 3</string>
+<string name="MA.Cold_Cavern_Flora_3.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_3.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_4.00.Title">Caverna fría flora 4</string>
+<string name="MA.Cold_Cavern_Flora_4.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_4.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_5.00.Title">Caverna fría flora 5</string>
+<string name="MA.Cold_Cavern_Flora_5.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_5.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_6.00.Title">Caverna fría flora 6</string>
+<string name="MA.Cold_Cavern_Flora_6.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_6.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Cold_Cavern_Flora_7.00.Title">Caverna fría flora 7</string>
+<string name="MA.Cold_Cavern_Flora_7.01.Paragraph">Esta increíble planta puede sobrevivir a las condiciones extremas en la caverna fría.</string>
+<string name="MA.Cold_Cavern_Flora_7.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Complex_Experimental_Pod.00.Title">Cápsula experimental compleja</string>
+<string name="MA.Complex_Experimental_Pod.01.Paragraph">Las cápsulas experimentales complejas se utilizan en un laboratorio para realizar experimentos y completar proyectos de investigación. Estas cápsulas se fabrican a partir de litio. Para obtener más información sobre la investigación de laboratorio, visite la siguiente guía.</string>
+<string name="MA.Complex_Experimental_Pod.02.Paragraph">Para obtener más información sobre cómo crear cápsulas experimentales, lea la siguiente guía.</string>
+<string name="MA.Conductive_PCB.00.Title">PCB conductivo</string>
+<string name="MA.Conductive_PCB.01.Paragraph">Un PCB a base de oro creado a partir de bobinas de oro en una planta de ensamblaje de PCB.</string>
+<string name="MA.Construction_Paste_Grinder.00.Title">Molinillo de pasta de construcción</string>
+<string name="MA.Construction_Paste_Grinder.01.Paragraph">El molinillo de pasta de construcción utiliza una versión primitiva de los reensambladores inorgánicos de trajes para crear pasta de construcción a partir de materiales inútiles como los diversos tipos de roca y suelo que se encuentran en este nuevo planeta. La máquina en sí misma puede ensamblarse utilizando los minerales que se encuentran en la capa superior del suelo del planeta. El bajo costo de fabricación de esta máquina y sus requisitos de energía inexistentes hacen posible ejecutar varios en paralelo. Instalar un ladrón de basura en un pasillo frecuentado conectado a varias de estas máquinas es una buena manera de obtener una gran cantidad de pasta de construcción al principio del juego.</string>
+<string name="MA.Construction_Paste.00.Title">Pasta de construcción</string>
+<string name="MA.Construction_Paste.01.Paragraph">Construction Paste es un material fabricado mediante la reconfiguración de los trajes de reensambladores inorgánicos. Los reensambladores inorgánicos de trajes se utilizan para parchear automáticamente las secciones dañadas del traje para evitar una descompresión rápida en el vacío del espacio. Al estudiar estos sistemas, la sustancia que normalmente se usa en estos procesos de reparación se fusionó con los microbios que se encuentran en la piedra de este planeta. La nueva sustancia se ha bautizado como Pasta de construcción, ya que se puede usar para hacer varios bloques decorativos y reforzados. Se ha diseñado un sistema que debería poder imitar los reensambladores inorgánicos del traje con el propósito expreso de hacer esta nueva sustancia. Llevar esta pasta también parece proporcionar el beneficio de aumentar el espacio de inventario disponible.</string>
+<string name="MA.Conveyor_Belt_Filter.00.Title">Filtro de cinta transportadora</string>
+<string name="MA.Conveyor_Belt_Filter.01.Paragraph">"El uso de un filtro de cinta transportadora le permite tener un control más preciso sobre la distribución de recursos en una red de transportadores. Este tipo de filtro se utiliza para controlar el material expulsado de las tolvas en una red de transportadores. Puede configurar un filtro para eliminar BASURA, ORE, ORGÁNICO, GEMAS, CARBÓN, BIOMASA, SOLDABLE, COMBUSTIBLE, ARTÍCULOS ARTESANALES, CRISTAL Y BARRAS SOLAMENTE. "</string>
+<string name="MA.Conveyor_Belt.00.Title">Cinta transportadora</string>
+<string name="MA.Conveyor_Belt.01.Paragraph">"Las cintas transportadoras son una forma relativamente barata y fácil de mover recursos.  Es probable que su primer uso para ellos sea mover material desde un cofre de almacenamiento conectada a una mina de mineral o carbón a una conectada a una fundición o generador de energía como el Central Power Hub o el Generador pirotérmico."</string>
+<string name="MA.Conveyor_Belt.02.Header">Usos</string>
+<string name="MA.Conveyor_Belt.03.Paragraph">"Las cintas transportadoras tomarán automáticamente los recursos de cualquier cofre de almacenamiento adyacente si están orientados en cualquier dirección alejada del cofre y la moverán hacia adelante colocándola en cualquier transportador o cofre de almacenamiento frente a ella, siempre que haya espacio disponible.  Puede cambiar la dirección de la línea del transportador girando un transportador o colocándolo en una pared para mover recursos verticalmente.  Los cofres de almacenamiento solo son necesarios para interactuar con máquinas adyacentes al final de la línea."</string>
+<string name="MA.Conveyor_Belt.04.Header">Limitaciones</string>
+<string name="MA.Conveyor_Belt.05.Paragraph">Los transportadores son baratos y no requieren energía externa, sin embargo, tienen una serie de desventajas. Son vulnerables a ambientes extremadamente fríos / tóxicos y el diseño abierto los hace particularmente susceptibles a los ataques. Se deben investigar métodos alternativos de transporte.</string>
+<string name="MA.Conveyor_Belt.06.Header">Filtración</string>
+<string name="MA.Conveyor_Belt.07.Paragraph">"El uso de un filtro de cinta transportadora le permite tener un control más preciso sobre la distribución de recursos.  Este tipo de filtro se utiliza para controlar el material expulsado de los cofres en una red de transportadores.  Puede configurar un filtro para eliminar BASURA, MENAS, ORGÁNICO, GEMAS, CARBÓN, BIOMASA, SOLDABLE, COMBUSTIBLE, ARTÍCULOS ARTESANALES, CRISTAL Y BARRAS SOLAMENTE. "</string>
+<string name="MA.Conveyor_Turntable.00.Title">Plataforma giratoria de transportador</string>
+<string name="MA.Conveyor_Turntable.01.Paragraph">La plataforma giratoria del transportador se puede utilizar para dividir una línea transportadora en dos o tres más, distribuyendo equitativamente los artículos entre cada línea. Para garantizar que el material fluya correctamente, evite colocar platos giratorios directamente adyacentes a cofres de almacenamiento u otros plataformas giratorias.</string>
+<string name="MA.Copper_Bar.00.Title">Barra de Cobre</string>
+<string name="MA.Copper_Bar.01.Paragraph">Las barras de cobre se utilizan generalmente en una amplia gama de máquinas con componentes eléctricos. Están hechos de mineral de cobre, que se puede encontrar cerca de la superficie.</string>
+<string name="MA.Copper_Coil.00.Title">Bobina de Cobre</string>
+<string name="MA.Copper_Coil.01.Paragraph">Una bobina de cobre simple creada a partir de alambres de cobre en una planta de bobinado.</string>
+<string name="MA.Copper_Housing.00.Title">Carcasa de Cobre</string>
+<string name="MA.Copper_Housing.01.Paragraph">Una carcasa de cobre simple creada a partir de placas de cobre.</string>
+<string name="MA.Copper_Ore_Ping.00.Title">Pulso de mineral de Bronce</string>
+<string name="MA.Copper_Ore_Ping.01.Paragraph">El Pulso de mineral de cobre se usa para encontrar vetas adicionales de mineral de cobre si el que se descubrió anteriormente está a punto de agotarse o es demasiado pequeño para ser de alguna utilidad. Para obtener más información, consulte la guía de ayuda para el Pulso de mineral en blanco.</string>
+<string name="MA.Copper_Ore.00.Title">Mineral de cobre</string>
+<string name="MA.Copper_Ore.01.Paragraph">Encontrado cerca de la superficie, el mineral de cobre se puede fundir en barras de cobre utilizando la fundición. Las barras de cobre se utilizan generalmente en una amplia gama de máquinas con componentes eléctricos.</string>
+<string name="MA.Copper_Ore.02.Paragraph">El mineral de cobre se debe extraer con un extractor de mineral.</string>
+<string name="MA.Copper_Pipe.00.Title">Tubo de cobre</string>
+<string name="MA.Copper_Pipe.01.Paragraph">Una tubería de cobre simple creada a partir de barras de cobre en una planta de extrusión de tuberías. Utilizado en la fabricación de misiles básicos.</string>
+<string name="MA.Copper_Plate.00.Title">Placa de Cobre</string>
+<string name="MA.Copper_Plate.01.Paragraph">Una placa de cobre simple creada a partir de barras de cobre en una planta de estampación.</string>
+<string name="MA.Copper_Wire.00.Title">Alambre de Cobre</string>
+<string name="MA.Copper_Wire.01.Paragraph">Un simple cable de cobre utilizado para máquinas con componentes eléctricos. Se puede fabricar a través de la planta de extrusión.</string>
+<string name="MA.Crude_Organic_Lens.00.Title">Lente Orgánica Cruda</string>
+<string name="MA.Crude_Organic_Lens.01.Paragraph">Inserte en un transmisor de potencia láser para mejorar su velocidad de transmisión de potencia.</string>
+<string name="MA.Crude_Organic_Lens.02.Header">Especificaciones</string>
+<string name="MA.Crude_Organic_Lens.03.Left">Velocidad de transmisión de potencia:</string>
+<string name="MA.Crude_Organic_Lens.04.Right">125%</string>
+<string name="MA.Crystal_Clock.00.Title">Reloj de Cristal</string>
+<string name="MA.Crystal_Clock.01.Paragraph">Los relojes de cristal son un ingrediente de fabricación común utilizado en maquinaria avanzada. La inclusión de los relojes de cristal en la maquinaria permite una sincronización más precisa de lo que normalmente sería posible. Los relojes de cristal se hacen con 5 depósitos de cristal en un fabricante de relojes de cristal. Los relojes de cristal normales, como la mayoría de los chips, pueden ser overclockeados para producir relojes más eficientes para maquinaria más avanzada.</string>
+<string name="MA.Crystal_Coal_Infuser.00.Title">Infusor de Carbón de Cristal</string>
+<string name="MA.Crystal_Coal_Infuser.01.Paragraph">El Infusor de carbón de cristal utiliza una pequeña cantidad de energía para aumentar la energía generada por el carbón enriquecido en un generador pirotérmico. El Infusor de Carbón Cristal utiliza 0.1 pps en un lapso de 15 segundos para procesar Carbón Enriquecido en Carbón Infundido.</string>
+<string name="MA.Crystal_Cutter_Head.00.Title">Cabezal Cortador de Cristal</string>
+<string name="MA.Crystal_Cutter_Head.01.Paragraph">Reduce el desperdicio de mineral al mejorar la eficiencia del extractor de mineral. También permite la extracción de materiales más duros. Las cabezas de corte se desgastan con el tiempo.</string>
+<string name="MA.Crystal_Cutter_Head.02.Paragraph">El cabezal de corte de cristal es más eficiente que el cabezal de corte de acero, pero se desgasta más rápidamente.</string>
+<string name="MA.Crystal_Cutter_Head.03.Header">Especificaciones</string>
+<string name="MA.Crystal_Cutter_Head.04.Left">Eficiencia:
+  Dureza máxima:
+  Durabilidad:</string>
+<string name="MA.Crystal_Cutter_Head.05.Right">30%
+ 250
+ 5000</string>
+<string name="MA.Crystal_Deposit_Ping.00.Title">Pulso de Depósito de Cristal</string>
 </resources>
