@@ -16,7 +16,7 @@
 - Interactúa (\'E\') con la planta de fabricación para ver lo que puedes hacer.
 - Elabore antorchas para calentarse usando la ventana Self Crafting (\'C\').
 - Utilice la herramienta de escaneo (\'M\') para escanear bloques y procesarlos en la estación de investigación para obtener nuevas recetas.
-- La herramienta de escaneo también puede hacer escaneos de entorno como el ping de material desconocido para encontrar nuevos minerales.
+- La herramienta de escaneo también puede hacer escaneos de entorno como el pulso de material desconocido para encontrar nuevos minerales.
 - Preste mucha atención a la velocidad de descarga de la batería en su traje, un texto azul indica que el frío extremo está afectando a su traje y un texto rojo indica calor extremo.
 - El faro usa energía. ¡Es genial para explorar, pero no lo dejes!
 - El carbón es el mejor combustible para comenzar, pero si estás en apuros puedes quemar la flora local.
@@ -28,9 +28,9 @@
 <string name="SU.01Welcome.14.Paragraph">Puede crear cosas simples usted mismo utilizando la ventana de creación que abre con \'c\', pero para máquinas y componentes más complejos, tendrá que utilizar la Planta de fabricación. Las recetas se dividen en categorías que puedes encontrar haciendo clic en los cuadrados de colores. En este momento, la Planta solo puede usar artículos en su inventario, y crear cosas los colocará directamente allí.</string>
 <string name="SU.01Welcome.15.Paragraph">Cuando comienzas, tu escáner no tiene conocimiento de ningún material encontrado en el planeta. Cualquier escaneo que realice puede procesarse en la Estación de Investigación y le dará puntos de investigación. También puede emprender varios proyectos de investigación aquí y desarrollar nuevas recetas para la Planta de fabricación gastando puntos de investigación. La estación de investigación requiere energía para funcionar.</string>
 <string name="SU.01Welcome.16.Header">Encontrar tus primeros minerales</string>
-<string name="SU.01Welcome.17.Paragraph">Su escáner tiene la capacidad de escanear en busca de tipos de minerales conocidos, pero para hacer esto debe conocerlos primero. La clave para encontrar nuevos minerales es usar el ping de material desconocido en su escáner. Si usa esto al principio, le devolverá todos los bloques a su alrededor porque no sabe nada de ellos.</string>
-<string name="SU.01Welcome.18.Paragraph">Por lo tanto, su primera tarea será escanear sus alrededores y procesar estos escaneos en la Estación de Investigación. Tan pronto como haya escaneado toda la suciedad y la nieve comunes a su alrededor, el ping de mineral desconocido le devolverá cosas útiles a su alrededor.</string>
-<string name="SU.01Welcome.19.Paragraph">Una vez que haya encontrado una veta de mineral cerca de usted bajo tierra, puede escanearlas y procesarlas para enseñarlas a su escáner. A partir de ese momento, el uso de un ping de mineral con su escáner devolverá las venas de ese tipo de mineral.</string>
+<string name="SU.01Welcome.17.Paragraph">Su escáner tiene la capacidad de escanear en busca de tipos de minerales conocidos, pero para hacer esto debe conocerlos primero. La clave para encontrar nuevos minerales es usar pulso de material desconocido en su escáner. Si usa esto al principio, le devolverá todos los bloques a su alrededor porque no sabe nada de ellos.</string>
+<string name="SU.01Welcome.18.Paragraph">Por lo tanto, su primera tarea será escanear sus alrededores y procesar estos escaneos en la Estación de Investigación. Tan pronto como haya escaneado toda la suciedad y la nieve comunes a su alrededor, el pulso de mineral desconocido le devolverá cosas útiles a su alrededor.</string>
+<string name="SU.01Welcome.19.Paragraph">Una vez que haya encontrado una veta de mineral cerca de usted bajo tierra, puede escanearlas y procesarlas para enseñarlas a su escáner. A partir de ese momento, el uso de un pulso de mineral con su escáner devolverá las venas de ese tipo de mineral.</string>
 <string name="SU.01Welcome.20.Header">Extrayendo mineral</string>
 <string name="SU.01Welcome.21.Paragraph">Ahora que ha encontrado su primera veta de mineral, deberá extraer el mineral para poder usarlo. Puede excavarlo haciendo clic con el botón derecho, pero esto solo deja caer un mineral de vez en cuando y genera escombros para el resto.</string>
 <string name="SU.01Welcome.22.Paragraph">Una mejor opción es utilizar su modo Super Dig, que se activa manteniendo presionada la tecla CTRL mientras excava. Esto excavará rápidamente grandes cantidades de mineral, pero agotará sus reservas de energía a alta velocidad.</string>
@@ -57,20 +57,20 @@
 <string name="SU.02FirstNight.13.Paragraph">Ahora que tiene un suministro de energía bajo pero constante, puede comenzar a explorar sus alrededores. Cualquier energía perdida por mantener su traje cálido puede reponerla en el centro. Vigila el nivel de potencia en la esquina superior izquierda. Si la barra está vacía, comenzará a enfriarse rápidamente hasta el punto en que pueda desmayarse por hipotermia.</string>
 <string name="SU.02FirstNight.14.Paragraph">"Asegúrese de tener suficiente energía para regresar al sitio del accidente y encenderlo desde el concentrador.
  "</string>
-<string name="SU.02FirstNight.15.Paragraph">Su traje viene con una herramienta de escáner, que es invaluable para sobrevivir. Puede seleccionar la herramienta presionando \'M\'. Ahora puede escanear con el botón derecho del mouse o enviar un ping material con el botón izquierdo. Tenga cuidado con el uso innecesario de pings, usan una gran cantidad de energíar del traje.</string>
+<string name="SU.02FirstNight.15.Paragraph">Su traje viene con una herramienta de escáner, que es invaluable para sobrevivir. Puede seleccionar la herramienta presionando \'M\'. Ahora puede escanear con el botón derecho del mouse o enviar un pulso de material con el botón izquierdo. Tenga cuidado con el uso innecesario de pulsos, usan una gran cantidad de energíar del traje.</string>
 <string name="SU.02FirstNight.16.Paragraph">Su próxima tarea de exploración será escanear sus alrededores. Apunte a un bloque que aún no haya escaneado, abra su herramienta de escaneo y mantenga presionado el botón derecho del mouse hasta que la ventana emergente en la parte inferior izquierda le indique que el escaneo se ha completado. ¡Intenta escanear todos los bloques a tu alrededor, incluyendo nieve, tierra, troncos y hojas!</string>
 <string name="SU.02FirstNight.17.Header">Investigue su entorno</string>
 <string name="SU.02FirstNight.18.Paragraph">Ahora que ha escaneado estos bloques, es hora de procesar los escaneos en la estación de investigación en el lugar del accidente. Abra la interfaz presionando \'e\'. La ventana le mostrará una lista de sus escaneos no procesados, seguido de cuántos puntos de investigación le otorgarán una vez procesados. Los puntos de investigación no son importantes por ahora, así que ignórelos. Procese todos los escaneos que tiene en su lista. Cada uno necesita energía para procesar, pero si ha mantenido su centro lleno de troncos o carbón, su barra de energía debería estar llena y suficiente para procesar todos sus escaneos.</string>
 <string name="SU.02FirstNight.19.Paragraph">Procesar los escaneos puede resultar en desbloquear proyectos de investigación, pero por ahora no tiene que preocuparse por eso, escanear sus alrededores tiene un objetivo más importante.</string>
-<string name="SU.02FirstNight.20.Header">Haga ping a su entorno</string>
+<string name="SU.02FirstNight.20.Header">Haga pulso a su entorno</string>
 <string name="SU.02FirstNight.21.Paragraph">Con los bloques a su alrededor escaneados y procesados, su traje ahora conoce sus características y esto le permite utilizar sus pings de material con gran efecto.</string>
-<string name="SU.02FirstNight.22.Paragraph">En particular, el ping de \'material desconocido\' es lo que usaremos a continuación, para encontrar nuestra primera veta de mineral. Cambie a su herramienta de escaneo y con el ping \'Material desconocido\' seleccionado, presione el botón izquierdo del mouse. Esto resaltará cualquier bloque en tu alcance que tenga una característica que tu traje aún no conoce.</string>
-<string name="SU.02FirstNight.23.Paragraph">"Si no escaneó todo su entorno, este ping devolverá los bloques alrededor del sitio del accidente, como tierra y roca. Si eso sucede, escanee y procese esos bloques, luego intente nuevamente. "</string>
+<string name="SU.02FirstNight.22.Paragraph">En particular, el pulso de \'material desconocido\' es lo que usaremos a continuación, para encontrar nuestra primera veta de mineral. Cambie a su herramienta de escaneo y con el pulso \'Material desconocido\' seleccionado, presione el botón izquierdo del mouse. Esto resaltará cualquier bloque en tu alcance que tenga una característica que tu traje aún no conoce.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Si no escaneó todo su entorno, este pulso devolverá los bloques alrededor del sitio del accidente, como tierra y roca. Si eso sucede, escanee y procese esos bloques, luego intente nuevamente. "</string>
 <string name="SU.02FirstNight.24.Paragraph">Si tiene éxito, debería ver un grupo de firmas desconocidas en algún lugar subterráneo o dentro de colinas cercanas. Sin embargo, vigile sus niveles de energía, ¡no hay necesidad de congelarse!</string>
 <string name="SU.02FirstNight.25.Header">Excavar hasta las vetas</string>
 <string name="SU.02FirstNight.26.Paragraph">Ahora tendrá que cavar un camino hacia esas firmas y ver cuáles son. Escanee la veta de mineral y procese. Notarás que otorgan más puntos de investigación que los materiales comunes. Una vez que conozca un bloque de mineral, puede volver a la veta y escanearlo nuevamente, y la herramienta le dará información sobre esta vena en particular; que tamaño tiene y cuánto mineral contiene (esto no es lo mismo).</string>
 <string name="SU.02FirstNight.27.Paragraph">Use su gancho de agarre (\'F\') para salir rápidamente de los agujeros que ha cavado.</string>
-<string name="SU.02FirstNight.28.Paragraph">Si no estás jugando en fácil, entonces el primer mineral que quieres encontrar es carbón. Si encuentra cobre, estaño o hierro, esto será excelente más adelante, pero no será de uso inmediato. Si puede, recuerde la ubicación, volveremos a por ellos más tarde. Si no lo recuerda, está bien, podemos usar el ping mineral más tarde para encontrar nuestro camino nuevamente.</string>
+<string name="SU.02FirstNight.28.Paragraph">Si no estás jugando en fácil, entonces el primer mineral que quieres encontrar es carbón. Si encuentra cobre, estaño o hierro, esto será excelente más adelante, pero no será de uso inmediato. Si puede, recuerde la ubicación, volveremos a por ellos más tarde. Si no lo recuerda, está bien, podemos usar el pulso mineral más tarde para encontrar nuestro camino nuevamente.</string>
 <string name="SU.02FirstNight.29.Header">Mina de carbón</string>
 <string name="SU.02FirstNight.30.Paragraph">Las vetas de mineral en FortressCraft Evolved pueden ser masivas y contienen hasta millones de unidades de mineral. Desenterrarlos no es cuestión de hacer clic un par de veces; necesitará gastar energía y probablemente usar máquinas.</string>
 <string name="SU.02FirstNight.31.Paragraph">Con tu primera veta de carbón a mano, pasa un poco de tiempo creando un camino seguro desde la veta hasta el lugar del accidente. Tendrá que recorrer mucho este camino, por lo que este tiempo será bien aprovechado.</string>
@@ -97,7 +97,7 @@
   RMB: Eliminar bloque
  
   M: Cambiar a la herramienta de escaneo
-  LMB: Material Ping
+  LMB: Pulso de material
   RMB: Bloque de escaneo
  "</string>
 <string name="SU.03Controls.05.Right">"I: Abrir inventario
@@ -171,9 +171,9 @@ MMB: Elige el bloque actual</string>
 <string name="SU.03Controls.28.Right">Control + LMB: Construir hacia mí
  Control + Hold RMB: Super excavación</string>
 <string name="SU.03Controls.29.Header">Herramienta de escaneo</string>
-<string name="SU.03Controls.30.Paragraph">Botón izquierdo del mouse: Ping Envolvente
+<string name="SU.03Controls.30.Paragraph">Botón izquierdo del mouse: pulso Envolvente
 Botón derecho del mouse: Escanear bloque
-Rueda del mouse: Cambiar configuración de ping</string>
+Rueda del mouse: Cambiar configuración del pulso</string>
 <string name="SU.03Controls.31.Header">Pistola de rayos</string>
 <string name="SU.03Controls.32.Left">LMB: Disparo único de fuego</string>
 <string name="SU.03Controls.33.Right">Hold RMB: Disparo cargado</string>
