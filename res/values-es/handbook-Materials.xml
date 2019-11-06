@@ -234,10 +234,10 @@ Eficiencia de extracción de mineral:</string>
   dieciséis
   15 segundos</string>
 <string name="MA.BasicMinecart.05.Paragraph">El uso de Minecart es sencillo y simplemente se expande en el paradigma Cofre -&gt; Conveyor que se ha utilizado hasta ahora. Los carros de minas se cargan en su red de carros de minas a través de un depósito de carros de minas.</string>
-<string name="MA.BasicMinecart.06.Title">Manejo de recursos de Minecart</string>
+<string name="MA.BasicMinecart.06.Title">Manejo de recursos del Carro de minas</string>
 <string name="MA.BasicMinecart.07.Paragraph">Una vez en su red de carros de minas, los carros de minas se detendrán en las estaciones de carga y descarga, y recogerán y dejarán sus recursos transportados.</string>
-<string name="MA.BasicMinecart.08.Title">Controles avanzados de Minecart</string>
-<string name="MA.BasicMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su Minecart, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
+<string name="MA.BasicMinecart.08.Title">Controles avanzados del carro de minas</string>
+<string name="MA.BasicMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su Carro de minas, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
 <string name="MA.BaubleBerry.00.Title">BaubleBerry</string>
 <string name="MA.BaubleBerry.01.Paragraph">Una planta indescriptible que se encuentra en la superficie y dentro de las cavernas de este planeta.</string>
 <string name="MA.BaubleBerry.02.Paragraph">Esta planta puede ser quemada por energía.</string>
@@ -311,10 +311,10 @@ Los carros de minas son para transferencias masivas de artículos a un ritmo rá
  1.0m/s/s
  "</string>
 <string name="MA.BulkMinecart.05.Paragraph">El uso de Minecart es sencillo y simplemente se expande en el paradigma Cofre -&gt; Conveyor que se ha utilizado hasta ahora. Los carros de minas se cargan en su red de carros de minas a través de un depósito de carros de minas.</string>
-<string name="MA.BulkMinecart.06.Title">Manejo de recursos de Minecart</string>
+<string name="MA.BulkMinecart.06.Title">Manejo de recursos del carro de minas</string>
 <string name="MA.BulkMinecart.07.Paragraph">Una vez en su red de carros de minas, los carros de minas se detendrán en las estaciones de carga y descarga, y recogerán y dejarán sus recursos transportados.</string>
 <string name="MA.BulkMinecart.08.Title">Controles avanzados del Carro de minas</string>
-<string name="MA.BulkMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su carro de minas, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
+<string name="MA.BulkMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su Carro de minas, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
 <string name="MA.CargoLiftController.00.Title">Controlador de elevador de carga</string>
 <string name="MA.CargoLiftController.01.Paragraph">
  Utilizado para transporte vertical a granel.
@@ -467,4 +467,297 @@ Los carros de minas son para transferencias masivas de artículos a un ritmo rá
  250
  5000</string>
 <string name="MA.Crystal_Deposit_Ping.00.Title">Pulso de Depósito de Cristal</string>
+<string name="MA.Crystal_Deposit_Ping.01.Paragraph">"El apulso de Depósito de cristal se usa para encontrar depósitos de cristal adicionales cuando el que se encuentra a través del pulso del material desconocido está casi agotado o es insuficiente.  Para obtener más información, consulte la guía de ayuda para el Pulso de mineral en blanco."</string>
+<string name="MA.Crystal_Fiber_Mesh.00.Title">Malla de Fibra de Cristal</string>
+<string name="MA.Crystal_Fiber_Mesh.01.Paragraph">"Mediante el uso de técnicas de procesamiento avanzadas, el Depósito de Cristal ahora puede recombinarse a nivel molecular.  Esta nueva malla es capaz de soportar calor y presión extremos.  Este material se crea en Tela de fibra de cristal y es un requisito principal en las tuberías que hacen posible la generación termoeléctrica geotérmica. "</string>
+<string name="MA.DapperFrame.00.Title">Cuadro apuesto</string>
+<string name="MA.DapperFrame.01.Paragraph">"Bloque cosmético del paquete de soporte independiente Apuesto.  ¡Gracias por apoyar a FortressCraft!"</string>
+<string name="MA.DapperScale.00.Title">Escala apuesto</string>
+<string name="MA.DapperScale.01.Paragraph">"Bloque cosmético del paquete de soporte independiente Apuesto.  ¡Gracias por apoyar a FortressCraft!"</string>
+<string name="MA.DapperVIP.00.Title">Apuesto VIP</string>
+<string name="MA.DapperVIP.01.Paragraph">"Bloque cosmético del paquete de soporte independiente Apuesto.  ¡Gracias por apoyar a FortressCraft!"</string>
+<string name="MA.DapperWall.00.Title">Pared elegante</string>
+<string name="MA.DapperWall.01.Paragraph">"Bloque cosmético del paquete de soporte independiente Apuesto.  ¡Gracias por apoyar a FortressCraft!"</string>
+<string name="MA.Deep_Stone.00.Title">Roca profunda</string>
+<string name="MA.Deep_Stone.01.Paragraph">"Tipo de bloque principal debajo de -65 ish.  Cavernas heladas y venenosas excluidas.  Se puede triturar en macerador para extraer mineral útil.  El bloque se puede colocar."</string>
+<string name="MA.Deployed_Explosive.00.Title">Explosivo desplegado</string>
+<string name="MA.Deployed_Explosive.01.Paragraph">Bomba recargable con radio aumentado según el nivel de carga.</string>
+<string name="MA.Deployed_Explosive.02.Header">¡Consejos y trucos!</string>
+<string name="MA.Deployed_Explosive.03.Paragraph">- ¡Esta máquina necesita cantidades crecientes de energía!</string>
+<string name="MA.Deployed_Explosive.04.Paragraph">- Nivel 1 = 100 de energía.</string>
+<string name="MA.Deployed_Explosive.05.Paragraph">- Nivel 2 = 1000 de energía.</string>
+<string name="MA.Deployed_Explosive.06.Paragraph">- Nivel 3 = 10000 de energía.</string>
+<string name="MA.Deployed_Explosive.07.Paragraph">- Nivel 4 = 100 000 de energía.</string>
+<string name="MA.Deployed_Explosive.08.Paragraph">- Nivel 5 = 1 000 000 de energía.</string>
+<string name="MA.Deployed_Explosive.09.Paragraph">- Nivel 5= 10 000 000 de energía.</string>
+<string name="MA.Deployed_Explosive.10.Paragraph">- ¡Y así!</string>
+<string name="MA.Deployed_Explosive.11.Paragraph">- ¡Los niveles intermedios de energía no dan radio de explosión adicional!</string>
+<string name="MA.Deployed_Explosive.12.Paragraph">- ¡Alcanzar el nivel 6 con la producción de energía actual implementada ya será un desafío!</string>
+<string name="MA.Deployed_Explosive.13.Header">!Precaución!</string>
+<string name="MA.Deployed_Explosive.14.Paragraph">" Tiene un fusible muy corto! ¡Volar tu base por accidente es una cosa!"</string>
+<string name="MA.Diamond_Crystal.00.Title">Cristal de diamante</string>
+<string name="MA.Diamond_Crystal.01.Paragraph">Un cristal de diamante es un material raro utilizado como ingrediente base para las actualizaciones. Se puede encontrar en cuevas entre 0 a -75 de profundidad.</string>
+<string name="MA.Diamond_Crystal.02.Header">Trucos y consejos.</string>
+<string name="MA.Diamond_Crystal.03.Paragraph">Estas cuevas semi-abiertas se abordan mejor desde la superficie.</string>
+<string name="MA.Diamond_Focusing_Lens.00.Title">Lente de enfoque de diamante</string>
+<string name="MA.Diamond_Focusing_Lens.01.Paragraph">Inserte en un transmisor de potencia láser para mejorar su velocidad de transmisión de potencia.</string>
+<string name="MA.Diamond_Focusing_Lens.02.Header">Especificaciones</string>
+<string name="MA.Diamond_Focusing_Lens.03.Left">Velocidad de transmisión de potencia:</string>
+<string name="MA.Diamond_Focusing_Lens.04.Right">115%</string>
+<string name="MA.Dirt.00.Title">Suciedad</string>
+<string name="MA.Dirt.01.Paragraph">El tipo de bloque generalmente se encuentra justo debajo de los bloques de superficie nevada. Se puede triturar en macerador para extraer mineral útil.</string>
+<string name="MA.Electric_Light.00.Title">Luz eléctrica</string>
+<string name="MA.Electric_Light.01.Paragraph">La luz eléctrica debe estar conectada a la alimentación para funcionar y proporciona una luz azul fría en un área mucho más amplia que una antorcha estándar.</string>
+<string name="MA.Electric_Light.02.Paragraph">Hay tres estilos de proyección disponibles: Destacar, Punto de mira y Punto de sombra.</string>
+<string name="MA.Emerald_Crystal.00.Title">Cristal esmeralda</string>
+<string name="MA.Emerald_Crystal.01.Paragraph">Un cristal esmeralda es un material raro que se utiliza como ingrediente base para las actualizaciones. Se puede encontrar en cuevas entre profundidad -75 a -150.</string>
+<string name="MA.Emerald_Focusing_Lens.00.Title">Lente de enfoque esmeralda</string>
+<string name="MA.Emerald_Focusing_Lens.01.Paragraph">Inserte en un transmisor de potencia láser para mejorar su velocidad de transmisión de potencia.</string>
+<string name="MA.Emerald_Focusing_Lens.02.Header">Especificaciones</string>
+<string name="MA.Emerald_Focusing_Lens.03.Left">Velocidad de transmisión de potencia:</string>
+<string name="MA.Emerald_Focusing_Lens.04.Right">130%</string>
+<string name="MA.Empty_Fuel_Canister.00.Title">Recipiente de combustible vacío</string>
+<string name="MA.Empty_Fuel_Canister.01.Paragraph">QUITAMEEEEEEEE</string>
+<string name="MA.Empty_Metal_Tube.00.Title">Tubo de Metal Vacío</string>
+<string name="MA.Empty_Metal_Tube.01.Paragraph">Un tubo de metal simple pero fuerte construido de hierro.</string>
+<string name="MA.Enhanced_Drill_Motor.00.Title">Motor de perforación mejorado</string>
+<string name="MA.Enhanced_Drill_Motor.01.Paragraph">Mejora la velocidad a la que un extractor de minerales extrae minerales a costa de un mayor uso de energía.</string>
+<string name="MA.Enhanced_Drill_Motor.02.Header">Especificaciones</string>
+<string name="MA.Enhanced_Drill_Motor.03.Left">Velocidad de extracción:</string>
+<string name="MA.Enhanced_Drill_Motor.04.Right">400%</string>
+<string name="MA.Enriched_Coal.00.Title">Carbón enriquecido</string>
+<string name="MA.Enriched_Coal.01.Paragraph">El carbón enriquecido es el producto de El carbón enriquecido orgánico. El carbón enriquecido es una mejora sobre el carbón normal, ya que genera más energía en la misma cantidad de tiempo.</string>
+<string name="MA.Exceptional_Organic_Lens.00.Title">Lente Orgánica Excepcional</string>
+<string name="MA.Exceptional_Organic_Lens.01.Paragraph">Inserte en un transmisor de potencia láser para mejorar su velocidad de transmisión de potencia.</string>
+<string name="MA.Exceptional_Organic_Lens.02.Header">Especificaciones</string>
+<string name="MA.Exceptional_Organic_Lens.03.Left">Velocidad de transmisión de potencia:</string>
+<string name="MA.Exceptional_Organic_Lens.04.Right">350%</string>
+<string name="MA.Extractor.00.Title">Extractor de minerales</string>
+<string name="MA.Extractor.01.Paragraph">El extractor de minerales es su máquina para cosechar recursos. Cuando excava con su arma de construcción, cada intento de extraer un bloque de mineral resta de los recursos totales disponibles en ese bloque de mineral. Esto ocasionalmente generará un mineral, pero produce muchos escombros. También puedes supercavar manteniendo presionado Control. Esto producirá una pequeña cantidad de mineral rápidamente a un alto costo de energía y una eficiencia terrible. Evite desperdiciar mineral de esta manera cuando sea posible.</string>
+<string name="MA.Extractor.02.Paragraph">Para automatizar la recolección de mineral, use un extractor de mineral. Puede colocar el extractor contra un bloque de mineral y consumirá energía para extraer recursos automáticamente. Puede abrir el panel de control del extractor de mineral presionando la tecla \'Interactuar\' (por defecto \'E\'). Esto le permite agregar energía a la máquina desde su traje, recoger el mineral de su almacenamiento interno y actualizar la máquina. Los extractores de arranque son significativamente más eficientes en recursos que la súper excavación y pueden dejarse desatendidos.</string>
+<string name="MA.Extractor.03.Paragraph">El extractor tiene una capacidad de almacenamiento interno de 500 de energía, lo que equivale a un poco más del valor de energía de dos trajes completos, por lo que deberá realizar múltiples viajes para llenarlo. Si su almacenamiento interno se llena, el extractor dejará de extraer hasta que se haya vaciado. Puede colocar un cofre de almacenamiento junto al extractor para proporcionar más espacio de almacenamiento y también devolver el mineral a su base utilizando transportadores.</string>
+<string name="MA.Extractor.04.Paragraph">La velocidad del extractor de mineral en mineral por minuto y la eficiencia se muestran en el panel de control que se muestra al interactuar con la máquina. Con una eficiencia del 10%, 9 minerales extraíbles se destruyen por cada unidad recolectada.</string>
+<string name="MA.Extractor.05.Header">Actualización de extractores</string>
+<string name="MA.Extractor.06.Paragraph">El extractor de minerales base es una pieza útil de maquinaria, pero está lejos de su potencia máxima. El extractor se puede actualizar con dos partes: nuevos motores y nuevos cabezales de corte. Con el panel de control abierto, haga clic en la ranura de actualización adecuada y se insertará la mejor actualización de su inventario. También puede arrastrar las actualizaciones desde o hacia su inventario.</string>
+<string name="MA.Extractor.07.Header">Motor</string>
+<string name="MA.Extractor.08.Paragraph">Un nuevo motor aumenta la velocidad a la que la excavadora extrae el cabezal de perforación, lo que significa que recibirá más mineral por minuto. El aumento de la velocidad tiene un mayor costo de energía, así que asegúrese de que su fuente de alimentación sea suficiente antes de actualizar.</string>
+<string name="MA.Extractor.09.Header">Cabeza de corte</string>
+<string name="MA.Extractor.10.Paragraph">La actualización del cabezal de corte aumenta la eficiencia con la que la excavadora extrae minerales. Esto significa que podrá recuperar más mineral de una vena durante su vida útil. Además de la mejora de la eficiencia, el nuevo cabezal de corte también permitirá que la excavadora excave materiales más duros, que el cabezal de corte de la base puede no ser capaz de cortar en absoluto.</string>
+<string name="MA.Extractor.11.Paragraph">Los cabezales de corte se desgastarán con el tiempo, su durabilidad restante se muestra en el panel de control del extractor de mineral.</string>
+<string name="MA.Extractor.12.Header">Lectura de Base Holográfica</string>
+<string name="MA.Extractor.13.Left">Tamaño del paquete de alimentación:
+ Amarillo:
+ Flash rojo / azul:
+ Flash rojo / cian:
+ Flash rojo / negro:
+ Flash rojo / verde:</string>
+<string name="MA.Extractor.14.Right">Trabajando
+ Sin poder
+ Sin almacenamiento
+ Ocioso
+ Taladro pegado</string>
+<string name="MA.Extrusion_Plant.00.Title">Planta de extrusión</string>
+<string name="MA.Extrusion_Plant.01.Paragraph">La planta de extrusión es un transportador regular equipado con una máquina para extruir barras de metal en alambres.</string>
+<string name="MA.Extrusion_Plant.02.Header">Usos</string>
+<string name="MA.Extrusion_Plant.03.Paragraph">Alimente barras de metal en la planta de extrusión desde otro transportador, máquina basada en transportador o plataforma giratoria de transportador. El extrusor convertirá las barras en cables que se pueden usar en recipientes adicionales.</string>
+<string name="MA.Extrusion_Plant.04.Paragraph">La planta de extrusión es esencial para la automatización de la investigación de laboratorio.</string>
+<string name="MA.FALCOR_Beacon.00.Title">Balizas FALCOR</string>
+<string name="MA.FALCOR_Beacon.01.Paragraph">"Los robots de organización del recolector de botín totalmente automatizado (o FALCOR para abreviar) se pueden usar en uno o dos modos diferentes.
+
+ Si la Baliza se colocó en el piso, entonces recogerá artículos a menos de 16 metros en todas las direcciones y lo sostendrá hasta que un FALCOR MK1 sea libre de recolectar.
+
+ Si el Beacon se colocó encima de una Tolva de almacenamiento, entonces recogerá los artículos de esa Tolva de almacenamiento y la mantendrá hasta que un FALCOR de logística esté en libertad de recolectar.
+
+ Las bases FALCOR no requieren energía, sin embargo, Balizas sí.
+ "</string>
+<string name="MA.FALCOR.00.Title">FALCORs</string>
+<string name="MA.FALCOR.01.Paragraph">"Hay dos tipos de robots organizativos para recolectores de botín totalmente automatizados (¡o FALCOR para abreviar!)
+
+ Los MK1 FALCOR buscarán balizas en un área de 128 m con elementos recolectados. Si se encuentra uno, el FALCOR volará, recuperará el artículo y lo devolverá. Los artículos devueltos se colocan en una tolva de almacenamiento adjunta.
+
+ Los FALCOR de logística funcionan de manera idéntica, pero solo darán servicio a las balizas ubicadas encima de las tolvas de almacenamiento.
+
+ ¡Próximamente! ¡FALCOR avanzado que permite filtrar los elementos deseados! Las bases FALCOR no requieren energía, sin embargo, Balizas sí.
+ "</string>
+<string name="MA.FastMinecart.00.Title">Carro de minas rápido</string>
+<string name="MA.FastMinecart.01.Paragraph">Los carros de minas son para transferencias masivas de artículos a una tasa media.</string>
+<string name="MA.FastMinecart.02.Header">Especificaciones</string>
+<string name="MA.FastMinecart.03.Left">"Máxima velocidad:
+  Máximo almacenamiento:
+  Aceleración:
+ "</string>
+<string name="MA.FastMinecart.04.Right">2m/s
+ 25
+ 1.0m/s/s
+ 16
+ 15 segundos</string>
+<string name="MA.FastMinecart.05.Paragraph">El uso del carro de minas es sencillo y simplemente se expande en el paradigma Cofre -&gt; Cinta transportadora que se ha utilizado hasta ahora. Los carros de minas se cargan en su red de carros de minas a través de un depósito de carros de minerales.</string>
+<string name="MA.FastMinecart.06.Title">Manejo de recursos del carro de minas</string>
+<string name="MA.FastMinecart.07.Paragraph">Una vez en su red de carros de minas, los carros de minas se detendrán en las estaciones de carga y descarga, y recogerán y dejarán sus recursos transportados.</string>
+<string name="MA.FastMinecart.08.Title">Controles avanzados del carro de minas</string>
+<string name="MA.FastMinecart.09.Paragraph">Para un control más preciso sobre el movimiento y el transporte de minerales de su Carro de minas, tiene una serie de herramientas disponibles para cambiar el comportamiento y la toma de decisiones.</string>
+<string name="MA.Forced_Induction.00.Title">Inducción Forzada</string>
+<string name="MA.Forced_Induction.01.Paragraph">Los módulos de inducción forzada son una actualización para la fundición de minerales que aumenta la velocidad de fundición a costa de un uso de energía muy aumentado. Para usar el módulo colóquelo encima de la fundición de minerales.</string>
+<string name="MA.Forced_Induction.02.Paragraph">Las fundiciones de minerales básicos no admiten actualizaciones de inducción forzada.</string>
+<string name="MA.Forced_Induction.03.Header">Especificaciones</string>
+<string name="MA.Forced_Induction.04.Left">Velocidad de fundición:
+ Consumo de energía:</string>
+<string name="MA.Forced_Induction.05.Right">200%
+ 800%</string>
+<string name="MA.Fortified_PCB.00.Title">Placa de circuito impreso Reforzado</string>
+<string name="MA.Fortified_PCB.01.Paragraph">Un PCB a base de níquel creado a partir de bobinas de níquel en una planta de ensamblaje de PCB.</string>
+<string name="MA.Freezon_Injector.00.Title">Inyector Congelado</string>
+<string name="MA.Freezon_Injector.01.Paragraph">Los inyectores congelados usan los recipientes congelados para brindar grandes beneficios a las máquinas compatibles.</string>
+<string name="MA.Freezon_Injector.02.Header">Efectos</string>
+<string name="MA.Freezon_Injector.03.Left">"Plantas geotérmicas
+ Lanceros
+ Ablador de resina
+ Licuadora de resina
+ "</string>
+<string name="MA.Freezon_Injector.04.Right">10x Generación de energía
+ 28x Tasa de liquidación
+ 54x Ratio de aumento
+ 54x Ratio de aumento</string>
+<string name="MA.Fusion_Drill_Motor.00.Title">Motor de taladro Fusion</string>
+<string name="MA.Fusion_Drill_Motor.01.Paragraph">Mejora la velocidad a la que un extractor de minerales extrae minerales a costa de un mayor uso de energía.</string>
+<string name="MA.Fusion_Drill_Motor.02.Header">Especificaciones</string>
+<string name="MA.Fusion_Drill_Motor.03.Left">Velocidad de extracción:</string>
+<string name="MA.Fusion_Drill_Motor.04.Right">1600%</string>
+<string name="MA.Garbage_Thief.00.Title">Ladrón de Basura Cyberdyne (tm)</string>
+<string name="MA.Garbage_Thief.01.Paragraph">El ladrón de basura de Cyberdyne (o ladrón de basura como algunos lo llaman) es simplemente un ladrón de minerales con reconfigurado para eliminar la basura en el inventario en lugar de mineral. Esta máquina, cuando se usa junto con múltiples molinos de pasta de construcción, puede eliminar y procesar rápidamente la basura en pasta de construcción, lo que libera inventario en el proceso. Para un rendimiento óptimo, reemplace el piso de un pasillo frecuentado con esta máquina y un sistema de manejo de salida apropiado.
+
+ Simplemente construya nuestro nuevo Garbage Thief (tm) en un diseño de 3x3 y suminístrelo con solo 5 de potencia por bloque, ¡luego párese sobre él y deje que haga el trabajo duro por usted!</string>
+<string name="MA.Garbage_Thief.02.Header">Especificaciones</string>
+<string name="MA.Garbage_Thief.03.Left">"Velocidad de recolección de basura:
+ Almacenamiento interno:
+ Consumo de energía:
+ "</string>
+<string name="MA.Garbage_Thief.04.Right">"¡Hasta 3.300 / minuto!
+ ¡100 unidades de basura!
+ ¡Solo 5 de energia por basura!
+ "</string>
+<string name="MA.Gas_Bottler.00.Title">Embotellador de gas</string>
+<string name="MA.Gas_Bottler.01.Paragraph">El Embotellador de Gas es el paso final en el proceso de refinación de partículas, utilizando las partículas almacenadas de un solo almacenamiento de Partículas, puede emitir dichas partículas en contenedores de un solo uso. El Embotellador de Gas está construido en una formación 3x3x9.</string>
+<string name="MA.Geological_Surveyor.00.Title">El topógrafo geológico</string>
+<string name="MA.Geological_Surveyor.01.Paragraph">El topógrafo geológico escanea el paisaje debajo de sí mismo en sus inmediaciones para detectar recursos, devolviendo la cantidad total de mineral que se encuentra a medida que avanza la búsqueda. Úselo para colocar canteras en la mejor ubicación.</string>
+<string name="MA.Geological_Surveyor.02.Header">Especificaciones</string>
+<string name="MA.Geological_Surveyor.03.Left">Tamaño de búsqueda:
+ Profundidad de búsqueda:
+ Potencia requerida
+ Capacidad de potencia:
+ Tasa máxima de recarga:
+ Velocidad máxima de escaneo:</string>
+<string name="MA.Geological_Surveyor.04.Right">9m x 9m
+ 1024m
+ 40 por segundo
+ 100
+ 100 por segundo
+ 320m por segundo</string>
+<string name="MA.Geothermal_Generator_Comp..00.Title">Generador Geotérmico Comp.</string>
+<string name="MA.Geothermal_Generator_Comp..01.Paragraph">"Los componentes del generador geotérmico se utilizan para formar un sistema de generación de energía pasiva de alto nivel capaz de producir 10 veces la potencia de una turbina de chorro. El generador geotérmico debe colocarse en las cavernas frías y alimentarse con tuberías conductoras de calor para comenzar a generar energía. La energía geotérmica funciona generando energía a partir de las diferencias de calor, por cada tubería colocada por debajo del nivel de la caverna fría, la energía generada por segundo aumentará. Una vez que las tuberías conductoras de calor alcanzan las cavernas de magma, comenzarán a absorber el calor del mar de magma, generando así exponencialmente más energía que antes. Dado que la energía geotérmica genera energía a partir de las diferencias de calor al alimentarla, los recipientes de freezon deberían aumentar la producción de energía de la energía geotérmica en una cantidad significativa. "</string>
+<string name="MA.Glow_Stick.00.Title">Luz química</string>
+<string name="MA.Glow_Stick.01.Paragraph">Las luces químicas son creadas automáticamente por su traje a pedido por el costo de 5 de energía. ¡Presiona G para lanzar una luces química!</string>
+<string name="MA.GlowShroom.00.Title">Resplandor</string>
+<string name="MA.GlowShroom.01.Paragraph">Un hongo brillante que se encuentra en la superficie de este planeta. ¡No lo coma!</string>
+<string name="MA.GlowShroom.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Gold_Bar.00.Title">Barra de Oro</string>
+<string name="MA.Gold_Bar.01.Paragraph">Las barras de oro generalmente se usan en máquinas avanzadas, especialmente aquellas que requieren contactos eléctricos de alta calidad. El oro también se puede utilizar para fabricar artículos decorativos. Están hechos de Mineral de oro, que se puede encontrar al menos a 250 m debajo de la superficie.</string>
+<string name="MA.Gold_Coil.00.Title">Bobina de Oro</string>
+<string name="MA.Gold_Coil.01.Paragraph">Una simple bobina de oro creada a partir de alambres de oro en una planta de bobinado.</string>
+<string name="MA.Gold_Housing.00.Title">Carcasa de Oro</string>
+<string name="MA.Gold_Housing.01.Paragraph">Una carcasa de oro simple creada a partir de placas de oro.</string>
+<string name="MA.Gold_Ore_Ping.00.Title">Pulso de mineral de Oro</string>
+<string name="MA.Gold_Ore_Ping.01.Paragraph">El Pulso de mineral de oro se utiliza para encontrar vetas de mineral de oro adicionales si la que se descubrió anteriormente está a punto de agotarse o es demasiado pequeña para ser de alguna utilidad. Para obtener más información, consulte la guía de ayuda para el Pulso de mineral en blanco.</string>
+<string name="MA.Gold_Pipe.00.Title">Tubo de Oro</string>
+<string name="MA.Gold_Pipe.01.Paragraph">Una tubería de oro simple creada a partir de barras de oro en una planta de extrusión de tuberías.</string>
+<string name="MA.Gold_Plate.00.Title">Placa de Oro</string>
+<string name="MA.Gold_Plate.01.Paragraph">Una placa de oro simple creada a partir de lingotes de oro en una planta estampadora.</string>
+<string name="MA.Gold_Wire.00.Title">Alambre de Oro</string>
+<string name="MA.Gold_Wire.01.Paragraph">Un simple alambre de oro creado a partir de lingotes de oro en una planta de extrusión.</string>
+<string name="MA.Green_Canvas.00.Title">Lona verde</string>
+<string name="MA.Green_Canvas.01.Paragraph">Bloque de embellecimiento verde completo.</string>
+<string name="MA.Green_GlowPod.00.Title">Cápsula de resplandor verde</string>
+<string name="MA.Green_GlowPod.01.Paragraph">Esta especie nativa de flora emite un resplandor verde constante debido a una reacción química justo debajo de la superficie de la planta.</string>
+<string name="MA.Green_GlowPod.02.Paragraph">Esta planta puede ser quemada por energía.</string>
+<string name="MA.Hard_Resin_Ablator.00.Title">Ablador de resina láser</string>
+<string name="MA.Hard_Resin_Ablator.01.Paragraph">Esta es la primera parte de un método de 3 pasos para utilizar y eliminar la resina endurecida que los MENTE COLMENA excretan a su alrededor.
+
+ El Ablator utiliza energía láser enfocada para calentar y quitar la superficie dura de la resina.
+
+ Una vez hecho esto, se puede usar un licor para hervir y extraer el interior.
+
+ Luego puede usar un Refinador de resina líquida para convertirlo en Resina líquida refinada.</string>
+<string name="MA.Hard_Resin_Ablator.02.Paragraph">"Ablación. (N) La pérdida de material superficial causada por calor o fricción. "</string>
+<string name="MA.Hard_Resin_Liquifier.00.Title">Licuadora de resina láser</string>
+<string name="MA.Hard_Resin_Liquifier.01.Paragraph">Esta es la segunda parte de un método de 3 pasos para utilizar y eliminar la resina endurecida que los MENTE COLMENA excretan a su alrededor.
+
+ El licuadora utiliza una corriente de plasma calentada para licuar y extraer el interior blando de la resina dura licuada.
+
+ Luego puede usar un Refinador de resina líquida para convertirlo en Resina líquida refinada.
+
+ Para convertir de resina dura a resina dura ablada, use un ablador de resina dura</string>
+<string name="MA.Hard_Resin_Refinery.00.Title">Refinador de resina líquida</string>
+<string name="MA.Hard_Resin_Refinery.01.Paragraph">"Este es el paso final para utilizar y eliminar la Resina Endurecida que los MENTE COLMENA excretan a su alrededor.
+ "</string>
+<string name="MA.Hard_Resin_Refinery.02.Paragraph">"La licuadora utiliza una corriente de plasma calentada para licuar y extraer el interior blando de la resina dura licuada. Luego puede usar un Refinador de resina líquida para convertirlo en Resina líquida refinada.
+ "</string>
+<string name="MA.Hard_Resin_Refinery.03.Paragraph">"Para convertir de resina dura a resina dura ablada, use un ablador de resina dura
+ "</string>
+<string name="MA.HardResinDetector.00.Title">Detector de resina dura</string>
+<string name="MA.HardResinDetector.01.Paragraph">Este sistema básico de alerta temprana detectará la resina endurecida. Hemos detectado estos crecimientos en todo el planeta, latentes. El calor y las vibraciones de nuestra base parecen atraerlos, y corremos el riesgo de que nuestra maquinaria crezca demasiado. Estos detectores deben determinar la dirección de donde provienen los crecimientos y permitirle investigar y, si es necesario, tratar con ellos.</string>
+<string name="MA.Hardened_PCB.00.Title">Placa de circuito impreso Endurecido</string>
+<string name="MA.Hardened_PCB.01.Paragraph">Un PCB a base de hierro creado a partir de bobinas de hierro en una planta de ensamblaje de PCB.</string>
+<string name="MA.Heat_Conducting_Pipe.00.Title">Tubo de conducción de calor</string>
+<string name="MA.Heat_Conducting_Pipe.01.Paragraph">Las tuberías conductoras de calor combinan el poder de transmisión de fluidos de las tuberías de cobre y la resistencia combinada al calor y la presión de malla de fibra de cristal. Con este nuevo tipo de tubería, se han realizado avances en la generación termoeléctrica geotérmica hasta el punto de que ahora es una solución factible para los crecientes requisitos de energía de las nuevas máquinas.</string>
+<string name="MA.High_Energy_Composite_Fuel.00.Title">Combustible Compuesto de Alta Energía</string>
+<string name="MA.High_Energy_Composite_Fuel.01.Paragraph">El combustible compuesto de alta energía se puede fabricar en una cuba de reactor de refinería de biomasa. Se utiliza para impulsar turbinas de chorro y en la fabricación de defensas de misiles. Los recipientes de combustible utilizados en una turbina de chorro pueden reciclarse cuando están vacíos.</string>
+<string name="MA.Hive_Brain_Matter.00.Title">Sustancia de cerebro de colmera</string>
+<string name="MA.Hive_Brain_Matter.01.Paragraph">La mayor parte de la mente colmena fue destruida en la explosión de energía. Parte de la materia cerebral está lo suficientemente intacta como para justificar una investigación. Su laboratorio podrá analizar este artículo, lo que debería brindarnos opciones de investigación adicionales.</string>
+<string name="MA.Hydrojet_Cutter.00.Title">Cortador de hidrojet</string>
+<string name="MA.Hydrojet_Cutter.01.Paragraph">Coloque este módulo en la parte superior de su planta de fabricación para permitir la fabricación de actualizaciones de trajes.</string>
+<string name="MA.ImprovedCargoLift.00.Title">Elevador de carga mejorado</string>
+<string name="MA.ImprovedCargoLift.01.Paragraph">El segundo Elevador de carga disponible es mucho más rápido y mucho más grande que el Basico. Esto es ideal para la entrega en masa de materiales más profundos como níquel, cristal y biomasa.</string>
+<string name="MA.ImprovedCargoLift.02.Header">Especificaciones</string>
+<string name="MA.ImprovedCargoLift.03.Left">"Rango máximo:
+  Velocidad máxima:
+  Aceleración:
+  Máxima capacidad
+  Uso de energía (viaje):
+ "</string>
+<string name="MA.ImprovedCargoLift.04.Right">"Ilimitado
+ 10 metros / seg
+ 0.5 metros / seg / seg
+ 1000
+ 250 pps
+ "</string>
+<string name="MA.Induction_Charger.00.Title">Cargador de inducción</string>
+<string name="MA.Induction_Charger.01.Paragraph">"El cargador de inducción es una máquina pequeña de 5x5 que tiene un rendimiento extremadamente alto pero un mínimo almacenamiento a bordo. Es un excelente candidato para suministrar energía a un área sin saturarla con muchos láseres o baterías, y debe evitar la necesidad de tener líneas eléctricas subterráneas enterradas y bloques de distribución.
+
+ El uso es simple; construya en un cuadrado de 5x1x5, alimente la energía desde cualquier dirección y coloque las máquinas en la parte superior o lateral. Tenga en cuenta, como con todas las máquinas de suministro de energía, que enfrentar un transmisor de potencia láser en el cargador y tocar el cargador provocará un bucle de retroalimentación, y esto debe evitarse.
+
+ Esta máquina, colocada debajo de un laboratorio de investigación u otra máquina grande y hambrienta de energía, es excelente para organizar una entrega de energía ordenada y de alta velocidad.
+ "</string>
+<string name="MA.Induction_Charger.02.Header">Especificaciones</string>
+<string name="MA.Induction_Charger.03.Left">"Almacenamiento interno:
+ Tasa de entrada de energía:
+ Tasa de potencia de salida: 
+ "</string>
+<string name="MA.Induction_Charger.04.Right">"1500
+ 7500 / cara / segundo
+ 1250 / máquina / segundo
+ "</string>
+<string name="MA.Infused_Coal.00.Title">Carbón Infundido</string>
+<string name="MA.Infused_Coal.01.Paragraph">Carbón Infundidol es el producto del Carbón infundido de cristal. El carbón infundido es una mejora sobre el carbón enriquecido, ya que genera más energía en la misma cantidad de tiempo.</string>
+<string name="MA.Intermediate_Experimental_Pod.00.Title">Cápsula Experimental Intermedia</string>
+<string name="MA.Intermediate_Experimental_Pod.01.Paragraph">Las cápsulas experimentales intermedias se utilizan en un laboratorio para realizar experimentos y completar proyectos de investigación. Estas cápsulas se fabrican de hierro. Para obtener más información sobre la investigación de laboratorio, visite la siguiente guía.</string>
+<string name="MA.Intermediate_Experimental_Pod.02.Paragraph">Para obtener más información sobre la creación de cápsulas experimentales, lea la siguiente guía.</string>
+<string name="MA.Iron_Bar.00.Title">Barra de hierro</string>
+<string name="MA.Iron_Bar.01.Paragraph">Las barras de hierro se usan generalmente en máquinas que requieren una construcción resistente. Están hechos de mineral de hierro, que se puede encontrar al menos a 65 m debajo de la superficie.</string>
+<string name="MA.Iron_Coil.00.Title">Bobina de Hierro</string>
+<string name="MA.Iron_Coil.01.Paragraph">Una bobina de hierro simple creada a partir de alambres de hierro en una planta de bobinado.</string>
+<string name="MA.Iron_Gear.00.Title">Engranaje de hierro</string>
+<string name="MA.Iron_Gear.01.Paragraph">Un engranaje biselado, usado en varios motores y juntas.</string>
+<string name="MA.Iron_Housing.00.Title">Carcasa de Hierro</string>
+<string name="MA.Iron_Housing.01.Paragraph">Una carcasa de hierro simple creada a partir de placas de hierro.</string>
+<string name="MA.Iron_Ore_Ping.00.Title">Pulso de mineral de hierro</string>
 </resources>
