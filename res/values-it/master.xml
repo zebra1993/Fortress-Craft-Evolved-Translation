@@ -1425,7 +1425,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="MK4 Battery Component">Componente Batteria MK4</string>
   <string name="MK4 Battery Component_DESC">Costruisci in una configurazione 3x3x3 per una grossa batteria. (Richiest 27 in totale)</string>
   <string name="Conduit">Condotto</string>
-  <string name="Conduit_DESC">Connette accumulatore L4 a una distanza fino a 128 metri oltre 10.000 E/s. Costruisci in una configurazione 3x3x1, attaccata a un\'Accumulatore di Energia L4.</string>
+  <string name="Conduit_DESC">Connette accumulatore L4 a una distanza fino a 128 metri oltre 10.000 E/s. Costruisci in una configurazione 3x3x1, attaccata a un\'Accumulatore di Energia L4 AE.</string>
   <string name="MK5 Battery Component">MK5 Componente Accumulatore</string>
   <string name="MK5 Battery Component_DESC">"Costruisci in una configurazione larga 5, alta 9, profonda 5  per il più grande accumulatore (richiesti 225 in totale)"</string>
   <string name="MK2 Solar Panel Component">MK2 Componenete del Pannello Solare</string>
@@ -1482,7 +1482,7 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="Trencher Drill Mk3 component_DESC">Notevole Miglioramento della Trivella Trencher. Costruiscila come la MK1.</string>
   <string name="Auto Organic Thief">AutoLadro Organico</string>
   <string name="Auto Organic Thief_DESC">Rimuove automaticamente le parti organiche rovinate dal tuo inventario.</string>
-  <string name="Laser Borer">Perforatrice Laser</string>
+  <string name="Laser Borer">Trivella Laser</string>
   <string name="Laser Borer_DESC">La Perforatrice Laser è alimentata da CCAE. Crea rapidamente un foro 3x3 al centro delle Caverne Congelate. Costruiscilo in una forma larga 3, alta3, profonda 3.</string>
   <string name="High Orbital Debris Object Reclaimer">Recuperatore di Detriti in Orbita Alta</string>
   <string name="High Orbital Debris Object Reclaimer_DESC">Permete di lanciare un missile per riportare i detriti sulla superficie. Costruiscilo in una configurazione larga 3, alta 1,profonda 3.</string>
@@ -1551,7 +1551,7 @@ Necessita di essere attaccato a una tramogia.</string>
   <string name="Freezon Injector_DESC">Utilizza Taniche di Freezon per migliorare le prestazioni a un numero di macchine.</string>
   <string name="Death_Hardcore_Info">NON RACCOMANDATO PER CHIUNQUE!
 Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene distrutto, il gioco è definitivamente finito! E il CPH non si ripara neanche.</string>
-  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CryoPlasma Spawner.</string>
+  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CrioPlasma Spawner.</string>
   <string name="Rushmode_Locked">Modalità Rapida sarè sbloccato quando avrai caricato un Trasmettitore di Energia Orbitale.</string>
   <string name="Rushmode_Disabled">Modalità Rapida disabilitata.</string>
   <string name="Rushmode_Enabled">Modalità Rapida abilitata! Questa modalità ti sfida a costruire un altro Trasmettitore di Energia Orbitale completamente carico nel minor tempo possibile! Selezionando questa modalità aumenterà la generazione di energia di circa 10 volte e la raccolta di minerali e la fusione 5 volte più veloce. Anche gli assalti saranno più veloci...</string>
@@ -1738,7 +1738,7 @@ Richiede il cielo libero.</string>
   <string name="MK4 Battery Component_CRAFT_HINT">Densita Doppia delle batterie L3!</string>
   <string name="Conduit_CRAFT_DESC">Manda fino a 10.000 E/s, pareggia l\'energia tra le batterie. Non guardare direttamente il raggio.</string>
   <string name="Conduit_CRAFT_HINT">Non stare direttamente nel raggio.</string>
-  <string name="MK5 Battery Component_CRAFT_DESC">Immagazina 4,5 milioni di energia e va costruito alto 9 metri con una base di 5x5 (225 totali). Non accetterà energia dalle batterie vicine.</string>
+  <string name="MK5 Battery Component_CRAFT_DESC">Immagazina 4,5 milioni di energia e va costruito alto 9 metri con una base di 5x5 (225 totali). Non accetterà energia dagli accumulatori vicini.</string>
   <string name="MK5 Battery Component_CRAFT_HINT">Densità quadrupla delle batterie L3!</string>
   <string name="Organic Power Storage_CRAFT_DESC">Funziona da accumulatore tampone tra i generatori e gli utilizzatori accumulando 8.500 di energia. Accumulatori vicini condividono l\'energia.</string>
   <string name="Organic Power Storage_CRAFT_HINT">Poca portata, grande capacità.</string>
@@ -3100,8 +3100,8 @@ Verrà rimpiazzato!</string>
   <string name="ConstructoBot Bronzite Chassis">Telaio AutoCostruttore in Bronzo</string>
   <string name="Airborne Particulate Extractor">Estrattore Particolato in Sospensione</string>
   <string name="Airborne Particulate Extractor_DESC">Estrattore Particolato in Sospensione_DESC</string>
-  <string name="Airborne Particulate Compressor">Compressore Particolato in Sospensione</string>
-  <string name="Airborne Particulate Compressor_DESC">Compressore Particolato in Sospensione_DESC</string>
+  <string name="Airborne Particulate Compressor">Compressore di Particolato in Sospensione</string>
+  <string name="Airborne Particulate Compressor_DESC">Compressore di Particolato in Sospensione_DESC</string>
   <string name="Cargo_Lift_Controller">Controllo Montacarichi</string>
   <string name="Power_State">Stato Energetico</string>
   <string name="Power_State_X">Stato Energetico: {0}</string>
@@ -3182,7 +3182,7 @@ Tramogia per automatizzare.</string>
   <string name="segments">segmenti</string>
   <string name="PeakBuilds">Picchi di Costruzione</string>
   <string name="Sleeping_for">Addormentato per</string>
-  <string name="ColdCreep_killed_Score_was">CryoPlasma Spawner distrutto!</string>
+  <string name="ColdCreep_killed_Score_was">CrioPlasma Spawner distrutto!</string>
   <string name="Player_Bonus_was">Il bonus del giocatore era</string>
   <string name="CB_inserted">AutoCosrtuttore scarico</string>
   <string name="SH_full_or_locked">Tramoggia piena o bloccato!</string>
@@ -3215,7 +3215,7 @@ Tramogia per automatizzare.</string>
   <string name="Crash_NetworkServerThread">L\'arresto anomalo del server ti impedisce di ospitare una partita.</string>
   <string name="Crash_FluidManager">L\'arresto anomalo del fluid manager impedisce ai fluidi di aggiornarsi.</string>
   <string name="Crash_SegmentMeshRenderer">L\'arresto anomalo del render delle mesh significa che i cambiamenti del terreno e delle nuove aree non saranno caricate.</string>
-  <string name="Crash_SegmentManagerThread">L\'arresto anomalo del segment menager impedisce al terreno di essere caricato durante gli spostamenti o il teletrasporto.</string>
+  <string name="Crash_SegmentManagerThread">L\'arresto anomalo del segment manager impedisce al terreno di essere caricato durante gli spostamenti o il teletrasporto.</string>
   <string name="Crash_TerrainGenThread">L\'arresto anomalo del gen terrain impedisce di creare nuovi luoghi.</string>
   <string name="crashed">" arresto!"</string>
   <string name="Error_message">"Messaggio di errore: "</string>
@@ -3395,7 +3395,7 @@ Alcuni archivi non sono ancora compressi, ma può essere saltato senza nessuna p
   <string name="All_projects_researched">Tutti i progetti ricercati!</string>
   <string name="Start_Project">Inizia Progetto</string>
   <string name="Possible_Projects">Progetti Possibili</string>
-  <string name="Consult_research_station_for_details">"Consulata la stazione di  ricerca per i dettagli"</string>
+  <string name="Consult_research_station_for_details">Consulata la stazione di ricerca per i dettagli</string>
   <string name="Analyse">Analizza</string>
   <string name="Experiment">Esperimento</string>
   <string name="Player_just_started_the">Ho appena iniziato il</string>
@@ -3501,4 +3501,810 @@ Non verrai più informato su questa mod.</string>
   <string name="mod_cannot_run_on_server">Mod non può essere eseguita su questo server</string>
   <string name="This_X_mod_cannot_run_on_server">Questa {0} mod non può essere eseguita su questo server</string>
   <string name="Locked_to_version">Versione Bloccata</string>
+  <string name="Locked_to_version_X">Bloccati alla versione {0}</string>
+  <string name="This_mod_contains_third_party_code_which_could_be_unsafe">Questa mod contiene codice di terze parti che potrebbe non essere sicuro. Né ProjectorGames né Digital Tribe si assumono alcuna responsabilità per eventuali perdite subite dall\'esecuzione di codice di terze parti.
+
+Non verrai ulteriormente in formato per questa mod.</string>
+  <string name="Enable">Abilitata</string>
+  <string name="Disable">Disabilitata</string>
+  <string name="Enter_steam_display_name_here">Inserisci il nome di Steam qui</string>
+  <string name="Tutorial_not_complete">Il tutoria non è completato!</string>
+  <string name="You_need_complete_tutorial_before_hosting_multiplayer">Devi completare il tutorial prima di ospitare una partita multigiocatore.</string>
+  <string name="Good_plan">Buon progetto!</string>
+  <string name="Mutators_are_permanent_no_changed_for_this_world">I mutatori sono permanenti e non possono essere cambiati per questo mondo.</string>
+  <string name="Choose_Mutators_Choose_DOOM">Scegli i tuoi Mutatori, Scegli la tua CONDANNA!</string>
+  <string name="CREATIVE_selected_results_running_Mutators_unpredictable">CREATIVA selezionata! il funzionamento delle Varianti possono essere imprevedibili!</string>
+  <string name="This_screen_preview_forthcoming_Mutator_options_Adventures_Pack_DLC">Questa schermata è un\'anteprima delle prossime opzioni Varianti, disponibili come parte del DLC Adventures Pack! Figo no? Non puoi ancora giocarci, ma sto ancora accettando idee su quelli nuovi!</string>
+  <string name="Mutator_HardcoreCeilings_Active">La ResninaPocalisse è alle porte</string>
+  <string name="Mutator_HardcoreCeilings_Not_Active">La vita ora sarà relativamente senza resina..</string>
+  <string name="Mutator_OSHA_Active">È tutto pericoloso. Non avvicinarti troppo.</string>
+  <string name="Mutator_OSHA_Not_Active">Le macchine ora sono di nuovo al sicuro.</string>
+  <string name="Mutator_AllOre_Active">Rocce,Terra e Pietre ora sono minerali. Questo non è buono come sembra.</string>
+  <string name="Mutator_AllOre_Not_Active">Una ragionevole quantità di minerali e di muovo presente.</string>
+  <string name="Mutator_SkyIslands_Active">Il pavimento è di Lava attiva. questo non è compatibile con la normale Soppravvivenza.</string>
+  <string name="Mutator_SkyIslands_Not_Active">Il pavimento è di Lava inattiva.</string>
+  <string name="Mutator_AggroMobs_Active">Le Minacce ora attaccano a vista. Le torrette sono modificate di conseguenza.</string>
+  <string name="Mutator_AggroMobs_Not_Active">Le Minacce sono indifferenti alla tua presenza.</string>
+  <string name="Mutator_Pandora_Active">I Drop Pods ora contengono una grande varietà di cose.</string>
+  <string name="Mutator_Pandora_Not_Active">I Drop Pods ora contengono solo ricerche. Forse è meglio.</string>
+  <string name="Mutator_LucrativeMobs_Active">SCHIACCIARE. UCCIDERE. ROVINARE. DISTRUGGERE. SACCHEGGIARE. RIPETERE.</string>
+  <string name="Mutator_LucrativeMobs_Not_Active">Le minacce ora lasceranno cadere solo cose sensate.</string>
+  <string name="Mutator_RoboMania_Active">Tutta la logistica, tranne i Robot, sono state bilanciate.</string>
+  <string name="Mutator_RoboMania_Not_Active">I robot sono ancora piuttosto fighi, lo sai.</string>
+  <string name="Mutator_HardcoreInv_Active">Tutti gli oggetto ora hanno un limite di accumulo nel tuo invebtario.</string>
+  <string name="Mutator_HardcoreInv_Not_Active">Le tue lacrime salate sono state notate.</string>
+  <string name="Mutator_ImportantCPH_Active">Il tuo CPH è favolosamente importante. Mantienilo in funzione o soffrirai.</string>
+  <string name="Mutator_ImportantCPH_Not_Active">Nessuna penalità per la distruzione del CPH.</string>
+  <string name="Analysing_area">Analisi dell\'area...</string>
+  <string name="Activation_in">Attivazione in</string>
+  <string name="DESTROY_NOW_CANCEL">DISTRUGGI ORA PER SOPPRIMERE!</string>
+  <string name="Bye">Arrivederci</string>
+  <string name="Connecting">In Connessione</string>
+  <string name="Connecting_to_server_at">Connessione al server</string>
+  <string name="Disconnected">Disconnesso</string>
+  <string name="No_longer_connected">Non più connesso</string>
+  <string name="Not_Connected">Non Connesso</string>
+  <string name="Could_not_reach_server">Impossibile trovare il server</string>
+  <string name="Exception_network_thread">Deroga nel flusso della rete</string>
+  <string name="You_need_own_FF_DLC_access_skin">Devi avere il Frozen Factory Expansion pack per avere questi abiti!</string>
+  <string name="You_need_AmpuTea_access_Explorer_skin">Devi avere AmpuTea per ottenete gli abiti Explorer!</string>
+  <string name="You_need_EVERY_DLC_Expansion_Pack_super_exclusive_skin">Devi avere OGNI DLCe Paccketto di espansione per ottenere questo abito super esclusivo!</string>
+  <string name="User_was_missing">Utente disperso</string>
+  <string name="See_Patreon_for_details">Guarda http://www.patreon.com/Fortresscraft per i dettagli!</string>
+  <string name="You_need_Dapper_DLC_access_Union_Jack_skin">Devi avere il DLC Dapper per avere l\'abito Union Jack!</string>
+  <string name="You_need_Steam_Heroes_access_Harrison_skin">Devi avere Steam Heroes per avere l\'abito Harrison!</string>
+  <string name="You_need_Skin_Pack_1_access_skin">Devi avere il Skin Pack #1 per avere questo abito!</string>
+  <string name="You_need_CRP_fo_this_see_Patreon_details">Devi avere il Community Rewards Pack per questo abito! (Guarda http://www.patreon.com/Fortresscraft per maggiori dettagli!)</string>
+  <string name="Only_good_boys_girls_this_skin">Solo i bravi bambini possono usare questi abiti!</string>
+  <string name="You_need_Skin_Pack_2_access_skin">Devi avere il Skin Pack #2 per avere questo abito!</string>
+  <string name="Tutorial_Complete">Tutorial Completato!</string>
+  <string name="If_stuck_Press_H_for_help">Se sei bloccato, premi H per avere aiuto!</string>
+  <string name="Tutorial_in_progress">Tutorial in corso</string>
+  <string name="CPH_is_focus_of_base">La Centrale di Potenza Hub (CPH) è il Fulcro della tua base.</string>
+  <string name="PSB_are_main_method_storing_power">GLi accumulatori sono il metodo principale per immagazzinare energia.</string>
+  <string name="OE_collect_resources_automatically">Gli Estrattori di Minerali immagazzinano automaticamente le risorse.</string>
+  <string name="SH_automate_resource_handling">La Tramoggia automatizza la lavorazione delle risorse</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Usa LMB per ricercare Campione Sconosciuto se non trovi nulla!</string>
+  <string name="Researching_Scans_gives_RP">Le Scansioni di Ricerca da Punti Ricerca</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Ripara il tuo assistente robotico ARTHER attraverso l\'impianto di produzione!</string>
+  <string name="Look_at_CPH_press_E">Guarda il CPH e premi E!</string>
+  <string name="Charge_suit_from_PSB">Ricarica la tuta dagli accumulatori!</string>
+  <string name="Add_200_power_to_OE">Dai almeno 200 di energia all\'Estrattori di Minerali</string>
+  <string name="Collect_Coal_from_Hopper">Immagazzina il Carbone nella Tramogia!</string>
+  <string name="Hold_RMB_Scan_something">Mantieni premuto RMB per Scansionare qualcosa!</string>
+  <string name="Research_new_scan">Ricerca la tua nuova scansione!</string>
+  <string name="Craft_Power_Core">Costruisci un Nucleo!</string>
+  <string name="CPH_Rebooting">Riavvio CPH</string>
+  <string name="Killed">Ucciso</string>
+  <string name="attackers">Attaccanti!</string>
+  <string name="CPH_Health">Vita CPH</string>
+  <string name="LOIC_En_Route">LOIC In Collisione!</string>
+  <string name="LOIC_returning_recharge">LOIC Ritorna a ricaricarsi!</string>
+  <string name="Discharge_Volley">Fuoriuscita di scariche</string>
+  <string name="OET_ready_for_Strike_Controller">TEO pronto per il Controllo di Attacco!</string>
+  <string name="OET_Charge">TEO Carico</string>
+  <string name="Converting_world_wait">Conversione del mondo, per favore aspetta!</string>
+  <string name="Placed_in_Quadrant">Piazzato nel Quadrante</string>
+  <string name="Current_Quadrant_already_cleared">L\'attuale Quadrante è attualmente pulito!</string>
+  <string name="Current_Quadrant_has_Overmind">Nell\'attuale Quadrante c\'è un Overmind attivo!</string>
+  <string name="Too_close_to_CPH_to_activate_Move_near_valid_target">Troppo vicino al CPH per l\'attivazione! muoviti vicino a un obbiettivo valido!</string>
+  <string name="Scanning_area_optimal_targetting">Scansiona l\'area per una mira ottimale...</string>
+  <string name="Looking_for_OET">Alla ricerca del Trasmettitore Orbitale...</string>
+  <string name="Scan_complete">Scansione completata.</string>
+  <string name="Orbital_Bombardment_requested">Richiesto Bombardamento Orbitale</string>
+  <string name="LOIC_Travel_distance_still">LOIC ancora distante e in viaggio</string>
+  <string name="You_should_probably_run_away_now">Probabilmente dovresti scappare ora. C\'è un obbiettivo se non vedi il colpo!</string>
+  <string name="No_charged_OET_located">Non c\'è nessun Trasmettitore Orbitale carico.</string>
+  <string name="Press_E_blow_up_everything_within_very_big_range">Premi E per una esplorazione completa in un ampio raggio da qui</string>
+  <string name="NO_OVERMIND_DETECTED">NESSUN OVERMIND RILEVATO!</string>
+  <string name="Press_E_confirm_Strike_Location">Premi E per confermare l\'area obbiettivo.</string>
+  <string name="Overmind_within">Overmind all\'interno</string>
+  <string name="destruction_chance">Possibilità di distruzione</string>
+  <string name="Upgraded">Aggiornato!</string>
+  <string name="Hopper_Scanner">Scanner a Tramoggia</string>
+  <string name="Other">Altro</string>
+  <string name="Unknown_Ore">Minerale Sconosciuto</string>
+  <string name="Unknown_Material">Materiale Sconosciuto</string>
+  <string name="Closest">Prossimo</string>
+  <string name="Press_X_for_Build_Gun">Premi X per la Pistola Costruttrice</string>
+  <string name="Wheelmouse_to_Select">Rotella del Mouse per Selezionare</string>
+  <string name="Ping_Unknown">Campione Sconosciuto</string>
+  <string name="Ping_Known_Ore">Campione Mineali Conosciuti</string>
+  <string name="Ping_Air">Campione Aria</string>
+  <string name="Ping_Coloured_Ore">Campione Minerali Colorati</string>
+  <string name="NO_POWER">NESSUNA ENERGIA</string>
+  <string name="Resource_Scanner">Scanner Risorse</string>
+  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">LMB per Ricerca
+ RMB per Scansionare
+ Rotella del mouse per Selezionare</string>
+  <string name="Ore_Scanner">Scanner Minerali</string>
+  <string name="Mission_Smelting_Automation">L\'automazione è la chiave per il successo. La Fonderia può essere interfacciata con una tramoggia di qualsiasi tipo.
+Tuttavia se non dai istruzioni specifiche può succedere qualsiasi cosa! Imposta i permessi ora per avere una Tramoggia Aggiungi e una Tramogia Rimuovi. Trasporta i minerali nella Tramogia Rimuovi e i Lingotti saranno aggiunti alla Tramogia Aggiungi. Rimuovi i lingotti dalla Tramoggia Aggiungi tramite Nasrti Trasportatori.</string>
+  <string name="Smelting_Automation">Fonderia Automatizata</string>
+  <string name="Insert_Ore_to_start">Inserisci il minerale per iniziare</string>
+  <string name="Obtaining_materials">Ottieni materiali</string>
+  <string name="Need">Necessità</string>
+  <string name="Need_X_found_X">Necessari {0} trovati {1}</string>
+  <string name="found">trovati</string>
+  <string name="Unable_find_any_ore">Impossibile trovare altri minerali</string>
+  <string name="Unable_clear_output_hopper">Impossibile sgomberare l\'uscita della tramoggia</string>
+  <string name="Please_empty_manually">si prega di svuotare manualmente!</string>
+  <string name="Needs_more_Ore">Più minerali necessari!</string>
+  <string name="Creative_Mode_No_Info">-- Modalità Creativa --
+Nessuna informazione disponibile
+Per Statistiche stravaganti, gioca in Soppravivenza</string>
+  <string name="Played">Giocato</string>
+  <string name="looks_like_youve_disconnected">Sembra che tu sia disconnesso!</string>
+  <string name="Sorry">Scusa</string>
+  <string name="Client_Thread_null">Il Thread del Client è nullo!</string>
+  <string name="Network_Client_closing">La rete del Client è chiusa!</string>
+  <string name="Network_Client_not_connected">la Rete del Client non è connessa!</string>
+  <string name="Detail_block_loading">Caricamento dettagli dei blocchi</string>
+  <string name="Empty_Detail_slot">Spazio dettagli vuoto</string>
+  <string name="X_cannot_be_dug_up">{0} non può essere scavato!</string>
+  <string name="You_dont_have_permissions_to_build_here">Non hai i permessi oer cosruire qui!</string>
+  <string name="You_cannot_build_with_X">Non puoi costruire con {0}!</string>
+  <string name="Whoops_Nulldata_for_X">Oops! dati nulli per {0}</string>
+  <string name="You_failed_to_craft_a_X">Non sei riuscito a creare un {0}</string>
+  <string name="You_dont_have_the_resources_to_autocraft_a_X_you_need_X">non hai lee risorse per l\'autocostruzione di {0} -ti serve {1}</string>
+  <string name="You_need_to_craft_a_X_at_youre_base">Ti serve costruire un {0} nella tua base!</string>
+  <string name="You_dont_have_a_X_in_youre_invetory">non hai un {0} nel tuo inventario!</string>
+  <string name="You_cannot_build_with_unknown_items">Non puoi costruirlo con oggetti sconosciuti!</string>
+  <string name="You_cannot_build_on_top_of_X">Non puoi costruire in cima a {0}</string>
+  <string name="You_cannot_build_top_of_this">non puoi costruire in cima a questo!</string>
+  <string name="You_cant_build_X_at_hight_X">Non puoi costruire {0} all\'altezza {1}!</string>
+  <string name="You_cant_build_this_at_height_X">Non puoi costruise all\'altezza {0}!</string>
+  <string name="Warning_Cannot_dug_up_once_constructed">Attenzione! Non può essere demolito una volta costruito!</string>
+  <string name="You_dont_permissions_delete_this">Non hai i permessi per cancellarlo.</string>
+  <string name="Loading_Detail_Block">Caricamento Dettagli del Blocco</string>
+  <string name="Unnamed">Senza nome</string>
+  <string name="You_need_Dapper_DLC_colourise_torches">Serve il DLC Dapper per colorare le torce!</string>
+  <string name="Progression_Youve_killed_X_helpless_innocent_lifeforms">Progressi! Hai ucciso {0} forme di vita innocenti e indifese!</string>
+  <string name="Progression_Youve_generated_X_k_power">Progressi! Hai generato {0}k di energia!</string>
+  <string name="Progression_Youve_smelted_X_ingots">Progressi! hai fuso {0} lingotti!</string>
+  <string name="Progression_Youve_crafted_X_items">Progressi! hai creato {0} oggetti!</string>
+  <string name="PPS_X_baked">{0} Cotto</string>
+  <string name="X_archives_to_compress">{0} archivi da comprimere!</string>
+  <string name="Safe_to_exit">Sicuro per uscire</string>
+  <string name="Save_Queue_X">Coda di Salvataggio: {0}</string>
+  <string name="I_just_processed_the_X_scan">Ho appena eseguito la scansione {0}!</string>
+  <string name="I_just_researched_the_X_recipe">Hai appena ricercato il progetto {0}!</string>
+  <string name="I_just_researched_the_X_project">hai appena ricercato il progetto {0}!</string>
+  <string name="PROCESS">PROCESSO</string>
+  <string name="NO_SCANS">NESSUNA SCANSIONE</string>
+  <string name="RESEARCH">RICERCA</string>
+  <string name="Unknown_material_Power_required_to_research_X">Energia richiesta per la ricerca: {0}</string>
+  <string name="Process_scans_unlock_new_research_projects_manufacturing_recipes">Elabora le scansioni di materiali sconosciuti per sbloccare nuovi progetti di ricerca e progetti di produzione, nonché guadagnare punti di ricerca.</string>
+  <string name="Find_unknown_materials_using_orescanner_ping_facility">Trova altri materiali sconosciuti utilizzando la funzione campione dello scanner per minerale.
+Premi M per selezionare lo scanner minerale, quindi il pulsante sinistro del mouse per iniziare un campionamento materiale.</string>
+  <string name="For_more_information_on_the_X_open_the_Handbook">Per maggiori informazioni sul {0} apri il manuale ( premi H).</string>
+  <string name="Scans_X">Scansioni ({0})</string>
+  <string name="Scans">Scansione</string>
+  <string name="Recipes">Progetti</string>
+  <string name="Projects">Progetti</string>
+  <string name="Recipes_X">Progetti ({0})</string>
+  <string name="Projects_X">Progetti ({0})</string>
+  <string name="Value">Valori</string>
+  <string name="Research_Points">Punti di Ricerca</string>
+  <string name="In_order_know_what_material_is_will_process_scan">Per sapere cos\'è questo materiale, dovrai eseguire una scansione.</string>
+  <string name="Unprocessed_Scan">Scansione non eseguita</string>
+  <string name="Power_required_to_research_X">Energia richiesta per la ricerca : {0}</string>
+  <string name="Research_project_at_laboratory_Requires">Ricercare questo progetto al laboratorio - Richiede:</string>
+  <string name="Unlocked_from">Sbloccato da</string>
+  <string name="Unknown_Requirement_X">Requisito sconosciuto: {0}</string>
+  <string name="For_more_information_on_the_X_and_list_of_will_unlock_open_Handbook">Per ulteriori informazioni su {0} e un elenco di cosa verrà sbloccato, aprire il manuale (premere H).</string>
+  <string name="CONTACT_LOST_REASON_X">CONTATTO PERSO!
+MOTIVO: {0}</string>
+  <string name="Unknown">Sconosciuto</string>
+  <string name="Altitude_X_m_Accel_X">Altitudine : {0}m. Accel: {1}m/s²</string>
+  <string name="Fuel_X_X">Carburante : {0}l /{1}kg</string>
+  <string name="Velocity_x_Orbital_Velocity_X">Velocità: {0}m/s. Velocità Orbitale: {1}m/s</string>
+  <string name="Mass_X">Massa : {0}kg</string>
+  <string name="Thrust_X">Spinta : {0}N / {1}N</string>
+  <string name="TOO_HEAVY_NEED_AT_LEAST_X_Thrust">TROPPO PESANTE
+NECESSARIO ALMENO {0} N di spinta!</string>
+  <string name="Out_of_fuel">Senza carburante</string>
+  <string name="Launch_in_T_X">Lancio in T - {0}s</string>
+  <string name="LaunchPad_Collision">Collisione con la piattaforma di lancio</string>
+  <string name="Unset">Non settato</string>
+  <string name="Perfect">Perfetto</string>
+  <string name="Deadly">Mortale</string>
+  <string name="Exact">Esatto</string>
+  <string name="Precise">Preciso</string>
+  <string name="Accurate">Accurato</string>
+  <string name="Careful">Attento</string>
+  <string name="Careless">Negligente</string>
+  <string name="Crappy">Schifoso</string>
+  <string name="Lax">Trascurato</string>
+  <string name="Sloppy">Siatto</string>
+  <string name="Inaccurate">Impreciso</string>
+  <string name="Useless">Inutile</string>
+  <string name="X_Scope">{0} Portata</string>
+  <string name="Refreshing">Rinfrescante...</string>
+  <string name="PUBLIC_Waiting_for_response">[PUBLIC] (In attesa di risposta)</string>
+  <string name="Contacting_server">Contatta il server...</string>
+  <string name="Server_Readout">"Lettura del server - "</string>
+  <string name="World_Uptime">Tempo sul mondo : {0}</string>
+  <string name="X_out_of_X_Players_connected">{0} di {1} giocatori collegati.</string>
+  <string name="X_active_Machines_Load_X">{0} maccine attive (Carica : {1})</string>
+  <string name="X_active_mobs_Load_X">{0} Minacce attive ( Carica : {1})</string>
+  <string name="Server_Transmission_Progress_X">Progressi Trasmissione Server : {0}</string>
+  <string name="X_segments_left_to_send">{0} sezioni rimasti da inviare</string>
+  <string name="X_Bars_X_Ores_X_Power">({0} lingotti/ {1}Minerali/ {2} Energia/min</string>
+  <string name="Forced">Forzata</string>
+  <string name="Half">Metà</string>
+
+  <string name="VsyncOn">Limitato</string>
+  <string name="VsyncOff">Spento</string>
+  <string name="VsyncHalf">Risparmio energetico</string>
+  <string name="Helmet_Open">Casco: Aperto</string>
+  <string name="Helmet_Closed">Casco: Chiuso</string>
+  <string name="Gender_Male">Genere: Mascile</string>
+  <string name="Gender_Female">Genere: Femminile</string>
+  <string name="Gender_Other">Genere: Altro</string>
+  <string name="Slime_Attractor">Attiratore di Slime</string>
+  <string name="Bait_active">Esca attiva!</string>
+  <string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Neccessario del Materiale Organico in una Tramoggia adiacente!</string>
+  <string name="Temperature">Temperatura</string>
+  <string name="Heating">Riscaldamento</string>
+  <string name="Requires_X_Ore">Richiede {0} Minerali</string>
+  <string name="Click_icon_to_clear">Clicca l\'icona per pulire</string>
+  <string name="Add_Ore">Aggiungi Minerali</string>
+  <string name="Add_Ore_to_begin">Aggiungi Minerali per iniziare!</string>
+  <string name="Click_icon_to_retrieve">Clicca sull\'icona per recuperare</string>
+  <string name="Ingredient_in_Ore_Smelter">Elementi nella Fonderia di Minerali</string>
+  <string name="Gathering_Materials">Raccolta dei materiali</string>
+  <string name="Gained_X_power">{0} di Energia ottenuta!</string>
+  <string name="Undamped">Inutilizzato</string>
+  <string name="Impeded">Ostacolato</string>
+  <string name="Inhibiting">Inibito</string>
+  <string name="Damped">Smorzato</string>
+  <string name="Absorbing">Assorbente</string>
+  <string name="Interdicting">Vietato</string>
+  <string name="Vibration">Vibrazione</string>
+  <string name="Wobbliness">Barcollante</string>
+  <string name="Balance">Bilanciato</string>
+  <string name="Steadiess">Fermezza</string>
+  <string name="Solidness">Solidità</string>
+  <string name="Fixation">Fissazione</string>
+  <string name="X_Stock_of_X">"{0} Stock di {1} "</string>
+  <string name="Error_machine_tier_not_recognized">Errore livello macchina non riconosciuto!</string>
+  <string name="Looking_for_Attached_Storage">Alla ricerca per la Tramogia collegata</string>
+  <string name="Searching_for_Storage">Alla ricerca della Tramogia</string>
+  <string name="Fully_Stocked">Totalmente Rifornito</string>
+  <string name="Looking_for_MS_Crate">Alla ricerca delle Casse del Magazzino...</string>
+  <string name="Surveying_MS_Crate_distances">Ispezione percorso della cassa del magazzino...</string>
+  <string name="Currently_stocking_Unknown_Material">Attualmente Stoccato : Materiale Sconosciuto</string>
+  <string name="Currently_stocking_X">Atualmente Stoccato : {0}</string>
+  <string name="Stockpile_quantity_X_X_Press_E_configure_Stock_Limits">Quantità stoccata: {0}/{1} 
+premi E per configurare i Limiti di Stoccaggio
+</string>
+  <string name="Press_E_configure_item_stock">Premi E per configurare gli oggetti stoccati</string>
+  <string name="Local_inventory_X_Drone_inventory_X">Inventario locale: {0} 
+ Inventario del Drone: {1}</string>
+  <string name="Set_Item_Stock">Imposta gli oggetti da Stoccare</string>
+  <string name="Decrease_Limit">Diminuire il Limite</string>
+  <string name="Increase_Limit">Aumentare il Limite</string>
+  <string name="Refuse_items_above_limit">Rifiuta gli oggett quando superano il limite</string>
+  <string name="Choose_Item">Scegli L\'oggetto</string>
+  <string name="Enter_Search_Term">Inserisci il termine di ricerca degli oggetti</string>
+  <string name="Inventory_Item">Inventario Oggetti</string>
+  <string name="Stock_X_X">Stock: {0}/{1}</string>
+  <string name="Collect_items_above_limit">Raccogli gli oggetti sopra i limiti</string>
+  <string name="Searching_for">Alla ricerca di:</string>
+  <string name="Stocking_X">Stoccato: {0}</string>
+  <string name="Stockpile_cleared">Scorte ripulite!</string>
+  <string name="Storage_full">Magazzino pieno</string>
+  <string name="Storage_Empty">Magazzino Vuoto</string>
+  <string name="X_free_slots">{0} spazzi vuoti</string>
+  <string name="Processing">In lavorazione...</string>
+  <string name="ERROR_Unknown_cube_X_added">ERRORE cubo sconosciuto[{0}] aggiunto</string>
+  <string name="Mini_Hopper_Small_Very_Slow">Mini Tramoggia (Piccola e Molto Lenta)</string>
+  <string name="Logistics_Hopper_Tiny_Somewhat_Slow">Tramogia Logistica (Piccolo e Abbastanza Lento)</string>
+  <string name="Cryo_Hopper">Tramoggia Criogenica</string>
+  <string name="Used_X_Free_X_E_Open_Storage_Interface">Usato: {0}. Libero: {1}
+ (E) Apri l\'Interfaccia della Tramoggia</string>
+  <string name="Last_Item_X">Ultimo Oggetto: {0}</string>
+  <string name="Internal_Temp_X_C_Power_X">Temperatura Interna: {0}°C. Energia: {1}</string>
+  <string name="Using_X_PPS">Usato {0} E/s.</string>
+  <string name="Overheating_NEEDS_MORE_POWER">Surriscaldamento! NECESSITA DI PIÙ ENERGIA!</string>
+  <string name="Overheating_Contents_Spoiling">Surriscaldamento! il Contenuto si sta rovinando!</string>
+  <string name="CryoStorage_Active">CrioMagazzino Attivo!</string>
+  <string name="Shift_E_Toggle_Vacuum_Status_X">(Shift+E) Cambia Stato Aspirazione : {0}</string>
+  <string name="T_to_store_X">(T) per immagazinare {0}</string>
+  <string name="Try_Shift_and_Ctrl">(Prova Shift e Ctrl)</string>
+  <string name="Hopper_full">Tramoggia piena!</string>
+  <string name="Q_to_retrieve_contents">(Q)per prendere il contenuto!</string>
+  <string name="Shift_Q_to_toggle_permissions">(Shift+Q) cambia i permessi!</string>
+  <string name="Scan_for_more_information">Scansiona per maggiori informazioni!</string>
+  <string name="NetworkSync_X">NetworkSync: {0}</string>
+  <string name="Failed_Inventory_Full">Impossibile!
+Inventario Pieno?</string>
+  <string name="Stored_X">Immagazzinato {0}</string>
+  <string name="UNKNOWN_TYPE">TIPO SCONOSCIUTO</string>
+  <string name="Add_Remove">Aggiungi + Rimuovi</string>
+  <string name="Add_Only">Solo Aggiungi</string>
+  <string name="Remove_Only">Solo Rimuovi</string>
+  <string name="Toggle_Vacuum">On/Off Aspirazione</string>
+  <string name="Vacuum_Off">Aspirazione: Off</string>
+  <string name="Press_I_to_toggle_I_nventory">Premere I per l\'(I)nventario</string>
+  <string name="ShiftCtrl">Shift/Ctrl per rimuovere 10/1</string>
+  <string name="Vacuum_On">Aspirazione: On</string>
+  <string name="Used_X_X">Usato: {0}/{1}</string>
+  <string name="Stacked_X_x_X">Pila {0}x {1}</string>
+  <string name="Suit_Power_X_X">Energia Tuta: {0}/{1}</string>
+  <string name="Solar_Efficiency_X">Efficienza Solare: {0}</string>
+  <string name="Mag_Range_X">Mag Portata: {0}</string>
+  <string name="Suit_Heater_Active">Riscaldamento Tuta: Attivo</string>
+  <string name="Suit_Heater_Offline">Riscaldamento Tuta : Spento</string>
+  <string name="Toxic_Filter_Active">Filtro Tossico : Attivo</string>
+  <string name="Toxic_Filter_Offline">Filtro Tossico : Spento</string>
+  <string name="Radiation_protection_Active">Protezione Radiazioni : Attivo</string>
+  <string name="Radiation_protection_Offline">Protezione Radiazioni : Spento</string>
+  <string name="Orders_X">Ordini: {0}</string>
+  <string name="Select_Shape_First">Seleziona la Forma Prima</string>
+  <string name="Instant">Immediato</string>
+  <string name="Smooth">Regolare</string>
+  <string name="Layered">Stratificato</string>
+  <string name="FILL_SOLID">RIEMPIRE-SOLIDO</string>
+  <string name="FILL_HOLLOW">RIEMPIRE-VUOTO</string>
+  <string name="Anchor_Base">Ancorata : Base</string>
+  <string name="Anchor_Centre">Ancorato : Centro</string>
+  <string name="Not_Buildable">Non Costruibile</string>
+  <string name="Hold_LeftShift_dismantle_MultiBlock_Machines">Tieni premuto Shift sinistro per smaltellare Macchine Multiblocco!</string>
+  <string name="Valuable_machine">Macchina preziosa!</string>
+  <string name="Multiblock_machine">Macchina multiblocco!</string>
+  <string name="Quarry">Cava!</string>
+  <string name="Too_large_Use_LeftShift">Troppo Grande! Usa Shift sinistro!</string>
+  <string name="Hold_LeftShift_to_break_this">Tieni premuto Shift sinistro per rommperlo!</string>
+  <string name="This_is_too_hard_There_no_way_to_dig_up_yet">Questo è Troppo duro!
+Non c\'è modo di scavarlo ancora!</string>
+  <string name="This_is_too_hard_Upgrade_Build_Gun_may_help">Questo è troppo duro!
+Aggiornare la Pistola Costruttrice può aiutare!</string>
+  <string name="Use_an_Ore_Extractor">Usa un Estrattore di Minerali!</string>
+  <string name="Use_LeftCtrl_to_SuperDig">Usa Ctrl sinistro per un superScavo!</string>
+  <string name="ERR_TOO_COLD">ERR. MOLTO FREDDO</string>
+  <string name="Died_from_hypothermia_Craft_Suit_Heater">Morto per ipotermia
+Costruisci un Riscaldatore per la Tuta.</string>
+  <string name="Died_from_hypothermia_Place_Torches_keep_warm_Power_Boosters_emergency_power">Morto per Ipotermia
+Piazza una Torcia per riscaldarti!
+le Batterie di Energia danno una energia di emergenza!</string>
+  <string name="You_went_swimming_in_magma">Sei andato a nuotare nel magma!</string>
+  <string name="You_went_wading_in_magma">Sei andato a guadare il magma!</string>
+  <string name="Died_from_heat_exposure">Morto per esposizione al calore</string>
+  <string name="Died_from_temperature_exposure_See_log_file_for_details">Morto per esposizione alla temperatura (Guarda il File di log per dettagli!</string>
+  <string name="Save_Count_X">Contatore Salvataggi: {0}</string>
+  <string name="Tut_1_Title">Centrale di Potenza Hub (CPH)</string>
+  <string name="Tut_1_Text">
+Il tuo CPH è il centro della tua base e fornirà piccole quantità di energia se alimentato con le risorse.
+
+Guarda il tuo CPH e premi E per accedervi.
+
+È quindi possibile fare clic su Aggiungi risorse per alimentarlo con un po \'di carbone.</string>
+  <string name="Tut_2_Title">Accumulatore di Energia</string>
+  <string name="Tut_2_Text">
+Accumulatori di Energia sono il principale mezzo per immagazzinare energia per la tua base.
+
+Individua il tuo Accumulatore di energia nella tua base, e evidenzialo.
+
+Premendo Q e assorbirai energia dall\'accumulatore nella tua tuta, che ti terrà al caldo.</string>
+  <string name="Tut_3_Title">Estrattore di Minerali (EM)</string>
+  <string name="Tut_3_Text">
+Gli Estrattori di Mineralo (EM) raccolgono i minerali mentre tu fai altro, e richiedono energia.
+
+Piazza il tuo EM, si accede con E. Richiede 200 di energia, e potrà lavorare per 8 minuti!</string>
+  <string name="Tut_4_Title">Tramoggia</string>
+  <string name="Tut_4_Text">
+La Tramoggia immagazzina oggetti e automatizza i processi.
+
+Le Tue macchine prendono o danno risorse alle risorse. Posiziona la Tramoggia e premi Q per svuotarla.Rimuovi il Carboneche è stato scavato.</string>
+  <string name="Tut_5_Title">Ricerca</string>
+  <string name="Tut_5_Text">
+Puoi cercare la posizione di oggetti conosciuti e sconosciuti nel mondo.
+Quando trovi un oggetto sconosciuto puoi scansionarlo.
+
+Trova un oggetto sconosciuto ora ( dentro O fuori al campo di forza), evidenzialo, e tieni premuto il tasto destro del mouse per scansionarlo.</string>
+  <string name="Tut_6_Title">La Ricerca</string>
+  <string name="Tut_6_Text">
+Una volta scansionati, è necessario fare una ricerca degli oggetti sconosciuti.
+
+Individua ed evidenzia la tua Stazione di Ricerca, quindi premi E per interagire e completare la ricerca.
+
+La ricerca fa guadagnare punti per sbloccare nuove tecnologie.</string>
+  <string name="Tut_7_Title">Creazione Semplice</string>
+  <string name="Tut_7_Text">
+ARTHER ti ha aiutato all\'iniziio della tua missione soppravvivenza - ora è il tuo momento per dirgi Grazie.
+
+Vai all\'Impianto di Produzione, selezionalo, premi E e fai un Nucleo di ARTHER.</string>
+  <string name="Tut_8_Title">Automazione</string>
+  <string name="Tut_8_Text">
+Sono rimaste alcune tramogge, laser di trasferimento di energia e nastri trasportatori.
+
+Individua l\'holo-tutorial attorno al CPH.
+Questo ti mostra una configurazione di automazione in miniatura ideale. Posiziona le tue macchine lì.</string>
+  <string name="Tut_9_Title">Buona Fortuna!</string>
+  <string name="Tut_9_Text">
+Da adesso, sei da solo. Tutto ciò che devi sapere è nel Manuale di Sopravvivenza. Aprilo premendo H.</string>
+  <string name="You_died_in_previous_game_still_dead">Sei morto in una partita precedente! Resti morto!</string>
+  <string name="CPH_not_heal_on_Hardcore_difficulty">Il CPH non si ripara nella difficolta Impossibile!</string>
+  <string name="out_of_health_some_reason">Salute in esaurimento per qualche motivo!</string>
+  <string name="Died_Toxic_Fumes_Try_Toxic_Filter">Morto per Vapori Tossici
+Prova a costruire un Filtro Tossico!</string>
+  <string name="Unknown_block_detected_Hold_RMB_scan">Rilevato blocco sconosciuto...
+Tieni premuto RMB per la scansioen!</string>
+  <string name="Block_scanned_not_researched_Return_to_ResearchStation_identify_Press_x_switch_Build_Gun">Il blocco è stato scansionato ma non ricercato!
+Ritorna alla Stazione di Ricerca per identificarla!
+Premi X per passare alla Pistola Costruttrice</string>
+  <string name="X_has_been_researched">{0} è stato ricercato!</string>
+  <string name="x_return_Build_Gun">X per tornare alla Pistola Costruttrice
+</string>
+  <string name="Scanning_unknown_block_Continue_hold_button_complete_Scan">Scansione del blocco sconosciuto...
+Continua a premere il pulsante per completare la scansione</string>
+  <string name="Cannot_rescan_block_Already_Scanned_Scan_at_ResearchStation_x_switch_Build_Gun">Non puoi ri-scansionare il blocco...
+Già scansionato!
+Analizzalo alla Stazione di Ricerca!
+Premi X per passare alla Pistola Costruttrice</string>
+  <string name="Scanning_X_vein_Continue_hold_button_complete_Scan">Scansione vena di {0} ...
+Tieni premuto il pulsante per completare la Scansione</string>
+  <string name="Block_Type_X">Blocco Tipo: {0}</string>
+  <string name="Distance_X_m">Distanza : {0}m.</string>
+  <string name="New_Scan_Complete">Nuova Scansione Completata!</string>
+  <string name="Scanned_new_Block_Return_ResearchStation">Scansionato nuovo Blocco!
+Ritorna alla Stazione di Ricerca!</string>
+  <string name="Scanned_new_Block_Return_ResearchStation_x_select_BuildGun">Scansionato nuovo Blocco!
+Ritorna alla Stazione di Ricerca!
+X per selezionare la Pistola Costruttrice</string>
+  <string name="Already_Scanned_Return_ResearchStation">Gia Scansionato!
+Ritorna alla Stazione di Ricerca!</string>
+  <string name="Already_Scanned_Return_ResearchStation_x_select_BuildGun">Già Scansionato!
+Ritorna alla Stazione di Ricerca!
+X per selezionare la Pistola Costruttrice</string>
+  <string name="Return_ResearchStation">Ritorna alla Stazione di Ricerca!</string>
+  <string name="Block_Type_X_Already_Known">Blocco Tipo: {0}
+Già noto</string>
+  <string name="Already_Scanned">Già Scansionato!</string>
+  <string name="unknown">Sconosciuto</string>
+  <string name="Ore_Report_normal_X_X_X">Rapporto Minerario:
+Tipo: {0}
+Volume: {1} m3
+Totale Minerale: {2:N0}</string>
+  <string name="Ore_Report_Big_X_X_X">Rapporto Minerario:
+Tipo: {0}
+Volume: {1} m3
+Totale Minerale: {2:N4}m</string>
+  <string name="Ore_normal_X_X_X">{0}
+Volume: {1} m3
+Totale: {2:N0}</string>
+  <string name="Ore_Big_X_X_X">{0}
+Volume: {1} m3
+Totale: {2:N4}m</string>
+  <string name="Scanned_X_m_X">Scansionato {0}m, {1}</string>
+  <string name="Network_Ore_Report">Ho appena scansionato una vena di {0} contenete {1}m di minerale a {2},{3},{4}</string>//A huge vein with a ! at the end?
+  <string name="Extend_X_X">Estesione: {0}/ {1}</string>
+  <string name="Pressure_X_bar">Pressione: {0}bar</string>
+  <string name="Current_Speed_X_ms">Velotita attuale: {0}m/s</string>
+  <string name="Powered_compressor_required_beyond_X_m">Compressore alimentato richiesto al di sopre di {0}m</string>
+  <string name="Home_Raise_Lift">( ↖ o Home) per Alzare l\'ascensore.</string>
+  <string name="End_Lower_Lift">(Fine o End) per abbassare l\'ascensore.</string>
+  <string name="Initialising">Inizializzazione...</string>
+  <string name="Locating_Resources">Localizzazione Risorse...</string>
+  <string name="Looking_offload_X_HEFCs">In attesa di scaricare {0} taniche di combustibile ad alti ottani</string>
+  <string name="Compositing_materials">Composto di materiali...</string>
+  <string name="Looking_for_X_coal_and_X_HEFC">Cerca ancora {0} di carbone e {1} di CCAE...</string>
+  <string name="Compositing_X_s_left_X_PPS">Composto; {0} . @ {1} E/s</string>
+  <string name="STORAGE_FULL_OFFLOAD">MAGAZZINO PIENO! SVUOTALO!</string>
+  <string name="No_fuel_to_offload">Niente carburante da scaricare</string>
+  <string name="X_HOF_ready_offload">{0} Carburante ad Alti Ottani prontonti da scaricare</string>
+  <string name="Power_X_X">Energia: {0}/ {1}</string>
+ 
+  <string name="DigiStructing_Rocket">Costruttore digitale di Razzi</string>
+  <string name="Fuelling_Rocket">Rifornimento Razzo</string>
+  <string name="Rocket_Launched">Razzo Lanciato!</string>
+  <string name="Pad_Empty">Piattaforma Vuota.</string>
+  <string name="DigiStruct_power_needed_X">Costruttore Digitale richiede energia: {0}</string>
+  <string name="Waiting_for_target_lock">Aspetta l\'aggancio del bersaglio...</string>
+  <string name="High_Octane_Fuel_needed_X">Richiesto Carburante ad Alti Ottani: {0}</string>
+  <string name="CPH_Offline_Dazzler_Offline">CPH Spento; Dazzler spento.</string>
+  <string name="CryoPlasm_Cleared_X_m">CrioPlasma Eliminato: {0}m³</string>
+  <string name="Inferno_successfully_neutralised_CryoPlasm_Spawner">Inferno ha neutralizzato con successo un Crioplasma Spawner!</string>
+  <string name="CryoPlasm_Inferno">CrioPlasma Inferno</string>
+  <string name="Please_attach_Magma_Storage_via_Fluid_Pipes">Prego attaccare un Magazzino Magma attraverso Tubi per i Fluidi...</string>
+  <string name="Scanning_for_CryoPlasm_Spawns_within_64_metres">Ricerca del CrioPlasma entro 64 metri...</string>
+  <string name="Cannot_target_CryoPlasm_Spawner_blocked_by_X">Obbiettivo CrioPlasma non trovato, bloccato da {0}!</string>
+  <string name="Time_remaining_X">Tempo rimasto: {0}</string>
+  <string name="WARNING_REGROWTH_IN_X">ATTENZIONE! RICRESCITA IN: {0}</string>
+  <string name="NEED_COMPRESSED_MAGMA_NOW">NECESSITA DI MAGMA COMPRESSO ORA!</string>
+  <string name="Waiting_gas_from_Gas_Storage_Tank">In attesa del gas dai Serbatoi di Stoccaggio del Gas.</string>
+  <string name="Storing_X">Stoccato: {0}.</string>
+  <string name="Next_bottle_filled_in_X">"Prossimo riempimento in :  {0}s"</string>
+  <string name="Looking_for_Hopper_offload_to">In ricerca della Tramoggia per scaricare in...</string>
+  <string name="Gas_Storage">Magazzino di Gas</string>
+  <string name="Waiting_for_gas_from_Particulate_Compressor">In attesa del gas dal Compressore di Particolato.</string>
+  <string name="Connected_to_Gas_Bottling_Plant">Collegalo all\'impianto di Imbottigliamento del Gas.</string>
+  <string name="Scanning_pipe_connections_to_Gas_Bottling_Plant_in_X">Controllo delle tubazioni per l\'impianto di Imbottigliamento in {0}s</string>
+  <string name="Looking_for_Ore">Controllo per i Minerali</string>
+  <string name="Please_wait_paging">Attendere, l\'annuncio...</string>
+  <string name="Place_on_3x3_Ore_only">Piazzalo su un 3x3 di solo Minerale!</string>
+  <string name="Place_on_3x3_identical_Ore_only">Piazzalo su un 3x3 di solo Minerale identico!</string>
+  <string name="Grinding_Ore">Macinazione Minerale...</string>
+  <string name="Grinder_finalising">Finalizzazione della macinazione...</string>
+  <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">"Finalizzazione...
+ATTENZIONE! Il Minerale è in uno stato volatile,NON  DEMOLIRE IL MACCHINARIO!"</string>
+  <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">"Minerale Macinato; ricerca scariCO
+ATTENZIONE! Il Minerale è in uno stato volatile,NON  DEMOLIRE IL MACCHINARIO!"</string>
+  <string name="Grinding">Macinazione...</string>
+  <string name="Kaboom">Kaboom!</string>
+  <string name="Grinder_cannot_function_without_active_C5">La Macina non può funzionare se il Centro di Controllo del Clima della Caverna Congelata è spento</string>
+  <string name="Grinding_X">Macinato: {0}</string>
+  <string name="X_X_to_offload">Scaricato {0}x {1}!</string>
+  <string name="CPH_Offline_Borer_Offline">CHP Spento; Trivella Spenta.</string>
+  <string name="Unable_to_locate_input_Storage_Hopper">Impossibile trpvare una Tramoggia di ingresso</string>
+  <string name="Looking_for_High_Energy_Composite_Fuel">Ricerca per Carburante Composito ad Alta Energia...</string>
+  <string name="Checking_Gantry_Clearance">Controllo Stabilità struttura...</string>
+  <string name="Checking_Drill_Clearance">Verifica Stabilita Trivella...</string>
+  <string name="DigiStructing_Drill">Costruttore digitale di Trivelle...</string>
+  <string name="Drilling">Trivellazione...</string>
+  <string name="Stuck">Bloccato.</string>
+  <string name="Retriving_Drill_Head">Recuper della Testa di Trivellazione.</string>
+  <string name="Collecting_Magma">Immagazzinare Magma!</string>
+  <string name="Gantry_Search_completed_X_of_X">Ricerca Cavalletto completato {0} di {1}</string>
+  <string name="Gantry_cannot_be_deployed_due_to_obstruction_of_X">Il cavvalletto non può essere installato a causa di una ostruzione di {0}</string>
+  <string name="Drill_Search_completed_X_of_X">Ricerca Trivella completata {0} di {1}</string>
+  <string name="Drill_cannot_be_deployed_due_to_obstruction_of_X">la Trivella non può essere installata a causa di un ustrizione di</string>
+  <string name="Looking_for_linked_centre">Ricerca per un centro di collegamento...</string>
+  <string name="PPS_Delta_X">Differenza E/s :{0}</string>
+  <string name="X_m_power_still_required_X">{0}m Energia ancora richiesta.</string>
+  <string name="Drilling_at_depth_X">Trivellazione alla profondità di {0}m</string>
+  <string name="Retriving_Drill_at_depth_X">Recupero Trivella (alla profondità {0}m)</string>
+  <string name="Offloading_to_Magma_Storage_Unit">Scarico nell\'unità di Stoccaggio del Magma</string>
+  <string name="Failed_to_find_Magma_Storage_Unit_searched_X">Fallita ricerca del Unità di Stoccaggio del Magma; ricercato a {0}m</string>
+  <string name="Please_attach_Magma_Bore_to_storage">Per Favore attacca un Pozzi Magmatico all magazzino...</string>
+  <string name="Offloading_to_CryoPlasm_Inferno">Scarico della Torretta del CrioPlasma Inferno.</string>
+  <string name="Failed_to_find_CryoPlasm_Inferno_searched_X">Fallira ricerca Torretta CrioPlasma Inferno.; Ricercato a {0}m</string>
+  <string name="Compressing">Compressione...</string>
+  <string name="Waiting_for_resources">In attesa delle risorse...</string>
+  <string name="Maximum_internal_pressure_reached">Raggiunta la massima pressione interna</string>
+  <string name="Particulate_Compressor">Compressore di Particolato</string>
+  <string name="Compressing_X_using_X_PPS">Compressione: {0} usando {1} E/s</string>
+  <string name="Collecting">Immagazzinamento...</string>
+  <string name="Nothing_to_compress_attach_Particle_Filter">Niente da comprimere.
+Per favore collega un Filtro Particellare.</string>
+  <string name="X_ready_to_compress">{0} pronto per essere compresso.</string>
+  <string name="Need_X_more_to_begin">Necessario ancora {0} per iniziare.</string>
+  <string name="Storing_X_stored">Immagazzinato {0}.</string>
+  <string name="Connected_to_Gas_Storage">Collegato al Magazzino di Gas.</string>
+  <string name="Scanning_for_pipe_connections_to_Gas_Storage_in_X">Ricerca delle tubazioni di collegamento al Magazzino di Gas in {0}s</string>
+  <string name="Error_no_particulates_found">Errore, particolato non trovato.</string>
+  <string name="Particulate_Filter">Filtri di Particolato</string>
+  <string name="CPH_Offline_filtration_paused">CHP Spento - filtraggio in pausa!</string>
+  <string name="POWER_LOW">ENERGIA BASSA!</string>
+  <string name="Filtering_using_X_PPS">Il filtraggio usa {0} E/s</string>
+  <string name="Unable_to_locate_Particulates_Please_place_in_particle_filled_cavern">Impossibile trovare il Psticolato.
+Si pregadi posizionare in una caverna piena di particelle.</string>
+  <string name="X_stored">{0} immagazzinato.</string>
+  <string name="Connected_to_Particulate_Compressor">Collegalo a un Compressore di Particolato.</string>
+  <string name="Scanning_pipe_connection_Particle_Compressor_in_X">Ricerca del tubo di collegamento al Compressore di Particolaro in {0}s</string>
+  <string name="Built_to_X">Costruito a {0}</string>
+  <string name="Built_Ring_at_X">Costruito anell a {0}m</string>
+  <string name="Dist_X_X">Distanza: {0}/{1}</string>
+  <string name="Need_X_more_alloyed_blocks_to_construct">Servono ancora {0} blocchi in legaper costruire</string>
+  <string name="Requires_Adventures_Pack_or_Patronage">Richiede Adventures Pack o il Patrocinio!</string>
+  <string name="WARNING_X_ACTIVE_HIVEMINDS_FOUND">--ATTENZIONE {0} HIVERMINDS ATTIVI TROVATI--</string>
+  <string name="You_will_be_REQUIRED_to_kill_before_using_this_item_full_release">Ti verrà RICHIESTO di ucciderli prima di potere usare a pieno regime</string>
+  <string name="WARNING_No_C5_found_this_will_be_requirement_before_release">--Attenzione nessun C5 trovato- questo è richiesto prima di realizzarlo!</string>
+  <string name="WARNING_ALL_CRYOPLASM_SPAWNERS_MUST_KILLED_BEFORE_USING">--ATTENZIONE TUTTI E OTTO CRIOPLASMA SPAWNER DEVONO ESSERE UCCISI PER USARE QUESTO--</string>
+  <string name="Storing_X_Coal_and_X_HEF_Canisters">Immagazzinato {0} carbone e {1} taniche di CCAE</string>
+  <string name="No_linked_centre_found">Nessuna connesione al centro trovato!</string>
+  <string name="Orbital_RailGun_Link">Collegamento al Cannone Orbitale</string>
+  <string name="Temperature_X">Temperatura {0}°C</string>
+  <string name="Liquified_Resin_Needed_X">Taniche di CCAE necessarie {0}</string>
+  <string name="Power_Cost">Consumo di Energia:</string>
+  <string name="No_Marker">Nessun Indicatore</string>
+  <string name="No_location_stored">Nessun posto di stoccaggio</string>
+  <string name="block_added_by_mod_which_has_been_deactivated">Questo blocco è stato aggiunto da una modifica che è stata disattivata</string>
+  <string name="The_Gameplay_thread_has_not_responded_for_X_seconds">Il sistema di gioco non ha risposto per {0} secondi!</string>
+  <string name="Fluid_processing_X">Elaborazione Fluidi: {0}</string>
+  <string name="Empty_Waypoint">Riferimento vuoto</string>
+  <string name="Place_Sign_next_to_machine_name_it">Piazza un cartello vicino a quella macchina per dargli un nome!</string>
+  <string name="This_needs_0_1_PPS">A questa macchina serve 0,1 E/s.</string>
+  <string name="Marked_Location">Posizione Contrassegnata</string>
+  <string name="usage_X_command">"Usa: {0}  \'command\'"</string>
+  <string name="valid_commands_add_remove">comando valido: aggiungi rimuovi</string>
+  <string name="usage_X_add_name_r_g_b">Usa: {0} aggiungi \'name\' (\'r\' \'g\' \'b\')</string>
+  <string name="added_waypoint_X">"aggiungi Riferimento  \'{0}\'"</string>
+  <string name="usage_X_remove_name">usa: {0} remove \'name\'</string>
+  <string name="X_removed_from_waypoint_list">\"{0}\" rimosso dalla lista dei riferimenti</string>
+  <string name="X_not_found_in_waypoint_list">\"{0}\" non trovato nella lista dei riferimenti</string>
+  <string name="Unknown_command_X">Comando sconosciuto: {0}</string>
+  <string name="Ricocheting">Rimbalzo</string>
+  <string name="Flubbing">Frottola</string>
+  <string name="Bouncy">Rimbalzante</string>
+  <string name="Crazy_ass">Fuori di Testa</string>
+  <string name="Tingling">Formicolio</string>
+  <string name="Electrifying">Elettrizzante</string>
+  <string name="Shocking">Scioccante</string>
+  <string name="Electrocuting">Fulminanti</string>
+  <string name="Pistol">Pistola</string>
+  <string name="Blaster">Blaster</string>
+  <string name="Sniper_Rifle">Fucile di Precisione</string>
+  <string name="Assault_Rifle">Fucile d\'Assalto</string>
+  <string name="SMG">Fucile Mitragliatore</string>
+  <string name="Cannon">Cannone</string>
+  <string name="Minigun">Mitraglietta</string>
+  <string name="X_of">{0} di</string>
+  <string name="Level_X_X_X">Livello {0} {1} {2}</string>
+  <string name="Range_X">Raggio: {0}</string>
+  <string name="Shot_Delay_X">Ritardo di sparo: {0}</string>
+  <string name="X_shots_sec">{0} colpi/sec</string>
+  <string name="Spread_X">Diffusione: {0}</string>
+  <string name="Recoil_Reduction_X">Riduzione del rinculo: {0}%</string>
+  <string name="Max_Charge_X">Carica massima: {0}</string>
+  <string name="Charge_Rate_X">Velocità di carica: {0}</string>
+  <string name="Mod_Socket_X">Mod Socket {0}</string>
+  <string name="Whitelisting_is_currently_X">"L\'attuale lista bianca è "</string>
+  <string name="valid_commands_on_off_add_remove">comando valido: on off aggiungi rimuovi</string>
+  <string name="whitelist_turned_on">lista bianca attiva</string>
+  <string name="whitelist_turned_off">lista bianca disattivata</string>
+  <string name="usage_whitelist_add_name">usato: lista bianca aggiunto \'name\'</string>
+  <string name="X_added_to_single_access_list">\"{0}\" aggiunto alla lista di singolo accesso</string>
+  <string name="usage_whitelist_remove_name">Usato: lista bianca rimuovi \'name\'</string>
+  <string name="X_removed_from_single_access_list">\"{0}\" rimosso dalla lista di singolo accesso</string>
+  <string name="X_removed_from_whitelist">\"{0}\" rimosso dalla lista bianca</string>
+  <string name="X_not_found_in_whitelist">\"{0}\" non trovato nella lista bianca</string>
+  <string name="workshop_command_only_works_inside_workshop">i comandi dell\'officina funzionano solo nell\'officina</string>
+  <string name="usage_X">usato: {0}</string>
+  <string name="Design_name_changed_to_X">Nome progetto cmbiato in \" {0} \"</string>
+  <string name="Available_behaviours_X">Funzioni disponibili: {0}</string>
+  <string name="Unknown_behaviour_X">Funzioni sconosciute {0}</string>
+  <string name="Behaviour_X_added">Funzione aggiunta {0}</string>
+  <string name="Behaviour_X_updated">Funzione affiornata {0}</string>
+  <string name="size_and_or_speed_parameter_could_not_be_parsed">Il parametri di dimensione e/o velocità non possono essere amalizzate</string>
+  <string name="Missing_size_or_speed_parameter">Parametri di dimensioni o velocità persi</string>
+  <string name="usage_X_behaviour">usati: {0} \'behaviour\'</string>
+  <string name="Design_does_not_have_behaviour_X">Il Progetto non ha funzione {0}</string>
+  <string name="Behaviour_X_removed">Funzione {0} rimossa</string>
+  <string name="usage_X_library_design_path">usato: {0} \'library design path\'</string>
+  <string name="Import_not_finished">Importazione ancora non finita</string>
+  <string name="usage_X_slot_number">usato: {0} \'slot number\'</string>
+  <string name="failed_to_parse_slot_number">impossibile analizzare il numero di slot</string>
+  <string name="slot_number_not_custom">numero di slot non personalizzato!</string>
+  <string name="Buildable_slot_X_selected">Costruzione slot {0} selezionati</string>
+  <string name="Workshop_deleted">Officina cancellata</string>
+  <string name="World_parameter_usage_X">Usati parametri del Mondo: {0}</string>
+  <string name="Gravity_X">Gravità: {0}</string>
+  <string name="Movement_Speed_X">Velocità di movimento: {0}</string>
+  <string name="Maximum_Fall_Speed_X">Massima Velocità di Caduta: {0}</string>
+  <string name="Jump_Speed_X">Velocità di Salto: {0}</string>
+  <string name="usage_X_gravity_amount">isato: {0} \'gravity-amount\'</string>
+  <string name="Gravity_set_to_X">Gravita impostata a {0}</string>
+  <string name="Could_not_parse_X">Impossibile analizzare</string>
+  <string name="usage_X_speed_amount">usato: {0} \'speed-amount\'</string>
+  <string name="Movement_Speed_set_to_X">Velocità di movimento impostato a {0}</string>
+  <string name="Current_maxfallspeed_X">Attuale massina velocità di caduta: {0}</string>
+  <string name="Maximum_falling_speed_set_to_X">Velocità massima di caduta impostata a {0}</string>
+  <string name="Jump_Speed_set_to_X">Velocità di Salto impostato a {0}</string>
+  <string name="If_you_can_read_this_I_messed_up">Se riesci a leggere questo, ho sbagliato</string>
+  <string name="Loads">Carichi</string>
+  <string name="Tons">Tonnellate</string>
+  <string name="SuperFast">SuperVeloce</string>
+  <string name="Day">Giorno</string>
+  <string name="Lots">Lotti</string>
+  <string name="MedBay_T0">Capsula Medica di Base</string>
+  <string name="MedBay_Not_In_Room">La Capsula Medica deve essere costruita dentro una stanza!</string>
+  <string name="Not_In_Room">Deve essere costruito in una stanza!</string>
+  <string name="AmpuleCrafter_T0">Creatore Base di Fiale</string>
+  <string name="AmpuleDispenser">Distributore di Fiale</string>
+   <string name="E_To_Extract">Premi E per Prenderle</string>
+  <string name="Base_Production_Scanner">Scanner di Produzione Base</string>
+  <string name="Base_Production_NoData">In Attesa dei dati dalla rete...</string>
+  <string name="Base_Production_NoFilter">#NessunFiltro</string>
+  <string name="RoomLight #1">Luci della Stanza #1. Pitturabile!</string>
+  <string name="RoomLight #2">Luci della Stanza #2. Pitturabile!</string>
+  <string name="RoomLight #3">Luci della Stanza #3. Pitturabile!</string>
+  <string name="RoomLight #4">Luci della Stanza #4. Pitturabile!</string>
+  <string name="RoomLight #5">Luci della Stanza #5. Pitturabile!</string>
+  <string name="RoomLight #6">Luci della Stanza #6. Pitturabile!</string>
+  <string name="RoomLight #7">Luci della Stanza #7. Pitturabile!</string>
+  <string name="RoomLight #8">Luci della Stanza #8. Pitturabile!</string>
+  <string name="RoomLight #1_DESC">#1 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #2_DESC">#2 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #3_DESC">#3 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #4_DESC">#4 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #5_DESC">#5 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #6_DESC">#6 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #7_DESC">#7 Luci della Stanza. Pitturabile!</string>
+  <string name="RoomLight #8_DESC">#8 Luci della Stanza. Pitturabile!</string>
+  
+  <string name="RoomLight #1_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #2_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #3_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #4_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #5_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #6_CRAFT_DESC">Questa luce della Stanza ti avverte silenziosamente di un attacco al CPH.</string>
+  <string name="RoomLight #7_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #8_CRAFT_DESC">La luce verniciabile funziona solo nella Stanza.</string>
+  <string name="RoomLight #1_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+  <string name="RoomLight #2_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  <string name="RoomLight #3_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  <string name="RoomLight #4_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  <string name="RoomLight #5_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  <string name="RoomLight #6_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+  <string name="RoomLight #7_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  <string name="RoomLight #8_CRAFT_HINT">Richiede il DLC Dapper Pack</string>
+  
+  <string name="Basic MedBay">Capsula Medica di Base</string>
+  <string name="Basic MedBay_DESC">Piazzalo su un muro di una stanza, dai energia, e avviciati per guarire.</string>  
+  <string name="Basic MedBay_CRAFT_DESC">Piazzalo su un muro di una stanza, dai energia, e avviciati per guarire.</string>
+  <string name="Basic MedBay_CRAFT_HINT">Nessun suggerimento. È così semplice.</string>
+  <string name="Hydroponics Bay_CRAFT_DESC">Semina i semi delle piante qui per farli germogliare.</string>
+  <string name="Hydroponics Bay_CRAFT_HINT">Le piante cresceranno velocemente.</string>
+  
+  <string name="Advanced Hydroponics Bay">Baia Idroponica Avanzata</string>
+  <string name="Advanced Hydroponics Bay_DESC">Le piante cresceranno molto velocemente. Può richiedere energia, non ho deciso.</string>  
+  <string name="Advanced Hydroponics Bay_CRAFT_DESC">Semina i semi delle piante qui per farli germogliare.</string>
+  <string name="Advanced Hydroponics Bay_CRAFT_HINT">Le piante cresceranno velocemente.</string>
+  <string name="MK1 Ampule">Fiala MK1</string>
+  <string name="MK2 Ampule">Fiala MK2</string>
+  <string name="MK3 Ampule">Fiala MK3</string>
+  <string name="MK4 Ampule">Fiala MK4</string>
+  <string name="MK5 Ampule">Fiala MK5</string>
+  <string name="MK1 Ampule_CRAFT_DESC">Rigenera la salute per un determinato periodo di tempo.</string>
+  <string name="MK1 Ampule_CRAFT_HINT">Mettilo nell\'inventario della tuta per un uso automatico</string>
+  
+  <string name="Iron Gear Maker">Costruttore Ingranaggio di Ferro</string>
+  <string name="Iron Gear Maker_DESC">Crea Ingranaggio di Ferro.</string>
+  <string name="Iron Gear Maker_CRAFT_DESC">Una macchina che supporta l\'autocostruzione di Ingranaggi di Ferro da Lingotti di Ferro.</string>
+  <string name="Iron Gear Maker_CRAFT_HINT">Molto più efficiente che farlo a mano!</string>
+	
+  <string name="AirLock_Inner">QUESTO È POSIZIONATO MALE, SISTEMALO</string>
+  <string name="Airlock_Inner">Porta Stagna Interna</string>
+  <string name="AirLock_Inner_DESC">Non pertinente.</string>
+  <string name="AirLock Inner">Porta Stagna Interna</string>
+  <string name="AirLock Inner_DESC">Collega le Stanze alle Camere di Compensazione</string>
+  <string name="AirLock Inner_CRAFT_DESC">Collega le Stanze alle Camere di Compensazione</string>
+  <string name="AirLock Inner_CRAFT_HINT">Costruiscilo in una forma 3x3x1 o 1x3x3</string>
+	
+  <string name="AirLock_Outer">QUESTO È POSIZIONATO MALE, SISTEMALO</string>
+  <string name="Airlock_Outer">Porta Stagna Esterna</string>
+  <string name="AirLock_Outer_DESC">Non pertinente.</string>
+  <string name="AirLock Outer">Porta Stagna Esterna</string>
+  <string name="AirLock Outer_DESC">Collega le Stanze di Compensazione con l\'estrermo</string>
+  <string name="AirLock Outer_CRAFT_DESC">Collega le Stanze alle Camere di Compensazione</string>
+  <string name="AirLock Outer_CRAFT_HINT">Costruiscilo in una forma 3x3x1 o 1x3x3</string>
+	
+  <string name="Reinforced Plated Room Floor">Pavimento della Stanza a Placche Rinforzate</string>
+  <string name="Reinforced Plated Room Floor_DESC">Verniciabile, il pavimento rinforzato , è specificatamente progettato per le Stanze.</string>
+  <string name="Reinforced Plated Room Floor_CRAFT_DESC">Verniciabile, il pavimento rinforzato , è specificatamente progettato per le Stanze.</string>
+  <string name="Reinforced Plated Room Floor_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+
+  <string name="Room Detail 1">Decorazione Stanza 1</string>
+  <string name="Room Detail 1_DESC">Le decorazioni delle pareti rinforzate, sono specificatamente progettate per le Stanze.</string>
+  <string name="Room Detail 1_CRAFT_DESC">Le decorazioni delle pareti rinforzate, sono specificatamente progettate per le Stanze.</string>
+  <string name="Room Detail 1_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+
+  <string name="Alloyed Space Window">Finestra Spaziale Legata</string>
+  <string name="Alloyed Space Window_DESC">Verniciabile, la Finestra rinforzata.</string>
+  <string name="Alloyed Space Window_CRAFT_DESC">Verniciabile, la Finestra rinforzata. Non racomandato per l\'uso nelle Stanze.</string>
+  <string name="Alloyed Space Window_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+  
+  <string name="Room Ventilation Grille">Griglia di Ventilazione della Stanza</string>
+  <string name="Room Ventilation Grille_DESC">Permette il passaggio dell\'aria</string>
+  <string name="Room Ventilation Grille_CRAFT_DESC">"Usalo per megliorare il volore Pulizia della Stanza,  necessario per raggiungere la Pulizia nella Stanza richiesto."</string>
+  <string name="Room Ventilation Grille_CRAFT_HINT">Serve 1 per 150 m3 della stanza</string>
+	
+  <string name="Reinforced Plating">Placche Rinforzate</string>
+  <string name="Reinforced Plating_DESC">Rinforzati, Pareti Verniciabili pensata per le Stanza.</string>
+  <string name="Reinforced Plating_CRAFT_DESC">Rinforzati, Pareti Verniciabili specificatamente pensata per le Stanza.</string>
+  <string name="Reinforced Plating_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+	
+  <string name="Room Wall Panel">Pannello del Muro della Stanza</string>
+  <string name="Room Wall Panel_DESC">" "</string>
+  <string name="Room Wall Panel_CRAFT_DESC">Rinforzati, Pareti Verniciabili specificatamente pensata per le Stanza.</string>
+  <string name="Room Wall Panel_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+	
+  <string name="Room Light Reflector">Riflettore della Luce della Stanza</string>
+  <string name="Room Light Reflector_DESC">" "</string>
+  <string name="Room Light Reflector_CRAFT_DESC">Riflettore da soffitto rinforzato, progettato specificamente per le Stanze.</string>
+  <string name="Room Light Reflector_CRAFT_HINT">Usa Incolla - ma se lo scavi lo prerdi, quindi piazzalo con cura!</string>
+	
   </resources>
