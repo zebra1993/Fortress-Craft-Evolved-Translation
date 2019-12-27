@@ -4445,11 +4445,13 @@ Il conteggio ora è {0}</string>
   <string name="UI_Build_Dist_is_X">Distanza Costruita è {0}</string>
   <string name="UI_Build_Dist_is_X_using">Distanza costruita e usata {0}:</string>
   <string name="UI_Basic_Conveyors">Nastri Trasportatori Base</string>
-  <string name="UI_Transport_Pipes">Tubi Traspostatori</string>
+  <string name="UI_Transport_Pipes">Tubi Trasportatori</string>
   <string name="UI_Minecrat_Tracks">Ferrovia da Miniera</string>
   <string name="UI_Time_left_X">Tempo rimasto: {0}s</string>
   <string name="UI_Items_Added_X_Items_Found_X">Oggetti Aggiunti : {0}. Oggetti trovati {1}.</string>
   <string name="UI_Spiderbot_Recharge_Docking_Bay">Approdo e stazione di Ricarica dello SpiderBot</string>
   <string name="UI_Holding_X_ready_for_spidy">"Tieni pronto [{0}] per lo SpiderBot! "</string>
   <string name="UI_Bay_ready_recive_items">Approdo pronto per ricevere l\'oggetto</string>
+  <string name="UI_Spiderbot_Power_X_X">Energia Ragno Meccanico {0}/{1}</string>
+  <string name="UI_Spiderbot_Docking">Ragno Meccanico è in fase di Attracco</string>
   </resources>
