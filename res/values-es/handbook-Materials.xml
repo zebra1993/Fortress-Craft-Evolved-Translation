@@ -780,4 +780,10 @@ Los carros de minas son para transferencias masivas de artículos a un ritmo rá
 <string name="MA.Jet_Turbine_Generator_Housing.04.Header">Especificaciones</string>
 <string name="MA.Jet_Turbine_Generator_Intake.03.Paragraph">Para construir una turbina de chorro, coloque 36 componentes de la carcasa de 3 m de altura en una base de 4 mx 3 m. Luego construya una toma de 3m x 3m en cualquier cara de la carcasa del mismo tamaño.</string>
 <string name="MA.Jet_Turbine_Generator_Intake.04.Header">Especificaciones</string>
+<string name="MA.Jet_Turbine_Generator_Intake.05.Left">Máxima potencia (abundante):
+Máxima potencia (escaso):
+Capacidad de potencia:
+Máxima transferencia de potencia:
+Tiempo de combustión:
+Combustible:</string>
 </resources>
