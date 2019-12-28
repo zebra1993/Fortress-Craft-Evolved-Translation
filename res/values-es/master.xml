@@ -715,8 +715,8 @@ Hardcore es el modo más difícil; Si mueres, o tu CPH muere, ¡se acabó el jue
   <string name="Hint_4">Cuanto mayor sea la amenaza, más probabilidades hay de que los enemigos ataquen</string>
   <string name="Hint_5">La generación de energía, la extracción de mineral y las barras de fundición se suman a su generación de amenazas</string>
   <string name="Hint_6">Presione (T) en un extractor de mineral para deshabilitar las notificaciones de ese extractor de mineral</string>
-  <string name="FreightHelp2c">La actual cantidad en tránsito indica que varias vagonetas están trabajando para cubrir la demanda</string>
+  <string name="FreightHelp2c">La actual cantidad en tránsito indica que varias vagonetas están trabajando para cubrir la demanda.</string>
   <string name="FreightHelp2d">Sobrante y faltante están coloreados para mostrar la salud relativa del sistema en un vistazo.</string>
   <string name="FreightHelp3a">Poco sobrante puede provocar una parada en la entrega, dada a la falta en producción según el déficit (demanda) sobrepasa el stock de placas.</string>
-  <string name="FreightHelp3b">"El inventario parece saludable, por lo que es posible reducir "</string>
+  <string name="FreightHelp3b">El inventario parece saludable, por lo que es posible reducir.</string>
   </resources>
