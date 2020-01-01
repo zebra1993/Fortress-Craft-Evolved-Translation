@@ -4452,6 +4452,6 @@ Il conteggio ora è {0}</string>
   <string name="UI_Spiderbot_Recharge_Docking_Bay">Approdo e stazione di Ricarica dello SpiderBot</string>
   <string name="UI_Holding_X_ready_for_spidy">"Tieni pronto [{0}] per lo SpiderBot! "</string>
   <string name="UI_Bay_ready_recive_items">Approdo pronto per ricevere l\'oggetto</string>
-  <string name="UI_Spiderbot_Power_X_X">Energia Ragno Meccanico {0}/{1}</string>
+  <string name="UI_Spiderbot_Power_X_X">Energia SpiderBot {0}/{1}</string>
   <string name="UI_Spiderbot_Docking">Ragno Meccanico è in fase di Attracco</string>
   </resources>
