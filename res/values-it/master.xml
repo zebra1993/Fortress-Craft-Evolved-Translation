@@ -4453,5 +4453,25 @@ Il conteggio ora è {0}</string>
   <string name="UI_Holding_X_ready_for_spidy">"Tieni pronto [{0}] per lo SpiderBot! "</string>
   <string name="UI_Bay_ready_recive_items">Approdo pronto per ricevere l\'oggetto</string>
   <string name="UI_Spiderbot_Power_X_X">Energia SpiderBot {0}/{1}</string>
-  <string name="UI_Spiderbot_Docking">Ragno Meccanico è in fase di Attracco</string>
+  <string name="UI_Spiderbot_Docking">SpiderBot è in fase di Attracco</string>
+  <string name="UI_Bay_offloading_final_item_Spiderbot_undock">Trasferisce gli oggetti dall\'approdo allo SpyderBot prima di scanciarlo</string>
+  <string name="UI_Spidy_docked_waiting_resc">SpiderBot è Attraccato e aspetta le risorse!</string>
+  <string name="UI_Spidy_defending">Lo SiderBot sta Difendendo!</string>
+  <string name="UI_SpiderbotBay_hint">Suggerimento : Collega una Tramogia con Bobbina di Litio Carica per ricaricare lo SpiderBot</string>
+  <string name="UI_Spiderbot_error">ERRORE! LASCIA CHE DJ SAPPIA CHE TU HAI UNA SPYDERBASE FUORI DAL SISTEMA DI GESTIONE!</string>
+  <string name="UI_Internal_Power_X_X">Energia Interna: {0}/{1}</string>
+  <string name="UI_Illegal_Placement_MK2_Solar">Posizionamento inregolare!
+La Stringa dei Pannelli Solari MK2 deve essere piazzata su:</string>
+  <string name="UI_MK4_Batteries">Batterie MK4</string>
+  <string name="UI_MK5_Batteries">Batterie MK5</string>
+  <string name="UI_Refinieries">Raffinerie</string>
+  <string name="UI_Not_collecting_Cant_see_sun">Non sto generando! Non vedo il sole!</string>
+  <string name="UI_Collecting_rate_X_PPS">Generazione di {0} energia al secondo</string>
+  <string name="UI_Not_collecting_sun_below_horizon">Non sto generando! Il sole è oltre l\'orizzonte!</string>
+  <string name="UI_Collecting_novalight_X_PPS">Generazione dalla luce stellare è ridotta a {0} energia al secondo</string>
+  <string name="UI_MK4_Power_storage">Accumulatore di Energia MK4</string>
+  <string name="UI_MK5_Power_storage">Accumulatore di energia MK5</string>
+  <string name="UI_Power_IN_X_avg_X">Energia in Ingresso: {0} (Media: {1})</string>
+  <string name="UI_Power_OUT_X_avg_X">Energia in Uscita: {0} (Media: {1})</string>
+  <string name="UI_Located_X_Power_consumers">Individuati {0} utilizzatori collegati</string>
   </resources>
