@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Saluti! la tua lingua è supportata solo parzialmente. Se vuoi tornare all\'inglese, premi il tasto \"English\" qui sotto!</string>
-    <string name="Translation_Incomplete">Traduzione incompleta!</string>
-    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Frozen Factory</string>
-    <string name="Dapper_Pack">Dapper Pack</string>
-    <string name="Skin_Pack">Skin Pack</string>
+<resources><string name="Partial_Language_Support">Benvenuto! La traduzione per la tua lingua non è ancora completa. Per tornare alla lingua Inglese, premi il tasto \"English\" qui sotto!</string>
+    <string name="Translation_Incomplete">Traduzione Incompleta!</string>
+    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Fabbrica Congelata</string>
+    <string name="Dapper_Pack">Pacchetto Eleganza</string>
+    <string name="Skin_Pack">Pacchetto Skin</string>
     <string name="Installed">Installato</string>
     <string name="Not_Installed">Non Installato</string>
-    <string name="Multiplayer_Sign">&lt;MultiGiocatore</string>
+    <string name="Multiplayer_Sign">&lt;Multigiocatore</string>
     <string name="Quit_Sign">Esci</string>
-    <string name="World_Sign">Seleziona il Mondo</string>
-    <string name="Create_World">Crea un Mondo</string>
+    <string name="World_Sign">Seleziona Mondo</string>
+    <string name="Create_World">Crea Mondo</string>
     <string name="Spacebar">Barra Spaziatrice</string>
-    <string name="Resource_Level">Livello delle Risorse</string>
-    <string name="Power_Level">Livello di Energia</string>
-    <string name="Conveyor_Speed">Velocità dei Nastri Trasportatori</string>
+    <string name="Resource_Level">Quantità Risorse</string>
+    <string name="Power_Level">Livello Energia</string>
+    <string name="Conveyor_Speed">Velocità Nastri Trasportatori</string>
     <string name="Day_Night_Cycle">Ciclo Giorno/Notte</string>
     <string name="Mob_Difficulty">Difficoltà Assalti</string>
     <string name="Death_Mode">Modalità Morte</string>
     <string name="Rush_Mode">Modalità Rapida</string>
     <string name="Flatland">Terra Piatta</string>
     <string name="Care_Package">Pacchetto Assistenza</string>
-    <string name="Survival_Options">Opzioni di Sopravvivenza</string>
+    <string name="Survival_Options">Opzioni Sopravvivenza</string>
     <string name="Seed">Seme</string>
     <string name="Mode">Modalità</string>
-    <string name="Select_Mods">Scegli Modifiche</string>
+    <string name="Select_Mods">Seleziona Mod</string>
     <string name="Back">Indietro</string>
     <string name="Mutators">Modificatori</string>
 
     <string name="Enter_World">Entra nel Mondo</string>
-    <string name="Reset_World">Resetta il Mondo</string>
+    <string name="Reset_World">Reset Mondo</string>
 
 
-    <string name="Creative_New">La modalità creativa ti fornisce la possibilità illimitata di costruire qualsiasi cosa, blocchi con dettagli in alta risoluzione, strumenti estesi per la modifica del mondo, progetti, schemi e funzionalità copia/incolla. Non include la maggior parte degli elementi di sopravvivenza, e non dovrebbe essere considerata come un \"cheat mode\" per la modalità sopravvivenza!</string>
-    <string name="Creative_Info">Questo è un mondo che esiste in modalità creativa, ma, purtroppo, non ho davvero delle caratteristiche trendy da mostrarti qui. Non vorresti invece la foto di un gatto?</string>
+    <string name="Creative_New">La Modalità Creativa ti fornisce la possibilità di costruire qualsiasi cosa con risorse illimitate, blocchi con dettagli in alta risoluzione, strumenti estesi per la modifica del mondo, progetti, schemi e la funzionalità copia/incolla. Non include la maggior parte degli elementi di sopravvivenza, e non dovrebbe essere considerata una \"cheat mode\"!</string>
+    <string name="Creative_Info">Questo mondo esiste già in modalità creativa, purtroppo, non ho statistiche interessanti da mostrarti qui. Ti piacerebbe invece la foto di un gatto?</string>
 
-    <string name="Mod_Management">Gestione delle Mod</string>
+    <string name="Mod_Management">Gestione Mod</string>
     <string name="Mod_Name">Nome Mod</string>
     <string name="Active">Attivo</string>
     <string name="Version">Versione</string>
     <string name="Lock">Blocca</string>
     <string name="Status">Stato</string>
-    <string name="Workshop">Officina</string>
+    <string name="Workshop">Workshop</string>
 
-    <string name="Workshop_Mod">Officina delle Mod</string>
-    <string name="Update_Pending">In attesa di Aggiornamento</string>
-    <string name="Downloading">In Scaricamento</string>
+    <string name="Workshop_Mod">Mod Workshop</string>
+    <string name="Update_Pending">Aggiornamento in Sospeso</string>
+    <string name="Downloading">In Download</string>
 
     <string name="On">On</string>
     <string name="Off">Off</string>
@@ -62,9 +62,9 @@
     <string name="Normal">Normale</string>
     <string name="Eternal Night">Notte Eterna</string>
 
-    <string name="Trivial Mobs">Minaccia Banale</string>
-    <string name="Normal Mobs">Minaccia Normale</string>
-    <string name="Hard Mobs">Minaccia Difficile</string>
+    <string name="Trivial Mobs">Nemici Insignificanti</string>
+    <string name="Normal Mobs">Nemici Normali</string>
+    <string name="Hard Mobs">Nemici Difficili</string>
 
     <string name="None">Nessuno</string>
     <string name="Clumsy">Maldestro</string>
@@ -73,42 +73,42 @@
     <string name="Hardcore">Impossibile</string>
 
     <string name="Survival">Sopravvivenza</string>
-    <string name="Creative">Creativo</string>
+    <string name="Creative">Creativa</string>
 
-    <string name="Default_Settings_Info">I Settaggi di base sono impostati per essere super veloci e super facili, adatti per nuovi giocatori! se vuoi andare ANCORA PIU\' VELOCE, scegli Giorno Eterno per il ciclo Giorno/Notte. Se vuoi una sfida maggiore, modifica i settaggi a tuo piacimento!
+    <string name="Default_Settings_Info">Le impostazioni di Default sono state regolate in modo da rendere la partita veloce e molto facile, adatta a giocatori novizi! Se vuoi una partita ancora più VELOCE, seleziona la modalità Giorno Eterno nel Ciclo Giorno/Notte. Se invece vuoi una sfida maggiore, modifica le impostazioni a tuo piacimento!
 
- Ricorda che questi settaggi non possono essere modificati una volta creato il mondo e considera i tempi medi indicati per concludere il gioco!</string>
-    <string name="Previous_Visit">Sei già stato in questo mondo in modalità sopravvivenza precedentemente!</string>
+ Ricorda che non puoi modificare le impostazioni di gioco una volta creato il mondo e considera i tempi medi indicati per concludere il gioco!</string>
+    <string name="Previous_Visit">Sei già stato in questo mondo in modalità Sopravvivenza!</string>
     <string name="Play_time">Tempo di Gioco</string>
     <string name="Mod_Selected">Mod selezionata.</string>
     <string name="Mods_Selected">Mod selezionate.</string>
     <string name="Existing_Seed">Seme Esistente</string>
 
-    <string name="Resources_Plentiful_Info">Risorse Abbondanti ti darà molte risorse e accelererà molto la tua progressione nelle fasi iniziali e finali del gioco. Questo è un buon punto di partenza per nuovi giocatori con una certa pazienza.</string>
-    <string name="Resources_Scarce_Info">Risorse Scarse ti farà sperimentare un gioco più lendo e meditato, con molto tempo per esplorare ed ottimizzare la tua base. Non raccomandato ai nuovi giocatori!</string>
+    <string name="Resources_Plentiful_Info">"Risorse Abbondanti:  molte risorse e progressione rapida nelle fasi iniziali e finali del gioco. È un buon punto di partenza per giocatori novizi con una buona pazienza."</string>
+    <string name="Resources_Scarce_Info">Risorse Scarse: ti farà sperimentare una partita lenta e meditata, con molto tempo per esplorare e ottimizzare la tua base. Non raccomandato ai novizi!</string>
     <string name="Resources_Greg_Info">Il livello Greg di risorse ridurrà enormemente i tuoi progressi. Questa modalità è adatta per server 24/7 con giocatori multiplayer o per persone MOLTO pazienti!</string>
     <string name="Resources_Rapid_Info">Risorse Rapide è progettato per le persone con poco tempo, con figli, lavoro, o che vogliono finire il gioco in un week end! Questa modalità è anche eccellente se stai cercando di imparare a giocare velocemente prima di rientrare nel gioco con una difficoltà maggiore.</string>
 
 
-    <string name="Conveyor_Slow_Info">I nastri trasportatori lenti sono ben bilanciati, ed enfatizzano i sistemi di trasporto di tipo più evoluto. Questo settaggio renderà la progressione del gioco molto più lenta.</string>
+    <string name="Conveyor_Slow_Info">I Nastri Trasportatori lenti sono ben bilanciati, ed enfatizzano i sistemi di trasporto più avanzati. Questa impostazione renderà la progressione del gioco molto lenta.</string>
     <string name="Conveyor_Fast_Info">I nastri trasportatori veloci significano minori tempi di attesa. Sono circa due volte più veloci di quelli lenti.</string>
 
     <string name="Plentiful_Power_Info">Energia Abbondante permette di estrarre una quantità molto maggiore di energia da tutti i generatori. Questo aumenterà notevolmente la velocità di progressione nelle prime fasi di gioco.</string>
     <string name="Scarce_Power_Info">Energia Scarsa fornisce una generazione di energia equilibrata. Questo rallenterà la progressione nelle fasi iniziali del gioco.</string>
 
     <string name="Eternal_Day_Info">Giorno eterno significa che i sistemi di raccolta ad energia solare lavoreranno costantemente e non si avranno penalità dovute alla caduta di temperatura durante la notte. Scegliere questa opzione permetterà una progressione del gioco molto più veloce - raccolta di energia da fonti solari più veloce del 400%!</string>
-    <string name="Day_Night_Info">Il ciclo normale giorno/notte è di 24 minuti. Per i 12 minuti di oscurità si avranno cali estremi della temperatura, aggressività aumentata dei nemici e ridotta visibilità.</string>
-    <string name="Eternal_Night_Info">"Notte Eterna significa nessuna  tregua dal gelo congelante neanche durante il giorno e nessun accesso alla tecnologia solare non-organica, incluso il tuo CPH. Questo settaggio costituisce una sfida significativa."</string>
+    <string name="Day_Night_Info">Il normale ciclo Giorno/Notte è di 24 minuti. Per i 12 minuti di oscurità subirai abbassamenti di temperatura estremi, maggiore aggressività da parte dei nemici e visibilità ridotta.</string>
+    <string name="Eternal_Night_Info">Notte Eterna significa che non avrai tregua dal freddo congelante, neanche durante il giorno e nessun accesso alla tecnologia solare non-organica, incluso il tuo CPH. Questa impostazione costituisce una sfida significativa.</string>
 
-    <string name="Death_Default_Info">Questa è la modalità standard. Non c\'è alcuna penalità per la morte, ad eccezione della bassa salute e una lunga camminata. Questo rende il gioco estremamente facile, dato che non c\'è penalità per nessuno degli eccitanti modi in cui puoi morire.</string>
+    <string name="Death_Default_Info">Modalità standard. Nessuna penalità alla morte, ad eccezione della salute bassa e una lunga camminata. Questo rende il gioco estremamente facile, dato che non c\'è penalità per nessuno degli eccitanti modi in cui puoi morire.</string>
     <string name="Death_Clumsy_Info">Modalità Maldestra è consigliata se cerchi una sfida ragionevole ed una buona ragione per non morire! Alla morte tutto il materiale in inventario verrà lasciato cadere a terra!</string>
     <string name="Death_Ironman_Info">"NON PER PRINCIPIANTI!
 Iron Man  è solo per i coraggiosi, gli stupidi e gli spavaldi; alla morte PERDI DEL TUTTO il tuo intero inventario!"</string>
     <string name="Death_SquishCore_Info">NON RACCOMANDATO PER CHIUNQUE
 SquishCore è semplice; muori, rimani morto</string>
-    <string name="Care_Package_Locked">Il paccetto Assistenza sarà sbloccato una volta creata con successo un Centro di Controllo del Clima.</string>
+    <string name="Care_Package_Locked">Il Paccetto Assistenza verrà sbloccato una volta creato un Centro di Controllo del Clima.</string>
     <string name="Care_Package_Disabled">Pacchetto Assistenza disabilitato.</string>
-    <string name="Needs_FF">Richiesto il Frozen Factory Expansion Pack.</string>
+    <string name="Needs_FF">Richiesto il Pacchetto di Espansione Fabbrica Congelata.</string>
 
     <string name="Hours">ore</string>
 
@@ -335,8 +335,8 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="ARTHER Santa Mask">Maschera da Babbo Natale per ARTHER</string>
     <string name="ARTHER Santa Masks">Maschere di Babbo Natale per ARTHER</string>
     <string name="Resources">Risorse</string>
-  <string name="Flatland_Disabled">Modalità terra piatta disabilitata.</string>
-  <string name="Flatland_Enabled">Terra piatta Abilitata! rende piatta la terra, da qui il nome!</string>
+  <string name="Flatland_Disabled">Modalità Terra Piatta disabilitata.</string>
+  <string name="Flatland_Enabled">Terra Piatta Abilitata! Rende piatta la terra, se il nome non fosse abbastanza chiaro!</string>
   <string name="Hide_Host_Address">Nascondi l\'indirizzo del Host</string>
   <string name="Host_Address">Indirizzo del Host</string>
   <string name="Edit">Crea</string>
@@ -1551,16 +1551,16 @@ Necessita di essere attaccato a una tramogia.</string>
   <string name="Freezon Injector_DESC">Utilizza Taniche di Freezon per migliorare le prestazioni a un numero di macchine.</string>
   <string name="Death_Hardcore_Info">NON RACCOMANDATO PER CHIUNQUE!
 Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene distrutto, il gioco è definitivamente finito! E il CPH non si ripara neanche.</string>
-  <string name="Flatland_Locked">La modalità terra piatta verrà sbloccato quando avrai ucciso un CrioPlasma Spawner.</string>
-  <string name="Rushmode_Locked">Modalità Rapida sarè sbloccato quando avrai caricato un Trasmettitore di Energia Orbitale.</string>
+  <string name="Flatland_Locked">La modalità Terra Piatta verrà sbloccata una volta ucciso un CrioPlasma Spawner.</string>
+  <string name="Rushmode_Locked">La Modalità Rapida sarà sbloccata una volta caricato il Trasmettitore di Energia Orbitale.</string>
   <string name="Rushmode_Disabled">Modalità Rapida disabilitata.</string>
   <string name="Rushmode_Enabled">Modalità Rapida abilitata! Questa modalità ti sfida a costruire un altro Trasmettitore di Energia Orbitale completamente carico nel minor tempo possibile! Selezionando questa modalità aumenterà la generazione di energia di circa 10 volte e la raccolta di minerali e la fusione 5 volte più veloce. Anche gli assalti saranno più veloci...</string>
   <string name="Trivial_Mobs_Info">Minacce Banale non è raccomandato. Le Minacce esistono ancora per garantire una piena progressione, ma toglie gran parte della sfida nel gioco. Avrai una minaccia ridotta e una frequenza di rinascita degli Hivermind e delle altre minacce che infestano la base</string>
-  <string name="Normal_Mobs_Info">Minacce normali - questo è quello che è. Ottima scelta!</string>
-  <string name="Hard_Mobs_Info">Minacce difficili - con questa scelta avrai a che fare con assalti più difficili e agressivi. Questa è SOLO per giocatori MOLTO esperti!</string>
-  <string name="OrbitalPar">Tempo stimato per il caricamento orbitale</string>
+  <string name="Normal_Mobs_Info">Nemici Normali - questo è quello che è. Ottima scelta!</string>
+  <string name="Hard_Mobs_Info">Nemici Difficili - avrai a che fare con assalti più difficili e agressivi. SOLO per giocatori MOLTO esperti!</string>
+  <string name="OrbitalPar">Tempo stimato per il Caricamento Orbitale</string>
   <string name="FFPar">Tempo Stimato per il Frozen Factory</string>
-  <string name="Care_Package_Enabled">Pacchetto di assistenza abilitato! questo ti darà un grosso aiuto nel nuovo mondo, avrai una pistola costruttrice MK3, batteria più grande per la tuta, un pannello solare e un riscaldatore per la tuta. Prendila, ragazzo.</string>
+  <string name="Care_Package_Enabled">Pacchetto di Assistenza abilitato! Fornirà un grosso aiuto in un mondo nuovo, avrai una pistola costruttrice MK3, batteria più grande per la tuta, un pannello solare e un riscaldatore per la tuta. Prendila, ragazzo.</string>
   <string name="H.E.I.S.T.">L.A.D.R.O.</string>
   <string name="H.E.I.S.T._DESC">Linea Automatica Di Ricevere Oggetti - mette automaticamente gli oggetti nell\'inentario del giocatore. Abbreviato L.A.D.R.O. (H.E.I.S.T. in inglese).</string>
   <string name="NanoDisintegrator">NanoDisintegratore</string>
@@ -4474,4 +4474,65 @@ La Stringa dei Pannelli Solari MK2 deve essere piazzata su:</string>
   <string name="UI_Power_IN_X_avg_X">Energia in Ingresso: {0} (Media: {1})</string>
   <string name="UI_Power_OUT_X_avg_X">Energia in Uscita: {0} (Media: {1})</string>
   <string name="UI_Located_X_Power_consumers">Individuati {0} utilizzatori collegati</string>
+  <string name="UI_T4_Conduit">Condotto L4</string>
+  <string name="UI_Must_built_upgrigth">Deve essere costruito in posizione verticale!</string>
+  <string name="UI_Collecting_rate_X_Percent">Velocità di raccolta al {0}%</string>
+  <string name="UI_Current_rate_X_PPS">La velocità attuale è {0} PPS.</string>
+  <string name="UI_Collecting_Novalight_X_percent">Pannello Solare Organico
+Raccolta Novalight alla velocità ridotta di {0}%</string>
+  <string name="UI_Sun_below_Horizon_Sunrise_X_minutes">Pannello Solare
+Produzione Ferma! Il sole è tramontato!
+Il sole sorgerà tra {0} min</string>
+  <string name="UI_Processing_X">In Lavorazione {0}</string>
+  <string name="UI_Select_Recipe_X_X">Ricetta Selezionata (E): {0}
+ {1}</string>
+  <string name="UI_Processing_X_X_complete">Il Lavorazione {0}, {1} completato</string>
+  <string name="UI_Tank_X_Operating_X">Serbatoio: {0}, Operativo {1}</string>
+  <string name="UI_Fuel_level_X">Livello Carburante: {0}</string>
+  <string name="UI_e_Toggle">(E) per Attivare</string>
+  <string name="UI_Burn_Time_X">Tempo di Combustione {0}s</string>
+  <string name="UI_Efficency_X">Efficienza: {0}</string>
+  <string name="UI_T_Store_Power">T per Immagazzinare energia</string>
+  <string name="UI_Q_Retrive_Power">Q per Recuperare energia</string>
+  <string name="UI_Extruder_desc">Impianto di Estrusione
+Converte le Barre in Fili</string>
+  <string name="UI_Stamper_desc">Impianto di Stampaggio
+Prende le Barre da un Trasportatore, le converte in Piastre e le scarica in un altro Trasportatore.</string>
+  <string name="UI_Coiler_desc">Impianto di Bobinatura
+Trasforma i Fili in Bobine</string>
+  <string name="UI_Basic_conv_desc">Trasportatore Base
+Passa ai modelli più avanzati il più presto possibile!</string>
+  <string name="UI_Adv_conv_filter_desc">Filtro Trasportatore Avanzato
+Smistamento Oggetti dal 1291 A.D.</string>
+  <string name="UI_Transport_pipe_desc">Tubo di Trasporto
+Trasporto rapido e corazzato.</string>
+  <string name="UI_Motorised_conv_desc">Trasportatore Motorizzato
+Connettore Tramoggia di Stoccaggio Ultrarapido.</string>
+  <string name="UI_R_Shift_R_Rotate">(R) e (Shift+R) per Ruotare</string>
+  <string name="UI_Items_transported_X_at_X_per_Min">Oggetti trasportati: {0} a {1}/min</string>
+  <string name="UI_Conveyor_blocked">Trasportatore Bloccato!</string>
+  <string name="UI_Transporting_X">Trasportando: {0}</string>
+  <string name="UI_Press_E_Smash_Ice">Premi E per rompere il ghiaccio!</string>  
+  <string name="UI_Warning_Frozen">ATTENZIONE - CONGELATO!</string>
+  <string name="UI_Press_T_Invert_Filter">Premere T per invertire il filtro.</string>
+  <string name="UI_Warning_Infested_Conveyor">ATTENZIONE - INFESTATO! - Vedi sul Manuale (H)</string>
+  <string name="UI_Filtersetting_ALL">TUTTI i tipi</string>
+  <string name="UI_Filtersetting_GARBAGE">SPAZZATURA</string>
+  <string name="UI_Filtersetting_COMBUSTIBLE">COMBUSTIBILE: Tipi</string>
+  <string name="UI_Filtersetting_ORE">MINERALE</string>
+  <string name="UI_Filtersetting_NOTHING">NIENTE</string>
+  <string name="UI_Filtersetting_CRYSTALS">CRISTALLI</string>
+  <string name="UI_Filtersetting_GEMS">GEMME</string>
+  <string name="UI_Filtersetting_BIOMASS">BIOMASSA</string>
+  <string name="UI_Filtersetting_BARS">SOLO BARRE</string>
+  <string name="UI_Filtersetting_ORGANIC">ELEMENTI ORGANICI</string>
+  <string name="UI_Filtersetting_CRAFTED">OGGETTI COSTRUITI</string>
+  <string name="UI_Filtersetting_RESEARCHABLE">RICERCABILI</string>
+  <string name="UI_Filtersetting_UNKNOWN">SCONOSCIUTI</string>
+  <string name="UI_Current_Power_X">Energia Attuale: {0}</string>
+  <string name="UI_E_Open_Interface">Premere (E) per aprire l\'interfaccia</string>
+  <string name="UI_Target_X_m_away">Il Bersaglio è a {0} m</string>
+  <string name="UI_Q_Selfdestruct">Premi Q per autodistruggerti.</string>
+  <string name="UI_Launch_in_Progres">Lancio in corso ...</string>
+  <string name="UI_Fuel_Efficiency_X">Efficienza Carburante: {0}</string>
   </resources>
