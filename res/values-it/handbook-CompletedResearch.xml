@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CO.Advanced_Defence.Title">Difesa Avanzata</string>
+<string name="CO.Advanced_Defence.00.Title">Difesa Avanzata</string>
+<string name="CO.Advanced_Defence.01.Paragraph">Abbiamo progettato con successo una torretta lanciamissili e apportato ulteriori miglioramenti alla torretta energetica. Dobbiamo produrre missili e ciò richiederà una fornitura di carburante!</string>
+<string name="CO.Advanced_Logistics.Title">Logistica Avanzata</string>
+<string name="CO.Advanced_Logistics.00.Title">Logistica Avanzata</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">Ora abbiamo un nuovo sistema di stoccaggio di massa e un meccanismo di selezione per lo spostamento dei minerali tra i nastri trasportatori.</string>
+<string name="CO.Advanced_Power_Grid.Title">Griglia Energetica Avanzata</string>
+<string name="CO.Advanced_Power_Grid.00.Title">Griglia Energetica Avanzata</string>
+<string name="CO.Advanced_Power_Grid.01.Paragraph">Abbiamo apportato ulteriori miglioramenti alla nostra infrastruttura di alimentazione, tra cui un nuovo Accumulatore Energetico e Trasmettitore di Energia Laser.</string>
+<string name="CO.Advanced_Research.Title">Ricerca Avanzata</string>
+<string name="CO.Advanced_Research.00.Title">Ricerca Avanzata</string>
+<string name="CO.Advanced_Research.01.Paragraph">Ora abbiamo un progetto per un laboratorio di ricerca e le macchine di assemblaggio necessarie a fornirgli le capsule di sperimentazione.</string>
+<string name="CO.Aesthetics.Title">Estetica</string>
+<string name="CO.Aesthetics.00.Title">Estetica</string>
+<string name="CO.Base_Defence.Title">Difesa della Base</string>
+<string name="CO.Base_Defence.00.Title">Difesa della Base</string>
+<string name="CO.Base_Defence.01.Paragraph">Ora possiamo portare la LIBERTÀ su questo pianeta!</string>
+<string name="CO.Basic_Mining_Upgrades_I.02.Header">Fonderia di Base</string>
+</resources>
