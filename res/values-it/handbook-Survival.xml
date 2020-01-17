@@ -1,2 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="SU.01Welcome.Title">Guida di Partenza</string>
+<string name="SU.01Welcome.00.Title">Benvenuto in FortressCraft Evolved</string>
+<string name="SU.01Welcome.01.Header">Modalità Sopravvivenza</string>
+<string name="SU.01Welcome.02.Paragraph">Sei appena fuggito dalla Stazione Orbitale su una navetta di fuga danneggiata. La navetta non è sopravvissuta all\'atterraggio, ma per fortuna tu sei riuscito a cavartela. Ora dovrai cercare di sopravvivere su questo terribile pianeta alieno!</string>
+<string name="SU.01Welcome.03.Header">Per Iniziare</string>
+<string name="SU.01Welcome.04.Paragraph">La tua tuta all\'avanguardia può mantenerti al sicuro anche a queste basse temperature, ma richiede energia per farlo. Recati al luogo dell\'incidente della nave il prima possibile, potrebbero esserci delle risorse utili a sopravvivere per un breve periodo.</string>
+<string name="SU.01Welcome.05.Header">Controlli</string>
+<string name="SU.01Welcome.06.Paragraph">I comandi di gioco sono elencati in una guida a parte a cui puoi accedere da qui sotto.</string>
+<string name="SU.01Welcome.07.Header">Consigli di Sopravvivenza</string>
+<string name="SU.01Welcome.08.Paragraph">Per coloro che non vogliono leggere tutta la guida, questi sono alcuni suggerimenti di gioco rapidi. Le pagine seguenti descrivono in dettaglio come iniziare.</string>
+<string name="SU.01Welcome.09.Paragraph">- La tuta è progettata per alimentarsi da sola durante il giorno grazie alla luce solare.
+- Nella tua area di partenza è presente un Hub di Alimentazione Centrale, usalo per trasformare le risorse raccolte in energia per caricare i macchinari adiacenti.
+- Puoi ricaricare l\'energia della tua tuta dall\'Hub di Alimentazione Centrale o premendo \'Q\' sull\'Accumulatore Energetico.
+- Interagisci (\"E\") con l\'impianto di produzione per vedere cosa puoi fare.
+- Crea torce per riscaldarti utilizzando la finestra Crafting (\"C\").
+- Utilizza lo strumento di scansione (\'M\') per scansionare i blocchi ed elaborarli nella Stazione di ricerca per scoprire nuove ricette.
+- Lo strumento di scansione può anche eseguire scansioni dell\'ambiente come il ping Materiale Sconosciuto per trovare nuovi minerali.
+- Presta molta attenzione alla velocità di consumo della batteria della tuta, un testo blu indica che il freddo estremo sta influenzando la tuta e un testo rosso indica calore estremo.
+- La torcia consuma energia. È ottima per esplorare ma non dimenticarla accesa!
+- Il carbone è il miglior combustibile da cui partire, ma se sei alle strette puoi bruciare anche la flora locale.
+- Potrebbe essere necessario scavare molto in profondità per trovare i minerali che stai cercando.
+- Hai un ampio raggio di costruzione, puoi sfruttarlo per posizionare le torce in grandi caverne.</string>
+<string name="SU.01Welcome.11.Paragraph">L\'Hub di Alimentazione Centrale è il tuo generatore primario di energia. Ha pannelli solari e può bruciare combustibile per generare energia. Può contenere un solo tipo di carburante alla volta, quindi è essenziale automatizzarne la consegna dei materiali combustibili. Ha una grande capacità di stoccaggio dell\'energia interna.</string>
+<string name="SU.01Welcome.12.Paragraph">L\'Accumulatore Energetico può immagazzinare 250 unità di energia e distribuirla alle macchine adiacenti.</string>
+<string name="SU.01Welcome.13.Paragraph">Per acquisire barre utili alla fabbricazione di nuovi macchinari, è necessario lavorare i minerali nella Fonderia. Puoi interagire manualmente con essa o automatizzare la fornitura di materiali. Inizierà a fondere i minerali solo dopo aver ricevuto materiali sufficienti per la creazione di un lingotto.</string>
+<string name="SU.01Welcome.16.Header">Trovare i tuoi primi minerali</string>
+<string name="SU.01Welcome.19.Paragraph">Una volta trovata una vena di minerale vicino a te nel sottosuolo, puoi scansionarla ed elaborarla per aggiungerla al tuo scanner. Da quel momento in poi, effettuando una scansione di Minerali con lo scanner, verrà evidenziato quel tipo di minerale.</string>
+<string name="SU.01Welcome.20.Header">Estrarre minerali</string>
+<string name="SU.01Welcome.24.Header">Automatizzare l\'Estrazione</string>
+<string name="SU.02FirstNight.Title">Sopravvivere la Prima Notte</string>
+<string name="SU.02FirstNight.00.Title">Sopravvivere la prima notte</string>
+<string name="SU.02FirstNight.01.Paragraph">Questa è una guida passo passo per sopravvivere alla prima notte. Se non vuoi essere viziato, allora smetti di leggere ora!</string>
+<string name="SU.02FirstNight.02.Header">Completare il Tutorial</string>
+<string name="SU.02FirstNight.05.Paragraph">Apri il tuo inventario premendo \'I\'. Inizierai con 5 torce e 3 Estrattori di Minerali. Quest\'ultimi sono macchine preziose per l\'estrazione di minerali, ma non di uso immediato per la sopravvivenza. Le torce invece sono assolutamente essenziali.</string>
+<string name="SU.02FirstNight.07.Header">Ottenere carburante</string>
+<string name="SU.02FirstNight.12.Header">Esplora i dintorni</string>
+<string name="SU.02FirstNight.17.Header">Ricerca i dintorni</string>
+<string name="SU.02FirstNight.20.Header">Scansiona i dintorni</string>
+<string name="SU.02FirstNight.27.Paragraph">Usa il tuo rampino (\'F\') per risalire rapidamente dalle buche che hai scavato.</string>
+<string name="SU.02FirstNight.29.Header">Raccogli Carbone</string>
+<string name="SU.02FirstNight.37.Header">Obbiettivo completato!</string>
+<string name="SU.03Controls.Title">Comandi</string>
+<string name="SU.03Controls.00.Title">Comandi</string>
+<string name="SU.03Controls.02.Paragraph">Alcuni comandi non saranno disponibili fino al completamento del tutorial.</string>
+<string name="SU.03Controls.03.Header">Comandi Essenziali</string>
+<string name="SU.03Controls.04.Left">"W, A, S &amp; D: Movimento
+  Spazio: Salta
+  H: Guida
+  Esc: Menu principale
+ 
+  X: passa alla Build Gun
+  PSM: Costruisci Blocco
+  PDM: Rimuovi Blocco
+ 
+  M: Passa allo Strumento di Scansione
+  PSM: Scansiona Materiale
+  PDM: Scansiona Blocco
+ "</string>
+<string name="SU.03Controls.05.Right">"I: Apri Inventario
+  C: Finestra di Crafting
+  F: Rampino
+  G: Lancia Glowstick
+ 
+  E: Interagisci con i Macchinari
+  Q: Estrai dai Macchinari
+  R: Ruota Macchina
+ 
+  V: Passa alla Ray Gun
+  PSM: Fuoco
+  PDM: Colpo Caricato
+ "</string>
+<string name="SU.03Controls.06.Paragraph">(PSM = Pulsante Sinistro del Mouse, PDM = Pulsante Destro del Mouse)</string>
+<string name="SU.03Controls.07.Header">Personalizzare i Comandi</string>
+<string name="SU.03Controls.09.Header">Movimento e Visuale</string>
+<string name="SU.03Controls.10.Left">"W: Muoviti in Avanti
+  S: Muoviti Indietro
+  A: Muoviti a Sinistra
+  D: Muoviti a Destra"</string>
+<string name="SU.03Controls.11.Right">"Spazio: Salta
+  Mouse: Guardati Intorno
+  U: Guida Carrello da Miniera
+  Z: Zoom"</string>
+<string name="SU.03Controls.12.Header">Armi e Strumenti</string>
+<string name="SU.03Controls.13.Left">"X: Passa alla Build Gun
+  V: Passa alla Ray Gun
+  B: Passa alla Steadycam"</string>
+<string name="SU.03Controls.15.Header">Inventario e Barra Rapida</string>
+<string name="SU.03Controls.18.Header">Funzioni Tuta</string>
+<string name="SU.03Controls.21.Header">Macchinari</string>
+<string name="SU.03Controls.24.Header">Multigiocatore</string>
+<string name="SU.03Controls.27.Left">PSM: Costruisci Blocco
+ PDM: Rimuovi Blocco
+ PCM : Raccogli Blocco Attuale</string>
+<string name="SU.03Controls.29.Header">Strumento di Scansione</string>
+<string name="SU.03Controls.32.Left">PSM: Spara Colpo Singolo</string>
+<string name="SU.03Controls.33.Right">Tieni premuto PSM: Colpo Caricato</string>
+<string name="SU.03Controls.34.Header">Altri</string>
+<string name="SU.03Controls.35.Left">Esc: Menu Principale
+ Ctrl-M: Attiva musica</string>
+<string name="SU.04UnknownMaterials.Title">Materiali Sconosciuti</string>
+<string name="SU.04UnknownMaterials.00.Title">Materiali Sconosciuti</string>
+<string name="SU.04UnknownMaterials.01.Header">Cosa sono i Materiali Sconosciuti?</string>
+<string name="SU.04UnknownMaterials.03.Header">Lavorazione dei Materiali Sconosciuti</string>
+<string name="SU.04UnknownMaterials.05.Header">Progressione</string>
+<string name="SU.05LaboratoryResearch.Title">Ricerche di Laboratorio</string>
+<string name="SU.05LaboratoryResearch.00.Title">Ricerche di Laboratorio</string>
+<string name="SU.05LaboratoryResearch.02.Header">Costruire un Laboratorio</string>
+<string name="SU.05LaboratoryResearch.04.Header">Dare energia al Laboratorio</string>
+<string name="SU.05LaboratoryResearch.06.Header">Progetti Iniziali</string>
+<string name="SU.06ExperimentalPods.07.Header">Creare Piastre Metalliche</string>
+<string name="SU.07Mynocks.Title">Infestazione Mynock</string>
+<string name="SU.07Mynocks.00.Title">Infestazione Mynock</string>
+<string name="SU.08VideoTutorials.Title">Video Tutorial!</string>
+<string name="SU.08VideoTutorials.00.Title">Video Tutorial</string>
+</resources>
