@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="CR.01Welcome.Title">Guida di Partenza</string>
+<string name="CR.01Welcome.00.Title">Benvenuto in FortressCraft Evolved</string>
+<string name="CR.01Welcome.01.Header">Modalità Creativa</string>
+<string name="CR.01Welcome.02.Paragraph">Benvenuto nella nostra Modalità Creativa! I comandi sono elencati qui sotto, puoi trovare la guida per gli strumenti nelle pagine seguenti.</string>
+<string name="CR.01Welcome.03.Header">Comandi</string>
+<string name="CR.01Welcome.04.Left">"W, A, S &amp; D: Movimento
+  Spazio: Salta
+Spazio x 2: Attiva Modalità Jetpack
+  Q: Vola Giù
+  Shift: Spinta
+  Terra da spegnere
+Esc: Menu di Pausa
+H: Schermata di Aiuto"</string>
+<string name="CR.01Welcome.05.Right">Z: Zoom
+X: Pistola Costruttrice
+C: Bastone Meteorologico
+N: Pistola da Verniciatura
+F10: Entra in Modalità SuperBuild
+F11: Entra in Modalità Copia/Incolla
+=: Schermata Selezione Blocco
+F1-F7: Cambia la Scheda Hotbar
+1-10: Seleziona Slot Hotbar</string>
+<string name="CR.01Welcome.09.Header">Pistola Costruttrice</string>
+</resources>
