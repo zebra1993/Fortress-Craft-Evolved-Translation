@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="Partial_Language_Support">Benvenuto! La traduzione per la tua lingua non è ancora completa. Per tornare alla lingua Inglese, premi il tasto \"English\" qui sotto!</string>
     <string name="Translation_Incomplete">Traduzione Incompleta!</string>
-    <string name="Language_Name">Inglese</string><string name="Frozen_Factory">Fabbrica Congelata</string>
+    <string name="Language_Name">Italiano</string><string name="Frozen_Factory">Fabbrica Congelata</string>
     <string name="Dapper_Pack">Pacchetto Eleganza</string>
     <string name="Skin_Pack">Pacchetto Skin</string>
     <string name="Installed">Installato</string>
     <string name="Not_Installed">Non Installato</string>
-    <string name="Multiplayer_Sign">&lt;Multigiocatore</string>
+    <string name="Multiplayer_Sign">Multigiocatore</string>
     <string name="Quit_Sign">Esci</string>
     <string name="World_Sign">Seleziona Mondo</string>
     <string name="Create_World">Crea Mondo</string>
     <string name="Spacebar">Barra Spaziatrice</string>
     <string name="Resource_Level">Quantità Risorse</string>
     <string name="Power_Level">Livello Energia</string>
-    <string name="Conveyor_Speed">Velocità Nastri Trasportatori</string>
+    <string name="Conveyor_Speed">Velocità Trasportatori</string>
     <string name="Day_Night_Cycle">Ciclo Giorno/Notte</string>
-    <string name="Mob_Difficulty">Difficoltà Assalti</string>
+    <string name="Mob_Difficulty">Difficoltà Nemici</string>
     <string name="Death_Mode">Modalità Morte</string>
     <string name="Rush_Mode">Modalità Rapida</string>
     <string name="Flatland">Terra Piatta</string>
@@ -112,15 +112,15 @@ SquishCore è semplice; muori, rimani morto</string>
 
     <string name="Hours">ore</string>
 
-    <string name="Server_Name">Nome dei Server</string>
-    <string name="Server_Management">Gestione del Server</string>
+    <string name="Server_Name">Nome Server</string>
+    <string name="Server_Management">Gestione Server</string>
     <string name="Game_Mode">Modalità di gioco</string>
     <string name="Dedicated">Dedicato</string>
     <string name="Players">Giocatori</string>
     <string name="Ping">Ping</string>
     <string name="Unable_To_Join">Impossibile unirsi</string>
 
-    <string name="Join">Unirsi</string>
+    <string name="Join">Connettiti</string>
     <string name="Delete">Cancella</string>
     <string name="Page">Pagina</string>
 
@@ -139,9 +139,9 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="High Energy Composite Fuel">Carburante Composito ad Alta Energia</string>
     <string name="Empty Metal Tube">Tubo di Metallo Vuoto</string>
     <string name="Empty Metal Tubes">Tubi di Metallo Vuoti</string>
-    <string name="Empty Fuel Canister">Tanica di Combustibile Vuota</string>
-    <string name="Empty Fuel Canisters">Taniche di Combustibile Vuote</string>
-    <string name="High Octane Fuel">Combustibile ad Alti Ottani</string>
+    <string name="Empty Fuel Canister">Tanica di Carburante Vuota</string>
+    <string name="Empty Fuel Canisters">Taniche di Carburante Vuote</string>
+    <string name="High Octane Fuel">Combustibile ad Alto Ottano</string>
     <string name="Gold Bar">Lingotto d\'Oro</string>
     <string name="Gold Bars">Lingotti d\'Oro</string>
     <string name="Tin Bar">Lingotto di Stagno</string>
@@ -150,27 +150,27 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Nickel Bars">Lingotti di Nichel</string>
     <string name="Titanium Bar">Lingotto di Titanio</string>
     <string name="Titanium Bars">Lingotti di Titanio</string>
-    <string name="Low Grade Steel Bar">Lingotto di Acciaio Dolce</string>
-    <string name="Low Grade Steel Bars">Lingotti di Acciaio Dolce</string>
-    <string name="Steel Ball Bearing">Cuscinetto a Sfera</string>
-    <string name="Steel Ball Bearings">Cuscinetti a Sfera</string>
+    <string name="Low Grade Steel Bar">Lingotto di Acciaio di Bassa Qualità</string>
+    <string name="Low Grade Steel Bars">Lingotti di Acciaio di Bassa Qualità</string>
+    <string name="Steel Ball Bearing">Cuscinetto a Sfera d\'Acciaio</string>
+    <string name="Steel Ball Bearings">Cuscinetti a Sfera d\'Acciaio</string>
     <string name="Iron Gear">Ingranaggio di Ferro</string>
     <string name="Iron Gears">Ingranaggi di Ferro</string>
     <string name="Copper Wire (Old)">Filo di Rame (Vecchio)</string>
     <string name="Servo Motor">Servomotore</string>
     <string name="Servo Motors">Servomotori</string>
-    <string name="Lightweight Machine Plate">Piastra Leggera per i Macchinari</string>
-    <string name="Lightweight Machine Plates">Piastre Leggere per i Macchinari</string>
-    <string name="Lightweight Machine Housing">Struttura leggera dei Macchinari</string>
-    <string name="Lightweight Machine Housings">Strutture Leggere dei Macchinari</string>
-    <string name="Basic Minecart">Carrello da Miniera di Base</string>
-    <string name="Basic Minecarts">Carrelli da Miniera di Base</string>
-    <string name="Fast Minecart">Carrello da Miniera Veloce</string>
-    <string name="Fast Minecarts">Carelli da Miniera Veloci</string>
-    <string name="Large Minecart">Carrello da Miniera Capiente</string>
-    <string name="Large Minecarts">Carrelli da Miniera Capienti</string>
-    <string name="Bulk Minecart">Carrello da Miniera per Grandi Volumi</string>
-    <string name="Bulk Minecarts">Carrelli da Miniera per Grandi Volumi</string>
+    <string name="Lightweight Machine Plate">Piastra Macchina Leggera</string>
+    <string name="Lightweight Machine Plates">Piastre Macchina Leggere</string>
+    <string name="Lightweight Machine Housing">Struttura Leggera Macchinario</string>
+    <string name="Lightweight Machine Housings">Strutture Leggere Macchinario</string>
+    <string name="Basic Minecart">Carrello Minerario di Base</string>
+    <string name="Basic Minecarts">Carrelli Minierari di Base</string>
+    <string name="Fast Minecart">Carrello Minerario Veloce</string>
+    <string name="Fast Minecarts">Carelli Minerari Veloci</string>
+    <string name="Large Minecart">Carrello Minerario Capiente</string>
+    <string name="Large Minecarts">Carrelli Minierari Capienti</string>
+    <string name="Bulk Minecart">Carrello Minerario ad Alta Capacità</string>
+    <string name="Bulk Minecarts">Carrelli Minerari ad Alta Capacità</string>
     <string name="Tour Cart">Carrello Turistico</string>
     <string name="Tour Carts">Carrelli Turistici</string>
     <string name="Copper Wire">Filo di Rame</string>
@@ -189,17 +189,17 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Titanium Wires">Fili di Titanio</string>
     <string name="Steel Cutter Head">Testa da Taglio in Acciaio</string>
     <string name="Crystal Cutter Head">Testa da Taglio in Cristallo</string>
-    <string name="Organic Cutter Head">Testa da Taglio Biologica</string>
+    <string name="Organic Cutter Head">Testa da Taglio Organica</string>
     <string name="Plasma Cutter Head">Testa da Taglio al Plasma</string>
     <string name="Location Marker">Indicatore di Posizione</string>
-    <string name="Glow Stick">Stecca Fluorescente</string>
-    <string name="Glow Sticks">Stecche Fluorescenti</string>
-    <string name="Mods">Modifiche</string>
+    <string name="Glow Stick">Glowstick</string>
+    <string name="Glow Sticks">Glowstick</string>
+    <string name="Mods">Mod</string>
     <string name="Chargeable Explosive">Esplosivo Caricabile</string>
     <string name="Chargeable Explosives">Esplosivi Caricabili</string>
     <string name="Basic Experimental Pod">Capsula Sperimentale di Base</string>
     <string name="Basic Experimental Pods">Capsule Sperimentali di Base</string>
-    <string name="Simplified Experimental Pod">Capsula Spermentale Semplice</string>
+    <string name="Simplified Experimental Pod">Capsula Sperimentale Semplice</string>
     <string name="Simplified Experimental Pods">Capsule Sperimentali Semplici</string>
     <string name="Intermediate Experimental Pod">Capsula Sperimentale Intermedia</string>
     <string name="Intermediate Experimental Pods">Capsule Sperimentali Intermedie</string>
@@ -239,20 +239,20 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Nickel Plates">Piastre di Nichel</string>
     <string name="Titanium Plate">Piastra di Titanio</string>
     <string name="Titanium Plates">Piastre di Titanio</string>
-    <string name="Copper Housing">Alloggio in Rame</string>
-    <string name="Copper Housings">Alloggi in Rame</string>
-    <string name="Tin Housing">Alloggio in Stagno</string>
-    <string name="Tin Housings">Alloggi in Stagno</string>
-    <string name="Iron Housing">Alloggio in Ferro</string>
-    <string name="Iron Housings">Alloggi in Ferro</string>
-    <string name="Lithium Housing">Alloggio in Litio</string>
-    <string name="Lithium Housings">Alloggi in Litio</string>
-    <string name="Gold Housing">Alloggio in Oro</string>
-    <string name="Gold Housings">Alloggi in Oro</string>
-    <string name="Titanium Housing">Alloggio in Titanio</string>
-    <string name="Titanium Housings">Alloggi in Titanio</string>
-    <string name="Nickel Housing">Alloggio in Nichel</string>
-    <string name="Nickel Housings">Alloggi in Nichel</string>
+    <string name="Copper Housing">Alloggiamento in Rame</string>
+    <string name="Copper Housings">Alloggiamenti in Rame</string>
+    <string name="Tin Housing">Alloggiamento in Stagno</string>
+    <string name="Tin Housings">Alloggiamenti in Stagno</string>
+    <string name="Iron Housing">Alloggiamento in Ferro</string>
+    <string name="Iron Housings">Alloggiamenti in Ferro</string>
+    <string name="Lithium Housing">Alloggiamento in Litio</string>
+    <string name="Lithium Housings">Alloggiamenti in Litio</string>
+    <string name="Gold Housing">Alloggiamento in Oro</string>
+    <string name="Gold Housings">Alloggiamenti in Oro</string>
+    <string name="Titanium Housing">Alloggiamento in Titanio</string>
+    <string name="Titanium Housings">Alloggiamenti in Titanio</string>
+    <string name="Nickel Housing">Alloggiamento in Nichel</string>
+    <string name="Nickel Housings">Alloggiamenti in Nichel</string>
     <string name="Basic PCB">CS Base</string>
     <string name="Basic PCBs">CS Base</string>
     <string name="Primary PCB">CS Principale</string>
@@ -281,8 +281,8 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Nickel Pipes">Tubi di Nichel</string>
     <string name="Titanium Pipe">Tubo di Titanio</string>
     <string name="Titanium Pipes">Tubi di Titanio</string>
-    <string name="Crystal Fiber Mesh">Maglia di Fibra di Cristallo</string>
-    <string name="Crystal Fiber Meshes">Maglie di Fibra di Cristallo</string>
+    <string name="Crystal Fiber Mesh">Maglia in Fibra di Cristallo</string>
+    <string name="Crystal Fiber Meshes">Maglie in Fibra di Cristallo</string>
     <string name="Crystal Clock">Oscillatore di Cristallo</string>
     <string name="Crystal Clocks">Oscillatori di Cristallo</string>
     <string name="Overclocked Crystal Clock">Oscillatore di Cristallo Migliorato</string>
@@ -294,83 +294,83 @@ SquishCore è semplice; muori, rimani morto</string>
     <string name="Bulk Cargo Lift">Montacarico per Grandi Volumi</string>
     <string name="Bulk Cargo Lifts">Montacarichi per Grandi Volumi</string>
     <string name="Solar Cell MK1">Cella Solare MK1</string>
-    <string name="Suit Headlight MK1">Faro MK1 per Tuta</string>
-    <string name="Suit Headlights MK1">Fari MK1 per Tuta</string>
-    <string name="Suit Power Pack MK1">Alimentatore MK1 della Tuta</string>
-    <string name="Suit Power Packs MK1">Alimentarori MK1 per la Tuta</string>
-    <string name="Suit Build Module MK1">Struttura dei Moduli MK1 per la Tuta</string>
-    <string name="Suit Build Modules MK1">Strutture dei Moduli MK1 per le Tute</string>
-    <string name="Suit Collection Module MK1">Raccolta dei Moduli MK1 delle Tute</string>
-    <string name="Suit Collection Modules MK1">Raccolte dei Moduli MK1</string>
-    <string name="Suit Insulation MK1">Isolante MK1 per la tuta</string>
-    <string name="Suit Insulation Modules MK1">Moduli di Isolamento MK1 delle Tute</string>
-    <string name="Jet Pack">Jet Pack</string>
-    <string name="Toxic Particle Filter">Filtro per Particelle Tossiche</string>
-    <string name="Toxic Particle Filters">Filtri per Particelle Tossiche</string>
-    <string name="Suit Power Pack MK2">Alimentatore MK2 per la Tuta</string>
-    <string name="Suit Power Packs MK2">Alimentatori MK2 per la Tuta</string>
-    <string name="ARTHER Solar Panel">Pannello Solare di ARTHER</string>
-    <string name="ARTHER Upgrade Pack">Pacchetto di Aggiornamenti di ARTHER</string>
-    <string name="ARTHER Upgrade Packs">Pacchetti di Aggiornamenti di ARTHER</string>
-    <string name="ARTHER Dapper Hat">Cappello Elegante per ARTHER</string>
-    <string name="ARTHER Dapper Hats">Cappelli Eleganti per ARTHER</string>
+    <string name="Suit Headlight MK1">Faro MK1 Tuta</string>
+    <string name="Suit Headlights MK1">Fari MK1 Tuta</string>
+    <string name="Suit Power Pack MK1">Alimentatore MK1 Tuta</string>
+    <string name="Suit Power Packs MK1">Alimentatori MK1 Tuta</string>
+    <string name="Suit Build Module MK1">Modulo di Costruzione MK1 Tuta</string>
+    <string name="Suit Build Modules MK1">Moduli di Costruzione MK1 Tuta</string>
+    <string name="Suit Collection Module MK1">Modulo di Raccolta MK1 Tuta</string>
+    <string name="Suit Collection Modules MK1">Moduli di Raccolta MK1 Tuta</string>
+    <string name="Suit Insulation MK1">Isolante MK1 Tuta</string>
+    <string name="Suit Insulation Modules MK1">Moduli Isolanti MK1 Tuta</string>
+    <string name="Jet Pack">Jetpack</string>
+    <string name="Toxic Particle Filter">Filtro Particelle Tossiche</string>
+    <string name="Toxic Particle Filters">Filtri Particelle Tossiche</string>
+    <string name="Suit Power Pack MK2">Alimentatore MK2 Tuta</string>
+    <string name="Suit Power Packs MK2">Alimentatori MK2 Tuta</string>
+    <string name="ARTHER Solar Panel">Pannello Solare ARTHER</string>
+    <string name="ARTHER Upgrade Pack">Pacchetto Aggiornamento ARTHER</string>
+    <string name="ARTHER Upgrade Packs">Pacchetti Aggiornamento ARTHER</string>
+    <string name="ARTHER Dapper Hat">Cappello Elegante ARTHER</string>
+    <string name="ARTHER Dapper Hats">Cappelli Eleganti ARTHER</string>
     <string name="ARTHER Dapper Monocle">Monocolo Elegante ARTHER</string>
     <string name="ARTHER Dapper Monocles">Monocoli Eleganti ARTHER</string>
-    <string name="ARTHER Dapper Moustache">Baffi Eleganti per ARTHER</string>
-    <string name="ARTHER Dapper Moustaches">Baffi Eleganti per ARTHER</string>
-    <string name="ARTHER Dapper Pack">Pacchetto per l\'Eleganza di ARTHER</string>
-    <string name="ARTHER Dapper Packs">Pacchetti per l\'Eleganza di ARTHER</string>
-    <string name="ARTHER Dapper Upgrade Pack">Aggiornamento Pacchetto per l\'Eleganza di ARTHER</string>
-    <string name="ARTHER Dapper Upgrade Packs">Aggiornamento Pacchetti per l\'Eleganza di ARTHER</string>
-    <string name="ARTHER Ghost Costume">Costume da Fantasma per ARTHER</string>
-    <string name="ARTHER Ghost Costumes">Costumi da Fantasma per ARTHER</string>
-    <string name="ARTHER Skeleton Mask">Maschera da Scheletro per ARTHER</string>
-    <string name="ARTHER Skeleton Masks">Maschere da Scheletro per ARTHER</string>
-    <string name="ARTHER Pumpkin Mask">Maschera da Zucca per ARTHER</string>
-    <string name="ARTHER Pumpkin Masks">Maschere da Zucca per ARTHER</string>
-    <string name="ARTHER Ghost Mask">Maschera da Fantasma per ARTHER</string>
-    <string name="ARTHER Ghost Masks">Maschere da Fantasma per ARTHER</string>
-    <string name="ARTHER Goblin Mask">Maschera da Goblin per ARTHER</string>
-    <string name="ARTHER Goblin Masks">Maschere da Goblin per ARTHER</string>
-    <string name="ARTHER Santa Mask">Maschera da Babbo Natale per ARTHER</string>
-    <string name="ARTHER Santa Masks">Maschere di Babbo Natale per ARTHER</string>
+    <string name="ARTHER Dapper Moustache">Baffi Eleganti ARTHER</string>
+    <string name="ARTHER Dapper Moustaches">Baffi Eleganti ARTHER</string>
+    <string name="ARTHER Dapper Pack">Pacchetto Eleganza ARTHER</string>
+    <string name="ARTHER Dapper Packs">Pacchetti Eleganza ARTHER</string>
+    <string name="ARTHER Dapper Upgrade Pack">Pacchetto Aggiornamento Eleganza ARTHER</string>
+    <string name="ARTHER Dapper Upgrade Packs">Pacchetti Aggiornamento Eleganza ARTHER</string>
+    <string name="ARTHER Ghost Costume">Costume da Fantasma ARTHER</string>
+    <string name="ARTHER Ghost Costumes">Costumi da Fantasma ARTHER</string>
+    <string name="ARTHER Skeleton Mask">Maschera da Scheletro ARTHER</string>
+    <string name="ARTHER Skeleton Masks">Maschere da Scheletro ARTHER</string>
+    <string name="ARTHER Pumpkin Mask">Maschera da Zucca ARTHER</string>
+    <string name="ARTHER Pumpkin Masks">Maschere da Zucca ARTHER</string>
+    <string name="ARTHER Ghost Mask">Maschera da Fantasma ARTHER</string>
+    <string name="ARTHER Ghost Masks">Maschere da Fantasma ARTHER</string>
+    <string name="ARTHER Goblin Mask">Maschera da Goblin ARTHER</string>
+    <string name="ARTHER Goblin Masks">Maschere da Goblin ARTHER</string>
+    <string name="ARTHER Santa Mask">Maschera da Babbo Natale ARTHER</string>
+    <string name="ARTHER Santa Masks">Maschere di Babbo Natale ARTHER</string>
     <string name="Resources">Risorse</string>
   <string name="Flatland_Disabled">Modalità Terra Piatta disabilitata.</string>
   <string name="Flatland_Enabled">Terra Piatta Abilitata! Rende piatta la terra, se il nome non fosse abbastanza chiaro!</string>
-  <string name="Hide_Host_Address">Nascondi l\'indirizzo del Host</string>
-  <string name="Host_Address">Indirizzo del Host</string>
-  <string name="Edit">Crea</string>
+  <string name="Hide_Host_Address">Nascondi Indirizzo Host</string>
+  <string name="Host_Address">Indirizzo Host</string>
+  <string name="Edit">Modifica</string>
   <string name="Add_New">Aggiungi Nuovo</string>
   <string name="SERVER NAME">NOME SERVER</string>
-  <string name="SERVER MANAGEMENT">GESTIONE DEL SERVER</string>
+  <string name="SERVER MANAGEMENT">GESTIONE SERVER</string>
   <string name="GAME MODE">MODALITÀ DI GIOCO</string>
   
-  <string name="HIDE HOST ADDRESS">NASCONDI L\'INDIRIZZO DEL HOST</string>
-  <string name="HOST ADDRESS">INDIRIZZO DEL HOST</string>
+  <string name="HIDE HOST ADDRESS">NASCONDI INDIRIZZO HOST</string>
+  <string name="HOST ADDRESS">INDIRIZZO HOST</string>
   <string name="PLAYERS">GIOCATORI</string>
   <string name="PING">PING</string>
   
   <string name="Charged Experimental Pod">Capsula Sperimentale Carica</string>
   <string name="Charged Experimental Pods">Capsule Sperimentali Cariche</string>
-  <string name="Jet Packs">Jet Pack</string>
-  <string name="SpiderBot Blaster">Blaster per Spiderbot</string>
+  <string name="Jet Packs">Jetpack</string>
+  <string name="SpiderBot Blaster">Blaster Spiderbot</string>
   <string name="SpiderBot Blasters">Blaster per SpiderBot</string>
-  <string name="SpiderBot Cannon">Cannone per SpiderBot</string>
-  <string name="SpiderBot Cannons">Cannoni per SpiderBot</string>
-  <string name="SpiderBot Particle Rifle">Fucile Particellare per SpiderBot</string>
-  <string name="SpiderBot Particle Rifles">Fucili Particellari per SpiderBot</string>
-  <string name="Charged Lithium Coil">Bobbina di Litio Carica</string>
-  <string name="Charged Lithium Coils">Bobbine di Litio Cariche</string>
-  <string name="Basic Drill Motor">Motore per la Trivella di Base</string>
-  <string name="Basic Drill Motors">Motori per la Trivella di Base</string>
-  <string name="Enhanced Drill Motor">Motore per la Trivella Migliorato</string>
-  <string name="Enhanced Drill Motors">Motori per la Trivella Migliorati</string>
-  <string name="Magnetic Drill Motor">Motore per la Trivella Magnetico</string>
-  <string name="Magnetic Drill Motors">Motori per la Trivella Magnetici</string>
-  <string name="Fusion Drill Motor">Motori per la Trivella a Fusione</string>
-  <string name="Fusion Drill Motors">Motori per la Trivella a Fusione</string>
-  <string name="Antimatter Drill Motor">Motore per la Trivella ad Antimateria</string>
-  <string name="Antimatter Drill Motors">Motori per la Trivella ad Antimateria</string>
+  <string name="SpiderBot Cannon">Cannone SpiderBot</string>
+  <string name="SpiderBot Cannons">Cannoni SpiderBot</string>
+  <string name="SpiderBot Particle Rifle">Fucile Particellare SpiderBot</string>
+  <string name="SpiderBot Particle Rifles">Fucili Particellari SpiderBot</string>
+  <string name="Charged Lithium Coil">Bobina di Litio Carica</string>
+  <string name="Charged Lithium Coils">Bobine di Litio Cariche</string>
+  <string name="Basic Drill Motor">Motore Base Trivella</string>
+  <string name="Basic Drill Motors">Motori Base Trivella</string>
+  <string name="Enhanced Drill Motor">Motore Trivella Migliorato</string>
+  <string name="Enhanced Drill Motors">Motori Trivella Migliorati</string>
+  <string name="Magnetic Drill Motor">Motore Trivella Magnetico</string>
+  <string name="Magnetic Drill Motors">Motori Trivella Magnetici</string>
+  <string name="Fusion Drill Motor">Motore a Fusione Trivella</string>
+  <string name="Fusion Drill Motors">Motori a Fusione Trivella</string>
+  <string name="Antimatter Drill Motor">Motore ad Antimateria Trivella</string>
+  <string name="Antimatter Drill Motors">Motori ad Antimateria Trivella</string>
   <string name="Diamond Focusing Lens">Lente al Diamante Focalizzata</string>
   <string name="Diamond Focusing Lenses">Lenti al Diamante Focalizzate</string>
   <string name="Emerald Focusing Lens">Lente allo Smeraldo Focalizzata</string>
@@ -381,13 +381,13 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Sapphire Focusing Lenses">Lenti allo Zaffiro Focalizzate</string>
   <string name="Topaz Focusing Lens">Lente al Topazio Focalizzata</string>
   <string name="Topaz Focusing Lenses">Lenti al Topazio Focalizzate</string>
-  <string name="Sugalite Focusing Lens">Lenti alla Sugilite Focalizzata</string>
-  <string name="Sugalite Focusing Lenses">Lenti alla Sugilite Focalizzata</string>
+  <string name="Sugalite Focusing Lens">Lenti alla Sugalite Focalizzata</string>
+  <string name="Sugalite Focusing Lenses">Lenti alla Sugalite Focalizzata</string>
   <string name="Crude Organic Lens">Lente Organica Grezza</string>
   <string name="Crude Organic Focusing Lenses">Lenti Organiche Grezze Focalizzate</string>
   <string name="Organic Lens">Lente Organica</string>
   <string name="Organic Focusing Lenses">Lenti Organiche Focalizzate</string>
-  <string name="Exceptional Organic Lens">Lente Organiche Eccezionale</string>
+  <string name="Exceptional Organic Lens">Lente Organica Eccezionale</string>
   <string name="Exceptional Organic Focusing Lenses">Lenti Organiche Eccezionali Focalizzate</string>
   <string name="Polished Chrome Lens">Lente Cromata Lucidata</string>
   <string name="Polished Chrome Lenses">Lenti Cromate Lucidate</string>
@@ -407,31 +407,31 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Empty Missiles">Missili Vuoti</string>
   <string name="Basic Missile">Missile Base</string>
   <string name="Basic Missiles">Missili Base</string>
-  <string name="Armour Piercing Missile">Blindatura Perforante per il Missile</string>
+  <string name="Armour Piercing Missile">Missile Penetrante</string>
   <string name="Armour Piercing Missiles">Blindatura Perforante per i Missili</string>
   <string name="Plasma-Imbued Missile">Missile al Plasma</string>
   <string name="Plasma-Imbued Missiles">Missili al Plasma</string>
-  <string name="CryoChilled Missile">Missile CrioCongelante</string>
-  <string name="CryoChilled Missiles">Missili CrioCongelanti</string>
+  <string name="CryoChilled Missile">Missile Congelante</string>
+  <string name="CryoChilled Missiles">Missili Congelanti</string>
   <string name="Mephitic Missile">Missile Mefitico</string>
   <string name="Mephitic Missiles">Missili Mefitici</string>
-  <string name="Cryo Bomb">Crio Bomba</string>
-  <string name="Cryo Bombs">Crio Bombe</string>
+  <string name="Cryo Bomb">Bomba Congelante</string>
+  <string name="Cryo Bombs">Bombe Congelanti</string>
   <string name="Compressed Magma">Magma Compresso</string>
   <string name="Freezon Gas">Gas Freezon</string>
   <string name="FreezonGas">FreezonGas</string>
-  <string name="Compressed Freezon Canister">Tanica di Freezon Compressa</string>
+  <string name="Compressed Freezon Canister">Tanica di Freezon Compresso</string>
   <string name="CompressedFreezon">Freezon Compresso</string>
-  <string name="Chlorine Gas">Gas di Cloro</string>
-  <string name="ChlorineGas">Gas Cloro</string>
+  <string name="Chlorine Gas">Cloro Gassoso</string>
+  <string name="ChlorineGas">Cloro Gassoso</string>
   <string name="Compressed Chlorine">Cloro Compresso</string>
   <string name="CompressedChlorine">Cloro Compresso</string>
   <string name="Sulphuric Gas">Gas Solforico</string>
   <string name="Sulphuric Gasses">Gas Solforico</string>
   <string name="Compressed Sulphur">Zolfo Compresso</string>
   <string name="Compressed Sulphurs">Zolfo Compresso</string>
-  <string name="Pristine Heavy Chitin">Chitina Forte Pura</string>
-  <string name="Ruined Heavy Chitin">Chitina Forte Rovinata</string>
+  <string name="Pristine Heavy Chitin">Chitina Pesante Pura</string>
+  <string name="Ruined Heavy Chitin">Chitina Pesante Rovinata</string>
   <string name="Pristine Light Chitin">Chitina Leggera Pura</string>
   <string name="Ruined Light Chitin">Chitina Leggera Rovinata</string>
   <string name="Pristine Stinger">Pungiglione Puro</string>
@@ -453,31 +453,31 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Hive Brain Matter">Materia Celebrale dell\'Alveare</string>
   <string name="Research Parts">Parti di Ricerca</string>
   <string name="Refined Liquid Resin">Resina Liquida Raffinata</string>
-  <string name="Spoiled Organic Remains">Resti Marcescenti Organici</string>
+  <string name="Spoiled Organic Remains">Resti Organici Marcescenti</string>
   <string name="Recombined Organic Matter">Materia Organica Ricombinata</string>
   <string name="Air">Aria</string>
   <string name="Grass">Erba</string>
   <string name="Rock">Roccia</string>
   <string name="Dirt">Terra</string>
-  <string name="Wooden Planks">Tavole di Legno</string>
+  <string name="Wooden Planks">Assi di Legno</string>
   <string name="Rubble">Pietrisco</string>
   <string name="Brick">Mattone</string>
   <string name="TNT">TNT</string>
   <string name="Trampoline">Trampolino</string>
   <string name="Reinforced Wood">Legno Rinforzato</string>
   <string name="Bedrock">Substrato Roccioso</string>
-  <string name="Bedrock_DESC">Questa roccia compatta sembra avere tracce di Ferro e Litio. Cerca nelle vicinanze dovresti trovare minerali utili!</string>
+  <string name="Bedrock_DESC">Questa roccia compatta sembra contenere tracce di Ferro e Litio. Cerca nelle vicinanze, potresti trovare minerali utili!</string>
   <string name="Sand">Sabbia</string>
-  <string name="Tree Trunk">Tronco di Albero</string>
+  <string name="Tree Trunk">Tronco d\'Albero</string>
   <string name="Window">Finestra</string>
   <string name="Leaves">Foglie</string>
   <string name="Organic Detritus">Detrito Organico</string>
-  <string name="Organic Detritus_DESC">Questo pasticcio denso e disgustoso copre l\'intero pianeta.</string>
+  <string name="Organic Detritus_DESC">Questa densa e disgustosa sostanza ricopre l\'intero pianeta.</string>
   <string name="Book Shelf">Libreria</string>
   <string name="Torch">Torcia</string>
   <string name="Snow">Neve</string>
   <string name="Reinforced Rock">Roccia Rinforzata</string>
-  <string name="Reinforced Cobble">Lastricato</string>
+  <string name="Reinforced Cobble">Pietrisco Rinforzato</string>
   <string name="Iron Box">Cassa di Ferro</string>
   <string name="Gold Box">Scatola d\'Oro</string>
   <string name="Mithril Box">Scatola di Mithril</string>
@@ -488,13 +488,13 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Field">Campo</string>
   <string name="Copy Paste">Copia Incolla</string>
   <string name="Electric Light(old)">Luce Elettrica (vecchia)</string>
-  <string name="Log Wall">Parete di Legno</string>
-  <string name="Small Bricks">Piccoli Mattoni</string>
+  <string name="Log Wall">Muro di Tronchi</string>
+  <string name="Small Bricks">Mattoni Piccoli</string>
   <string name="Magma">Magma</string>
   <string name="Plating">Placcatura</string>
-  <string name="Tiles">Titolo</string>
+  <string name="Tiles">Tegola</string>
   <string name="Marble Column">Colonna di Marmo</string>
-  <string name="Wooden Inlay">Legno Intarsiato</string>
+  <string name="Wooden Inlay">Intarsio in Legno</string>
   <string name="Red Canvas">Tela Rossa</string>
   <string name="Blue Canvas">Tela Blu</string>
   <string name="Green Canvas">Tela Verde</string>
@@ -505,7 +505,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="White Canvas">Tela Bianca</string>
   <string name="Grey Canvas">Tela Grigia</string>
   <string name="Black Canvas">Tela Nera</string>
-  <string name="Plum Canvas">Tela Color Prugna</string>
+  <string name="Plum Canvas">Tela Prugna</string>
   <string name="Brown Canvas">Tela Marrone</string>
   <string name="Beige Canvas">Tela Beige</string>
   <string name="Indigo Canvas">Tela Indaco</string>
@@ -515,15 +515,15 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="My First Roof">Il Mio Primo Tetto</string>
   <string name="My First Brick">Il Mio Primo Mattone</string>
   <string name="My First Window">La Mia Prima Finestra</string>
-  <string name="My First Basket">Il Mio Primo Canestro</string>
+  <string name="My First Basket">Il Mio Primo Cestino</string>
   <string name="My First Bookcase">La Mia Prima Libreria</string>
   <string name="My First Closet">Il Mio Primo Guardaroba</string>
-  <string name="My First Wallpaper">La Mia Prima Tappezzeria</string>
+  <string name="My First Wallpaper">La Mia Prima Carta da Parati</string>
   <string name="Water">Acqua</string>
   <string name="Space Bubbles">Bolle Spaziali</string>
   <string name="Space Panel">Pannello Spaziale</string>
-  <string name="Space Grille">Grillo Spaziale</string>
-  <string name="Space Column">Collonna Spaziale</string>
+  <string name="Space Grille">Griglia Spaziale</string>
+  <string name="Space Column">Colonna Spaziale</string>
   <string name="Soft Resin">Resina Soffice</string>
   <string name="Space Hatch">Boccaporto Spaziale</string>
   <string name="Space Window">Finestra Spaziale</string>
@@ -536,7 +536,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Emergency Light">Luce di Emergenza</string>
   <string name="Creative Water 1x1">Acqua Creativa 1x1</string>
   <string name="Creative Water 32x32">Acqua Creativa 32x32</string>
-  <string name="Creative Greenscreen 256x256">Greenscreen Creatico 256x256</string>
+  <string name="Creative Greenscreen 256x256">Greenscreen Creativo 256x256</string>
   <string name="Iron Ore">Minerale di Ferro</string>
   <string name="Lithium Ore">Minerale di Litio</string>
   <string name="Gold Ore">Minerale d\'Oro</string>
@@ -554,32 +554,32 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Red Leaves">Foglie Rosse</string>
   <string name="White Flowers">Fiori Bianchi</string>
   <string name="Pink Flowers">Fiori Rosa</string>
-  <string name="Dyed Marble">Marmo Colorato</string>
+  <string name="Dyed Marble">Marmo Tinto</string>
   <string name="Celtic Knot Tile">Piastrella a Nodo Celtico</string>
   <string name="Celtic Braid Pillar">Pilastro a Treccia Celtica</string>
   <string name="Celtic Gold Braid Pillar">Pilastro a Treccia Celtica in Oro</string>
-  <string name="Celtic Concrete Pillar">Pilastro in Calcestruzzo Celtico</string>
+  <string name="Celtic Concrete Pillar">Pilastro Celtico in Calcestruzzo</string>
   <string name="Celtic Cross">Croce Celtica</string>
   <string name="Celtic Curved Roof">Tetto a Volta Celtico</string>
   <string name="Celtic Tile Roof">Tetto a Tegole Celtiche</string>
   <string name="Celtic Black Braid">Treccia Celtica Nera</string>
-  <string name="Neon Circuit">Circuiti al Neon</string>
-  <string name="Neon Border">Bordi al Neon</string>
-  <string name="Neon Grid">Griglia di Neon</string>
-  <string name="Neon Core">Centro al Neon</string>
+  <string name="Neon Circuit">Circuito al Neon</string>
+  <string name="Neon Border">Bordo al Neon</string>
+  <string name="Neon Grid">Griglia Neon</string>
+  <string name="Neon Core">Nucleo al Neon</string>
   <string name="Ivy">Edera</string>
   <string name="Metal Siding 1">Rivestimento Metallico 1</string>
   <string name="GlassBlock">Blocco di Vetro</string>
-  <string name="Chevron Sign">Segno di Direzione</string>
+  <string name="Chevron Sign">Segnale Direzionale</string>
   <string name="Drain Grate">Griglia di Aspirazione</string>
-  <string name="Reinforced Concrete Wall">Muoro di Cemento Armato</string>
+  <string name="Reinforced Concrete Wall">Muro di Cemento Armato</string>
   <string name="Lava">Lava</string>
   <string name="Scorched Earth">Terra Arsa</string>
   <string name="Metal Siding 2">Rivestimento Metallico 2</string>
   <string name="Construction Crate">Cassa da Costruzione</string>
   <string name="Bound Wooden Crate">Cassa di Legno Rilegata</string>
   <string name="Bound Metal Crate">Cassa di Metallo Rilegata</string>
-  <string name="Paper Wrapped Crate">Cassa di Carta Rilegata</string>
+  <string name="Paper Wrapped Crate">Cassa Incartata</string>
   <string name="Wooden Crate">Cassa di Legno</string>
   <string name="Grooved Cement">Cemento Scanalato</string>
   <string name="Rubble_DESC">" "</string>
@@ -596,7 +596,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Snow_DESC">" "</string>
   <string name="Reinforced Rock_DESC">" "</string>
   <string name="Reinforced Cobble_DESC">" "</string>
-  <string name="Rough Hewn Rock (Old)">Roccia Sbozzata (Vecchio)</string>
+  <string name="Rough Hewn Rock (Old)">Roccia Sbozzata (Vecchia)</string>
   <string name="Rough Hewn Rock (Old)_DESC">" "</string>
   <string name="Iron Box_DESC">" "</string>
   <string name="Gold Box_DESC">" "</string>
@@ -626,7 +626,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Grey Canvas_DESC">" "</string>
   <string name="Black Canvas_DESC">" "</string>
   <string name="Plum Canvas_DESC">" "</string>
-  <string name="Marine Canvas">Tela Blu Mare</string>
+  <string name="Marine Canvas">Tela Blu Marino</string>
   <string name="Marine Canvas_DESC">" "</string>
   <string name="Brown Canvas_DESC">" "</string>
   <string name="Beige Canvas_DESC">" "</string>
@@ -651,7 +651,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Space Window_DESC">" "</string>
   <string name="Space Siding_DESC">" "</string>
   <string name="Green Light_DESC">" "</string>
-  <string name="Thunder Flash">Tuono e Lampo</string>
+  <string name="Thunder Flash">Lampo di Tuono</string>
   <string name="Thunder Flash_DESC">" "</string>
   <string name="Electric Arc_DESC">" "</string>
   <string name="Rainbow Light_DESC">" "</string>
@@ -730,7 +730,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="DapperWall_DESC">" "</string>
   <string name="TestDiffuse">Test Diffuso</string>
   <string name="TestDiffuse_DESC">" "</string>
-  <string name="Pumpkin Torch">Lampada a forma di Zucca</string>
+  <string name="Pumpkin Torch">Lanterna di Zucca</string>
   <string name="Pumpkin Torch_DESC">" "</string>
   <string name="Snowman">Pupazzo di Neve</string>
   <string name="Snowman_DESC">" "</string>
@@ -742,7 +742,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Crystal Deposit_DESC">" "</string>
   <string name="Biomass">Biomassa</string>
   <string name="Biomass_DESC">" "</string>
-  <string name="Chevron Sign 2">Segno di direzione 2</string>
+  <string name="Chevron Sign 2">Segnale Direzionale 2</string>
   <string name="Chevron Sign 2_DESC">" "</string>
   <string name="DesertSand">Sabbia del Deserto</string>
   <string name="DesertSand_DESC">" "</string>
@@ -759,28 +759,28 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Tundra">Tundra</string>
   <string name="Tundra_DESC">" "</string>
   <string name="Diamond Crystal">Cristallo di Diamante</string>
-  <string name="Diamond Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
+  <string name="Diamond Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
   <string name="Emerald Crystal">Cristallo di Smeraldo</string>
-  <string name="Emerald Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
+  <string name="Emerald Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
   <string name="Ruby Crystal">Cristallo di Rubino</string>
-  <string name="Ruby Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
+  <string name="Ruby Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
   <string name="Sapphire Crystal">Cristallo di Zaffiro</string>
-  <string name="Sapphire Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
+  <string name="Sapphire Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
   <string name="Topaz Crystal">Cristallo di Topazio</string>
-  <string name="Topaz Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
+  <string name="Topaz Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
   <string name="Sugalite Crystal">Cristallo di Sugilite</string>
-  <string name="Sugalite Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per varie tipi di lenti e altri oggetti utili.</string>
-  <string name="Rocket Framework">Impianto Missilistico</string>
+  <string name="Sugalite Crystal_DESC">Questi cristalli di bassa qualità possono essere lucidati e usati per la creazione di vari tipi di lenti e oggetti utili.</string>
+  <string name="Rocket Framework">Struttura Razzo</string>
   <string name="Rocket Framework_DESC">" "</string>
-  <string name="Basic Rocket Engine">Propulsore Missilistico Base</string>
+  <string name="Basic Rocket Engine">Propulsore di Base Razzo</string>
   <string name="Basic Rocket Engine_DESC">" "</string>
   <string name="Basic Fuel Tank">Tanica di Carburante Base</string>
   <string name="Basic Fuel Tank_DESC">" "</string>
-  <string name="Basic Rocket Stabiliser">Stabilizatore per Missili Base</string>
+  <string name="Basic Rocket Stabiliser">Stabilizzatore di Base Razzo</string>
   <string name="Basic Rocket Stabiliser_DESC">" "</string>
-  <string name="Basic Rocket Cargo Hold">Stiva da Carico per Missile Base</string>
+  <string name="Basic Rocket Cargo Hold">Stiva di Base per Razzo</string>
   <string name="Basic Rocket Cargo Hold_DESC">" "</string>
-  <string name="Basic Rocket SRB">Missile Base SRB</string>
+  <string name="Basic Rocket SRB">SRB di Base per Razzo</string>
   <string name="Basic Rocket SRB_DESC">" "</string>
   <string name="Basic Rocket Nosecone">Ogiva dei Missile di Base</string>
   <string name="Basic Rocket Nosecone_DESC">" "</string>
@@ -789,18 +789,18 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="LaunchPad">Rampa di Lancio</string>
   <string name="LaunchPad_DESC">" "</string>
   <string name="Orange GlowPod">Baccello Luminoso Arancione</string>
-  <string name="Orange GlowPod_DESC">Questo non sembra molto utile.</string>
+  <string name="Orange GlowPod_DESC">Non sembra essere molto utile.</string>
   <string name="Blue GlowPod">Baccello Luminoso Blu</string>
-  <string name="Blue GlowPod_DESC">Questa pianta sembra prosperare nell\'atmosfera più fredda. Forse andando leggermente più in profondità potrebbe produrre qualcosa di utile?</string>
+  <string name="Blue GlowPod_DESC">Questa pianta sembra prosperare in un\'atmosfera più fredda. Forse andando leggermente più in profondità potrebbe produrre qualcosa di utile?</string>
   <string name="Green GlowPod">Baccello Luminoso Verde</string>
-  <string name="Green GlowPod_DESC">Questa pianta sembra contenere ottimi filtri per trattare un\'atmosfera tossica. Forse andando leggermente più in profondità potrebbe produrre qualcosa di utile?</string>
+  <string name="Green GlowPod_DESC">Questa pianta sembra contenere ottimi filtri per il trattamento delle atmosfere tossiche. Forse andando leggermente più in profondità potrebbe produrre qualcosa di utile?</string>
   <string name="Purple GlowPod">Baccello Luminoso Porpora</string>
-  <string name="Purple GlowPod_DESC">Questo non sembra molto utile.</string>
+  <string name="Purple GlowPod_DESC">Non sembra essere molto utile.</string>
   <string name="GlowShroom">Fungo Luminoso</string>
-  <string name="GlowShroom_DESC">Questo non sembra molto utile.</string>
+  <string name="GlowShroom_DESC">Non sembra molto utile.</string>
   <string name="BaubleBerry">Bacca Ciondolante</string>
-  <string name="BaubleBerry_DESC">Questo non sembra molto utile ancora.</string>
-  <string name="Mandragora">Mandragola</string>
+  <string name="BaubleBerry_DESC">Non sembra essere molto utile ancora.</string>
+  <string name="Mandragora">Mandragora</string>
   <string name="Mandragora_DESC">Utile per Lenti Grezze.</string>
   <string name="UnderGrump">UnderGrump</string>
   <string name="UnderGrump_DESC">Questo non sembra molto utile ancora.</string>
@@ -937,31 +937,31 @@ Carica le strutture adiacenti.</string>
   <string name="Ore Extractor_DESC">Estrae efficacemente i minerali.
 Immagazzina 25 minerali.
 Estrae 1 minerale/min.</string>
-  <string name="Power Storage Block">Accumulatore di Energia</string>
+  <string name="Power Storage Block">Accumulatore Energetico</string>
   <string name="Power Storage Block_DESC">Immagazzina un po\' di energia.
 Riceve energia da altre fonti.
 Trasferisce energia a altre macchine.</string>
-  <string name="Power Storage MK2">Accumulatore di Energia MK2</string>
+  <string name="Power Storage MK2">Accumulatore Energetico MK2</string>
   <string name="Power Storage MK2_DESC">Immagazzina molta energia.
 Riceve energia da altre fonti.
 Trasferisce energia a altre macchine.</string>
-  <string name="Power Storage MK3">Accumulatore di Energia MK3</string>
+  <string name="Power Storage MK3">Accumulatore Energetico MK3</string>
   <string name="Power Storage MK3_DESC">Immagazzina molta energia.
 Riceve energia da altre fonti.
 Trasferisce energia a altre macchine.</string>
-  <string name="Organic Power Storage">Accumulatore Organico di Energia</string>
+  <string name="Organic Power Storage">Accumulatore di Energia Organica</string>
   <string name="Organic Power Storage_DESC">Puo solo trasferire energia lentamente.</string>
-  <string name="StorageHopper">Tramoggia</string>
+  <string name="StorageHopper">Tramoggia di Stoccaggio</string>
   <string name="StorageHopper_DESC">Immagazzina 100 Oggetti.
 Trasferimento Automatico.
 Con E cambi il modo di trasferimento.</string>
-  <string name="LogisticsHopper">Tramoggia Loggistica</string>
+  <string name="LogisticsHopper">Tramoggia Logistica</string>
   <string name="LogisticsHopper_DESC">Trasferimento Automatico 1 oggetto ogni 10 s.</string>
   <string name="MiniHopper">Mini Tramoggia</string>
   <string name="MiniHopper_DESC">Trasferimento Automatico 1 oggetto ogni 30 s.</string>
   <string name="CryoHopper">Tramoggia Criogenica</string>
   <string name="CryoHopper_DESC">Mantiene gli oggetti al freddo. Necessita di Energia. È più efficente in luoghi freddi.</string>
-  <string name="Motorised Logistics Hopper">Tramoggia Loggistica Motorizzata</string>
+  <string name="Motorised Logistics Hopper">Tramoggia Logistica Motorizzata</string>
   <string name="Motorised Logistics Hopper_DESC">Non implementato perché il nastro trasportatore è il fattore limitante, non la tramoggia. Ooops.</string>
   <string name="Solar Panel">Pannello Solare</string>
   <string name="Solar Panel_DESC">Genera energia di giorno
@@ -969,17 +969,17 @@ Carica le batterie adiacenti.</string>
   <string name="Organic Solar Panel">Pannello Solare Organico</string>
   <string name="Organic Solar Panel_DESC">Genera una minore quantita di energia durante la notte, dalla luce stellare.
 Carica le batterie adiacenti.</string>
-  <string name="Basic Laser Energy Transmitter">Trasmettitore Laser di Energia Base</string>
+  <string name="Basic Laser Energy Transmitter">Trasmettitore di Energia Laser Base</string>
   <string name="Basic Laser Energy Transmitter_DESC">Trasmissione di energia lenta a distanza.
 distanza max 32.
 Aggiornamento ASAP.</string>
-  <string name="Laser Energy Transmitter MK1">Trasmettitore Laser di Energia MK1</string>
+  <string name="Laser Energy Transmitter MK1">Trasmettitore di Energia Laser MK1</string>
   <string name="Laser Energy Transmitter MK1_DESC">Trasmissione di energia a distanza.
 Distanza max 64.
 Diretto alle batterie.</string>
-  <string name="Laser Energy Transmitter MK2">Trasmettitore Laser di Energia MK2</string>
+  <string name="Laser Energy Transmitter MK2">Trasmettitore di Energia Laser MK2</string>
   <string name="Laser Energy Transmitter MK2_DESC">Trasmette ancora più energia!</string>
-  <string name="Laser Energy Transmitter MK3">Trasmettitore Laser di Energia MK3</string>
+  <string name="Laser Energy Transmitter MK3">Trasmettitore di Energia Laser MK3</string>
   <string name="Laser Energy Transmitter MK3_DESC">Il più grande trasmettitore di energia a singolo blocco.</string>
   <string name="BFL-9000">BFL-9000</string>
   <string name="BFL-9000_DESC">Potente Laser da Scavo.
@@ -1221,9 +1221,9 @@ quando è collegata all\'Impianto di Produzione.</string>
   <string name="Orbital Energy Transmitter_DESC">Non pertinente</string>
   <string name="Auto Upgrader">Auto Aggiornante</string>
   <string name="Auto Upgrader_DESC">" "</string>
-  <string name="T4 Power Storage">L4 Accumulatore di Energia</string>
+  <string name="T4 Power Storage">L4 Accumulatore Energetico</string>
   <string name="T4 Power Storage_DESC">Non pertinente</string>
-  <string name="T5 Power Storage">L5 Accumulatore di Energia</string>
+  <string name="T5 Power Storage">L5 Accumulatore Energetico</string>
   <string name="T5 Power Storage_DESC">Non pertinente</string>
   <string name="Solar Panel MK2">Pannello Solare MK2</string>
   <string name="Solar Panel MK2_DESC">Non pertinente</string>
@@ -1252,16 +1252,16 @@ non implementato</string>
   <string name="Lift Compressor_DESC">Richiede Energia.
 Incrementa la veloctità di compressione dell\'ascensore L1
 aggiungilo all\'ascensore L1.</string>
-  <string name="MK1 Power Booster">Batteria di Energia MK1</string>
-  <string name="MK1 Power Boosters">Batterie di Energia MK1</string>
-  <string name="MK2 Power Booster">Batteria di Energia MK2</string>
-  <string name="MK2 Power Boosters">Batterie di Energia MK2</string>
-  <string name="MK3 Power Booster">Batteria di Energia MK3</string>
-  <string name="MK3 Power Boosters">Batterie di Energia MK3</string>
-  <string name="MK4 Power Booster">Batteria di Energia MK4</string>
-  <string name="MK4 Power Boosters">Batterie di Energia MK4</string>
-  <string name="MK5 Power Booster">Batteria di Energia MK5</string>
-  <string name="MK5 Power Boosters">Batterie di Energia MK5</string>
+  <string name="MK1 Power Booster">Amplificatore di Energia MK1</string>
+  <string name="MK1 Power Boosters">Amplificatori di Energia MK1</string>
+  <string name="MK2 Power Booster">Amplificatore di Energia MK2</string>
+  <string name="MK2 Power Boosters">Amplificatori di Energia MK2</string>
+  <string name="MK3 Power Booster">Amplificatore di Energia MK3</string>
+  <string name="MK3 Power Boosters">Amplificatori di Energia MK3</string>
+  <string name="MK4 Power Booster">Amplificatore di Energia MK4</string>
+  <string name="MK4 Power Boosters">Amplificatori di Energia MK4</string>
+  <string name="MK5 Power Booster">Amplificatore di Energia MK5</string>
+  <string name="MK5 Power Boosters">Amplificatori di Energia MK5</string>
   <string name="Lift Manual Control Module">Modulo di Controllo Manuale dell\'Ascensore</string>
   <string name="Lift Manual Control Module_DESC">"Consente di controllare manualmente l\'ascensore
 Usa \" ↖  ( o Home)\" e \"Fine (o End)\" per controllare!
@@ -1353,8 +1353,8 @@ Attaccalo all\'Ascensore L1 per usarlo."</string>
   <string name="MK5 PowerCore Charger_DESC">Autocrea una Batteria di Energia monouso. Questo da 2000 di energia a ARTHER. Metti l\'oggetto creato nella tua barra degli oggetti per usarlo.</string>
   <string name="Crystal Clock Maker">Creatore di Oscillatore di Cristallo</string>
   <string name="Crystal Clock Maker_DESC">Crea un oscillatore da un cristallo. Usato per mantenere l\'elettronica a lavorare ad un ritmo fisso.</string>
-  <string name="Cluster Missile">Cluster di Missili</string>
-  <string name="Cluster Missiles">Cluster di Missili</string>
+  <string name="Cluster Missile">Missili a Grappolo</string>
+  <string name="Cluster Missiles">Missili a Grappolo</string>
   <string name="OverClocker">Sovraoscillatore</string>
   <string name="OverClocker_DESC">Usa molta energia per ottenere un Sovraoscillatore di Cristallo. Usato da auto di fascia alta.</string>
   <string name="Crystal Coal Infuser">Infusore di Cristalli di Carbone</string>
@@ -1430,8 +1430,8 @@ Collega un Controllore di Raffineria per operare.</string>
   <string name="MK5 Battery Component_DESC">"Costruisci in una configurazione larga 5, alta 9, profonda 5  per il più grande accumulatore (richiesti 225 in totale)"</string>
   <string name="MK2 Solar Panel Component">MK2 Componenete del Pannello Solare</string>
   <string name="MK2 Solar Panel Component_DESC">Crea un Pannello Solare largo 3, alto 1, profondo 3. Può SOLO essere costruite sulla cima di macchinari di ultimo livello.</string>
-  <string name="T4 Energy Turret component">Componnente di Torrette Energetiche L4</string>
-  <string name="T4 Energy Turret component_DESC">Create una Torretta 3x3x3. Danno Elevato, e uso Elevato di Energia.</string>
+  <string name="T4 Energy Turret component">Componente Torretta Energetica L4</string>
+  <string name="T4 Energy Turret component_DESC">Crea una Torretta 3x3x3. Danno Elevato, Uso di Energia Elevato.</string>
   <string name="Fusion Reactor Pylon comp.">Componente del Pilone del Reattore di Fusione.</string>
   <string name="Fusion Reactor Pylon comp._DESC">Crea un pilone come parte del Reattore di Fusione. Usa il Monitor del Reattore di Fusione per guidare lo sviluppo.</string>
   <string name="Geothermal Generator comp.">Componente del Generatore Geotermico.</string>
@@ -1566,32 +1566,32 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="NanoDisintegrator">NanoDisintegratore</string>
   <string name="Blank Ore Ping">Campione di Minerale Vuoto</string>
   <string name="Blank Ore Pings">Campioni di Minerale Vuoti</string>
-  <string name="Coal Ping">Campione di Carbone</string>
-  <string name="Coal Pings">Campioni di Carbone</string>
-  <string name="Iron Ore Ping">Campione di Ferro</string>
-  <string name="Iron Ore Pings">Campioni di Ferro</string>
-  <string name="Copper Ore Ping">Campione di Rame</string>
-  <string name="Copper Ore Pings">Campioni di Rame</string>
-  <string name="Tin Ore Ping">Campione di Stagno</string>
-  <string name="Tin Ore Pings">Campioni di Stagno</string>
-  <string name="Lithium Ore Ping">Campione di Litio</string>
-  <string name="Lithium Ore Pings">Campioni di Litio</string>
-  <string name="Gold Ore Ping">Campione d\'Oro</string>
-  <string name="Gold Ore Pings">Campioni d\'Oro</string>
-  <string name="Nickel Ore Ping">Campione di Nichel</string>
-  <string name="Nickel Ore Pings">Campioni di Nichel</string>
-  <string name="Titanium Ore Ping">Campione di Titanio</string>
-  <string name="Titanium Ore Pings">Campioni di Titanio</string>
-  <string name="Crystal Deposit Ping">Campione di Cristallo</string>
-  <string name="Crystal Deposit Pings">Campioni di Cristallo</string>
-  <string name="Biomass Ping">Campione di Biomassa</string>
-  <string name="Biomass Pings">Campioni di Biomassa</string>
-  <string name="Resin Ping">Campione di Resina</string>
-  <string name="Resin Pings">Campioni di Resina</string>
-  <string name="Chromium Ping">Campione di Cromo</string>
-  <string name="Chromium Pings">Campioni di Cromo</string>
-  <string name="Molybdenum Ping">Campione di Molibdeno</string>
-  <string name="Molybdenum Pings">Campioni di Molibdeno</string>
+  <string name="Coal Ping">Segnale Carbone</string>
+  <string name="Coal Pings">Segnali Carbone</string>
+  <string name="Iron Ore Ping">Segnale Ferro</string>
+  <string name="Iron Ore Pings">Segnali Ferro</string>
+  <string name="Copper Ore Ping">Segnale Rame</string>
+  <string name="Copper Ore Pings">Segnali Rame</string>
+  <string name="Tin Ore Ping">Segnale Stagno</string>
+  <string name="Tin Ore Pings">Segnali Stagno</string>
+  <string name="Lithium Ore Ping">Segnale Litio</string>
+  <string name="Lithium Ore Pings">Segnali Litio</string>
+  <string name="Gold Ore Ping">Segnale Oro</string>
+  <string name="Gold Ore Pings">Segnali Oro</string>
+  <string name="Nickel Ore Ping">Segnale Nichel</string>
+  <string name="Nickel Ore Pings">Segnali Nichel</string>
+  <string name="Titanium Ore Ping">Segnale Titanio</string>
+  <string name="Titanium Ore Pings">Segnali Titanio</string>
+  <string name="Crystal Deposit Ping">Segnale Cristallo</string>
+  <string name="Crystal Deposit Pings">Segnali Cristallo</string>
+  <string name="Biomass Ping">Segnale Biomassa</string>
+  <string name="Biomass Pings">Segnali Biomassa</string>
+  <string name="Resin Ping">Segnale Resina</string>
+  <string name="Resin Pings">Segnale Resina</string>
+  <string name="Chromium Ping">Segnale Cromo</string>
+  <string name="Chromium Pings">Segnali Cromo</string>
+  <string name="Molybdenum Ping">Segnale Molibdeno</string>
+  <string name="Molybdenum Pings">Segnali Molibdeno</string>
   <string name="Creative Water 256x256">Acqua Creativa 256x256</string>
   <string name="NanoDisintegrator_DESC">Nanodisgregatore. Usalo per scavare perfettamente un\'area 3x3x3 anche del materiale più duro. Usalo con cura.</string>
   <string name="Ruined Organic Thief">Scippatore di Organico Rovinato</string>
@@ -1635,14 +1635,14 @@ Impossibile è la più difficile modalità, se muori, o se il tuo CPH viene dist
   <string name="Critter">Creatura</string>
   <string name="Waypoint Machine">Riferimento per Macchine</string>
   <string name="Waypoint Machine_DESC">Piazzalo e dagli energia per autogenerare un punto di riferimento. Sostituisci il nome del punto di riferimento piazzando un segnale vicino.</string>
-  <string name="Suit Cooler MK1">Refrigeratore MK1 per la Tuta</string>
-  <string name="Suit Heater MK1">Riscaldatore MK1 per la Tuta</string>
-  <string name="Build Gun V2">Pistola Costruttrice V2</string>
-  <string name="V2 Build Guns">V2 Pistole Costruttrici</string>
-  <string name="Build Gun V3">Pistola Costruttrice V3</string>
-  <string name="V3 Build Guns">V3 Pistole Costruttrici</string>
-  <string name="MK1 Suit Upgrade Module">Modulo di Miglioramenti MK1 per la Tuta</string>
-  <string name="MK1 Suit Upgrade Modules">Moduli di Miglioramenti MK1 della Tuta</string>
+  <string name="Suit Cooler MK1">Refrigeratore MK1 Tuta</string>
+  <string name="Suit Heater MK1">Riscaldatore MK1 Tuta</string>
+  <string name="Build Gun V2">Build Gun V2</string>
+  <string name="V2 Build Guns">Build Gun V2</string>
+  <string name="Build Gun V3">Build Gun V3</string>
+  <string name="V3 Build Guns">Build Gun V3</string>
+  <string name="MK1 Suit Upgrade Module">Modulo di Miglioramento MK1 Tuta</string>
+  <string name="MK1 Suit Upgrade Modules">Moduli di Miglioramento MK1 Tuta</string>
   <string name="ConstructoBot Direction">AutoCostruttore Direzionale</string>
   <string name="ConstructoBot Direction_DESC">Forza l\'AutoCostruttore a puntare in quella direzione.</string>
   <string name="ConstructoBot Cargo Control">Controllo del Carico dell\' Autocostruttore</string>
@@ -1750,8 +1750,8 @@ Richiede il cielo libero.</string>
   <string name="LogisticsHopper_CRAFT_HINT">Dispensa risorse abbastanza velocemente.</string>
   <string name="Storage Hopper_CRAFT_DESC">"Immagazzina 100 risorse e trasferisce velocemente. Usa per automatizzare le altre macchine. Imposta i permessi apropriati per garantire il corretto passaggio dei materiali.  Guarda il manuale."</string>
   <string name="Storage Hopper_CRAFT_HINT">Può essere attaccato a altre macchine per l\'automazione.</string>
-  <string name="Torch_CRAFT_DESC">Poco calore e luce.
- Usalo Per tenere la tua base calda.</string>
+  <string name="Torch_CRAFT_DESC">Riscaldamento e illuminazione di basso livello.
+ Usala per tenere calda la tua base.</string>
   <string name="Torch_CRAFT_HINT">Attenzione : Il fuoco è caldo!</string>
   <string name="Electric Light_CRAFT_DESC">Fornisce una fredda luce blu, e necessita di energia.</string>
   <string name="Electric Light_CRAFT_HINT">Proietta la luce a 180 gradi.</string>
@@ -1978,10 +1978,10 @@ Economico e Butto, ma affidabile*
   <string name="Jet Turbine Generator Housing_CRAFT_HINT">Costruisce in una forma 4x3, e 3 in altezza. Aggiungi l\'aspirazione sul lato frontale della macchina.</string>
   <string name="Jet Turbine Generator Intake_CRAFT_DESC">Aspira molta aria per la turbina. Piazzalo sul lato frontale del generatore alto 3m e largo 3m.</string>
   <string name="Jet Turbine Generator Intake_CRAFT_HINT">L\'Aspiratore del Generatore a Turbina e piazzato davanti al corpo in un 3x3 verticale.</string>
-  <string name="ARTHER Power Core_CRAFT_DESC">Sistema il danno ad ARTHER permettendogli di muoversi. Richiesto solo uno e deve essere messo nell\'inventario.</string>
-  <string name="ARTHER Power Core_CRAFT_HINT">Consente ad ARTHER di spostarsi di nuovo in modo affidabile. Ne serve solo 1 nel tuo inventario.</string>
-  <string name="ARTHER Power Core">Nucleo di ARTHER</string>
-  <string name="ARTHER Power Cores">Nuclei di ARTHER</string>
+  <string name="ARTHER Power Core_CRAFT_DESC">Ripara i danni di ARTHER permettendogli di muoversi. Ne è richiesto solo uno e deve essere trasportato nel tuo inventario.</string>
+  <string name="ARTHER Power Core_CRAFT_HINT">Consente ad ARTHER di spostarsi di nuovo in modo affidabile. Devi trasportarne 1 nel tuo inventario.</string>
+  <string name="ARTHER Power Core">Nucleo Energetico ARTHER</string>
+  <string name="ARTHER Power Cores">Nuclei Energetici ARTHER</string>
   <string name="ARTHER Battery Core_CRAFT_DESC">Consente a ARTHER di trasferire 8 volte più energia guando si esaurisce. Richiesto solo uno e deve essere messo nell\'inventario.</string>
   <string name="ARTHER Battery Core_CRAFT_HINT">Permette a ARTHER di immagazzinare più energia</string>
   <string name="ARTHER Solar Panel_CRAFT_DESC">Aumeta la velocità con cui ARTHER rigenera l\'energia dal sole. Richiesto solo uno e deve essere messo nell\'inventario.</string>
@@ -2183,9 +2183,9 @@ Economico e Butto, ma affidabile*
   <string name="ConstructoBot Charger_CRAFT_DESC">Ricarica l\'Aurocostruttore. Richiede energia.</string>
   <string name="ConstructoBot Coppator Chassis Assembler_CRAFT_DESC">Assemblatore del Telaio in Rame del ConstuctirBot.</string>
   <string name="ConstructoBot Tindron Chassis Assembler_CRAFT_DESC">Assemblatore del Telaio in Stagno del AutoCostruttore.</string>
-  <string name="ARTHER Power Panel">Pannello di Energia di ARTHER</string>
-  <string name="ARTHER Battery Core">Batteria di ARTHER</string>
-  <string name="ARTHER Battery Cores">Batterie di ARTHER</string>
+  <string name="ARTHER Power Panel">Pannelli Energetici ARTHER</string>
+  <string name="ARTHER Battery Core">Nucleo Batteria ARTHER</string>
+  <string name="ARTHER Battery Cores">Nuclei Batteria ARTHER</string>
   <string name="Black Grill">Griglia Nera</string>
   <string name="Track Gate">Cancello Sui Binari</string>
   <string name="Bulk Mass Storage Input Port_CRAFT_DESC">Inserisce gli oggetti in un Magazzino. Inserisce 25 articoli uguali; una preselezione migliora l\'efficienza del sistema.</string>
@@ -2193,7 +2193,7 @@ Economico e Butto, ma affidabile*
   <string name="ConstructoBot Ironide Chassis Assembler_CRAFT_DESC">Assemblatore del Telaio in Ferro del AutoCostruttore.</string>
   <string name="ConstructoBot Leg Assembler_CRAFT_DESC">Assemblatore L0 Gambe in Rame del AutoCostruttore.</string>
   <string name="ConstructoBot Arm Assembler_CRAFT_DESC">Assemblatore L0 Braccia in Rame del AutoCostruttore.</string>
-  <string name="Power Coil">Bobbina di Potenza</string>
+  <string name="Power Coil">Bobina di Potenza</string>
   <string name="ConstructoBot Constructor_CRAFT_DESC">Costruisci un macchinario che può costruire un AutoCostruttore.</string>
   <string name="Cargo Lift Controller_CRAFT_DESC">Costruiscilo in una forma di 3x1x3 sopra a un pozzo 3x3 per piazzare il montacarichi.</string>
   <string name="Cargo Lift Controller_CRAFT_HINT">Richiede Energia e Rotaie a Cremagliera.</string>
@@ -2402,11 +2402,11 @@ Economico e Butto, ma affidabile*
   <string name="Fit_Head">Monta una punta da taglio migliore!</string>
   <string name="Drill_Stuck_X_cant_dig_X_Fit_better_head">Trivella bloccata. {0} Non posso scavare {1}.
  Monta una punta da taglio migliore!</string>
-  <string name="OE_Searching">Alla ricerca di Minerali...</string>
+  <string name="OE_Searching">Ricerca Minerali...</string>
   <string name="OE_Retrieve">Clicca sull\'icona per riparare</string>
-  <string name="Next">Il prossimo</string>
+  <string name="Next">Successivo</string>
   <string name="In">tra</string>
-  <string name="Next_X_in_X">Il prossimo {0} tra {1} s.</string>
+  <string name="Next_X_in_X">Prossimo {0} tra {1} s.</string>
   <string name="Total_Stored">"Totale immagazzinato: "</string>
   <string name="Drill_Rate">Velocità di Scavo</string>
   <string name="Durability">Durata</string>
@@ -2441,7 +2441,7 @@ Economico e Butto, ma affidabile*
   <string name="Highlighted_In_Hotbar">Evidenziato nella Barra degli Oggetti</string>
   <string name="Highlighted_In_Inventory">Evidenzioato nell\'Inventario</string>
   <string name="Highlighted_In_Storage_Crate">Evidenziato nella Cassa</string>
-  <string name="Unknown_Materials">Materiale Sconosciuto</string>
+  <string name="Unknown_Materials">Materiali Sconosciuti</string>
   <string name="OS_Output">Uscita della Fonderia di Minerali</string>
   <string name="Installed_Lift">Ascensore installato</string>
   <string name="Completed_Scan">Scansione Completata</string>
@@ -2657,7 +2657,7 @@ Economico e Butto, ma affidabile*
   <string name="Finished Research">finito</string>
   <string name="Laboratory has">il Laboratorio ha</string>
   <string name="RubbleHint">Non otterai macerie senza il SuperDig! Tieni premuto Ctrl sx per il SuperDig!</string>
-  <string name="ARTHER_Unknown_Block">"rilevato blocco sconosciuto... "</string>
+  <string name="ARTHER_Unknown_Block">"Rilevato blocco sconosciuto... "</string>
   <string name="ARTHER_Press_M">"Premi M per passare allo Scanner dei Minerali! "</string>
   <string name="ARTHER_No_Ore">Attenzione! Nessuna estrazione nell\'ultimo minuto!</string>
   <string name="ARTHER_No_Coal">Attenzione! Nessun carbone bruciato nell\'ultimo minuto!</string>
@@ -2701,17 +2701,17 @@ Economico e Butto, ma affidabile*
   <string name="ARTHER_BuildPTG">Devi costruire un Generatore Pirotermico!</string>
   <string name="ARTHER_Close">ARTHER è vicino! ARTHER ti può ricaricare!</string>
   <string name="ARTHER_Far">Allontanati. ARTHER non ti ricarica!</string>
-  <string name="Menu_Resume">RIPRENDERE</string>
+  <string name="Menu_Resume">RIPRENDI</string>
   <string name="Menu_Multiplayer">MULTIGIOCATORE</string>
   <string name="Menu_Help">AIUTO</string>
   <string name="Menu_Settings">IMPOSTAZIONI</string>
-  <string name="Menu_SkinSelect">SELEZIONA ABITO</string>
+  <string name="Menu_SkinSelect">SELEZIONA SKIN</string>
   <string name="Menu_Quit">ESCI</string>
-  <string name="Menu_Resume_Strap">Ritorno al gioco in corso</string>
-  <string name="Menu_Multiplayer_Strap">scegli le opzioni moltigiocatore</string>
+  <string name="Menu_Resume_Strap">Riprendi la partita in corso</string>
+  <string name="Menu_Multiplayer_Strap">Apri le opzioni multigiocatore</string>
   <string name="Menu_Help_Strap">Apri la finestra di aiuto</string>
-  <string name="Menu_Settings_Strap">Sistema le inpostazione in gioco</string>
-  <string name="Menu_SkinSelect_Strap">Apri il menu di selezione degli abiti</string>
+  <string name="Menu_Settings_Strap">Regola le impostazioni di gioco</string>
+  <string name="Menu_SkinSelect_Strap">Apri il menu di selezione delle skin</string>
   <string name="Menu_Quit_Strap">Torna al desktop</string>
   <string name="Contextual Help">Aiuto contestuale</string>
   <string name="SKIN_SELECTOR">SELEZIONA ABITI</string>
@@ -2756,7 +2756,7 @@ Economico e Butto, ma affidabile*
   <string name="Filtered_Room">Stanza Filtrata</string>
   <string name="EXTERNAL TEMP">TEMP. ESTERNA</string>
   <string name="HEALTH POINTS">PUNTI SALUTE</string>
-  <string name="SUIT INTERNAL TEMP">TEMP INTERNO TUTTA</string>
+  <string name="SUIT INTERNAL TEMP">TEMP INTERNA TUTA</string>
   <string name="BATTERY USE RATE">USO BATTERIA</string>
   <string name="World Settings">Imp. Mondo</string>
   <string name="Hint_0">Se vale la pena farlo, vale la pena esagerare.</string>
@@ -3159,11 +3159,11 @@ Verrà rimpiazzato!</string>
   <string name="CryoPlasm_Detected">Crioplasma Rilevato</string>
   <string name="CryoPlasm_Killed">CrioPlasma Distrutti</string>
   <string name="Mission_Tutorial_Intro">
-Sei soppravvisuto all\'impatto, e ARTHER si è sacrificato per darti un piccolo ambiente per soppravvivere.
+Sei sopravvissuto allo schianto, ARTHER si è sacrificato per crearti un piccolo ambiente per sopravvivere.
 
 ARTHER ora ti spieghera alcune delle funzionalità della base.
 
-Il campo di forza scomparirà quando sarà tutto completato.</string>
+Il campo di forza scomparirà quando questo sarà completato.</string>
   <string name="CPH_Idling_all_attached_power_full">CHP inattivo come tutti gli accessori
 Energia al massimo!</string>
   <string name="Needs_resources_Attach_SH_automate">Risorse neccessarie. Attacca una
@@ -3177,7 +3177,7 @@ Tramogia per automatizzare.</string>
   <string name="Debug_Cryospawn_Data">[DEBUG]Cryospawn Data</string>
   <string name="Active_for_another">attivo per altri</string>
   <string name="Built">Costruito</string>
-  <string name="Creep">Creep</string>
+  <string name="Creep">Orrore</string>
   <string name="Holding">Tenere</string>
   <string name="segments">segmenti</string>
   <string name="PeakBuilds">Picchi di Costruzione</string>
@@ -3247,7 +3247,7 @@ Tramogia per automatizzare.</string>
   <string name="Writing_unsaved_changes">Scrittura cambiamenti del mondo non salvati</string>
   <string name="segments_remaining">Parti residue</string>
   <string name="Not_safe_Exit">Non è sicuro uscire.
-Ci sono cambiamenti del mondo non salvati. Uscire ora significa perderi i dati .</string>
+Alcuni cambiamenti non sono stati salvati. Uscire ora significherebbe perdere i progressi.</string>
   <string name="Compressing_save_archives">Compressione degli archivi salvati</string>
   <string name="Flushing_Disk_Cache">Pulizia della Cache del Disco</string>
   <string name="archives_remaining">archivi rimasti</string>
@@ -3325,7 +3325,7 @@ Alcuni archivi non sono ancora compressi, ma può essere saltato senza nessuna p
   <string name="Costs_an_additional">Costa un ulteriore</string>
   <string name="RP_to_research">RP di ricerca.</string>
   <string name="Handbook_No_specific_help_available">Nessun aiuto specifico disponibile, a causa di un file di aiuto non implementato. Si prega di controllare la pagina successiva per suggerimenti e costruzioni!</string>
-  <string name="This_material_is_hidden">Questo materiale è sconosciuto</string>
+  <string name="This_material_is_hidden">Questo materiale è nascosto</string>
   <string name="Player_does_not_know_material">Il giocatore non conosce questo materiale</string>
   <string name="Material_paintable_with_paint_gun">Questo materiale è verniciabile con la pistola per verniciatura</string>
   <string name="Material_does_not_block_movement">Questo materiale non blocca il movimento</string>
@@ -3358,8 +3358,8 @@ Alcuni archivi non sono ancora compressi, ma può essere saltato senza nessuna p
   <string name="Holobase_active">Holobase V1.337 Attiva!</string>
   <string name="Holobase_Map_Mode">Premi U per abilitare la Modalità Mappa</string>
   <string name="Holobase_Base_Mode">Premi U per abilitare la Modalità Base</string>
-  <string name="Holobase_Tactical_Mode_enable">Premi Ctrl sx per abilitare la Moidalità Tattica</string>
-  <string name="Holobase_Tactical_Mode_disable">Premi Ctrl sx per disabilitare la Modalità Tattica</string>
+  <string name="Holobase_Tactical_Mode_enable">Premi Ctrl sx per abilitare la Modalità Tattica</string>
+  <string name="Holobase_Tactical_Mode_disable">Premi Ctrl SX per disabilitare la Modalità Tattica</string>
   <string name="Holobase_Exit">Premi K per uscire dalla HoloBase</string>
   <string name="Currently">Attualmente</string>
   <string name="players_in_game_using_up">Giocatori in partita e occupati a</string>
@@ -3419,7 +3419,7 @@ Alcuni archivi non sono ancora compressi, ma può essere saltato senza nessuna p
  
 Non verrai più informato su questa mod.</string>
   <string name="Cancel">Cancella</string>
-  <string name="Okay">Okay</string>
+  <string name="Okay">Ok</string>
   <string name="Loading">Caricamento</string>
   <string name="Entering">Entra</string>
   <string name="Connection_timed_out">Connesione Scaduta</string>
@@ -3560,20 +3560,20 @@ Non verrai ulteriormente in formato per questa mod.</string>
   <string name="Tutorial_Complete">Tutorial Completato!</string>
   <string name="If_stuck_Press_H_for_help">Se sei bloccato, premi H per avere aiuto!</string>
   <string name="Tutorial_in_progress">Tutorial in corso</string>
-  <string name="CPH_is_focus_of_base">La Centrale di Potenza Hub (CPH) è il Fulcro della tua base.</string>
-  <string name="PSB_are_main_method_storing_power">GLi accumulatori sono il metodo principale per immagazzinare energia.</string>
+  <string name="CPH_is_focus_of_base">L\'Hub di Alimentazione Centrale (HAC) è il Fulcro della tua base.</string>
+  <string name="PSB_are_main_method_storing_power">Gli accumulatori sono il metodo principale di immagazzinamento dell\'energia.</string>
   <string name="OE_collect_resources_automatically">Gli Estrattori di Minerali immagazzinano automaticamente le risorse.</string>
-  <string name="SH_automate_resource_handling">La Tramoggia automatizza la lavorazione delle risorse</string>
-  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Usa LMB per ricercare Campione Sconosciuto se non trovi nulla!</string>
-  <string name="Researching_Scans_gives_RP">Le Scansioni di Ricerca da Punti Ricerca</string>
-  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Ripara il tuo assistente robotico ARTHER attraverso l\'impianto di produzione!</string>
-  <string name="Look_at_CPH_press_E">Guarda il CPH e premi E!</string>
-  <string name="Charge_suit_from_PSB">Ricarica la tuta dagli accumulatori!</string>
-  <string name="Add_200_power_to_OE">Dai almeno 200 di energia all\'Estrattori di Minerali</string>
-  <string name="Collect_Coal_from_Hopper">Immagazzina il Carbone nella Tramogia!</string>
-  <string name="Hold_RMB_Scan_something">Mantieni premuto RMB per Scansionare qualcosa!</string>
-  <string name="Research_new_scan">Ricerca la tua nuova scansione!</string>
-  <string name="Craft_Power_Core">Costruisci un Nucleo!</string>
+  <string name="SH_automate_resource_handling">La Tramoggia di Stoccaggio automatizza la gestione delle risorse</string>
+  <string name="Use_LMB_Ping_Unknown_if_can_t_find_anything">Usa PSM per rilevare Sconosciuto se non riesci a trovare nulla!</string>
+  <string name="Researching_Scans_gives_RP">Eseguire la Ricerca delle Scansioni ti fornirà Punti Ricerca</string>
+  <string name="Repair_ARTHER_crafting_at_manufacturing_plant">Ripara il tuo assistente robotico ARTHER costruendone uno all\'impianto di produzione!</string>
+  <string name="Look_at_CPH_press_E">Guarda l\'HAC e premi E!</string>
+  <string name="Charge_suit_from_PSB">Ricarica la tuta presso gli Accumulatori Energetici!</string>
+  <string name="Add_200_power_to_OE">Rifornisci l\'Estrattore di Minerali con almeno 200 unità di energia</string>
+  <string name="Collect_Coal_from_Hopper">Raccogli il Carbone dalla Tramoggia!</string>
+  <string name="Hold_RMB_Scan_something">Tieni premuto PDM per Scansionare qualcosa!</string>
+  <string name="Research_new_scan">Esegui la Ricerca della tua nuova scansione!</string>
+  <string name="Craft_Power_Core">Costruisci un Nucleo Energetico!</string>
   <string name="CPH_Rebooting">Riavvio CPH</string>
   <string name="Killed">Ucciso</string>
   <string name="attackers">Attaccanti!</string>
@@ -3605,18 +3605,18 @@ Non verrai ulteriormente in formato per questa mod.</string>
   <string name="Other">Altro</string>
   <string name="Unknown_Ore">Minerale Sconosciuto</string>
   <string name="Unknown_Material">Materiale Sconosciuto</string>
-  <string name="Closest">Prossimo</string>
-  <string name="Press_X_for_Build_Gun">Premi X per la Pistola Costruttrice</string>
+  <string name="Closest">Più Vicino</string>
+  <string name="Press_X_for_Build_Gun">X per Pistola Costruttrice</string>
   <string name="Wheelmouse_to_Select">Rotella del Mouse per Selezionare</string>
-  <string name="Ping_Unknown">Campione Sconosciuto</string>
-  <string name="Ping_Known_Ore">Campione Mineali Conosciuti</string>
-  <string name="Ping_Air">Campione Aria</string>
+  <string name="Ping_Unknown">Rileva Sconosciuto</string>
+  <string name="Ping_Known_Ore">Rileva Minerali Conosciuti</string>
+  <string name="Ping_Air">Rileva Aria</string>
   <string name="Ping_Coloured_Ore">Campione Minerali Colorati</string>
   <string name="NO_POWER">NESSUNA ENERGIA</string>
   <string name="Resource_Scanner">Scanner Risorse</string>
-  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">LMB per Ricerca
- RMB per Scansionare
- Rotella del mouse per Selezionare</string>
+  <string name="LMB_Ping_RMB_Scan_Wheelmouse_Select">PSM Rileva
+ PDM Scansiona
+ Rotella Seleziona</string>
   <string name="Ore_Scanner">Scanner Minerali</string>
   <string name="Mission_Smelting_Automation">L\'automazione è la chiave per il successo. La Fonderia può essere interfacciata con una tramoggia di qualsiasi tipo.
 Tuttavia se non dai istruzioni specifiche può succedere qualsiasi cosa! Imposta i permessi ora per avere una Tramoggia Aggiungi e una Tramogia Rimuovi. Trasporta i minerali nella Tramogia Rimuovi e i Lingotti saranno aggiunti alla Tramogia Aggiungi. Rimuovi i lingotti dalla Tramoggia Aggiungi tramite Nasrti Trasportatori.</string>
@@ -3655,7 +3655,7 @@ Per Statistiche stravaganti, gioca in Soppravivenza</string>
   <string name="You_cant_build_X_at_hight_X">Non puoi costruire {0} all\'altezza {1}!</string>
   <string name="You_cant_build_this_at_height_X">Non puoi costruise all\'altezza {0}!</string>
   <string name="Warning_Cannot_dug_up_once_constructed">Attenzione! Non può essere demolito una volta costruito!</string>
-  <string name="You_dont_permissions_delete_this">Non hai i permessi per cancellarlo.</string>
+  <string name="You_dont_permissions_delete_this">Non hai i permessi per eliminarlo.</string>
   <string name="Loading_Detail_Block">Caricamento Dettagli del Blocco</string>
   <string name="Unnamed">Senza nome</string>
   <string name="You_need_Dapper_DLC_colourise_torches">Serve il DLC Dapper per colorare le torce!</string>
@@ -3670,7 +3670,7 @@ Per Statistiche stravaganti, gioca in Soppravivenza</string>
   <string name="I_just_processed_the_X_scan">Ho appena eseguito la scansione {0}!</string>
   <string name="I_just_researched_the_X_recipe">Hai appena ricercato il progetto {0}!</string>
   <string name="I_just_researched_the_X_project">hai appena ricercato il progetto {0}!</string>
-  <string name="PROCESS">PROCESSO</string>
+  <string name="PROCESS">ELABORA</string>
   <string name="NO_SCANS">NESSUNA SCANSIONE</string>
   <string name="RESEARCH">RICERCA</string>
   <string name="Unknown_material_Power_required_to_research_X">Energia richiesta per la ricerca: {0}</string>
@@ -3789,7 +3789,7 @@ premi E per configurare i Limiti di Stoccaggio
   <string name="Choose_Item">Scegli L\'oggetto</string>
   <string name="Enter_Search_Term">Inserisci il termine di ricerca degli oggetti</string>
   <string name="Inventory_Item">Inventario Oggetti</string>
-  <string name="Stock_X_X">Stock: {0}/{1}</string>
+  <string name="Stock_X_X">Scorta: {0}/{1}</string>
   <string name="Collect_items_above_limit">Raccogli gli oggetti sopra i limiti</string>
   <string name="Searching_for">Alla ricerca di:</string>
   <string name="Stocking_X">Stoccato: {0}</string>
@@ -3872,7 +3872,7 @@ le Batterie di Energia danno una energia di emergenza!</string>
   <string name="You_went_swimming_in_magma">Sei andato a nuotare nel magma!</string>
   <string name="You_went_wading_in_magma">Sei andato a guadare il magma!</string>
   <string name="Died_from_heat_exposure">Morto per esposizione al calore</string>
-  <string name="Died_from_temperature_exposure_See_log_file_for_details">Morto per esposizione alla temperatura (Guarda il File di log per dettagli!</string>
+  <string name="Died_from_temperature_exposure_See_log_file_for_details">Morto per esposizione alla temperatura (Guarda il File di log per i dettagli)</string>
   <string name="Save_Count_X">Contatore Salvataggi: {0}</string>
   <string name="Tut_1_Title">Centrale di Potenza Hub (CPH)</string>
   <string name="Tut_1_Text">
@@ -3883,45 +3883,45 @@ Guarda il tuo CPH e premi E per accedervi.
 È quindi possibile fare clic su Aggiungi risorse per alimentarlo con un po \'di carbone.</string>
   <string name="Tut_2_Title">Accumulatore di Energia</string>
   <string name="Tut_2_Text">
-Accumulatori di Energia sono il principale mezzo per immagazzinare energia per la tua base.
+Gli Accumulatori Energetici sono il principale mezzo di immagazzinamento dell\'energia per la tua base.
 
-Individua il tuo Accumulatore di energia nella tua base, e evidenzialo.
+Individua l\'Accumulatore Energetico nella tua base ed evidenzialo.
 
-Premendo Q e assorbirai energia dall\'accumulatore nella tua tuta, che ti terrà al caldo.</string>
+Premendo Q trasferirai l\'energia dall\'accumulatore alla tua tuta. In questo modo la tuta ti terrà al caldo.</string>
   <string name="Tut_3_Title">Estrattore di Minerali (EM)</string>
   <string name="Tut_3_Text">
-Gli Estrattori di Mineralo (EM) raccolgono i minerali mentre tu fai altro, e richiedono energia.
+Gli Estrattori di Minerali (EM) raccolgono i minerali mentre tu fai dell\'altro, e richiedono energia.
 
-Piazza il tuo EM, si accede con E. Richiede 200 di energia, e potrà lavorare per 8 minuti!</string>
+Posiziona il tuo EM e aprilo con E. Riforniscilo con 200 di energia, potrà lavorare per più di 8 minuti!</string>
   <string name="Tut_4_Title">Tramoggia</string>
   <string name="Tut_4_Text">
-La Tramoggia immagazzina oggetti e automatizza i processi.
+La Tramoggia di Stoccaggio (TS) immagazzina e lavora gli oggetti in modo automatico.
 
-Le Tue macchine prendono o danno risorse alle risorse. Posiziona la Tramoggia e premi Q per svuotarla.Rimuovi il Carboneche è stato scavato.</string>
+I tuoi macchinari prenderanno o daranno risorse alla Tramoggia di Stoccaggio. Individua la TS e premi Q per svuotarla. Rimuovi il Carbone che è stato raccolto.</string>
   <string name="Tut_5_Title">Ricerca</string>
   <string name="Tut_5_Text">
-Puoi cercare la posizione di oggetti conosciuti e sconosciuti nel mondo.
-Quando trovi un oggetto sconosciuto puoi scansionarlo.
+Puoi rilevare la posizione di oggetti conosciuti e sconosciuti nel mondo.
+Una volta trovato un oggetto sconosciuto, puoi scansionarlo.
 
-Trova un oggetto sconosciuto ora ( dentro O fuori al campo di forza), evidenzialo, e tieni premuto il tasto destro del mouse per scansionarlo.</string>
-  <string name="Tut_6_Title">La Ricerca</string>
+Trova ora un oggetto sconosciuto (all\'interno O all\'esterno del campo di forza), evidenzialo, e tieni premuto il tasto destro del mouse per scansionarlo.</string>
+  <string name="Tut_6_Title">Eseguire Ricerche</string>
   <string name="Tut_6_Text">
-Una volta scansionati, è necessario fare una ricerca degli oggetti sconosciuti.
+Una volta scansionati, gli Oggetti Sconosciuti devono essere ricercati.
 
-Individua ed evidenzia la tua Stazione di Ricerca, quindi premi E per interagire e completare la ricerca.
+Individua ed evidenzia la Stazione di Ricerca, premi E per interagire e completa la ricerca.
 
-La ricerca fa guadagnare punti per sbloccare nuove tecnologie.</string>
+Eseguire le ricerche farà guadagnare punti per sbloccare nuove tecnologie.</string>
   <string name="Tut_7_Title">Creazione Semplice</string>
   <string name="Tut_7_Text">
-ARTHER ti ha aiutato all\'iniziio della tua missione soppravvivenza - ora è il tuo momento per dirgi Grazie.
+ARTHER ti ha aiutato all\'inizio della tua missione di sopravvivenza - adesso è arrivato il momento di ringraziarlo.
 
-Vai all\'Impianto di Produzione, selezionalo, premi E e fai un Nucleo di ARTHER.</string>
+Dirigiti all\'Impianto di Produzione, selezionalo, premi E e crea un Nucleo Energetico per ARTHER.</string>
   <string name="Tut_8_Title">Automazione</string>
   <string name="Tut_8_Text">
-Sono rimaste alcune tramogge, laser di trasferimento di energia e nastri trasportatori.
+Ti sono rimaste alcune Tramogge di Stoccaggio, Trasmettitori Energetici Laser e Nastri Trasportatori.
 
-Individua l\'holo-tutorial attorno al CPH.
-Questo ti mostra una configurazione di automazione in miniatura ideale. Posiziona le tue macchine lì.</string>
+Individua il tutorial olografico attorno all\'HAC.
+Esso ti mostrerà un esempio di configurazione di Automazione ideale. Posiziona i tuoi macchinari come mostrato.</string>
   <string name="Tut_9_Title">Buona Fortuna!</string>
   <string name="Tut_9_Text">
 Da adesso, sei da solo. Tutto ciò che devi sapere è nel Manuale di Sopravvivenza. Aprilo premendo H.</string>
@@ -4016,7 +4016,7 @@ Totale: {2:N4}m</string>
   <string name="NEED_COMPRESSED_MAGMA_NOW">NECESSITA DI MAGMA COMPRESSO ORA!</string>
   <string name="Waiting_gas_from_Gas_Storage_Tank">In attesa del gas dai Serbatoi di Stoccaggio del Gas.</string>
   <string name="Storing_X">Stoccato: {0}.</string>
-  <string name="Next_bottle_filled_in_X">"Prossimo riempimento in :  {0}s"</string>
+  <string name="Next_bottle_filled_in_X">Prossimo riempimento in : {0}s</string>
   <string name="Looking_for_Hopper_offload_to">In ricerca della Tramoggia per scaricare in...</string>
   <string name="Gas_Storage">Magazzino di Gas</string>
   <string name="Waiting_for_gas_from_Particulate_Compressor">In attesa del gas dal Compressore di Particolato.</string>
@@ -4028,12 +4028,12 @@ Totale: {2:N4}m</string>
   <string name="Place_on_3x3_identical_Ore_only">Piazzalo su un 3x3 di solo Minerale identico!</string>
   <string name="Grinding_Ore">Macinazione Minerale...</string>
   <string name="Grinder_finalising">Finalizzazione della macinazione...</string>
-  <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">"Finalizzazione...
-ATTENZIONE! Il Minerale è in uno stato volatile,NON  DEMOLIRE IL MACCHINARIO!"</string>
-  <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">"Minerale Macinato; ricerca scariCO
-ATTENZIONE! Il Minerale è in uno stato volatile,NON  DEMOLIRE IL MACCHINARIO!"</string>
+  <string name="Finalising_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">Finalizzazione...
+ATTENZIONE! Il Minerale è in uno stato volatile, NON ELIMINARE IL MACCHINARIO!</string>
+  <string name="Ore_ground_looking_to_offload_WARNING_Ore_is_volatile_state_DO_NOT_DELETE_MACHINE">"Minerale Macinato; ricerca scarico.
+ATTENZIONE! Il Minerale è in uno stato volatile, NON  ELIMINARE IL MACCHINARIO!"</string>
   <string name="Grinding">Macinazione...</string>
-  <string name="Kaboom">Kaboom!</string>
+  <string name="Kaboom">Kabooom!</string>
   <string name="Grinder_cannot_function_without_active_C5">La Macina non può funzionare se il Centro di Controllo del Clima della Caverna Congelata è spento</string>
   <string name="Grinding_X">Macinato: {0}</string>
   <string name="X_X_to_offload">Scaricato {0}x {1}!</string>
@@ -4313,8 +4313,8 @@ Si pregadi posizionare in una caverna piena di particelle.</string>
   <string name="Logistics Grommet_CRAFT_HINT">Primo passaggio!</string>
 	
   <string name="Energy Grommet">Passacavo Energetico</string>
-  <string name="Energy Grommet_DESC">I GPT, Pannelli Solari e gli Accumulatori di Energia possono trasgerire l\'energia grazie ad esso.</string>
-  <string name="Energy Grommet_CRAFT_DESC">I GPT, Pannelli Solari e gli Accumulatori di Energia possono trasgerire l\'energia grazie ad esso.</string>
+  <string name="Energy Grommet_DESC">I GPT, Pannelli Solari e gli Accumulatori Energetici possono trasferire l\'energia grazie ad esso.</string>
+  <string name="Energy Grommet_CRAFT_DESC">I GPT, Pannelli Solari e gli Accumulatori di Energia possono trasferire l\'energia grazie ad esso.</string>
   <string name="Energy Grommet_CRAFT_HINT">Primo passaggio!</string>
 	
   <string name="Room Extractor Fan">Aspiratore della Stanza</string>
@@ -4535,4 +4535,54 @@ Connettore Tramoggia di Stoccaggio Ultrarapido.</string>
   <string name="UI_Q_Selfdestruct">Premi Q per autodistruggerti.</string>
   <string name="UI_Launch_in_Progres">Lancio in corso ...</string>
   <string name="UI_Fuel_Efficiency_X">Efficienza Carburante: {0}</string>
+  <string name="UI_Current_PPS_X">Energia/s Attuale: {0}</string>
+  <string name="UI_not_collecting_e_Toggle">Raccolta Ferma. (E) per Attivare</string>
+  <string name="UI_Total_Storage_X">Stoccaggio Totale: {0}</string>
+  <string name="UI_Bender_Plant">Impianto di Piegatura</string>
+  <string name="UI_Pipe_Extruder_desc">Impianto di Estrusione Tubi
+Converte le Barre in Tubi</string>
+  <string name="UI_Bender_desc">Impianto di Piegatura
+Piega in varie Angolature</string>
+  <string name="UI_E_set_filter_to_X">(E) Imposta Filtro su {0}</string>
+  <string name="UI_Shift_E_filter_to_X">Shift (E) Imposta Filtro su {0}</string>
+  <string name="UI_Filter_Everything_Exept_X">Filtro impostato su tutto TRANNE: [{0}]</string>
+  <string name="UI_Filter_set_to_X">Filtro impostato su : [{0}]</string>
+  <string name="UI_Stand_Teleporter_Jump_activate">Posizionati sul teletrasporto e premi salta per attivarlo</string>
+  <string name="UI_Engine_Power_X">Energia Motore: {0}</string>
+  <string name="UI_Rocket_has_X_Parts_X_m_tall">Il Razzo ha {0} parti ed è alto {1}m</string>
+  <string name="UI_Press_E_to_launch">Premi E per lanciare il tuo razzo</string>
+  <string name="UI_Error_value_X">Valore di Errore: {0}</string>
+  <string name="Basic_Missile_turret">Torretta Lanciamissili Base</string>
+  <string name="Dualshot_turret">Torretta a Doppio Colpo</string>
+  <string name="Trishot_turret">Torretta a Triplo Colpo</string>
+  <string name="UI_Conv_belt_filter">Filtro Nastro Trasportatore</string>
+  <string name="UI_Needs_X_Thrust">SERVE {0} PROPULSIONE!</string>
+  <string name="Quad_launcher">Quad Launcher</string>
+  <string name="UI_No_missiles_loaded">Nessun missile caricato!</string>
+  <string name="UI_X_Missiles_loaded">{0} missili caricati!</string>
+  <string name="UI_Next_shot_dmg_X">Il danno del prossimo colpo è {0}</string>
+  <string name="UI_Reloading_for_X_s">Ricarica per {0}s</string>
+  <string name="UI_Aiming">Puntamento...</string>
+  <string name="UI_Turret">Torretta</string>
+  <string name="UI_Shots_X_Kills_X_Damage_X">Colpi: {0}. Uccisioni: {1}. Danno: {2}</string>
+  <string name="UI_Please_wait_processing">Attendere, elaborazione in corso...</string>
+  <string name="UI_Please_attach_Hopper">Si prega di collegare una Tramoggia</string>
+  <string name="UI_Cannot_find_hoppers">Impossibile trovare una Tramoggia!</string>
+  <string name="UI_station_empty">Stazione vuota</string>
+  <string name="UI_Kills_X">Uccisioni: {0}</string>
+  <string name="UI_attack_X">Attacco: {0}</string>
+  <string name="UI_No_Threads_detected">Nessun pericolo rilevato...</string>
+  <string name="UI_Next_attack_X_s">Prossimo Attacco: {0}s</string>
+  <string name="UI_Power_X_Percent">Energia: {0}%</string>
+  <string name="UI_Wave_X_X">Ondata {0}/{1}</string>
+  <string name="UI_No_threats_dected">Nessun pericolo rilevato...</string>
+  <string name="UI_Attack_imminent">ATTACCO IMMINENTE!</string>
+  <string name="UI_Attack_estaminated_X_min">Attacco stimato in {0} minuti</string>
+  <string name="UI_Type_X">Tipo: {0}</string>
+  <string name="UI_At_depth_X">A Profondità {0}m</string>
+  <string name="UI_Found_X_coal">Trovato {0} carbone.</string>
+  <string name="UI_Found_X_crystals">Trovato {0} cristalli.</string>
+  <string name="UI_Quarry">Cava</string>
+  <string name="UI_Thank_you">Grazie!</string>
+  <string name="UI_Safety_first">LA SICUREZZA PRIMA DI TUTTO!</string>
   </resources>
