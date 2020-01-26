@@ -4477,7 +4477,7 @@ La Stringa dei Pannelli Solari MK2 deve essere piazzata su:</string>
   <string name="UI_T4_Conduit">Condotto L4</string>
   <string name="UI_Must_built_upgrigth">Deve essere costruito in posizione verticale!</string>
   <string name="UI_Collecting_rate_X_Percent">Velocità di raccolta al {0}%</string>
-  <string name="UI_Current_rate_X_PPS">La velocità attuale è {0} PPS.</string>
+  <string name="UI_Current_rate_X_PPS">La velocità attuale è {0} E/s.</string>
   <string name="UI_Collecting_Novalight_X_percent">Pannello Solare Organico
 Raccolta Novalight alla velocità ridotta di {0}%</string>
   <string name="UI_Sun_below_Horizon_Sunrise_X_minutes">Pannello Solare
