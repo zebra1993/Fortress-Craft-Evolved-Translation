@@ -786,4 +786,9 @@ Capacidad de potencia:
 Máxima transferencia de potencia:
 Tiempo de combustión:
 Combustible:</string>
+<string name="MA.Jet_Turbine_Generator_Intake.01.Paragraph">El Generador de Turbina a Propulsión es un método más avanzado de generación de energía a partir de combustibles fósiles. Requiere un combustible compuesto de alta energía producido a partir de la biomasa de una cuba de refinería.</string>
+<string name="MA.Jet_Turbine_Generator_Intake.02.Header">Construcción</string>
+<string name="MA.Laboratory_Component.00.Title">Componente de laboratorio</string>
+<string name="MA.Laboratory_Component.01.Paragraph">El Laboratorio es necesario para investigar proyectos avanzados que mejoren su nivel tecnológico desbloqueando nuevos proyectos y recetas. Se requiere un total de 27 componentes de laboratorio (fabricados en 3 pilas de 9 componentes cada una) y deben ser construidos en una configuración de 3 por 3 por 3.</string>
+<string name="MA.Laboratory_Component.02.Paragraph">Para más información sobre el uso del laboratorio, por favor consulte la siguiente guía:</string>
 </resources>
