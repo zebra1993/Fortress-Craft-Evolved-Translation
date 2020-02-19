@@ -854,4 +854,7 @@ dołączeniu do zakładu produkcyjnego.</string>
   <string name="Garden Sand">Piasek Ogrodowy</string>
   <string name="ConfigurableLight">Konfigurowalne Światło</string>
   <string name="Organic Power Storage_DESC">Może tylko powoli przesyłać energię.</string>
+  <string name="StorageHopper_DESC">"Przechowuje 100 Przedmiotów.
+Automatycznie transportuje.
+Użyj E do zmiany typu transferu. "</string>
   </resources>
