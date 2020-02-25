@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="CO.Advanced_Defence.Title">高级防御</string>
 <string name="CO.Advanced_Defence.00.Title">高级防御</string>
-<string name="CO.Advanced_Defence.01.Paragraph">我们成功地设计了一个导弹炮塔，并进一步改进了能量炮塔。 我们将制造导弹，而这将需要燃料供应！</string>
-<string name="CO.Advanced_Logistics.Title">高级物流</string>
+<string name="CO.Advanced_Defence.01.Paragraph">我們成功地設計了一個導彈砲塔，並進一步改善了能量砲塔。我們將需要製造導彈，這將需要供應燃料！</string>
+<string name="CO.Advanced_Logistics.Title">高及物流</string>
 <string name="CO.Advanced_Logistics.00.Title">高级物流</string>
-<string name="CO.Advanced_Logistics.01.Paragraph">我们现在有一个新的大容量存储系统，以及用于在传送带之间输送矿石的分拣机构。</string>
-<string name="CO.Advanced_Miner_Upgrades.Title">高级矿工升级</string>
-<string name="CO.Advanced_Miner_Upgrades.00.Title">高级矿工升级</string>
-<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">现在可以对矿物分离器和熔炼炉进行进一步改进。 此外，我们终于完善了采石场系统。 使用地质测量仪识别一个黄金地段，然后放置采石场开始采矿作业。</string>
-<string name="CO.Advanced_Power_Grid.Title">高级能量块</string>
+<string name="CO.Advanced_Logistics.01.Paragraph">我们现在有一个新的大容量存储系统，以及用於在傳送帶之間運輸礦石的分煉機構。</string>
+<string name="CO.Advanced_Miner_Upgrades.Title">高級礦工升級</string>
+<string name="CO.Advanced_Miner_Upgrades.00.Title">高級礦工升級</string>
+<string name="CO.Advanced_Miner_Upgrades.01.Paragraph">現在可以對礦石提取器和冶煉廠進行進一步的改進。此外，我們終於完善了採石場系統。使用地質測量師確定一個黃金地段，然後放置採石場開始採礦作業。</string>
+<string name="CO.Advanced_Power_Grid.Title">高级能量塊</string>
 <string name="CO.Advanced_Power_Grid.00.Title">高级能量块</string>
 <string name="CO.Advanced_Power_Grid.01.Paragraph">我们对电力基础设施进行了进一步改进，包括新的能源存储块和激光输电器。</string>
 <string name="CO.Advanced_Power_Grid.02.Paragraph">我们还对一种新型发电机进行了一些临时设计，然而为了完成这项研究，我们还需要找到比如今依赖的煤能量密度更高的能源。</string>
