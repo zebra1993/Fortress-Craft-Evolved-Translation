@@ -49,7 +49,7 @@ Die Modi-Auswahl kann nicht nachträglich für diese Welt geändert werden.</str
     <string name="Status">Status</string>
     <string name="Workshop">Workshop</string>
 
-    <string name="Workshop_Mod">Workshop Mod</string>
+    <string name="Workshop_Mod">Workshop-Mod</string>
     <string name="Update_Pending">Aktualisierung ausstehend</string>
     <string name="Downloading">Wird heruntergeladen</string>
 
@@ -59,10 +59,10 @@ Die Modi-Auswahl kann nicht nachträglich für diese Welt geändert werden.</str
     <string name="Off">Aus</string>
     <string name="Locked">Gesperrt</string>
 
-    <string name="Plentiful">Reichhaltig</string>
+    <string name="Plentiful">Reichlich</string>
     <string name="Scarce">Knapp</string>
     <string name="Greg">Geizig</string>
-    <string name="Rapid">Blitzartig</string>
+    <string name="Rapid">Im Überfluss</string>
 
     <string name="Fast">Schnell</string>
     <string name="Slow">Langsam</string>
@@ -71,32 +71,32 @@ Die Modi-Auswahl kann nicht nachträglich für diese Welt geändert werden.</str
     <string name="Normal">Normal</string>
     <string name="Eternal Night">Ewige Nacht</string>
 
-    <string name="Trivial Mobs">Einfache Gegner</string>
-    <string name="Normal Mobs">Normale Gegner</string>
-    <string name="Hard Mobs">Schwere Gegner</string>
+    <string name="Trivial Mobs">Simpel</string>
+    <string name="Normal Mobs">Normal</string>
+    <string name="Hard Mobs">Hartnäckig</string>
 
     <string name="None">Keine</string>
-    <string name="Clumsy">Tollpatschig</string>
-    <string name="Iron Man">Hart</string>
-    <string name="SquishCore">Extrem Hart</string>
-    <string name="Hardcore">Brutal</string>
+    <string name="Clumsy">Tollpatsch</string>
+    <string name="Iron Man">Iron Man</string>
+    <string name="SquishCore">Luftballon</string>
+    <string name="Hardcore">Hardcore</string>
 
     <string name="Survival">Überleben</string>
     <string name="Creative">Kreativ</string>
 
     <!-- Difficulty Readbacks -->
-    <string name="Default_Settings_Info">Die Standardeinstellungen sind zum Einstieg für neue Spieler auf sehr schnell und sehr einfach gestellt! Wenn Du noch schnelleren Fortschritt möchtest, kannst Du \'Immer Tag\' bei Tag-/Nachtzyklus auswählen. Passe die Einstellungen nach Deinem Belieben an, wenn Du größere Herausforderungen suchst.
-Vergiss jedoch nicht: Sobald eine Welt gestartet wurde, sind die Einstellungen für diese Welt UNVERÄNDERBAR. Achte zudem auf die durchschnittliche Spieldauer, die sich aus den von Dir vorgenommenen Einstellungen berechnet!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
+    <string name="Default_Settings_Info">Die Standardeinstellungen wurden für neue Spieler auf sehr schnell und einfach gestellt! Wenn Du noch schneller fortschreiten möchtest, wähle „Ewiger Tag“ als Tag-Nacht-Zyklus aus. Passe die Einstellungen nach Deinem Belieben an, wenn Du größere Herausforderungen suchst.
+Vorsicht: Nach dem Starten einer Welt sind deren Einstellungen UNVERÄNDERBAR. Achte zudem auf die dynamisch errechnete, durchschnittliche Spieldauer!</string> <!-- Das klingt absolut Banane (Fjolnir) -->
     <string name="Previous_Visit">In dieser Welt bist Du bereits gewesen!</string>
     <string name="Play_time">Spielzeit</string>
     <string name="Mod_Selected">Mod ausgewählt.</string>
-    <string name="Mods_Selected">Ausgewählte Mods.</string>
+    <string name="Mods_Selected">ausgewählte Mods.</string>
     <string name="Existing_Seed">Existierender Seed</string>
 
-    <string name="Resources_Plentiful_Info">\'Massenhaft Ressourcen\' sorgt dafür, dass Du schnell an viele Ressourcen kommst. Durch diese Einstellung wirst Du Dich und Deine Welt während der gesamten Spielzeit viel schneller weiterentwickeln. Diese Einstellung wird für geduldige Einsteiger empfohlen.</string>
-    <string name="Resources_Scarce_Info">\'Knappe Ressourcen\' wird Dir ermöglichen, Dein Spiel ruhig und durchdacht anzugehen. Du wirst mehr Zeit zur Optimierung Deiner Basis oder zum Erkunden Deiner Welt haben. Nicht empfohlen für neue Spieler!</string>
-    <string name="Resources_Greg_Info">\'Geizige Ressourcen\' wird Deinen Fortschritt extrem verlangsamen. Diese Einstellung ist auf 24/7 dedizierte Mehrspielerserver oder SEHR geduldige Spieler ausgelegt!</string>
-    <string name="Resources_Rapid_Info">\'Blitzartige Ressourcen\' ist für diejenigen gedacht, die ein Spiel gerne schnell durchspielen oder Kinder haben oder viel arbeiten. Oder für Streamer, die das Spiel gerne an einem Wochenende schnell durchspielen möchten! Diese Einstellung eignet sich sehr gut dazu, einen ersten Einblick in das Spiel zu bekommen bevor man sich anschließend einer Welt mit einem höheren Schwierigkeitsgrad zuwendet.</string>
+    <string name="Resources_Plentiful_Info">Eine reichliche Ressourcen-Menge wird den Spielfortschritt massiv beschleunigen. Ein guter Startpunkt für geduldige Einsteiger.</string>
+    <string name="Resources_Scarce_Info">Eine knappe Ressourcen-Menge entschleunigt das Spiel, um Dir mehr Zeit für Erkunden und die Optimierung deiner Basis zu geben. Nicht für Neueinsteiger empfohlen!</string>
+    <string name="Resources_Greg_Info">Eine geizige Ressourcen-Menge wird den Fortschritt extrem verlangsamen, ausgelegt für dedizierte 24/7-Mehrspieler-Server oder SEHR geduldige Spieler!</string>
+    <string name="Resources_Rapid_Info">Eine Ressourcen-Menge im Überfluss ist für diejenigen gedacht, die in Eile sind, Kinder oder Jobs haben oder das Spiel an einem Wochenende streamen! Außerdem ist diese Einstellung perfekt, um das Spiel im Schnelldurchgang zu lernen, bevor Du einen anderen Schwierigkeitsgrad auswählst.</string>
     <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' sind sehr ausgeglichen, daher muss großer Wert auf ein gut strukturiertes Förderbandsystem gelegt werden. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
     <string name="Conveyor_Fast_Info">\'Schnelle Förderbänder\' bedeuten weniger Wartezeit. Sie sind doppelt so schnell wie \'Langsame Förderbänder\'.</string>
 
