@@ -3,25 +3,25 @@
 <!-- Some entrys were relocated to group them together. Hope thats not breakign the file :P -->
 <resources>
     <string name="Partial_Language_Support">Die ausgewählte Sprache wird im Moment nur teilweise unterstützt. Wenn Du zurück auf Englisch wechseln willst, klicke unten auf English!</string>
-    <string name="Translation_Incomplete">Übersetzung unvollständig!</string>
-    <string name="Language_Name">Englisch</string><!-- The language-way of saying the name of the language -->
+    <string name="Translation_Incomplete">Unvollständige Übersetzung!</string>
+    <string name="Language_Name">Deutsch</string><!-- The language-way of saying the name of the language -->
     <!-- Main menu -->
     <string name="Frozen_Factory">Frozen Factory</string>
     <string name="Dapper_Pack">Dapper Pack</string>
     <string name="Skin_Pack">Skin Pack</string>
     <string name="Installed">Installiert</string>
     <string name="Not_Installed">Nicht Installiert</string>
-    <string name="Multiplayer_Sign">&lt;Mehrspieler</string>
+    <string name="Multiplayer_Sign">Mehrspieler</string>
     <string name="Quit_Sign">Verlassen</string>
-    <string name="World_Sign">Weltauswahl</string>
+    <string name="World_Sign">Welt auswählen</string>
     <string name="Create_World">Welt erstellen</string>
     <string name="Spacebar">Leertaste</string>
     <!-- World Creation Menu -->
-    <string name="Resource_Level">Ressourcen</string>
-    <string name="Power_Level">Energieniveau</string>
-    <string name="Conveyor_Speed">Förderbandgeschwindigkeit</string>
-    <string name="Day_Night_Cycle">Tag/Nacht Zyklus</string>
-    <string name="Mob_Difficulty">Schwierigkeit der Gegner</string>
+    <string name="Resource_Level">Ressourcen-Menge</string>
+    <string name="Power_Level">Energie-Gewinnung</string>
+    <string name="Conveyor_Speed">Förderband-Geschw.</string>
+    <string name="Day_Night_Cycle">Tag-Nacht-Zyklus</string>
+    <string name="Mob_Difficulty">Gegner-Stärke</string>
     <string name="Death_Mode">Schwierigkeitsgrad</string><!-- Should be changed doesnt sound well, but maybe a start point -->
     <string name="Rush_Mode">Schnelles Spiel</string>
     <string name="Flatland">Flachland</string>
