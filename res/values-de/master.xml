@@ -36,12 +36,13 @@
     <string name="Enter_World">Welt betreten</string>
     <string name="Reset_World">Welt zurücksetzen</string>
 
-    <string name="Creative_New">Kreativmodus bietet Dir unbegrenztes Bauen, hochauflösende Blockgrafik, umfangreiche Werkzeuge zur Weltgestaltung, Schemata, Baupläne und Kopieren-Einfügen-Systeme. Er hat nicht die Überlebenselemente des Überlebensmodus und sollte auch nicht als \'cheat\' für ihn angesehen werden.</string>
-    <string name="Creative_Info">Dies ist eine existierende Kreativwelt, aber leider habe ich keine coolen Statistiken für Dich zum anzeigen. Wie wäre es stattdessen mit dem Bild einer Katze?</string>
+    <string name="Creative_New">Im Kreativ-Modus kannst Du uneingeschänkt bauen und hast Zugriff auf hochauflösende Blockgrafik, umfangreiche Werkzeuge zur Weltgestaltung, Schemata, Blaupausen und ein Kopieren-Einfügen-System. Obwohl die meisten Überlebens-Aspekte ausgeblendet werden, ist dies kein „Cheat-Modus“ für den Überlebens-Modus.
+Die Modi-Auswahl kann nicht nachträglich für diese Welt geändert werden.</string>
+    <string name="Creative_Info">Dies ist eine bereits existierende Kreativ-Welt, aber leider habe ich keine coolen Statistiken, die ich Dir zeigen könnte. Wie wäre es stattdessen mit einem Katzenbild?</string>
 
     <!-- Mod Menu -->
-    <string name="Mod_Management">Mod Menü</string>
-    <string name="Mod_Name">Mod Name</string>
+    <string name="Mod_Management">Mod-Auswahl</string>
+    <string name="Mod_Name">Mod-Name</string>
     <string name="Active">Aktiv</string>
     <string name="Version">Version</string>
     <string name="Lock">Gesperrt</string>
