@@ -97,7 +97,7 @@ Vorsicht: Nach dem Starten einer Welt sind deren Einstellungen UNVERÄNDERBAR. A
     <string name="Resources_Scarce_Info">Eine knappe Ressourcen-Menge entschleunigt das Spiel, um Dir mehr Zeit für Erkunden und die Optimierung deiner Basis zu geben. Nicht für Neueinsteiger empfohlen!</string>
     <string name="Resources_Greg_Info">Eine geizige Ressourcen-Menge wird den Fortschritt extrem verlangsamen, ausgelegt für dedizierte 24/7-Mehrspieler-Server oder SEHR geduldige Spieler!</string>
     <string name="Resources_Rapid_Info">Eine Ressourcen-Menge im Überfluss ist für diejenigen gedacht, die in Eile sind, Kinder oder Jobs haben oder das Spiel an einem Wochenende streamen! Außerdem ist diese Einstellung perfekt, um das Spiel im Schnelldurchgang zu lernen, bevor Du einen anderen Schwierigkeitsgrad auswählst.</string>
-    <string name="Conveyor_Slow_Info">\'Langsame Förderbänder\' sind sehr ausgeglichen, daher muss großer Wert auf ein gut strukturiertes Förderbandsystem gelegt werden. Förderbänder sind mit dieser Einstellung um 50 Prozent langsamer als bei \'Schnelle Förderbänder\'.</string>
+    <string name="Conveyor_Slow_Info">Langsame Förderbänder sind ausgewogen und betonen aber fortschrittlichere Fördersysteme. Diese Einstellung wird Deinen Fortschritt erheblich verlangsamen.</string>
     <string name="Conveyor_Fast_Info">\'Schnelle Förderbänder\' bedeuten weniger Wartezeit. Sie sind doppelt so schnell wie \'Langsame Förderbänder\'.</string>
 
     <string name="Plentiful_Power_Info">\'Massenhaft Energie\' sorgt dafür, dass jede Energiequelle um ein vielfaches mehr Energie erzeugt. Durch diese Einstellung ist es einfacher, in der Anfangsphase schnellen Fortschritt zu erzielen.</string>
