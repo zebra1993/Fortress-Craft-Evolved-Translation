@@ -552,7 +552,7 @@ Hardcore ist der schwierigste Modus, wenn Du oder Dein ZEV stirbt, ist das Spiel
     <string name="Research Parts">Forschungsteile</string>
     <string name="Refined Liquid Resin">Gereinigtes Flüssigharz</string>
     <string name="Spoiled Organic Remains">Verdorbene Organische Reste</string>
-    <string name="Recombined Organic Matter">Rekombinierte organische Materie</string> <!-- TODO END klingt echt blöd -->
+    <string name="Recombined Organic Matter">Rekombinierte Organische Materie</string> <!-- TODO END klingt echt blöd -->
 
     <!-- Terrain entries. Names, plurals and descriptions-->
     <!-- DESC will get added later (i guess)--><!-- -->
@@ -577,7 +577,7 @@ Hardcore ist der schwierigste Modus, wenn Du oder Dein ZEV stirbt, ist das Spiel
     <string name="Reinforced Wood">Verstärkes Holz</string>
     <string name="Reinforced Wood_DESC">Verstärkte Holzplanken. Für den Bau von Wänden geeignet</string>
     <string name="Bedrock">Grundgestein</string>
-    <string name="Bedrock_DESC">Dieses dichte Gestein scheint Spuren von Eisen und Lithium zu beinhalten. Die nahe Umgebung abzusuchen sollte nützliche Erze zum vorschein bringen!</string><!--Oringimal-->
+    <string name="Bedrock_DESC">In diesem dichten Gestein sind Spuren von Eisen und Lithium zu finden. In der näheren Umgebung sollten nützliche Erze zu finden sein!</string><!--Oringimal-->
     <string name="Sand">Sand</string>
     <string name="Sand_DESC">Rieselt durch die Sanduhr, unaufhaltsam</string>
     <string name="Tree Trunk">Baumstumpf</string>
