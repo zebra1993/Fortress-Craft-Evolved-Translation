@@ -1071,24 +1071,25 @@ Drücke E, um das Transferverhalten zu ändern.</string>
     <string name="CryoHopper">Kryocontainer</string>
     <string name="CryoHopper_DESC">Benötigt Energie und hält dafür Gegenstände kalt. Effizienter in kälteren Umgebungen.</string>
     <string name="Motorised Logistics Hopper">Motorisierter Logistikcontainer</string>
-    <string name="Motorised Logistics Hopper_DESC">Nicht implementiert weil das Förderband der limitierende Faktor ist, nicht der Container. Hoppla.</string>
+    <string name="Motorised Logistics Hopper_DESC">Nicht implementiert, weil das Förderband der limitierende Faktor ist, nicht der Container. Hoppla.</string>
     <string name="Solar Panel">Solarpanel</string>
-    <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.
+    <string name="Solar Panel_DESC">Generiert Energie bei Tageslicht.
 Lädt angrenzende Batterien.</string>
     <string name="Organic Solar Panel">Organisches Solarpanel</string>
-    <string name="Organic Solar Panel_DESC">Generiert einen kleinen Teil Energie auch bei Nacht durch Sternenlicht.\\nLädt angrenzende Batterien.</string>
-    <string name="Basic Laser Energy Transmitter">Laser-Energietransmitter MK0</string>
-    <string name="Basic Laser Energy Transmitter_DESC">Überträgt langsam Energie langsam auf Distanz.
-Max Dist. 64.
-Möglichst bald ersetzen.</string>
+    <string name="Organic Solar Panel_DESC">Generiert auch bei Nacht eine kleinere Menge Energie durch Sternenlicht.
+Lädt angrenzende Batterien.</string>
+    <string name="Basic Laser Energy Transmitter">Einfacher Laser-Energietransmitter</string>
+    <string name="Basic Laser Energy Transmitter_DESC">Überträgt langsam Energie über Entfernungen.
+Max. Distanz: 64.
+Am besten möglichst bald nachrüsten.</string>
     <string name="Laser Energy Transmitter MK1">Laser-Energietransmitter MK1</string>
-    <string name="Laser Energy Transmitter MK1_DESC">Überträgt Energie auf Distanz.
-Max Dist 64.
+    <string name="Laser Energy Transmitter MK1_DESC">Überträgt Energie über Entfernungen.
+Max. Distanz: 64.
 Auf Batterien richten.</string>
     <string name="Laser Energy Transmitter MK2">Laser-Energietransmitter MK2</string>
     <string name="Laser Energy Transmitter MK2_DESC">Überträgt noch mehr Energie!</string>
     <string name="Laser Energy Transmitter MK3">Laser-Energietransmitter MK3</string>
-    <string name="Laser Energy Transmitter MK3_DESC">Größter Einblock Energieüberträger.</string>
+    <string name="Laser Energy Transmitter MK3_DESC">Größter einblöckiger Energietransmitter.</string>
     <string name="BFL-9000">BFL-9000</string><!-- BFL means Big Fu**ing laser what would be Scheiss grosser Laser "SGL" but i think BFL is just right :-) -->
     <string name="BFL-9000_DESC">Massiver Minen Laser.
 Schneidet 5x5 Tunnel.
