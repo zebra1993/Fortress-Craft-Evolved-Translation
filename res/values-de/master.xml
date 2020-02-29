@@ -1091,28 +1091,29 @@ Auf Batterien richten.</string>
     <string name="Laser Energy Transmitter MK3">Laser-Energietransmitter MK3</string>
     <string name="Laser Energy Transmitter MK3_DESC">Größter einblöckiger Energietransmitter.</string>
     <string name="BFL-9000">BFL-9000</string><!-- BFL means Big Fu**ing laser what would be Scheiss grosser Laser "SGL" but i think BFL is just right :-) -->
-    <string name="BFL-9000_DESC">Massiver Minen Laser.
-Schneidet 5x5 Tunnel.
+    <string name="BFL-9000_DESC">Massiver Bergbau-Laser.
+Gräbt 5x5 Tunnel.
 Sehr hoher Energiebedarf.</string>
     <string name="Pyrothermic Generator">Pyrothermischer Generator</string>
-    <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff für Energie.\nVerbrennt 1 Treibstoffeinheit/minute.</string>
+    <string name="Pyrothermic Generator_DESC">Verbrennt Treibstoff zu Energie.
+Verbrennt 1 Einheit Treibstoff/min.</string>
     <!-- not Conveyorbased transport-->
     <string name="AI Mover Control">KI Bewegungssteuerung</string><!-- Not optimal-->
     <string name="AI Mover Control_DESC">Erzeugt einen einzelnen KI-Roboter.
 Verschiebt Erze zwischen Containern.
 Geringer Aufwand, wenig Effizienz.</string>
     <string name="Basic Matter Mover">Einfacher Massetransmitter</string>
-    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Gegenstände/min auf 64m Entfernung.</string>
-    <string name="Dual Matter Mover">Doppel-Massentransmitter</string>
-    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Gegenstände/min auf 32m Entfernung</string>
-    <string name="Quad Matter Mover">Vierfach-Massentransmitter</string>
-    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Gegenstände/min auf 16m Entfernung</string>
-    <string name="Multi Matter Mover">Multi-Massentransmitter</string>
-    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Gegenstände/min auf 4m Entfernung</string>
+    <string name="Basic Matter Mover_DESC">Überträgt bis zu 150 Gegenstände/min auf bis zu 64m Entfernung.</string>
+    <string name="Dual Matter Mover">Dual-Massetransmitter</string>
+    <string name="Dual Matter Mover_DESC">Überträgt bis zu 300 Gegenstände/min auf bis zu 32m Entfernung.</string>
+    <string name="Quad Matter Mover">Quad-Massetransmitter</string>
+    <string name="Quad Matter Mover_DESC">Überträgt bis zu 600 Gegenstände/min auf bis zu 16m Entfernung.</string>
+    <string name="Multi Matter Mover">Multi-Massetransmitter</string>
+    <string name="Multi Matter Mover_DESC">Überträgt bis zu 4800 Gegenstände/min auf bis zu 4m Entfernung.</string>
     <!--Ore smelters-->
     <string name="Ore Smelter">Erzschmelze</string>
-    <string name="Ore Smelter_DESC">Dies ist deine Hauptmethode, um Barren aus Ressourcen herzustellen.</string>
-    <string name="Basic Ore Smelter">Einfacher Schmelzofen</string>
+    <string name="Ore Smelter_DESC">Die primäre Methode, um Barren aus Ressourcen herzustellen.</string>
+    <string name="Basic Ore Smelter">Einfache Erzschmelze</string>
     <string name="Basic Ore Smelter_DESC">Doppelt so schnell, aber weniger Effizient wie der normale Schmelzofen. Kann nicht verbessert werden.</string>
     <!--inline production and conveyors -->
     <string name="Basic Conveyor Belt">Einfaches Förderband</string>
