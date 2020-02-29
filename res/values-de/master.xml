@@ -590,10 +590,11 @@ Hardcore ist der schwierigste Modus, wenn Du oder Dein ZEV stirbt, ist das Spiel
     <string name="Organic Detritus_DESC">Dieses dicke, grässliche Zeugs überzieht den ganzen Planeten.</string>
     <string name="Black Grill">Schwarzer Rost</string>
     <string name="Black Grill_DESC">Ein schwarzer Rost, keine Ahnung wozu der zu gebrauchen wird</string>
-    <string name="Book Shelf">Büchergestell</string>
+    <string name="Book Shelf">Bücherregal</string>
     <string name="Book Shelf_DESC">Bücherregal, Holzsplitter mit enthalten</string>
     <string name="Torch">Fackel</string>
-    <string name="Torch_DESC">Leuchtet und gibt Wärme ab.\n Achtung, Feuer ist heiss!</string>
+    <string name="Torch_DESC">Leuchtet und gibt Wärme ab.
+Achtung, Feuer ist heiss!</string>
     <string name="Snow">Schnee</string>
     <string name="Snow_DESC">Vergiss das Gras, wir haben Schnee</string>
     <string name="Reinforced Rock">Verstärkter Stein</string>
