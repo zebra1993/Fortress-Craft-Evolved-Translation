@@ -528,30 +528,30 @@ Hardcore ist der schwierigste Modus, wenn Du oder Dein ZEV stirbt, ist das Spiel
     <string name="Compressed Sulphur">Komprimierter Schwefel</string>
     <string name="Compressed Sulphurs">Komprimierter Schwefel</string>
     <!-- Bug parts -->
-    <string name="Pristine Heavy Chitin">Makelloses schweres Chitin</string> <!-- TODO START klingt echt blöd -->
-    <string name="Ruined Heavy Chitin">Ruiniertes schweres Chitin</string>
-    <string name="Pristine Light Chitin">Makelloses leichtes Chitin</string>
-    <string name="Ruined Light Chitin">Leichtes Chitin</string>
+    <string name="Pristine Heavy Chitin">Makelloses Schweres Chitin</string> <!-- TODO START klingt echt blöd -->
+    <string name="Ruined Heavy Chitin">Ruiniertes Schweres Chitin</string>
+    <string name="Pristine Light Chitin">Makelloses Leichtes Chitin</string>
+    <string name="Ruined Light Chitin">Ruiniertes Leichtes Chitin</string>
     <string name="Pristine Stinger">Makelloser Stachel</string>
-    <string name="Pristine Stingers">Makellose Stachel</string>
+    <string name="Pristine Stingers">Makellose Stacheln</string>
     <string name="Ruined Stinger">Ruinierter Stachel</string>
-    <string name="Ruined Stingers">Ruinierte Stachel</string>
+    <string name="Ruined Stingers">Ruinierte Stacheln</string>
     <string name="Pristine Faceted Eye">Makelloses Facettenauge</string>
     <string name="Pristine Faceted Eyes">Makellose Facettenaugen</string>
     <string name="Ruined Faceted Eye">Ruiniertes Facettenauge</string>
     <string name="Ruined Faceted Eyes">Ruinierte Facettenaugen</string>
-    <string name="Pristine Phosphorescent Gland">Makellose phosphorisierende Drüse</string>
-    <string name="Pristine Phosphorescent Glands">Makellose phosphorisierende Drüsen</string>
-    <string name="Ruined Phosphorescent Gland">Ruinierte phosphorisierende Drüse</string>
-    <string name="Ruined Phosphorescent Glands">Ruinierte phosphorisierende Drüsen</string>
+    <string name="Pristine Phosphorescent Gland">Makellose Phosphoreszierende Drüse</string>
+    <string name="Pristine Phosphorescent Glands">Makellose Phosphoreszierende Drüsen</string>
+    <string name="Ruined Phosphorescent Gland">Ruinierte Phosphoreszierende Drüse</string>
+    <string name="Ruined Phosphorescent Glands">Ruinierte Phosphoreszierende Drüsen</string>
     <string name="Perfect Faceted Eye">Perfektes Facettenauge</string>
     <string name="Perfect Faceted Eyes">Perfekte Facettenaugen</string>
     <string name="Massive Faceted Eye">Massives Facettenauge</string>
     <string name="Massive Faceted Eyes">Massive Facettenaugen</string>
-    <string name="Hive Brain Matter">Schwarmintelligenz Gehirn</string>
+    <string name="Hive Brain Matter">Schwarm-Gehirnmasse</string>
     <string name="Research Parts">Forschungsteile</string>
     <string name="Refined Liquid Resin">Gereinigtes Flüssigharz</string>
-    <string name="Spoiled Organic Remains">Verdorbene organische Materie</string>
+    <string name="Spoiled Organic Remains">Verdorbene Organische Reste</string>
     <string name="Recombined Organic Matter">Neuzusammengesetzte organische Materie</string> <!-- TODO END klingt echt blöd -->
 
     <!-- Terrain entries. Names, plurals and descriptions-->
