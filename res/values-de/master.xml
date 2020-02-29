@@ -374,8 +374,8 @@ Hardcore ist der schwierigste Modus, wenn Du oder Dein ZEV stirbt, ist das Spiel
     <!-- Cristals -->
     <string name="Crystal Fiber Mesh">Kristallfasergewebe</string>
     <string name="Crystal Fiber Meshes">Kristallfasergewebe</string>
-    <string name="Crystal Clock">Kristalltaktgenerator</string><!-- Assuming its something like a Oscilator for curquits (would make sense) -->
-    <string name="Crystal Clocks">KristallTaktgeneratoren</string>
+    <string name="Crystal Clock">Kristalltaktgeber</string><!-- Assuming its something like a Oscilator for curquits (would make sense) -->
+    <string name="Crystal Clocks">Kristalltaktgeber</string>
     <string name="Overclocked Crystal">Übertakteter Kristalltaktgenerator</string>
     <string name="Overclocked Crystal Clocks">Übertaktete Kristalltaktgeber</string>
     <!-- Cargolifts -->
