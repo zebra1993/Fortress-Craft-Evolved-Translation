@@ -916,42 +916,42 @@ Achtung, Feuer ist heiss!</string>
     <string name="TriSeed">TriSeed</string>
     <string name="TriSeed_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
     <string name="UnderGrump">UnderGrump</string>
-    <string name="UnderGrump_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
+    <string name="UnderGrump_DESC">Schaut nicht allzu nützlich aus...</string>
     <string name="GoopyDangler">GoopyDangler</string>
-    <string name="GoopyDangler_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
+    <string name="GoopyDangler_DESC">Schaut nicht allzu nützlich aus...</string>
     <string name="CoxComb">CoxComb</string>
-    <string name="CoxComb_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
+    <string name="CoxComb_DESC">Schaut nicht allzu nützlich aus...</string>
     <string name="LeafyDangler">LeafyDangler</string>
-    <string name="LeafyDangler_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
-    <string name="Cold Cavern Flora 1">Kalte Höhlenpflanze 1</string>
+    <string name="LeafyDangler_DESC">Schaut nicht allzu nützlich aus...</string>
+    <string name="Cold Cavern Flora 1">Frosthöhlen-Flora 1</string>
     <string name="Cold Cavern Flora 1_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 2">Kalte Höhlenpflanze 2</string>
+    <string name="Cold Cavern Flora 2">Frosthöhlen-Flora 2</string>
     <string name="Cold Cavern Flora 2_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 3">Kalte Höhlenpflanze 3</string>
+    <string name="Cold Cavern Flora 3">Frosthöhlen-Flora 3</string>
     <string name="Cold Cavern Flora 3_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 4">Kalte Höhlenpflanze 4</string>
+    <string name="Cold Cavern Flora 4">Frosthöhlen-Flora 4</string>
     <string name="Cold Cavern Flora 4_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 5">Kalte Höhlenpflanze 5</string>
+    <string name="Cold Cavern Flora 5">Frosthöhlen-Flora 5</string>
     <string name="Cold Cavern Flora 5_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 6">Kalte Höhlenpflanze 6</string>
+    <string name="Cold Cavern Flora 6">Frosthöhlen-Flora 6</string>
     <string name="Cold Cavern Flora 6_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
-    <string name="Cold Cavern Flora 7">Kalte Höhlenpflanze 7</string>
+    <string name="Cold Cavern Flora 7">Frosthöhlen-Flora 7</string>
     <string name="Cold Cavern Flora 7_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen.</string>
     <string name="TundraBreath">TundraBreath</string>
-    <string name="TundraBreath_DESC">Dies scheint im Moment nicht wirklich brauchbar zu sein.</string>
-    <string name="Toxic Cavern Flora 1">Giftige Höhlenpflanze 1</string>
+    <string name="TundraBreath_DESC">Schaut nicht allzu nützlich aus...</string>
+    <string name="Toxic Cavern Flora 1">Gifthöhlen-Flora 1</string>
     <string name="Toxic Cavern Flora 1_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 2">Giftige Höhlenpflanze 2</string>
+    <string name="Toxic Cavern Flora 2">Gifthöhlen-Flora 2</string>
     <string name="Toxic Cavern Flora 2_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 3">Giftige Höhlenpflanze 3</string>
+    <string name="Toxic Cavern Flora 3">Gifthöhlen-Flora 3</string>
     <string name="Toxic Cavern Flora 3_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 4">Giftige Höhlenpflanze 4</string>
+    <string name="Toxic Cavern Flora 4">Gifthöhlen-Flora 4</string>
     <string name="Toxic Cavern Flora 4_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 5">Giftige Höhlenpflanze 5</string>
+    <string name="Toxic Cavern Flora 5">Gifthöhlen-Flora 5</string>
     <string name="Toxic Cavern Flora 5_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 6">Giftige Höhlenpflanze 6</string>
+    <string name="Toxic Cavern Flora 6">Gifthöhlen-Flora 6</string>
     <string name="Toxic Cavern Flora 6_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
-    <string name="Toxic Cavern Flora 7">Giftige Höhlenpflanze 7</string>
+    <string name="Toxic Cavern Flora 7">Gifthöhlen-Flora 7</string>
     <string name="Toxic Cavern Flora 7_DESC">Diese Pflanze scheint in einer giftigen Umgebung zu gedeihen.</string>
     <string name="Organic Rock">Organischer Stein</string>
     <string name="Organic Rock_DESC">Organische Struktur welche zu einer Steinähnlichen Struktur verhärtet ist.</string>
@@ -1039,36 +1039,38 @@ Achtung, Feuer ist heiss!</string>
     <string name="ConfigurableLight">Einstellbares Licht</string>
     <string name="ConfigurableLight_DESC">Verstellbares Licht welches auf verschiedene Farben, Intensitäten, Reichweiten, Schattentypen und Lichtkegelformen eingestellt werden kann. Warnungen werden ausgegeben wenn was mit dern Konfiguration schiefläuft. Tag/Nacht asuwahl scheint nicht viel zu ändern.</string>
     <string name="Central Power Hub">Zentraler Energieverteiler</string>
-    <string name="Central Power Hub_DESC">Produziert ein bisschen Energie.\\nKann Ressourcen in Energie umwandeln.\\nVersorgt angrenzende Strukturen.</string>
+    <string name="Central Power Hub_DESC">Produziert etwas Energie.
+Kann Ressourcen für Energie verheizen.
+Versorgt angrenzende Strukturen.</string>
     <string name="Ore Extractor">Erzförderer</string>
     <string name="Ore Extractor_DESC">Extrahiert effizient Erz.
-Lagert 25 Erz.
+Lagert 25 Erze.
 Extrahiert 1 Erz/min.</string>
     <string name="Power Storage Block">Energiespeicher</string>
-    <string name="Power Storage Block_DESC">Speichert ein bisschen Energie.
-Empfängt Energie von anderen Quellen.
-Gibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage Block_DESC">Speichert etwas Energie.
+Kann Energie von anderen Quellen erhalten.
+Transferiert Energie an andere Maschinen.</string>
     <string name="Power Storage MK2">Energiespeicher MK2</string>
-    <string name="Power Storage MK2_DESC">Speichert mehr Energie.
-Empfängt Energie von anderen Quellen.
-Gibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage MK2_DESC">Speichert mehr Energie als MK1.
+Kann Energie von anderen Quellen erhalten.
+Transferiert Energie an andere Maschinen.</string>
     <string name="Power Storage MK3">Energiespeicher MK3</string>
-    <string name="Power Storage MK3_DESC">Speichert mehr Energie.
-Empfängt Energie von anderen Quellen.
-Gibt Energie an andere Maschinen ab.</string>
+    <string name="Power Storage MK3_DESC">Speichert mehr Energie als MK2.
+Kann Energie von anderen Quellen erhalten.
+Transferiert Energie an andere Maschinen.</string>
     <string name="Organic Power Storage">Organischer Energiespeicher</string>
     <string name="Organic Power Storage_DESC">Kann Energie nur langsam transferieren.</string>
     <string name="StorageHopper">Lagercontainer</string>
     <string name="StorageHopper_DESC">Lagert 100 Gegenstände.
 Transferiert selbständig.
-Drücke E um das Transferverhalten zu ändern.</string>
-    <string name="LogisticsHopper">Logistik Container</string>
-    <string name="LogisticsHopper_DESC">Transferiert automatisch 1 Gegenstand alle 10s.</string>
+Drücke E, um das Transferverhalten zu ändern.</string>
+    <string name="LogisticsHopper">Logistikcontainer</string>
+    <string name="LogisticsHopper_DESC">Transferiert automatisch 1 Gegenstand pro 10s.</string>
     <string name="MiniHopper">Minicontainer</string>
-    <string name="MiniHopper_DESC">Transferiert automatisch 1 Gegenstand alle 30s.</string>
-    <string name="CryoHopper">Tiefkühlcontainer</string>
-    <string name="CryoHopper_DESC">Hält Materialien kalt. Braucht Energie. Effizienter in kalter Umgebung.</string>
-    <string name="Motorised Logistics Hopper">Motorisierter Logistik Container</string>
+    <string name="MiniHopper_DESC">Transferiert automatisch 1 Gegenstand pro 30s.</string>
+    <string name="CryoHopper">Kryocontainer</string>
+    <string name="CryoHopper_DESC">Benötigt Energie und hält dafür Gegenstände kalt. Effizienter in kälteren Umgebungen.</string>
+    <string name="Motorised Logistics Hopper">Motorisierter Logistikcontainer</string>
     <string name="Motorised Logistics Hopper_DESC">Nicht Implementiert weil das Förderband der Limitierende Faktor ist nicht der Container. Hoppla.</string>
     <string name="Solar Panel">Solarpanel</string>
     <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.
