@@ -1071,7 +1071,7 @@ Drücke E, um das Transferverhalten zu ändern.</string>
     <string name="CryoHopper">Kryocontainer</string>
     <string name="CryoHopper_DESC">Benötigt Energie und hält dafür Gegenstände kalt. Effizienter in kälteren Umgebungen.</string>
     <string name="Motorised Logistics Hopper">Motorisierter Logistikcontainer</string>
-    <string name="Motorised Logistics Hopper_DESC">Nicht Implementiert weil das Förderband der Limitierende Faktor ist nicht der Container. Hoppla.</string>
+    <string name="Motorised Logistics Hopper_DESC">Nicht implementiert weil das Förderband der limitierende Faktor ist, nicht der Container. Hoppla.</string>
     <string name="Solar Panel">Solarpanel</string>
     <string name="Solar Panel_DESC">Generiert Energie aus Tageslicht.
 Lädt angrenzende Batterien.</string>
