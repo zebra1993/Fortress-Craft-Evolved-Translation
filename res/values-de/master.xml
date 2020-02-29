@@ -902,11 +902,11 @@ Achtung, Feuer ist heiss!</string>
     <string name="LaunchPad_DESC">T-9, 8, 7, 6, 5, 4, 3, 2, 1, Zündung! Und Lift-Off!!</string>
     <!-- Flowers and Vegetation--><!-- the names themself cant be translated due to lacking realworld couterparts-->
     <string name="Orange GlowPod">Oranger GlowPod</string><!-- Not the best translation-->
-    <string name="Orange GlowPod_DESC">Eine orange Pflanze. Sie scheint ein bisschen Licht von sich zu geben.</string>
+    <string name="Orange GlowPod_DESC">Schaut nicht allzu nützlich aus...</string>
     <string name="Blue GlowPod">Blauer GlowPod</string>
-    <string name="Blue GlowPod_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. Vielleicht ein wenig tiefer könnte sich etwas nützliches verbergen?</string>
+    <string name="Blue GlowPod_DESC">Diese Pflanze scheint in einer kälteren Umgebung zu gedeihen. Vielleicht könnte es sich nützlich erweisen noch ein wenig tiefer zu graben?</string>
     <string name="Green GlowPod">Grüner GlowPod</string>
-    <string name="Green GlowPod_DESC">Diese Pflanze scheint starke Filter zu haben um mit dieser toxischen Atmospäre klar zu kommen. Vielleicht ein wenig tiefer könnte sich etwas nützliches verbergen?</string>
+    <string name="Green GlowPod_DESC">Diese Pflanze scheint starke Filter zu haben um mit einer toxischen Atmospäre zurecht zu kommen. Vielleicht könnte es sich nützlich erweisen noch ein wenig tiefer zu graben?</string>
     <string name="Purple GlowPod">Violetter GlowPod</string>
     <string name="Purple GlowPod_DESC">Eine purpurne Pflanze. Sie scheint ein bisschen Licht von sich zu geben. Scheint jedoch nicht nutzvoll zu sein im Moment.</string>
     <string name="GlowShroom">Leuchtpilz</string>
