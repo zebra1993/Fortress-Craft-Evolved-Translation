@@ -2,93 +2,93 @@
 <resources><string name="SU.01Welcome.Title">Anfängerguide</string>
 <string name="SU.01Welcome.00.Title">Willkommen bei FortressCraft Evolved</string>
 <string name="SU.01Welcome.01.Header">Überlebensmodus</string>
-<string name="SU.01Welcome.02.Paragraph">Du bist gerade mit einem defekten Shuttle von der Orbitalstation geflohen. Es hat den Wiedereintritt nicht überstanden, aber glücklicherweise konntest du das Schiff sicher verlassen. Jetzt musst du auf diesem fürchterlichen Alien Planet überleben!</string>
+<string name="SU.01Welcome.02.Paragraph">Gerade bist Du von der Orbitalstation geflohen mit einem beschädigten Rettungsschiff. Es hat den Wiedereintritt nicht überstanden, jedoch wurdest Du glücklicherweise sicher aus dem Schiff rausgeschleudert. Nun wirst Du wohl auf diesem fürchterlichen Alien-Planeten durchhalten müssen!</string>
 <string name="SU.01Welcome.03.Header">Der Anfang</string>
-<string name="SU.01Welcome.04.Paragraph">Dein Überlebensanzug kann dich vor den kalten Umweltbedingungen schützen, aber er benötigt dazu Energie. Bei der Absturzstelle findest du möglicherweise Dinge, die für das längerfristige Dasein wichtig sind, darum solltest du dich sobald wie möglich dorthin aufmachen.</string>
+<string name="SU.01Welcome.04.Paragraph">Mit Deinem High-Tech-Überlebensanzug kannst Du Dich vor diesen kalten Umweltbedingungen schützen, solange er über ausreichend Energie verfügt. Bei der Absturzstelle findest Du möglicherweise Dinge, die für das Überleben wichtig sind, Du solltest Dich möglichst bald dorthin begeben.</string>
 <string name="SU.01Welcome.05.Header">Steuerung</string>
-<string name="SU.01Welcome.06.Paragraph">Die Spielsteuerung wird in einer separaten Anleitung, die weiter unten verlinkt ist, aufgeführt.</string>
+<string name="SU.01Welcome.06.Paragraph">Die Spielsteuerung wird aufgeführt in einer seperaten, unten verlinkten Anleitung.</string>
 <string name="SU.01Welcome.07.Header">Überlebenstipps</string>
-<string name="SU.01Welcome.08.Paragraph">Für die, die keine ganze Anleitung lesen möchten, sind hier einige kurze Tipps. Die nachfolgenden Seiten erklären den Anfang detaillierter.</string>
-<string name="SU.01Welcome.09.Paragraph">"- Dein Anzug ist dafür ausgelegt seine Batterie tagsüber durch Sonnenlicht aufzuladen.
-- An Deinem Startort befindet sich der Zentrale Energieverteiler (Central Power Hub (CPH)). Benutze ihn, um gesammelte Ressourcen in Energie für angrenzende Maschinerien umzuwandeln.
-- Du kannst deine Anzugsenergie über den Zentralen Energie Verteiler aufladen, oder mit (\'Q\') an einem Energie Block. 
-- Interagiere (\'E\') mit der Konstruktionsanlage, um zu sehen was du herstellen kannst.
-- Stelle Fackeln über das Herstellungs-Menü (\'C\') her, um dich an ihnen zu wärmen.
-- Benutze den Scanner (\'M\') um Blöcke zu scannen und sie für neue Rezepte an der Forschungsstation zu erforschen.
-- Mit dem Scanner  lässt sich auch die Umgebung auf Unbekannte Materialien scannen, um neue Erze zu finden.
-- Achte auf den Akkustand deines Anzugs, ein blauer Text zeigt an, dass extreme Kälte auf deinen Anzug einwirkt und ein roter Text extreme Hitze. 
-- Die Stirnlampe benötigt Energie. Sie ist großartig für Erkundungen aber vergiss nicht, sie auszuschalten!
-- Kohle ist zu Beginn der beste Energielieferant, aber wenn du dich in einer Notlage befindest, kannst du auch die einheimischen Pflanzen verbrennen.
-- Möglicherweise musst du sehr tief graben um die gewünschten Erze zu finden.
-- Platziere Fackeln, wenn Du an einem größeren Bauabschnitt arbeitest, um große Höhlen auszuleuchten."</string>
-<string name="SU.01Welcome.10.Header">Absturtzstellenausrüstung</string>
-<string name="SU.01Welcome.11.Paragraph">Der Zentrale Energie Verteiler ist dein erster Energiegenerator. Er besitzt Solarzellen und kann aus Brennstoffen Energie erzeugen. Er kann immer nur eine Brennstoffeinheit auf einmal aufnehmen, deshalb ist die automatische Brennstoffzulieferung wichtig. Er hat einen großen Energiespeicher.</string>
-<string name="SU.01Welcome.12.Paragraph">Der Energie Speicherblock kann 250 Energie aufnehmen und sie an angrenzende Maschinen verteilen.</string>
-<string name="SU.01Welcome.13.Paragraph">Um Barren herzustellen, welche für die Herstellung von Maschinen benötigt werden, musst du Erze in einem Ofen schmelzen. Du kannst dies manuell erledigen oder durch zuführen der Materialien automatisieren. Der Schmelzvorgang startet erst, wenn die benötigte Menge Material vorhanden ist um einen Barren zu schmelzen.</string>
-<string name="SU.01Welcome.14.Paragraph">Du kannst einfache Dinge im Crafting-Menü über die Taste (\'C\') selbst herstellen, aber für komplexere Maschinen und Komponenten benötigst du die Konstruktionsanlage. Die Rezepte sind in Kategorien unterteilt, die du findest, wenn du auf die farbigen Kästchen klickst. Zum jetzigen Zeitpunkt kann die Konstruktionsanlage nur Teile aus deinem Inventar benutzen und die hergestellten Dinge werden direkt in deine Tasche gelegt.</string>
-<string name="SU.01Welcome.15.Paragraph">Wenn du beginnst, verfügt dein Scanner über keinerlei Informationen zu Materialien die auf diesem Planeten gefunden werden können. Alle Scans die du tätigst, können an der Forschungsstation verarbeitet werden und geben Forschungspunkte. Du kannst hier auch Forschungsprojekte starten und neue Rezepte für die Konstruktionsanlage erhalten. Dafür benötigst du die Forschungspunkte. Die Forschungsstation benötigt Energie um zu funktionieren.</string>
-<string name="SU.01Welcome.16.Header">Suche deine ersten Erze</string>
-<string name="SU.01Welcome.17.Paragraph">Dein Scanner besitzt die Möglichkeit nach bekannten Erzen zu suchen, wenn sie bereits analysiert wurden. Um neue Erze zu finden, solltest Du die Ping-Funktion nach unbekannten Erzen deines Scanners benutzen. Wenn du die Funktion zum Ersten mal benutzt, werden dir alle umliegenden Blöcke angezeigt, weil sie der Scanner noch nicht kennt.</string>
-<string name="SU.01Welcome.18.Paragraph">Deine erste Aufgabe wird also das Scannen deiner Umgebung und das verarbeiten dieser Scans an der Forschungsstation sein. Sobald du den ganzen herkömmlichen Dreck und Schnee um dich herum gescannt hast, wird dir der Ping nützliches in der Umgebung anzeigen.</string>
-<string name="SU.01Welcome.19.Paragraph">Sobald du eine Erzader in der Erde unter dir gefunden hast, kannst du diese scannen und verarbeiten, um sie deinem Scanner zu lehren. Von diesem Moment an, wird der Scanner mit dem Ping nach bekannten Erzen, Erzadern dieses Typs anzeigen.</string>
-<string name="SU.01Welcome.20.Header">Erzgewinnung</string>
-<string name="SU.01Welcome.21.Paragraph">Jetzt wo du deine erste Erzader gefunden hast, musst du das Erz fördern, um es verwenden zu können. Du kannst es mit der rechten Maustaste abbauen, aber das wird nur ab und zu ein Erz abwerfen, der ganze Rest ist Geröll.</string>
-<string name="SU.01Welcome.22.Paragraph">Eine bessere Möglichkeit ist der Schneller-Graben-Modus, den du aktivierst, indem du während dem abbauen die STRG-Taste gedrückt hältst. Dieser Modus baut sehr schnell viel Erz ab, aber wird deine Energiereserve sehr schnell aufbrauchen.</string>
-<string name="SU.01Welcome.23.Paragraph">Achte darauf nicht deine gesamte Energie während des schnellgrabens der Erzadern aufzubrauchen, dein Anzug benötigt auch Energie um deinen Körper warm zu halten! Versuche mit Fackeln einen sicheren Rückweg zu deinem Energiegenerator vorzubereiten, um dich auf dem Rückweg aufwärmen zu können.</string>
-<string name="SU.01Welcome.24.Header">Automatisiertes Abbauen</string>
-<string name="SU.01Welcome.25.Paragraph">Ein nachhaltiger Weg Erz abzubauen, ist der Gebrauch eines Erzförderers. Zu beginn hast du bereits welche und kannst einen einfach auf einer Erzader platzieren und mit Energie aufladen. Er hat einen kleinen Laderaum. Bis du ihn anders entleeren kannst, musst du immer wieder zurückgehen, um in selbst zu leeren.</string>
-<string name="SU.01Welcome.26.Paragraph">Ein Erzförderer kann eine ganze Ader abbauen, wenn er einen einzigen Erzblock berührt. Du musst ihn also nicht bewegen, bis die ganze Ader abgebaut ist.</string>
-<string name="SU.01Welcome.27.Paragraph">Lagercontainer akzeptieren Erze und Gegenstände von Maschinen und führen diese anderen Maschinen zu. Das macht sie für die Automation von Erzförderung und Schmelzprozessen unverzichtbar.</string>
-<string name="SU.01Welcome.28.Paragraph">Sobald du Ressourcen übrig hast, können dir Förderbänder dabei helfen, das Erz automatisch von der Förderstelle zum Schmelzofen zu bringen. Sie sind billig, aber du wirst viele davon brauchen um deine Förderstelle mit deiner Hauptbasis zu verbinden. Sie benötigen keine Energie um zu funktionieren.</string>
-<string name="SU.02FirstNight.Title">Die erste Nacht überleben</string>
-<string name="SU.02FirstNight.00.Title">Die erste Nacht überleben</string>
-<string name="SU.02FirstNight.01.Paragraph">Dies ist eine Schritt für Schritt Anleitung um die erste Nacht zu überleben. Wenn du nicht gespoilert werden möchtest, dann hör hier auf zu lesen!</string>
-<string name="SU.02FirstNight.02.Header">Das Tutorial abschliessen</string>
-<string name="SU.02FirstNight.03.Paragraph">Du erwachst neben einem einfachen Aussenposten und dem Krater deines abgestürzten Schiffes. Deine erste Aufgabe besteht darin, die Kurzeinweisung zu absolvieren. Folge einer Anweisung nach der anderen. Wenn das Tutorial beendet ist, wird das Kraftfeld aufgehoben.</string>
-<string name="SU.02FirstNight.04.Header">Nimm dein Inventar und halte dich warm</string>
-<string name="SU.02FirstNight.05.Paragraph">Öffne dein Inventar durch drücken von ('i'). Du beginnst mit 5 Fackeln und 3 Erzförderer. Letztere sind wertvolle Maschinen um Erzadern abzubauen, aber nicht überlebensnotwendig. Ersteres ist absolut notwendig.</string>
-<string name="SU.02FirstNight.06.Paragraph">Wähle den Schnelleistenplatz mit der Fackel aus und platziere eine einige Blocks von deinen Maschinen entfernt auf dem Boden. Sie spendet Licht und Wärme, wenn du in ihrer nähe stehst. Die Anzugsanzeige oben rechts zeigt die Aussentemperatur und die Anzugs Innentemperatur an. Dein Anzug wird dich automatisch warm halten, aber das kostet Energie. Wenn du nahe an einer Fackel stehst, wirst du die Aussentemperatur steigen sehen. Das heißt, dass dein Anzug weniger Energie benötigt um dich warm zu halten. Pass auf, nicht zu heiß zu werden, sonst braucht dein Anzug Energie um dich wieder abzukühlen!</string>
-<string name="SU.02FirstNight.07.Header">Treibstoff sammeln</string>
-<string name="SU.02FirstNight.08.Paragraph">Die Maschine mit dem großen Laser darauf ist dein Zentraler Energieverteiler. Das ist ein Energiegenerator, der Solarenergie bezieht, sowie auch einen kleinen Energiegenerator besitzt, der Materialen für zusätzliche Energie verbrennen kann. Er gibt Energie an angrenzende Maschinen und den Energiespeicher ab.</string>
-<string name="SU.02FirstNight.09.Paragraph">Du kannst Energie direkt vom Verteiler beziehen (\'e\'), drücke anschließend \'Energie entziehen\'. Beim Spielstart sind deine Brennstoffreserven auf die für das Tutorial benötigte begrenzt, welche nicht lange halten werden. Demnach ist deine nächste Aufgabe Brennstoffe zu sammeln.</string>
-<string name="SU.02FirstNight.10.Paragraph">Wenn du dich dazu entschlossen hast auf dem einfachen Schwierigkeitsgrad zu spielen wurde eine Kohleader und ein Erzförderer für dich platziert, ansonsten musst du nach Treibstoff suchen. Wenn du extremes Glück hast, hat der Einschlagkrater eine Kohleader freigelegt. Aber die zuverlässigere Energiequelle für den Anfang sind die Bäume um den Krater herum. Nun gehe zum Verteiler zurück und interagiere mit (\'E\') und drücke \'Treibstoff hinzufügen\'. Nun wird einer deiner Holzblocks verbrannt. Du musst manuell Treibstoff nachlegen, bis du die Mittel hast diesen Vorgang zu automatisieren.</string>
-<string name="SU.02FirstNight.11.Paragraph">Mit dem im Verteiler brennenden Holzblock solltest du rasch bemerken, dass die Grafik des Energie Speicherblocks sich beginnt zu drehen, was bedeutet dass er Energie erhält. Du kannst von dort Energie beziehen oder du wartest bis er voll ist, und die Energie anfängt den Verteiler zu laden.</string>
-<string name="SU.02FirstNight.12.Header">Erforsche deine Umgebung</string>
-<string name="SU.02FirstNight.13.Paragraph">Jetzt wo du eine niedrige aber stabile Energieversorgung hast, kannst du deine Umgebung erkunden. Die Energie, die für das wärmen deines Anzugs verbraucht wird, kannst du am Verteiler wieder aufladen. Behalte die Energieanzeige oben Links im Auge. Wenn die Anzeige leer ist, wirst du rasch auskühlen, wo du wegen Unterkühlung ohnmächtig wirst.</string>
-<string name="SU.02FirstNight.14.Paragraph">"Stelle sicher, dass du genug Energie hast, um zur Absturtzstelle zurückzukehren und dich vom Verteiler wieder aufzuladen.
+<string name="SU.01Welcome.08.Paragraph">Hier sind ein paar schnelle Tipps für diejenigen, welche keine ganze Anleitung lesen möchten. Die nachfolgenden Seiten erklären detaillierter den Anfang.</string>
+<string name="SU.01Welcome.09.Paragraph">- Dein Anzug lädt seine Batterie im Sonnenlicht.
+- Im Startbereich befindet sich der Zentrale Energieverteiler (ZEV). Dieser versorgt angrenzende Maschinen mit Energie, die aus gesammelten Ressourcen gewonnen werden kann.
+- Du kannst Deinen Anzug entweder am ZEV laden oder an einem Energiespeicher [Q] drücken. 
+- Deine Fertigungsmöglichkeiten siehst du, wenn du mit der Konstruktionsanlage interagierst [E].
+- Um Dich aufzuheizen, können Wärmelampen im Herstellungs-Menü [C] produziert werden.
+- Blöcke können gescannt [M] und danach an der Forschungsstation für neue Rezepte verarbeitet werden.
+- Mit dem Scanner kann die Umgebung auf unbekannte Materialien absucht werden, um neue Erze zu finden.
+- Blauer Text am Akkustand des Anzugs zeigt extreme Kälte, roter Text extreme Hitze an. 
+- Die Stirnlampe benötigt Energie, schalte sie wieder ab.
+- Zu Beginn ist Kohle der beste Energielieferant, notfalls kann auch die einheimische Flora verbrannt werden.
+- Weitere Erze befinden sich tiefer.
+- Nutze Deine riesige Baureichweite: Leuchte größerer Bauabschnitte aus.</string>
+<string name="SU.01Welcome.10.Header">Ausrüstung an der Absturzstelle</string>
+<string name="SU.01Welcome.11.Paragraph">Der Zentrale Energieverteiler (ZEV) ist Dein erster Energiegenerator. Er besitzt einen großen Energiespeicher und gewinnt Energie aus Solarpanels und Brennstoffen. Da nur eine Einheit Brennstoff gleichzeitig aufgenommen wird, ist eine automatisierte Brennstoff-Zulieferung wichtig.</string>
+<string name="SU.01Welcome.12.Paragraph">Der Energiespeicher nimmt bis zu 250 Energieeinheiten auf und verteilt diese an angrenzende Maschinen.</string>
+<string name="SU.01Welcome.13.Paragraph">Die Produktion neuer Maschinen benötigt Metallbarren. Diese entstehen in der Erzschmelze. Du kannst die Erze manuell hinzufügen oder die Zufuhr automatisieren. Der Schmelzvorgang startet erst, wenn die benötigte Erzmenge eines Barren vorhanden ist.</string>
+<string name="SU.01Welcome.14.Paragraph">Einfache Gegenstände können im Herstellungs-Menü [C] herstellt werden, komplexere Maschinen und Komponenten in der Konstruktionsanlage. Diese verwendet nur Teile aus deinem Inventar und legt sie dort wieder zurück. Die Rezepte sind in Kategorien unterteilt, sichtbar durch farbige Kästchen.</string>
+<string name="SU.01Welcome.15.Paragraph">Zu Beginn verfügt Dein Scanner über keine Informationen. Neue Scans können an der Forschungsstation zu Forschungspunkten verarbeitet werden. Diese können ausgegeben werden für diverse Forschungsprojekte oder Rezepte für die Konstruktionsanlage. Diese Station benötigt bei Benutzung Energie.</string>
+<string name="SU.01Welcome.16.Header">Finde die ersten Erze</string>
+<string name="SU.01Welcome.17.Paragraph">Dein Scanner kann erst nach bekannten Erzen suchen, sobald diese eingescannt wurden. Du kannst nach unbekannten Materialien suchen, der Scanner wird dann alle unbekannten Blöcke markieren.</string>
+<string name="SU.01Welcome.18.Paragraph">Erstelle von Deiner Umgebung Scans und verarbeite sie an der Forschungsstation. Sobald die gewöhnlichsten Blöcke wie Dreck und Schnee gescannt wurden, siehst Du mit dem Unbekannte Erze-Ping nur noch nützlichere Dinge.</string>
+<string name="SU.01Welcome.19.Paragraph">Sobald Du in der Erde eine Erzader gefunden hast, kannst Du sie einscannen und verarbeiten. Dadurch wird das Erz eingespeichert und beim Bekannte Erze-Ping markiert.</string>
+<string name="SU.01Welcome.20.Header">Extrahieren von Erz</string>
+<string name="SU.01Welcome.21.Paragraph">Erz kann zwar mit [Rechtsklick] auf einer Ader abgebaut werden, jedoch entsteht dabei fast nur Geröll und nur wenig Erz.</string>
+<string name="SU.01Welcome.22.Paragraph">Eine bessere Möglichkeit ist der Super-Gräber-Modus [STRG] + [Rechtsklick]. Dieser baut viel Erz in kurzer Zeit ab und leert genauso schnell Deine Energiereserven.</string>
+<string name="SU.01Welcome.23.Paragraph">Auch der Anzug benötigt Energie zum Aufheizen. Baue Dir eine sichere Route aus Wärmelampen, um Dich nach dem Super-Graben warmzuhalten.</string>
+<string name="SU.01Welcome.24.Header">Automatisiertes Extrahieren</string>
+<string name="SU.01Welcome.25.Paragraph">Nachhaltigeres Extrahieren ist mit den Erzförderern möglich, die Du zu Beginn besitzt. Setze einen auf eine Ader und versorge ihn mit Energie. Solange Du sein winziges Lager nicht auf eine andere Weise leeren kannst, musst Du die Erze selbst abholen.</string>
+<string name="SU.01Welcome.26.Paragraph">Ein Erzförderer kann eine gesamte Ader abbauen, wenn er nur einen einzigen Erzblock berührt.</string>
+<string name="SU.01Welcome.27.Paragraph">Lagercontainer nehmen Erze und Gegenstände von Maschinen an und versorgen damit anderen Maschinen. Sie sind essentiell für diverse Automatisierungen.</string>
+<string name="SU.01Welcome.28.Paragraph">Sobald Du Ressourcen erübrigen kannst, kannst Du mit Hilfe von Förderbändern das Erz automatisch von der Förderstelle bis zur Erzschmelze bringen. Förderbänder benötigen keine Energie und sind billig, dafür wirst Du davon viele brauchen, um Deinen Bergbaubetrieb mit Deiner Hauptbasis zu verbinden.</string>
+<string name="SU.02FirstNight.Title">Überlebe die erste Nacht</string>
+<string name="SU.02FirstNight.00.Title">Überlebe die erste Nacht</string>
+<string name="SU.02FirstNight.01.Paragraph">Dies ist eine Schritt-für-Schritt-Anleitung, um die erste Nacht zu überleben. SPOILER-Warnung: Möchtest Du nicht gespoilert werden, höre hier auf zu lesen!</string>
+<string name="SU.02FirstNight.02.Header">Schließe das Tutorial ab</string>
+<string name="SU.02FirstNight.03.Paragraph">Du erwachst neben einem einfachen Außenposten und dem Krater Deines abgestürzten Schiffes. Deine erste Aufgabe ist die Absolvierung der Kurzeinweisung. Folge jede Anweisung der Reihe nach, bis das Tutorial beendet ist und das Kraftfeld aufgehoben wird.</string>
+<string name="SU.02FirstNight.04.Header">Inventur und Aufwärmen</string>
+<string name="SU.02FirstNight.05.Paragraph">Öffne Dein Inventar mit i. Du beginnst mit 5 Wärmelampen und 3 Erzförderern. Letztere sind wertvolle Maschinen, um Erzadern abzubauen, aber nicht überlebensnotwendig. Erstere sind absolut notwendig.</string>
+<string name="SU.02FirstNight.06.Paragraph">Wähle den Schnellleistenplatz mit der Wärmelampe aus und platziere eine davon etwas entfernt von Deinen Maschinen auf dem Boden. Sie spendet in ihrer Nähe Licht und Wärme. Die Anzugsanzeige oben rechts zeigt die Außentemperatur und die Innentemperatur des Anzugs an. Dein Anzug wird Dich automatisch warm halten, aber das kostet Energie. In der Nähe einer Wärmelampe wirst Du die Außentemperatur steigen sehen. Dein Anzug benötigt also weniger Energie, um Dich aufzuwärmen. Wird es zu heiß, braucht Dein Anzug Energie, um Dich wieder abzukühlen!</string>
+<string name="SU.02FirstNight.07.Header">Sammle Brennstoff</string>
+<string name="SU.02FirstNight.08.Paragraph">Die Maschine mit dem großen Laser darauf ist Dein Zentraler Energieverteiler: Ein Energiegenerator, der seine Energie aus Sonnenkraft und Material-Verbrennung gewinnt, und damit angrenzende Maschinen und Energiespeicher versorgt.</string>
+<string name="SU.02FirstNight.09.Paragraph">Lade Deinen Anzug auf, indem Du mit dem Verteiler interagierst [E] und [take power] anklickst. Die jetzige Brennstoff-Reserve wird nicht lange halten, also ist Deine nächste Aufgabe das Sammeln neuer Brennstoffe.</string>
+<string name="SU.02FirstNight.10.Paragraph">Beim einfachen Schwierigkeitsgrad wurde bereits ein Erzförderer auf einer Kohleader platziert. Wenn der Einschlagkrater eine Kohleader freigelegt hat oder indem Du Bäume abbaust, gelangst Du an Brennstoff. Diesen verbrennst Du, indem Du mit dem Verteiler interagierst [E] und [add resources] klickst. Bis Du die Mittel für eine automatisierte Zufuhr hast, musst Du manuell nachlegen.</string>
+<string name="SU.02FirstNight.11.Paragraph">Beginnt sich die Grafik des Energiespeichers zu drehen, wurde ihm Energie zugeführt. Diese kannst Du also auch von dort beziehen oder Du wartest, bis der Speicher voll ist und der Verteiler sich selbst auflädt.</string>
+<string name="SU.02FirstNight.12.Header">Untersuche Deine Umgebung</string>
+<string name="SU.02FirstNight.13.Paragraph">Nun kannst Du das Erkunden starten und an Deiner kleinen, aber stabilen Energieversorgung Energie nachfüllen, die zum Wärmen verbraucht wurde. Vorsicht: Ist die Energieanzeige oben links leer, wirst Du rasch bis zur Hypothermie auskühlen und ohnmächtig.</string>
+<string name="SU.02FirstNight.14.Paragraph">"Spare immer etwas Energie für den Rückweg auf.
  "</string>
-<string name="SU.02FirstNight.15.Paragraph">Dein Anzug besitzt ein Scanner, welches für das Überleben unbezahlbar ist. Du kannst den Scanner durch drücken von (\'M\') auswählen. Jetzt kannst du durch drücken der rechten Maustaste scannen oder einen Materie Ping mit der linken Taste aussenden. Gib Acht, nicht unnötig Ping`s auszusenden, sie verbrauchen viel Anzugsenergie.</string>
-<string name="SU.02FirstNight.16.Paragraph">Deine nächste Forschungsaufgabe ist es deine Umgebung zu scannen. Ziele auf einen Block den du noch nicht gescannst hast. Benutze dein Scanner und halte die rechte Maustaste gedrückt, bis das Pop-up-Fenster unten links anzeigt, dass der Scan komplett abgeschlossen ist. Versuche alle Blöcke in deiner Umgebung zu scannen. Auch Schnee, Dreck, Holz und Blätter!</string>
-<string name="SU.02FirstNight.17.Header">Erforsche deine Umgebung</string>
-<string name="SU.02FirstNight.18.Paragraph">Jetzt wo du die Blöcke gescannt hast, wird es Zeit die Scans an der Forschungsstation bei der Absturzstelle auszuwerten. Öffne das Interface durch drücken von (\'e\'). Das Fenster zeigt dir eine Liste aller unverarbeiteten Scans an, gefolgt von der Anzahl Forschungspunkte die sie dir nach der Verarbeitung geben. Forschungspunkte sind noch nicht so wichtig, also ignoriere sie. Verarbeite alle Scans die du in deiner Liste hast. Jeder braucht Energie für die Verarbeitung. Wenn du dein Verteiler mit Holz oder Kohle befüllt hast, wird seine Energieanzeige schnell wieder voll sein.</string>
-<string name="SU.02FirstNight.19.Paragraph">Scans verarbeiten könnte Forschungsprojekte freischalten, aber für den Moment musst du dich nicht darum kümmern. Deine Umgebung zu scannen ist wichtiger.</string>
-<string name="SU.02FirstNight.20.Header">Pinge deine Umgebung</string>
-<string name="SU.02FirstNight.21.Paragraph">Mit den gescannten und verarbeiteten Blöcken um dich herum, kennt dein Anzug die Eigenschaften und das ermöglicht dir Material Ping mit großer Wirkung.</string>
-<string name="SU.02FirstNight.22.Paragraph">Im besonderen, der \'unbekannte Materie\' Ping ist was wir als nächstes benutzen werden, um unsere erste Erzader zu finden. Wechsel zum Scanner, wähle mit dem Mausrad \'unbekanntes Material\' aus, und drücke die linke Maustaste. Das markiert alle Blöcke in deiner Reichweite, welche eine Eigenschaft besitzen, die dein Anzug noch nicht kennt.</string>
-<string name="SU.02FirstNight.23.Paragraph">"Wenn du deine Umgebung noch nicht gescannt hast, wird dieser Ping alle Blöcke wie Dreck und Stein um die Absturzstelle anzeigen. Sollte das so sein, scanne und verarbeite diese Blöcke. Dann versuche es erneut. "</string>
-<string name="SU.02FirstNight.24.Paragraph">War der Scann erfolgreich, solltest du eine Anhäufung unbekannter Signaturen irgendwo im Untergrund oder im Inneren von Hügeln in der Nähe sehen. Aber behalte deine Energieanzeige im Auge, es ist nicht nötig zu frieren!</string>
+<string name="SU.02FirstNight.15.Paragraph">Dein Anzug besitzt einen Scanner, welcher für das Überleben unbezahlbar ist. Du kannst ihn mit [M] auswählen und dann mit [Rechtsklick] scannen oder mit [Linksklick] einen Material-Ping starten. Gib acht, nicht unnötig viele Pings zu nutzen, sie verbrauchen sehr viel Energie.</string>
+<string name="SU.02FirstNight.16.Paragraph">Deine nächste Erkundungsaufgabe ist das Scannen Deiner Umgebung. Ziele auf einen Block, den Du bisher nicht gescannst hast. Nutze Deinen Scanner und halte [Rechtsklick] gedrückt, bis das Pop-up-Fenster unten links anzeigt, dass der Scan abgeschlossen wurde. Versuche alle verschiedenen Blöcke in Deiner Umgebung zu scannen, auch Schnee, Dreck, Holz und Blätter!</string>
+<string name="SU.02FirstNight.17.Header">Erforsche Deine Umgebung</string>
+<string name="SU.02FirstNight.18.Paragraph">Nun ist es Zeit, die Scans an der Forschungsstation in der Nähe der Absturzstelle zu verarbeiten. Öffne dafür das Interface [E], um zu sehen, welche unverarbeiteten Scans wie viele Forschungspunkte bringen. Forschungspunkte sind noch nicht so wichtig, also ignoriere sie. Verarbeite alle Scans, die Du in Deiner Liste hast. Jede Verarbeitung kostet Deinem ZEV Energie, die sich wieder auffüllt, wenn Du Deinen Verteiler mit Holz oder Kohle belieferst.</string>
+<string name="SU.02FirstNight.19.Paragraph">Das Verarbeiten von Scans kann auch Forschungsprojekte freischalten. Im Moment musst Du Dich nicht darum kümmern, das Scannen Deiner Umgebung ist wichtiger.</string>
+<string name="SU.02FirstNight.20.Header">Pinge Deine Umgebung</string>
+<string name="SU.02FirstNight.21.Paragraph">Die gescannten und verarbeiteten Blöcke wurden in Deinem Anzug mit ihren Eigenschaften eingespeichert, damit entfaltet der Material-Ping große Wirkung.</string>
+<string name="SU.02FirstNight.22.Paragraph">Insbesondere der Unbekannte-Materialien-Ping ist wichtig, um unsere erste Erzader zu finden. Wechsle zum Scanner, wähle mit dem Mausrad [Unbekannte Materialien] und drücke [Linksklick]. Dadurch werden alle Blöcke in Deiner Reichweite mit unbekannten Eigenschaften markiert.</string>
+<string name="SU.02FirstNight.23.Paragraph">"Wenn Du Deine direkte Umgebung noch nicht gescannt hast, wird dieser Ping auch alle Dreck- und Stein-Blöcke markieren. In diesem Falle scanne und verarbeite diese Blöcke und versuche den Ping nochmal. "</string>
+<string name="SU.02FirstNight.24.Paragraph">Bei einem erfolgreichen Scan siehst Du wahrscheinlich eine Ansammlung unbekannter Signaturen irgendwo im Untergrund. Achte auf deine Energieanzeige, um nicht frieren zu müssen!</string>
 <string name="SU.02FirstNight.25.Header">Grabe zu den Adern</string>
-<string name="SU.02FirstNight.26.Paragraph">Nun musst du in Richtung dieser Signaturen graben, und nachsehen was sie sind. Scanne die Erzader und verarbeite es. Du wirst bemerken dass es mehr Forschungspunkte gibt als normales Material. Sobald du einen Erzblock kennst, kannst du zurück zur Ader gehen und sie erneut scannen um mehr Informationen zu dieser Ader zu erhalten. Wie groß sie ist und wie viel Erz darin ist (das ist nicht dasselbe).</string>
-<string name="SU.02FirstNight.27.Paragraph">Benutze deinen Greifhaken (\'F\') um schnell aus den Löchern heraus zu kommen, die du gegraben hast.</string>
-<string name="SU.02FirstNight.28.Paragraph">Wenn du nicht auf leicht spielst, ist das erste Erz dass du finden möchtest, Kohle. Falls du Kupfer, Zinn oder Eisen findest, wird das großartig für später sein, aber nicht für den momentanen Gebrauch. Versuche dir den Ort zu merken, wir werden später dorthin zurück kommen. Wenn du dich nicht erinnern kannst macht das nichts. Wir können später den Erz Ping benutzen um den Weg wieder zu finden.</string>
+<string name="SU.02FirstNight.26.Paragraph">Grabe nun in Richtung dieser Signaturen und sieh nach, was dort ist. Scanne und verarbeite die Erzader. Sie bringen mehr Forschungspunkte als normale Materialien. Scannst Du bereits gespeicherte Erzadern erneut, erhältst Du ihre Größe und Erzmenge (das ist nicht dasselbe).</string>
+<string name="SU.02FirstNight.27.Paragraph">Aus den Gruben, die Du Dir selbst gegraben hast, kommst Du mit dem Greifhaken [F] wieder heraus.</string>
+<string name="SU.02FirstNight.28.Paragraph">Wenn Du nicht auf dem leichten Schwierigkeitsgrad spielst, ist Kohle das erste Erz, das Du finden möchtest. Findest Du Kupfer, Zinn oder Eisen, kommen wir später darauf zurück. Solltest Du Dich dann nicht mehr an die Fundstelle erinnern, können wir mit dem Erz-Ping den Weg wiederfinden.</string>
 <string name="SU.02FirstNight.29.Header">Fördere Kohle</string>
-<string name="SU.02FirstNight.30.Paragraph">Kohleadern in FortressCraft Evolved können gewaltig sein und bis zu Millionen Einheiten Erz enthalten. Es abzubauen ist keine Sache von ein paar mal klicken. Du wirst Energie verbrauchen und wahrscheinlich Maschinen benutzen.</string>
-<string name="SU.02FirstNight.31.Paragraph">Mit deiner ersten Kohleader an der Hand, investiere etwas Zeit um einen sicheren Rückweg von der Ader zur Absturzstelle zu gestalten. Du wirst diesen Weg oft benutzen, also ist die Zeit gut investiert.</string>
-<string name="SU.02FirstNight.32.Paragraph">Als nächstes solltest du deine Energie vom Verteiler aufladen und wieder zurück zur Kohleader gehen. Platziere dort eine Fackel um sicherzustellen, nicht zuviel Energie dort unten zum wärmen zu verbrauchen. Dann investiere deine ganze Energie in einen Superbuddler auf die Kohleader. Du kannst das tun wenn du CTRL (STRG) hältst, während du rechts klickst. Das ist ein ineffizienter Weg Erz abzubauen, aber es gibt dir eine kleine Menge Kohle mit der du arbeiten kannst.</string>
-<string name="SU.02FirstNight.33.Paragraph">Nun bist du ohne Energie. Gehe rasch zurück zum Verteiler und lade deine Energie wieder auf. Aber jetzt hast du eine bessere Ressource, die du in den Verteiler legen kannst: Kohle! Das nächste mal wo du \'Treibstoff hinzufügen\' drückst, sollte es einen Kohle-Erz Block anstelle von Holz rein legen. Sie generiert mehr Energie, Darum wirst du etwas weniger Micromanagement betreiben müssen um die Energie aufrecht zu erhalten.</string>
-<string name="SU.02FirstNight.34.Header">Fertige es an</string>
-<string name="SU.02FirstNight.35.Paragraph">Kohle Erz lässt dich auch das sSelbstanfertigungsfenster benutzen um neue Fackeln herzustellen. Drücke (\'C\') um dieses Fenster zu öffnen. Es zeigt dir alle Rezepte die du herstellen kannst an, unter ihnen sind die Fackeln. Wähle die Fackeln aus und in der rechten Seite wird dir angezeigt dass du 5 Kohle brauchst um eine Fackel herzustellen. Drücke \'Herstellen\' und es fügt eine Fackel deinem Inventar hinzu.</string>
-<string name="SU.02FirstNight.36.Paragraph">Fackeln können auch automatisch hergestellt werden, solange du mindestens 5 Kohle Erz in deinem Inventar hast. Versuche eine neue zu platzieren und sobald du keine mehr hast, wird eine neue für dich hergestellt.</string>
+<string name="SU.02FirstNight.30.Paragraph">Erzadern können in FortressCraft Evolved Millionen von Erz-Einheiten enthalten. Das Abbauen benötigt mehr als paar Klicks; Du wirst Energie und voraussichtlich Maschinen benötigen.</string>
+<string name="SU.02FirstNight.31.Paragraph">Steht Dir die erste Kohleader zur Verfügung, investiere etwas Zeit, um einen sicheren Rückweg zur Absturzstelle zu schaffen. Du wirst diesen Weg oft nutzen.</string>
+<string name="SU.02FirstNight.32.Paragraph">Lade als Nächstes Deine Energie am Verteiler auf und gehe wieder zurück zur Kohleader. Platziere dort eine Wärmelampe, um Dir die Energie zum Aufwärmen zu sparen. Investiere dann Deine gesamte Energie in einem Super-Graben auf der Kohleader. Halte dafür [STRG] und [Rechtsklick] gedrückt. Dies ist ein ineffizienter Weg, um Erz abzubauen, aber Du bekommst eine kleine Menge Kohle, mit der Du arbeiten kannst.</string>
+<string name="SU.02FirstNight.33.Paragraph">Lade Deine Energie wieder am Verteiler auf, nachdem sie aufgebraucht wurde. Das nächste Mal, wenn Du dort auf [add resources] klickst, wird Deine abgebaute Kohle eingelegt. Sie generiert mehr Energie, das bedeutet weniger Mikromanagement für die Energiegewinnung.</string>
+<string name="SU.02FirstNight.34.Header">Handwerkliche Fähigkeiten</string>
+<string name="SU.02FirstNight.35.Paragraph">Mit dem Kohleerz kannst Du neue Wärmelampen fertigen. Rufe dafür das Herstellungs-Menü mit C auf. Dort werden alle Rezepte aufgelistet, die Du nutzen kannst. Wähle nun die Wärmelampen aus. An der rechten Seite wird angezeigt, dass 5 Kohle für die Herstellung benötigt werden. Drücke [Herstellen] und im Inventar befindet sich eine weitere Wärmelampe.</string>
+<string name="SU.02FirstNight.36.Paragraph">Wärmelampen werden automatisch hergestellt, wenn Du eine platzierst, obwohl keine mehr im Inventar vorhanden sind und sich mindestens 5 Kohleerz in Deinem Inventar befinden.</string>
 <string name="SU.02FirstNight.37.Header">Ziel erreicht!</string>
-<string name="SU.02FirstNight.38.Paragraph">Mit einer Kohleader, die deinen Zentralen Energie Verteiler versorgt und dich mit all den Fackeln beliefert die du brauchst, solltest du an der Oberfläche unbegrenzt überleben können. Von diesem Zeitpunkt an, kannst du anfangen, die anderen Adern abzubauen die du gefunden hast oder anfangen sie zu suchen wenn du noch keine gefunden hast. Danach kannst du anfangen den Schmelzofen mit Erz zu füttern um Barren herzustellen, die du an der Werkbank zu Herstellung benötigst.</string>
-<string name="SU.02FirstNight.39.Paragraph">Du kannst auch darüber nachdenke,n deine Erzförderer zu benutzen, um den Abbau zu automatisieren. Oder, du investierst einige Forschungspunkte in Projekte um herauszufinden, was dazu geführt hat dich auf diesen Planeten zu bringen. Oder du stellst dich mutig der Herausforderung der Tiefe entgegen, um zu sehen welche interessanten Dinge gefunden werden können. Es ist deine Entscheidung!</string>
-<string name="SU.03Controls.Title">Steuerungen</string>
-<string name="SU.03Controls.00.Title">Steuerungen</string>
-<string name="SU.03Controls.01.Paragraph">In dieser Hilfe findest du alle verfügbaren Steuerungen für FotressCraft Evolved. Keine Angst, wenn dich die Menge der Kontrollen verunsichert, schau dir nur die wichtigsten Funktionen an um loszulegen.</string>
-<string name="SU.03Controls.02.Paragraph">Manche der Steuerungen sind erst verfügbar, wenn du das Tutorial abgeschlossen hast.</string>
+<string name="SU.02FirstNight.38.Paragraph">Mit einer Kohleader in Deinem Besitz, die den ZEV mit Energie und Dich mit Wärmelampen versorgt, solltest Du an der Oberfläche unbegrenzt lange leben können. Nun kannst Du anfangen, andere Erzadern zu suchen bzw. sie abzubauen. Füttere schließlich die Erzschmelze mit Erzen, um die für die Konstruktionsanlage benötigten Barren herzustellen.</string>
+<string name="SU.02FirstNight.39.Paragraph">Du kannst auch einen Erzförderer nutzen, um den Abbau zu automatisieren. Oder investiere einige Forschungspunkte in Projekten, um herauszufinden, was Dich auf diesen Planeten geführt hat. Oder stelle Dich mutig den Herausforderungen der Tiefe, um zu sehen, welche interessanten Dinge dort gefunden werden können. Es liegt an Dir!</string>
+<string name="SU.03Controls.Title">Steuerung</string>
+<string name="SU.03Controls.00.Title">Steuerung</string>
+<string name="SU.03Controls.01.Paragraph">In dieser Hilfe findest Du alle verfügbaren Steuerungen für FotressCraft Evolved. Die wichtigsten Tasten sind auf dieser Seite aufgeführt.</string>
+<string name="SU.03Controls.02.Paragraph">Einige Tasten sind während des Tutorials gesperrt.</string>
 <string name="SU.03Controls.03.Header">Die wichtigsten Steuerungen</string>
 <string name="SU.03Controls.04.Left">"W, A, S &amp; D: Bewegung
- Space: Springen
+ Leertaste: Springen
  H: Diese Hilfe
  Escape: Hauptmenü
  
@@ -97,7 +97,7 @@
  RMT: Block entfernen
  
  M: Wechseln zum Scanner
- LMT: Material Ping
+ LMT: Material-Ping
  RMT: Block scannen
  "</string>
 <string name="SU.03Controls.05.Right">"I: Inventar öffnen
@@ -106,94 +106,92 @@
  G: Leuchtstab werfen
  
  E: Maschine benutzen
- Q: Objekt aus einer Maschine herausnehmen
- R: Eine Maschine Drehen
+ Q: Etwas einer Maschine entnehmen
+ R: Maschine drehen
  
- V: Wechsel zur Strahlenpistole
- LMT: Feuer
- RMT: Einen Schuss aufladen, zum abfeuern loslassen
+ V: Wechsel zur Strahlenwaffe
+ LMT: Feuern
+ RMT: Schuss aufladen
  "</string>
 <string name="SU.03Controls.06.Paragraph">(LMT = Linke Maustaste, RMT = Rechte Maustaste)</string>
 <string name="SU.03Controls.07.Header">Steuerungen anpassen</string>
-<string name="SU.03Controls.08.Paragraph">Die meisten Steuerungen können über den Startbildschirm angepasst werden. Im Spiel werde diese Änderungen nicht in den Hilfen angezeigt.</string>
+<string name="SU.03Controls.08.Paragraph">Steuerungen werden im Startbildschirm angepasst, Änderungen jedoch nicht in den Hilfen angezeigt.</string>
 <string name="SU.03Controls.09.Header">Bewegung &amp; Ansicht</string>
-<string name="SU.03Controls.10.Left">W: Vorwärts Bewegen
-					S: Rückwärts Bewegen
-					A: Nach links Neigen
-					D: Nach rechts Neigen</string>
+<string name="SU.03Controls.10.Left">W: Vorwärts bewegen
+ S: Rückwärts bewegen
+ A: Nach links neigen
+ D: Nach rechts neigen</string>
 <string name="SU.03Controls.11.Right">Leertaste: Springen
-					Maus: Sich umsehen
-					U: Auf eine Lohre aufspringen
-					Z: Zoom</string>
+ Maus: Umsehen
+ U: Lore benutzen
+ Z: Zoom</string>
 <string name="SU.03Controls.12.Header">Waffen &amp; Werkzeuge</string>
 <string name="SU.03Controls.13.Left">"X: Wechsel zum Konstruktor  
- V: Wechsel zur Strahlenpistole
+ V: Wechsel zur Strahlenwaffe
  B: Wechsel zur Kamera"</string>
-<string name="SU.03Controls.14.Right">N: Wechsel zum Pinsel
- M: Wechsel zum Scanner
- Umschalt + Mausrad: Werkzeuge durchschalten</string>
-<string name="SU.03Controls.15.Header">Inventar &amp; Schnellwahl Menü</string>
-<string name="SU.03Controls.16.Left">I: Inventar öffnen
-					F1-F7: Schnellwahlblock wählen
-					1-9 &amp; 0: Slot auswählen
-					Q : Objekt wegwerfen
-					</string>
-<string name="SU.03Controls.17.Right">Umschalt + Ziehen: Stapel aufteilen
-					Steuerung + Mausrad: Schnellwahlmenü 
-					Steuerung + Mausrad: Schnellwahlblock durchschalten
-					--
-					</string>
-<string name="SU.03Controls.18.Header">Anzugsfunktionen</string>
+<string name="SU.03Controls.14.Right">N: Wechsel zur Farbpistole
+M: Wechsel zum Scanner
+Shift+Mausrad: Werkzeuge durchschalten</string>
+<string name="SU.03Controls.15.Header">Inventar &amp; Schnellauswahl</string>
+<string name="SU.03Controls.16.Left">"I: Inventar öffnen
+ F1-F7: Schnellauswahl-Reiter
+ 1-9 &amp; 0: Slot auswählen
+ Q : Objekt wegwerfen
+ "</string>
+<string name="SU.03Controls.17.Right">"Shift+Ziehen: Stapel aufteilen
+ Strg+Mausrad: Reiter wählen
+ Mausrad: Slot wählen
+ "</string>
+<string name="SU.03Controls.18.Header">Anzug-Funktionen</string>
 <string name="SU.03Controls.19.Left">C: Herstellungsmenü öffnen
- L: Stirnlampe
- J: Jetpack (muss erst gebaut werden)
- F: Greifhaken abfeuern</string>
+L: Stirnlampe
+J: Jetpack (falls produziert)
+F: Greifhaken abfeuern</string>
 <string name="SU.03Controls.20.Right">G: Leuchtstab werfen
-					K: Holobase Ansicht öffnen
-					U: Holobase Modus umschalten
-					Leertaste: Greifhaken loslassen</string>
+ K: Holobase-Ansicht öffnen
+ U: Holobase-Modus ändern
+ Leertaste: Greifhaken lösen</string>
 <string name="SU.03Controls.21.Header">Maschinen</string>
-<string name="SU.03Controls.22.Left">E: Maschinen benutzen
-					T: Objekt in Maschine legen
-					R: Maschine im Uhrzeigersinn drehen
-					]: Maschine im Uhrzeigersinn drehen</string>
-<string name="SU.03Controls.23.Right">Q: Objekt aus einer Maschine nehmen
- Shift-T: 10 Objekte in eine Maschine legen
- Shift-E: Container Vacuum Modus
+<string name="SU.03Controls.22.Left">E: Maschine benutzen
+ T: Objekt in Maschine legen
+ R: Im Uhrzeigersinn drehen
+ ]: Im Uhrzeigersinn drehen</string>
+<string name="SU.03Controls.23.Right">Q: Objekte entnehmen
+ Shift-T: 10 Objekte einlegen
+ Shift-E: Container-Vakuum
  [: Maschine gegen den Uhrzeigersinn drehen</string>
 <string name="SU.03Controls.24.Header">Mehrspieler</string>
-<string name="SU.03Controls.25.Paragraph">Enter: Chat Fenster öffnen
-					Rechte Umschalt Taste: Zeige Server Informationen
-					Rechte Umschalt Taste  + F1, F2 or F3: Netzwerk Bandbreite anpassen</string>
+<string name="SU.03Controls.25.Paragraph">Enter: Chat-Fenster öffnen
+ Rechte Shift-Taste: Server-Informationen anzeigen
+ Rechte Shift-Taste + F1, F2 o. F3: Netzwerk-Bandbreite anpassen</string>
 <string name="SU.03Controls.26.Header">Konstruktor</string>
 <string name="SU.03Controls.27.Left">LMT: Block setzen
  RMT: Block entfernen
- MMT : Block auswählen</string>
-<string name="SU.03Controls.28.Right">Steuerung + LMt: zu mir bauen
- Steuerung + RMT halten: Massenabbau</string>
+ MMT: Block auswählen</string>
+<string name="SU.03Controls.28.Right">Strg + LMT: Baue-Zu-Mir
+ Strg + RMT halten: Super-Graben</string>
 <string name="SU.03Controls.29.Header">Scanner</string>
 <string name="SU.03Controls.30.Paragraph">LMT: Umgebung pingen
  RMT: Block scannen
- Mausrad: Ping Einstellungen verändern</string>
-<string name="SU.03Controls.31.Header">Strahlenpistole</string>
-<string name="SU.03Controls.32.Left">LMT: Einzelner Schuss abfeuern</string>
-<string name="SU.03Controls.33.Right">RMT: Einen Schuss aufladen, zum abfeuern loslassen</string>
-<string name="SU.03Controls.34.Header">Anderes</string>
+ Mausrad: Ping-Modus ändern</string>
+<string name="SU.03Controls.31.Header">Strahlenwaffe</string>
+<string name="SU.03Controls.32.Left">LMT: Einzelnen Schuss abfeuern</string>
+<string name="SU.03Controls.33.Right">RMT halten: Schuss aufladen</string>
+<string name="SU.03Controls.34.Header">Sonstiges</string>
 <string name="SU.03Controls.35.Left">Escape: Hauptmenü
- Steuerung + M: Musik durchschalten</string>
-<string name="SU.03Controls.36.Right">Tabulator: ARTHER Entfernung einstellen</string>
+ Strg + M: Musik durchschalten</string>
+<string name="SU.03Controls.36.Right">Tabulator: ARTHER-Verhalten ändern</string>
 <string name="SU.04UnknownMaterials.Title">Unbekannte Materialien</string>
 <string name="SU.04UnknownMaterials.00.Title">Unbekannte Materialien</string>
 <string name="SU.04UnknownMaterials.01.Header">Was sind Unbekannte Materialien?</string>
-<string name="SU.04UnknownMaterials.02.Paragraph">"Zu Beginn sind alle Materialien auf dem Planeten unbekannt. Diese tauchen im Inventar mit einem Fragezeichen markiert auf. Bevor man sie für irgendetwas verwenden kann, müssen sie identifiziert werden. Nach dem Abbauen oder durch das Scannen der Materialien mit dem Scanner (RMT: Block scannen), müssen diese zum Identifizieren zur Forschungsstation gebracht werden. Erst wenn die Materialien bekannt sind, können sie weiterverarbeitet oder benutzt werden.
+<string name="SU.04UnknownMaterials.02.Paragraph">"Zu Beginn sind alle Materialien auf dem Planeten unbekannt. Diese tauchen im Inventar mit einem Fragezeichen markiert auf. Nach dem Abbauen oder Scannen (RMT: Block scannen) müssen sie zum Identifizieren zur Forschungsstation gebracht werden. Erst nachdem die Materialien bekannt sind, können sie weiterverarbeitet oder benutzt werden.
  "</string>
-<string name="SU.04UnknownMaterials.03.Header">Identifizieren von unbekannten Materialien</string>
-<string name="SU.04UnknownMaterials.04.Paragraph">Damit in der Forschungsstation Materialien identifiziert werden können, findet man diese nach der Entdeckung unter dem Reiter Scans . Dort steht auch, wie viele Forschungspunkte man für dieses Material erhält. Ebenso die Menge an Energie die erforderlich ist für die Identifikation. 
-Durch drücken des ´Forschen´ Knopfes, wird die erforderliche Energie abgezogen und die Menge an Forschungspunkten gut geschrieben. Diese können dazu verwendet werden, neue Maschinen und Rezepte freizuschalten. Diese findest du im zweiten und dritten Karteireiter der Forschungsstation.</string>
+<string name="SU.04UnknownMaterials.03.Header">Identifizieren von Unbekannten Materialien</string>
+<string name="SU.04UnknownMaterials.04.Paragraph">Im Reiter „Scans“ der Forschungsstation sind alle identifizierbaren, unbekannten Materialien aufgelistet, zusammen mit ihrem Wert in Forschungspunkten und die zur Verarbeitung benötigte Energiemenge. Drücke [Verarbeiten], um das Material zu identifizieren. Die benötigte Energiemenge wird abgezogen und die Forschungspunkte hinzugefügt. Letztere können verwendet werden, um im zweiten und dritten Reiter neue Rezepte und Projekte freizuschalten.</string>
 <string name="SU.04UnknownMaterials.05.Header">Fortschritt</string>
-<string name="SU.04UnknownMaterials.06.Paragraph">Sind die neuen Materialien identifiziert, können damit neue Maschinen, Rezepte und Projekte freigeschalten werden.</string>
-<string name="SU.04UnknownMaterials.07.Paragraph">Unbekannte Materialien identifizieren ist der beste Weg, um an Forschungspunkte zu gelangen. Je mehr wir von dieser fremden blockartigen Welt verstehen, desto besser können wir uns ausrüsten, größere und bessere Maschinen bauen, unsere Chance zum überleben erhöhen und dann endlich fliehen!!!</string>
-<string name="SU.04UnknownMaterials.08.Paragraph">Bitte lest die Hilfe der Forschungsstation für weitere Infomationen.</string>
+<string name="SU.04UnknownMaterials.06.Paragraph">Wurden neue Materialien identifiziert, können damit neue Maschinen, Rezepte und Projekte freigeschaltet werden.</string>
+<string name="SU.04UnknownMaterials.07.Paragraph">Das Identifizieren unbekannter Materialien ist der beste Weg, um Forschungspunkte zu erlangen. Je mehr wir von diesem merkwürdigen, blockartigen Planeten verstehen, desto besser können wir uns ausrüsten, um größere und bessere Maschinen zu bauen, die Deine Überlebens-Chance erhöhen und Dir helfen, endlich zu fliehen!</string>
+<string name="SU.04UnknownMaterials.08.Paragraph">Bitte lese den Hilfe-Eintrag zur Forschungsstation, um weitere Infomationen zu erhalten.</string>
 <string name="SU.07Mynocks.Title">Mynock Befall</string>
 <string name="SU.07Mynocks.00.Title">Mynock Befall</string>
 <string name="SU.07Mynocks.01.Paragraph">Dieses Förderband wurde von einer fremden Lebensform befallen. Wir haben gesehen, dass es die Ressourcen vom Förderband stiehlt. Aber diese Ressourcen scheinen nicht im Körper der Lebensform selbst zu verbleiben. Scheinbar sind sie mit einem wurzelartigen Netzwerk verbunden. Unsere Scanner zeigen, dass diese Wurzeln auf einen zentralen Kern zu gehen.Wir sollten das vorrangig untersuchen.</string>
@@ -201,38 +199,38 @@ Durch drücken des ´Forschen´ Knopfes, wird die erforderliche Energie abgezoge
 <string name="SU.05LaboratoryResearch.Title">Laborforschung</string>
 <string name="SU.05LaboratoryResearch.00.Title">Laborforschung</string>
 <string name="SU.06ExperimentalPods.07.Header">Herstellung von Metallplatten</string>
-<string name="SU.06ExperimentalPods.08.Paragraph">Metallplatten werden in der Stanze hergestellt. Dies ist eine spezielle Art von Förderband mit der Stanzmechanik, die in der Konstruktionsanlage hergestellt wird. Als Rohmaterial werden Metallbarren benötigt.</string>
+<string name="SU.06ExperimentalPods.08.Paragraph">Metallplatten werden in der Presse hergestellt. Dies ist ein spezielles Förderband mit aufgesetzter Pressmechanik und kann in der Konstruktionsanlage hergestellt werden. Als Rohmaterialien dienen Metallbarren.</string>
 <string name="SU.06ExperimentalPods.09.Header">Herstellung von Platinen</string>
-<string name="SU.06ExperimentalPods.10.Paragraph">Die Herstellung von Platinen ist ein mehrstufiger Prozess und benötigt drei verschiedene Maschinen. Zuerst benutze die Extrudiermaschine, um Metallbarren zu Drähten zu verarbeiten. Danach werden die Drähte in der Wickelmaschine aufgespult und zuletzt werden die Spulen in der Platinen-Montagemaschine zu Platinen weiterverarbeitet.</string>
+<string name="SU.06ExperimentalPods.10.Paragraph">Die Herstellung von Platinen ist ein mehrstufiger Prozess mit drei verschiedenen Maschinen. Zuerst kommt die Strangpresse, die Barren zu Draht verarbeitet. Danach werden die Drähte im Spulenwickler aufgewickelt und zuletzt die Spulen in der Platinen-Fertigung zu Platinen weiterverarbeitet.</string>
 <string name="SU.08VideoTutorials.Title">Videoanleitungen!</string>
 <string name="SU.08VideoTutorials.00.Title">Videoanleitungen</string>
 <string name="SU.08VideoTutorials.01.Paragraph">Willst Du mehr Anleitungen? Lass es mich wissen auf twitter @fortress_craft oder in den Steamforen! - Dj</string>
 <string name="SU.09CommunityLinks.01.Paragraph">Merke Dir, du kannst mich jederzeit auf Twitter @fortress_craft oder in den Steamforen ansprechen! - Dj</string>
 <string name="SU.Particulate_Filtration.Title">Partikelfilterung</string>
 <string name="SU.Particulate_Filtration.00.Title">Partikelfilterung</string>
-<string name="SU.05LaboratoryResearch.01.Paragraph">Dieser Leitfaden ist für Forschungsprojekte, die den Einsatz des Labors erfordern. Für weitere Informationen über die Forschung im Allgemeinen besuchen Sie bitte die Forschungsstation-Hilfe-Eintrag.</string>
+<string name="SU.05LaboratoryResearch.01.Paragraph">Dieser Leitfaden behandelt Forschungsprojekte, die den Einsatz des Labors erfordern. Weitere Informationen über die allgemeine Forschung befinden sich im Hilfe-Eintrag für die Forschungsstation.</string>
 <string name="SU.05LaboratoryResearch.02.Header">Baue ein Labor</string>
-<string name="SU.05LaboratoryResearch.03.Paragraph">"Das Forschungslabor muss zunächst durch die Durchführung der entsprechenden Projekte an der Forschungsstation freigeschaltet werden. Sie müssen dann 27 Laborkomponenten in der Fertigungsstätte herstellen und in eine 3 mal 3 mal 3-Konfiguration bauen.
+<string name="SU.05LaboratoryResearch.03.Paragraph">"Zunächst muss das Forschungslabor an der Forschungsstation mit dem dazugehörigen Projekt freigeschaltet werden. Stelle dann 27 Laborkomponenten in der Konstruktionsanlage her und platziere sie in einer 3x3x3-Anordnung.
  "</string>
 <string name="SU.05LaboratoryResearch.04.Header">Versorge das Labor mit Energie</string>
-<string name="SU.05LaboratoryResearch.05.Paragraph">Das Labor ist so konzipiert, dass man so viel Energie einsetzt, wie man es liefern kann. Mehr Energie bedeutet, schneller Forschung! Zumindest sollten Sie die Verwendung mehrerer Energie-Generatoren beachten, aber es besteht keine Notwendigkeit, dass Labor vollständig zu betreiben.</string>
+<string name="SU.05LaboratoryResearch.05.Paragraph">Das Labor wurde so konzipiert, dass mit zunehmender Energieversorgung die Forschungsgeschwindigkeit steigt. Du solltest zumindest einige Pyrothermische Generatoren nutzen; für eine maximale Energieversorgung besteht keine Notwendigkeit.</string>
 <string name="SU.05LaboratoryResearch.06.Header">Starte Projekte</string>
-<string name="SU.05LaboratoryResearch.07.Paragraph">"Öffnen Sie das Labor-Bedienfeld, indem Sie mit der Maschine interagieren (Standard \'E\') und stellen Sie sicher, dass Sie sich im Modus \'Experimente\' befinden. Das ausgewählte Projekt wird zuerst aufgeführt, gefolgt von seinen Anforderungen und allen förderungswürdigen Projekten darunter. Um ein neues Projekt auszuwählen, klicken Sie darauf und seine Anforderungen werden angezeigt. Klicken Sie auf \"Projekt starten\", um die Forschung zu beginnen.
+<string name="SU.05LaboratoryResearch.07.Paragraph">"Öffne das Labor-Interface, indem Du mit der Maschine interagierst [E] und nutze den Modus „Experimente“. Zuerst wird das ausgewählte Projekt mit seinen Anforderungen aufgeführt, danach kommen alle weiteren auswählbaren Projekte. Klicke ein neues Projekt an, um seine Anforderungen anzuzeigen. Mit [Projekt starten] beginnt die Forschung.
  "</string>
-<string name="SU.05LaboratoryResearch.08.Header">Bereitstellung von Projektanforderungen</string>
-<string name="SU.05LaboratoryResearch.09.Paragraph">Projekte erfordern in der Regel eine oder mehrere Arten von Experimentier-Pods. Die genauen Anforderungen werden mit dem Projekt aufgelistet. Diese sollten in einen Container gestellt werden, der an einen Seite des Labors befestigt ist. Wenn Sie die Lieferung von Pods automatisieren möchten, dann sollten Sie einen separaten Container für jeden Typ verwenden, um die Verfügbarkeit eines Pod-Typs zu gewährleisten.</string>
-<string name="SU.05LaboratoryResearch.10.Paragraph">Für weitere Informationen zum Erstellen von Experimentier-Pods lesen Sie bitte die folgende Anleitung.</string>
-<string name="SU.06ExperimentalPods.Title">Experimentier-Pods</string>
-<string name="SU.06ExperimentalPods.00.Title">Experimentier-Pods</string>
-<string name="SU.06ExperimentalPods.01.Paragraph">Experimentelle Pods werden in einem Labor eingesetzt, um Experimente und Forschungsprojekte durchzuführen. Weitere Informationen zur Laborforschung finden Sie in der folgenden Anleitung.</string>
-<string name="SU.06ExperimentalPods.02.Header">Was sind Experimentier-Pods?</string>
-<string name="SU.06ExperimentalPods.03.Paragraph">Experimentier-Pods sind die Ressource, die vom Labor verwendet wird, um Experimente durchzuführen. Jeder Pod ist eine intelligente Speichervorrichtung, die in der Lage ist, eine Vielzahl von Substanzen zu enthalten und zu überwachen. Das Labor ist verantwortlich für das Management dieser, man braucht es nur mit den Pods zu versorgen.</string>
-<string name="SU.06ExperimentalPods.04.Header">Erstellen von Experimentier-Pods</string>
+<string name="SU.05LaboratoryResearch.08.Header">Bereitstellen von Projekt-Erfordernissen</string>
+<string name="SU.05LaboratoryResearch.09.Paragraph">Projekte erfordern in der Regel eine oder mehrere Arten von Forschungskapseln. Die genauen Anforderungen werden zusammen mit dem Projekt aufgelistet. Platziere die Kapseln in einem Container, der an der Seite des Labors befestigt ist. Für eine automatisierte Zufuhr solltest Du separate Container für jeden Typ verwenden, um die Verfügbarkeit jeder Kapsel-Art zu gewährleisten.</string>
+<string name="SU.05LaboratoryResearch.10.Paragraph">Für weitere Informationen zum Herstellen von Forschungskapseln lese bitte die folgende Anleitung.</string>
+<string name="SU.06ExperimentalPods.Title">Forschungskapseln</string>
+<string name="SU.06ExperimentalPods.00.Title">Forschungskapseln</string>
+<string name="SU.06ExperimentalPods.01.Paragraph">Um mit Forschungskapseln neue Forschungsprojekte zu starten, wird das Labor benötigt. Mehr Informationen dazu im folgenden Eintrag.</string>
+<string name="SU.06ExperimentalPods.02.Header">Was sind Forschungskapseln?</string>
+<string name="SU.06ExperimentalPods.03.Paragraph">Forschungskapseln sind die Ressourcen eines Labors. Diese intelligenten Speichervorrichtungen enthalten und überwachen eine Vielzahl von Substanzen. Das Labor verwaltet sie, wenn man es mit Kapseln versorgt.</string>
+<string name="SU.06ExperimentalPods.04.Header">Herstellen von Forschungskapseln</string>
 <string name="SU.09CommunityLinks.Title">Community Links!</string>
 <string name="SU.09CommunityLinks.00.Title">Community Links</string>
 <string name="SU.Particulate_Filtration.01.Paragraph">Durch das erforschen des Anzugspatikelfiltrationssystem können wir nun verschiedene Elemente aus der Luft filtern. Der Aufbau dieser Systeme in den verschiedenen Kavernen sollte es uns ermöglichen, verschiedene Elemente, die in der Luft gefunden werden, zu extrahieren, zu konzentrieren und zu füllen. Aufgrund der durchschnittlichen Größe dieser Kavernen und der Dichte der Partikel in der Luft, sollte es keine spürbaren langfristigen Auswirkungen aus diesem Prozess geben. Diese Systeme können die Feindseligkeit der Umwelt für die einheimische Flora und Fauna senken, dieser Effekt sollte vernachlässigbar sein, da es keine vorherrschende feindliche Flora oder Fauna gibt. Die kalten Höhlen werden uns kostenfrei einfrieren, die giftigen Höhlen Chlor und die Magma Höhlen, Schwefel.</string>
-<string name="SU.06ExperimentalPods.05.Paragraph">Experimentelle Pods werden zur gleichen Zeit wie das Labor freigeschaltet. Nur die grundlegendsten davon können in der Produktionsstätte gefertigt werden. Der Rest erfordert spezialisierte Maschinerie. Jede Art von Pod erfordert einen anderen Rohstoff, aber alle verwenden die gleiche Maschinerie, um sie zu konstruieren.</string>
-<string name="SU.06ExperimentalPods.06.Paragraph">Jeder Pod besteht aus Metallplatten und Leiterplatten aus dem gleichen Material. Bitte überprüfen Sie den Hilfe Eintrag für den jeweiligen Pod, den Sie für weitere Informationen benötigen.</string>
-<string name="SU.06ExperimentalPods.11.Header">Fertigungs-Pod</string>
-<string name="SU.06ExperimentalPods.12.Paragraph">Schließlich verwenden Sie den Forscher, um die Platten und Platinen zu einem experimentellen Pod zu kombinieren. Dies ist keine förderbandbasierte Maschine und benötigt Strom. Sowohl Eingangs- als auch Ausgabe-Lagercontainer. Wir empfehlen die Verwendung von zwei Eingangs-Containern, um die Verfügbarkeit von Platten und Leiterplatten zu gewährleisten. Die fertigen Pods können dann an das Labor geliefert werden.</string>
+<string name="SU.06ExperimentalPods.05.Paragraph">Forschungskapseln werden zusammen mit dem Labor freigeschaltet, jedoch können nur die grundlegendsten in der Konstruktionsanlage gefertigt werden. Die anderen erfordern spezialisierte Maschinen; für jede Kapsel-Art dieselbe, aber mit einem jeweils anderen Rohstoff.</string>
+<string name="SU.06ExperimentalPods.06.Paragraph">Jede Kapsel besteht aus Metallplatten und Platinen desselben Materials, sehe Dir dafür die Hilfe-Einträge der jeweiligen Kapseln an.</string>
+<string name="SU.06ExperimentalPods.11.Header">Herstellung von Kapseln</string>
+<string name="SU.06ExperimentalPods.12.Paragraph">Verwende die Forschungsmontage, um die Platten und Platinen zu einer Forschungskapsel zu kombinieren. Die Maschine basiert nicht auf ein Förderband und benötigt Energie und Container für den Ein- und Ausgang. Wir empfehlen die Verwendung zweier Eingangs-Container, um die Verfügbarkeit von Platten und Platinen zu gewährleisten. Die fertigen Kapseln werden an das Labor geliefert.</string>
 </resources>
