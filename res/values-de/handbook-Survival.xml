@@ -204,8 +204,8 @@ F: Greifhaken abfeuern</string>
 <string name="SU.06ExperimentalPods.10.Paragraph">Die Herstellung von Platinen ist ein mehrstufiger Prozess mit drei verschiedenen Maschinen. Zuerst kommt die Strangpresse, die Barren zu Draht verarbeitet. Danach werden die Drähte im Spulenwickler aufgewickelt und zuletzt die Spulen in der Platinen-Fertigung zu Platinen weiterverarbeitet.</string>
 <string name="SU.08VideoTutorials.Title">Videoanleitungen!</string>
 <string name="SU.08VideoTutorials.00.Title">Videoanleitungen</string>
-<string name="SU.08VideoTutorials.01.Paragraph">Willst Du mehr Anleitungen? Lass es mich wissen auf twitter @fortress_craft oder in den Steamforen! - Dj</string>
-<string name="SU.09CommunityLinks.01.Paragraph">Merke Dir, du kannst mich jederzeit auf Twitter @fortress_craft oder in den Steamforen ansprechen! - Dj</string>
+<string name="SU.08VideoTutorials.01.Paragraph">Wünschst Du weitere Anleitungen? Lass es mich wissen auf Twitter @fortress_craft oder in den Steam-Foren! - Dj</string>
+<string name="SU.09CommunityLinks.01.Paragraph">Merke Dir: Du kannst mich jederzeit auf Twitter @fortress_craft oder in den Steam-Foren ansprechen! - Dj</string>
 <string name="SU.Particulate_Filtration.Title">Partikelfilterung</string>
 <string name="SU.Particulate_Filtration.00.Title">Partikelfilterung</string>
 <string name="SU.05LaboratoryResearch.01.Paragraph">Dieser Leitfaden behandelt Forschungsprojekte, die den Einsatz des Labors erfordern. Weitere Informationen über die allgemeine Forschung befinden sich im Hilfe-Eintrag für die Forschungsstation.</string>
@@ -226,9 +226,9 @@ F: Greifhaken abfeuern</string>
 <string name="SU.06ExperimentalPods.02.Header">Was sind Forschungskapseln?</string>
 <string name="SU.06ExperimentalPods.03.Paragraph">Forschungskapseln sind die Ressourcen eines Labors. Diese intelligenten Speichervorrichtungen enthalten und überwachen eine Vielzahl von Substanzen. Das Labor verwaltet sie, wenn man es mit Kapseln versorgt.</string>
 <string name="SU.06ExperimentalPods.04.Header">Herstellen von Forschungskapseln</string>
-<string name="SU.09CommunityLinks.Title">Community Links!</string>
-<string name="SU.09CommunityLinks.00.Title">Community Links</string>
-<string name="SU.Particulate_Filtration.01.Paragraph">Durch das erforschen des Anzugspatikelfiltrationssystem können wir nun verschiedene Elemente aus der Luft filtern. Der Aufbau dieser Systeme in den verschiedenen Kavernen sollte es uns ermöglichen, verschiedene Elemente, die in der Luft gefunden werden, zu extrahieren, zu konzentrieren und zu füllen. Aufgrund der durchschnittlichen Größe dieser Kavernen und der Dichte der Partikel in der Luft, sollte es keine spürbaren langfristigen Auswirkungen aus diesem Prozess geben. Diese Systeme können die Feindseligkeit der Umwelt für die einheimische Flora und Fauna senken, dieser Effekt sollte vernachlässigbar sein, da es keine vorherrschende feindliche Flora oder Fauna gibt. Die kalten Höhlen werden uns kostenfrei einfrieren, die giftigen Höhlen Chlor und die Magma Höhlen, Schwefel.</string>
+<string name="SU.09CommunityLinks.Title">Community-Links!</string>
+<string name="SU.09CommunityLinks.00.Title">Community-Links</string>
+<string name="SU.Particulate_Filtration.01.Paragraph">Durch das Erforschen des Anzugs-Patikelfiltrations-System können wir verschiedene Elemente aus der Luft filtern. Der Aufbau dieser Systeme in den verschiedenen Höhlen sollte es uns ermöglichen, verschiedene Elemente, die in der Luft gefunden werden, zu extrahieren, zu konzentrieren und abzufüllen. Aufgrund der Größen dieser Höhlen und der Partikeldichte in der Luft sollte es keine spürbaren, langfristigen Auswirkungen aus diesem Prozess geben. Diese Systeme können die Feindseligkeit der Umwelt für die einheimische Flora und Fauna senken, dieser Effekt sollte jedoch vernachlässigbar sein, da es keine vorherrschende feindliche Flora oder Fauna gibt. Die Frosthöhlen gibt uns kostenfrei Freezon, die Gifthöhlen Chlor und die Magmahöhlen Schwefel.</string>
 <string name="SU.06ExperimentalPods.05.Paragraph">Forschungskapseln werden zusammen mit dem Labor freigeschaltet, jedoch können nur die grundlegendsten in der Konstruktionsanlage gefertigt werden. Die anderen erfordern spezialisierte Maschinen; für jede Kapsel-Art dieselbe, aber mit einem jeweils anderen Rohstoff.</string>
 <string name="SU.06ExperimentalPods.06.Paragraph">Jede Kapsel besteht aus Metallplatten und Platinen desselben Materials, sehe Dir dafür die Hilfe-Einträge der jeweiligen Kapseln an.</string>
 <string name="SU.06ExperimentalPods.11.Header">Herstellung von Kapseln</string>
