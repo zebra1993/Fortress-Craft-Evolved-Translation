@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="MA.AI_Mover_Control.00.Title">K.I. Butler</string>
 <string name="MA.AI_Mover_Control.01.Paragraph">Dieser kleine Roboter transportiert ein einzelnes Objekt zwischen zwei Containern. Die gegebenen Containereinstellungen werden dabei berücksichtigt.</string>
-<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Batteriekern</string>
-<string name="MA.ARTHER_Battery_Core.01.Paragraph">Erlaubt es ARTHER 8x mehr Energie zu speichern als üblich. Baue dies so früh wie möglich! Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER-Akkumulator</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Lässt ARTHER 8x mehr Energie speichern als üblich, womit er Deinen Anzug wiederauflädt. Baue dies so früh wie möglich! Du benötigst davon nur einen einzigen, den Du in Deinem Inventar aufbewahrst.</string>
 <string name="MA.ARTHER_Charging_Station.00.Title">ARTHER-Ladestation</string>
 <string name="MA.ARTHER_Charging_Station.01.Paragraph">Lade die Energie von ARTHER schnell wieder auf indem du diese Ladestation verwendest. Am besten in Kombination mit dem ARTHER Energiekern.</string>
 <string name="MA.ARTHER_Charging_Station.02.Header">Spezifikationen</string>
@@ -10,25 +10,25 @@
 Stations-Energiekapazität:
 Stations-Aufladerate:</string>
 <string name="MA.ARTHER_Charging_Station.04.Right">25 pro Sekunde
- 1500
- 10 pro Sekunde</string>
-<string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHER Zylinder</string>
-<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Halte ARTHER stets trocken und elegant. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHER Elegantes Monokel</string>
-<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Verbessert die Sicht von Arther. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHER Eleganter Schnurrbart</string>
-<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Lust auf einen Ritt?. Benötigt das Dapper Indie Supporter DLC. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Gentlemen Starter Kit</string>
-<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Komprimierte Eleganz für echte Gentlemen die gerne leicht reisen. Verwende dieses Kit um alle bisherigen eleganten Upgrades zu vereinen. Muss im Inventar aufbewahrt werden.</string>
-<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Elegantes Upgrade Paket</string>
-<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Voll aufgewertet! - Voll Elegant! Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
-<string name="MA.ARTHER_Power_Core.00.Title">ARTHER Energiekern</string>
-<string name="MA.ARTHER_Power_Core.01.Paragraph">Repariert den Schaden an ARTHER, damit er sich zuverlässig bewegen kann. Du benötigst nur einen einzigen, den du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER Solarzelle</string>
-<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Verbessert die Rate mit der ARTHER Energie aus Sonnenlicht erzeugt. Du benötigst nur eine einzige, die du in deinem Inventar aufbewahrst.</string>
-<string name="MA.ARTHER_Turret.00.Title">ARTHER Geschütz</string>
-<string name="MA.ARTHER_Turret.01.Paragraph">Ein energieeffizientes Langstrecken-Geschütz. Der einzige Nachteil besteht darin, dass es von ARTHER betrieben werden muss. Um das Geschütz zu verwenden, drücke \"Interagieren\" (Standard [E]) um ARTHER anzudocken.</string>
-<string name="MA.ARTHER_Turret.02.Paragraph">Das Geschütz kann entweder die Energie von ARTHER nutzen oder Energie aus dem Netz ziehen. Wenn das Geschütz vom Netz aus versorgt wird, kann ARTHER für unbegrenzte Zeit betrieben werden. Sollte aber ARTHER die Energie stellen, so wird er das Geschütz verlassen und zum Spieler zurückkehren, sobald seine Energie verbraucht ist.</string>
+1500
+10 pro Sekunde</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">Eleganter ARTHER-Zylinder</string>
+<string name="MA.ARTHER_Dapper_Hat.01.Paragraph">Dadurch bleibt ARTHER stets trocken und elegant. Benötigt das „Dapper Indie Supporter“-DLC. Du benötigst davon nur einen einzigen, den Du in Deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">Elegantes ARTHER-Monokel</string>
+<string name="MA.ARTHER_Dapper_Monocle.01.Paragraph">Verbessert ARTHERs Sicht. Benötigt das „Dapper Indie Supporter“-DLC. Du benötigst davon nur ein einziges, das Du in Deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">Eleganter ARTHER-Schnauzer</string>
+<string name="MA.ARTHER_Dapper_Moustache.01.Paragraph">Lust auf einen Ritt? Benötigt das „Dapper Indie Supporter“-DLC. Du benötigst davon nur einen einzigen, den Du in Deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">Elegantes ARTHER-Paket</string>
+<string name="MA.ARTHER_Dapper_Pack.01.Paragraph">Sehr elegant! Verwende dieses Paket, um alle bisherigen Eleganz-Upgrades zu vereinen und Inventarplätze zu sparen. Muss im Inventar aufbewahrt werden.</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">Elegantes ARTHER-Upgrade-Paket</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.01.Paragraph">Maximal aufgewertet - maximal elegant! Verwende dies, um Inventarplätze zu sparen. Muss im Inventar aufbewahrt werden.</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHER-Energiekern</string>
+<string name="MA.ARTHER_Power_Core.01.Paragraph">Repariert den Schaden an ARTHER, damit er sich zuverlässig bewegen kann. Du benötigst davon nur einen einzigen, den Du in Deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHER-Solarpanel</string>
+<string name="MA.ARTHER_Solar_Panel.01.Paragraph">Verbessert ARTHERs Energiegewinnung aus Sonnenlicht. Du benötigst nur ein einziges, das Du in Deinem Inventar aufbewahrst.</string>
+<string name="MA.ARTHER_Turret.00.Title">ARTHER-Geschützturm</string>
+<string name="MA.ARTHER_Turret.01.Paragraph">Ein energieeffizientes Langstrecken-Geschütz, welches von ARTHER betrieben werden muss, indem Du damit interagierst [E], damit ARTHER andockt.</string>
+<string name="MA.ARTHER_Turret.02.Paragraph">Das Geschütz kann entweder extern Energie beziehen oder ARTHERs Reserven nutzen. Wird es extern versorgt, kann es von ARTHER unbegrenzt lange genutzt werden. Sollte ARTHER seine Energie stellen, wird er das Geschütz verlassen und zum Spieler zurückkehren, sobald seine Energie verbraucht ist.</string>
 <string name="MA.ARTHER_Turret.03.Header">Spezifikationen</string>
 <string name="MA.ARTHER_Turret.04.Left">Reichweite:
  Schaden (pro Schuss):
@@ -42,11 +42,11 @@ Stations-Aufladerate:</string>
  150
  10 Sekunden
  1 (ARTHER)</string>
-<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER Aufwertungs-Paket</string>
-<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte von Solarzelle, Energiekern und Batterie. Verwende dies um Platz in deinem Inventar einzusparen. Muss im Inventar aufbewahrt werden.</string>
+<string name="MA.ARTHER_Upgrade_Pack.00.Title">ARTHER-Upgrade-Paket</string>
+<string name="MA.ARTHER_Upgrade_Pack.01.Paragraph">Vereint die Effekte des Solarpanels, Energiekerns und Akkumulators. Verwende dies, um Inventarplätze zu sparen. Muss im Inventar aufbewahrt werden.</string>
 <string name="MA.Advanced_Experimental_Pod.00.Title">Fortgeschrittene Forschungskapsel</string>
-<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Die fortgeschrittene Forschungskapsel wird im Labor verwendet um die Forschung voranzutreiben. Sie wird aus Gold hergestellt. Für weitere Informationen zum Labor klicke auf folgenden Link.</string>
-<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln lies bitte den folgenden Handbucheintrag.</string>
+<string name="MA.Advanced_Experimental_Pod.01.Paragraph">Fortgeschrittene Forschungskapseln werden im Labor für Experimente und dem Abschließen von Forschungsprojekten verwendet. Sie werden aus Gold hergestellt. Für weitere Informationen zur Laborforschung klicke auf folgenden Link.</string>
+<string name="MA.Advanced_Experimental_Pod.02.Paragraph">Für weitere Informationen zur Herstellung von Forschungskapseln lies bitte den folgenden Eintrag.</string>
 <string name="MA.Advanced_machine_block.00.Title">Fortgeschrittener Maschinenblock</string>
 <string name="MA.Advanced_machine_block.01.Paragraph">Hauptbestandteil vieler fortschrittlicher Maschinen.</string>
 <string name="MA.Advanced_machine_block.02.Header">Diese Blöcke sind ein Hauptbestandteil bestimmter Multiblock-Maschinen.</string>
