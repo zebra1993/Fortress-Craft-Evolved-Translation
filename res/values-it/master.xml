@@ -408,7 +408,7 @@ SquishCore è semplice; muori, rimani morto</string>
   <string name="Basic Missile">Missile Base</string>
   <string name="Basic Missiles">Missili Base</string>
   <string name="Armour Piercing Missile">Missile Penetrante</string>
-  <string name="Armour Piercing Missiles">Blindatura Perforante per i Missili</string>
+  <string name="Armour Piercing Missiles">Missili Perforanti Blindati</string>
   <string name="Plasma-Imbued Missile">Missile al Plasma</string>
   <string name="Plasma-Imbued Missiles">Missili al Plasma</string>
   <string name="CryoChilled Missile">Missile Congelante</string>
@@ -1973,7 +1973,7 @@ Economico e Butto, ma affidabile*
   <string name="Refinery Controller_CRAFT_DESC">Trasforma la Biomassa in prodotti usabili. Deve essere attaccato a una Camera di Reazione della Raffineria per funzionare. Guarda le istruzioni per maggiori informazioni.</string>
   <string name="Refinery Controller_CRAFT_HINT">Deve essere collegata a una Camera di Reazione della Raffineria per funzionare.</string>
   <string name="Refinery Reactor Vat Component_CRAFT_DESC">Componente Camera di Reazione della Raffineria. Va costruito in una configurazione 3x3x3 (27 in totale). Richiede un Controllore di Raffineria.</string>
-  <string name="Refinery Reactor Vat Component_CRAFT_HINT">Piazzalo in una configurazione 3 per 3 per 3 per una Camera fi Reazione valida.</string>
+  <string name="Refinery Reactor Vat Component_CRAFT_HINT">Piazzalo in una configurazione 3 per 3 per 3 per una Camera di Reazione valida.</string>
   <string name="Jet Turbine Generator Housing_CRAFT_DESC">Componenti dell\'alloggiamento di un Generatore a Turbina. Brucia CCAE per gestire una turbina per generare molta energia.Costruiscilo con un altrzza di 3 e una base 4x3. Aggiungi l\'aspirazione nella parte frontale.</string>
   <string name="Jet Turbine Generator Housing_CRAFT_HINT">Costruisce in una forma 4x3, e 3 in altezza. Aggiungi l\'aspirazione sul lato frontale della macchina.</string>
   <string name="Jet Turbine Generator Intake_CRAFT_DESC">Aspira molta aria per la turbina. Piazzalo sul lato frontale del generatore alto 3m e largo 3m.</string>
@@ -3437,7 +3437,7 @@ Non verrai più informato su questa mod.</string>
   <string name="Total_Storage">Immagazinamento Totale</string>
   <string name="E_Stack_Height">(E) Altezza della Pila</string>
   <string name="Crate_no_centre">La Cassa non ha il centro!</string>
-  <string name="Crate_no_connected_crates">La Cassa non ha cassw collegate!</string>
+  <string name="Crate_no_connected_crates">La Cassa non ha casse collegate!</string>
   <string name="or">o</string>
   <string name="Stack">Pila</string>
   <string name="Stack Size">Dimensione dela Pila</string>
@@ -4535,7 +4535,7 @@ Connettore Tramoggia di Stoccaggio Ultrarapido.</string>
   <string name="UI_Q_Selfdestruct">Premi Q per autodistruggerti.</string>
   <string name="UI_Launch_in_Progres">Lancio in corso ...</string>
   <string name="UI_Fuel_Efficiency_X">Efficienza Carburante: {0}</string>
-  <string name="UI_Current_PPS_X">Energia/s Attuale: {0}</string>
+  <string name="UI_Current_PPS_X">Energia/Secondi Attuale: {0}</string>
   <string name="UI_not_collecting_e_Toggle">Raccolta Ferma. (E) per Attivare</string>
   <string name="UI_Total_Storage_X">Stoccaggio Totale: {0}</string>
   <string name="UI_Bender_Plant">Impianto di Piegatura</string>
@@ -4585,4 +4585,73 @@ Piega in varie Angolature</string>
   <string name="UI_Quarry">Cava</string>
   <string name="UI_Thank_you">Grazie!</string>
   <string name="UI_Safety_first">LA SICUREZZA PRIMA DI TUTTO!</string>
+  <string name="UI_Vat_not_formed_loading_bug">La Reazione non è avvenuta dopo il caricamento. questo è un errore!</string>
+  <string name="UI_Connected_to_controller">Collegato al Controllore</string>
+  <string name="UI_Not_Connected_controller">Non collegato al Controllore</string>
+  <string name="UI_Vat_State_X">Stato Reattore: {0}</string>
+  <string name="UI_Controller_state_X">Stato Controllore: {0}</string>
+  <string name="UI_Connected_to_X_Reactor_vat">Collegato a {0} camera di reazione</string>
+  <string name="UI_Stored_X_X">Stoccati (Q): {0}x {1}</string>
+  <string name="UI_not_connected_reactor_vat_Must_connected_operate">Non collegato a una camera di reazione.
+Deve essere collegato per funzionare.</string>
+  <string name="UI_Link_State_X">Stato di Collegamento: {0}</string>
+  <string name="UI_MK1_Arm_Status_X_X">Braccia Robot MK1 +
+ +Stato: {0} 
+ {1}</string>
+  <string name="UI_active_X_of_last_X_s">Attivo {0}s degli ultimi {1}s</string>
+  <string name="UI_PGT_NO_OXYGEN">GPT è affamato di ossigeno!
+GPT non può funzionare così in profondità!</string>
+  <string name="UI_Error_no_Centre">ERRORE - Nessun centro?</string>
+  <string name="UI_Stack_1_crate">Pila: 1 Cassa</string>
+  <string name="UI_Stack_X_Crates">Pila: {0} Casse</string>
+  <string name="UI_Power_Delta_X">Delta Energia: {0}</string>
+  <string name="UI_Automated_Zipper_merge">Combinatore Zipper Automatico
+(in Attesa di Brevetto)</string>
+  <string name="UI_Zipper_Merge_3n1">Combinatore Zipper ( versione tre a uno)
+(in Attesa di Brevetto)</string>
+  <string name="UI_Rapid_Zipper_merge">Combinatore Zipper Rapido
+( in Attesa di Brevetto)</string>
+  <string name="UI_PCB_assember_desc">Assemblatore di CS
+Trasforma le Bobbine in CS</string>
+  <string name="UI_Conv_Turntable_desc">Trasportatore Rotante
+Suddivide equamente le risorse.</string>
+  <string name="UI_trasnport_pipe_filter">Filtro del Tubo Trasportatore</string>
+  <string name="UI_Select_Item_Hotbar_Exemplar">Seleziona un oggetto nella tua barra da usare come modello</string>
+  <string name="UI_Q_Set_Output_to_X">Premi Q per impostare l\'Uscita con {0}</string>
+  <string name="UI_Error_Conv_Filter_cant_deal_with_X">Errore, il Filtro Trasportatore non può di gestire [{0}]</string>
+  <string name="UI_Filtersetting_SMELTABLE">FONDIBILE</string>
+  <string name="UI_Power_per_Fire">Energia bruciata</string>
+  <string name="UI_Success_Fail_X_X">Successo/Fallimento : {0}/{1}</string>
+  <string name="UI_No_Location_Marker_installed">Nessun Indicatore di Posizione installato</string>
+  <string name="UI_Location_marker_no_location">Indicatore di Posizione non contiene una posizione contrassegnata</string>
+  <string name="UI_T_Minus_X">TConto alla rovescia: {0}</string>
+  <string name="UI_FlightTime_X">Tempo di Volo: {0}</string>
+  <string name="UI_Rocket_abort">INTERRUZIONE DELL\'UTENTE</string>
+  <string name="UI_Press_Q_scan_construction">Premere Q per controllare la costruzione</string>
+  <string name="UI_Engine_Smoothness_X">Continuità del motore: {0}</string>
+  <string name="UI_Rocket_weight_X_Thrust">Peso del Razzo {0}t e ha una spinta di {1}kN.</string>
+  <string name="UI_DeltaV_X">Delta/V: {0}m/s</string>
+  <string name="UI_dry_mass_X_Fuel_mass_X">Peso a secco {0}t, peso carburante {1}t</string>
+  <string name="UI_Rocket_launch_capable">Il Razzo è pronto per il lancio.</string>
+  <string name="UI_LP_no_entitiy">LP senza Entità?</string>
+  <string name="UI_Lightmode_X">"Modo Luce  {0}"</string>
+  <string name="UI_E_cycle_Lightmode">(E) Modo Luce ciclico</string>
+  <string name="UI_Attached_empty_active">Attaccato è vuoto - attivo!</string>
+  <string name="UI_Attached_empty_inactive">Attaccato è vuoto - inattivo!</string>
+  <string name="UI_Attached_no_empty_inactive">Attaccato non è vuoto - inattivo!</string>
+  <string name="UI_Attached_no_empty_active">Attacccato non è vuoto - attivo!</string>
+  <string name="UI_Looking_for_machine">Alla ricerca di machina</string>
+  <string name="UI_Cant_find_missiles_attached_Hopper">Non si trova il Missile nella Tramogia collegata!</string>
+  <string name="UI_Searching_Large_Targets">Alla ricerca di un Grosso Bersagliio...</string>
+  <string name="UI_Attacking_X_HP_left">"Attacca !  [manca {0} HP !]"</string>
+  <string name="UI_Client_delay_X">Ritardo Client: {0}</string>
+  <string name="UI_Searching_Considered_X_Targets">In ricerca ... (Considerati {0} besagli!)</string>
+  <string name="UI_Press_E_Show_Turret_range">Premi E per mostrare la portata della torretta</string>
+  <string name="UI_Minecart_Track_Streight">Binario Dritto</string>
+  <string name="UI_Minecart_Track_Corner">Binario Curvo</string>
+  <string name="UI_Minecart_Track_Slope">Binario Inclinato</string>
+  <string name="UI_Minecart_Track_Buffer">Respingente</string>
+  <string name="UI_Minecart_Track_Full_Gate">Porta Carrello Pieno</string>
+  <string name="UI_Minecart_Track_Empty_Gate">Porta Carrello Vuoto</string>
+  <string name="UI_Minecart_Track_One_Way">Binario a Senso Unico</string>
   </resources>
