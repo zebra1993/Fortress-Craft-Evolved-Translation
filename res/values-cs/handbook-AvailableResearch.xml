@@ -1,2 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="AV.Advanced_Defence.Title">Pokročilá Obrana</string>
+<string name="AV.Advanced_Defence.00.Title">Pokročilá Obrana</string>
+<string name="AV.Advanced_Defence.01.Paragraph">K zastavení větších hrozeb potřebujeme vystavět silnější obranu základny !</string>
+<string name="AV.Advanced_Logistics.Title">Pokročilá Logistika</string>
+<string name="AV.Advanced_Logistics.00.Title">Pokročilá Logistika</string>
+<string name="AV.Advanced_Logistics.01.Paragraph">Optimalizování našich těžebních operací vyžaduje skalpel, ne kladivo. ( Kladiva jsou dostupná jako samostatné vylepšení, samozřejmě).</string>
+<string name="AV.Advanced_Miner_Upgrades.Title">Pokročilé Těžební Vylepšení</string>
+<string name="AV.Advanced_Miner_Upgrades.00.Title">Pokročilé Těžební Vylepšení</string>
+<string name="AV.Advanced_Power_Grid.Title">Pokročilá Energetická Síť</string>
+<string name="AV.Advanced_Power_Grid.00.Title">Pokročilá Energetická Síť</string>
+<string name="AV.Advanced_Research.Title">Pokročilý Výzkum</string>
+<string name="AV.Advanced_Research.00.Title">Pokročilý Výzkum</string>
+<string name="AV.Advanced_Research.01.Paragraph">Náš výzkumný pokrok je limitován omezenímy výzkumné stanice. Potřebujeme navrhnout novou laboratoř pro pokračování v pokročilých projektech!</string>
+<string name="AV.Aesthetics.Title">Estetika</string>
+<string name="AV.Aesthetics.00.Title">Estetika</string>
+<string name="AV.Base_Building_Automation.Title">Základní Konstrukční Automatizace</string>
+<string name="AV.Base_Building_Automation.00.Title">Základní Konstrukční Automatizace</string>
+<string name="AV.Base_Building_Automation.01.Paragraph">Budování obrovských těžebních operacích je práce pro stroje, né pro muže!</string>
+<string name="AV.Base_Defence.Title">Základní Obrana</string>
+<string name="AV.Base_Defence.00.Title">Základní Obrana</string>
+<string name="AV.Base_Defence.02.Paragraph">Budeme muset přinést SVOBODU na tuto planetu!</string>
+<string name="AV.Basic_Mining_Upgrades_I.Title">Základní Těžební Vylepšení I</string>
+<string name="AV.Basic_Mining_Upgrades_I.00.Title">Základní Těžební Vylepšení I</string>
+<string name="AV.Basic_Mining_Upgrades_II.Title">Základní Těžební Vylepšení II</string>
+<string name="AV.Basic_Mining_Upgrades_II.00.Title">Základní Těžební Vylepšení II</string>
+<string name="AV.Black_Box_Data.Title">Data Černé Skříňky</string>
+<string name="AV.Black_Box_Data.00.Title">Data Černé Skříňky</string>
+<string name="AV.Improved_Ore_Scanning.Title">Vylepšení Hledání Rud</string>
+<string name="AV.Improved_Ore_Scanning.00.Title">Vylepšení Hledání Rud</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.Title">Středně pokročilé Hornické Vylepšení I</string>
+<string name="AV.Intermediate_Miner_Upgrades_I.00.Title">Středně pokročilé Hornické Vylepšení I</string>
+<string name="AV.Intermediate_Miner_Upgrades_II.Title">Středně pokročilé Hornické Vylepšení II</string>
+<string name="AV.Intermediate_Miner_Upgrades_II.00.Title">Středně pokročilé Hornické Vylepšení II</string>
+<string name="AV.Local_Life_Forms.Title">Místní Životní Formy</string>
+<string name="AV.Local_Life_Forms.00.Title">Místní Životní Formy</string>
+<string name="AV.Local_Life_Forms.01.Paragraph">Tato planeta není mrtvá! Skenery detekovali rostlinné i zvířecí formy života. Tento projekt prozkoumá životní formy a určí, zda představují hrozbu.</string>
+<string name="AV.Power_Grid.Title">Energická Síť</string>
+<string name="AV.Power_Grid.00.Title">Energická Síť</string>
+<string name="AV.Suit_Upgrading.Title">Vylepšování Obleku</string>
+<string name="AV.Suit_Upgrading.00.Title">Vylepšování Obleku</string>
+<string name="AV.Ultimate_Power_Grid.Title">Ultimátní Energetická Síť</string>
+<string name="AV.Ultimate_Power_Grid.00.Title">Ultimátní Energetická Síť</string>
+<string name="AV.Ultra-Power_Grid.Title">Ultra-Energie Síť</string>
+<string name="AV.Ultra-Power_Grid.00.Title">Ultra-Energie Síť</string>
+<string name="AV.Upgraded_Power_Grid.Title">Vylepšená Energetická Síť</string>
+<string name="AV.Upgraded_Power_Grid.00.Title">Vylepšená Energetická Síť</string>
+</resources>
