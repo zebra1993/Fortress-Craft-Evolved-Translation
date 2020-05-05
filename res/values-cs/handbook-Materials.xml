@@ -1,2 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="MA.AI_Mover_Control.00.Title">UI Řízení Pohybu</string>
+<string name="MA.AI_Mover_Control.01.Paragraph">Robot přenese jednu surovinu ve stejný čas z jednoho nejbližšího zásobníku do druhého, respektivňe lokálně přidat a odebrat právama.</string>
+<string name="MA.ARTHER_Battery_Core.00.Title">ARTHER Bateriové Jádro</string>
+<string name="MA.ARTHER_Battery_Core.01.Paragraph">Umožní ARTHERovy uchovat 8x více energie kterou může tobě poskytnout jakmile jí budeš mít málo. Tohle postav co možná nejdříve! Potřebuješ pouze jednu a musí být trvale umístěna ve tvém inventáři aby fungovala.</string>
+<string name="MA.ARTHER_Charging_Station.00.Title">ARTHERova Nabíjecí Stanice</string>
+<string name="MA.ARTHER_Charging_Station.01.Paragraph">Rychle nabíjí ARTHERa z energetické sítě základny. Nejlépe zkombinovat s ARTHERovou Vylepšenou Baterií.</string>
+<string name="MA.ARTHER_Charging_Station.02.Header">Specifikace</string>
+<string name="MA.ARTHER_Charging_Station.03.Left">"Rychlost Nabíjení ARTHERa:
+Energetická Kapacita Stanice:
+     Rychlost Nabíjení Stanice:"</string>
+<string name="MA.ARTHER_Charging_Station.04.Right">25 za vteřinu
+ 1500
+ 10 za vteřinu</string>
+<string name="MA.ARTHER_Dapper_Hat.00.Title">ARTHERův Elegantní Klobouk</string>
+<string name="MA.ARTHER_Dapper_Monocle.00.Title">ARTHERův Elegantní Monokl</string>
+<string name="MA.ARTHER_Dapper_Moustache.00.Title">ARTHERův Elegantní Knír</string>
+<string name="MA.ARTHER_Dapper_Pack.00.Title">ARTHER Elegantní Balíček</string>
+<string name="MA.ARTHER_Dapper_Upgrade_Pack.00.Title">ARTHER Elegantní Vylepšený Balíček</string>
+<string name="MA.ARTHER_Power_Core.00.Title">ARTHERovo Energetické Jádro</string>
+<string name="MA.ARTHER_Solar_Panel.00.Title">ARTHERův Solární Panel</string>
+<string name="MA.ARTHER_Turret.00.Title">ARTHERova Věž</string>
+<string name="MA.ARTHER_Turret.03.Header">Specifikace</string>
+<string name="MA.ARTHER_Turret.04.Left">Dosah:
+Poškození(na střelu):
+Požadovaná Energie(na výstřel):
+Maximální Kapacity Energije:
+Čas Přebití:
+Posádka:</string>
+<string name="MA.ARTHER_Turret.05.Right">64m
+ 33
+ 5
+ 150
+ 10 vteřin
+ 1 (ARTHER)</string>
+<string name="MA.Advanced_Experimental_Pod.00.Title">Pokročilá Experimentální Kapsle</string>
+<string name="MA.Advanced_machine_block.00.Title">Pokročilý strojní blok</string>
+<string name="MA.Advanced_machine_block.01.Paragraph">Hlavní stavební blok pokročilých strojů.</string>
+<string name="MA.Antimatter_Drill_Motor.00.Title">Antihmotový Vrtací Motor</string>
+<string name="MA.Antimatter_Drill_Motor.02.Header">Specifikace</string>
+<string name="MA.Antimatter_Drill_Motor.03.Left">Rychlost Těžby:</string>
+<string name="MA.Antimatter_Drill_Motor.04.Right">3200%</string>
+<string name="MA.Auto_Builder.00.Title">Auto Stavitel</string>
+<string name="MA.Auto_Builder.02.Header">Typy a Triky!</string>
+<string name="MA.Auto_Builder.06.Header">Pozor!</string>
+<string name="MA.Auto_Excavator.00.Title">Auto Bagr</string>
+<string name="MA.Auto_Excavator.02.Header">Použití</string>
+<string name="MA.Auto_Excavator.04.Header">Specifikace</string>
+<string name="MA.Auto_Excavator.05.Left">Velikost Šachty:
+ Maximální Výška Šachty:
+ Potřebná Energie:
+ Kapacita Energie:
+ Maximální Rychlost Dobíjení:
+ Maximální Rychlost Bagrování:</string>
+<string name="MA.Auto_Excavator.06.Right">3m x 3m
+ 512m
+ 20 na vybagrovaný 1m čtverečný
+ 160
+ Žádný
+ 40 bloků za vteřinu</string>
+<string name="MA.BFL-9000.00.Title">BFL-9000</string>
+<string name="MA.BFL-9000.02.Header">Specifikace</string>
+<string name="MA.Bar_Keeper.02.Header">Specifikace</string>
+<string name="MA.Basic_Conveyor_Belt.00.Title">Základní Dopravní Pás</string>
+<string name="MA.Basic_Conveyor_Belt.02.Header">Použití</string>
+<string name="MA.Basic_Conveyor_Belt.04.Header">Omezení</string>
+<string name="MA.Basic_Conveyor_Belt.07.Header">Filtrování</string>
+<string name="MA.Basic_Conveyor_Belt.09.Header">Specifikace</string>
+<string name="MA.Basic_Drill_Motor.00.Title">Základní Motor Vrtačky</string>
+<string name="MA.Basic_Drill_Motor.02.Header">Specifikace</string>
+<string name="MA.Basic_Drill_Motor.03.Left">Rychlost Těžby:</string>
+<string name="MA.Basic_Drill_Motor.04.Right">200%</string>
+<string name="MA.Basic_Experimental_Pod.00.Title">Základní Experimentální Kapsle</string>
+<string name="MA.Basic_Laser_Energy_Transmitter.04.Header">Specifikace</string>
+</resources>
