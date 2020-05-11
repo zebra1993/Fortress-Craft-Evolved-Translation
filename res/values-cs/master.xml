@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="Partial_Language_Support">Vítej! Tvoje řeč je jen částečně podporována. Pokud se chceš vrátit k Angličtině, prostě stiskni \"English\" níže!</string>
+<resources><string name="Partial_Language_Support">Vítej! Tvoje řeč je jen částečně podporována. Pokud se chceš vrátit k Angličtině, prostě stiskni \"Angličtina\" níže!</string>
     <string name="Translation_Incomplete">Nekompletní překlad!</string>
-    <string name="Language_Name">Čeština</string><string name="Frozen_Factory">DLC Frozen Factory</string>
-    <string name="Dapper_Pack">DLC Dapper Pack</string>
-    <string name="Skin_Pack">DLC Skin Pack</string>
+    <string name="Language_Name">Angličtina</string><string name="Frozen_Factory">DLC Frozen Factory(Zamrzlá Továrna)</string>
+    <string name="Dapper_Pack">DLC Dapper Pack (Elegantní)</string>
+    <string name="Skin_Pack">DLC Skin Pack (Vzhledový)</string>
     <string name="Installed">Instalován</string>
     <string name="Not_Installed">Není instalován</string>
     <string name="Multiplayer_Sign">&lt;Hra více hráčů</string>
@@ -71,7 +71,7 @@
     <string name="Iron Man">Železný Muž</string>
     <string name="Hardcore">Extrémní</string>
 
-    <string name="Survival">Přeživší</string>
+    <string name="Survival">Přežití</string>
     <string name="Creative">Kreativní</string>
 
     <string name="Default_Settings_Info">"Výchozí nastavení: doporučeno pro začínající hráče. Chcete li hru ještě více urychlit, nastavte si denní/noční cyklus na Věčný den. Pokud chcete více problémů, zvolte si nastavení jaké Vám bude vyhovovat. 
@@ -520,7 +520,7 @@ Hardcore je nejtěžší nastavení. Pokud zemřete nebo je CPH zničeno, hra ko
     <string name="Electric Light(old)">Elektrické světlo (staré)</string>
     <string name="Log Wall">Zděděná stěna</string>
     <string name="Small Bricks">Malé cihly</string>
-    <string name="Magma">Magma</string>
+    <string name="Magma">Magma(horká)</string>
     <string name="Plating">Plátování</string>
     <string name="Tiles">Dlaždice</string>
     <string name="Marble Column">Mramorový sloup</string>
@@ -837,7 +837,7 @@ V této hloubce nemůže pracovat!</string>
     <string name="Savanna_DESC">...</string>
     <string name="Swampland">Bažina</string>
     <string name="Swampland_DESC">...</string>
-    <string name="Tundra">Tundra</string>
+    <string name="Tundra">Tundra(Biom)</string>
     <string name="Tundra_DESC">...</string>
     <string name="Diamond Crystal">Diamantový Krystal</string>
     <string name="Diamond Crystal_DESC">Tyto méně kvalitní krystaly mohou být leštěny a použity v různých čočkách a dalších užitečných předmětech.</string>
@@ -995,7 +995,7 @@ Napájí připojené bloky.</string>
     <string name="Ore Extractor_DESC">Efektivně těží rudu.
 Uskladní 25 ks Rudy.
 Vytěží 1 Rudu/min.</string>
-    <string name="Ivy">Ivy</string>
+    <string name="Ivy">Břečťan</string>
     <string name="MultiShade Brick_DESC">...</string>
     <string name="Power Storage Block">Napájecí Blok</string>
     <string name="Power Storage Block_DESC">Uchovává 250 energie.
@@ -1266,8 +1266,8 @@ Vzdálenost...</string>
 <string name="Unable_locate_items_in_hopper">V Zásobníku nelze nalézt položky</string>
 <string name="Hopper_Scanner">Skener Zásobníku</string>
   <string name="Mission_Smelting_Automation">Automatizace je klíčem k úspěchu. Vaše Tavící Pec může pracovat se sousedními zásobníky jakéhokoli typu.
-Nicméně pokud vaše pokyny nebudou přesné, mohlo by dojít k problémům!
-Nastavte nyní oprávnění pro Zásobníky. Jeden pouze pro Příjem a druhý pro Výdej. Vložte rudu do Zásobníku s nastavením Výdej a hotové Ingoty se umístí do Zásobníku s nastavením Příjem.</string>
+Nicméně, pokud vaše pokyny nebudou přesné, mohlo by dojít k problémům!
+Nastavte nyní oprávnění pro Zásobníky. Jeden pouze pro Příjem a druhý pro Výdej. Dopravte rudu do Zásobníku s nastavením Výdej a hotové Ingoty se umístí do Zásobníku s nastavením Příjem.Odebírejte z Vkládat-Pouze zásobníku pomocí pásů.</string>
   <string name="Unable_clear_output_hopper">Nelze vyprázdnit výstupní Zásobník</string>
   <string name="Needs_Ruined_Organic_Matter_adjacent_Hopper">Potřebuje zničené organické látky v sousedním zásobníku!</string>
   
@@ -1305,7 +1305,8 @@ Vaše stroje budou suroviny odebírat nebo je předávat skladovacímu zásobní
     <string name="Looking_for_Hopper_offload_to">Hledám Zásobník pro vyložení...</string>
   
 <string name="Unable_to_locate_input_Storage_Hopper">Nelze nalézt vstupní zásobník</string>
-  <string name="HerbiCor_DESC">Shromažďuje blízké venkovní nesklizené rostliny. 
+  <string name="HerbiCor_DESC">Shromažďuje blízké venkovní nesklizené rostliny.
+
 Potřebuje připojený Zásobník.</string>
 	<string name="HerbiCor_CRAFT_DESC">Shromažďuje blízké venkovní nesklizené rostliny.
 Potřebuje připojený Zásobník.</string>
@@ -1398,7 +1399,7 @@ Připojte k T1 výtahu.</string>
     <string name="Advanced Robot Arm Control Module_DESC">Umožňuje detailní ovládání Robotické Paže MK1.</string>
     <string name="Alien Tendril Spawn">Alien Tendril: Hnízdo</string>
     <string name="Alien Tendril Spawn_DESC">...</string>
-    <string name="Alien Tendril">Alien Tendril</string>
+    <string name="Alien Tendril">Mimozemská Úponka</string>
     <string name="Alien Tendril_DESC">...</string>
     <string name="Hive Core">Jádro Úlu</string>
     <string name="Hive Core_DESC">...</string>
@@ -1503,7 +1504,7 @@ LMB Stavěni bloků, RMB kopání, MMB vybrat zaměřenou věc</string>
     <string name="Missile Fueller">Doplňování paliva Střel</string>
     <string name="Missile Fueller_DESC">Plní prázdné střely s vysokoenergetickým kompozitním palivem.</string>
     <string name="Armour Piercing Warhead Fitter">Montovna Průbojných Hlavic</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Tyto střely jsou připraveny k odpálení!</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_HINT">Jen abych získal další potřebné díry</string>
     <string name="UI_PCB_assember_desc">Montážní Zařízení pro PCB
 Vyrábí PCB z Cívek</string>
   <string name="ConstructoBot Herb Arm Assembler">Montážní Robot: Montovna Zahradických Rukou</string>
@@ -1608,7 +1609,7 @@ Vyrábí PCB z Cívek</string>
     <string name="CryoMine_DESC">Způsobí výbuch Škodlivého plynu, pokud se dotkne KryoPlazmy.</string>
     <string name="CryoPlasm Lancer">KryoPlazmové Kopí</string>
     <string name="CryoPlasm Lancer_DESC">Malý dostřel, rychlá, obrana proti KryoPlazmě</string>
-    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Vezme Obohacenou Střelu a Perfektní Žihadlo a vyrobí Průraznou Střelu.</string>
+    <string name="Armour Piercing Warhead Fitter_CRAFT_DESC">Přidá Průrazné Hlavice do raket</string>
     <string name="Warhead Imbuer_CRAFT_DESC">Vezme Základní Střelu a 50,000 energie a Vytvoří Obohacenou Střelu.</string>
     <string name="Warhead Imbuer_CRAFT_HINT">Tyto střely jsou připraveny k odpálení!</string>
     <string name="Cluster Missile Crafter_CRAFT_DESC">Vezme Obohacenou Střelu a vyrobí z ní 8 rychlo-palných střel. Každá způsobí 1/4 původního poškození. Celkové poškození je dvojnásobné.</string>
@@ -1641,7 +1642,7 @@ Vyrábí PCB z Cívek</string>
     <string name="MK2 Solar Panel Component_DESC">Vytvořte Solární Panel v konfiguraci 3Šx1Vx3H. Lze ho postavit POUZE na Špičkových Strojích.</string>
     <string name="T4 Energy Turret component">T4 Energetická Věž: Komponent</string>
     <string name="T4 Energy Turret component_DESC">Sestavte v konfiguraci 3x3x3. Velké Poškození a spotřeba Energie.</string>
-    <string name="Fusion Reactor Pylon comp.">Fůzní Reaktor: Komponent Pylonu</string>
+    <string name="Fusion Reactor Pylon comp.">Fůzní Reaktor: Komponent Pylonu.</string>
     <string name="Fusion Reactor Pylon comp._DESC">Vytvořte pylon jako součást konfigurace reaktoru fúze. Pro sestavení průvodce použijte monitor Fusion Reactor Monitor.</string>
     <string name="Auto Organic Thief_DESC">Automaticky odstraní poškozené organické části z tvého inventáře.</string>
     <string name="Ruined Organic Thief">Sběrač Poškozeného Organického Materiálu</string>
@@ -1667,7 +1668,7 @@ Vyrábí PCB z Cívek</string>
     <string name="MISSION_Build a 3x3x3 Laboratory">Postavte Laboratoř 3x3x3!</string>
     <string name="Laboratory has">Laboratoř má</string>
     <string name="Hint_17">Pro výzkum nových věcí je potřeba Laboratoř zásobovat Experimentálními Moduly</string>
-  <string name="Hint_47">Přepnutím režimu Laboratoře je možné analyzovat části výzkumu pro získání výzkumných bodů.</string>
+  <string name="Hint_47">Alternativní mód Laboratoře může analyzovat části výzkumu pro získání výzkumných bodů.</string>
   <string name="All Systems Nominal">Všechny systémy Nominální</string>
 <string name="Construct_Lab">Postavte Laboratoř</string>
 <string name="Laboratory_recipe">Laboratorní recepty</string>
@@ -1684,8 +1685,8 @@ Vyrábí PCB z Cívek</string>
   <string name="Trencher Motor component">Důlní Vrtačka: Komponent Motoru</string>
   <string name="Trencher Motor component_DESC">Vytvoří motor pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem. (27 ks celkem)</string>
   <string name="Blast Furnace component_DESC">Vytvoří Vysokou Pec. Sestavte v konfiguraci 3š</string>
-  <string name="Trencher Drill Mk2 component">Důlní Vrtačka MK2: Komponent</string>
-  <string name="Trencher Drill Mk2 component_DESC">Vylepšená Důlní Vrtačka. Sestavte stejným způsobem jako MK 1.</string>
+  <string name="Trencher Drill Mk2 component">Příklepová Vrtačka MK2: Komponent</string>
+  <string name="Trencher Drill Mk2 component_DESC">Vylepšená Příklepová Vrtačka. Sestavená stejným způsobem jako MK 1.</string>
   <string name="Trencher Drill Mk3 component">Důlní Vrtačka MK3: Komponent</string>
   <string name="Trencher Drill Mk3 component_DESC">Hodně vylepšená Důlní Vrtačka. Sestavte stejným způsobem jako MK 1.</string>
   <string name="Trencher Drill component_CRAFT_DESC">Vytvoří Vrtací Hlavu pro Důlní Vrtačku. Sestavte ve tvaru 3x3x3 před motorem.</string>
@@ -1712,7 +1713,7 @@ Vyrábí PCB z Cívek</string>
   <string name="Charged Lithium Coil">Nabitá Lithiová Cívka</string>
   <string name="Charged Lithium Coils">Nabité Lithiové Cívky</string>
   <string name="Biomass">Biomasa</string>
-  <string name="Mandragora">Mandragora</string>
+  <string name="Mandragora">Mandragora(Rostlina)</string>
   <string name="Mandragora_DESC">Vhodné pro Surové Čočky.</string>
   <string name="Lithium Coil Charger">Nabíječka Lithiových Cívek</string>
   <string name="Lithium Coil Charger_DESC">Obohatí 5 ks Lithiových Cívek pomocí 100 Energie. Využívá se pro nabíjení SpiderBota a jako Výrobní předmět.</string>
@@ -1747,12 +1748,12 @@ Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte
   <string name="MagmaBore Component">Magmatický Vrt: Komponent</string>
   <string name="Particle Filter">Částicový Filtr</string>
   <string name="Induction Charger">Indukční Nabíječka</string>
-  <string name="Induction Charger_DESC">Irelevnatní</string>
+  <string name="Induction Charger_DESC">Irelevantní.</string>
   <string name="Ore Thief_DESC">Irelevantní.</string>
   <string name="Garbage Thief_DESC">Irelevantní.</string>
   <string name="Bar Keeper_DESC">Irelevantní.</string>
-  <string name="Rack Rail">Ozubnicová Kolej</string>
-  <string name="Rack Rail_DESC">...</string>
+  <string name="Rack Rail">Ozubená Dráha</string>
+  <string name="Rack Rail_DESC">Pohybují se po ní výtahy.</string>
   <string name="SpiderBotBase_DESC">Irelevantní</string>
   <string name="T4 Power Conduit_DESC">Irelevantní</string>
   <string name="Single-Use Hard Rock Grinder_DESC">Irelevantní.</string>
@@ -1770,7 +1771,7 @@ Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte
   <string name="Trencher Drill component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
   <string name="Trencher Drill Mk2 component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
   <string name="Trencher Drill Mk3 component_CRAFT_HINT">Efektivita je závislá na připojení k rudné žíle</string>
-  <string name="Hint_20">Zásobujte Ovladač Nákladního Výtahu Ozubnicovými kolejemi aby jste mu umožnili sestup dolů.</string>
+  <string name="Hint_20">Zásobujte Dispečer Nákladního Výtahu Ozubenými Kolejnicemi aby jste mu umožnili sestup více dolů</string>
   <string name="Rack_Rail_storage_X">Ozubnicové Koleje zásoba: {0}</string>
   <string name="Waiting_for_Rack_Rail">Čekám na Ozubnicové Koleje</string>
   <string name="Controller_no_Rack_Rail_place">Ovladač nemá Ozubnicové Koleje k umístění</string>
@@ -1788,12 +1789,12 @@ Umožňuje shromažďovat minimální množství Chromu nebo Molybdenu. Sestavte
   <string name="Magma Storage">Skladiště Magmatu</string>
   <string name="Magma Storage_DESC">Příjmá tekuté Magma od odpovídajících strojů skrze potrubí.</string>
   <string name="Garbage Thief">Zloděj Odpadu</string>
-  <string name="Laser Borer">Laserová vrtačka</string>
-  <string name="Laser Borer_DESC">Laserová Vrtačka s pohonem na Vysokoenergetické kompozitní palivo. Rychle vytvoří otvor 3x3 do středu Ledových Jeskyní. Postavte ve tvaru 3x3x3.</string>
+  <string name="Laser Borer">Laserový Vrták</string>
+  <string name="Laser Borer_DESC">HEFC-poháněné Laserovým Vrtacím zařízením. Rychle vytvoří otvor 3x3 dolů do středu Ledových Jeskyní. Postavte ve tvaru 3x3x3.</string>
   <string name="Fuel Compressor">Palivový Kompresor</string>
   <string name="Fuel Compressor_DESC">Komprese uhlíkových částic s vysokoenergetickým kompozitním palivem vytváří extrémně těkavý a energeticky bohatý zdroj paliva.</string>
-  <string name="CargoLiftController">Nákladní Výtah:Ovladač</string>
-  <string name="CargoLiftController_DESC">...</string>
+  <string name="CargoLiftController">OvladačNákladníhoVýtahu</string>
+  <string name="CargoLiftController_DESC">Umožní ovládání nákladního výtahu</string>
   <string name="Construction Paste">Konstrukční Pasta</string>
   <string name="Construction Paste_DESC">...</string>
   <string name="FALCOR MK1">FALCOR MK1</string>
@@ -1806,11 +1807,11 @@ Potřebuje připojený Skladovací Zásobník.</string>
   <string name="Gas Bottler">Plnička Tlakových Lahví</string>
   <string name="Bar Keeper">Strážce Ingotů</string>
   <string name="High Orbital Debris Object Reclaimer">Přitahovač Objektů z Vysoké Orbity</string>
-  <string name="High Orbital Debris Object Reclaimer_DESC">Pomocí raket sestřeluje orbitální trosky na povrch planety. Sestavte ve tvaru 3x1x3.</string>
-  <string name="Mass Storage IO Port">Velkokapacitní Výstupní - Výstupní Port</string>
-  <string name="Mass Storage IO Port_DESC">Vstupní - Výstupní port s vysokou propustností pro Velkokapacitní sklad</string>
+  <string name="High Orbital Debris Object Reclaimer_DESC">Umožňuje odpálení rakety k sestřelení orbitálních trosek dolu na povrch. Sestavte v 3x1x3 konfiguraci.</string>
+  <string name="Mass Storage IO Port">VV Port Velkokapacitního Skladiště</string>
+  <string name="Mass Storage IO Port_DESC">VV port s vysokou propustností pro Velkokapacitní sklad</string>
   <string name="Basic Mass Storage Stocking Port">Základní Velkokapacitní Skladovací Port</string>
-  <string name="Basic Mass Storage Stocking Port_DESC">...</string>
+  <string name="Basic Mass Storage Stocking Port_DESC">Umožňuje vkládání a vykládání předmětů z Vysokokapacitních Skladišť</string>
   <string name="Mass Storage Stocking Port">Velkokapacitní Skladovací Port</string>
   <string name="Mass Storage Stocking Port_DESC">...</string>
   <string name="Bulk Mass Storage Stocking Port">Nákladní Velkokapacitní Skladovací Port</string>
@@ -1856,4 +1857,30 @@ Potřebuje připojený Skladovací Zásobník.</string>
   <string name="Set_Mass_Storage_Name">Nastavte jméno Velkokapacitního skladu</string>
   <string name="Connect_Station_to_Mass_Storage">Připojte Stanici k Velkokapacitnímu skladu</string>
   <string name="Viewing_inventory_of_mass_storage">"Prohlížení inventáře Velkokapacitního Skladu: "</string>
+  <string name="Auto Organic Thief">Auto Zloděj Organické Hmoty</string>
+  <string name="Primary PCB_CRAFT_DESC">Cínové cívky jsou přeměněny do Základních PCBček využívaných k výrobě.</string>
+  <string name="Charged PCB_CRAFT_DESC">lithiové cihly jsou extrudovány do lithiových trubek použitelných pro výrobu.</string>
+  <string name="Fortified PCB_CRAFT_DESC">Niklové cihly jsou extrudovány do Niklových trubek použitelných pro výrobu.</string>
+  <string name="Copper Pipe_CRAFT_DESC">Měděné cihly jsou extrudovány do Měděných trubek použitelných pro výrobu.</string>
+  <string name="Iron Pipe_CRAFT_DESC">Železné cihly jsou extrudovány do Železných trubek použitelných pro výrobu.</string>
+  <string name="Lithium Pipe_CRAFT_HINT">Lithiové Trubky</string>
+  <string name="Gold Pipe_CRAFT_DESC">Zlaté cihly jsou extrudovány do Zlatých trubek použitelných pro výrobu.</string>
+  <string name="Gold Pipe_CRAFT_HINT">Zlaté Trubky</string>
+  <string name="Nickel Pipe_CRAFT_DESC">Niklové cihly jsou extrudovány do Niklových trubek použitelných pro výrobu.</string>
+  <string name="Nickel Pipe_CRAFT_HINT">Niklová Trubka</string>
+  <string name="Titanium Pipe_CRAFT_DESC">Titanové cihly jsou extrudovány do Titanových trubek použitelných pro výrobu.</string>
+  <string name="Titanium Pipe_CRAFT_HINT">Titanová Trubka</string>
+  <string name="Plastic Pellet_CRAFT_DESC">Surový plast ve formě pelet vhodný pro výrobu.</string>
+  <string name="Plastic Pellet_CRAFT_HINT">Plastová peleta</string>
+  <string name="High Energy Composite Fuel_CRAFT_DESC">Pevné palivo obsahuje oxidační činidlo. Vysoce těkavé. Použitelné jako palivo proudové turbíny nebo pro malé rakety.</string>
+  <string name="High Energy Composite Fuel_CRAFT_HINT">Kompozitní palivo s vysokou výhřevností.</string>
+  <string name="Simplified Experimental Pod_CRAFT_DESC">Cínové pláty a hlavní PCBčka jsou sestavovány do Jednoduchých Experimentálních Kapslích používaných ve výzkumných projektech.</string>
+  <string name="Charged Experimental Pod_CRAFT_DESC">Lithiové pláty a Nabité PCBčka jsou sestavovány do Komplexních Experimentálních Kapslích používaných ve výzkumných projektech.</string>
+  <string name="EXTERNAL TEMP">OKOLNÍ TEPLOTA</string>
+  <string name="HEALTH POINTS">BODY ZDRAVÍ</string>
+  <string name="SUIT INTERNAL TEMP">VNITŘNÍ TEPLOTA OBLEKU</string>
+  <string name="BATTERY USE RATE">ČERPÁNÍ BATERIE</string>
+  <string name="World Settings">Nastavení Světa</string>
+  <string name="PTGs">PTGčka</string>
+  <string name="Heating">Nahřívá se</string>
   </resources>
