@@ -5109,4 +5109,5 @@
   <string name="CryoMap">Криокарта</string>
   <string name="CryoMap_DESC">Показывает карту в реальном времени для анализа и планирования обороны. Площадка 3х3</string>
   <string name="CryoMap_CRAFT_DESC">Показывает карту в реальном времени для анализа и планирования обороны. Площадка 3х3</string>
-  </resources>
+  <string name="Basic Manufacturing Plant_CRAFT_HINT">Нельзя создать вручную.</string>
+</resources>
