@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Language_Name">Engelska</string>
+  <string name="Language_Name">Svenska</string>
 <string name="Translation_Incomplete">Översättning inkomplett!</string>
-    <string name="Dapper_Pack">Dapper Paket</string>
+    <string name="Dapper_Pack">Dapper-Paket</string>
     <string name="Quit_Sign">Avsluta</string>
     <string name="Create_World">Skapa Värld</string>
     <string name="Spacebar">Mellanslag</string>
@@ -36,8 +36,8 @@
 
     <string name="None">Ingen</string>
     <string name="GlassBlock">GlasBlock</string>
-    <string name="Partial_Language_Support">Välkommen! Ditt språk är inte komplett. Om du vill ha det på Engelska , Klicka då på \"English\" nedanför!</string>
-    <string name="Skin_Pack">Skin Paket</string>
+    <string name="Partial_Language_Support">Välkommen! Ditt språk är inte komplett. Om du vill ha det på Engelska , Klicka då på \'Default\' nedanför!</string>
+    <string name="Skin_Pack">Skin-Paket</string>
     <string name="Multiplayer_Sign">&lt;Flerspelare</string>
     <string name="Power_Level">Kraftnivå</string>
     <string name="Mob_Difficulty">Monsters Svårighetsgrad</string>
@@ -51,7 +51,7 @@
     <string name="Mutators">Mutatorer</string>
 
     <string name="Creative_New">Kreativt Läge ger dig en oändlig förmåga att bygga vad som helst, hög-upplösnings detaljblock, omfattande världredigeringsverktyg, schema, ritningar och kopiera-klistra system. Den innehåller inte de flesta överlevnadselementen och bör inte betraktas som ett \"fuskläge\" för Överlevnadsläget!</string>
-    <string name="Creative_Info">Detta är en befintlig Kreativ Värld, men tyvärr har jag egentligen inte cool statistik att visa här. Vill du ha en bild av en katt istället?</string>
+    <string name="Creative_Info">Detta är en befintlig Kreativ Värld, men tyvärr har jag egentligen ingen cool statistik att visa här. Vill du ha en bild av en katt istället?</string>
 
     <string name="Mod_Management">Mod Hantering</string>
     <string name="Mod_Name">Mod Namn</string>
@@ -275,4 +275,5 @@
   <string name="Scarce">Sällsynt</string>
   <string name="Greg">Greg</string>
   <string name="Rapid">Snabb</string>
+  <string name="Iron Man">Iron Man</string>
   </resources>
